@@ -1,0 +1,467 @@
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| 1    | Chansey / Slowbro-Galar           |    2 |  25.00% | 100.00% |
+| 1    | Chansey / Scizor                  |    2 |  25.00% | 100.00% |
+| 1    | Slowbro-Galar / Scizor            |    2 |  25.00% | 100.00% |
+| 1    | Skarmory / Hippowdon              |    2 |  25.00% |  50.00% |
+| 1    | Nihilego / Diggersby              |    2 |  25.00% |  50.00% |
+| 1    | Tangrowth / Diggersby             |    2 |  25.00% |   0.00% |
+| 1    | Tangrowth / Cobalion              |    2 |  25.00% |   0.00% |
+| 8    | Crobat / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 8    | Nidoqueen / Celesteela            |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Nidoqueen             |    1 |  12.50% | 100.00% |
+| 8    | Hydreigon / Nidoqueen             |    1 |  12.50% | 100.00% |
+| 8    | Keldeo / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Celesteela               |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Tapu Bulu                |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Hydreigon                |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Keldeo                   |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Celesteela            |    1 |  12.50% | 100.00% |
+| 8    | Hydreigon / Celesteela            |    1 |  12.50% | 100.00% |
+| 8    | Keldeo / Celesteela               |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Hydreigon             |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Keldeo                |    1 |  12.50% | 100.00% |
+| 8    | Keldeo / Hydreigon                |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Chansey               |    1 |  12.50% | 100.00% |
+| 8    | Skarmory / Chansey                |    1 |  12.50% | 100.00% |
+| 8    | Hippowdon / Chansey               |    1 |  12.50% | 100.00% |
+| 8    | Chansey / Cofagrigus              |    1 |  12.50% | 100.00% |
+| 8    | Tentacruel / Chansey              |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Skarmory              |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Hippowdon             |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Cofagrigus            |    1 |  12.50% | 100.00% |
+| 8    | Tapu Bulu / Tentacruel            |    1 |  12.50% | 100.00% |
+| 8    | Skarmory / Cofagrigus             |    1 |  12.50% | 100.00% |
+| 8    | Tentacruel / Skarmory             |    1 |  12.50% | 100.00% |
+| 8    | Hippowdon / Cofagrigus            |    1 |  12.50% | 100.00% |
+| 8    | Tentacruel / Hippowdon            |    1 |  12.50% | 100.00% |
+| 8    | Tentacruel / Cofagrigus           |    1 |  12.50% | 100.00% |
+| 8    | Mandibuzz / Chansey               |    1 |  12.50% | 100.00% |
+| 8    | Chansey / Diggersby               |    1 |  12.50% | 100.00% |
+| 8    | Nihilego / Chansey                |    1 |  12.50% | 100.00% |
+| 8    | Mandibuzz / Slowbro-Galar         |    1 |  12.50% | 100.00% |
+| 8    | Mandibuzz / Diggersby             |    1 |  12.50% | 100.00% |
+| 8    | Mandibuzz / Scizor                |    1 |  12.50% | 100.00% |
+| 8    | Mandibuzz / Nihilego              |    1 |  12.50% | 100.00% |
+| 8    | Slowbro-Galar / Diggersby         |    1 |  12.50% | 100.00% |
+| 8    | Nihilego / Slowbro-Galar          |    1 |  12.50% | 100.00% |
+| 8    | Diggersby / Scizor                |    1 |  12.50% | 100.00% |
+| 8    | Nihilego / Scizor                 |    1 |  12.50% | 100.00% |
+| 8    | Zygarde-10% / Chansey             |    1 |  12.50% | 100.00% |
+| 8    | Zygarde-10% / Thundurus-Therian   |    1 |  12.50% | 100.00% |
+| 8    | Zygarde-10% / Slowbro-Galar       |    1 |  12.50% | 100.00% |
+| 8    | Zygarde-10% / Salamence           |    1 |  12.50% | 100.00% |
+| 8    | Zygarde-10% / Scizor              |    1 |  12.50% | 100.00% |
+| 8    | Chansey / Thundurus-Therian       |    1 |  12.50% | 100.00% |
+| 8    | Chansey / Salamence               |    1 |  12.50% | 100.00% |
+| 8    | Slowbro-Galar / Thundurus-Therian |    1 |  12.50% | 100.00% |
+| 8    | Salamence / Thundurus-Therian     |    1 |  12.50% | 100.00% |
+| 8    | Thundurus-Therian / Scizor        |    1 |  12.50% | 100.00% |
+| 8    | Slowbro-Galar / Salamence         |    1 |  12.50% | 100.00% |
+| 8    | Salamence / Scizor                |    1 |  12.50% | 100.00% |
+| 8    | Rotom-Wash / Hippowdon            |    1 |  12.50% |   0.00% |
+| 8    | Hydreigon / Hippowdon             |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc-Dusk / Hippowdon         |    1 |  12.50% |   0.00% |
+| 8    | Dhelmise / Hippowdon              |    1 |  12.50% |   0.00% |
+| 8    | Rotom-Wash / Skarmory             |    1 |  12.50% |   0.00% |
+| 8    | Rotom-Wash / Hydreigon            |    1 |  12.50% |   0.00% |
+| 8    | Rotom-Wash / Lycanroc-Dusk        |    1 |  12.50% |   0.00% |
+| 8    | Dhelmise / Rotom-Wash             |    1 |  12.50% |   0.00% |
+| 8    | Hydreigon / Skarmory              |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc-Dusk / Skarmory          |    1 |  12.50% |   0.00% |
+| 8    | Dhelmise / Skarmory               |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc-Dusk / Hydreigon         |    1 |  12.50% |   0.00% |
+| 8    | Dhelmise / Hydreigon              |    1 |  12.50% |   0.00% |
+| 8    | Dhelmise / Lycanroc-Dusk          |    1 |  12.50% |   0.00% |
+| 8    | Diggersby / Salamence             |    1 |  12.50% |   0.00% |
+| 8    | Diggersby / Cobalion              |    1 |  12.50% |   0.00% |
+| 8    | Diggersby / Nidoqueen             |    1 |  12.50% |   0.00% |
+| 8    | Diggersby / Primarina             |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Salamence             |    1 |  12.50% |   0.00% |
+| 8    | Cobalion / Salamence              |    1 |  12.50% |   0.00% |
+| 8    | Nidoqueen / Salamence             |    1 |  12.50% |   0.00% |
+| 8    | Salamence / Primarina             |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Nidoqueen             |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Primarina             |    1 |  12.50% |   0.00% |
+| 8    | Nidoqueen / Cobalion              |    1 |  12.50% |   0.00% |
+| 8    | Cobalion / Primarina              |    1 |  12.50% |   0.00% |
+| 8    | Nidoqueen / Primarina             |    1 |  12.50% |   0.00% |
+| 8    | Azelf / Cobalion                  |    1 |  12.50% |   0.00% |
+| 8    | Cobalion / Scizor                 |    1 |  12.50% |   0.00% |
+| 8    | Zarude / Cobalion                 |    1 |  12.50% |   0.00% |
+| 8    | Cobalion / Slowking               |    1 |  12.50% |   0.00% |
+| 8    | Azelf / Scizor                    |    1 |  12.50% |   0.00% |
+| 8    | Azelf / Zarude                    |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Azelf                 |    1 |  12.50% |   0.00% |
+| 8    | Azelf / Slowking                  |    1 |  12.50% |   0.00% |
+| 8    | Zarude / Scizor                   |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Scizor                |    1 |  12.50% |   0.00% |
+| 8    | Slowking / Scizor                 |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Zarude                |    1 |  12.50% |   0.00% |
+| 8    | Zarude / Slowking                 |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Slowking              |    1 |  12.50% |   0.00% |
+| 8    | Keldeo / Diggersby                |    1 |  12.50% |   0.00% |
+| 8    | Diggersby / Necrozma              |    1 |  12.50% |   0.00% |
+| 8    | Skarmory / Diggersby              |    1 |  12.50% |   0.00% |
+| 8    | Keldeo / Necrozma                 |    1 |  12.50% |   0.00% |
+| 8    | Nihilego / Keldeo                 |    1 |  12.50% |   0.00% |
+| 8    | Keldeo / Skarmory                 |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Keldeo                |    1 |  12.50% |   0.00% |
+| 8    | Nihilego / Necrozma               |    1 |  12.50% |   0.00% |
+| 8    | Skarmory / Necrozma               |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Necrozma              |    1 |  12.50% |   0.00% |
+| 8    | Nihilego / Skarmory               |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Nihilego              |    1 |  12.50% |   0.00% |
+| 8    | Tangrowth / Skarmory              |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Chansey / Slowbro-Galar / Scizor                |    2 |  25.00% | 100.00% |
+| 2    | Crobat / Nidoqueen / Celesteela                 |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Tapu Bulu / Nidoqueen                  |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Hydreigon / Nidoqueen                  |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Keldeo / Nidoqueen                     |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Nidoqueen / Celesteela              |    1 |  12.50% | 100.00% |
+| 2    | Hydreigon / Nidoqueen / Celesteela              |    1 |  12.50% | 100.00% |
+| 2    | Keldeo / Nidoqueen / Celesteela                 |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Hydreigon / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Keldeo / Nidoqueen                  |    1 |  12.50% | 100.00% |
+| 2    | Keldeo / Hydreigon / Nidoqueen                  |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Tapu Bulu / Celesteela                 |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Hydreigon / Celesteela                 |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Keldeo / Celesteela                    |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Tapu Bulu / Hydreigon                  |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Tapu Bulu / Keldeo                     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Hydreigon / Keldeo                     |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Hydreigon / Celesteela              |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Keldeo / Celesteela                 |    1 |  12.50% | 100.00% |
+| 2    | Keldeo / Hydreigon / Celesteela                 |    1 |  12.50% | 100.00% |
+| 2    | Keldeo / Tapu Bulu / Hydreigon                  |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Skarmory / Chansey                  |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Hippowdon / Chansey                 |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Chansey / Cofagrigus                |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Tentacruel / Chansey                |    1 |  12.50% | 100.00% |
+| 2    | Hippowdon / Skarmory / Chansey                  |    1 |  12.50% | 100.00% |
+| 2    | Skarmory / Chansey / Cofagrigus                 |    1 |  12.50% | 100.00% |
+| 2    | Tentacruel / Skarmory / Chansey                 |    1 |  12.50% | 100.00% |
+| 2    | Hippowdon / Chansey / Cofagrigus                |    1 |  12.50% | 100.00% |
+| 2    | Tentacruel / Hippowdon / Chansey                |    1 |  12.50% | 100.00% |
+| 2    | Tentacruel / Chansey / Cofagrigus               |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Hippowdon / Skarmory                |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Skarmory / Cofagrigus               |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Tentacruel / Skarmory               |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Hippowdon / Cofagrigus              |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Tentacruel / Hippowdon              |    1 |  12.50% | 100.00% |
+| 2    | Tapu Bulu / Tentacruel / Cofagrigus             |    1 |  12.50% | 100.00% |
+| 2    | Hippowdon / Skarmory / Cofagrigus               |    1 |  12.50% | 100.00% |
+| 2    | Tentacruel / Hippowdon / Skarmory               |    1 |  12.50% | 100.00% |
+| 2    | Tentacruel / Skarmory / Cofagrigus              |    1 |  12.50% | 100.00% |
+| 2    | Tentacruel / Hippowdon / Cofagrigus             |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Chansey / Slowbro-Galar             |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Chansey / Diggersby                 |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Chansey / Scizor                    |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Nihilego / Chansey                  |    1 |  12.50% | 100.00% |
+| 2    | Chansey / Slowbro-Galar / Diggersby             |    1 |  12.50% | 100.00% |
+| 2    | Nihilego / Chansey / Slowbro-Galar              |    1 |  12.50% | 100.00% |
+| 2    | Scizor / Chansey / Diggersby                    |    1 |  12.50% | 100.00% |
+| 2    | Nihilego / Chansey / Diggersby                  |    1 |  12.50% | 100.00% |
+| 2    | Nihilego / Chansey / Scizor                     |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Slowbro-Galar / Diggersby           |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Slowbro-Galar / Scizor              |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Nihilego / Slowbro-Galar            |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Diggersby / Scizor                  |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Nihilego / Diggersby                |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Nihilego / Scizor                   |    1 |  12.50% | 100.00% |
+| 2    | Scizor / Slowbro-Galar / Diggersby              |    1 |  12.50% | 100.00% |
+| 2    | Nihilego / Slowbro-Galar / Diggersby            |    1 |  12.50% | 100.00% |
+| 2    | Nihilego / Slowbro-Galar / Scizor               |    1 |  12.50% | 100.00% |
+| 2    | Nihilego / Diggersby / Scizor                   |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Chansey / Thundurus-Therian       |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Chansey / Slowbro-Galar           |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Chansey / Salamence               |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Chansey / Scizor                  |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Slowbro-Galar / Thundurus-Therian |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Salamence / Thundurus-Therian     |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Thundurus-Therian / Scizor        |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Slowbro-Galar / Salamence         |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Slowbro-Galar / Scizor            |    1 |  12.50% | 100.00% |
+| 2    | Zygarde-10% / Salamence / Scizor                |    1 |  12.50% | 100.00% |
+| 2    | Slowbro-Galar / Chansey / Thundurus-Therian     |    1 |  12.50% | 100.00% |
+| 2    | Salamence / Chansey / Thundurus-Therian         |    1 |  12.50% | 100.00% |
+| 2    | Chansey / Thundurus-Therian / Scizor            |    1 |  12.50% | 100.00% |
+| 2    | Salamence / Chansey / Slowbro-Galar             |    1 |  12.50% | 100.00% |
+| 2    | Chansey / Salamence / Scizor                    |    1 |  12.50% | 100.00% |
+| 2    | Salamence / Slowbro-Galar / Thundurus-Therian   |    1 |  12.50% | 100.00% |
+| 2    | Slowbro-Galar / Thundurus-Therian / Scizor      |    1 |  12.50% | 100.00% |
+| 2    | Salamence / Thundurus-Therian / Scizor          |    1 |  12.50% | 100.00% |
+| 2    | Slowbro-Galar / Salamence / Scizor              |    1 |  12.50% | 100.00% |
+| 2    | Rotom-Wash / Skarmory / Hippowdon               |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Hydreigon / Hippowdon              |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Lycanroc-Dusk / Hippowdon          |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Rotom-Wash / Hippowdon               |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Hippowdon / Hydreigon                |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc-Dusk / Skarmory / Hippowdon            |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Skarmory / Hippowdon                 |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc-Dusk / Hydreigon / Hippowdon           |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Hydreigon / Hippowdon                |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Lycanroc-Dusk / Hippowdon            |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Hydreigon / Skarmory               |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Lycanroc-Dusk / Skarmory           |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Rotom-Wash / Skarmory                |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc-Dusk / Rotom-Wash / Hydreigon          |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Rotom-Wash / Hydreigon               |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Rotom-Wash / Lycanroc-Dusk           |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc-Dusk / Hydreigon / Skarmory            |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Hydreigon / Skarmory                 |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Lycanroc-Dusk / Skarmory             |    1 |  12.50% |   0.00% |
+| 2    | Dhelmise / Lycanroc-Dusk / Hydreigon            |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Diggersby / Salamence               |    1 |  12.50% |   0.00% |
+| 2    | Cobalion / Diggersby / Salamence                |    1 |  12.50% |   0.00% |
+| 2    | Nidoqueen / Diggersby / Salamence               |    1 |  12.50% |   0.00% |
+| 2    | Diggersby / Salamence / Primarina               |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Diggersby / Cobalion                |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Diggersby / Nidoqueen               |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Diggersby / Primarina               |    1 |  12.50% |   0.00% |
+| 2    | Nidoqueen / Diggersby / Cobalion                |    1 |  12.50% |   0.00% |
+| 2    | Diggersby / Cobalion / Primarina                |    1 |  12.50% |   0.00% |
+| 2    | Diggersby / Nidoqueen / Primarina               |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Cobalion / Salamence                |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Nidoqueen / Salamence               |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Salamence / Primarina               |    1 |  12.50% |   0.00% |
+| 2    | Cobalion / Nidoqueen / Salamence                |    1 |  12.50% |   0.00% |
+| 2    | Cobalion / Salamence / Primarina                |    1 |  12.50% |   0.00% |
+| 2    | Nidoqueen / Salamence / Primarina               |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Nidoqueen / Cobalion                |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Cobalion / Primarina                |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Nidoqueen / Primarina               |    1 |  12.50% |   0.00% |
+| 2    | Nidoqueen / Cobalion / Primarina                |    1 |  12.50% |   0.00% |
+| 2    | Azelf / Cobalion / Scizor                       |    1 |  12.50% |   0.00% |
+| 2    | Zarude / Azelf / Cobalion                       |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Azelf / Cobalion                    |    1 |  12.50% |   0.00% |
+| 2    | Azelf / Cobalion / Slowking                     |    1 |  12.50% |   0.00% |
+| 2    | Zarude / Cobalion / Scizor                      |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Cobalion / Scizor                   |    1 |  12.50% |   0.00% |
+| 2    | Slowking / Cobalion / Scizor                    |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Zarude / Cobalion                   |    1 |  12.50% |   0.00% |
+| 2    | Zarude / Cobalion / Slowking                    |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Cobalion / Slowking                 |    1 |  12.50% |   0.00% |
+| 2    | Azelf / Zarude / Scizor                         |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Azelf / Scizor                      |    1 |  12.50% |   0.00% |
+| 2    | Slowking / Azelf / Scizor                       |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Azelf / Zarude                      |    1 |  12.50% |   0.00% |
+| 2    | Azelf / Zarude / Slowking                       |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Azelf / Slowking                    |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Zarude / Scizor                     |    1 |  12.50% |   0.00% |
+| 2    | Slowking / Zarude / Scizor                      |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Slowking / Scizor                   |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Zarude / Slowking                   |    1 |  12.50% |   0.00% |
+| 2    | Keldeo / Diggersby / Necrozma                   |    1 |  12.50% |   0.00% |
+| 2    | Nihilego / Keldeo / Diggersby                   |    1 |  12.50% |   0.00% |
+| 2    | Keldeo / Diggersby / Skarmory                   |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Keldeo / Diggersby                  |    1 |  12.50% |   0.00% |
+| 2    | Nihilego / Diggersby / Necrozma                 |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Diggersby / Necrozma                 |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Diggersby / Necrozma                |    1 |  12.50% |   0.00% |
+| 2    | Nihilego / Skarmory / Diggersby                 |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Nihilego / Diggersby                |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Skarmory / Diggersby                |    1 |  12.50% |   0.00% |
+| 2    | Nihilego / Keldeo / Necrozma                    |    1 |  12.50% |   0.00% |
+| 2    | Keldeo / Skarmory / Necrozma                    |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Keldeo / Necrozma                   |    1 |  12.50% |   0.00% |
+| 2    | Nihilego / Keldeo / Skarmory                    |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Nihilego / Keldeo                   |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Keldeo / Skarmory                   |    1 |  12.50% |   0.00% |
+| 2    | Nihilego / Skarmory / Necrozma                  |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Nihilego / Necrozma                 |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Skarmory / Necrozma                 |    1 |  12.50% |   0.00% |
+| 2    | Tangrowth / Nihilego / Skarmory                 |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                 | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Tapu Bulu / Nidoqueen / Celesteela                 |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Hydreigon / Nidoqueen / Celesteela                 |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Keldeo / Nidoqueen / Celesteela                    |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tapu Bulu / Hydreigon / Nidoqueen                  |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tapu Bulu / Keldeo / Nidoqueen                     |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Keldeo / Hydreigon / Nidoqueen                     |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Hydreigon / Nidoqueen / Celesteela              |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Keldeo / Nidoqueen / Celesteela                 |    1 |  12.50% | 100.00% |
+| 1    | Keldeo / Hydreigon / Nidoqueen / Celesteela                 |    1 |  12.50% | 100.00% |
+| 1    | Keldeo / Tapu Bulu / Hydreigon / Nidoqueen                  |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tapu Bulu / Hydreigon / Celesteela                 |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tapu Bulu / Keldeo / Celesteela                    |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Hydreigon / Keldeo / Celesteela                    |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tapu Bulu / Hydreigon / Keldeo                     |    1 |  12.50% | 100.00% |
+| 1    | Keldeo / Tapu Bulu / Hydreigon / Celesteela                 |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Tapu Bulu / Skarmory / Chansey                  |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Skarmory / Chansey / Cofagrigus                 |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Tentacruel / Skarmory / Chansey                 |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Hippowdon / Chansey / Cofagrigus                |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Tentacruel / Hippowdon / Chansey                |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Tentacruel / Chansey / Cofagrigus               |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Skarmory / Chansey / Cofagrigus                 |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Tentacruel / Skarmory / Chansey                 |    1 |  12.50% | 100.00% |
+| 1    | Tentacruel / Skarmory / Chansey / Cofagrigus                |    1 |  12.50% | 100.00% |
+| 1    | Tentacruel / Hippowdon / Chansey / Cofagrigus               |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Hippowdon / Skarmory / Cofagrigus               |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Tentacruel / Hippowdon / Skarmory               |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Tentacruel / Skarmory / Cofagrigus              |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Tentacruel / Hippowdon / Cofagrigus             |    1 |  12.50% | 100.00% |
+| 1    | Tentacruel / Hippowdon / Skarmory / Cofagrigus              |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Chansey / Slowbro-Galar / Diggersby             |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Chansey / Slowbro-Galar / Scizor                |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Nihilego / Chansey / Slowbro-Galar              |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Chansey / Scizor / Diggersby                    |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Nihilego / Chansey / Diggersby                  |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Nihilego / Chansey / Scizor                     |    1 |  12.50% | 100.00% |
+| 1    | Scizor / Chansey / Slowbro-Galar / Diggersby                |    1 |  12.50% | 100.00% |
+| 1    | Nihilego / Chansey / Slowbro-Galar / Diggersby              |    1 |  12.50% | 100.00% |
+| 1    | Nihilego / Chansey / Slowbro-Galar / Scizor                 |    1 |  12.50% | 100.00% |
+| 1    | Scizor / Nihilego / Chansey / Diggersby                     |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Slowbro-Galar / Scizor / Diggersby              |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Nihilego / Slowbro-Galar / Diggersby            |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Nihilego / Slowbro-Galar / Scizor               |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Nihilego / Diggersby / Scizor                   |    1 |  12.50% | 100.00% |
+| 1    | Scizor / Nihilego / Slowbro-Galar / Diggersby               |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Zygarde-10% / Chansey / Thundurus-Therian   |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Salamence / Chansey / Thundurus-Therian       |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Chansey / Thundurus-Therian / Scizor          |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Salamence / Chansey / Slowbro-Galar           |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Chansey / Slowbro-Galar / Scizor              |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Chansey / Salamence / Scizor                  |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Salamence / Slowbro-Galar / Thundurus-Therian |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Slowbro-Galar / Thundurus-Therian / Scizor    |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Salamence / Thundurus-Therian / Scizor        |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Slowbro-Galar / Salamence / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Salamence / Chansey / Thundurus-Therian     |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Chansey / Thundurus-Therian / Scizor        |    1 |  12.50% | 100.00% |
+| 1    | Salamence / Chansey / Thundurus-Therian / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Salamence / Chansey / Slowbro-Galar / Scizor                |    1 |  12.50% | 100.00% |
+| 1    | Salamence / Slowbro-Galar / Thundurus-Therian / Scizor      |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Skarmory / Hippowdon / Hydreigon               |    1 |  12.50% |   0.00% |
+| 1    | Lycanroc-Dusk / Rotom-Wash / Skarmory / Hippowdon           |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Rotom-Wash / Skarmory / Hippowdon                |    1 |  12.50% |   0.00% |
+| 1    | Lycanroc-Dusk / Rotom-Wash / Hydreigon / Hippowdon          |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Rotom-Wash / Hydreigon / Hippowdon               |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Rotom-Wash / Lycanroc-Dusk / Hippowdon           |    1 |  12.50% |   0.00% |
+| 1    | Lycanroc-Dusk / Skarmory / Hippowdon / Hydreigon            |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Skarmory / Hippowdon / Hydreigon                 |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Lycanroc-Dusk / Skarmory / Hippowdon             |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Lycanroc-Dusk / Hydreigon / Hippowdon            |    1 |  12.50% |   0.00% |
+| 1    | Lycanroc-Dusk / Rotom-Wash / Hydreigon / Skarmory           |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Rotom-Wash / Hydreigon / Skarmory                |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Rotom-Wash / Lycanroc-Dusk / Skarmory            |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Lycanroc-Dusk / Rotom-Wash / Hydreigon           |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Lycanroc-Dusk / Hydreigon / Skarmory             |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Cobalion / Diggersby / Salamence                |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nidoqueen / Diggersby / Salamence               |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Diggersby / Salamence / Primarina               |    1 |  12.50% |   0.00% |
+| 1    | Nidoqueen / Cobalion / Diggersby / Salamence                |    1 |  12.50% |   0.00% |
+| 1    | Cobalion / Diggersby / Salamence / Primarina                |    1 |  12.50% |   0.00% |
+| 1    | Nidoqueen / Diggersby / Salamence / Primarina               |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nidoqueen / Diggersby / Cobalion                |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Diggersby / Cobalion / Primarina                |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Diggersby / Nidoqueen / Primarina               |    1 |  12.50% |   0.00% |
+| 1    | Nidoqueen / Diggersby / Cobalion / Primarina                |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Cobalion / Nidoqueen / Salamence                |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Cobalion / Salamence / Primarina                |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nidoqueen / Salamence / Primarina               |    1 |  12.50% |   0.00% |
+| 1    | Cobalion / Nidoqueen / Salamence / Primarina                |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nidoqueen / Cobalion / Primarina                |    1 |  12.50% |   0.00% |
+| 1    | Zarude / Azelf / Cobalion / Scizor                          |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Azelf / Cobalion / Scizor                       |    1 |  12.50% |   0.00% |
+| 1    | Slowking / Azelf / Cobalion / Scizor                        |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Zarude / Azelf / Cobalion                       |    1 |  12.50% |   0.00% |
+| 1    | Zarude / Azelf / Cobalion / Slowking                        |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Azelf / Cobalion / Slowking                     |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Zarude / Cobalion / Scizor                      |    1 |  12.50% |   0.00% |
+| 1    | Zarude / Slowking / Cobalion / Scizor                       |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Slowking / Cobalion / Scizor                    |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Zarude / Cobalion / Slowking                    |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Azelf / Zarude / Scizor                         |    1 |  12.50% |   0.00% |
+| 1    | Slowking / Azelf / Zarude / Scizor                          |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Slowking / Azelf / Scizor                       |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Azelf / Zarude / Slowking                       |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Slowking / Zarude / Scizor                      |    1 |  12.50% |   0.00% |
+| 1    | Nihilego / Keldeo / Diggersby / Necrozma                    |    1 |  12.50% |   0.00% |
+| 1    | Keldeo / Diggersby / Skarmory / Necrozma                    |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Keldeo / Diggersby / Necrozma                   |    1 |  12.50% |   0.00% |
+| 1    | Nihilego / Keldeo / Diggersby / Skarmory                    |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nihilego / Keldeo / Diggersby                   |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Keldeo / Diggersby / Skarmory                   |    1 |  12.50% |   0.00% |
+| 1    | Nihilego / Skarmory / Diggersby / Necrozma                  |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nihilego / Diggersby / Necrozma                 |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Skarmory / Diggersby / Necrozma                 |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nihilego / Skarmory / Diggersby                 |    1 |  12.50% |   0.00% |
+| 1    | Nihilego / Keldeo / Skarmory / Necrozma                     |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nihilego / Keldeo / Necrozma                    |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Keldeo / Skarmory / Necrozma                    |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nihilego / Keldeo / Skarmory                    |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Nihilego / Skarmory / Necrozma                  |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Hydreigon / Nidoqueen / Celesteela / Crobat / Tapu Bulu               |    1 |  12.50% | 100.00% |
+| 1    | Nidoqueen / Celesteela / Crobat / Tapu Bulu / Keldeo                  |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Nidoqueen / Celesteela / Crobat / Keldeo                  |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Nidoqueen / Crobat / Tapu Bulu / Keldeo                   |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Nidoqueen / Celesteela / Tapu Bulu / Keldeo               |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Celesteela / Crobat / Tapu Bulu / Keldeo                  |    1 |  12.50% | 100.00% |
+| 1    | Cofagrigus / Hippowdon / Chansey / Tapu Bulu / Skarmory               |    1 |  12.50% | 100.00% |
+| 1    | Tentacruel / Hippowdon / Chansey / Tapu Bulu / Skarmory               |    1 |  12.50% | 100.00% |
+| 1    | Cofagrigus / Tentacruel / Chansey / Tapu Bulu / Skarmory              |    1 |  12.50% | 100.00% |
+| 1    | Cofagrigus / Tentacruel / Hippowdon / Tapu Bulu / Chansey             |    1 |  12.50% | 100.00% |
+| 1    | Cofagrigus / Tentacruel / Hippowdon / Chansey / Skarmory              |    1 |  12.50% | 100.00% |
+| 1    | Cofagrigus / Tentacruel / Hippowdon / Tapu Bulu / Skarmory            |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Slowbro-Galar / Scizor / Diggersby / Chansey              |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Slowbro-Galar / Diggersby / Nihilego / Chansey            |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Slowbro-Galar / Scizor / Nihilego / Chansey               |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Scizor / Diggersby / Nihilego / Chansey                   |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Scizor / Diggersby / Nihilego / Chansey               |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Scizor / Diggersby / Nihilego / Slowbro-Galar             |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Thundurus-Therian / Chansey / Slowbro-Galar / Salamence |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Thundurus-Therian / Chansey / Scizor / Slowbro-Galar    |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Thundurus-Therian / Scizor / Chansey / Salamence        |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Slowbro-Galar / Scizor / Chansey / Salamence            |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Thundurus-Therian / Scizor / Slowbro-Galar / Salamence  |    1 |  12.50% | 100.00% |
+| 1    | Thundurus-Therian / Chansey / Scizor / Slowbro-Galar / Salamence      |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Hippowdon / Rotom-Wash / Lycanroc-Dusk / Skarmory         |    1 |  12.50% |   0.00% |
+| 1    | Hydreigon / Hippowdon / Dhelmise / Rotom-Wash / Skarmory              |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Dhelmise / Rotom-Wash / Lycanroc-Dusk / Skarmory          |    1 |  12.50% |   0.00% |
+| 1    | Hydreigon / Hippowdon / Dhelmise / Rotom-Wash / Lycanroc-Dusk         |    1 |  12.50% |   0.00% |
+| 1    | Hydreigon / Hippowdon / Dhelmise / Lycanroc-Dusk / Skarmory           |    1 |  12.50% |   0.00% |
+| 1    | Hydreigon / Dhelmise / Rotom-Wash / Lycanroc-Dusk / Skarmory          |    1 |  12.50% |   0.00% |
+| 1    | Salamence / Nidoqueen / Tangrowth / Diggersby / Cobalion              |    1 |  12.50% |   0.00% |
+| 1    | Salamence / Tangrowth / Diggersby / Primarina / Cobalion              |    1 |  12.50% |   0.00% |
+| 1    | Nidoqueen / Tangrowth / Diggersby / Primarina / Salamence             |    1 |  12.50% |   0.00% |
+| 1    | Salamence / Nidoqueen / Diggersby / Primarina / Cobalion              |    1 |  12.50% |   0.00% |
+| 1    | Nidoqueen / Tangrowth / Diggersby / Primarina / Cobalion              |    1 |  12.50% |   0.00% |
+| 1    | Salamence / Nidoqueen / Tangrowth / Primarina / Cobalion              |    1 |  12.50% |   0.00% |
+| 1    | Azelf / Zarude / Scizor / Tangrowth / Cobalion                        |    1 |  12.50% |   0.00% |
+| 1    | Azelf / Slowking / Zarude / Scizor / Cobalion                         |    1 |  12.50% |   0.00% |
+| 1    | Azelf / Slowking / Scizor / Tangrowth / Cobalion                      |    1 |  12.50% |   0.00% |
+| 1    | Azelf / Slowking / Zarude / Tangrowth / Cobalion                      |    1 |  12.50% |   0.00% |
+| 1    | Slowking / Zarude / Scizor / Tangrowth / Cobalion                     |    1 |  12.50% |   0.00% |
+| 1    | Azelf / Slowking / Zarude / Scizor / Tangrowth                        |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Diggersby / Nihilego / Keldeo / Skarmory                   |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Tangrowth / Diggersby / Nihilego / Keldeo                  |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Tangrowth / Diggersby / Keldeo / Skarmory                  |    1 |  12.50% |   0.00% |
+| 1    | Tangrowth / Diggersby / Nihilego / Keldeo / Skarmory                  |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Tangrowth / Diggersby / Nihilego / Skarmory                |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Tangrowth / Nihilego / Keldeo / Skarmory                   |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Hydreigon / Nidoqueen / Celesteela / Crobat / Tapu Bulu / Keldeo               |    1 |  12.50% | 100.00% |
+| 1    | Cofagrigus / Tentacruel / Hippowdon / Chansey / Tapu Bulu / Skarmory           |    1 |  12.50% | 100.00% |
+| 1    | Mandibuzz / Slowbro-Galar / Scizor / Diggersby / Nihilego / Chansey            |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Thundurus-Therian / Chansey / Scizor / Slowbro-Galar / Salamence |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Hippowdon / Dhelmise / Rotom-Wash / Lycanroc-Dusk / Skarmory       |    1 |  12.50% |   0.00% |
+| 1    | Salamence / Nidoqueen / Tangrowth / Diggersby / Primarina / Cobalion           |    1 |  12.50% |   0.00% |
+| 1    | Azelf / Slowking / Zarude / Scizor / Tangrowth / Cobalion                      |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Tangrowth / Diggersby / Nihilego / Keldeo / Skarmory                |    1 |  12.50% |   0.00% |
