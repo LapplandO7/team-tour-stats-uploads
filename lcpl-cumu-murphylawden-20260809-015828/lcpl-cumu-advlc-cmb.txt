@@ -1,0 +1,1600 @@
++ ---- + -------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2          | Use  | Usage % |  Win %  |
++ ---- + -------------------- + ---- + ------- + ------- +
+| 1    | Snubbull / Wailmer   |   24 |  38.71% |  45.83% |
+| 1    | Elekid / Wailmer     |   24 |  38.71% |  37.50% |
+| 3    | Anorith / Wailmer    |   20 |  32.26% |  40.00% |
+| 4    | Snubbull / Elekid    |   18 |  29.03% |  55.56% |
+| 5    | Gastly / Wailmer     |   17 |  27.42% |  47.06% |
+| 5    | Voltorb / Wailmer    |   17 |  27.42% |  41.18% |
+| 7    | Chinchou / Wailmer   |   15 |  24.19% |  46.67% |
+| 7    | Anorith / Chinchou   |   15 |  24.19% |  33.33% |
+| 7    | Anorith / Snubbull   |   15 |  24.19% |  26.67% |
+| 7    | Anorith / Elekid     |   15 |  24.19% |  26.67% |
+| 11   | Trapinch / Elekid    |   14 |  22.58% |  50.00% |
+| 11   | Snubbull / Chinchou  |   14 |  22.58% |  42.86% |
+| 11   | Trapinch / Wailmer   |   14 |  22.58% |  42.86% |
+| 14   | Chinchou / Elekid    |   12 |  19.35% |  50.00% |
+| 14   | Ponyta / Wailmer     |   12 |  19.35% |  41.67% |
+| 14   | Gastly / Elekid      |   12 |  19.35% |  33.33% |
+| 17   | Snubbull / Gastly    |   11 |  17.74% |  54.55% |
+| 17   | Snubbull / Voltorb   |   11 |  17.74% |  54.55% |
+| 19   | Snubbull / Cacnea    |   10 |  16.13% |  60.00% |
+| 19   | Lileep / Wailmer     |   10 |  16.13% |  50.00% |
+| 19   | Trapinch / Chinchou  |   10 |  16.13% |  50.00% |
+| 22   | Ponyta / Chinchou    |    9 |  14.52% |  44.44% |
+| 22   | Anorith / Trapinch   |    9 |  14.52% |  33.33% |
+| 24   | Voltorb / Chinchou   |    8 |  12.90% |  75.00% |
+| 24   | Voltorb / Elekid     |    8 |  12.90% |  62.50% |
+| 24   | Trapinch / Voltorb   |    8 |  12.90% |  62.50% |
+| 24   | Cacnea / Chinchou    |    8 |  12.90% |  62.50% |
+| 24   | Houndour / Wailmer   |    8 |  12.90% |  50.00% |
+| 24   | Cacnea / Elekid      |    8 |  12.90% |  37.50% |
+| 24   | Cacnea / Wailmer     |    8 |  12.90% |  37.50% |
+| 31   | Snubbull / Trapinch  |    7 |  11.29% |  71.43% |
+| 31   | Koffing / Chinchou   |    7 |  11.29% |  57.14% |
+| 31   | Trapinch / Gastly    |    7 |  11.29% |  42.86% |
+| 31   | Elekid / Staryu      |    7 |  11.29% |  28.57% |
+| 35   | Cacnea / Trapinch    |    6 |   9.68% |  66.67% |
+| 35   | Horsea / Wailmer     |    6 |   9.68% |  66.67% |
+| 35   | Gastly / Staryu      |    6 |   9.68% |  50.00% |
+| 35   | Anorith / Cacnea     |    6 |   9.68% |  50.00% |
+| 35   | Koffing / Wailmer    |    6 |   9.68% |  50.00% |
+| 35   | Exeggcute / Wailmer  |    6 |   9.68% |  33.33% |
+| 35   | Lileep / Elekid      |    6 |   9.68% |  33.33% |
+| 35   | Snubbull / Lileep    |    6 |   9.68% |  33.33% |
+| 35   | Anorith / Ponyta     |    6 |   9.68% |  33.33% |
+| 35   | Snubbull / Ponyta    |    6 |   9.68% |  33.33% |
+| 35   | Staryu / Wailmer     |    6 |   9.68% |  33.33% |
+| 35   | Anorith / Voltorb    |    6 |   9.68% |  33.33% |
+| 35   | Doduo / Wailmer      |    6 |   9.68% |  16.67% |
+| 48   | Trapinch / Staryu    |    5 |   8.06% |  80.00% |
+| 48   | Cacnea / Gastly      |    5 |   8.06% |  60.00% |
+| 48   | Koffing / Voltorb    |    5 |   8.06% |  60.00% |
+| 48   | Koffing / Anorith    |    5 |   8.06% |  60.00% |
+| 48   | Snubbull / Horsea    |    5 |   8.06% |  60.00% |
+| 48   | Horsea / Voltorb     |    5 |   8.06% |  60.00% |
+| 48   | Machop / Elekid      |    5 |   8.06% |  40.00% |
+| 48   | Voltorb / Gastly     |    5 |   8.06% |  40.00% |
+| 48   | Houndour / Elekid    |    5 |   8.06% |  20.00% |
+| 48   | Anorith / Gastly     |    5 |   8.06% |  20.00% |
+| 48   | Gastly / Chinchou    |    5 |   8.06% |  20.00% |
+| 48   | Ponyta / Gastly      |    5 |   8.06% |  20.00% |
+| 60   | Exeggcute / Gastly   |    4 |   6.45% |  50.00% |
+| 60   | Chinchou / Lileep    |    4 |   6.45% |  50.00% |
+| 60   | Cacnea / Voltorb     |    4 |   6.45% |  50.00% |
+| 60   | Koffing / Elekid     |    4 |   6.45% |  50.00% |
+| 60   | Koffing / Trapinch   |    4 |   6.45% |  50.00% |
+| 60   | Gastly / Lileep      |    4 |   6.45% |  50.00% |
+| 60   | Anorith / Lileep     |    4 |   6.45% |  50.00% |
+| 60   | Houndour / Gastly    |    4 |   6.45% |  50.00% |
+| 60   | Exeggcute / Snubbull |    4 |   6.45% |  25.00% |
+| 60   | Anorith / Exeggcute  |    4 |   6.45% |  25.00% |
+| 60   | Snubbull / Doduo     |    4 |   6.45% |  25.00% |
+| 60   | Bagon / Wailmer      |    4 |   6.45% |  25.00% |
+| 60   | Machop / Wailmer     |    4 |   6.45% |  25.00% |
+| 73   | Snubbull / Staryu    |    3 |   4.84% |  66.67% |
+| 73   | Machop / Snubbull    |    3 |   4.84% |  66.67% |
+| 73   | Machop / Chinchou    |    3 |   4.84% |  66.67% |
+| 73   | Larvitar / Wailmer   |    3 |   4.84% |  66.67% |
+| 73   | Koffing / Cacnea     |    3 |   4.84% |  66.67% |
+| 73   | Cacnea / Ponyta      |    3 |   4.84% |  66.67% |
+| 73   | Horsea / Gastly      |    3 |   4.84% |  66.67% |
+| 73   | Ponyta / Elekid      |    3 |   4.84% |  66.67% |
+| 73   | Exeggcute / Trapinch |    3 |   4.84% |  33.33% |
+| 73   | Exeggcute / Elekid   |    3 |   4.84% |  33.33% |
+| 73   | Trapinch / Ponyta    |    3 |   4.84% |  33.33% |
+| 73   | Ponyta / Lileep      |    3 |   4.84% |  33.33% |
+| 73   | Mankey / Wailmer     |    3 |   4.84% |  33.33% |
+| 73   | Houndour / Staryu    |    3 |   4.84% |  33.33% |
+| 73   | Ponyta / Voltorb     |    3 |   4.84% |  33.33% |
+| 73   | Exeggcute / Chinchou |    3 |   4.84% |   0.00% |
+| 73   | Exeggcute / Voltorb  |    3 |   4.84% |   0.00% |
+| 73   | Anorith / Staryu     |    3 |   4.84% |   0.00% |
+| 73   | Trapinch / Doduo     |    3 |   4.84% |   0.00% |
+| 73   | Elekid / Doduo       |    3 |   4.84% |   0.00% |
+| 73   | Anorith / Doduo      |    3 |   4.84% |   0.00% |
+| 94   | Cacnea / Staryu      |    2 |   3.23% | 100.00% |
+| 94   | Houndour / Voltorb   |    2 |   3.23% | 100.00% |
+| 94   | Houndour / Trapinch  |    2 |   3.23% | 100.00% |
+| 94   | Voltorb / Lileep     |    2 |   3.23% | 100.00% |
+| 94   | Horsea / Lileep      |    2 |   3.23% | 100.00% |
+| 94   | Koffing / Snubbull   |    2 |   3.23% | 100.00% |
+| 94   | Snubbull / Onix      |    2 |   3.23% | 100.00% |
+| 94   | Gastly / Onix        |    2 |   3.23% | 100.00% |
+| 94   | Onix / Wailmer       |    2 |   3.23% | 100.00% |
+| 94   | Elekid / Onix        |    2 |   3.23% | 100.00% |
+| 94   | Exeggcute / Houndour |    2 |   3.23% |  50.00% |
+| 94   | Larvitar / Houndour  |    2 |   3.23% |  50.00% |
+| 94   | Voltorb / Staryu     |    2 |   3.23% |  50.00% |
+| 94   | Anorith / Cubone     |    2 |   3.23% |  50.00% |
+| 94   | Cubone / Wailmer     |    2 |   3.23% |  50.00% |
+| 94   | Snubbull / Magnemite |    2 |   3.23% |  50.00% |
+| 94   | Magnemite / Wailmer  |    2 |   3.23% |  50.00% |
+| 94   | Voltorb / Magnemite  |    2 |   3.23% |  50.00% |
+| 94   | Horsea / Magnemite   |    2 |   3.23% |  50.00% |
+| 94   | Mankey / Voltorb     |    2 |   3.23% |  50.00% |
+| 94   | Bagon / Trapinch     |    2 |   3.23% |  50.00% |
+| 94   | Bagon / Gastly       |    2 |   3.23% |  50.00% |
+| 94   | Anorith / Horsea     |    2 |   3.23% |  50.00% |
+| 94   | Exeggcute / Ponyta   |    2 |   3.23% |  50.00% |
+| 94   | Larvitar / Cacnea    |    2 |   3.23% |  50.00% |
+| 94   | Voltorb / Doduo      |    2 |   3.23% |   0.00% |
+| 94   | Bagon / Voltorb      |    2 |   3.23% |   0.00% |
+| 94   | Machop / Lileep      |    2 |   3.23% |   0.00% |
+| 94   | Bagon / Cacnea       |    2 |   3.23% |   0.00% |
+| 94   | Bagon / Elekid       |    2 |   3.23% |   0.00% |
+| 94   | Grimer / Staryu      |    2 |   3.23% |   0.00% |
+| 94   | Grimer / Wailmer     |    2 |   3.23% |   0.00% |
+| 94   | Grimer / Gastly      |    2 |   3.23% |   0.00% |
+| 94   | Grimer / Elekid      |    2 |   3.23% |   0.00% |
+| 94   | Grimer / Houndour    |    2 |   3.23% |   0.00% |
+| 94   | Mankey / Gastly      |    2 |   3.23% |   0.00% |
+| 130  | Exeggcute / Cacnea   |    1 |   1.61% | 100.00% |
+| 130  | Exeggcute / Staryu   |    1 |   1.61% | 100.00% |
+| 130  | Machop / Voltorb     |    1 |   1.61% | 100.00% |
+| 130  | Houndour / Chinchou  |    1 |   1.61% | 100.00% |
+| 130  | Larvitar / Chinchou  |    1 |   1.61% | 100.00% |
+| 130  | Larvitar / Voltorb   |    1 |   1.61% | 100.00% |
+| 130  | Larvitar / Trapinch  |    1 |   1.61% | 100.00% |
+| 130  | Gastly / Magnemite   |    1 |   1.61% | 100.00% |
+| 130  | Cacnea / Oddish      |    1 |   1.61% | 100.00% |
+| 130  | Oddish / Wailmer     |    1 |   1.61% | 100.00% |
+| 130  | Oddish / Gastly      |    1 |   1.61% | 100.00% |
+| 130  | Anorith / Oddish     |    1 |   1.61% | 100.00% |
+| 130  | Houndour / Mankey    |    1 |   1.61% | 100.00% |
+| 130  | Mankey / Lileep      |    1 |   1.61% | 100.00% |
+| 130  | Horsea / Mankey      |    1 |   1.61% | 100.00% |
+| 130  | Houndour / Lileep    |    1 |   1.61% | 100.00% |
+| 130  | Horsea / Houndour    |    1 |   1.61% | 100.00% |
+| 130  | Cubone / Lileep      |    1 |   1.61% | 100.00% |
+| 130  | Snubbull / Cubone    |    1 |   1.61% | 100.00% |
+| 130  | Horsea / Cubone      |    1 |   1.61% | 100.00% |
+| 130  | Togepi / Wailmer     |    1 |   1.61% | 100.00% |
+| 130  | Houndour / Togepi    |    1 |   1.61% | 100.00% |
+| 130  | Gastly / Togepi      |    1 |   1.61% | 100.00% |
+| 130  | Exeggcute / Togepi   |    1 |   1.61% | 100.00% |
+| 130  | Togepi / Elekid      |    1 |   1.61% | 100.00% |
+| 130  | Ponyta / Staryu      |    1 |   1.61% | 100.00% |
+| 130  | Snubbull / Pineco    |    1 |   1.61% | 100.00% |
+| 130  | Gastly / Pineco      |    1 |   1.61% | 100.00% |
+| 130  | Pineco / Wailmer     |    1 |   1.61% | 100.00% |
+| 130  | Pineco / Onix        |    1 |   1.61% | 100.00% |
+| 130  | Pineco / Elekid      |    1 |   1.61% | 100.00% |
+| 130  | Lileep / Onix        |    1 |   1.61% | 100.00% |
+| 130  | Bagon / Staryu       |    1 |   1.61% | 100.00% |
+| 130  | Bagon / Houndour     |    1 |   1.61% | 100.00% |
+| 130  | Trapinch / Lileep    |    1 |   1.61% | 100.00% |
+| 130  | Cacnea / Lileep      |    1 |   1.61% | 100.00% |
+| 130  | Cacnea / Doduo       |    1 |   1.61% | 100.00% |
+| 130  | Koffing / Larvitar   |    1 |   1.61% | 100.00% |
+| 130  | Koffing / Doduo      |    1 |   1.61% | 100.00% |
+| 130  | Larvitar / Snubbull  |    1 |   1.61% | 100.00% |
+| 130  | Larvitar / Doduo     |    1 |   1.61% | 100.00% |
+| 130  | Snubbull / Houndour  |    1 |   1.61% |   0.00% |
+| 130  | Anorith / Houndour   |    1 |   1.61% |   0.00% |
+| 130  | Duskull / Doduo      |    1 |   1.61% |   0.00% |
+| 130  | Bagon / Doduo        |    1 |   1.61% |   0.00% |
+| 130  | Voltorb / Duskull    |    1 |   1.61% |   0.00% |
+| 130  | Snubbull / Duskull   |    1 |   1.61% |   0.00% |
+| 130  | Snubbull / Bagon     |    1 |   1.61% |   0.00% |
+| 130  | Bagon / Duskull      |    1 |   1.61% |   0.00% |
+| 130  | Duskull / Wailmer    |    1 |   1.61% |   0.00% |
+| 130  | Koffing / Bagon      |    1 |   1.61% |   0.00% |
+| 130  | Koffing / Exeggcute  |    1 |   1.61% |   0.00% |
+| 130  | Cubone / Staryu      |    1 |   1.61% |   0.00% |
+| 130  | Cubone / Elekid      |    1 |   1.61% |   0.00% |
+| 130  | Voltorb / Cubone     |    1 |   1.61% |   0.00% |
+| 130  | Lileep / Staryu      |    1 |   1.61% |   0.00% |
+| 130  | Chinchou / Meowth    |    1 |   1.61% |   0.00% |
+| 130  | Ponyta / Meowth      |    1 |   1.61% |   0.00% |
+| 130  | Anorith / Meowth     |    1 |   1.61% |   0.00% |
+| 130  | Koffing / Meowth     |    1 |   1.61% |   0.00% |
+| 130  | Koffing / Ponyta     |    1 |   1.61% |   0.00% |
+| 130  | Ponyta / Doduo       |    1 |   1.61% |   0.00% |
+| 130  | Chinchou / Doduo     |    1 |   1.61% |   0.00% |
+| 130  | Gastly / Doduo       |    1 |   1.61% |   0.00% |
+| 130  | Mankey / Doduo       |    1 |   1.61% |   0.00% |
+| 130  | Mankey / Elekid      |    1 |   1.61% |   0.00% |
+| 130  | Trapinch / Mankey    |    1 |   1.61% |   0.00% |
+| 130  | Spoink / Lileep      |    1 |   1.61% |   0.00% |
+| 130  | Spoink / Wailmer     |    1 |   1.61% |   0.00% |
+| 130  | Spoink / Elekid      |    1 |   1.61% |   0.00% |
+| 130  | Anorith / Spoink     |    1 |   1.61% |   0.00% |
+| 130  | Snubbull / Spoink    |    1 |   1.61% |   0.00% |
+| 130  | Chinchou / Staryu    |    1 |   1.61% |   0.00% |
+| 130  | Machop / Gastly      |    1 |   1.61% |   0.00% |
+| 130  | Machop / Ponyta      |    1 |   1.61% |   0.00% |
+| 130  | Machop / Cacnea      |    1 |   1.61% |   0.00% |
+| 130  | Machop / Houndour    |    1 |   1.61% |   0.00% |
+| 130  | Larvitar / Machop    |    1 |   1.61% |   0.00% |
+| 130  | Houndour / Cacnea    |    1 |   1.61% |   0.00% |
+| 130  | Larvitar / Elekid    |    1 |   1.61% |   0.00% |
+| 130  | Cacnea / Magnemite   |    1 |   1.61% |   0.00% |
+| 130  | Horsea / Cacnea      |    1 |   1.61% |   0.00% |
+| 130  | Snubbull / Mankey    |    1 |   1.61% |   0.00% |
+| 130  | Mankey / Ponyta      |    1 |   1.61% |   0.00% |
+
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| 1    | Anorith / Snubbull / Wailmer    |   11 |  17.74% |  27.27% |
+| 2    | Snubbull / Elekid / Wailmer     |   10 |  16.13% |  50.00% |
+| 2    | Anorith / Elekid / Wailmer      |   10 |  16.13% |  30.00% |
+| 4    | Snubbull / Voltorb / Wailmer    |    9 |  14.52% |  44.44% |
+| 4    | Trapinch / Elekid / Wailmer     |    9 |  14.52% |  44.44% |
+| 4    | Anorith / Snubbull / Elekid     |    9 |  14.52% |  22.22% |
+| 7    | Snubbull / Chinchou / Elekid    |    8 |  12.90% |  50.00% |
+| 7    | Snubbull / Chinchou / Wailmer   |    8 |  12.90% |  37.50% |
+| 7    | Anorith / Trapinch / Elekid     |    8 |  12.90% |  37.50% |
+| 7    | Anorith / Chinchou / Wailmer    |    8 |  12.90% |  37.50% |
+| 7    | Gastly / Elekid / Wailmer       |    8 |  12.90% |  37.50% |
+| 7    | Anorith / Snubbull / Chinchou   |    8 |  12.90% |  25.00% |
+| 13   | Snubbull / Gastly / Wailmer     |    7 |  11.29% |  57.14% |
+| 13   | Ponyta / Chinchou / Wailmer     |    7 |  11.29% |  42.86% |
+| 13   | Anorith / Chinchou / Elekid     |    7 |  11.29% |  28.57% |
+| 16   | Snubbull / Trapinch / Elekid    |    6 |   9.68% |  66.67% |
+| 16   | Trapinch / Voltorb / Wailmer    |    6 |   9.68% |  50.00% |
+| 16   | Snubbull / Cacnea / Chinchou    |    6 |   9.68% |  50.00% |
+| 16   | Trapinch / Chinchou / Elekid    |    6 |   9.68% |  50.00% |
+| 16   | Lileep / Elekid / Wailmer       |    6 |   9.68% |  33.33% |
+| 16   | Snubbull / Lileep / Wailmer     |    6 |   9.68% |  33.33% |
+| 16   | Anorith / Trapinch / Chinchou   |    6 |   9.68% |  33.33% |
+| 16   | Anorith / Trapinch / Wailmer    |    6 |   9.68% |  33.33% |
+| 24   | Snubbull / Cacnea / Elekid      |    5 |   8.06% |  60.00% |
+| 24   | Snubbull / Gastly / Elekid      |    5 |   8.06% |  60.00% |
+| 24   | Koffing / Chinchou / Anorith    |    5 |   8.06% |  60.00% |
+| 24   | Snubbull / Horsea / Wailmer     |    5 |   8.06% |  60.00% |
+| 24   | Horsea / Voltorb / Wailmer      |    5 |   8.06% |  60.00% |
+| 24   | Voltorb / Elekid / Wailmer      |    5 |   8.06% |  40.00% |
+| 24   | Anorith / Cacnea / Chinchou     |    5 |   8.06% |  40.00% |
+| 24   | Trapinch / Chinchou / Wailmer   |    5 |   8.06% |  40.00% |
+| 24   | Anorith / Ponyta / Wailmer      |    5 |   8.06% |  40.00% |
+| 24   | Snubbull / Ponyta / Chinchou    |    5 |   8.06% |  40.00% |
+| 24   | Voltorb / Gastly / Wailmer      |    5 |   8.06% |  40.00% |
+| 24   | Houndour / Elekid / Wailmer     |    5 |   8.06% |  20.00% |
+| 24   | Anorith / Ponyta / Chinchou     |    5 |   8.06% |  20.00% |
+| 24   | Snubbull / Ponyta / Wailmer     |    5 |   8.06% |  20.00% |
+| 24   | Ponyta / Gastly / Wailmer       |    5 |   8.06% |  20.00% |
+| 24   | Elekid / Staryu / Wailmer       |    5 |   8.06% |  20.00% |
+| 24   | Anorith / Voltorb / Wailmer     |    5 |   8.06% |  20.00% |
+| 41   | Snubbull / Cacnea / Trapinch    |    4 |   6.45% |  75.00% |
+| 41   | Trapinch / Gastly / Staryu      |    4 |   6.45% |  75.00% |
+| 41   | Trapinch / Voltorb / Elekid     |    4 |   6.45% |  75.00% |
+| 41   | Trapinch / Voltorb / Chinchou   |    4 |   6.45% |  75.00% |
+| 41   | Koffing / Voltorb / Chinchou    |    4 |   6.45% |  75.00% |
+| 41   | Chinchou / Elekid / Wailmer     |    4 |   6.45% |  50.00% |
+| 41   | Cacnea / Chinchou / Elekid      |    4 |   6.45% |  50.00% |
+| 41   | Cacnea / Trapinch / Elekid      |    4 |   6.45% |  50.00% |
+| 41   | Anorith / Snubbull / Trapinch   |    4 |   6.45% |  50.00% |
+| 41   | Voltorb / Chinchou / Wailmer    |    4 |   6.45% |  50.00% |
+| 41   | Koffing / Trapinch / Chinchou   |    4 |   6.45% |  50.00% |
+| 41   | Koffing / Chinchou / Wailmer    |    4 |   6.45% |  50.00% |
+| 41   | Gastly / Lileep / Wailmer       |    4 |   6.45% |  50.00% |
+| 41   | Snubbull / Cacnea / Wailmer     |    4 |   6.45% |  50.00% |
+| 41   | Snubbull / Voltorb / Gastly     |    4 |   6.45% |  50.00% |
+| 41   | Snubbull / Voltorb / Horsea     |    4 |   6.45% |  50.00% |
+| 41   | Anorith / Lileep / Wailmer      |    4 |   6.45% |  50.00% |
+| 41   | Houndour / Gastly / Wailmer     |    4 |   6.45% |  50.00% |
+| 41   | Snubbull / Doduo / Wailmer      |    4 |   6.45% |  25.00% |
+| 41   | Machop / Elekid / Wailmer       |    4 |   6.45% |  25.00% |
+| 41   | Lileep / Snubbull / Elekid      |    4 |   6.45% |  25.00% |
+| 41   | Anorith / Snubbull / Cacnea     |    4 |   6.45% |  25.00% |
+| 41   | Trapinch / Gastly / Wailmer     |    4 |   6.45% |  25.00% |
+| 41   | Trapinch / Gastly / Elekid      |    4 |   6.45% |  25.00% |
+| 41   | Gastly / Staryu / Elekid        |    4 |   6.45% |  25.00% |
+| 66   | Snubbull / Voltorb / Elekid     |    3 |   4.84% | 100.00% |
+| 66   | Cacnea / Gastly / Trapinch      |    3 |   4.84% |  66.67% |
+| 66   | Snubbull / Cacnea / Gastly      |    3 |   4.84% |  66.67% |
+| 66   | Snubbull / Voltorb / Chinchou   |    3 |   4.84% |  66.67% |
+| 66   | Machop / Snubbull / Elekid      |    3 |   4.84% |  66.67% |
+| 66   | Machop / Chinchou / Snubbull    |    3 |   4.84% |  66.67% |
+| 66   | Machop / Chinchou / Elekid      |    3 |   4.84% |  66.67% |
+| 66   | Snubbull / Trapinch / Wailmer   |    3 |   4.84% |  66.67% |
+| 66   | Cacnea / Chinchou / Trapinch    |    3 |   4.84% |  66.67% |
+| 66   | Koffing / Chinchou / Elekid     |    3 |   4.84% |  66.67% |
+| 66   | Koffing / Trapinch / Elekid     |    3 |   4.84% |  66.67% |
+| 66   | Koffing / Anorith / Wailmer     |    3 |   4.84% |  66.67% |
+| 66   | Cacnea / Ponyta / Chinchou      |    3 |   4.84% |  66.67% |
+| 66   | Snubbull / Cacnea / Ponyta      |    3 |   4.84% |  66.67% |
+| 66   | Snubbull / Gastly / Horsea      |    3 |   4.84% |  66.67% |
+| 66   | Horsea / Gastly / Wailmer       |    3 |   4.84% |  66.67% |
+| 66   | Horsea / Voltorb / Gastly       |    3 |   4.84% |  66.67% |
+| 66   | Anorith / Voltorb / Chinchou    |    3 |   4.84% |  66.67% |
+| 66   | Trapinch / Elekid / Staryu      |    3 |   4.84% |  66.67% |
+| 66   | Anorith / Exeggcute / Wailmer   |    3 |   4.84% |  33.33% |
+| 66   | Chinchou / Lileep / Wailmer     |    3 |   4.84% |  33.33% |
+| 66   | Anorith / Cacnea / Elekid       |    3 |   4.84% |  33.33% |
+| 66   | Trapinch / Ponyta / Wailmer     |    3 |   4.84% |  33.33% |
+| 66   | Koffing / Voltorb / Wailmer     |    3 |   4.84% |  33.33% |
+| 66   | Koffing / Elekid / Wailmer      |    3 |   4.84% |  33.33% |
+| 66   | Koffing / Trapinch / Wailmer    |    3 |   4.84% |  33.33% |
+| 66   | Ponyta / Gastly / Lileep        |    3 |   4.84% |  33.33% |
+| 66   | Ponyta / Lileep / Wailmer       |    3 |   4.84% |  33.33% |
+| 66   | Anorith / Lileep / Elekid       |    3 |   4.84% |  33.33% |
+| 66   | Anorith / Snubbull / Lileep     |    3 |   4.84% |  33.33% |
+| 66   | Cacnea / Gastly / Elekid        |    3 |   4.84% |  33.33% |
+| 66   | Anorith / Snubbull / Voltorb    |    3 |   4.84% |  33.33% |
+| 66   | Gastly / Staryu / Wailmer       |    3 |   4.84% |  33.33% |
+| 66   | Houndour / Staryu / Wailmer     |    3 |   4.84% |  33.33% |
+| 66   | Houndour / Gastly / Staryu      |    3 |   4.84% |  33.33% |
+| 66   | Houndour / Gastly / Elekid      |    3 |   4.84% |  33.33% |
+| 66   | Ponyta / Voltorb / Wailmer      |    3 |   4.84% |  33.33% |
+| 66   | Anorith / Snubbull / Exeggcute  |    3 |   4.84% |   0.00% |
+| 66   | Anorith / Snubbull / Gastly     |    3 |   4.84% |   0.00% |
+| 66   | Anorith / Gastly / Chinchou     |    3 |   4.84% |   0.00% |
+| 66   | Anorith / Gastly / Elekid       |    3 |   4.84% |   0.00% |
+| 66   | Snubbull / Gastly / Chinchou    |    3 |   4.84% |   0.00% |
+| 66   | Gastly / Chinchou / Elekid      |    3 |   4.84% |   0.00% |
+| 66   | Cacnea / Elekid / Wailmer       |    3 |   4.84% |   0.00% |
+| 66   | Exeggcute / Voltorb / Wailmer   |    3 |   4.84% |   0.00% |
+| 66   | Anorith / Elekid / Staryu       |    3 |   4.84% |   0.00% |
+| 66   | Trapinch / Elekid / Doduo       |    3 |   4.84% |   0.00% |
+| 66   | Trapinch / Doduo / Wailmer      |    3 |   4.84% |   0.00% |
+| 66   | Elekid / Doduo / Wailmer        |    3 |   4.84% |   0.00% |
+| 66   | Anorith / Doduo / Wailmer       |    3 |   4.84% |   0.00% |
+| 116  | Cacnea / Trapinch / Staryu      |    2 |   3.23% | 100.00% |
+| 116  | Snubbull / Cacnea / Staryu      |    2 |   3.23% | 100.00% |
+| 116  | Cacnea / Gastly / Staryu        |    2 |   3.23% | 100.00% |
+| 116  | Snubbull / Trapinch / Staryu    |    2 |   3.23% | 100.00% |
+| 116  | Snubbull / Gastly / Staryu      |    2 |   3.23% | 100.00% |
+| 116  | Snubbull / Trapinch / Gastly    |    2 |   3.23% | 100.00% |
+| 116  | Voltorb / Chinchou / Elekid     |    2 |   3.23% | 100.00% |
+| 116  | Houndour / Voltorb / Wailmer    |    2 |   3.23% | 100.00% |
+| 116  | Houndour / Trapinch / Wailmer   |    2 |   3.23% | 100.00% |
+| 116  | Horsea / Lileep / Wailmer       |    2 |   3.23% | 100.00% |
+| 116  | Koffing / Snubbull / Wailmer    |    2 |   3.23% | 100.00% |
+| 116  | Koffing / Voltorb / Anorith     |    2 |   3.23% | 100.00% |
+| 116  | Cacnea / Voltorb / Chinchou     |    2 |   3.23% | 100.00% |
+| 116  | Trapinch / Staryu / Wailmer     |    2 |   3.23% | 100.00% |
+| 116  | Snubbull / Gastly / Onix        |    2 |   3.23% | 100.00% |
+| 116  | Snubbull / Onix / Wailmer       |    2 |   3.23% | 100.00% |
+| 116  | Snubbull / Elekid / Onix        |    2 |   3.23% | 100.00% |
+| 116  | Gastly / Onix / Wailmer         |    2 |   3.23% | 100.00% |
+| 116  | Gastly / Onix / Elekid          |    2 |   3.23% | 100.00% |
+| 116  | Elekid / Onix / Wailmer         |    2 |   3.23% | 100.00% |
+| 116  | Exeggcute / Trapinch / Gastly   |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Snubbull / Gastly   |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Elekid / Wailmer    |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Houndour / Wailmer  |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Houndour / Elekid   |    2 |   3.23% |  50.00% |
+| 116  | Machop / Chinchou / Wailmer     |    2 |   3.23% |  50.00% |
+| 116  | Machop / Snubbull / Wailmer     |    2 |   3.23% |  50.00% |
+| 116  | Anorith / Cacnea / Trapinch     |    2 |   3.23% |  50.00% |
+| 116  | Snubbull / Trapinch / Chinchou  |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Gastly / Elekid     |    2 |   3.23% |  50.00% |
+| 116  | Larvitar / Houndour / Wailmer   |    2 |   3.23% |  50.00% |
+| 116  | Koffing / Cacnea / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Koffing / Cacnea / Voltorb      |    2 |   3.23% |  50.00% |
+| 116  | Koffing / Voltorb / Elekid      |    2 |   3.23% |  50.00% |
+| 116  | Koffing / Trapinch / Anorith    |    2 |   3.23% |  50.00% |
+| 116  | Koffing / Elekid / Anorith      |    2 |   3.23% |  50.00% |
+| 116  | Snubbull / Gastly / Lileep      |    2 |   3.23% |  50.00% |
+| 116  | Ponyta / Gastly / Chinchou      |    2 |   3.23% |  50.00% |
+| 116  | Gastly / Chinchou / Wailmer     |    2 |   3.23% |  50.00% |
+| 116  | Gastly / Chinchou / Lileep      |    2 |   3.23% |  50.00% |
+| 116  | Ponyta / Chinchou / Lileep      |    2 |   3.23% |  50.00% |
+| 116  | Koffing / Trapinch / Voltorb    |    2 |   3.23% |  50.00% |
+| 116  | Cacnea / Chinchou / Wailmer     |    2 |   3.23% |  50.00% |
+| 116  | Cacnea / Ponyta / Wailmer       |    2 |   3.23% |  50.00% |
+| 116  | Voltorb / Staryu / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Voltorb / Elekid / Staryu       |    2 |   3.23% |  50.00% |
+| 116  | Anorith / Cubone / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Magnemite / Snubbull / Wailmer  |    2 |   3.23% |  50.00% |
+| 116  | Snubbull / Voltorb / Magnemite  |    2 |   3.23% |  50.00% |
+| 116  | Snubbull / Horsea / Magnemite   |    2 |   3.23% |  50.00% |
+| 116  | Magnemite / Voltorb / Wailmer   |    2 |   3.23% |  50.00% |
+| 116  | Magnemite / Horsea / Wailmer    |    2 |   3.23% |  50.00% |
+| 116  | Horsea / Voltorb / Magnemite    |    2 |   3.23% |  50.00% |
+| 116  | Snubbull / Elekid / Staryu      |    2 |   3.23% |  50.00% |
+| 116  | Cacnea / Gastly / Wailmer       |    2 |   3.23% |  50.00% |
+| 116  | Anorith / Cacnea / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Anorith / Cacnea / Gastly       |    2 |   3.23% |  50.00% |
+| 116  | Anorith / Gastly / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Mankey / Voltorb / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Bagon / Trapinch / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Bagon / Gastly / Wailmer        |    2 |   3.23% |  50.00% |
+| 116  | Bagon / Trapinch / Gastly       |    2 |   3.23% |  50.00% |
+| 116  | Anorith / Horsea / Wailmer      |    2 |   3.23% |  50.00% |
+| 116  | Anorith / Snubbull / Horsea     |    2 |   3.23% |  50.00% |
+| 116  | Ponyta / Trapinch / Voltorb     |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Ponyta / Wailmer    |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Gastly / Wailmer    |    2 |   3.23% |  50.00% |
+| 116  | Ponyta / Elekid / Wailmer       |    2 |   3.23% |  50.00% |
+| 116  | Gastly / Lileep / Elekid        |    2 |   3.23% |  50.00% |
+| 116  | Larvitar / Cacnea / Wailmer     |    2 |   3.23% |  50.00% |
+| 116  | Exeggcute / Snubbull / Wailmer  |    2 |   3.23% |   0.00% |
+| 116  | Exeggcute / Snubbull / Elekid   |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Exeggcute / Elekid    |    2 |   3.23% |   0.00% |
+| 116  | Voltorb / Doduo / Wailmer       |    2 |   3.23% |   0.00% |
+| 116  | Bagon / Voltorb / Wailmer       |    2 |   3.23% |   0.00% |
+| 116  | Lileep / Machop / Elekid        |    2 |   3.23% |   0.00% |
+| 116  | Machop / Lileep / Wailmer       |    2 |   3.23% |   0.00% |
+| 116  | Snubbull / Chinchou / Lileep    |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Chinchou / Exeggcute  |    2 |   3.23% |   0.00% |
+| 116  | Exeggcute / Snubbull / Chinchou |    2 |   3.23% |   0.00% |
+| 116  | Cacnea / Voltorb / Wailmer      |    2 |   3.23% |   0.00% |
+| 116  | Bagon / Cacnea / Wailmer        |    2 |   3.23% |   0.00% |
+| 116  | Bagon / Elekid / Wailmer        |    2 |   3.23% |   0.00% |
+| 116  | Bagon / Cacnea / Elekid         |    2 |   3.23% |   0.00% |
+| 116  | Ponyta / Snubbull / Gastly      |    2 |   3.23% |   0.00% |
+| 116  | Exeggcute / Voltorb / Chinchou  |    2 |   3.23% |   0.00% |
+| 116  | Exeggcute / Chinchou / Wailmer  |    2 |   3.23% |   0.00% |
+| 116  | Exeggcute / Trapinch / Voltorb  |    2 |   3.23% |   0.00% |
+| 116  | Exeggcute / Trapinch / Wailmer  |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Staryu / Wailmer      |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Voltorb / Elekid      |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Snubbull / Ponyta     |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Staryu / Wailmer       |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Gastly / Staryu        |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Elekid / Staryu        |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Houndour / Staryu      |    2 |   3.23% |   0.00% |
+| 116  | Houndour / Elekid / Staryu      |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Gastly / Wailmer       |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Elekid / Wailmer       |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Houndour / Wailmer     |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Gastly / Elekid        |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Houndour / Gastly      |    2 |   3.23% |   0.00% |
+| 116  | Grimer / Houndour / Elekid      |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Trapinch / Doduo      |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Elekid / Doduo        |    2 |   3.23% |   0.00% |
+| 116  | Anorith / Snubbull / Doduo      |    2 |   3.23% |   0.00% |
+| 116  | Ponyta / Gastly / Voltorb       |    2 |   3.23% |   0.00% |
+| 116  | Mankey / Gastly / Wailmer       |    2 |   3.23% |   0.00% |
+| 224  | Exeggcute / Cacnea / Staryu     |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Cacnea / Trapinch   |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Snubbull / Cacnea   |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Cacnea / Gastly     |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Trapinch / Staryu   |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Snubbull / Staryu   |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Gastly / Staryu     |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Snubbull / Trapinch |    1 |   1.61% | 100.00% |
+| 224  | Machop / Voltorb / Snubbull     |    1 |   1.61% | 100.00% |
+| 224  | Machop / Voltorb / Elekid       |    1 |   1.61% | 100.00% |
+| 224  | Machop / Voltorb / Chinchou     |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Trapinch / Voltorb   |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Voltorb / Chinchou   |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Voltorb / Chinchou   |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Chinchou / Wailmer   |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Chinchou / Trapinch  |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Houndour / Chinchou  |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Chinchou / Wailmer   |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Trapinch / Chinchou  |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Voltorb / Trapinch   |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Houndour / Voltorb   |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Voltorb / Wailmer    |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Trapinch / Voltorb   |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Houndour / Trapinch  |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Trapinch / Wailmer   |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Gastly / Magnemite   |    1 |   1.61% | 100.00% |
+| 224  | Magnemite / Gastly / Wailmer    |    1 |   1.61% | 100.00% |
+| 224  | Voltorb / Gastly / Magnemite    |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Gastly / Magnemite     |    1 |   1.61% | 100.00% |
+| 224  | Oddish / Cacnea / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Gastly / Oddish        |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Cacnea / Oddish       |    1 |   1.61% | 100.00% |
+| 224  | Oddish / Gastly / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Oddish / Wailmer      |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Oddish / Gastly       |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Mankey / Voltorb     |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Mankey / Lileep      |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Mankey / Horsea      |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Mankey / Wailmer     |    1 |   1.61% | 100.00% |
+| 224  | Mankey / Voltorb / Lileep       |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Mankey / Voltorb       |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Mankey / Lileep        |    1 |   1.61% | 100.00% |
+| 224  | Mankey / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Mankey / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Voltorb / Lileep     |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Houndour / Voltorb     |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Houndour / Lileep      |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Lileep / Wailmer     |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Houndour / Wailmer     |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Voltorb / Lileep       |    1 |   1.61% | 100.00% |
+| 224  | Voltorb / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Snubbull / Chinchou   |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Snubbull / Voltorb    |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Snubbull / Anorith    |    1 |   1.61% | 100.00% |
+| 224  | Cubone / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Cubone / Lileep      |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Cubone / Lileep       |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Cubone / Lileep        |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Cubone / Wailmer     |    1 |   1.61% | 100.00% |
+| 224  | Horsea / Cubone / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Snubbull / Cubone     |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Cubone / Horsea      |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Horsea / Cubone       |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Lileep / Horsea      |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Horsea / Lileep       |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Cacnea / Chinchou     |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Koffing / Cacnea      |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Cacnea / Voltorb      |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Togepi / Wailmer     |    1 |   1.61% | 100.00% |
+| 224  | Gastly / Togepi / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Togepi / Wailmer    |    1 |   1.61% | 100.00% |
+| 224  | Togepi / Elekid / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Gastly / Togepi      |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Houndour / Togepi   |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Togepi / Elekid      |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Gastly / Togepi     |    1 |   1.61% | 100.00% |
+| 224  | Gastly / Togepi / Elekid        |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Togepi / Elekid     |    1 |   1.61% | 100.00% |
+| 224  | Exeggcute / Houndour / Gastly   |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Ponyta / Exeggcute    |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Elekid / Staryu        |    1 |   1.61% | 100.00% |
+| 224  | Trapinch / Voltorb / Staryu     |    1 |   1.61% | 100.00% |
+| 224  | Trapinch / Ponyta / Staryu      |    1 |   1.61% | 100.00% |
+| 224  | Ponyta / Elekid / Staryu        |    1 |   1.61% | 100.00% |
+| 224  | Ponyta / Staryu / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Ponyta / Voltorb / Staryu       |    1 |   1.61% | 100.00% |
+| 224  | Trapinch / Ponyta / Elekid      |    1 |   1.61% | 100.00% |
+| 224  | Ponyta / Voltorb / Elekid       |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Gastly / Pineco      |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Pineco / Wailmer     |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Pineco / Onix        |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Pineco / Elekid      |    1 |   1.61% | 100.00% |
+| 224  | Gastly / Pineco / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Gastly / Pineco / Onix          |    1 |   1.61% | 100.00% |
+| 224  | Gastly / Pineco / Elekid        |    1 |   1.61% | 100.00% |
+| 224  | Pineco / Onix / Wailmer         |    1 |   1.61% | 100.00% |
+| 224  | Pineco / Elekid / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Elekid / Pineco / Onix          |    1 |   1.61% | 100.00% |
+| 224  | Lileep / Onix / Wailmer         |    1 |   1.61% | 100.00% |
+| 224  | Lileep / Gastly / Onix          |    1 |   1.61% | 100.00% |
+| 224  | Lileep / Elekid / Onix          |    1 |   1.61% | 100.00% |
+| 224  | Lileep / Snubbull / Onix        |    1 |   1.61% | 100.00% |
+| 224  | Bagon / Gastly / Staryu         |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Trapinch / Staryu    |    1 |   1.61% | 100.00% |
+| 224  | Bagon / Houndour / Staryu       |    1 |   1.61% | 100.00% |
+| 224  | Bagon / Trapinch / Staryu       |    1 |   1.61% | 100.00% |
+| 224  | Bagon / Staryu / Wailmer        |    1 |   1.61% | 100.00% |
+| 224  | Houndour / Gastly / Trapinch    |    1 |   1.61% | 100.00% |
+| 224  | Bagon / Houndour / Gastly       |    1 |   1.61% | 100.00% |
+| 224  | Bagon / Houndour / Trapinch     |    1 |   1.61% | 100.00% |
+| 224  | Bagon / Houndour / Wailmer      |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Trapinch / Voltorb     |    1 |   1.61% | 100.00% |
+| 224  | Trapinch / Voltorb / Lileep     |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Voltorb / Lileep       |    1 |   1.61% | 100.00% |
+| 224  | Voltorb / Chinchou / Lileep     |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Trapinch / Lileep      |    1 |   1.61% | 100.00% |
+| 224  | Trapinch / Chinchou / Lileep    |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Chinchou / Lileep      |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Ponyta / Elekid        |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Ponyta / Elekid      |    1 |   1.61% | 100.00% |
+| 224  | Ponyta / Chinchou / Elekid      |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Snubbull / Cacnea     |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Cacnea / Larvitar     |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Cacnea / Doduo        |    1 |   1.61% | 100.00% |
+| 224  | Cacnea / Doduo / Wailmer        |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Snubbull / Cacnea    |    1 |   1.61% | 100.00% |
+| 224  | Snubbull / Cacnea / Doduo       |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Cacnea / Doduo       |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Larvitar / Wailmer    |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Doduo / Wailmer       |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Snubbull / Larvitar   |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Snubbull / Doduo      |    1 |   1.61% | 100.00% |
+| 224  | Koffing / Doduo / Larvitar      |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Snubbull / Wailmer   |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Doduo / Wailmer      |    1 |   1.61% | 100.00% |
+| 224  | Larvitar / Snubbull / Doduo     |    1 |   1.61% | 100.00% |
+| 224  | Anorith / Snubbull / Houndour   |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Houndour / Wailmer   |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Snubbull / Houndour |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Houndour / Elekid    |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Houndour / Wailmer    |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Houndour / Exeggcute  |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Houndour / Elekid     |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Voltorb / Doduo      |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Doduo / Duskull       |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Voltorb / Doduo         |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Duskull / Doduo      |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Bagon / Doduo        |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Duskull / Doduo         |    1 |   1.61% |   0.00% |
+| 224  | Duskull / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Voltorb / Duskull    |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Bagon / Voltorb      |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Voltorb / Duskull       |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Wailmer / Duskull     |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Bagon / Duskull      |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Duskull / Wailmer    |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Bagon / Wailmer      |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Duskull / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Machop / Chinchou / Lileep      |    1 |   1.61% |   0.00% |
+| 224  | Machop / Snubbull / Lileep      |    1 |   1.61% |   0.00% |
+| 224  | Lileep / Chinchou / Elekid      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Gastly / Exeggcute    |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Gastly / Chinchou   |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Chinchou / Elekid   |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Trapinch / Ponyta     |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Ponyta / Chinchou    |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Bagon / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Cacnea / Voltorb / Elekid       |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Cacnea / Voltorb        |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Cacnea / Elekid       |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Bagon / Cacnea        |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Voltorb / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Bagon / Voltorb       |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Bagon / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Ponyta / Lileep      |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Chinchou / Exeggcute  |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Trapinch / Chinchou |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Voltorb / Exeggcute   |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Exeggcute / Wailmer   |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Trapinch / Exeggcute  |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Voltorb / Staryu      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Cubone / Staryu       |    1 |   1.61% |   0.00% |
+| 224  | Cubone / Staryu / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Elekid / Cubone / Staryu        |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Cubone / Staryu       |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Cubone / Elekid       |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Voltorb / Cubone      |    1 |   1.61% |   0.00% |
+| 224  | Cubone / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Cubone / Wailmer      |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Cubone / Elekid       |    1 |   1.61% |   0.00% |
+| 224  | Lileep / Elekid / Staryu        |    1 |   1.61% |   0.00% |
+| 224  | Lileep / Staryu / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Staryu / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Lileep / Snubbull / Staryu      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Lileep / Staryu       |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Snubbull / Staryu     |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Cacnea / Ponyta       |    1 |   1.61% |   0.00% |
+| 224  | Cacnea / Gastly / Chinchou      |    1 |   1.61% |   0.00% |
+| 224  | Cacnea / Trapinch / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Cacnea / Trapinch       |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Cacnea / Gastly         |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Trapinch / Elekid       |    1 |   1.61% |   0.00% |
+| 224  | Bagon / Gastly / Elekid         |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Trapinch / Doduo     |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Elekid / Doduo       |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Voltorb / Ponyta    |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Gastly / Voltorb    |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Voltorb / Gastly     |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Trapinch / Ponyta   |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Gastly / Ponyta     |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Ponyta / Gastly      |    1 |   1.61% |   0.00% |
+| 224  | Ponyta / Chinchou / Meowth      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Chinchou / Meowth     |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Chinchou / Meowth     |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Ponyta / Meowth       |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Ponyta / Meowth       |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Koffing / Meowth      |    1 |   1.61% |   0.00% |
+| 224  | Koffing / Ponyta / Chinchou     |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Koffing / Ponyta      |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Snubbull / Voltorb  |    1 |   1.61% |   0.00% |
+| 224  | Exeggcute / Voltorb / Anorith   |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Voltorb / Gastly      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Horsea / Gastly       |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Horsea / Voltorb      |    1 |   1.61% |   0.00% |
+| 224  | Ponyta / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 224  | Chinchou / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 224  | Ponyta / Chinchou / Doduo       |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Ponyta / Doduo       |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Ponyta / Doduo        |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Chinchou / Doduo     |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Chinchou / Doduo      |    1 |   1.61% |   0.00% |
+| 224  | Gastly / Elekid / Doduo         |    1 |   1.61% |   0.00% |
+| 224  | Mankey / Elekid / Doduo         |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Gastly / Doduo       |    1 |   1.61% |   0.00% |
+| 224  | Gastly / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 224  | Mankey / Gastly / Doduo         |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Doduo / Mankey       |    1 |   1.61% |   0.00% |
+| 224  | Mankey / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 224  | Mankey / Gastly / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Elekid / Mankey      |    1 |   1.61% |   0.00% |
+| 224  | Mankey / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Gastly / Mankey      |    1 |   1.61% |   0.00% |
+| 224  | Mankey / Trapinch / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Spoink / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Spoink / Lileep / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Spoink / Lileep       |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Spoink / Lileep      |    1 |   1.61% |   0.00% |
+| 224  | Spoink / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Spoink / Wailmer      |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Spoink / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Spoink / Elekid       |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Spoink / Elekid      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Snubbull / Spoink     |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Gastly / Staryu       |    1 |   1.61% |   0.00% |
+| 224  | Gastly / Chinchou / Staryu      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Chinchou / Staryu     |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Trapinch / Staryu     |    1 |   1.61% |   0.00% |
+| 224  | Elekid / Chinchou / Staryu      |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Chinchou / Staryu    |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Trapinch / Gastly     |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Gastly / Chinchou    |    1 |   1.61% |   0.00% |
+| 224  | Machop / Gastly / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Machop / Ponyta / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Machop / Gastly / Lileep        |    1 |   1.61% |   0.00% |
+| 224  | Machop / Ponyta / Lileep        |    1 |   1.61% |   0.00% |
+| 224  | Machop / Gastly / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Ponyta / Machop / Gastly        |    1 |   1.61% |   0.00% |
+| 224  | Machop / Ponyta / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Ponyta / Elekid / Lileep        |    1 |   1.61% |   0.00% |
+| 224  | Ponyta / Gastly / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Machop / Cacnea / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Machop / Cacnea / Houndour      |    1 |   1.61% |   0.00% |
+| 224  | Machop / Cacnea / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Machop / Cacnea      |    1 |   1.61% |   0.00% |
+| 224  | Machop / Houndour / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Machop / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Machop / Houndour / Elekid      |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Machop / Houndour    |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Machop / Elekid      |    1 |   1.61% |   0.00% |
+| 224  | Houndour / Cacnea / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Houndour / Cacnea / Elekid      |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Houndour / Cacnea    |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Cacnea / Elekid      |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Elekid / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Larvitar / Houndour / Elekid    |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Trapinch / Voltorb    |    1 |   1.61% |   0.00% |
+| 224  | Trapinch / Voltorb / Doduo      |    1 |   1.61% |   0.00% |
+| 224  | Anorith / Voltorb / Doduo       |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Doduo / Elekid        |    1 |   1.61% |   0.00% |
+| 224  | Magnemite / Cacnea / Wailmer    |    1 |   1.61% |   0.00% |
+| 224  | Horsea / Cacnea / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Cacnea / Voltorb     |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Cacnea / Magnemite   |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Cacnea / Horsea      |    1 |   1.61% |   0.00% |
+| 224  | Cacnea / Voltorb / Magnemite    |    1 |   1.61% |   0.00% |
+| 224  | Horsea / Cacnea / Voltorb       |    1 |   1.61% |   0.00% |
+| 224  | Horsea / Cacnea / Magnemite     |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Voltorb / Ponyta     |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Mankey / Ponyta      |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Mankey / Gastly      |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Mankey / Wailmer     |    1 |   1.61% |   0.00% |
+| 224  | Snubbull / Mankey / Voltorb     |    1 |   1.61% |   0.00% |
+| 224  | Gastly / Ponyta / Mankey        |    1 |   1.61% |   0.00% |
+| 224  | Mankey / Ponyta / Wailmer       |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Ponyta / Mankey       |    1 |   1.61% |   0.00% |
+| 224  | Voltorb / Gastly / Mankey       |    1 |   1.61% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Anorith / Trapinch / Chinchou / Elekid    |    5 |   8.06% |  40.00% |
+| 1    | Anorith / Trapinch / Elekid / Wailmer     |    5 |   8.06% |  40.00% |
+| 1    | Anorith / Snubbull / Elekid / Wailmer     |    5 |   8.06% |  20.00% |
+| 4    | Snubbull / Cacnea / Chinchou / Elekid     |    4 |   6.45% |  50.00% |
+| 4    | Anorith / Snubbull / Trapinch / Elekid    |    4 |   6.45% |  50.00% |
+| 4    | Snubbull / Voltorb / Gastly / Wailmer     |    4 |   6.45% |  50.00% |
+| 4    | Snubbull / Voltorb / Horsea / Wailmer     |    4 |   6.45% |  50.00% |
+| 4    | Lileep / Snubbull / Elekid / Wailmer      |    4 |   6.45% |  25.00% |
+| 4    | Anorith / Snubbull / Cacnea / Chinchou    |    4 |   6.45% |  25.00% |
+| 4    | Anorith / Snubbull / Chinchou / Elekid    |    4 |   6.45% |  25.00% |
+| 4    | Anorith / Ponyta / Chinchou / Wailmer     |    4 |   6.45% |  25.00% |
+| 4    | Snubbull / Ponyta / Chinchou / Wailmer    |    4 |   6.45% |  25.00% |
+| 4    | Anorith / Snubbull / Chinchou / Wailmer   |    4 |   6.45% |  25.00% |
+| 14   | Machop / Chinchou / Snubbull / Elekid     |    3 |   4.84% |  66.67% |
+| 14   | Trapinch / Voltorb / Elekid / Wailmer     |    3 |   4.84% |  66.67% |
+| 14   | Snubbull / Trapinch / Elekid / Wailmer    |    3 |   4.84% |  66.67% |
+| 14   | Snubbull / Cacnea / Trapinch / Elekid     |    3 |   4.84% |  66.67% |
+| 14   | Koffing / Trapinch / Chinchou / Elekid    |    3 |   4.84% |  66.67% |
+| 14   | Koffing / Chinchou / Anorith / Wailmer    |    3 |   4.84% |  66.67% |
+| 14   | Snubbull / Cacnea / Ponyta / Chinchou     |    3 |   4.84% |  66.67% |
+| 14   | Snubbull / Gastly / Horsea / Wailmer      |    3 |   4.84% |  66.67% |
+| 14   | Snubbull / Voltorb / Gastly / Horsea      |    3 |   4.84% |  66.67% |
+| 14   | Horsea / Voltorb / Gastly / Wailmer       |    3 |   4.84% |  66.67% |
+| 14   | Anorith / Snubbull / Cacnea / Elekid      |    3 |   4.84% |  33.33% |
+| 14   | Anorith / Cacnea / Chinchou / Elekid      |    3 |   4.84% |  33.33% |
+| 14   | Anorith / Trapinch / Chinchou / Wailmer   |    3 |   4.84% |  33.33% |
+| 14   | Koffing / Trapinch / Chinchou / Wailmer   |    3 |   4.84% |  33.33% |
+| 14   | Ponyta / Gastly / Lileep / Wailmer        |    3 |   4.84% |  33.33% |
+| 14   | Anorith / Lileep / Elekid / Wailmer       |    3 |   4.84% |  33.33% |
+| 14   | Anorith / Snubbull / Lileep / Wailmer     |    3 |   4.84% |  33.33% |
+| 14   | Anorith / Snubbull / Voltorb / Wailmer    |    3 |   4.84% |  33.33% |
+| 14   | Houndour / Gastly / Staryu / Wailmer      |    3 |   4.84% |  33.33% |
+| 14   | Houndour / Gastly / Elekid / Wailmer      |    3 |   4.84% |  33.33% |
+| 14   | Anorith / Gastly / Chinchou / Elekid      |    3 |   4.84% |   0.00% |
+| 14   | Trapinch / Elekid / Doduo / Wailmer       |    3 |   4.84% |   0.00% |
+| 36   | Snubbull / Cacnea / Trapinch / Staryu     |    2 |   3.23% | 100.00% |
+| 36   | Cacnea / Gastly / Trapinch / Staryu       |    2 |   3.23% | 100.00% |
+| 36   | Snubbull / Cacnea / Gastly / Staryu       |    2 |   3.23% | 100.00% |
+| 36   | Snubbull / Cacnea / Gastly / Trapinch     |    2 |   3.23% | 100.00% |
+| 36   | Snubbull / Trapinch / Gastly / Staryu     |    2 |   3.23% | 100.00% |
+| 36   | Koffing / Voltorb / Chinchou / Anorith    |    2 |   3.23% | 100.00% |
+| 36   | Snubbull / Gastly / Onix / Wailmer        |    2 |   3.23% | 100.00% |
+| 36   | Snubbull / Gastly / Elekid / Wailmer      |    2 |   3.23% | 100.00% |
+| 36   | Snubbull / Gastly / Onix / Elekid         |    2 |   3.23% | 100.00% |
+| 36   | Snubbull / Elekid / Onix / Wailmer        |    2 |   3.23% | 100.00% |
+| 36   | Gastly / Elekid / Onix / Wailmer          |    2 |   3.23% | 100.00% |
+| 36   | Exeggcute / Houndour / Elekid / Wailmer   |    2 |   3.23% |  50.00% |
+| 36   | Machop / Chinchou / Elekid / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Machop / Chinchou / Snubbull / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Machop / Snubbull / Elekid / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Chinchou / Elekid / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Snubbull / Cacnea / Trapinch    |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Cacnea / Chinchou / Trapinch   |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Cacnea / Trapinch / Elekid      |    2 |   3.23% |  50.00% |
+| 36   | Cacnea / Chinchou / Trapinch / Elekid     |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Cacnea / Chinchou / Trapinch    |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Trapinch / Chinchou / Elekid   |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Snubbull / Trapinch / Chinchou  |    2 |   3.23% |  50.00% |
+| 36   | Trapinch / Voltorb / Chinchou / Wailmer   |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Snubbull / Trapinch / Wailmer   |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Trapinch / Chinchou / Anorith   |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Chinchou / Elekid / Wailmer     |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Elekid / Chinchou / Anorith     |    2 |   3.23% |  50.00% |
+| 36   | Trapinch / Chinchou / Elekid / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Chinchou / Elekid / Wailmer     |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Trapinch / Anorith / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Trapinch / Elekid / Wailmer     |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Trapinch / Elekid / Anorith     |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Elekid / Anorith / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Gastly / Lileep / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Ponyta / Gastly / Chinchou / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Ponyta / Gastly / Chinchou / Lileep       |    2 |   3.23% |  50.00% |
+| 36   | Gastly / Chinchou / Lileep / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Ponyta / Chinchou / Lileep / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Voltorb / Chinchou / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Koffing / Trapinch / Voltorb / Chinchou   |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Cacnea / Chinchou / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Cacnea / Ponyta / Chinchou / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Cacnea / Ponyta / Wailmer      |    2 |   3.23% |  50.00% |
+| 36   | Voltorb / Elekid / Staryu / Wailmer       |    2 |   3.23% |  50.00% |
+| 36   | Magnemite / Snubbull / Voltorb / Wailmer  |    2 |   3.23% |  50.00% |
+| 36   | Magnemite / Snubbull / Horsea / Wailmer   |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Voltorb / Horsea / Magnemite   |    2 |   3.23% |  50.00% |
+| 36   | Magnemite / Horsea / Voltorb / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Cacnea / Gastly / Elekid       |    2 |   3.23% |  50.00% |
+| 36   | Bagon / Trapinch / Gastly / Wailmer       |    2 |   3.23% |  50.00% |
+| 36   | Cacnea / Gastly / Trapinch / Elekid       |    2 |   3.23% |  50.00% |
+| 36   | Snubbull / Voltorb / Chinchou / Wailmer   |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Voltorb / Chinchou / Wailmer    |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Snubbull / Voltorb / Chinchou   |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Snubbull / Horsea / Wailmer     |    2 |   3.23% |  50.00% |
+| 36   | Ponyta / Trapinch / Voltorb / Wailmer     |    2 |   3.23% |  50.00% |
+| 36   | Trapinch / Gastly / Staryu / Elekid       |    2 |   3.23% |  50.00% |
+| 36   | Gastly / Elekid / Lileep / Wailmer        |    2 |   3.23% |  50.00% |
+| 36   | Anorith / Snubbull / Exeggcute / Wailmer  |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Snubbull / Exeggcute / Elekid   |    2 |   3.23% |   0.00% |
+| 36   | Lileep / Machop / Elekid / Wailmer        |    2 |   3.23% |   0.00% |
+| 36   | Snubbull / Chinchou / Lileep / Wailmer    |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Snubbull / Gastly / Chinchou    |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Snubbull / Gastly / Elekid      |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Snubbull / Chinchou / Exeggcute |    2 |   3.23% |   0.00% |
+| 36   | Snubbull / Gastly / Chinchou / Elekid     |    2 |   3.23% |   0.00% |
+| 36   | Bagon / Cacnea / Elekid / Wailmer         |    2 |   3.23% |   0.00% |
+| 36   | Ponyta / Snubbull / Gastly / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Exeggcute / Voltorb / Chinchou / Wailmer  |    2 |   3.23% |   0.00% |
+| 36   | Exeggcute / Trapinch / Voltorb / Wailmer  |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Elekid / Staryu / Wailmer       |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Voltorb / Elekid / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Lileep / Snubbull / Elekid      |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Snubbull / Ponyta / Chinchou    |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Snubbull / Ponyta / Wailmer     |    2 |   3.23% |   0.00% |
+| 36   | Trapinch / Gastly / Elekid / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Gastly / Staryu / Wailmer        |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Elekid / Staryu / Wailmer        |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Houndour / Staryu / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Gastly / Staryu / Elekid         |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Houndour / Gastly / Staryu       |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Houndour / Elekid / Staryu       |    2 |   3.23% |   0.00% |
+| 36   | Gastly / Elekid / Staryu / Wailmer        |    2 |   3.23% |   0.00% |
+| 36   | Houndour / Elekid / Staryu / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Houndour / Gastly / Staryu / Elekid       |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Gastly / Elekid / Wailmer        |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Houndour / Gastly / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Houndour / Elekid / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Grimer / Houndour / Gastly / Elekid       |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Trapinch / Elekid / Doduo       |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Trapinch / Doduo / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Elekid / Doduo / Wailmer        |    2 |   3.23% |   0.00% |
+| 36   | Anorith / Snubbull / Doduo / Wailmer      |    2 |   3.23% |   0.00% |
+| 36   | Ponyta / Gastly / Voltorb / Wailmer       |    2 |   3.23% |   0.00% |
+| 131  | Exeggcute / Cacnea / Trapinch / Staryu    |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Snubbull / Cacnea / Staryu    |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Cacnea / Gastly / Staryu      |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Snubbull / Cacnea / Trapinch  |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Cacnea / Gastly / Trapinch    |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Snubbull / Cacnea / Gastly    |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Snubbull / Trapinch / Staryu  |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Trapinch / Gastly / Staryu    |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Snubbull / Gastly / Staryu    |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Snubbull / Trapinch / Gastly  |    1 |   1.61% | 100.00% |
+| 131  | Machop / Voltorb / Snubbull / Elekid      |    1 |   1.61% | 100.00% |
+| 131  | Machop / Voltorb / Chinchou / Snubbull    |    1 |   1.61% | 100.00% |
+| 131  | Machop / Voltorb / Chinchou / Elekid      |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Voltorb / Chinchou / Elekid    |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Trapinch / Voltorb / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Voltorb / Elekid / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Trapinch / Voltorb / Elekid    |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Voltorb / Chinchou / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Voltorb / Chinchou / Trapinch  |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Houndour / Voltorb / Chinchou  |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Voltorb / Chinchou / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Trapinch / Voltorb / Chinchou  |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Chinchou / Trapinch / Wailmer  |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Houndour / Chinchou / Wailmer  |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Houndour / Chinchou / Trapinch |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Trapinch / Chinchou / Wailmer  |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Voltorb / Trapinch / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Houndour / Voltorb / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Houndour / Voltorb / Trapinch  |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Trapinch / Voltorb / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Houndour / Trapinch / Wailmer  |    1 |   1.61% | 100.00% |
+| 131  | Magnemite / Snubbull / Gastly / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Voltorb / Gastly / Magnemite   |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Gastly / Horsea / Magnemite    |    1 |   1.61% | 100.00% |
+| 131  | Magnemite / Voltorb / Gastly / Wailmer    |    1 |   1.61% | 100.00% |
+| 131  | Magnemite / Horsea / Gastly / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Voltorb / Gastly / Magnemite     |    1 |   1.61% | 100.00% |
+| 131  | Oddish / Cacnea / Gastly / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Cacnea / Gastly / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Oddish / Cacnea / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Cacnea / Gastly / Oddish        |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Oddish / Gastly / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Mankey / Voltorb / Lileep      |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Mankey / Voltorb / Horsea      |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Mankey / Voltorb / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Mankey / Lileep / Horsea       |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Mankey / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Mankey / Horsea / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Mankey / Voltorb / Lileep        |    1 |   1.61% | 100.00% |
+| 131  | Mankey / Voltorb / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Mankey / Voltorb / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Mankey / Lileep / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Houndour / Voltorb / Lileep      |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Voltorb / Lileep / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Houndour / Voltorb / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Houndour / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Voltorb / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Chinchou / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Voltorb / Wailmer    |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Anorith / Wailmer    |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Voltorb / Anorith / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Voltorb / Chinchou   |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Chinchou / Anorith   |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Voltorb / Anorith    |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Cubone / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Cubone / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Horsea / Cubone / Lileep / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Snubbull / Cubone / Lileep      |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Cubone / Lileep / Horsea       |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Horsea / Cubone / Lileep        |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Snubbull / Cubone / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Cubone / Horsea / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Horsea / Cubone / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Snubbull / Cubone / Horsea      |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Horsea / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Horsea / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Snubbull / Lileep / Horsea      |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Koffing / Cacnea / Chinchou     |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Cacnea / Voltorb / Chinchou     |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Cacnea / Voltorb / Chinchou     |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Koffing / Cacnea / Voltorb      |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Gastly / Togepi / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Houndour / Togepi / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Togepi / Elekid / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Gastly / Togepi / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Gastly / Togepi / Elekid / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Togepi / Elekid / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Houndour / Gastly / Togepi    |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Gastly / Togepi / Elekid       |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Houndour / Togepi / Elekid    |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Gastly / Togepi / Elekid      |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Houndour / Gastly / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Gastly / Elekid / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Exeggcute / Houndour / Gastly / Elekid    |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Ponyta / Exeggcute / Wailmer    |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Gastly / Staryu / Elekid       |    1 |   1.61% | 100.00% |
+| 131  | Cacnea / Gastly / Staryu / Elekid         |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Trapinch / Elekid / Staryu     |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Cacnea / Elekid / Staryu       |    1 |   1.61% | 100.00% |
+| 131  | Cacnea / Trapinch / Elekid / Staryu       |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Trapinch / Gastly / Elekid     |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Elekid / Staryu / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Elekid / Staryu / Voltorb      |    1 |   1.61% | 100.00% |
+| 131  | Ponyta / Trapinch / Elekid / Staryu       |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Voltorb / Staryu / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Ponyta / Staryu / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Ponyta / Trapinch / Voltorb / Staryu      |    1 |   1.61% | 100.00% |
+| 131  | Ponyta / Elekid / Staryu / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Ponyta / Voltorb / Elekid / Staryu        |    1 |   1.61% | 100.00% |
+| 131  | Ponyta / Voltorb / Staryu / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Ponyta / Elekid / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Ponyta / Trapinch / Voltorb / Elekid      |    1 |   1.61% | 100.00% |
+| 131  | Ponyta / Voltorb / Elekid / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Gastly / Pineco / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Gastly / Pineco / Onix         |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Gastly / Pineco / Elekid       |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Pineco / Onix / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Pineco / Elekid / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Elekid / Pineco / Onix         |    1 |   1.61% | 100.00% |
+| 131  | Gastly / Pineco / Onix / Wailmer          |    1 |   1.61% | 100.00% |
+| 131  | Gastly / Pineco / Elekid / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Gastly / Pineco / Onix / Elekid           |    1 |   1.61% | 100.00% |
+| 131  | Elekid / Pineco / Onix / Wailmer          |    1 |   1.61% | 100.00% |
+| 131  | Lileep / Gastly / Onix / Wailmer          |    1 |   1.61% | 100.00% |
+| 131  | Lileep / Elekid / Onix / Wailmer          |    1 |   1.61% | 100.00% |
+| 131  | Lileep / Snubbull / Onix / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Lileep / Gastly / Onix / Elekid           |    1 |   1.61% | 100.00% |
+| 131  | Lileep / Gastly / Snubbull / Onix         |    1 |   1.61% | 100.00% |
+| 131  | Lileep / Elekid / Snubbull / Onix         |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Gastly / Lileep / Elekid       |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Gastly / Trapinch / Staryu     |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Houndour / Gastly / Staryu        |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Gastly / Staryu / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Trapinch / Gastly / Staryu        |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Gastly / Staryu / Wailmer         |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Trapinch / Staryu / Wailmer    |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Houndour / Trapinch / Staryu      |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Houndour / Staryu / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Trapinch / Staryu / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Houndour / Gastly / Trapinch / Wailmer    |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Houndour / Gastly / Trapinch      |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Houndour / Gastly / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Bagon / Houndour / Trapinch / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Cacnea / Trapinch / Voltorb / Chinchou    |    1 |   1.61% | 100.00% |
+| 131  | Cacnea / Trapinch / Voltorb / Lileep      |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Voltorb / Chinchou / Lileep    |    1 |   1.61% | 100.00% |
+| 131  | Cacnea / Voltorb / Chinchou / Lileep      |    1 |   1.61% | 100.00% |
+| 131  | Cacnea / Trapinch / Chinchou / Lileep     |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Cacnea / Ponyta / Elekid       |    1 |   1.61% | 100.00% |
+| 131  | Cacnea / Ponyta / Chinchou / Elekid       |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Ponyta / Chinchou / Elekid     |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Cacnea / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Larvitar / Cacnea / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Cacnea / Doduo / Wailmer        |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Cacnea / Larvitar    |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Cacnea / Doduo       |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Cacnea / Doduo / Larvitar       |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Snubbull / Cacnea / Wailmer    |    1 |   1.61% | 100.00% |
+| 131  | Snubbull / Cacnea / Doduo / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Cacnea / Doduo / Wailmer       |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Snubbull / Cacnea / Doduo      |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Larvitar / Wailmer   |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Doduo / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Larvitar / Doduo / Wailmer      |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Snubbull / Doduo / Larvitar     |    1 |   1.61% | 100.00% |
+| 131  | Larvitar / Snubbull / Doduo / Wailmer     |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Voltorb / Chinchou / Elekid     |    1 |   1.61% | 100.00% |
+| 131  | Trapinch / Voltorb / Chinchou / Elekid    |    1 |   1.61% | 100.00% |
+| 131  | Koffing / Trapinch / Voltorb / Elekid     |    1 |   1.61% | 100.00% |
+| 131  | Anorith / Snubbull / Houndour / Wailmer   |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Houndour / Exeggcute |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Houndour / Elekid    |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Elekid / Wailmer   |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Houndour / Wailmer |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Houndour / Elekid / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Houndour / Elekid  |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Exeggcute / Elekid / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Houndour / Exeggcute / Wailmer  |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Houndour / Elekid / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Houndour / Exeggcute / Elekid   |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Voltorb / Doduo / Duskull      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Bagon / Voltorb / Doduo        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Voltorb / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Voltorb / Doduo / Duskull         |    1 |   1.61% |   0.00% |
+| 131  | Wailmer / Voltorb / Doduo / Duskull       |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Voltorb / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Bagon / Duskull / Doduo        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Duskull / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Bagon / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Duskull / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Bagon / Voltorb / Duskull      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Voltorb / Wailmer / Duskull    |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Bagon / Voltorb / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Voltorb / Wailmer / Duskull       |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Bagon / Duskull / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Lileep / Machop / Chinchou / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Machop / Chinchou / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Machop / Chinchou / Snubbull / Lileep     |    1 |   1.61% |   0.00% |
+| 131  | Lileep / Machop / Snubbull / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Machop / Snubbull / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Lileep / Chinchou / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Lileep / Snubbull / Chinchou / Elekid     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Gastly / Exeggcute   |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Gastly / Chinchou / Exeggcute   |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Gastly / Exeggcute / Elekid     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Chinchou / Exeggcute / Elekid   |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Gastly / Chinchou  |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Gastly / Elekid    |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Gastly / Chinchou / Elekid    |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Chinchou / Elekid  |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Ponyta / Chinchou    |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Ponyta / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Ponyta / Chinchou / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Cacnea / Voltorb / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Cacnea / Voltorb / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Cacnea / Voltorb / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Cacnea / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Bagon / Cacnea / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Voltorb / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Voltorb / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Bagon / Voltorb / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Bagon / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Cacnea / Voltorb / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Cacnea / Voltorb / Elekid         |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Bagon / Cacnea / Voltorb        |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Bagon / Cacnea / Elekid         |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Bagon / Voltorb / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Snubbull / Gastly / Chinchou     |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Gastly / Chinchou / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Gastly / Chinchou / Lileep     |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Snubbull / Gastly / Lileep       |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Ponyta / Chinchou / Lileep     |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Ponyta / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Voltorb / Chinchou / Exeggcute  |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Chinchou / Exeggcute / Wailmer  |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Trapinch / Chinchou / Exeggcute |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Trapinch / Voltorb / Chinchou |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Trapinch / Chinchou / Wailmer |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Trapinch / Voltorb / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Voltorb / Exeggcute / Wailmer   |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Trapinch / Voltorb / Exeggcute  |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Trapinch / Exeggcute / Wailmer  |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Staryu / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Cubone / Staryu / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Elekid / Staryu       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Elekid / Cubone / Staryu        |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Cubone / Staryu       |    1 |   1.61% |   0.00% |
+| 131  | Elekid / Cubone / Staryu / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Voltorb / Cubone / Staryu / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Voltorb / Elekid / Cubone / Staryu        |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Cubone / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Cubone / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Cubone / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Voltorb / Cubone / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Lileep / Elekid / Staryu / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Elekid / Staryu / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Lileep / Elekid / Snubbull / Staryu       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Lileep / Elekid / Staryu        |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Elekid / Staryu      |    1 |   1.61% |   0.00% |
+| 131  | Lileep / Snubbull / Staryu / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Lileep / Staryu / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Staryu / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Lileep / Snubbull / Staryu      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Cacnea / Ponyta      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Cacnea / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Cacnea / Ponyta / Chinchou      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Cacnea / Ponyta / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Cacnea / Chinchou / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Cacnea / Gastly / Chinchou / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Cacnea / Gastly / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Cacnea / Gastly / Chinchou     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Cacnea / Gastly      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Cacnea / Gastly / Chinchou      |    1 |   1.61% |   0.00% |
+| 131  | Cacnea / Trapinch / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Cacnea / Gastly / Trapinch / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Cacnea / Trapinch / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Cacnea / Gastly / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Cacnea / Gastly / Wailmer         |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Trapinch / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Gastly / Elekid / Wailmer         |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Cacnea / Trapinch / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Cacnea / Gastly / Trapinch        |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Cacnea / Gastly / Elekid          |    1 |   1.61% |   0.00% |
+| 131  | Bagon / Trapinch / Gastly / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Trapinch / Elekid / Doduo      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Trapinch / Doduo     |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Trapinch / Doduo / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Elekid / Doduo       |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Elekid / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Voltorb / Ponyta / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Gastly / Voltorb / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Gastly / Trapinch / Voltorb / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Trapinch / Voltorb / Ponyta   |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Gastly / Voltorb / Ponyta     |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Trapinch / Voltorb / Gastly   |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Trapinch / Voltorb / Gastly      |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Trapinch / Ponyta / Wailmer   |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Gastly / Ponyta / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Trapinch / Gastly / Wailmer   |    1 |   1.61% |   0.00% |
+| 131  | Gastly / Trapinch / Ponyta / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Trapinch / Ponyta / Gastly    |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Ponyta / Chinchou / Meowth      |    1 |   1.61% |   0.00% |
+| 131  | Koffing / Ponyta / Chinchou / Meowth      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Koffing / Chinchou / Meowth     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Koffing / Ponyta / Meowth       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Koffing / Ponyta / Chinchou     |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Voltorb / Chinchou |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Voltorb / Wailmer  |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Voltorb / Anorith  |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Snubbull / Chinchou / Wailmer |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Voltorb / Chinchou / Anorith  |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Voltorb / Anorith / Wailmer   |    1 |   1.61% |   0.00% |
+| 131  | Exeggcute / Chinchou / Anorith / Wailmer  |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Gastly / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Gastly / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Horsea / Gastly / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Horsea / Voltorb / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Voltorb / Gastly     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Gastly / Horsea      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Horsea / Voltorb / Gastly       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Voltorb / Horsea     |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Chinchou / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Ponyta / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Ponyta / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Chinchou / Doduo / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Chinchou / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Ponyta / Chinchou / Doduo      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Ponyta / Chinchou / Doduo       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Ponyta / Doduo       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Chinchou / Doduo     |    1 |   1.61% |   0.00% |
+| 131  | Gastly / Elekid / Trapinch / Doduo        |    1 |   1.61% |   0.00% |
+| 131  | Gastly / Elekid / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 131  | Gastly / Elekid / Doduo / Mankey          |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Elekid / Doduo / Mankey        |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Elekid / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Gastly / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Gastly / Doduo / Mankey        |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Gastly / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Trapinch / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Gastly / Elekid / Mankey       |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Gastly / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Trapinch / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Trapinch / Gastly / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Spoink / Elekid / Lileep / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Spoink / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Spoink / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Spoink / Lileep / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Spoink / Lileep / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Spoink / Lileep      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Spoink / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Spoink / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Spoink / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Snubbull / Spoink / Elekid      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Gastly / Staryu / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Gastly / Chinchou / Staryu      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Gastly / Staryu      |    1 |   1.61% |   0.00% |
+| 131  | Gastly / Chinchou / Staryu / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Gastly / Chinchou / Staryu     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Elekid / Chinchou / Staryu      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Elekid / Staryu      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Chinchou / Staryu    |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Elekid / Chinchou / Staryu     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Gastly / Elekid      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Gastly / Chinchou    |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Gastly / Chinchou / Elekid     |    1 |   1.61% |   0.00% |
+| 131  | Machop / Gastly / Lileep / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Machop / Ponyta / Lileep / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Machop / Gastly / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Machop / Gastly / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Machop / Ponyta / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Machop / Gastly / Lileep / Elekid         |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Machop / Gastly / Lileep         |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Machop / Elekid / Lileep         |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Machop / Gastly / Elekid         |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Elekid / Lileep / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Gastly / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Ponyta / Gastly / Lileep / Elekid         |    1 |   1.61% |   0.00% |
+| 131  | Houndour / Machop / Cacnea / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Machop / Cacnea / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Machop / Cacnea / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Machop / Cacnea / Elekid / Houndour       |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Machop / Cacnea / Houndour     |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Machop / Cacnea / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Machop / Houndour / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Machop / Houndour / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Machop / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Machop / Houndour / Elekid     |    1 |   1.61% |   0.00% |
+| 131  | Houndour / Cacnea / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Houndour / Cacnea / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Cacnea / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Houndour / Cacnea / Elekid     |    1 |   1.61% |   0.00% |
+| 131  | Larvitar / Houndour / Elekid / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Voltorb / Doduo      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Voltorb / Elekid     |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Trapinch / Voltorb / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Voltorb / Doduo / Elekid       |    1 |   1.61% |   0.00% |
+| 131  | Trapinch / Voltorb / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Doduo / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Anorith / Voltorb / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Wailmer / Voltorb / Doduo / Elekid        |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Cacnea / Voltorb / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Magnemite / Snubbull / Cacnea / Wailmer   |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Cacnea / Horsea / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Magnemite / Cacnea / Voltorb / Wailmer    |    1 |   1.61% |   0.00% |
+| 131  | Horsea / Cacnea / Voltorb / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Magnemite / Horsea / Cacnea / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Cacnea / Voltorb / Magnemite   |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Cacnea / Voltorb / Horsea      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Cacnea / Horsea / Magnemite    |    1 |   1.61% |   0.00% |
+| 131  | Horsea / Cacnea / Voltorb / Magnemite     |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Gastly / Ponyta / Voltorb      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Gastly / Ponyta / Mankey       |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Voltorb / Ponyta / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Mankey / Ponyta / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Voltorb / Ponyta / Mankey      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Mankey / Gastly / Wailmer      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Voltorb / Gastly / Mankey      |    1 |   1.61% |   0.00% |
+| 131  | Snubbull / Mankey / Voltorb / Wailmer     |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Gastly / Ponyta / Wailmer        |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Gastly / Ponyta / Voltorb        |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Voltorb / Ponyta / Wailmer       |    1 |   1.61% |   0.00% |
+| 131  | Mankey / Voltorb / Gastly / Wailmer       |    1 |   1.61% |   0.00% |
+
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                         | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Voltorb / Snubbull / Gastly / Horsea / Wailmer      |    3 |   4.84% |  66.67% |
+| 1    | Snubbull / Cacnea / Chinchou / Elekid / Anorith     |    3 |   4.84% |  33.33% |
+| 3    | Trapinch / Staryu / Snubbull / Cacnea / Gastly      |    2 |   3.23% | 100.00% |
+| 3    | Snubbull / Elekid / Gastly / Onix / Wailmer         |    2 |   3.23% | 100.00% |
+| 3    | Machop / Snubbull / Chinchou / Elekid / Wailmer     |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Snubbull / Cacnea / Elekid / Anorith     |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Snubbull / Cacnea / Chinchou / Elekid    |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Snubbull / Cacnea / Chinchou / Anorith   |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Cacnea / Chinchou / Elekid / Anorith     |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Snubbull / Chinchou / Elekid / Anorith   |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Snubbull / Elekid / Anorith / Wailmer    |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Koffing / Chinchou / Anorith / Wailmer   |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Koffing / Chinchou / Elekid / Wailmer    |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Koffing / Chinchou / Elekid / Anorith    |    2 |   3.23% |  50.00% |
+| 3    | Koffing / Chinchou / Elekid / Anorith / Wailmer     |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Chinchou / Elekid / Anorith / Wailmer    |    2 |   3.23% |  50.00% |
+| 3    | Trapinch / Koffing / Elekid / Anorith / Wailmer     |    2 |   3.23% |  50.00% |
+| 3    | Ponyta / Chinchou / Gastly / Lileep / Wailmer       |    2 |   3.23% |  50.00% |
+| 3    | Ponyta / Snubbull / Cacnea / Chinchou / Wailmer     |    2 |   3.23% |  50.00% |
+| 3    | Voltorb / Magnemite / Snubbull / Horsea / Wailmer   |    2 |   3.23% |  50.00% |
+| 3    | Voltorb / Snubbull / Chinchou / Anorith / Wailmer   |    2 |   3.23% |  50.00% |
+| 3    | Snubbull / Chinchou / Elekid / Anorith / Gastly     |    2 |   3.23% |   0.00% |
+| 3    | Snubbull / Elekid / Anorith / Lileep / Wailmer      |    2 |   3.23% |   0.00% |
+| 3    | Ponyta / Snubbull / Chinchou / Anorith / Wailmer    |    2 |   3.23% |   0.00% |
+| 3    | Staryu / Elekid / Gastly / Grimer / Wailmer         |    2 |   3.23% |   0.00% |
+| 3    | Staryu / Houndour / Gastly / Grimer / Wailmer       |    2 |   3.23% |   0.00% |
+| 3    | Staryu / Houndour / Elekid / Grimer / Wailmer       |    2 |   3.23% |   0.00% |
+| 3    | Staryu / Houndour / Elekid / Gastly / Grimer        |    2 |   3.23% |   0.00% |
+| 3    | Staryu / Houndour / Elekid / Gastly / Wailmer       |    2 |   3.23% |   0.00% |
+| 3    | Houndour / Elekid / Gastly / Grimer / Wailmer       |    2 |   3.23% |   0.00% |
+| 3    | Trapinch / Elekid / Anorith / Doduo / Wailmer       |    2 |   3.23% |   0.00% |
+| 32   | Exeggcute / Trapinch / Staryu / Snubbull / Cacnea   |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Trapinch / Staryu / Cacnea / Gastly     |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Staryu / Snubbull / Cacnea / Gastly     |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Trapinch / Snubbull / Cacnea / Gastly   |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Trapinch / Staryu / Snubbull / Gastly   |    1 |   1.61% | 100.00% |
+| 32   | Machop / Voltorb / Snubbull / Chinchou / Elekid     |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Voltorb / Snubbull / Elekid / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Voltorb / Houndour / Chinchou / Wailmer  |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Voltorb / Houndour / Chinchou / Wailmer  |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Trapinch / Voltorb / Houndour / Chinchou |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Trapinch / Voltorb / Chinchou / Wailmer  |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Trapinch / Houndour / Chinchou / Wailmer |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Trapinch / Voltorb / Houndour / Wailmer  |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Magnemite / Snubbull / Gastly / Wailmer   |    1 |   1.61% | 100.00% |
+| 32   | Magnemite / Snubbull / Gastly / Horsea / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Magnemite / Snubbull / Gastly / Horsea    |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Magnemite / Gastly / Horsea / Wailmer     |    1 |   1.61% | 100.00% |
+| 32   | Cacnea / Anorith / Oddish / Gastly / Wailmer        |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Houndour / Horsea / Mankey / Lileep       |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Houndour / Mankey / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Houndour / Horsea / Mankey / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Houndour / Horsea / Mankey / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Horsea / Mankey / Lileep / Wailmer        |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Houndour / Horsea / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Koffing / Snubbull / Chinchou / Wailmer   |    1 |   1.61% | 100.00% |
+| 32   | Koffing / Snubbull / Chinchou / Anorith / Wailmer   |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Koffing / Snubbull / Anorith / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Koffing / Chinchou / Anorith / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Koffing / Snubbull / Chinchou / Anorith   |    1 |   1.61% | 100.00% |
+| 32   | Cubone / Snubbull / Anorith / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Cubone / Snubbull / Horsea / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Cubone / Anorith / Horsea / Lileep / Wailmer        |    1 |   1.61% | 100.00% |
+| 32   | Cubone / Snubbull / Anorith / Horsea / Lileep       |    1 |   1.61% | 100.00% |
+| 32   | Cubone / Snubbull / Anorith / Horsea / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Anorith / Horsea / Lileep / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Voltorb / Koffing / Cacnea / Chinchou / Anorith     |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Houndour / Gastly / Togepi / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Houndour / Elekid / Gastly / Togepi / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Houndour / Elekid / Togepi / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Elekid / Gastly / Togepi / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Houndour / Elekid / Gastly / Togepi     |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Houndour / Elekid / Gastly / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Staryu / Snubbull / Elekid / Gastly      |    1 |   1.61% | 100.00% |
+| 32   | Staryu / Snubbull / Cacnea / Elekid / Gastly        |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Staryu / Cacnea / Elekid / Gastly        |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Staryu / Snubbull / Cacnea / Elekid      |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Snubbull / Cacnea / Elekid / Gastly      |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Voltorb / Staryu / Elekid / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Ponyta / Staryu / Elekid / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Ponyta / Voltorb / Staryu / Elekid       |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Ponyta / Voltorb / Staryu / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Ponyta / Voltorb / Staryu / Elekid / Wailmer        |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Ponyta / Voltorb / Elekid / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Gastly / Onix / Pineco / Wailmer         |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Elekid / Gastly / Pineco / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Elekid / Gastly / Onix / Pineco          |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Elekid / Onix / Pineco / Wailmer         |    1 |   1.61% | 100.00% |
+| 32   | Elekid / Gastly / Onix / Pineco / Wailmer           |    1 |   1.61% | 100.00% |
+| 32   | Elekid / Gastly / Onix / Lileep / Wailmer           |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Gastly / Onix / Lileep / Wailmer         |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Elekid / Onix / Lileep / Wailmer         |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Elekid / Gastly / Onix / Lileep          |    1 |   1.61% | 100.00% |
+| 32   | Snubbull / Elekid / Gastly / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Staryu / Houndour / Gastly / Wailmer     |    1 |   1.61% | 100.00% |
+| 32   | Bagon / Trapinch / Staryu / Houndour / Gastly       |    1 |   1.61% | 100.00% |
+| 32   | Bagon / Staryu / Houndour / Gastly / Wailmer        |    1 |   1.61% | 100.00% |
+| 32   | Bagon / Trapinch / Staryu / Gastly / Wailmer        |    1 |   1.61% | 100.00% |
+| 32   | Bagon / Trapinch / Staryu / Houndour / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Bagon / Trapinch / Houndour / Gastly / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Voltorb / Cacnea / Chinchou / Lileep     |    1 |   1.61% | 100.00% |
+| 32   | Ponyta / Snubbull / Cacnea / Chinchou / Elekid      |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Koffing / Snubbull / Cacnea / Wailmer    |    1 |   1.61% | 100.00% |
+| 32   | Koffing / Snubbull / Cacnea / Doduo / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Koffing / Cacnea / Doduo / Wailmer       |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Koffing / Snubbull / Cacnea / Doduo      |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Snubbull / Cacnea / Doduo / Wailmer      |    1 |   1.61% | 100.00% |
+| 32   | Larvitar / Koffing / Snubbull / Doduo / Wailmer     |    1 |   1.61% | 100.00% |
+| 32   | Trapinch / Voltorb / Koffing / Chinchou / Elekid    |    1 |   1.61% | 100.00% |
+| 32   | Exeggcute / Snubbull / Elekid / Anorith / Wailmer   |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Houndour / Anorith / Wailmer |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Houndour / Elekid / Anorith / Wailmer    |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Houndour / Elekid / Anorith  |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Houndour / Elekid / Wailmer  |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Houndour / Elekid / Anorith / Wailmer   |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Duskull / Snubbull / Doduo        |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Duskull / Snubbull / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Snubbull / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Duskull / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Duskull / Snubbull / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Duskull / Snubbull / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Machop / Chinchou / Elekid / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Machop / Snubbull / Chinchou / Elekid / Lileep      |    1 |   1.61% |   0.00% |
+| 32   | Machop / Snubbull / Chinchou / Lileep / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Machop / Snubbull / Elekid / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Chinchou / Elekid / Lileep / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Chinchou / Anorith / Gastly  |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Elekid / Anorith / Gastly    |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Chinchou / Elekid / Anorith / Gastly    |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Chinchou / Elekid / Anorith  |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Chinchou / Elekid / Gastly   |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Ponyta / Chinchou / Anorith / Wailmer    |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Koffing / Cacnea / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Cacnea / Elekid / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Koffing / Cacnea / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Koffing / Cacnea / Elekid / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Koffing / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Voltorb / Koffing / Cacnea / Elekid         |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Chinchou / Gastly / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Chinchou / Gastly / Lileep      |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Chinchou / Gastly / Lileep / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Gastly / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Chinchou / Lileep / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Voltorb / Koffing / Chinchou / Wailmer   |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Voltorb / Koffing / Chinchou / Wailmer  |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Voltorb / Koffing / Chinchou |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Koffing / Chinchou / Wailmer |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Voltorb / Chinchou / Wailmer |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Voltorb / Koffing / Wailmer  |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Staryu / Elekid / Anorith / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Cubone / Staryu / Elekid / Anorith / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Cubone / Staryu / Anorith / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Cubone / Staryu / Elekid / Anorith        |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Cubone / Staryu / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Cubone / Elekid / Anorith / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Staryu / Snubbull / Elekid / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Staryu / Elekid / Anorith / Lileep / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Staryu / Snubbull / Elekid / Anorith / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Staryu / Snubbull / Elekid / Anorith / Lileep       |    1 |   1.61% |   0.00% |
+| 32   | Staryu / Snubbull / Anorith / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Cacnea / Chinchou / Anorith     |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Cacnea / Anorith / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Cacnea / Chinchou / Anorith / Wailmer    |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Cacnea / Chinchou / Anorith / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Cacnea / Chinchou / Elekid / Gastly      |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Cacnea / Elekid / Anorith / Gastly       |    1 |   1.61% |   0.00% |
+| 32   | Cacnea / Chinchou / Elekid / Anorith / Gastly       |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Cacnea / Chinchou / Anorith / Gastly     |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Cacnea / Elekid / Gastly / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Trapinch / Cacnea / Elekid / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Trapinch / Cacnea / Gastly / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Cacnea / Elekid / Gastly / Wailmer          |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Trapinch / Elekid / Gastly / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Bagon / Trapinch / Cacnea / Elekid / Gastly         |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Snubbull / Elekid / Anorith / Doduo      |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Snubbull / Elekid / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Snubbull / Anorith / Doduo / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Elekid / Anorith / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Voltorb / Ponyta / Wailmer   |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Voltorb / Ponyta / Gastly / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Voltorb / Gastly / Wailmer   |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Ponyta / Voltorb / Gastly / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Voltorb / Ponyta / Gastly    |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Trapinch / Ponyta / Gastly / Wailmer    |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Meowth / Koffing / Chinchou / Anorith      |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Voltorb / Snubbull / Chinchou / Wailmer |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Voltorb / Snubbull / Chinchou / Anorith |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Voltorb / Snubbull / Anorith / Wailmer  |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Snubbull / Chinchou / Anorith / Wailmer |    1 |   1.61% |   0.00% |
+| 32   | Exeggcute / Voltorb / Chinchou / Anorith / Wailmer  |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Snubbull / Anorith / Gastly / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Anorith / Gastly / Horsea / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Anorith / Gastly / Horsea / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Snubbull / Anorith / Horsea / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Snubbull / Anorith / Gastly / Horsea      |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Chinchou / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Chinchou / Anorith / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Anorith / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Chinchou / Anorith / Doduo / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Chinchou / Anorith / Doduo      |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Elekid / Gastly / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Elekid / Gastly / Mankey / Doduo         |    1 |   1.61% |   0.00% |
+| 32   | Elekid / Gastly / Mankey / Doduo / Wailmer          |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Elekid / Mankey / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Gastly / Mankey / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Elekid / Gastly / Mankey / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Elekid / Anorith / Spoink / Lileep / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Elekid / Spoink / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Anorith / Spoink / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Elekid / Anorith / Spoink / Lileep       |    1 |   1.61% |   0.00% |
+| 32   | Snubbull / Elekid / Anorith / Spoink / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Staryu / Chinchou / Elekid / Anorith / Gastly       |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Staryu / Elekid / Anorith / Gastly       |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Staryu / Chinchou / Anorith / Gastly     |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Staryu / Chinchou / Elekid / Gastly      |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Staryu / Chinchou / Elekid / Anorith     |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Chinchou / Elekid / Anorith / Gastly     |    1 |   1.61% |   0.00% |
+| 32   | Machop / Elekid / Gastly / Lileep / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Machop / Ponyta / Gastly / Lileep / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Machop / Ponyta / Elekid / Lileep / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Machop / Ponyta / Elekid / Gastly / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Machop / Ponyta / Elekid / Gastly / Lileep          |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Elekid / Gastly / Lileep / Wailmer         |    1 |   1.61% |   0.00% |
+| 32   | Machop / Houndour / Cacnea / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Larvitar / Machop / Houndour / Cacnea / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Larvitar / Machop / Cacnea / Elekid / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Larvitar / Machop / Cacnea / Houndour / Elekid      |    1 |   1.61% |   0.00% |
+| 32   | Larvitar / Machop / Houndour / Elekid / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Larvitar / Houndour / Cacnea / Elekid / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Voltorb / Elekid / Anorith / Doduo       |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Voltorb / Anorith / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Voltorb / Elekid / Anorith / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Trapinch / Voltorb / Elekid / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Elekid / Anorith / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Magnemite / Snubbull / Cacnea / Wailmer   |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Snubbull / Cacnea / Horsea / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Magnemite / Snubbull / Cacnea / Horsea / Wailmer    |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Magnemite / Cacnea / Horsea / Wailmer     |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Magnemite / Snubbull / Cacnea / Horsea    |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Voltorb / Snubbull / Gastly / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Snubbull / Gastly / Mankey / Wailmer       |    1 |   1.61% |   0.00% |
+| 32   | Ponyta / Voltorb / Snubbull / Gastly / Mankey       |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Ponyta / Snubbull / Mankey / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Snubbull / Gastly / Mankey / Wailmer      |    1 |   1.61% |   0.00% |
+| 32   | Voltorb / Ponyta / Gastly / Mankey / Wailmer        |    1 |   1.61% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Trapinch / Snubbull / Cacnea / Chinchou / Elekid / Anorith    |    2 |   3.23% |  50.00% |
+| 1    | Trapinch / Koffing / Chinchou / Elekid / Anorith / Wailmer    |    2 |   3.23% |  50.00% |
+| 1    | Staryu / Houndour / Elekid / Gastly / Grimer / Wailmer        |    2 |   3.23% |   0.00% |
+| 4    | Exeggcute / Trapinch / Staryu / Snubbull / Cacnea / Gastly    |    1 |   1.61% | 100.00% |
+| 4    | Larvitar / Trapinch / Voltorb / Houndour / Chinchou / Wailmer |    1 |   1.61% | 100.00% |
+| 4    | Voltorb / Magnemite / Snubbull / Gastly / Horsea / Wailmer    |    1 |   1.61% | 100.00% |
+| 4    | Voltorb / Houndour / Horsea / Mankey / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 4    | Voltorb / Koffing / Snubbull / Chinchou / Anorith / Wailmer   |    1 |   1.61% | 100.00% |
+| 4    | Cubone / Snubbull / Anorith / Horsea / Lileep / Wailmer       |    1 |   1.61% | 100.00% |
+| 4    | Exeggcute / Houndour / Elekid / Gastly / Togepi / Wailmer     |    1 |   1.61% | 100.00% |
+| 4    | Trapinch / Staryu / Snubbull / Cacnea / Elekid / Gastly       |    1 |   1.61% | 100.00% |
+| 4    | Trapinch / Voltorb / Ponyta / Staryu / Elekid / Wailmer       |    1 |   1.61% | 100.00% |
+| 4    | Snubbull / Elekid / Gastly / Onix / Pineco / Wailmer          |    1 |   1.61% | 100.00% |
+| 4    | Snubbull / Elekid / Gastly / Onix / Lileep / Wailmer          |    1 |   1.61% | 100.00% |
+| 4    | Trapinch / Bagon / Staryu / Houndour / Gastly / Wailmer       |    1 |   1.61% | 100.00% |
+| 4    | Larvitar / Koffing / Snubbull / Cacnea / Doduo / Wailmer      |    1 |   1.61% | 100.00% |
+| 4    | Exeggcute / Snubbull / Houndour / Elekid / Anorith / Wailmer  |    1 |   1.61% |   0.00% |
+| 4    | Bagon / Voltorb / Duskull / Snubbull / Doduo / Wailmer        |    1 |   1.61% |   0.00% |
+| 4    | Machop / Snubbull / Chinchou / Elekid / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 4    | Exeggcute / Snubbull / Chinchou / Elekid / Anorith / Gastly   |    1 |   1.61% |   0.00% |
+| 4    | Bagon / Voltorb / Koffing / Cacnea / Elekid / Wailmer         |    1 |   1.61% |   0.00% |
+| 4    | Ponyta / Snubbull / Chinchou / Gastly / Lileep / Wailmer      |    1 |   1.61% |   0.00% |
+| 4    | Exeggcute / Trapinch / Voltorb / Koffing / Chinchou / Wailmer |    1 |   1.61% |   0.00% |
+| 4    | Voltorb / Cubone / Staryu / Elekid / Anorith / Wailmer        |    1 |   1.61% |   0.00% |
+| 4    | Staryu / Snubbull / Elekid / Anorith / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 4    | Ponyta / Snubbull / Cacnea / Chinchou / Anorith / Wailmer     |    1 |   1.61% |   0.00% |
+| 4    | Snubbull / Cacnea / Chinchou / Elekid / Anorith / Gastly      |    1 |   1.61% |   0.00% |
+| 4    | Trapinch / Bagon / Cacnea / Elekid / Gastly / Wailmer         |    1 |   1.61% |   0.00% |
+| 4    | Trapinch / Snubbull / Elekid / Anorith / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 4    | Exeggcute / Trapinch / Voltorb / Ponyta / Gastly / Wailmer    |    1 |   1.61% |   0.00% |
+| 4    | Exeggcute / Voltorb / Snubbull / Chinchou / Anorith / Wailmer |    1 |   1.61% |   0.00% |
+| 4    | Voltorb / Snubbull / Anorith / Gastly / Horsea / Wailmer      |    1 |   1.61% |   0.00% |
+| 4    | Ponyta / Snubbull / Chinchou / Anorith / Doduo / Wailmer      |    1 |   1.61% |   0.00% |
+| 4    | Trapinch / Elekid / Gastly / Mankey / Doduo / Wailmer         |    1 |   1.61% |   0.00% |
+| 4    | Snubbull / Elekid / Anorith / Spoink / Lileep / Wailmer       |    1 |   1.61% |   0.00% |
+| 4    | Trapinch / Staryu / Chinchou / Elekid / Anorith / Gastly      |    1 |   1.61% |   0.00% |
+| 4    | Machop / Ponyta / Elekid / Gastly / Lileep / Wailmer          |    1 |   1.61% |   0.00% |
+| 4    | Larvitar / Machop / Houndour / Cacnea / Elekid / Wailmer      |    1 |   1.61% |   0.00% |
+| 4    | Trapinch / Voltorb / Elekid / Anorith / Doduo / Wailmer       |    1 |   1.61% |   0.00% |
+| 4    | Voltorb / Magnemite / Snubbull / Cacnea / Horsea / Wailmer    |    1 |   1.61% |   0.00% |
+| 4    | Ponyta / Voltorb / Snubbull / Gastly / Mankey / Wailmer       |    1 |   1.61% |   0.00% |
