@@ -1,0 +1,1703 @@
++ ---- + -------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2          | Use  | Usage % |  Win %  |
++ ---- + -------------------- + ---- + ------- + ------- +
+| 1    | Munchlax / Chinchou  |   30 |  51.72% |  36.67% |
+| 2    | Munchlax / Wailmer   |   27 |  46.55% |  59.26% |
+| 3    | Munchlax / Bronzor   |   25 |  43.10% |  48.00% |
+| 4    | Munchlax / Gastly    |   23 |  39.66% |  52.17% |
+| 4    | Munchlax / Gligar    |   23 |  39.66% |  43.48% |
+| 6    | Bronzor / Chinchou   |   18 |  31.03% |  38.89% |
+| 7    | Munchlax / Snover    |   17 |  29.31% |  52.94% |
+| 7    | Gligar / Chinchou    |   17 |  29.31% |  35.29% |
+| 9    | Cranidos / Munchlax  |   16 |  27.59% |  50.00% |
+| 9    | Gastly / Chinchou    |   16 |  27.59% |  50.00% |
+| 11   | Munchlax / Duskull   |   15 |  25.86% |  46.67% |
+| 12   | Gastly / Wailmer     |   12 |  20.69% |  58.33% |
+| 12   | Bronzor / Gastly     |   12 |  20.69% |  50.00% |
+| 14   | Gastly / Gligar      |   11 |  18.97% |  54.55% |
+| 14   | Munchlax / Machop    |   11 |  18.97% |  54.55% |
+| 14   | Chinchou / Wailmer   |   11 |  18.97% |  36.36% |
+| 17   | Cranidos / Chinchou  |   10 |  17.24% |  50.00% |
+| 17   | Gastly / Snover      |   10 |  17.24% |  40.00% |
+| 19   | Cranidos / Gastly    |    9 |  15.52% |  55.56% |
+| 19   | Gligar / Wailmer     |    9 |  15.52% |  55.56% |
+| 19   | Gligar / Snover      |    9 |  15.52% |  44.44% |
+| 22   | Bronzor / Wailmer    |    8 |  13.79% |  62.50% |
+| 22   | Machop / Wailmer     |    8 |  13.79% |  50.00% |
+| 22   | Duskull / Wailmer    |    8 |  13.79% |  37.50% |
+| 25   | Munchlax / Diglett   |    7 |  12.07% | 100.00% |
+| 25   | Snover / Wailmer     |    7 |  12.07% |  71.43% |
+| 25   | Cranidos / Wailmer   |    7 |  12.07% |  57.14% |
+| 25   | Cranidos / Gligar    |    7 |  12.07% |  42.86% |
+| 25   | Munchlax / Stunky    |    7 |  12.07% |  42.86% |
+| 25   | Bronzor / Snover     |    7 |  12.07% |  28.57% |
+| 25   | Bronzor / Gligar     |    7 |  12.07% |  28.57% |
+| 25   | Chinchou / Snover    |    7 |  12.07% |  28.57% |
+| 25   | Duskull / Chinchou   |    7 |  12.07% |  14.29% |
+| 34   | Gligar / Duskull     |    6 |  10.34% |  33.33% |
+| 35   | Munchlax / Aipom     |    5 |   8.62% | 100.00% |
+| 35   | Cranidos / Snover    |    5 |   8.62% |  60.00% |
+| 35   | Munchlax / Wynaut    |    5 |   8.62% |  40.00% |
+| 35   | Cranidos / Duskull   |    5 |   8.62% |  40.00% |
+| 35   | Machop / Chinchou    |    5 |   8.62% |  40.00% |
+| 40   | Diglett / Wailmer    |    4 |   6.90% | 100.00% |
+| 40   | Diglett / Bronzor    |    4 |   6.90% | 100.00% |
+| 40   | Munchlax / Elekid    |    4 |   6.90% |  75.00% |
+| 40   | Duskull / Snover     |    4 |   6.90% |  75.00% |
+| 40   | Munchlax / Ponyta    |    4 |   6.90% |  75.00% |
+| 40   | Cranidos / Bronzor   |    4 |   6.90% |  50.00% |
+| 40   | Stunky / Duskull     |    4 |   6.90% |  50.00% |
+| 40   | Machop / Bronzor     |    4 |   6.90% |  50.00% |
+| 40   | Machop / Gastly      |    4 |   6.90% |  50.00% |
+| 40   | Munchlax / Dratini   |    4 |   6.90% |  25.00% |
+| 40   | Munchlax / Croagunk  |    4 |   6.90% |  25.00% |
+| 40   | Stunky / Wailmer     |    4 |   6.90% |  25.00% |
+| 40   | Mantyke / Wailmer    |    4 |   6.90% |  25.00% |
+| 40   | Mantyke / Chinchou   |    4 |   6.90% |  25.00% |
+| 40   | Munchlax / Mantyke   |    4 |   6.90% |  25.00% |
+| 40   | Machop / Stunky      |    4 |   6.90% |  25.00% |
+| 56   | Gligar / Aipom       |    3 |   5.17% | 100.00% |
+| 56   | Aipom / Snover       |    3 |   5.17% | 100.00% |
+| 56   | Diglett / Duskull    |    3 |   5.17% | 100.00% |
+| 56   | Chinchou / Elekid    |    3 |   5.17% |  66.67% |
+| 56   | Bronzor / Ponyta     |    3 |   5.17% |  66.67% |
+| 56   | Gastly / Ponyta      |    3 |   5.17% |  66.67% |
+| 56   | Gligar / Elekid      |    3 |   5.17% |  66.67% |
+| 56   | Cranidos / Machop    |    3 |   5.17% |  66.67% |
+| 56   | Dratini / Snover     |    3 |   5.17% |  33.33% |
+| 56   | Bronzor / Duskull    |    3 |   5.17% |  33.33% |
+| 56   | Cranidos / Stunky    |    3 |   5.17% |  33.33% |
+| 56   | Smoochum / Munchlax  |    3 |   5.17% |  33.33% |
+| 56   | Munchlax / Koffing   |    3 |   5.17% |  33.33% |
+| 56   | Munchlax / Aron      |    3 |   5.17% |  33.33% |
+| 56   | Gligar / Stunky      |    3 |   5.17% |  33.33% |
+| 56   | Mantyke / Bronzor    |    3 |   5.17% |   0.00% |
+| 56   | Mantyke / Voltorb    |    3 |   5.17% |   0.00% |
+| 73   | Gligar / Ponyta      |    2 |   3.45% | 100.00% |
+| 73   | Houndour / Chinchou  |    2 |   3.45% | 100.00% |
+| 73   | Houndour / Gligar    |    2 |   3.45% | 100.00% |
+| 73   | Lickitung / Bronzor  |    2 |   3.45% | 100.00% |
+| 73   | Munchlax / Lickitung |    2 |   3.45% | 100.00% |
+| 73   | Aipom / Wailmer      |    2 |   3.45% | 100.00% |
+| 73   | Ponyta / Wailmer     |    2 |   3.45% | 100.00% |
+| 73   | Machop / Diglett     |    2 |   3.45% | 100.00% |
+| 73   | Aipom / Duskull      |    2 |   3.45% | 100.00% |
+| 73   | Bronzor / Wynaut     |    2 |   3.45% |  50.00% |
+| 73   | Munchlax / Doduo     |    2 |   3.45% |  50.00% |
+| 73   | Chinchou / Doduo     |    2 |   3.45% |  50.00% |
+| 73   | Croagunk / Bronzor   |    2 |   3.45% |  50.00% |
+| 73   | Gligar / Wynaut      |    2 |   3.45% |  50.00% |
+| 73   | Wynaut / Snover      |    2 |   3.45% |  50.00% |
+| 73   | Gastly / Wynaut      |    2 |   3.45% |  50.00% |
+| 73   | Dratini / Wailmer    |    2 |   3.45% |  50.00% |
+| 73   | Dratini / Duskull    |    2 |   3.45% |  50.00% |
+| 73   | Machop / Snover      |    2 |   3.45% |  50.00% |
+| 73   | Lickitung / Gastly   |    2 |   3.45% |  50.00% |
+| 73   | Mantyke / Gastly     |    2 |   3.45% |  50.00% |
+| 73   | Abra / Munchlax      |    2 |   3.45% |  50.00% |
+| 73   | Ponyta / Chinchou    |    2 |   3.45% |  50.00% |
+| 73   | Diglett / Stunky     |    2 |   3.45% |  50.00% |
+| 73   | Mantyke / Diglett    |    2 |   3.45% |  50.00% |
+| 73   | Diglett / Voltorb    |    2 |   3.45% |  50.00% |
+| 73   | Mantyke / Gligar     |    2 |   3.45% |  50.00% |
+| 73   | Smoochum / Bronzor   |    2 |   3.45% |  50.00% |
+| 73   | Smoochum / Gastly    |    2 |   3.45% |  50.00% |
+| 73   | Koffing / Gligar     |    2 |   3.45% |  50.00% |
+| 73   | Croagunk / Wailmer   |    2 |   3.45% |  50.00% |
+| 73   | Gligar / Aron        |    2 |   3.45% |  50.00% |
+| 73   | Aron / Wailmer       |    2 |   3.45% |  50.00% |
+| 73   | Voltorb / Wailmer    |    2 |   3.45% |  50.00% |
+| 73   | Bronzor / Voltorb    |    2 |   3.45% |  50.00% |
+| 73   | Munchlax / Voltorb   |    2 |   3.45% |  50.00% |
+| 73   | Machop / Duskull     |    2 |   3.45% |  50.00% |
+| 73   | Cranidos / Elekid    |    2 |   3.45% |  50.00% |
+| 73   | Dratini / Bronzor    |    2 |   3.45% |   0.00% |
+| 73   | Cranidos / Dratini   |    2 |   3.45% |   0.00% |
+| 73   | Gligar / Omanyte     |    2 |   3.45% |   0.00% |
+| 73   | Mantyke / Stunky     |    2 |   3.45% |   0.00% |
+| 73   | Voltorb / Stunky     |    2 |   3.45% |   0.00% |
+| 73   | Stunky / Kabuto      |    2 |   3.45% |   0.00% |
+| 73   | Stunky / Omanyte     |    2 |   3.45% |   0.00% |
+| 73   | Mantyke / Kabuto     |    2 |   3.45% |   0.00% |
+| 73   | Mantyke / Omanyte    |    2 |   3.45% |   0.00% |
+| 73   | Voltorb / Kabuto     |    2 |   3.45% |   0.00% |
+| 73   | Voltorb / Omanyte    |    2 |   3.45% |   0.00% |
+| 73   | Kabuto / Omanyte     |    2 |   3.45% |   0.00% |
+| 73   | Munchlax / Mankey    |    2 |   3.45% |   0.00% |
+| 73   | Mankey / Chinchou    |    2 |   3.45% |   0.00% |
+| 73   | Koffing / Chinchou   |    2 |   3.45% |   0.00% |
+| 73   | Koffing / Cranidos   |    2 |   3.45% |   0.00% |
+| 73   | Croagunk / Gligar    |    2 |   3.45% |   0.00% |
+| 73   | Machop / Gligar      |    2 |   3.45% |   0.00% |
+| 73   | Stunky / Chinchou    |    2 |   3.45% |   0.00% |
+| 73   | Wynaut / Aron        |    2 |   3.45% |   0.00% |
+| 131  | Bronzor / Elekid     |    1 |   1.72% | 100.00% |
+| 131  | Wynaut / Elekid      |    1 |   1.72% | 100.00% |
+| 131  | Doduo / Elekid       |    1 |   1.72% | 100.00% |
+| 131  | Bronzor / Doduo      |    1 |   1.72% | 100.00% |
+| 131  | Chinchou / Wynaut    |    1 |   1.72% | 100.00% |
+| 131  | Wynaut / Doduo       |    1 |   1.72% | 100.00% |
+| 131  | Aipom / Wynaut       |    1 |   1.72% | 100.00% |
+| 131  | Gastly / Aipom       |    1 |   1.72% | 100.00% |
+| 131  | Abra / Chinchou      |    1 |   1.72% | 100.00% |
+| 131  | Abra / Bronzor       |    1 |   1.72% | 100.00% |
+| 131  | Abra / Ponyta        |    1 |   1.72% | 100.00% |
+| 131  | Abra / Gligar        |    1 |   1.72% | 100.00% |
+| 131  | Mantyke / Houndour   |    1 |   1.72% | 100.00% |
+| 131  | Houndour / Gastly    |    1 |   1.72% | 100.00% |
+| 131  | Lickitung / Snover   |    1 |   1.72% | 100.00% |
+| 131  | Smoochum / Snover    |    1 |   1.72% | 100.00% |
+| 131  | Smoochum / Lickitung |    1 |   1.72% | 100.00% |
+| 131  | Aipom / Aron         |    1 |   1.72% | 100.00% |
+| 131  | Aron / Snover        |    1 |   1.72% | 100.00% |
+| 131  | Remoraid / Wailmer   |    1 |   1.72% | 100.00% |
+| 131  | Munchlax / Remoraid  |    1 |   1.72% | 100.00% |
+| 131  | Ponyta / Remoraid    |    1 |   1.72% | 100.00% |
+| 131  | Gligar / Remoraid    |    1 |   1.72% | 100.00% |
+| 131  | Gastly / Remoraid    |    1 |   1.72% | 100.00% |
+| 131  | Croagunk / Voltorb   |    1 |   1.72% | 100.00% |
+| 131  | Croagunk / Diglett   |    1 |   1.72% | 100.00% |
+| 131  | Koffing / Stunky     |    1 |   1.72% | 100.00% |
+| 131  | Koffing / Wailmer    |    1 |   1.72% | 100.00% |
+| 131  | Koffing / Elekid     |    1 |   1.72% | 100.00% |
+| 131  | Stunky / Elekid      |    1 |   1.72% | 100.00% |
+| 131  | Elekid / Wailmer     |    1 |   1.72% | 100.00% |
+| 131  | Anorith / Bronzor    |    1 |   1.72% | 100.00% |
+| 131  | Anorith / Duskull    |    1 |   1.72% | 100.00% |
+| 131  | Anorith / Munchlax   |    1 |   1.72% | 100.00% |
+| 131  | Anorith / Diglett    |    1 |   1.72% | 100.00% |
+| 131  | Anorith / Lickitung  |    1 |   1.72% | 100.00% |
+| 131  | Lickitung / Duskull  |    1 |   1.72% | 100.00% |
+| 131  | Diglett / Lickitung  |    1 |   1.72% | 100.00% |
+| 131  | Machop / Aipom       |    1 |   1.72% | 100.00% |
+| 131  | Diglett / Aipom      |    1 |   1.72% | 100.00% |
+| 131  | Houndour / Aipom     |    1 |   1.72% | 100.00% |
+| 131  | Aipom / Chinchou     |    1 |   1.72% | 100.00% |
+| 131  | Houndour / Duskull   |    1 |   1.72% | 100.00% |
+| 131  | Munchlax / Houndour  |    1 |   1.72% | 100.00% |
+| 131  | Gastly / Elekid      |    1 |   1.72% | 100.00% |
+| 131  | Cranidos / Diglett   |    1 |   1.72% | 100.00% |
+| 131  | Diglett / Gastly     |    1 |   1.72% | 100.00% |
+| 131  | Diglett / Chinchou   |    1 |   1.72% | 100.00% |
+| 131  | Mantyke / Duskull    |    1 |   1.72% | 100.00% |
+| 131  | Cranidos / Aipom     |    1 |   1.72% | 100.00% |
+| 131  | Aipom / Stunky       |    1 |   1.72% | 100.00% |
+| 131  | Stunky / Snover      |    1 |   1.72% | 100.00% |
+| 131  | Croagunk / Dratini   |    1 |   1.72% |   0.00% |
+| 131  | Cranidos / Croagunk  |    1 |   1.72% |   0.00% |
+| 131  | Croagunk / Snover    |    1 |   1.72% |   0.00% |
+| 131  | Dratini / Stunky     |    1 |   1.72% |   0.00% |
+| 131  | Bronzor / Drifloon   |    1 |   1.72% |   0.00% |
+| 131  | Bronzor / Omanyte    |    1 |   1.72% |   0.00% |
+| 131  | Chinchou / Drifloon  |    1 |   1.72% |   0.00% |
+| 131  | Chinchou / Omanyte   |    1 |   1.72% |   0.00% |
+| 131  | Gligar / Drifloon    |    1 |   1.72% |   0.00% |
+| 131  | Munchlax / Drifloon  |    1 |   1.72% |   0.00% |
+| 131  | Munchlax / Omanyte   |    1 |   1.72% |   0.00% |
+| 131  | Omanyte / Drifloon   |    1 |   1.72% |   0.00% |
+| 131  | Gastly / Paras       |    1 |   1.72% |   0.00% |
+| 131  | Paras / Wailmer      |    1 |   1.72% |   0.00% |
+| 131  | Lickitung / Paras    |    1 |   1.72% |   0.00% |
+| 131  | Cranidos / Paras     |    1 |   1.72% |   0.00% |
+| 131  | Lickitung / Wailmer  |    1 |   1.72% |   0.00% |
+| 131  | Cranidos / Lickitung |    1 |   1.72% |   0.00% |
+| 131  | Diglett / Kabuto     |    1 |   1.72% |   0.00% |
+| 131  | Diglett / Omanyte    |    1 |   1.72% |   0.00% |
+| 131  | Koffing / Mankey     |    1 |   1.72% |   0.00% |
+| 131  | Mankey / Gligar      |    1 |   1.72% |   0.00% |
+| 131  | Cranidos / Mankey    |    1 |   1.72% |   0.00% |
+| 131  | Croagunk / Duskull   |    1 |   1.72% |   0.00% |
+| 131  | Croagunk / Chinchou  |    1 |   1.72% |   0.00% |
+| 131  | Doduo / Wailmer      |    1 |   1.72% |   0.00% |
+| 131  | Gastly / Doduo       |    1 |   1.72% |   0.00% |
+| 131  | Gligar / Doduo       |    1 |   1.72% |   0.00% |
+| 131  | Koffing / Porygon    |    1 |   1.72% |   0.00% |
+| 131  | Chinchou / Porygon   |    1 |   1.72% |   0.00% |
+| 131  | Munchlax / Porygon   |    1 |   1.72% |   0.00% |
+| 131  | Gastly / Porygon     |    1 |   1.72% |   0.00% |
+| 131  | Cranidos / Porygon   |    1 |   1.72% |   0.00% |
+| 131  | Koffing / Gastly     |    1 |   1.72% |   0.00% |
+| 131  | Ponyta / Snover      |    1 |   1.72% |   0.00% |
+| 131  | Dratini / Gastly     |    1 |   1.72% |   0.00% |
+| 131  | Dratini / Wynaut     |    1 |   1.72% |   0.00% |
+| 131  | Voltorb / Chinchou   |    1 |   1.72% |   0.00% |
+| 131  | Gastly / Stunky      |    1 |   1.72% |   0.00% |
+| 131  | Bronzor / Stunky     |    1 |   1.72% |   0.00% |
+| 131  | Duskull / Elekid     |    1 |   1.72% |   0.00% |
+| 131  | Mankey / Taillow     |    1 |   1.72% |   0.00% |
+| 131  | Mankey / Bronzor     |    1 |   1.72% |   0.00% |
+| 131  | Mankey / Duskull     |    1 |   1.72% |   0.00% |
+| 131  | Bronzor / Taillow    |    1 |   1.72% |   0.00% |
+| 131  | Duskull / Taillow    |    1 |   1.72% |   0.00% |
+| 131  | Munchlax / Taillow   |    1 |   1.72% |   0.00% |
+| 131  | Chinchou / Taillow   |    1 |   1.72% |   0.00% |
+| 131  | Mantyke / Machop     |    1 |   1.72% |   0.00% |
+| 131  | Gligar / Kabuto      |    1 |   1.72% |   0.00% |
+| 131  | Voltorb / Gligar     |    1 |   1.72% |   0.00% |
+| 131  | Bronzor / Trapinch   |    1 |   1.72% |   0.00% |
+| 131  | Trapinch / Chinchou  |    1 |   1.72% |   0.00% |
+| 131  | Smoochum / Chinchou  |    1 |   1.72% |   0.00% |
+| 131  | Trapinch / Gastly    |    1 |   1.72% |   0.00% |
+| 131  | Munchlax / Trapinch  |    1 |   1.72% |   0.00% |
+| 131  | Smoochum / Trapinch  |    1 |   1.72% |   0.00% |
+| 131  | Abra / Wynaut        |    1 |   1.72% |   0.00% |
+| 131  | Abra / Aron          |    1 |   1.72% |   0.00% |
+| 131  | Abra / Duskull       |    1 |   1.72% |   0.00% |
+| 131  | Abra / Wailmer       |    1 |   1.72% |   0.00% |
+| 131  | Duskull / Wynaut     |    1 |   1.72% |   0.00% |
+| 131  | Wynaut / Wailmer     |    1 |   1.72% |   0.00% |
+| 131  | Duskull / Aron       |    1 |   1.72% |   0.00% |
+| 131  | Smoochum / Croagunk  |    1 |   1.72% |   0.00% |
+| 131  | Smoochum / Gligar    |    1 |   1.72% |   0.00% |
+| 131  | Smoochum / Wynaut    |    1 |   1.72% |   0.00% |
+| 131  | Smoochum / Aron      |    1 |   1.72% |   0.00% |
+| 131  | Croagunk / Wynaut    |    1 |   1.72% |   0.00% |
+| 131  | Croagunk / Aron      |    1 |   1.72% |   0.00% |
+
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| 1    | Munchlax / Bronzor / Chinchou   |   18 |  31.03% |  38.89% |
+| 2    | Munchlax / Gligar / Chinchou    |   16 |  27.59% |  31.25% |
+| 3    | Munchlax / Gastly / Chinchou    |   15 |  25.86% |  46.67% |
+| 4    | Munchlax / Bronzor / Gastly     |   12 |  20.69% |  50.00% |
+| 5    | Munchlax / Gastly / Wailmer     |   11 |  18.97% |  63.64% |
+| 5    | Munchlax / Chinchou / Wailmer   |   11 |  18.97% |  36.36% |
+| 7    | Munchlax / Gastly / Gligar      |   10 |  17.24% |  50.00% |
+| 7    | Cranidos / Chinchou / Munchlax  |   10 |  17.24% |  50.00% |
+| 7    | Munchlax / Gastly / Snover      |   10 |  17.24% |  40.00% |
+| 10   | Munchlax / Gligar / Wailmer     |    9 |  15.52% |  55.56% |
+| 10   | Munchlax / Gligar / Snover      |    9 |  15.52% |  44.44% |
+| 10   | Bronzor / Gastly / Chinchou     |    9 |  15.52% |  44.44% |
+| 13   | Munchlax / Bronzor / Wailmer    |    8 |  13.79% |  62.50% |
+| 13   | Cranidos / Gastly / Munchlax    |    8 |  13.79% |  62.50% |
+| 13   | Gligar / Gastly / Chinchou      |    8 |  13.79% |  50.00% |
+| 13   | Munchlax / Machop / Wailmer     |    8 |  13.79% |  50.00% |
+| 13   | Munchlax / Duskull / Wailmer    |    8 |  13.79% |  37.50% |
+| 18   | Munchlax / Snover / Wailmer     |    7 |  12.07% |  71.43% |
+| 18   | Cranidos / Gligar / Munchlax    |    7 |  12.07% |  42.86% |
+| 18   | Munchlax / Bronzor / Snover     |    7 |  12.07% |  28.57% |
+| 18   | Munchlax / Bronzor / Gligar     |    7 |  12.07% |  28.57% |
+| 18   | Bronzor / Gligar / Chinchou     |    7 |  12.07% |  28.57% |
+| 18   | Munchlax / Chinchou / Snover    |    7 |  12.07% |  28.57% |
+| 18   | Munchlax / Duskull / Chinchou   |    7 |  12.07% |  14.29% |
+| 25   | Cranidos / Munchlax / Wailmer   |    6 |  10.34% |  66.67% |
+| 25   | Gastly / Chinchou / Wailmer     |    6 |  10.34% |  66.67% |
+| 25   | Cranidos / Gastly / Chinchou    |    6 |  10.34% |  66.67% |
+| 25   | Gastly / Gligar / Snover        |    6 |  10.34% |  33.33% |
+| 25   | Cranidos / Gligar / Chinchou    |    6 |  10.34% |  33.33% |
+| 25   | Munchlax / Gligar / Duskull     |    6 |  10.34% |  33.33% |
+| 25   | Bronzor / Gastly / Snover       |    6 |  10.34% |  33.33% |
+| 25   | Gastly / Chinchou / Snover      |    6 |  10.34% |  33.33% |
+| 33   | Cranidos / Snover / Munchlax    |    5 |   8.62% |  60.00% |
+| 33   | Cranidos / Gastly / Wailmer     |    5 |   8.62% |  60.00% |
+| 33   | Cranidos / Duskull / Munchlax   |    5 |   8.62% |  40.00% |
+| 33   | Bronzor / Chinchou / Wailmer    |    5 |   8.62% |  40.00% |
+| 33   | Munchlax / Machop / Chinchou    |    5 |   8.62% |  40.00% |
+| 33   | Gligar / Chinchou / Duskull     |    5 |   8.62% |  20.00% |
+| 33   | Gligar / Chinchou / Snover      |    5 |   8.62% |  20.00% |
+| 40   | Munchlax / Diglett / Wailmer    |    4 |   6.90% | 100.00% |
+| 40   | Munchlax / Diglett / Bronzor    |    4 |   6.90% | 100.00% |
+| 40   | Munchlax / Duskull / Snover     |    4 |   6.90% |  75.00% |
+| 40   | Bronzor / Gastly / Wailmer      |    4 |   6.90% |  75.00% |
+| 40   | Cranidos / Bronzor / Munchlax   |    4 |   6.90% |  50.00% |
+| 40   | Munchlax / Stunky / Duskull     |    4 |   6.90% |  50.00% |
+| 40   | Snover / Gligar / Wailmer       |    4 |   6.90% |  50.00% |
+| 40   | Gligar / Gastly / Wailmer       |    4 |   6.90% |  50.00% |
+| 40   | Machop / Bronzor / Chinchou     |    4 |   6.90% |  50.00% |
+| 40   | Munchlax / Machop / Bronzor     |    4 |   6.90% |  50.00% |
+| 40   | Munchlax / Machop / Gastly      |    4 |   6.90% |  50.00% |
+| 40   | Machop / Gastly / Wailmer       |    4 |   6.90% |  50.00% |
+| 40   | Bronzor / Chinchou / Snover     |    4 |   6.90% |  25.00% |
+| 40   | Munchlax / Stunky / Wailmer     |    4 |   6.90% |  25.00% |
+| 40   | Munchlax / Mantyke / Wailmer    |    4 |   6.90% |  25.00% |
+| 40   | Gligar / Chinchou / Wailmer     |    4 |   6.90% |  25.00% |
+| 40   | Munchlax / Machop / Stunky      |    4 |   6.90% |  25.00% |
+| 57   | Munchlax / Aipom / Gligar       |    3 |   5.17% | 100.00% |
+| 57   | Munchlax / Aipom / Snover       |    3 |   5.17% | 100.00% |
+| 57   | Munchlax / Diglett / Duskull    |    3 |   5.17% | 100.00% |
+| 57   | Munchlax / Chinchou / Elekid    |    3 |   5.17% |  66.67% |
+| 57   | Cranidos / Bronzor / Chinchou   |    3 |   5.17% |  66.67% |
+| 57   | Snover / Duskull / Wailmer      |    3 |   5.17% |  66.67% |
+| 57   | Munchlax / Bronzor / Ponyta     |    3 |   5.17% |  66.67% |
+| 57   | Munchlax / Gastly / Ponyta      |    3 |   5.17% |  66.67% |
+| 57   | Cranidos / Gastly / Gligar      |    3 |   5.17% |  66.67% |
+| 57   | Munchlax / Gligar / Elekid      |    3 |   5.17% |  66.67% |
+| 57   | Cranidos / Machop / Munchlax    |    3 |   5.17% |  66.67% |
+| 57   | Munchlax / Dratini / Snover     |    3 |   5.17% |  33.33% |
+| 57   | Munchlax / Bronzor / Duskull    |    3 |   5.17% |  33.33% |
+| 57   | Cranidos / Gligar / Duskull     |    3 |   5.17% |  33.33% |
+| 57   | Gligar / Bronzor / Gastly       |    3 |   5.17% |  33.33% |
+| 57   | Bronzor / Gligar / Snover       |    3 |   5.17% |  33.33% |
+| 57   | Cranidos / Stunky / Munchlax    |    3 |   5.17% |  33.33% |
+| 57   | Gligar / Duskull / Wailmer      |    3 |   5.17% |  33.33% |
+| 57   | Machop / Chinchou / Wailmer     |    3 |   5.17% |  33.33% |
+| 57   | Mantyke / Bronzor / Wailmer     |    3 |   5.17% |   0.00% |
+| 57   | Mantyke / Chinchou / Wailmer    |    3 |   5.17% |   0.00% |
+| 57   | Mantyke / Bronzor / Chinchou    |    3 |   5.17% |   0.00% |
+| 57   | Munchlax / Bronzor / Mantyke    |    3 |   5.17% |   0.00% |
+| 57   | Munchlax / Chinchou / Mantyke   |    3 |   5.17% |   0.00% |
+| 57   | Duskull / Chinchou / Wailmer    |    3 |   5.17% |   0.00% |
+| 82   | Gligar / Aipom / Snover         |    2 |   3.45% | 100.00% |
+| 82   | Munchlax / Ponyta / Gligar      |    2 |   3.45% | 100.00% |
+| 82   | Houndour / Gligar / Chinchou    |    2 |   3.45% | 100.00% |
+| 82   | Munchlax / Lickitung / Bronzor  |    2 |   3.45% | 100.00% |
+| 82   | Munchlax / Aipom / Wailmer      |    2 |   3.45% | 100.00% |
+| 82   | Cranidos / Snover / Wailmer     |    2 |   3.45% | 100.00% |
+| 82   | Cranidos / Chinchou / Wailmer   |    2 |   3.45% | 100.00% |
+| 82   | Munchlax / Ponyta / Wailmer     |    2 |   3.45% | 100.00% |
+| 82   | Gastly / Ponyta / Wailmer       |    2 |   3.45% | 100.00% |
+| 82   | Diglett / Bronzor / Wailmer     |    2 |   3.45% | 100.00% |
+| 82   | Cranidos / Duskull / Snover     |    2 |   3.45% | 100.00% |
+| 82   | Cranidos / Gligar / Wailmer     |    2 |   3.45% | 100.00% |
+| 82   | Munchlax / Machop / Diglett     |    2 |   3.45% | 100.00% |
+| 82   | Munchlax / Aipom / Duskull      |    2 |   3.45% | 100.00% |
+| 82   | Munchlax / Bronzor / Wynaut     |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Chinchou / Doduo     |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Croagunk / Bronzor   |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Gligar / Wynaut      |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Wynaut / Snover      |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Gastly / Wynaut      |    2 |   3.45% |  50.00% |
+| 82   | Gastly / Wynaut / Snover        |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Duskull / Wailmer    |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Dratini / Wailmer    |    2 |   3.45% |  50.00% |
+| 82   | Dratini / Duskull / Wailmer     |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Stunky / Duskull     |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Dratini / Duskull    |    2 |   3.45% |  50.00% |
+| 82   | Machop / Snover / Wailmer       |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Machop / Snover      |    2 |   3.45% |  50.00% |
+| 82   | Mantyke / Gastly / Chinchou     |    2 |   3.45% |  50.00% |
+| 82   | Bronzor / Ponyta / Chinchou     |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Ponyta / Chinchou    |    2 |   3.45% |  50.00% |
+| 82   | Smoochum / Bronzor / Munchlax   |    2 |   3.45% |  50.00% |
+| 82   | Smoochum / Bronzor / Gastly     |    2 |   3.45% |  50.00% |
+| 82   | Smoochum / Gastly / Munchlax    |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Koffing / Gligar     |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Croagunk / Wailmer   |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Gligar / Aron        |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Aron / Wailmer       |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Gastly / Snover      |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Chinchou / Snover    |    2 |   3.45% |  50.00% |
+| 82   | Snover / Gastly / Wailmer       |    2 |   3.45% |  50.00% |
+| 82   | Snover / Chinchou / Wailmer     |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Gligar / Snover      |    2 |   3.45% |  50.00% |
+| 82   | Bronzor / Voltorb / Wailmer     |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Voltorb / Wailmer    |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Bronzor / Voltorb    |    2 |   3.45% |  50.00% |
+| 82   | Ponyta / Bronzor / Gastly       |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Stunky / Gligar      |    2 |   3.45% |  50.00% |
+| 82   | Gligar / Duskull / Snover       |    2 |   3.45% |  50.00% |
+| 82   | Machop / Bronzor / Wailmer      |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Machop / Wailmer     |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Machop / Gastly      |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Machop / Duskull     |    2 |   3.45% |  50.00% |
+| 82   | Machop / Duskull / Stunky       |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Cranidos / Elekid    |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Chinchou / Elekid    |    2 |   3.45% |  50.00% |
+| 82   | Cranidos / Gligar / Elekid      |    2 |   3.45% |  50.00% |
+| 82   | Gligar / Chinchou / Elekid      |    2 |   3.45% |  50.00% |
+| 82   | Munchlax / Dratini / Bronzor    |    2 |   3.45% |   0.00% |
+| 82   | Dratini / Bronzor / Snover      |    2 |   3.45% |   0.00% |
+| 82   | Cranidos / Dratini / Munchlax   |    2 |   3.45% |   0.00% |
+| 82   | Bronzor / Duskull / Chinchou    |    2 |   3.45% |   0.00% |
+| 82   | Cranidos / Duskull / Chinchou   |    2 |   3.45% |   0.00% |
+| 82   | Cranidos / Stunky / Wailmer     |    2 |   3.45% |   0.00% |
+| 82   | Duskull / Stunky / Wailmer      |    2 |   3.45% |   0.00% |
+| 82   | Mantyke / Voltorb / Stunky      |    2 |   3.45% |   0.00% |
+| 82   | Mantyke / Stunky / Kabuto       |    2 |   3.45% |   0.00% |
+| 82   | Mantyke / Stunky / Omanyte      |    2 |   3.45% |   0.00% |
+| 82   | Voltorb / Stunky / Kabuto       |    2 |   3.45% |   0.00% |
+| 82   | Voltorb / Stunky / Omanyte      |    2 |   3.45% |   0.00% |
+| 82   | Stunky / Kabuto / Omanyte       |    2 |   3.45% |   0.00% |
+| 82   | Mantyke / Voltorb / Kabuto      |    2 |   3.45% |   0.00% |
+| 82   | Mantyke / Voltorb / Omanyte     |    2 |   3.45% |   0.00% |
+| 82   | Mantyke / Kabuto / Omanyte      |    2 |   3.45% |   0.00% |
+| 82   | Voltorb / Kabuto / Omanyte      |    2 |   3.45% |   0.00% |
+| 82   | Munchlax / Mankey / Chinchou    |    2 |   3.45% |   0.00% |
+| 82   | Munchlax / Koffing / Chinchou   |    2 |   3.45% |   0.00% |
+| 82   | Munchlax / Koffing / Cranidos   |    2 |   3.45% |   0.00% |
+| 82   | Koffing / Cranidos / Chinchou   |    2 |   3.45% |   0.00% |
+| 82   | Munchlax / Croagunk / Gligar    |    2 |   3.45% |   0.00% |
+| 82   | Machop / Stunky / Wailmer       |    2 |   3.45% |   0.00% |
+| 82   | Machop / Stunky / Chinchou      |    2 |   3.45% |   0.00% |
+| 82   | Munchlax / Machop / Gligar      |    2 |   3.45% |   0.00% |
+| 82   | Munchlax / Stunky / Chinchou    |    2 |   3.45% |   0.00% |
+| 82   | Munchlax / Wynaut / Aron        |    2 |   3.45% |   0.00% |
+| 167  | Bronzor / Wynaut / Elekid       |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Bronzor / Elekid     |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Chinchou / Elekid     |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Doduo / Elekid        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Wynaut / Elekid      |    1 |   1.72% | 100.00% |
+| 167  | Chinchou / Wynaut / Elekid      |    1 |   1.72% | 100.00% |
+| 167  | Doduo / Wynaut / Elekid         |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Doduo / Elekid       |    1 |   1.72% | 100.00% |
+| 167  | Chinchou / Doduo / Elekid       |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Chinchou / Wynaut     |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Wynaut / Doduo        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Bronzor / Doduo      |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Chinchou / Doduo      |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Chinchou / Wynaut    |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Wynaut / Doduo       |    1 |   1.72% | 100.00% |
+| 167  | Chinchou / Wynaut / Doduo       |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Aipom / Wynaut       |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Aipom / Wynaut         |    1 |   1.72% | 100.00% |
+| 167  | Aipom / Wynaut / Snover         |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Aipom / Wynaut         |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Gastly / Aipom       |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Gastly / Aipom         |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Aipom / Snover         |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Wynaut / Snover        |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Gligar / Wynaut        |    1 |   1.72% | 100.00% |
+| 167  | Snover / Dratini / Wailmer      |    1 |   1.72% | 100.00% |
+| 167  | Dratini / Duskull / Snover      |    1 |   1.72% | 100.00% |
+| 167  | Abra / Bronzor / Chinchou       |    1 |   1.72% | 100.00% |
+| 167  | Abra / Ponyta / Chinchou        |    1 |   1.72% | 100.00% |
+| 167  | Abra / Chinchou / Munchlax      |    1 |   1.72% | 100.00% |
+| 167  | Abra / Gligar / Chinchou        |    1 |   1.72% | 100.00% |
+| 167  | Abra / Bronzor / Ponyta         |    1 |   1.72% | 100.00% |
+| 167  | Abra / Bronzor / Munchlax       |    1 |   1.72% | 100.00% |
+| 167  | Abra / Bronzor / Gligar         |    1 |   1.72% | 100.00% |
+| 167  | Abra / Ponyta / Munchlax        |    1 |   1.72% | 100.00% |
+| 167  | Abra / Ponyta / Gligar          |    1 |   1.72% | 100.00% |
+| 167  | Abra / Gligar / Munchlax        |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Ponyta / Chinchou      |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Bronzor / Ponyta       |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Houndour / Chinchou   |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Houndour / Gastly     |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Houndour / Gligar     |    1 |   1.72% | 100.00% |
+| 167  | Houndour / Gastly / Chinchou    |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Houndour / Gastly      |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Gligar / Chinchou     |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Gastly / Gligar       |    1 |   1.72% | 100.00% |
+| 167  | Smoochum / Lickitung / Snover   |    1 |   1.72% | 100.00% |
+| 167  | Lickitung / Bronzor / Snover    |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Lickitung / Snover   |    1 |   1.72% | 100.00% |
+| 167  | Lickitung / Gastly / Snover     |    1 |   1.72% | 100.00% |
+| 167  | Smoochum / Bronzor / Snover     |    1 |   1.72% | 100.00% |
+| 167  | Smoochum / Munchlax / Snover    |    1 |   1.72% | 100.00% |
+| 167  | Smoochum / Gastly / Snover      |    1 |   1.72% | 100.00% |
+| 167  | Smoochum / Lickitung / Bronzor  |    1 |   1.72% | 100.00% |
+| 167  | Smoochum / Lickitung / Munchlax |    1 |   1.72% | 100.00% |
+| 167  | Smoochum / Lickitung / Gastly   |    1 |   1.72% | 100.00% |
+| 167  | Lickitung / Gastly / Bronzor    |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Lickitung / Gastly   |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Aipom / Wailmer        |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Aipom / Aron           |    1 |   1.72% | 100.00% |
+| 167  | Snover / Aipom / Wailmer        |    1 |   1.72% | 100.00% |
+| 167  | Aipom / Aron / Wailmer          |    1 |   1.72% | 100.00% |
+| 167  | Aipom / Aron / Snover           |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Aipom / Aron         |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Aron / Wailmer         |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Aron / Snover          |    1 |   1.72% | 100.00% |
+| 167  | Snover / Aron / Wailmer         |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Aron / Snover        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Remoraid / Wailmer   |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Ponyta / Wailmer       |    1 |   1.72% | 100.00% |
+| 167  | Ponyta / Remoraid / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Remoraid / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Remoraid / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Ponyta / Remoraid    |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Gligar / Remoraid    |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Gastly / Remoraid    |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Ponyta / Remoraid      |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Gastly / Ponyta        |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Ponyta / Remoraid      |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Gligar / Remoraid      |    1 |   1.72% | 100.00% |
+| 167  | Croagunk / Voltorb / Wailmer    |    1 |   1.72% | 100.00% |
+| 167  | Diglett / Voltorb / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Croagunk / Diglett / Voltorb    |    1 |   1.72% | 100.00% |
+| 167  | Croagunk / Bronzor / Voltorb    |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Croagunk / Voltorb   |    1 |   1.72% | 100.00% |
+| 167  | Diglett / Voltorb / Bronzor     |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Diglett / Voltorb    |    1 |   1.72% | 100.00% |
+| 167  | Croagunk / Diglett / Wailmer    |    1 |   1.72% | 100.00% |
+| 167  | Croagunk / Bronzor / Wailmer    |    1 |   1.72% | 100.00% |
+| 167  | Croagunk / Diglett / Bronzor    |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Croagunk / Diglett   |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Stunky / Wailmer      |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Stunky / Munchlax     |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Stunky / Elekid       |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Stunky / Gligar       |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Munchlax / Wailmer    |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Elekid / Wailmer      |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Gligar / Wailmer      |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Elekid / Munchlax     |    1 |   1.72% | 100.00% |
+| 167  | Koffing / Gligar / Elekid       |    1 |   1.72% | 100.00% |
+| 167  | Stunky / Elekid / Wailmer       |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Stunky / Wailmer       |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Stunky / Elekid      |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Stunky / Elekid        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Elekid / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Elekid / Wailmer       |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Bronzor / Duskull     |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Bronzor / Munchlax    |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Bronzor / Diglett     |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Bronzor / Lickitung   |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Duskull / Munchlax    |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Diglett / Duskull     |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Lickitung / Duskull   |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Diglett / Munchlax    |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Lickitung / Munchlax  |    1 |   1.72% | 100.00% |
+| 167  | Anorith / Diglett / Lickitung   |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Duskull / Diglett     |    1 |   1.72% | 100.00% |
+| 167  | Lickitung / Bronzor / Duskull   |    1 |   1.72% | 100.00% |
+| 167  | Lickitung / Bronzor / Diglett   |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Lickitung / Duskull  |    1 |   1.72% | 100.00% |
+| 167  | Lickitung / Diglett / Duskull   |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Diglett / Lickitung  |    1 |   1.72% | 100.00% |
+| 167  | Machop / Bronzor / Gastly       |    1 |   1.72% | 100.00% |
+| 167  | Machop / Gastly / Chinchou      |    1 |   1.72% | 100.00% |
+| 167  | Machop / Diglett / Duskull      |    1 |   1.72% | 100.00% |
+| 167  | Machop / Diglett / Stunky       |    1 |   1.72% | 100.00% |
+| 167  | Diglett / Duskull / Stunky      |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Diglett / Stunky     |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Machop / Aipom       |    1 |   1.72% | 100.00% |
+| 167  | Machop / Aipom / Wailmer        |    1 |   1.72% | 100.00% |
+| 167  | Machop / Diglett / Aipom        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Diglett / Aipom      |    1 |   1.72% | 100.00% |
+| 167  | Diglett / Aipom / Wailmer       |    1 |   1.72% | 100.00% |
+| 167  | Machop / Diglett / Wailmer      |    1 |   1.72% | 100.00% |
+| 167  | Houndour / Aipom / Duskull      |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Houndour / Aipom     |    1 |   1.72% | 100.00% |
+| 167  | Houndour / Aipom / Chinchou     |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Houndour / Aipom       |    1 |   1.72% | 100.00% |
+| 167  | Aipom / Chinchou / Duskull      |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Aipom / Duskull        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Aipom / Chinchou     |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Aipom / Chinchou       |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Houndour / Duskull   |    1 |   1.72% | 100.00% |
+| 167  | Houndour / Duskull / Chinchou   |    1 |   1.72% | 100.00% |
+| 167  | Gligar / Houndour / Duskull     |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Houndour / Chinchou  |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Houndour / Gligar    |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Gastly / Elekid      |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Gligar / Elekid        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Gastly / Elekid      |    1 |   1.72% | 100.00% |
+| 167  | Gastly / Chinchou / Elekid      |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Bronzor / Gastly     |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Diglett / Gastly     |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Diglett / Munchlax   |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Bronzor / Diglett    |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Diglett / Chinchou   |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Diglett / Gastly     |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Gastly / Diglett      |    1 |   1.72% | 100.00% |
+| 167  | Diglett / Gastly / Chinchou     |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Diglett / Chinchou   |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Diglett / Chinchou    |    1 |   1.72% | 100.00% |
+| 167  | Bronzor / Ponyta / Wailmer      |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Duskull / Munchlax    |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Diglett / Munchlax    |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Diglett / Duskull     |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Duskull / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Mantyke / Diglett / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Diglett / Duskull / Wailmer     |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Aipom / Duskull      |    1 |   1.72% | 100.00% |
+| 167  | Aipom / Stunky / Duskull        |    1 |   1.72% | 100.00% |
+| 167  | Snover / Aipom / Duskull        |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Aipom / Cranidos     |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Aipom / Stunky       |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Aipom / Stunky       |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Aipom / Snover       |    1 |   1.72% | 100.00% |
+| 167  | Aipom / Stunky / Snover         |    1 |   1.72% | 100.00% |
+| 167  | Duskull / Stunky / Snover       |    1 |   1.72% | 100.00% |
+| 167  | Munchlax / Stunky / Snover      |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Stunky / Snover      |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Machop / Bronzor     |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Machop / Chinchou    |    1 |   1.72% | 100.00% |
+| 167  | Cranidos / Dratini / Bronzor    |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Dratini / Bronzor    |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Croagunk / Dratini   |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Dratini / Snover     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Croagunk / Dratini   |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Dratini / Snover     |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Croagunk / Bronzor   |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Bronzor / Snover     |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Bronzor / Snover     |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Croagunk / Munchlax  |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Croagunk / Snover    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Croagunk / Snover    |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Bronzor / Gligar     |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Bronzor / Duskull    |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Gligar / Duskull      |    1 |   1.72% |   0.00% |
+| 167  | Dratini / Stunky / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Dratini / Wailmer    |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Dratini / Stunky     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Dratini / Stunky     |    1 |   1.72% |   0.00% |
+| 167  | Dratini / Stunky / Duskull      |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Dratini / Duskull    |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Chinchou / Drifloon   |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Chinchou / Omanyte    |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Gligar / Drifloon     |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Gligar / Omanyte      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Bronzor / Drifloon   |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Bronzor / Omanyte    |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Omanyte / Drifloon    |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Chinchou / Drifloon    |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Chinchou / Omanyte     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Chinchou / Drifloon  |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Chinchou / Omanyte   |    1 |   1.72% |   0.00% |
+| 167  | Chinchou / Omanyte / Drifloon   |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Gligar / Drifloon    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Gligar / Omanyte     |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Omanyte / Drifloon     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Omanyte / Drifloon   |    1 |   1.72% |   0.00% |
+| 167  | Gastly / Paras / Wailmer        |    1 |   1.72% |   0.00% |
+| 167  | Lickitung / Gastly / Paras      |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Gastly / Paras       |    1 |   1.72% |   0.00% |
+| 167  | Lickitung / Paras / Wailmer     |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Paras / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Lickitung / Paras    |    1 |   1.72% |   0.00% |
+| 167  | Lickitung / Gastly / Wailmer    |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Lickitung / Gastly   |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Lickitung / Wailmer  |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Gastly / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Bronzor / Gastly      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Gastly / Mantyke     |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Diglett / Stunky      |    1 |   1.72% |   0.00% |
+| 167  | Voltorb / Stunky / Diglett      |    1 |   1.72% |   0.00% |
+| 167  | Diglett / Stunky / Kabuto       |    1 |   1.72% |   0.00% |
+| 167  | Diglett / Stunky / Omanyte      |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Diglett / Voltorb     |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Diglett / Kabuto      |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Diglett / Omanyte     |    1 |   1.72% |   0.00% |
+| 167  | Diglett / Voltorb / Kabuto      |    1 |   1.72% |   0.00% |
+| 167  | Diglett / Voltorb / Omanyte     |    1 |   1.72% |   0.00% |
+| 167  | Diglett / Kabuto / Omanyte      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Koffing / Mankey     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Mankey / Gligar      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Mankey / Cranidos    |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Mankey / Chinchou     |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Mankey / Gligar       |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Mankey / Cranidos     |    1 |   1.72% |   0.00% |
+| 167  | Mankey / Gligar / Chinchou      |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Mankey / Chinchou    |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Mankey / Gligar      |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Gligar / Chinchou     |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Gligar / Cranidos     |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Croagunk / Duskull     |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Duskull / Wailmer    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Croagunk / Duskull   |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Duskull / Chinchou   |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Gligar / Wailmer     |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Gligar / Chinchou    |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Chinchou / Wailmer   |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Croagunk / Chinchou  |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Doduo / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Gastly / Doduo / Wailmer        |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Doduo / Wailmer        |    1 |   1.72% |   0.00% |
+| 167  | Chinchou / Doduo / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Gastly / Doduo       |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Gligar / Doduo       |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Gastly / Doduo         |    1 |   1.72% |   0.00% |
+| 167  | Gastly / Chinchou / Doduo       |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Chinchou / Doduo       |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Chinchou / Porygon    |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Porygon / Munchlax    |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Gastly / Porygon      |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Cranidos / Porygon    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Chinchou / Porygon   |    1 |   1.72% |   0.00% |
+| 167  | Gastly / Chinchou / Porygon     |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Chinchou / Porygon   |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Gastly / Porygon     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Cranidos / Porygon   |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Gastly / Porygon     |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Gastly / Chinchou     |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Gastly / Munchlax     |    1 |   1.72% |   0.00% |
+| 167  | Koffing / Gastly / Cranidos     |    1 |   1.72% |   0.00% |
+| 167  | Ponyta / Gastly / Chinchou      |    1 |   1.72% |   0.00% |
+| 167  | Ponyta / Gastly / Snover        |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Ponyta / Snover       |    1 |   1.72% |   0.00% |
+| 167  | Ponyta / Chinchou / Snover      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Ponyta / Snover      |    1 |   1.72% |   0.00% |
+| 167  | Duskull / Chinchou / Snover     |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Gastly / Wynaut       |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Gastly / Dratini      |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Wynaut / Snover       |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Wynaut / Dratini      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Dratini / Gastly     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Dratini / Wynaut     |    1 |   1.72% |   0.00% |
+| 167  | Dratini / Gastly / Wynaut       |    1 |   1.72% |   0.00% |
+| 167  | Dratini / Gastly / Snover       |    1 |   1.72% |   0.00% |
+| 167  | Dratini / Wynaut / Snover       |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Bronzor / Voltorb     |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Voltorb / Chinchou    |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Voltorb / Chinchou    |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Voltorb / Wailmer     |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Voltorb / Munchlax    |    1 |   1.72% |   0.00% |
+| 167  | Voltorb / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Voltorb / Chinchou   |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Machop / Stunky      |    1 |   1.72% |   0.00% |
+| 167  | Machop / Gastly / Stunky        |    1 |   1.72% |   0.00% |
+| 167  | Gastly / Stunky / Wailmer       |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Gastly / Stunky      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Gastly / Stunky      |    1 |   1.72% |   0.00% |
+| 167  | Machop / Bronzor / Stunky       |    1 |   1.72% |   0.00% |
+| 167  | Machop / Bronzor / Gligar       |    1 |   1.72% |   0.00% |
+| 167  | Machop / Gligar / Chinchou      |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Machop / Stunky        |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Stunky / Chinchou     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Bronzor / Stunky     |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Bronzor / Stunky       |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Stunky / Chinchou      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Duskull / Elekid     |    1 |   1.72% |   0.00% |
+| 167  | Cranidos / Duskull / Elekid     |    1 |   1.72% |   0.00% |
+| 167  | Duskull / Chinchou / Elekid     |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Duskull / Elekid       |    1 |   1.72% |   0.00% |
+| 167  | Mankey / Bronzor / Taillow      |    1 |   1.72% |   0.00% |
+| 167  | Mankey / Duskull / Taillow      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Mankey / Taillow     |    1 |   1.72% |   0.00% |
+| 167  | Mankey / Chinchou / Taillow     |    1 |   1.72% |   0.00% |
+| 167  | Mankey / Duskull / Bronzor      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Mankey / Bronzor     |    1 |   1.72% |   0.00% |
+| 167  | Chinchou / Mankey / Bronzor     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Mankey / Duskull     |    1 |   1.72% |   0.00% |
+| 167  | Mankey / Duskull / Chinchou     |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Duskull / Taillow     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Bronzor / Taillow    |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Chinchou / Taillow    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Duskull / Taillow    |    1 |   1.72% |   0.00% |
+| 167  | Duskull / Chinchou / Taillow    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Chinchou / Taillow   |    1 |   1.72% |   0.00% |
+| 167  | Machop / Gligar / Wailmer       |    1 |   1.72% |   0.00% |
+| 167  | Machop / Gligar / Snover        |    1 |   1.72% |   0.00% |
+| 167  | Machop / Gastly / Gligar        |    1 |   1.72% |   0.00% |
+| 167  | Machop / Gastly / Snover        |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Machop / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Machop / Bronzor      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Machop / Mantyke     |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Machop / Chinchou     |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Gligar / Stunky       |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Gligar / Kabuto       |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Voltorb / Gligar      |    1 |   1.72% |   0.00% |
+| 167  | Mantyke / Gligar / Omanyte      |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Stunky / Kabuto        |    1 |   1.72% |   0.00% |
+| 167  | Voltorb / Gligar / Stunky       |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Stunky / Omanyte       |    1 |   1.72% |   0.00% |
+| 167  | Voltorb / Gligar / Kabuto       |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 167  | Voltorb / Gligar / Omanyte      |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Chinchou / Trapinch   |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Bronzor / Chinchou   |    1 |   1.72% |   0.00% |
+| 167  | Bronzor / Gastly / Trapinch     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Bronzor / Trapinch   |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Bronzor / Trapinch   |    1 |   1.72% |   0.00% |
+| 167  | Trapinch / Gastly / Chinchou    |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Gastly / Chinchou    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Trapinch / Chinchou  |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Smoochum / Chinchou  |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Trapinch / Chinchou  |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Trapinch / Gastly    |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Trapinch / Gastly    |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Trapinch / Smoochum  |    1 |   1.72% |   0.00% |
+| 167  | Abra / Wynaut / Munchlax        |    1 |   1.72% |   0.00% |
+| 167  | Abra / Wynaut / Aron            |    1 |   1.72% |   0.00% |
+| 167  | Abra / Duskull / Wynaut         |    1 |   1.72% |   0.00% |
+| 167  | Abra / Wynaut / Wailmer         |    1 |   1.72% |   0.00% |
+| 167  | Abra / Aron / Munchlax          |    1 |   1.72% |   0.00% |
+| 167  | Abra / Duskull / Munchlax       |    1 |   1.72% |   0.00% |
+| 167  | Abra / Wailmer / Munchlax       |    1 |   1.72% |   0.00% |
+| 167  | Abra / Duskull / Aron           |    1 |   1.72% |   0.00% |
+| 167  | Abra / Wailmer / Aron           |    1 |   1.72% |   0.00% |
+| 167  | Abra / Duskull / Wailmer        |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Duskull / Wynaut     |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Wynaut / Wailmer     |    1 |   1.72% |   0.00% |
+| 167  | Duskull / Wynaut / Aron         |    1 |   1.72% |   0.00% |
+| 167  | Wynaut / Wailmer / Aron         |    1 |   1.72% |   0.00% |
+| 167  | Duskull / Wynaut / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Duskull / Aron       |    1 |   1.72% |   0.00% |
+| 167  | Duskull / Wailmer / Aron        |    1 |   1.72% |   0.00% |
+| 167  | Machop / Duskull / Wailmer      |    1 |   1.72% |   0.00% |
+| 167  | Machop / Duskull / Chinchou     |    1 |   1.72% |   0.00% |
+| 167  | Stunky / Chinchou / Duskull     |    1 |   1.72% |   0.00% |
+| 167  | Stunky / Chinchou / Wailmer     |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Croagunk / Gligar    |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Croagunk / Wynaut    |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Croagunk / Munchlax  |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Croagunk / Aron      |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Gligar / Wynaut      |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Gligar / Munchlax    |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Gligar / Aron        |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Wynaut / Munchlax    |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Wynaut / Aron        |    1 |   1.72% |   0.00% |
+| 167  | Smoochum / Aron / Munchlax      |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Gligar / Wynaut      |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Gligar / Aron        |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Croagunk / Wynaut    |    1 |   1.72% |   0.00% |
+| 167  | Croagunk / Wynaut / Aron        |    1 |   1.72% |   0.00% |
+| 167  | Munchlax / Croagunk / Aron      |    1 |   1.72% |   0.00% |
+| 167  | Gligar / Wynaut / Aron          |    1 |   1.72% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Munchlax / Bronzor / Gastly / Chinchou    |    9 |  15.52% |  44.44% |
+| 2    | Munchlax / Gastly / Chinchou / Gligar     |    7 |  12.07% |  42.86% |
+| 2    | Munchlax / Bronzor / Gligar / Chinchou    |    7 |  12.07% |  28.57% |
+| 4    | Munchlax / Gastly / Chinchou / Wailmer    |    6 |  10.34% |  66.67% |
+| 4    | Cranidos / Gastly / Chinchou / Munchlax   |    6 |  10.34% |  66.67% |
+| 4    | Munchlax / Gastly / Gligar / Snover       |    6 |  10.34% |  33.33% |
+| 4    | Cranidos / Gligar / Chinchou / Munchlax   |    6 |  10.34% |  33.33% |
+| 4    | Munchlax / Bronzor / Gastly / Snover      |    6 |  10.34% |  33.33% |
+| 4    | Munchlax / Gastly / Chinchou / Snover     |    6 |  10.34% |  33.33% |
+| 10   | Munchlax / Bronzor / Chinchou / Wailmer   |    5 |   8.62% |  40.00% |
+| 10   | Munchlax / Gligar / Chinchou / Duskull    |    5 |   8.62% |  20.00% |
+| 10   | Munchlax / Gligar / Chinchou / Snover     |    5 |   8.62% |  20.00% |
+| 13   | Munchlax / Bronzor / Gastly / Wailmer     |    4 |   6.90% |  75.00% |
+| 13   | Cranidos / Gastly / Wailmer / Munchlax    |    4 |   6.90% |  75.00% |
+| 13   | Munchlax / Snover / Gligar / Wailmer      |    4 |   6.90% |  50.00% |
+| 13   | Munchlax / Gastly / Gligar / Wailmer      |    4 |   6.90% |  50.00% |
+| 13   | Munchlax / Machop / Bronzor / Chinchou    |    4 |   6.90% |  50.00% |
+| 13   | Munchlax / Machop / Gastly / Wailmer      |    4 |   6.90% |  50.00% |
+| 13   | Bronzor / Gastly / Chinchou / Snover      |    4 |   6.90% |  25.00% |
+| 13   | Gligar / Gastly / Chinchou / Snover       |    4 |   6.90% |  25.00% |
+| 13   | Munchlax / Bronzor / Chinchou / Snover    |    4 |   6.90% |  25.00% |
+| 13   | Munchlax / Gligar / Chinchou / Wailmer    |    4 |   6.90% |  25.00% |
+| 23   | Cranidos / Bronzor / Chinchou / Munchlax  |    3 |   5.17% |  66.67% |
+| 23   | Munchlax / Snover / Duskull / Wailmer     |    3 |   5.17% |  66.67% |
+| 23   | Bronzor / Gastly / Chinchou / Wailmer     |    3 |   5.17% |  66.67% |
+| 23   | Cranidos / Gastly / Chinchou / Gligar     |    3 |   5.17% |  66.67% |
+| 23   | Cranidos / Gastly / Gligar / Munchlax     |    3 |   5.17% |  66.67% |
+| 23   | Cranidos / Munchlax / Gligar / Duskull    |    3 |   5.17% |  33.33% |
+| 23   | Gligar / Bronzor / Gastly / Chinchou      |    3 |   5.17% |  33.33% |
+| 23   | Munchlax / Bronzor / Gastly / Gligar      |    3 |   5.17% |  33.33% |
+| 23   | Gligar / Bronzor / Gastly / Snover        |    3 |   5.17% |  33.33% |
+| 23   | Bronzor / Gligar / Chinchou / Snover      |    3 |   5.17% |  33.33% |
+| 23   | Munchlax / Bronzor / Gligar / Snover      |    3 |   5.17% |  33.33% |
+| 23   | Gligar / Munchlax / Duskull / Wailmer     |    3 |   5.17% |  33.33% |
+| 23   | Munchlax / Machop / Chinchou / Wailmer    |    3 |   5.17% |  33.33% |
+| 23   | Mantyke / Bronzor / Chinchou / Wailmer    |    3 |   5.17% |   0.00% |
+| 23   | Munchlax / Bronzor / Mantyke / Wailmer    |    3 |   5.17% |   0.00% |
+| 23   | Munchlax / Chinchou / Mantyke / Wailmer   |    3 |   5.17% |   0.00% |
+| 23   | Munchlax / Bronzor / Chinchou / Mantyke   |    3 |   5.17% |   0.00% |
+| 23   | Munchlax / Duskull / Chinchou / Wailmer   |    3 |   5.17% |   0.00% |
+| 41   | Munchlax / Aipom / Gligar / Snover        |    2 |   3.45% | 100.00% |
+| 41   | Cranidos / Snover / Wailmer / Munchlax    |    2 |   3.45% | 100.00% |
+| 41   | Cranidos / Chinchou / Wailmer / Munchlax  |    2 |   3.45% | 100.00% |
+| 41   | Cranidos / Gastly / Chinchou / Wailmer    |    2 |   3.45% | 100.00% |
+| 41   | Munchlax / Gastly / Ponyta / Wailmer      |    2 |   3.45% | 100.00% |
+| 41   | Munchlax / Diglett / Bronzor / Wailmer    |    2 |   3.45% | 100.00% |
+| 41   | Cranidos / Munchlax / Duskull / Snover    |    2 |   3.45% | 100.00% |
+| 41   | Cranidos / Munchlax / Gligar / Wailmer    |    2 |   3.45% | 100.00% |
+| 41   | Munchlax / Gastly / Wynaut / Snover       |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Munchlax / Duskull / Wailmer   |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Dratini / Duskull / Wailmer    |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Duskull / Stunky / Munchlax    |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Machop / Snover / Wailmer      |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Bronzor / Ponyta / Chinchou    |    2 |   3.45% |  50.00% |
+| 41   | Smoochum / Bronzor / Gastly / Munchlax    |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Snover / Gastly / Munchlax     |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Snover / Chinchou / Munchlax   |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Gastly / Chinchou / Snover     |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Snover / Gastly / Wailmer      |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Snover / Chinchou / Wailmer    |    2 |   3.45% |  50.00% |
+| 41   | Gligar / Gastly / Chinchou / Wailmer      |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Munchlax / Gligar / Snover     |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Bronzor / Voltorb / Wailmer    |    2 |   3.45% |  50.00% |
+| 41   | Ponyta / Bronzor / Gastly / Munchlax      |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Duskull / Gligar / Snover      |    2 |   3.45% |  50.00% |
+| 41   | Gligar / Duskull / Wailmer / Snover       |    2 |   3.45% |  50.00% |
+| 41   | Machop / Bronzor / Chinchou / Wailmer     |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Machop / Bronzor / Wailmer     |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Machop / Gastly / Wailmer      |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Machop / Munchlax / Wailmer    |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Machop / Gastly / Munchlax     |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Machop / Duskull / Stunky      |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Cranidos / Chinchou / Elekid   |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Gligar / Cranidos / Elekid     |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Gligar / Chinchou / Elekid     |    2 |   3.45% |  50.00% |
+| 41   | Cranidos / Gligar / Chinchou / Elekid     |    2 |   3.45% |  50.00% |
+| 41   | Munchlax / Dratini / Bronzor / Snover     |    2 |   3.45% |   0.00% |
+| 41   | Munchlax / Bronzor / Duskull / Chinchou   |    2 |   3.45% |   0.00% |
+| 41   | Cranidos / Gligar / Chinchou / Duskull    |    2 |   3.45% |   0.00% |
+| 41   | Cranidos / Duskull / Chinchou / Munchlax  |    2 |   3.45% |   0.00% |
+| 41   | Cranidos / Munchlax / Stunky / Wailmer    |    2 |   3.45% |   0.00% |
+| 41   | Munchlax / Duskull / Stunky / Wailmer     |    2 |   3.45% |   0.00% |
+| 41   | Mantyke / Voltorb / Stunky / Kabuto       |    2 |   3.45% |   0.00% |
+| 41   | Mantyke / Voltorb / Stunky / Omanyte      |    2 |   3.45% |   0.00% |
+| 41   | Mantyke / Stunky / Kabuto / Omanyte       |    2 |   3.45% |   0.00% |
+| 41   | Voltorb / Stunky / Kabuto / Omanyte       |    2 |   3.45% |   0.00% |
+| 41   | Mantyke / Voltorb / Kabuto / Omanyte      |    2 |   3.45% |   0.00% |
+| 41   | Munchlax / Koffing / Cranidos / Chinchou  |    2 |   3.45% |   0.00% |
+| 41   | Gligar / Duskull / Chinchou / Wailmer     |    2 |   3.45% |   0.00% |
+| 41   | Munchlax / Machop / Stunky / Wailmer      |    2 |   3.45% |   0.00% |
+| 41   | Munchlax / Machop / Stunky / Chinchou     |    2 |   3.45% |   0.00% |
+| 92   | Munchlax / Bronzor / Wynaut / Elekid      |    1 |   1.72% | 100.00% |
+| 92   | Bronzor / Chinchou / Wynaut / Elekid      |    1 |   1.72% | 100.00% |
+| 92   | Bronzor / Doduo / Wynaut / Elekid         |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Chinchou / Elekid    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Doduo / Elekid       |    1 |   1.72% | 100.00% |
+| 92   | Bronzor / Chinchou / Doduo / Elekid       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Chinchou / Wynaut / Elekid     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Doduo / Wynaut / Elekid        |    1 |   1.72% | 100.00% |
+| 92   | Doduo / Chinchou / Wynaut / Elekid        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Chinchou / Doduo / Elekid      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Chinchou / Wynaut    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Wynaut / Doduo       |    1 |   1.72% | 100.00% |
+| 92   | Bronzor / Chinchou / Wynaut / Doduo       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Chinchou / Doduo     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Chinchou / Wynaut / Doduo      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Wynaut / Gligar        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Wynaut / Snover        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Aipom / Wynaut        |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Aipom / Wynaut / Snover          |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Gastly / Aipom / Wynaut          |    1 |   1.72% | 100.00% |
+| 92   | Gastly / Aipom / Wynaut / Snover          |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Aipom / Gligar        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Aipom / Snover        |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Gastly / Aipom / Snover          |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gligar / Wynaut / Snover       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Gligar / Wynaut       |    1 |   1.72% | 100.00% |
+| 92   | Gastly / Gligar / Wynaut / Snover         |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Snover / Dratini / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Snover / Dratini / Duskull / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Dratini / Duskull / Snover     |    1 |   1.72% | 100.00% |
+| 92   | Abra / Bronzor / Ponyta / Chinchou        |    1 |   1.72% | 100.00% |
+| 92   | Abra / Bronzor / Chinchou / Munchlax      |    1 |   1.72% | 100.00% |
+| 92   | Abra / Bronzor / Gligar / Chinchou        |    1 |   1.72% | 100.00% |
+| 92   | Abra / Ponyta / Chinchou / Munchlax       |    1 |   1.72% | 100.00% |
+| 92   | Abra / Ponyta / Chinchou / Gligar         |    1 |   1.72% | 100.00% |
+| 92   | Abra / Gligar / Chinchou / Munchlax       |    1 |   1.72% | 100.00% |
+| 92   | Abra / Bronzor / Ponyta / Munchlax        |    1 |   1.72% | 100.00% |
+| 92   | Abra / Bronzor / Ponyta / Gligar          |    1 |   1.72% | 100.00% |
+| 92   | Abra / Bronzor / Gligar / Munchlax        |    1 |   1.72% | 100.00% |
+| 92   | Abra / Ponyta / Gligar / Munchlax         |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Bronzor / Ponyta / Chinchou      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Ponyta / Chinchou / Gligar     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Ponyta / Gligar      |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Houndour / Gastly / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Houndour / Gligar / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Houndour / Gastly / Gligar      |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Houndour / Gastly / Chinchou     |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Gastly / Chinchou / Gligar      |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Lickitung / Bronzor / Snover   |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Lickitung / Munchlax / Snover  |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Lickitung / Gastly / Snover    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Lickitung / Bronzor / Snover   |    1 |   1.72% | 100.00% |
+| 92   | Lickitung / Gastly / Bronzor / Snover     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Lickitung / Gastly / Snover    |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Bronzor / Munchlax / Snover    |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Bronzor / Gastly / Snover      |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Munchlax / Gastly / Snover     |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Lickitung / Bronzor / Munchlax |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Lickitung / Gastly / Bronzor   |    1 |   1.72% | 100.00% |
+| 92   | Smoochum / Lickitung / Gastly / Munchlax  |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Lickitung / Gastly / Bronzor   |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Snover / Aipom / Wailmer         |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Munchlax / Aipom / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Aipom / Aron / Wailmer           |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Aipom / Aron / Snover            |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Aipom / Aron / Munchlax          |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Snover / Aipom / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Snover / Aipom / Aron / Wailmer           |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Aron / Wailmer         |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Aron / Snover          |    1 |   1.72% | 100.00% |
+| 92   | Snover / Gligar / Aron / Wailmer          |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gligar / Aron / Wailmer        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gligar / Aron / Snover         |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Snover / Aron / Wailmer        |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Snover / Gastly / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Snover / Chinchou / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Snover / Gastly / Chinchou / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Ponyta / Gligar / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Ponyta / Remoraid / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gligar / Remoraid / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Remoraid / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Ponyta / Remoraid / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Gastly / Ponyta / Wailmer        |    1 |   1.72% | 100.00% |
+| 92   | Gastly / Ponyta / Remoraid / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Gastly / Gligar / Remoraid / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Ponyta / Remoraid / Gligar     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Ponyta / Gligar       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Ponyta / Remoraid     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Gligar / Remoraid     |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Gastly / Ponyta / Remoraid       |    1 |   1.72% | 100.00% |
+| 92   | Croagunk / Diglett / Voltorb / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Croagunk / Bronzor / Voltorb / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Croagunk / Voltorb / Wailmer   |    1 |   1.72% | 100.00% |
+| 92   | Diglett / Voltorb / Bronzor / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Diglett / Voltorb / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Croagunk / Diglett / Voltorb / Bronzor    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Croagunk / Diglett / Voltorb   |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Croagunk / Bronzor / Voltorb   |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Diglett / Voltorb / Bronzor    |    1 |   1.72% | 100.00% |
+| 92   | Croagunk / Diglett / Bronzor / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Croagunk / Diglett / Wailmer   |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Croagunk / Bronzor / Wailmer   |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Croagunk / Diglett / Bronzor   |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Munchlax / Stunky / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Stunky / Elekid / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Stunky / Gligar / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Stunky / Elekid / Munchlax      |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Stunky / Gligar / Munchlax      |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Gligar / Stunky / Elekid        |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Munchlax / Elekid / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Munchlax / Gligar / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Gligar / Elekid / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Koffing / Gligar / Elekid / Munchlax      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Stunky / Elekid / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Stunky / Gligar / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Stunky / Elekid / Wailmer        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gligar / Stunky / Elekid       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gligar / Elekid / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Bronzor / Duskull / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Bronzor / Duskull / Diglett     |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Lickitung / Bronzor / Duskull   |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Bronzor / Diglett / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Bronzor / Lickitung / Munchlax  |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Lickitung / Bronzor / Diglett   |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Diglett / Duskull / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Lickitung / Duskull / Munchlax  |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Lickitung / Diglett / Duskull   |    1 |   1.72% | 100.00% |
+| 92   | Anorith / Diglett / Lickitung / Munchlax  |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Duskull / Diglett    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Lickitung / Bronzor / Duskull  |    1 |   1.72% | 100.00% |
+| 92   | Lickitung / Bronzor / Duskull / Diglett   |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Lickitung / Bronzor / Diglett  |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Lickitung / Diglett / Duskull  |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Duskull / Wailmer / Snover     |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Gligar / Wailmer / Snover      |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Duskull / Gligar / Snover      |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Duskull / Gligar / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Machop / Bronzor / Gastly / Chinchou      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Machop / Bronzor / Gastly      |    1 |   1.72% | 100.00% |
+| 92   | Machop / Bronzor / Gastly / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Machop / Gastly / Chinchou     |    1 |   1.72% | 100.00% |
+| 92   | Machop / Gastly / Chinchou / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Machop / Diglett / Duskull     |    1 |   1.72% | 100.00% |
+| 92   | Machop / Diglett / Duskull / Stunky       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Machop / Diglett / Stunky      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Diglett / Duskull / Stunky     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Machop / Aipom / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Machop / Diglett / Aipom       |    1 |   1.72% | 100.00% |
+| 92   | Machop / Diglett / Aipom / Wailmer        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Diglett / Aipom / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Machop / Diglett / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Houndour / Aipom / Duskull     |    1 |   1.72% | 100.00% |
+| 92   | Houndour / Aipom / Chinchou / Duskull     |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Houndour / Aipom / Duskull       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Houndour / Aipom / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Houndour / Aipom / Gligar      |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Houndour / Aipom / Chinchou      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Chinchou / Duskull     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Gligar / Duskull       |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Aipom / Chinchou / Duskull       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Chinchou / Gligar      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Houndour / Duskull / Chinchou  |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Houndour / Duskull / Gligar    |    1 |   1.72% | 100.00% |
+| 92   | Gligar / Houndour / Duskull / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Houndour / Gligar / Chinchou   |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Gastly / Gligar / Elekid       |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Gastly / Elekid / Munchlax     |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Gastly / Chinchou / Elekid     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Gligar / Elekid       |    1 |   1.72% | 100.00% |
+| 92   | Gastly / Gligar / Chinchou / Elekid       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Gastly / Chinchou / Elekid     |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Bronzor / Gastly / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Diglett / Gastly / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Bronzor / Gastly / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Bronzor / Gastly / Diglett     |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Diglett / Gastly / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Bronzor / Diglett / Munchlax   |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Diglett / Chinchou / Munchlax  |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Bronzor / Diglett / Chinchou   |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Gastly / Diglett     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Diglett / Gastly / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Bronzor / Gastly / Chinchou / Diglett     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Diglett / Chinchou   |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Bronzor / Ponyta / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Gastly / Bronzor / Ponyta / Wailmer       |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Diglett / Duskull / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Duskull / Wailmer / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Diglett / Wailmer / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Mantyke / Diglett / Duskull / Wailmer     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Diglett / Duskull / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Cranidos / Duskull     |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Stunky / Duskull       |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Snover / Aipom / Duskull       |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Aipom / Stunky / Duskull       |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Snover / Aipom / Duskull       |    1 |   1.72% | 100.00% |
+| 92   | Snover / Aipom / Stunky / Duskull         |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Stunky / Cranidos      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Snover / Aipom / Cranidos      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Aipom / Stunky / Snover        |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Aipom / Stunky / Snover        |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Duskull / Stunky / Snover      |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Duskull / Stunky / Snover      |    1 |   1.72% | 100.00% |
+| 92   | Munchlax / Cranidos / Stunky / Snover     |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Machop / Bronzor / Chinchou    |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Machop / Bronzor / Munchlax    |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Machop / Chinchou / Munchlax   |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Gastly / Gligar / Wailmer      |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Gligar / Chinchou / Wailmer    |    1 |   1.72% | 100.00% |
+| 92   | Cranidos / Croagunk / Dratini / Bronzor   |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Dratini / Bronzor / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Dratini / Bronzor / Snover     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Dratini / Bronzor   |    1 |   1.72% |   0.00% |
+| 92   | Croagunk / Dratini / Bronzor / Snover     |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Croagunk / Dratini / Munchlax  |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Croagunk / Dratini / Snover    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Snover / Dratini / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Dratini / Snover    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Croagunk / Bronzor / Munchlax  |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Croagunk / Bronzor / Snover    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Snover / Bronzor / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Bronzor / Snover    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Croagunk / Snover / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Bronzor / Gligar / Duskull     |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Bronzor / Gligar / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Bronzor / Gligar / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Bronzor / Duskull / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Bronzor / Duskull / Chinchou   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Gligar / Duskull     |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gligar / Chinchou / Duskull     |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Duskull / Stunky / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Dratini / Stunky / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Dratini / Stunky / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Duskull / Stunky / Dratini / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Munchlax / Dratini / Wailmer   |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Dratini / Duskull / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Dratini / Stunky / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Dratini / Stunky / Duskull     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Dratini / Stunky / Duskull     |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Dratini / Duskull / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gligar / Chinchou / Drifloon    |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gligar / Chinchou / Omanyte     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Chinchou / Drifloon  |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Chinchou / Omanyte   |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Chinchou / Omanyte / Drifloon   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Gligar / Drifloon    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Gligar / Omanyte     |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gligar / Omanyte / Drifloon     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Omanyte / Drifloon   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gligar / Chinchou / Drifloon   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gligar / Chinchou / Omanyte    |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Chinchou / Omanyte / Drifloon    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Chinchou / Omanyte / Drifloon  |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gligar / Omanyte / Drifloon    |    1 |   1.72% |   0.00% |
+| 92   | Lickitung / Gastly / Paras / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Gastly / Paras / Wailmer       |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Lickitung / Gastly / Paras     |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Lickitung / Paras / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Lickitung / Gastly / Wailmer   |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Bronzor / Gastly / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Gastly / Chinchou / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Mantyke / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Bronzor / Gastly / Chinchou     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Gastly / Mantyke     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Chinchou / Mantyke    |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Voltorb / Stunky / Diglett      |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Diglett / Stunky / Kabuto       |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Diglett / Stunky / Omanyte      |    1 |   1.72% |   0.00% |
+| 92   | Voltorb / Stunky / Diglett / Kabuto       |    1 |   1.72% |   0.00% |
+| 92   | Voltorb / Stunky / Diglett / Omanyte      |    1 |   1.72% |   0.00% |
+| 92   | Diglett / Stunky / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Diglett / Voltorb / Kabuto      |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Diglett / Voltorb / Omanyte     |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Diglett / Kabuto / Omanyte      |    1 |   1.72% |   0.00% |
+| 92   | Diglett / Voltorb / Kabuto / Omanyte      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Koffing / Mankey / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Koffing / Mankey / Gligar      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Koffing / Mankey / Cranidos    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Gligar / Chinchou     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Cranidos / Chinchou   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Gligar / Cranidos     |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Mankey / Gligar / Chinchou      |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Mankey / Cranidos / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Mankey / Gligar / Cranidos      |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Mankey / Gligar / Chinchou     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Koffing / Gligar / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Koffing / Gligar / Cranidos    |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Gligar / Chinchou / Cranidos    |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Croagunk / Duskull / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Croagunk / Duskull / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Croagunk / Duskull / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Duskull / Wailmer   |    1 |   1.72% |   0.00% |
+| 92   | Croagunk / Duskull / Chinchou / Wailmer   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Duskull / Chinchou  |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Gligar / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Croagunk / Gligar / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Gligar / Chinchou   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Chinchou / Wailmer  |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Doduo / Wailmer       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gligar / Doduo / Wailmer       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Chinchou / Doduo / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Gastly / Doduo / Wailmer         |    1 |   1.72% |   0.00% |
+| 92   | Gastly / Chinchou / Doduo / Wailmer       |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Chinchou / Doduo / Wailmer       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Doduo / Gligar        |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Chinchou / Doduo      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gligar / Chinchou / Doduo      |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Gastly / Chinchou / Doduo        |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Gligar / Chinchou / Snover     |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Gastly / Gligar / Snover       |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Chinchou / Porygon / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Gastly / Chinchou / Porygon     |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Cranidos / Chinchou / Porygon   |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Gastly / Porygon / Munchlax     |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Cranidos / Porygon / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Gastly / Porygon / Cranidos     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Chinchou / Porygon    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Cranidos / Chinchou / Porygon  |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Gastly / Chinchou / Porygon    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Porygon / Cranidos    |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Gastly / Chinchou / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Gastly / Chinchou / Cranidos    |    1 |   1.72% |   0.00% |
+| 92   | Koffing / Gastly / Cranidos / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Ponyta / Bronzor / Gastly / Chinchou      |    1 |   1.72% |   0.00% |
+| 92   | Ponyta / Bronzor / Gastly / Snover        |    1 |   1.72% |   0.00% |
+| 92   | Ponyta / Gastly / Chinchou / Snover       |    1 |   1.72% |   0.00% |
+| 92   | Ponyta / Gastly / Chinchou / Munchlax     |    1 |   1.72% |   0.00% |
+| 92   | Ponyta / Munchlax / Gastly / Snover       |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Ponyta / Chinchou / Snover      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Ponyta / Snover      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Ponyta / Chinchou / Snover     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Duskull / Chinchou / Snover    |    1 |   1.72% |   0.00% |
+| 92   | Duskull / Chinchou / Wailmer / Snover     |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Chinchou / Wailmer / Snover      |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Duskull / Chinchou / Snover      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Gastly / Wynaut      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Gastly / Dratini     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Wynaut / Snover      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Wynaut / Dratini     |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gastly / Wynaut / Snover        |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gastly / Wynaut / Dratini       |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gastly / Dratini / Snover       |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Wynaut / Dratini / Snover       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Dratini / Gastly / Wynaut      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Dratini / Gastly / Snover      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Dratini / Wynaut / Snover      |    1 |   1.72% |   0.00% |
+| 92   | Dratini / Gastly / Wynaut / Snover        |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Bronzor / Voltorb / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Bronzor / Voltorb / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Bronzor / Voltorb / Munchlax    |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Voltorb / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Voltorb / Chinchou   |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Voltorb / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Voltorb / Chinchou / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Munchlax / Voltorb / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Voltorb / Chinchou / Wailmer   |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Machop / Stunky / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Machop / Gastly / Stunky / Wailmer        |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Machop / Gastly / Stunky       |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Machop / Stunky / Munchlax     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Gastly / Stunky       |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Gastly / Stunky / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Stunky / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Gastly / Stunky / Munchlax     |    1 |   1.72% |   0.00% |
+| 92   | Machop / Bronzor / Stunky / Chinchou      |    1 |   1.72% |   0.00% |
+| 92   | Machop / Bronzor / Gligar / Chinchou      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Bronzor / Stunky      |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Machop / Bronzor / Stunky        |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Bronzor / Gligar      |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Machop / Stunky / Chinchou       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Gligar / Chinchou     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Stunky / Gligar       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Stunky / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Bronzor / Stunky / Chinchou      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Stunky / Gligar      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Stunky / Chinchou / Gligar     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Duskull / Elekid / Cranidos    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Duskull / Chinchou / Elekid    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gligar / Duskull / Elekid      |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Duskull / Chinchou / Elekid    |    1 |   1.72% |   0.00% |
+| 92   | Cranidos / Gligar / Duskull / Elekid      |    1 |   1.72% |   0.00% |
+| 92   | Gligar / Duskull / Chinchou / Elekid      |    1 |   1.72% |   0.00% |
+| 92   | Mankey / Duskull / Bronzor / Taillow      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Bronzor / Taillow     |    1 |   1.72% |   0.00% |
+| 92   | Chinchou / Mankey / Bronzor / Taillow     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Duskull / Taillow     |    1 |   1.72% |   0.00% |
+| 92   | Mankey / Duskull / Chinchou / Taillow     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Chinchou / Taillow    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Duskull / Bronzor     |    1 |   1.72% |   0.00% |
+| 92   | Chinchou / Mankey / Duskull / Bronzor     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Chinchou / Mankey / Bronzor    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Mankey / Duskull / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Duskull / Taillow    |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Duskull / Chinchou / Taillow    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Chinchou / Taillow   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Duskull / Chinchou / Taillow   |    1 |   1.72% |   0.00% |
+| 92   | Machop / Gligar / Snover / Wailmer        |    1 |   1.72% |   0.00% |
+| 92   | Machop / Gastly / Gligar / Wailmer        |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Gligar / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Machop / Gastly / Snover / Wailmer        |    1 |   1.72% |   0.00% |
+| 92   | Machop / Gastly / Gligar / Snover         |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Gligar / Snover       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Gastly / Gligar       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Gastly / Snover       |    1 |   1.72% |   0.00% |
+| 92   | Snover / Gastly / Gligar / Wailmer        |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Machop / Bronzor / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Mantyke / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Machop / Chinchou / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Bronzor / Mantyke     |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Machop / Bronzor / Chinchou     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Chinchou / Mantyke    |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Gligar / Stunky / Kabuto        |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Voltorb / Gligar / Stunky       |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Gligar / Stunky / Omanyte       |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Voltorb / Gligar / Kabuto       |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Gligar / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 92   | Mantyke / Voltorb / Gligar / Omanyte      |    1 |   1.72% |   0.00% |
+| 92   | Voltorb / Gligar / Stunky / Kabuto        |    1 |   1.72% |   0.00% |
+| 92   | Omanyte / Gligar / Stunky / Kabuto        |    1 |   1.72% |   0.00% |
+| 92   | Voltorb / Gligar / Stunky / Omanyte       |    1 |   1.72% |   0.00% |
+| 92   | Voltorb / Gligar / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 92   | Bronzor / Gastly / Chinchou / Trapinch    |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Bronzor / Gastly / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Chinchou / Trapinch  |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Smoochum / Chinchou  |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Bronzor / Chinchou / Trapinch  |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Gastly / Trapinch    |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Bronzor / Gastly / Trapinch    |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Bronzor / Smoochum / Trapinch  |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Trapinch / Gastly / Chinchou   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gastly / Chinchou / Smoochum   |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Trapinch / Gastly / Chinchou   |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Trapinch / Smoochum / Chinchou |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Trapinch / Gastly / Smoochum   |    1 |   1.72% |   0.00% |
+| 92   | Abra / Aron / Wynaut / Munchlax           |    1 |   1.72% |   0.00% |
+| 92   | Abra / Duskull / Wynaut / Munchlax        |    1 |   1.72% |   0.00% |
+| 92   | Abra / Wynaut / Wailmer / Munchlax        |    1 |   1.72% |   0.00% |
+| 92   | Abra / Duskull / Wynaut / Aron            |    1 |   1.72% |   0.00% |
+| 92   | Abra / Wynaut / Wailmer / Aron            |    1 |   1.72% |   0.00% |
+| 92   | Abra / Duskull / Wynaut / Wailmer         |    1 |   1.72% |   0.00% |
+| 92   | Abra / Duskull / Aron / Munchlax          |    1 |   1.72% |   0.00% |
+| 92   | Abra / Aron / Wailmer / Munchlax          |    1 |   1.72% |   0.00% |
+| 92   | Abra / Duskull / Wailmer / Munchlax       |    1 |   1.72% |   0.00% |
+| 92   | Abra / Duskull / Wailmer / Aron           |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Duskull / Wynaut / Aron        |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Wynaut / Wailmer / Aron        |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Duskull / Wynaut / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Duskull / Wynaut / Wailmer / Aron         |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Duskull / Wailmer / Aron       |    1 |   1.72% |   0.00% |
+| 92   | Machop / Stunky / Wailmer / Duskull       |    1 |   1.72% |   0.00% |
+| 92   | Machop / Stunky / Chinchou / Duskull      |    1 |   1.72% |   0.00% |
+| 92   | Machop / Stunky / Chinchou / Wailmer      |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Duskull / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Machop / Duskull / Chinchou    |    1 |   1.72% |   0.00% |
+| 92   | Machop / Duskull / Chinchou / Wailmer     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Stunky / Chinchou / Duskull    |    1 |   1.72% |   0.00% |
+| 92   | Stunky / Chinchou / Wailmer / Duskull     |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Stunky / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Croagunk / Gligar / Wynaut     |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Croagunk / Gligar / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Croagunk / Gligar / Aron       |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Croagunk / Wynaut / Munchlax   |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Croagunk / Wynaut / Aron       |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Croagunk / Aron / Munchlax     |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Gligar / Wynaut / Munchlax     |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Gligar / Wynaut / Aron         |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Gligar / Aron / Munchlax       |    1 |   1.72% |   0.00% |
+| 92   | Smoochum / Aron / Wynaut / Munchlax       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Gligar / Wynaut     |    1 |   1.72% |   0.00% |
+| 92   | Croagunk / Gligar / Wynaut / Aron         |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Gligar / Aron       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Croagunk / Wynaut / Aron       |    1 |   1.72% |   0.00% |
+| 92   | Munchlax / Gligar / Wynaut / Aron         |    1 |   1.72% |   0.00% |
+
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                         | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Munchlax / Bronzor / Chinchou / Gastly / Snover     |    4 |   6.90% |  25.00% |
+| 1    | Munchlax / Gligar / Chinchou / Gastly / Snover      |    4 |   6.90% |  25.00% |
+| 3    | Munchlax / Bronzor / Chinchou / Gastly / Wailmer    |    3 |   5.17% |  66.67% |
+| 3    | Munchlax / Gligar / Chinchou / Gastly / Cranidos    |    3 |   5.17% |  66.67% |
+| 3    | Munchlax / Bronzor / Gligar / Chinchou / Gastly     |    3 |   5.17% |  33.33% |
+| 3    | Bronzor / Gligar / Chinchou / Gastly / Snover       |    3 |   5.17% |  33.33% |
+| 3    | Munchlax / Bronzor / Gligar / Gastly / Snover       |    3 |   5.17% |  33.33% |
+| 3    | Munchlax / Bronzor / Gligar / Chinchou / Snover     |    3 |   5.17% |  33.33% |
+| 3    | Munchlax / Mantyke / Bronzor / Chinchou / Wailmer   |    3 |   5.17% |   0.00% |
+| 10   | Munchlax / Chinchou / Gastly / Cranidos / Wailmer   |    2 |   3.45% | 100.00% |
+| 10   | Munchlax / Chinchou / Gastly / Snover / Cranidos    |    2 |   3.45% |  50.00% |
+| 10   | Munchlax / Gligar / Chinchou / Gastly / Wailmer     |    2 |   3.45% |  50.00% |
+| 10   | Munchlax / Duskull / Gligar / Snover / Wailmer      |    2 |   3.45% |  50.00% |
+| 10   | Munchlax / Machop / Bronzor / Chinchou / Wailmer    |    2 |   3.45% |  50.00% |
+| 10   | Munchlax / Machop / Gastly / Cranidos / Wailmer     |    2 |   3.45% |  50.00% |
+| 10   | Munchlax / Gligar / Chinchou / Elekid / Cranidos    |    2 |   3.45% |  50.00% |
+| 10   | Munchlax / Duskull / Gligar / Chinchou / Cranidos   |    2 |   3.45% |   0.00% |
+| 10   | Voltorb / Stunky / Mantyke / Kabuto / Omanyte       |    2 |   3.45% |   0.00% |
+| 10   | Munchlax / Duskull / Gligar / Chinchou / Wailmer    |    2 |   3.45% |   0.00% |
+| 20   | Munchlax / Bronzor / Chinchou / Elekid / Wynaut     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Elekid / Wynaut / Doduo        |    1 |   1.72% | 100.00% |
+| 20   | Bronzor / Chinchou / Elekid / Wynaut / Doduo        |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Chinchou / Elekid / Doduo      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Chinchou / Elekid / Wynaut / Doduo       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Chinchou / Wynaut / Doduo      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Aipom / Gligar / Snover / Wynaut         |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Aipom / Gligar / Gastly / Wynaut         |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Aipom / Gastly / Snover / Wynaut         |    1 |   1.72% | 100.00% |
+| 20   | Gligar / Aipom / Gastly / Snover / Wynaut           |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Aipom / Gligar / Gastly / Snover         |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Gastly / Snover / Wynaut        |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Dratini / Snover / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Abra / Bronzor / Chinchou       |    1 |   1.72% | 100.00% |
+| 20   | Ponyta / Abra / Bronzor / Gligar / Chinchou         |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Abra / Bronzor / Gligar / Chinchou       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Abra / Gligar / Chinchou        |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Abra / Bronzor / Gligar         |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Bronzor / Gligar / Chinchou     |    1 |   1.72% | 100.00% |
+| 20   | Mantyke / Houndour / Gligar / Chinchou / Gastly     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Smoochum / Lickitung / Snover  |    1 |   1.72% | 100.00% |
+| 20   | Bronzor / Smoochum / Lickitung / Gastly / Snover    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Smoochum / Lickitung / Gastly / Snover   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Lickitung / Gastly / Snover    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Smoochum / Gastly / Snover     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Smoochum / Lickitung / Gastly  |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Aipom / Snover / Wailmer        |    1 |   1.72% | 100.00% |
+| 20   | Gligar / Aipom / Aron / Snover / Wailmer            |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Aipom / Aron / Wailmer          |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Snover / Gligar / Aipom / Aron           |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Aipom / Aron / Snover / Wailmer          |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Aron / Snover / Wailmer         |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gastly / Snover / Cranidos / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Chinchou / Snover / Cranidos / Wailmer   |    1 |   1.72% | 100.00% |
+| 20   | Chinchou / Gastly / Snover / Cranidos / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Chinchou / Gastly / Snover / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Gligar / Remoraid / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Gligar / Gastly / Wailmer       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Remoraid / Gastly / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Remoraid / Gastly / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Ponyta / Gligar / Remoraid / Gastly / Wailmer       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Gligar / Remoraid / Gastly      |    1 |   1.72% | 100.00% |
+| 20   | Voltorb / Croagunk / Diglett / Bronzor / Wailmer    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Voltorb / Croagunk / Diglett / Wailmer   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Voltorb / Croagunk / Bronzor / Wailmer   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Voltorb / Diglett / Bronzor / Wailmer    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Voltorb / Croagunk / Diglett / Bronzor   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Croagunk / Diglett / Bronzor / Wailmer   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Stunky / Koffing / Elekid / Wailmer      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Stunky / Koffing / Gligar / Wailmer      |    1 |   1.72% | 100.00% |
+| 20   | Stunky / Koffing / Gligar / Elekid / Wailmer        |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Stunky / Koffing / Gligar / Elekid       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Koffing / Gligar / Elekid / Wailmer      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Stunky / Gligar / Elekid / Wailmer       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Bronzor / Diglett / Anorith    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Bronzor / Anorith / Lickitung  |    1 |   1.72% | 100.00% |
+| 20   | Duskull / Bronzor / Diglett / Anorith / Lickitung   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Diglett / Anorith / Lickitung  |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Diglett / Anorith / Lickitung  |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Bronzor / Diglett / Lickitung  |    1 |   1.72% | 100.00% |
+| 20   | Duskull / Gligar / Snover / Cranidos / Wailmer      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Snover / Cranidos / Wailmer    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Snover / Cranidos / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Gligar / Snover / Cranidos     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Gligar / Cranidos / Wailmer    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Machop / Bronzor / Chinchou / Gastly     |    1 |   1.72% | 100.00% |
+| 20   | Machop / Bronzor / Chinchou / Gastly / Wailmer      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Machop / Bronzor / Gastly / Wailmer      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Machop / Chinchou / Gastly / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Machop / Duskull / Stunky / Diglett      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Machop / Diglett / Aipom / Wailmer       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Houndour / Aipom / Chinchou    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Houndour / Aipom / Gligar      |    1 |   1.72% | 100.00% |
+| 20   | Duskull / Houndour / Gligar / Aipom / Chinchou      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Houndour / Aipom / Chinchou / Gligar     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Aipom / Chinchou / Gligar      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Houndour / Gligar / Chinchou   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Elekid / Gastly / Cranidos      |    1 |   1.72% | 100.00% |
+| 20   | Gligar / Chinchou / Elekid / Gastly / Cranidos      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Chinchou / Elekid / Gastly / Cranidos    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Chinchou / Elekid / Gastly      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Chinchou / Gastly / Cranidos   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Diglett / Gastly / Cranidos    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Diglett / Chinchou / Gastly / Cranidos   |    1 |   1.72% | 100.00% |
+| 20   | Bronzor / Diglett / Chinchou / Gastly / Cranidos    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Diglett / Chinchou / Cranidos  |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Bronzor / Diglett / Chinchou / Gastly    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Ponyta / Bronzor / Gastly / Wailmer      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Mantyke / Diglett / Wailmer    |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Stunky / Duskull / Aipom / Cranidos      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Aipom / Snover / Cranidos      |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Stunky / Duskull / Aipom / Snover        |    1 |   1.72% | 100.00% |
+| 20   | Stunky / Duskull / Aipom / Snover / Cranidos        |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Stunky / Aipom / Snover / Cranidos       |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Duskull / Stunky / Snover / Cranidos     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Machop / Bronzor / Chinchou / Cranidos   |    1 |   1.72% | 100.00% |
+| 20   | Gligar / Chinchou / Gastly / Cranidos / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Gastly / Cranidos / Wailmer     |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Gligar / Chinchou / Cranidos / Wailmer   |    1 |   1.72% | 100.00% |
+| 20   | Munchlax / Croagunk / Dratini / Bronzor / Cranidos  |    1 |   1.72% |   0.00% |
+| 20   | Croagunk / Dratini / Bronzor / Snover / Cranidos    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Dratini / Bronzor / Snover / Cranidos    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Dratini / Bronzor / Snover    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Dratini / Snover / Cranidos   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Bronzor / Snover / Cranidos   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Bronzor / Gligar / Cranidos    |    1 |   1.72% |   0.00% |
+| 20   | Duskull / Bronzor / Gligar / Chinchou / Cranidos    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Gligar / Chinchou / Cranidos   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Bronzor / Chinchou / Cranidos  |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Bronzor / Gligar / Chinchou    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Stunky / Duskull / Cranidos / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Stunky / Dratini / Cranidos / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Duskull / Stunky / Dratini / Cranidos / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Stunky / Dratini / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Dratini / Cranidos / Wailmer   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Stunky / Dratini / Cranidos    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Gligar / Chinchou / Drifloon   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Gligar / Chinchou / Omanyte    |    1 |   1.72% |   0.00% |
+| 20   | Bronzor / Gligar / Chinchou / Drifloon / Omanyte    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Chinchou / Drifloon / Omanyte  |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Gligar / Drifloon / Omanyte    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Chinchou / Drifloon / Omanyte   |    1 |   1.72% |   0.00% |
+| 20   | Paras / Lickitung / Gastly / Cranidos / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Mantyke / Bronzor / Chinchou / Gastly / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Mantyke / Bronzor / Gastly / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Mantyke / Chinchou / Gastly / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Mantyke / Bronzor / Chinchou / Gastly    |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Stunky / Mantyke / Diglett / Kabuto       |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Stunky / Mantyke / Diglett / Omanyte      |    1 |   1.72% |   0.00% |
+| 20   | Stunky / Mantyke / Diglett / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Stunky / Diglett / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Mantyke / Diglett / Kabuto / Omanyte      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Gligar / Chinchou / Mankey     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Chinchou / Cranidos / Mankey   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Gligar / Cranidos / Mankey     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Chinchou / Cranidos / Mankey    |    1 |   1.72% |   0.00% |
+| 20   | Koffing / Gligar / Chinchou / Cranidos / Mankey     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Gligar / Chinchou / Cranidos   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Croagunk / Gligar / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Duskull / Croagunk / Gligar / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Croagunk / Gligar / Chinchou   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Croagunk / Chinchou / Wailmer  |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Gligar / Chinchou / Wailmer   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Gastly / Doduo / Wailmer        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Chinchou / Gastly / Doduo / Wailmer      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Chinchou / Doduo / Wailmer      |    1 |   1.72% |   0.00% |
+| 20   | Gligar / Chinchou / Gastly / Doduo / Wailmer        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Chinchou / Gastly / Doduo       |    1 |   1.72% |   0.00% |
+| 20   | Gligar / Chinchou / Gastly / Snover / Cranidos      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Chinchou / Snover / Cranidos    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Gastly / Snover / Cranidos      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Chinchou / Gastly / Porygon    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Chinchou / Cranidos / Porygon  |    1 |   1.72% |   0.00% |
+| 20   | Koffing / Chinchou / Gastly / Cranidos / Porygon    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Gastly / Cranidos / Porygon    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Chinchou / Gastly / Cranidos / Porygon   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Koffing / Chinchou / Gastly / Cranidos   |    1 |   1.72% |   0.00% |
+| 20   | Ponyta / Bronzor / Chinchou / Gastly / Snover       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Ponyta / Bronzor / Chinchou / Gastly     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Ponyta / Bronzor / Gastly / Snover       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Ponyta / Chinchou / Gastly / Snover      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Ponyta / Bronzor / Chinchou / Snover     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Chinchou / Snover / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Chinchou / Snover / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Gligar / Chinchou / Snover     |    1 |   1.72% |   0.00% |
+| 20   | Duskull / Gligar / Chinchou / Snover / Wailmer      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Gastly / Snover / Wynaut       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Dratini / Gastly / Wynaut      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Dratini / Gastly / Snover      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Dratini / Snover / Wynaut      |    1 |   1.72% |   0.00% |
+| 20   | Bronzor / Dratini / Gastly / Snover / Wynaut        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Dratini / Gastly / Snover / Wynaut       |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Mantyke / Bronzor / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Voltorb / Mantyke / Bronzor / Chinchou   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Voltorb / Mantyke / Bronzor / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Voltorb / Bronzor / Chinchou / Wailmer   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Voltorb / Mantyke / Chinchou / Wailmer   |    1 |   1.72% |   0.00% |
+| 20   | Machop / Stunky / Gastly / Cranidos / Wailmer       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Cranidos / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Gastly / Wailmer       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Gastly / Cranidos      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Stunky / Gastly / Cranidos / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Bronzor / Chinchou     |    1 |   1.72% |   0.00% |
+| 20   | Machop / Stunky / Bronzor / Gligar / Chinchou       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Bronzor / Gligar / Chinchou     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Bronzor / Gligar       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Gligar / Chinchou      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Stunky / Bronzor / Gligar / Chinchou     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Chinchou / Elekid / Cranidos   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Gligar / Elekid / Cranidos     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Gligar / Chinchou / Elekid     |    1 |   1.72% |   0.00% |
+| 20   | Duskull / Gligar / Chinchou / Elekid / Cranidos     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Taillow / Bronzor / Mankey     |    1 |   1.72% |   0.00% |
+| 20   | Duskull / Taillow / Bronzor / Chinchou / Mankey     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Taillow / Bronzor / Chinchou / Mankey    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Taillow / Chinchou / Mankey    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Bronzor / Chinchou / Mankey    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Taillow / Bronzor / Chinchou   |    1 |   1.72% |   0.00% |
+| 20   | Machop / Gligar / Gastly / Snover / Wailmer         |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Gligar / Snover / Wailmer       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Gligar / Gastly / Wailmer       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Gastly / Snover / Wailmer       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Gligar / Gastly / Snover        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Gastly / Snover / Wailmer       |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Mantyke / Bronzor / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Machop / Mantyke / Bronzor / Chinchou / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Mantyke / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Mantyke / Bronzor / Chinchou    |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Stunky / Mantyke / Gligar / Kabuto        |    1 |   1.72% |   0.00% |
+| 20   | Stunky / Mantyke / Gligar / Kabuto / Omanyte        |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Stunky / Mantyke / Gligar / Omanyte       |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Mantyke / Gligar / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 20   | Voltorb / Stunky / Gligar / Kabuto / Omanyte        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Trapinch / Bronzor / Chinchou / Gastly   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Bronzor / Chinchou / Smoochum / Gastly   |    1 |   1.72% |   0.00% |
+| 20   | Trapinch / Bronzor / Chinchou / Smoochum / Gastly   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Trapinch / Bronzor / Chinchou / Smoochum |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Trapinch / Bronzor / Smoochum / Gastly   |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Trapinch / Chinchou / Smoochum / Gastly  |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Abra / Aron / Wynaut           |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Abra / Aron / Wynaut / Wailmer           |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Abra / Wynaut / Wailmer        |    1 |   1.72% |   0.00% |
+| 20   | Duskull / Abra / Aron / Wynaut / Wailmer            |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Abra / Aron / Wailmer          |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Duskull / Aron / Wynaut / Wailmer        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Duskull / Wailmer      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Duskull / Chinchou     |    1 |   1.72% |   0.00% |
+| 20   | Machop / Stunky / Duskull / Chinchou / Wailmer      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Stunky / Chinchou / Wailmer     |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Machop / Duskull / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Stunky / Duskull / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Gligar / Smoochum / Wynaut    |    1 |   1.72% |   0.00% |
+| 20   | Croagunk / Gligar / Smoochum / Aron / Wynaut        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Gligar / Smoochum / Aron      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Smoochum / Aron / Wynaut      |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Gligar / Smoochum / Aron / Wynaut        |    1 |   1.72% |   0.00% |
+| 20   | Munchlax / Croagunk / Gligar / Aron / Wynaut        |    1 |   1.72% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Munchlax / Bronzor / Gligar / Chinchou / Gastly / Snover     |    3 |   5.17% |  33.33% |
+| 2    | Munchlax / Bronzor / Chinchou / Elekid / Wynaut / Doduo      |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Aipom / Gligar / Gastly / Snover / Wynaut         |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Ponyta / Abra / Bronzor / Gligar / Chinchou       |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Bronzor / Smoochum / Lickitung / Gastly / Snover  |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Gligar / Aipom / Aron / Snover / Wailmer          |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Chinchou / Gastly / Snover / Cranidos / Wailmer   |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Ponyta / Gligar / Remoraid / Gastly / Wailmer     |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Voltorb / Croagunk / Diglett / Bronzor / Wailmer  |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Stunky / Koffing / Gligar / Elekid / Wailmer      |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Duskull / Bronzor / Diglett / Anorith / Lickitung |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Duskull / Gligar / Snover / Cranidos / Wailmer    |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Machop / Bronzor / Chinchou / Gastly / Wailmer    |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Duskull / Houndour / Aipom / Chinchou / Gligar    |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Gligar / Chinchou / Elekid / Gastly / Cranidos    |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Bronzor / Diglett / Chinchou / Gastly / Cranidos  |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Stunky / Duskull / Aipom / Snover / Cranidos      |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Gligar / Chinchou / Gastly / Cranidos / Wailmer   |    1 |   1.72% | 100.00% |
+| 2    | Munchlax / Croagunk / Dratini / Bronzor / Snover / Cranidos  |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Duskull / Bronzor / Gligar / Chinchou / Cranidos  |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Stunky / Duskull / Dratini / Cranidos / Wailmer   |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Bronzor / Gligar / Chinchou / Drifloon / Omanyte  |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Mantyke / Bronzor / Chinchou / Gastly / Wailmer   |    1 |   1.72% |   0.00% |
+| 2    | Voltorb / Stunky / Mantyke / Diglett / Kabuto / Omanyte      |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Koffing / Gligar / Chinchou / Cranidos / Mankey   |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Duskull / Croagunk / Gligar / Chinchou / Wailmer  |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Gligar / Chinchou / Gastly / Doduo / Wailmer      |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Gligar / Chinchou / Gastly / Snover / Cranidos    |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Koffing / Chinchou / Gastly / Cranidos / Porygon  |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Ponyta / Bronzor / Chinchou / Gastly / Snover     |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Duskull / Gligar / Chinchou / Snover / Wailmer    |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Bronzor / Dratini / Gastly / Snover / Wynaut      |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Voltorb / Mantyke / Bronzor / Chinchou / Wailmer  |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Machop / Stunky / Gastly / Cranidos / Wailmer     |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Machop / Stunky / Bronzor / Gligar / Chinchou     |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Duskull / Gligar / Chinchou / Elekid / Cranidos   |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Duskull / Taillow / Bronzor / Chinchou / Mankey   |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Machop / Gligar / Gastly / Snover / Wailmer       |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Machop / Mantyke / Bronzor / Chinchou / Wailmer   |    1 |   1.72% |   0.00% |
+| 2    | Voltorb / Stunky / Mantyke / Gligar / Kabuto / Omanyte       |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Trapinch / Bronzor / Chinchou / Smoochum / Gastly |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Duskull / Abra / Aron / Wynaut / Wailmer          |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Machop / Stunky / Duskull / Chinchou / Wailmer    |    1 |   1.72% |   0.00% |
+| 2    | Munchlax / Croagunk / Gligar / Smoochum / Aron / Wynaut      |    1 |   1.72% |   0.00% |
