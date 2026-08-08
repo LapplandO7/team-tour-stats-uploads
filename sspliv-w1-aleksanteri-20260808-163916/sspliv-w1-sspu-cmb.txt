@@ -1,0 +1,481 @@
++ ---- + --------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                 | Use  | Usage % |  Win %  |
++ ---- + --------------------------- + ---- + ------- + ------- +
+| 1    | Doublade / Eldegoss         |    3 |  37.50% | 100.00% |
+| 1    | Gigalith / Sandslash        |    3 |  37.50% |  33.33% |
+| 3    | Ribombee / Eldegoss         |    2 |  25.00% | 100.00% |
+| 3    | Doublade / Ribombee         |    2 |  25.00% | 100.00% |
+| 3    | Silvally / Archeops         |    2 |  25.00% |  50.00% |
+| 3    | Centiskorch / Eldegoss      |    2 |  25.00% |  50.00% |
+| 3    | Eldegoss / Sandaconda       |    2 |  25.00% |  50.00% |
+| 3    | Wishiwashi / Eldegoss       |    2 |  25.00% |  50.00% |
+| 3    | Centiskorch / Sandaconda    |    2 |  25.00% |  50.00% |
+| 3    | Wishiwashi / Centiskorch    |    2 |  25.00% |  50.00% |
+| 3    | Wishiwashi / Sandaconda     |    2 |  25.00% |  50.00% |
+| 3    | Magneton / Gigalith         |    2 |  25.00% |  50.00% |
+| 3    | Magneton / Sandslash        |    2 |  25.00% |  50.00% |
+| 3    | Gigalith / Weezing          |    2 |  25.00% |   0.00% |
+| 3    | Weezing / Sandslash         |    2 |  25.00% |   0.00% |
+| 16   | Doublade / Ninjask          |    1 |  12.50% | 100.00% |
+| 16   | Gigalith / Ninjask          |    1 |  12.50% | 100.00% |
+| 16   | Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 16   | Magneton / Ninjask          |    1 |  12.50% | 100.00% |
+| 16   | Eldegoss / Ninjask          |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Gigalith         |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Sandslash        |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Magneton         |    1 |  12.50% | 100.00% |
+| 16   | Gigalith / Eldegoss         |    1 |  12.50% | 100.00% |
+| 16   | Sandslash / Eldegoss        |    1 |  12.50% | 100.00% |
+| 16   | Magneton / Eldegoss         |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Haunter          |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Audino           |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Regirock         |    1 |  12.50% | 100.00% |
+| 16   | Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 16   | Haunter / Eldegoss          |    1 |  12.50% | 100.00% |
+| 16   | Regirock / Haunter          |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Haunter          |    1 |  12.50% | 100.00% |
+| 16   | Audino / Eldegoss           |    1 |  12.50% | 100.00% |
+| 16   | Regirock / Audino           |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Audino           |    1 |  12.50% | 100.00% |
+| 16   | Regirock / Eldegoss         |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Regirock         |    1 |  12.50% | 100.00% |
+| 16   | Lanturn / Gourgeist-*       |    1 |  12.50% | 100.00% |
+| 16   | Lanturn / Silvally          |    1 |  12.50% | 100.00% |
+| 16   | Lanturn / Sandslash         |    1 |  12.50% | 100.00% |
+| 16   | Lanturn / Ribombee          |    1 |  12.50% | 100.00% |
+| 16   | Lanturn / Archeops          |    1 |  12.50% | 100.00% |
+| 16   | Lanturn / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 16   | Gourgeist-* / Silvally      |    1 |  12.50% | 100.00% |
+| 16   | Gourgeist-* / Sandslash     |    1 |  12.50% | 100.00% |
+| 16   | Gourgeist-* / Ribombee      |    1 |  12.50% | 100.00% |
+| 16   | Gourgeist-* / Archeops      |    1 |  12.50% | 100.00% |
+| 16   | Silvally / Sandslash        |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Silvally         |    1 |  12.50% | 100.00% |
+| 16   | Silvally / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Sandslash        |    1 |  12.50% | 100.00% |
+| 16   | Sandslash / Archeops        |    1 |  12.50% | 100.00% |
+| 16   | Sandslash / Gourgeist-Super |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Archeops         |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 16   | Archeops / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Centiskorch      |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Centiskorch      |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Wishiwashi       |    1 |  12.50% | 100.00% |
+| 16   | Wishiwashi / Ribombee       |    1 |  12.50% | 100.00% |
+| 16   | Doublade / Sandaconda       |    1 |  12.50% | 100.00% |
+| 16   | Ribombee / Sandaconda       |    1 |  12.50% | 100.00% |
+| 16   | Silvally / Eldegoss         |    1 |  12.50% |   0.00% |
+| 16   | Centiskorch / Silvally      |    1 |  12.50% |   0.00% |
+| 16   | Silvally / Sandaconda       |    1 |  12.50% |   0.00% |
+| 16   | Wishiwashi / Silvally       |    1 |  12.50% |   0.00% |
+| 16   | Eldegoss / Archeops         |    1 |  12.50% |   0.00% |
+| 16   | Centiskorch / Archeops      |    1 |  12.50% |   0.00% |
+| 16   | Archeops / Sandaconda       |    1 |  12.50% |   0.00% |
+| 16   | Wishiwashi / Archeops       |    1 |  12.50% |   0.00% |
+| 16   | Lycanroc / Gigalith         |    1 |  12.50% |   0.00% |
+| 16   | Gigalith / Audino           |    1 |  12.50% |   0.00% |
+| 16   | Lycanroc / Weezing          |    1 |  12.50% |   0.00% |
+| 16   | Lycanroc / Audino           |    1 |  12.50% |   0.00% |
+| 16   | Lycanroc / Sandslash        |    1 |  12.50% |   0.00% |
+| 16   | Lycanroc / Magneton         |    1 |  12.50% |   0.00% |
+| 16   | Weezing / Audino            |    1 |  12.50% |   0.00% |
+| 16   | Magneton / Weezing          |    1 |  12.50% |   0.00% |
+| 16   | Audino / Sandslash          |    1 |  12.50% |   0.00% |
+| 16   | Magneton / Audino           |    1 |  12.50% |   0.00% |
+| 16   | Frosmoth / Gigalith         |    1 |  12.50% |   0.00% |
+| 16   | Jellicent / Gigalith        |    1 |  12.50% |   0.00% |
+| 16   | Gigalith / Ferroseed        |    1 |  12.50% |   0.00% |
+| 16   | Frosmoth / Sandslash        |    1 |  12.50% |   0.00% |
+| 16   | Jellicent / Sandslash       |    1 |  12.50% |   0.00% |
+| 16   | Ferroseed / Sandslash       |    1 |  12.50% |   0.00% |
+| 16   | Frosmoth / Jellicent        |    1 |  12.50% |   0.00% |
+| 16   | Frosmoth / Ferroseed        |    1 |  12.50% |   0.00% |
+| 16   | Frosmoth / Weezing          |    1 |  12.50% |   0.00% |
+| 16   | Jellicent / Ferroseed       |    1 |  12.50% |   0.00% |
+| 16   | Jellicent / Weezing         |    1 |  12.50% |   0.00% |
+| 16   | Ferroseed / Weezing         |    1 |  12.50% |   0.00% |
+| 16   | Thwackey / Hitmonlee        |    1 |  12.50% |   0.00% |
+| 16   | Thwackey / Comfey           |    1 |  12.50% |   0.00% |
+| 16   | Thwackey / Thievul          |    1 |  12.50% |   0.00% |
+| 16   | Thwackey / Qwilfish         |    1 |  12.50% |   0.00% |
+| 16   | Thwackey / Coalossal        |    1 |  12.50% |   0.00% |
+| 16   | Comfey / Hitmonlee          |    1 |  12.50% |   0.00% |
+| 16   | Thievul / Hitmonlee         |    1 |  12.50% |   0.00% |
+| 16   | Qwilfish / Hitmonlee        |    1 |  12.50% |   0.00% |
+| 16   | Coalossal / Hitmonlee       |    1 |  12.50% |   0.00% |
+| 16   | Thievul / Comfey            |    1 |  12.50% |   0.00% |
+| 16   | Qwilfish / Comfey           |    1 |  12.50% |   0.00% |
+| 16   | Coalossal / Comfey          |    1 |  12.50% |   0.00% |
+| 16   | Thievul / Qwilfish          |    1 |  12.50% |   0.00% |
+| 16   | Thievul / Coalossal         |    1 |  12.50% |   0.00% |
+| 16   | Coalossal / Qwilfish        |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                            | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| 1    | Doublade / Ribombee / Eldegoss         |    2 |  25.00% | 100.00% |
+| 1    | Centiskorch / Eldegoss / Sandaconda    |    2 |  25.00% |  50.00% |
+| 1    | Wishiwashi / Centiskorch / Eldegoss    |    2 |  25.00% |  50.00% |
+| 1    | Wishiwashi / Eldegoss / Sandaconda     |    2 |  25.00% |  50.00% |
+| 1    | Wishiwashi / Centiskorch / Sandaconda  |    2 |  25.00% |  50.00% |
+| 1    | Magneton / Gigalith / Sandslash        |    2 |  25.00% |  50.00% |
+| 1    | Gigalith / Weezing / Sandslash         |    2 |  25.00% |   0.00% |
+| 8    | Doublade / Gigalith / Ninjask          |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Magneton / Ninjask          |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Eldegoss / Ninjask          |    1 |  12.50% | 100.00% |
+| 8    | Gigalith / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 8    | Magneton / Gigalith / Ninjask          |    1 |  12.50% | 100.00% |
+| 8    | Gigalith / Eldegoss / Ninjask          |    1 |  12.50% | 100.00% |
+| 8    | Magneton / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 8    | Eldegoss / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 8    | Magneton / Eldegoss / Ninjask          |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Gigalith / Sandslash        |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Magneton / Gigalith         |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Gigalith / Eldegoss         |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Magneton / Sandslash        |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Sandslash / Eldegoss        |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Magneton / Eldegoss         |    1 |  12.50% | 100.00% |
+| 8    | Gigalith / Sandslash / Eldegoss        |    1 |  12.50% | 100.00% |
+| 8    | Magneton / Gigalith / Eldegoss         |    1 |  12.50% | 100.00% |
+| 8    | Magneton / Sandslash / Eldegoss        |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Haunter / Eldegoss          |    1 |  12.50% | 100.00% |
+| 8    | Regirock / Ribombee / Haunter          |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Ribombee / Haunter          |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Audino / Eldegoss           |    1 |  12.50% | 100.00% |
+| 8    | Regirock / Ribombee / Audino           |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Ribombee / Audino           |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Regirock / Eldegoss         |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Ribombee / Regirock         |    1 |  12.50% | 100.00% |
+| 8    | Audino / Haunter / Eldegoss            |    1 |  12.50% | 100.00% |
+| 8    | Regirock / Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 8    | Regirock / Haunter / Eldegoss          |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Haunter / Eldegoss          |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Regirock / Haunter          |    1 |  12.50% | 100.00% |
+| 8    | Regirock / Audino / Eldegoss           |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Audino / Eldegoss           |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Regirock / Audino           |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Regirock / Eldegoss         |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Silvally / Gourgeist-*       |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Gourgeist-* / Sandslash      |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Ribombee / Gourgeist-*       |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Gourgeist-* / Archeops       |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Silvally / Sandslash         |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Ribombee / Silvally          |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Silvally / Archeops          |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Silvally / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Ribombee / Sandslash         |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Sandslash / Archeops         |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Sandslash / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Ribombee / Archeops          |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Ribombee / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 8    | Lanturn / Archeops / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 8    | Gourgeist-* / Silvally / Sandslash     |    1 |  12.50% | 100.00% |
+| 8    | Gourgeist-* / Ribombee / Silvally      |    1 |  12.50% | 100.00% |
+| 8    | Gourgeist-* / Silvally / Archeops      |    1 |  12.50% | 100.00% |
+| 8    | Gourgeist-* / Ribombee / Sandslash     |    1 |  12.50% | 100.00% |
+| 8    | Gourgeist-* / Sandslash / Archeops     |    1 |  12.50% | 100.00% |
+| 8    | Gourgeist-* / Ribombee / Archeops      |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Silvally / Sandslash        |    1 |  12.50% | 100.00% |
+| 8    | Silvally / Sandslash / Archeops        |    1 |  12.50% | 100.00% |
+| 8    | Silvally / Sandslash / Gourgeist-Super |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Silvally / Archeops         |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Silvally / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 8    | Silvally / Archeops / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Sandslash / Archeops        |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Sandslash / Gourgeist-Super |    1 |  12.50% | 100.00% |
+| 8    | Gourgeist-Super / Sandslash / Archeops |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Archeops / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Wishiwashi / Centiskorch    |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Wishiwashi / Centiskorch    |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Centiskorch / Eldegoss      |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Centiskorch / Eldegoss      |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Centiskorch / Sandaconda    |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Centiskorch / Sandaconda    |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Ribombee / Centiskorch      |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Wishiwashi / Eldegoss       |    1 |  12.50% | 100.00% |
+| 8    | Wishiwashi / Ribombee / Eldegoss       |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Wishiwashi / Sandaconda     |    1 |  12.50% | 100.00% |
+| 8    | Wishiwashi / Ribombee / Sandaconda     |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Wishiwashi / Ribombee       |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Eldegoss / Sandaconda       |    1 |  12.50% | 100.00% |
+| 8    | Ribombee / Eldegoss / Sandaconda       |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Ribombee / Sandaconda       |    1 |  12.50% | 100.00% |
+| 8    | Centiskorch / Silvally / Eldegoss      |    1 |  12.50% |   0.00% |
+| 8    | Silvally / Eldegoss / Sandaconda       |    1 |  12.50% |   0.00% |
+| 8    | Wishiwashi / Silvally / Eldegoss       |    1 |  12.50% |   0.00% |
+| 8    | Silvally / Eldegoss / Archeops         |    1 |  12.50% |   0.00% |
+| 8    | Centiskorch / Silvally / Sandaconda    |    1 |  12.50% |   0.00% |
+| 8    | Wishiwashi / Centiskorch / Silvally    |    1 |  12.50% |   0.00% |
+| 8    | Centiskorch / Silvally / Archeops      |    1 |  12.50% |   0.00% |
+| 8    | Wishiwashi / Silvally / Sandaconda     |    1 |  12.50% |   0.00% |
+| 8    | Silvally / Archeops / Sandaconda       |    1 |  12.50% |   0.00% |
+| 8    | Wishiwashi / Silvally / Archeops       |    1 |  12.50% |   0.00% |
+| 8    | Centiskorch / Eldegoss / Archeops      |    1 |  12.50% |   0.00% |
+| 8    | Archeops / Eldegoss / Sandaconda       |    1 |  12.50% |   0.00% |
+| 8    | Wishiwashi / Eldegoss / Archeops       |    1 |  12.50% |   0.00% |
+| 8    | Centiskorch / Archeops / Sandaconda    |    1 |  12.50% |   0.00% |
+| 8    | Wishiwashi / Centiskorch / Archeops    |    1 |  12.50% |   0.00% |
+| 8    | Wishiwashi / Archeops / Sandaconda     |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Gigalith / Weezing          |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Gigalith / Audino           |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Gigalith / Sandslash        |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Magneton / Gigalith         |    1 |  12.50% |   0.00% |
+| 8    | Audino / Gigalith / Weezing            |    1 |  12.50% |   0.00% |
+| 8    | Magneton / Gigalith / Weezing          |    1 |  12.50% |   0.00% |
+| 8    | Gigalith / Audino / Sandslash          |    1 |  12.50% |   0.00% |
+| 8    | Magneton / Gigalith / Audino           |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Weezing / Audino            |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Weezing / Sandslash         |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Magneton / Weezing          |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Audino / Sandslash          |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Magneton / Audino           |    1 |  12.50% |   0.00% |
+| 8    | Lycanroc / Magneton / Sandslash        |    1 |  12.50% |   0.00% |
+| 8    | Weezing / Audino / Sandslash           |    1 |  12.50% |   0.00% |
+| 8    | Magneton / Weezing / Audino            |    1 |  12.50% |   0.00% |
+| 8    | Magneton / Weezing / Sandslash         |    1 |  12.50% |   0.00% |
+| 8    | Magneton / Audino / Sandslash          |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Gigalith / Sandslash        |    1 |  12.50% |   0.00% |
+| 8    | Jellicent / Gigalith / Sandslash       |    1 |  12.50% |   0.00% |
+| 8    | Gigalith / Ferroseed / Sandslash       |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Gigalith / Jellicent        |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Gigalith / Ferroseed        |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Gigalith / Weezing          |    1 |  12.50% |   0.00% |
+| 8    | Jellicent / Gigalith / Ferroseed       |    1 |  12.50% |   0.00% |
+| 8    | Jellicent / Gigalith / Weezing         |    1 |  12.50% |   0.00% |
+| 8    | Gigalith / Ferroseed / Weezing         |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Jellicent / Sandslash       |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Ferroseed / Sandslash       |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Weezing / Sandslash         |    1 |  12.50% |   0.00% |
+| 8    | Jellicent / Ferroseed / Sandslash      |    1 |  12.50% |   0.00% |
+| 8    | Jellicent / Weezing / Sandslash        |    1 |  12.50% |   0.00% |
+| 8    | Ferroseed / Weezing / Sandslash        |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Jellicent / Ferroseed       |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Jellicent / Weezing         |    1 |  12.50% |   0.00% |
+| 8    | Frosmoth / Ferroseed / Weezing         |    1 |  12.50% |   0.00% |
+| 8    | Jellicent / Ferroseed / Weezing        |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Comfey / Hitmonlee          |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Hitmonlee / Thievul         |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Qwilfish / Hitmonlee        |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Hitmonlee / Coalossal       |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Comfey / Thievul            |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Qwilfish / Comfey           |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Comfey / Coalossal          |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Qwilfish / Thievul          |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Coalossal / Thievul         |    1 |  12.50% |   0.00% |
+| 8    | Thwackey / Qwilfish / Coalossal        |    1 |  12.50% |   0.00% |
+| 8    | Thievul / Comfey / Hitmonlee           |    1 |  12.50% |   0.00% |
+| 8    | Comfey / Qwilfish / Hitmonlee          |    1 |  12.50% |   0.00% |
+| 8    | Coalossal / Comfey / Hitmonlee         |    1 |  12.50% |   0.00% |
+| 8    | Thievul / Qwilfish / Hitmonlee         |    1 |  12.50% |   0.00% |
+| 8    | Thievul / Hitmonlee / Coalossal        |    1 |  12.50% |   0.00% |
+| 8    | Coalossal / Qwilfish / Hitmonlee       |    1 |  12.50% |   0.00% |
+| 8    | Thievul / Qwilfish / Comfey            |    1 |  12.50% |   0.00% |
+| 8    | Thievul / Comfey / Coalossal           |    1 |  12.50% |   0.00% |
+| 8    | Coalossal / Qwilfish / Comfey          |    1 |  12.50% |   0.00% |
+| 8    | Thievul / Qwilfish / Coalossal         |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                       | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Wishiwashi / Centiskorch / Eldegoss / Sandaconda  |    2 |  25.00% |  50.00% |
+| 2    | Doublade / Gigalith / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Magneton / Gigalith / Ninjask          |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Gigalith / Eldegoss / Ninjask          |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Magneton / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Eldegoss / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Magneton / Eldegoss / Ninjask          |    1 |  12.50% | 100.00% |
+| 2    | Magneton / Gigalith / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 2    | Eldegoss / Gigalith / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 2    | Magneton / Gigalith / Eldegoss / Ninjask          |    1 |  12.50% | 100.00% |
+| 2    | Eldegoss / Magneton / Sandslash / Ninjask         |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Magneton / Gigalith / Sandslash        |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Gigalith / Sandslash / Eldegoss        |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Magneton / Gigalith / Eldegoss         |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Magneton / Sandslash / Eldegoss        |    1 |  12.50% | 100.00% |
+| 2    | Magneton / Gigalith / Sandslash / Eldegoss        |    1 |  12.50% | 100.00% |
+| 2    | Ribombee / Audino / Haunter / Eldegoss            |    1 |  12.50% | 100.00% |
+| 2    | Regirock / Ribombee / Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 2    | Regirock / Ribombee / Haunter / Eldegoss          |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Haunter / Eldegoss          |    1 |  12.50% | 100.00% |
+| 2    | Regirock / Doublade / Ribombee / Haunter          |    1 |  12.50% | 100.00% |
+| 2    | Regirock / Ribombee / Audino / Eldegoss           |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Audino / Eldegoss           |    1 |  12.50% | 100.00% |
+| 2    | Regirock / Doublade / Ribombee / Audino           |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Regirock / Eldegoss         |    1 |  12.50% | 100.00% |
+| 2    | Regirock / Audino / Haunter / Eldegoss            |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Audino / Haunter / Eldegoss            |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Regirock / Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Regirock / Haunter / Eldegoss          |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Regirock / Audino / Eldegoss           |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Silvally / Gourgeist-* / Sandslash      |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Silvally / Gourgeist-*       |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Silvally / Gourgeist-* / Archeops       |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Gourgeist-* / Sandslash      |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Gourgeist-* / Sandslash / Archeops      |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Gourgeist-* / Archeops       |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Silvally / Sandslash         |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Silvally / Sandslash / Archeops         |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Silvally / Sandslash / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Silvally / Archeops          |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Silvally / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Silvally / Archeops / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Sandslash / Archeops         |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Sandslash / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Gourgeist-Super / Sandslash / Archeops  |    1 |  12.50% | 100.00% |
+| 2    | Lanturn / Ribombee / Archeops / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 2    | Gourgeist-* / Ribombee / Silvally / Sandslash     |    1 |  12.50% | 100.00% |
+| 2    | Gourgeist-* / Silvally / Sandslash / Archeops     |    1 |  12.50% | 100.00% |
+| 2    | Gourgeist-* / Ribombee / Silvally / Archeops      |    1 |  12.50% | 100.00% |
+| 2    | Gourgeist-* / Ribombee / Sandslash / Archeops     |    1 |  12.50% | 100.00% |
+| 2    | Ribombee / Silvally / Sandslash / Archeops        |    1 |  12.50% | 100.00% |
+| 2    | Ribombee / Silvally / Sandslash / Gourgeist-Super |    1 |  12.50% | 100.00% |
+| 2    | Gourgeist-Super / Silvally / Sandslash / Archeops |    1 |  12.50% | 100.00% |
+| 2    | Ribombee / Silvally / Archeops / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 2    | Gourgeist-Super / Ribombee / Sandslash / Archeops |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Wishiwashi / Centiskorch / Eldegoss    |    1 |  12.50% | 100.00% |
+| 2    | Ribombee / Wishiwashi / Centiskorch / Eldegoss    |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Wishiwashi / Centiskorch / Sandaconda  |    1 |  12.50% | 100.00% |
+| 2    | Ribombee / Wishiwashi / Centiskorch / Sandaconda  |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Wishiwashi / Centiskorch    |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Centiskorch / Eldegoss / Sandaconda    |    1 |  12.50% | 100.00% |
+| 2    | Ribombee / Centiskorch / Eldegoss / Sandaconda    |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Centiskorch / Eldegoss      |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Centiskorch / Sandaconda    |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Wishiwashi / Eldegoss / Sandaconda     |    1 |  12.50% | 100.00% |
+| 2    | Wishiwashi / Ribombee / Eldegoss / Sandaconda     |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Wishiwashi / Ribombee / Eldegoss       |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Wishiwashi / Ribombee / Sandaconda     |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Ribombee / Eldegoss / Sandaconda       |    1 |  12.50% | 100.00% |
+| 2    | Centiskorch / Silvally / Eldegoss / Sandaconda    |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Centiskorch / Silvally / Eldegoss    |    1 |  12.50% |   0.00% |
+| 2    | Centiskorch / Silvally / Eldegoss / Archeops      |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Silvally / Eldegoss / Sandaconda     |    1 |  12.50% |   0.00% |
+| 2    | Archeops / Silvally / Eldegoss / Sandaconda       |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Silvally / Eldegoss / Archeops       |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Centiskorch / Silvally / Sandaconda  |    1 |  12.50% |   0.00% |
+| 2    | Centiskorch / Silvally / Archeops / Sandaconda    |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Centiskorch / Silvally / Archeops    |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Silvally / Archeops / Sandaconda     |    1 |  12.50% |   0.00% |
+| 2    | Archeops / Centiskorch / Eldegoss / Sandaconda    |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Centiskorch / Eldegoss / Archeops    |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Archeops / Eldegoss / Sandaconda     |    1 |  12.50% |   0.00% |
+| 2    | Wishiwashi / Centiskorch / Archeops / Sandaconda  |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Audino / Gigalith / Weezing            |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Gigalith / Weezing / Sandslash         |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Magneton / Gigalith / Weezing          |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Gigalith / Audino / Sandslash          |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Magneton / Gigalith / Audino           |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Magneton / Gigalith / Sandslash        |    1 |  12.50% |   0.00% |
+| 2    | Audino / Gigalith / Weezing / Sandslash           |    1 |  12.50% |   0.00% |
+| 2    | Audino / Magneton / Gigalith / Weezing            |    1 |  12.50% |   0.00% |
+| 2    | Magneton / Gigalith / Weezing / Sandslash         |    1 |  12.50% |   0.00% |
+| 2    | Magneton / Gigalith / Audino / Sandslash          |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Weezing / Audino / Sandslash           |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Magneton / Weezing / Audino            |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Magneton / Weezing / Sandslash         |    1 |  12.50% |   0.00% |
+| 2    | Lycanroc / Magneton / Audino / Sandslash          |    1 |  12.50% |   0.00% |
+| 2    | Magneton / Weezing / Audino / Sandslash           |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Gigalith / Jellicent / Sandslash       |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Gigalith / Ferroseed / Sandslash       |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Gigalith / Weezing / Sandslash         |    1 |  12.50% |   0.00% |
+| 2    | Jellicent / Gigalith / Ferroseed / Sandslash      |    1 |  12.50% |   0.00% |
+| 2    | Jellicent / Gigalith / Weezing / Sandslash        |    1 |  12.50% |   0.00% |
+| 2    | Gigalith / Ferroseed / Sandslash / Weezing        |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Gigalith / Jellicent / Ferroseed       |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Gigalith / Jellicent / Weezing         |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Gigalith / Ferroseed / Weezing         |    1 |  12.50% |   0.00% |
+| 2    | Jellicent / Gigalith / Ferroseed / Weezing        |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Jellicent / Ferroseed / Sandslash      |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Jellicent / Weezing / Sandslash        |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Ferroseed / Weezing / Sandslash        |    1 |  12.50% |   0.00% |
+| 2    | Jellicent / Ferroseed / Weezing / Sandslash       |    1 |  12.50% |   0.00% |
+| 2    | Frosmoth / Jellicent / Ferroseed / Weezing        |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Comfey / Hitmonlee / Thievul           |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Comfey / Qwilfish / Hitmonlee          |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Comfey / Hitmonlee / Coalossal         |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Qwilfish / Hitmonlee / Thievul         |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Hitmonlee / Coalossal / Thievul        |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Qwilfish / Hitmonlee / Coalossal       |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Qwilfish / Comfey / Thievul            |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Comfey / Coalossal / Thievul           |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Qwilfish / Comfey / Coalossal          |    1 |  12.50% |   0.00% |
+| 2    | Thwackey / Qwilfish / Coalossal / Thievul         |    1 |  12.50% |   0.00% |
+| 2    | Thievul / Comfey / Qwilfish / Hitmonlee           |    1 |  12.50% |   0.00% |
+| 2    | Thievul / Comfey / Hitmonlee / Coalossal          |    1 |  12.50% |   0.00% |
+| 2    | Coalossal / Comfey / Qwilfish / Hitmonlee         |    1 |  12.50% |   0.00% |
+| 2    | Thievul / Qwilfish / Hitmonlee / Coalossal        |    1 |  12.50% |   0.00% |
+| 2    | Thievul / Qwilfish / Comfey / Coalossal           |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Sandslash / Ninjask / Doublade / Magneton / Gigalith         |    1 |  12.50% | 100.00% |
+| 1    | Eldegoss / Sandslash / Doublade / Ninjask / Gigalith         |    1 |  12.50% | 100.00% |
+| 1    | Eldegoss / Ninjask / Doublade / Magneton / Gigalith          |    1 |  12.50% | 100.00% |
+| 1    | Eldegoss / Sandslash / Doublade / Ninjask / Magneton         |    1 |  12.50% | 100.00% |
+| 1    | Eldegoss / Sandslash / Ninjask / Magneton / Gigalith         |    1 |  12.50% | 100.00% |
+| 1    | Sandslash / Eldegoss / Doublade / Magneton / Gigalith        |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Eldegoss / Audino / Haunter / Regirock            |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Eldegoss / Doublade / Audino / Haunter            |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Doublade / Audino / Haunter / Regirock            |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Eldegoss / Doublade / Haunter / Regirock          |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Eldegoss / Doublade / Audino / Regirock           |    1 |  12.50% | 100.00% |
+| 1    | Eldegoss / Doublade / Audino / Haunter / Regirock            |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Lanturn / Gourgeist-* / Silvally      |    1 |  12.50% | 100.00% |
+| 1    | Sandslash / Archeops / Lanturn / Gourgeist-* / Silvally      |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Archeops / Lanturn / Gourgeist-* / Silvally       |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Archeops / Lanturn / Gourgeist-*      |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Archeops / Lanturn / Silvally         |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Lanturn / Silvally / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 1    | Sandslash / Archeops / Lanturn / Silvally / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Archeops / Lanturn / Silvally / Gourgeist-Super   |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Archeops / Lanturn / Gourgeist-Super  |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Archeops / Gourgeist-* / Silvally     |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Archeops / Silvally / Gourgeist-Super |    1 |  12.50% | 100.00% |
+| 1    | Centiskorch / Eldegoss / Doublade / Wishiwashi / Sandaconda  |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Centiskorch / Eldegoss / Wishiwashi / Sandaconda  |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Centiskorch / Eldegoss / Doublade / Wishiwashi    |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Centiskorch / Doublade / Wishiwashi / Sandaconda  |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Centiskorch / Eldegoss / Doublade / Sandaconda    |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Eldegoss / Doublade / Wishiwashi / Sandaconda     |    1 |  12.50% | 100.00% |
+| 1    | Centiskorch / Eldegoss / Silvally / Wishiwashi / Sandaconda  |    1 |  12.50% |   0.00% |
+| 1    | Centiskorch / Archeops / Eldegoss / Silvally / Sandaconda    |    1 |  12.50% |   0.00% |
+| 1    | Centiskorch / Eldegoss / Archeops / Silvally / Wishiwashi    |    1 |  12.50% |   0.00% |
+| 1    | Archeops / Eldegoss / Silvally / Wishiwashi / Sandaconda     |    1 |  12.50% |   0.00% |
+| 1    | Centiskorch / Archeops / Silvally / Wishiwashi / Sandaconda  |    1 |  12.50% |   0.00% |
+| 1    | Centiskorch / Archeops / Eldegoss / Wishiwashi / Sandaconda  |    1 |  12.50% |   0.00% |
+| 1    | Sandslash / Weezing / Gigalith / Audino / Lycanroc           |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Magneton / Gigalith / Audino / Lycanroc            |    1 |  12.50% |   0.00% |
+| 1    | Sandslash / Weezing / Magneton / Gigalith / Lycanroc         |    1 |  12.50% |   0.00% |
+| 1    | Sandslash / Magneton / Gigalith / Audino / Lycanroc          |    1 |  12.50% |   0.00% |
+| 1    | Sandslash / Weezing / Magneton / Gigalith / Audino           |    1 |  12.50% |   0.00% |
+| 1    | Sandslash / Weezing / Magneton / Audino / Lycanroc           |    1 |  12.50% |   0.00% |
+| 1    | Frosmoth / Sandslash / Jellicent / Ferroseed / Gigalith      |    1 |  12.50% |   0.00% |
+| 1    | Frosmoth / Sandslash / Jellicent / Weezing / Gigalith        |    1 |  12.50% |   0.00% |
+| 1    | Frosmoth / Sandslash / Weezing / Gigalith / Ferroseed        |    1 |  12.50% |   0.00% |
+| 1    | Sandslash / Jellicent / Weezing / Gigalith / Ferroseed       |    1 |  12.50% |   0.00% |
+| 1    | Frosmoth / Jellicent / Weezing / Gigalith / Ferroseed        |    1 |  12.50% |   0.00% |
+| 1    | Frosmoth / Sandslash / Jellicent / Weezing / Ferroseed       |    1 |  12.50% |   0.00% |
+| 1    | Thievul / Thwackey / Qwilfish / Hitmonlee / Comfey           |    1 |  12.50% |   0.00% |
+| 1    | Thievul / Thwackey / Coalossal / Hitmonlee / Comfey          |    1 |  12.50% |   0.00% |
+| 1    | Thwackey / Coalossal / Qwilfish / Hitmonlee / Comfey         |    1 |  12.50% |   0.00% |
+| 1    | Thievul / Thwackey / Coalossal / Qwilfish / Hitmonlee        |    1 |  12.50% |   0.00% |
+| 1    | Thievul / Thwackey / Coalossal / Qwilfish / Comfey           |    1 |  12.50% |   0.00% |
+| 1    | Thievul / Coalossal / Qwilfish / Hitmonlee / Comfey          |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                            | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Sandslash / Ninjask / Doublade / Eldegoss / Magneton / Gigalith        |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Eldegoss / Doublade / Audino / Haunter / Regirock           |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Archeops / Lanturn / Gourgeist-* / Silvally     |    1 |  12.50% | 100.00% |
+| 1    | Ribombee / Sandslash / Archeops / Lanturn / Silvally / Gourgeist-Super |    1 |  12.50% | 100.00% |
+| 1    | Centiskorch / Ribombee / Eldegoss / Doublade / Wishiwashi / Sandaconda |    1 |  12.50% | 100.00% |
+| 1    | Centiskorch / Eldegoss / Archeops / Silvally / Wishiwashi / Sandaconda |    1 |  12.50% |   0.00% |
+| 1    | Sandslash / Weezing / Magneton / Gigalith / Audino / Lycanroc          |    1 |  12.50% |   0.00% |
+| 1    | Frosmoth / Sandslash / Jellicent / Weezing / Ferroseed / Gigalith      |    1 |  12.50% |   0.00% |
+| 1    | Thievul / Thwackey / Coalossal / Qwilfish / Hitmonlee / Comfey         |    1 |  12.50% |   0.00% |
