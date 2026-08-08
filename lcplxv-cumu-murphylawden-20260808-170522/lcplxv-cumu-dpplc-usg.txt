@@ -1,0 +1,55 @@
++ ---- + ------------------ + ---- + ------- + ------- +
+| Rank | Pokemon            | Use  | Usage % |  Win %  |
++ ---- + ------------------ + ---- + ------- + ------- +
+| 1    | Munchlax           |   54 |  93.10% |  51.85% |
+| 2    | Chinchou           |   31 |  53.45% |  38.71% |
+| 3    | Wailmer            |   28 |  48.28% |  57.14% |
+| 4    | Gastly             |   25 |  43.10% |  52.00% |
+| 4    | Bronzor            |   25 |  43.10% |  48.00% |
+| 4    | Gligar             |   25 |  43.10% |  44.00% |
+| 7    | Snover             |   17 |  29.31% |  52.94% |
+| 7    | Cranidos           |   17 |  29.31% |  47.06% |
+| 9    | Duskull            |   15 |  25.86% |  46.67% |
+| 10   | Machop             |   11 |  18.97% |  54.55% |
+| 11   | Stunky             |    9 |  15.52% |  33.33% |
+| 12   | Diglett            |    8 |  13.79% |  87.50% |
+| 13   | Mantyke            |    7 |  12.07% |  28.57% |
+| 14   | Aipom              |    5 |   8.62% | 100.00% |
+| 14   | Wynaut             |    5 |   8.62% |  40.00% |
+| 16   | Elekid             |    4 |   6.90% |  75.00% |
+| 16   | Ponyta             |    4 |   6.90% |  75.00% |
+| 16   | Dratini            |    4 |   6.90% |  25.00% |
+| 16   | Croagunk           |    4 |   6.90% |  25.00% |
+| 16   | Voltorb            |    4 |   6.90% |  25.00% |
+| 21   | Lickitung          |    3 |   5.17% |  66.67% |
+| 21   | Smoochum           |    3 |   5.17% |  33.33% |
+| 21   | Koffing            |    3 |   5.17% |  33.33% |
+| 21   | Aron               |    3 |   5.17% |  33.33% |
+| 21   | Omanyte            |    3 |   5.17% |   0.00% |
+| 26   | Houndour           |    2 |   3.45% | 100.00% |
+| 26   | Doduo              |    2 |   3.45% |  50.00% |
+| 26   | Abra               |    2 |   3.45% |  50.00% |
+| 26   | Kabuto             |    2 |   3.45% |   0.00% |
+| 26   | Mankey             |    2 |   3.45% |   0.00% |
+| 31   | Remoraid           |    1 |   1.72% | 100.00% |
+| 31   | Anorith            |    1 |   1.72% | 100.00% |
+| 31   | Drifloon           |    1 |   1.72% |   0.00% |
+| 31   | Paras              |    1 |   1.72% |   0.00% |
+| 31   | Porygon            |    1 |   1.72% |   0.00% |
+| 31   | Taillow            |    1 |   1.72% |   0.00% |
+| 31   | Trapinch           |    1 |   1.72% |   0.00% |
+
+[LIST]
+[*][I]Missing 1 Pokemon from ZCARLETT.[/I]
+[*][I]Missing 2 Pokemon from REST IN ADIPOCERE.[/I]
+[*][I]Missing 1 Pokemon from ROSEBLOOMNIXIE.[/I]
+[*][I]Missing 1 Pokemon from NAILS.[/I]
+[*][I]Missing 1 Pokemon from ZCARLETT.[/I]
+[*][I]Missing 1 Pokemon from I LUV EMO TWINKS.[/I]
+[*][I]Missing 1 Pokemon from HANPYOL.[/I]
+[*][I]Missing 1 Pokemon from MAYO.[/I]
+[*][I]Missing 2 Pokemon from TIZIOWN.[/I]
+[*][I]Missing 1 Pokemon from AN THOID.[/I]
+[*][I]Missing 1 Pokemon from TIZIOWN.[/I]
+[*][I]Missing 1 Pokemon from I LUV EMO TWINKS.[/I]
+[/LIST]
