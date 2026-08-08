@@ -1,0 +1,467 @@
++ ---- + ---------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2            | Use  | Usage % |  Win %  |
++ ---- + ---------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Doublade      |    2 |  25.00% | 100.00% |
+| 1    | Togekiss / Reuniclus   |    2 |  25.00% |  50.00% |
+| 1    | Togekiss / Raikou      |    2 |  25.00% |  50.00% |
+| 1    | Flygon / Reuniclus     |    2 |  25.00% |   0.00% |
+| 1    | Flygon / Registeel     |    2 |  25.00% |   0.00% |
+| 1    | Flygon / Togekiss      |    2 |  25.00% |   0.00% |
+| 1    | Registeel / Reuniclus  |    2 |  25.00% |   0.00% |
+| 8    | Crobat / Raikou        |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Rhyperior     |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Togekiss      |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Reuniclus     |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Raikou      |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Rhyperior   |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Togekiss    |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Reuniclus   |    1 |  12.50% | 100.00% |
+| 8    | Raikou / Rhyperior     |    1 |  12.50% | 100.00% |
+| 8    | Reuniclus / Raikou     |    1 |  12.50% | 100.00% |
+| 8    | Togekiss / Rhyperior   |    1 |  12.50% | 100.00% |
+| 8    | Reuniclus / Rhyperior  |    1 |  12.50% | 100.00% |
+| 8    | Lucario / Golisopod    |    1 |  12.50% | 100.00% |
+| 8    | Lucario / Aerodactyl   |    1 |  12.50% | 100.00% |
+| 8    | Suicune / Lucario      |    1 |  12.50% | 100.00% |
+| 8    | Lucario / Guzzlord     |    1 |  12.50% | 100.00% |
+| 8    | Lucario / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 8    | Golisopod / Aerodactyl |    1 |  12.50% | 100.00% |
+| 8    | Suicune / Golisopod    |    1 |  12.50% | 100.00% |
+| 8    | Golisopod / Guzzlord   |    1 |  12.50% | 100.00% |
+| 8    | Golisopod / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 8    | Suicune / Aerodactyl   |    1 |  12.50% | 100.00% |
+| 8    | Guzzlord / Aerodactyl  |    1 |  12.50% | 100.00% |
+| 8    | Nidoqueen / Aerodactyl |    1 |  12.50% | 100.00% |
+| 8    | Suicune / Guzzlord     |    1 |  12.50% | 100.00% |
+| 8    | Suicune / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 8    | Guzzlord / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Xurkitree     |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Gardevoir     |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Registeel     |    1 |  12.50% | 100.00% |
+| 8    | Crobat / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 8    | Xurkitree / Gardevoir  |    1 |  12.50% | 100.00% |
+| 8    | Xurkitree / Registeel  |    1 |  12.50% | 100.00% |
+| 8    | Xurkitree / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Xurkitree   |    1 |  12.50% | 100.00% |
+| 8    | Gardevoir / Registeel  |    1 |  12.50% | 100.00% |
+| 8    | Gardevoir / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Gardevoir   |    1 |  12.50% | 100.00% |
+| 8    | Registeel / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Registeel   |    1 |  12.50% | 100.00% |
+| 8    | Doublade / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 8    | Reuniclus / Metagross  |    1 |  12.50% | 100.00% |
+| 8    | Arctovish / Metagross  |    1 |  12.50% | 100.00% |
+| 8    | Metagross / Aurorus    |    1 |  12.50% | 100.00% |
+| 8    | Xatu / Metagross       |    1 |  12.50% | 100.00% |
+| 8    | Ditto / Metagross      |    1 |  12.50% | 100.00% |
+| 8    | Arctovish / Reuniclus  |    1 |  12.50% | 100.00% |
+| 8    | Reuniclus / Aurorus    |    1 |  12.50% | 100.00% |
+| 8    | Xatu / Reuniclus       |    1 |  12.50% | 100.00% |
+| 8    | Ditto / Reuniclus      |    1 |  12.50% | 100.00% |
+| 8    | Arctovish / Aurorus    |    1 |  12.50% | 100.00% |
+| 8    | Arctovish / Xatu       |    1 |  12.50% | 100.00% |
+| 8    | Arctovish / Ditto      |    1 |  12.50% | 100.00% |
+| 8    | Xatu / Aurorus         |    1 |  12.50% | 100.00% |
+| 8    | Ditto / Aurorus        |    1 |  12.50% | 100.00% |
+| 8    | Xatu / Ditto           |    1 |  12.50% | 100.00% |
+| 8    | Vileplume / Umbreon    |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Vileplume     |    1 |  12.50% |   0.00% |
+| 8    | Vileplume / Reuniclus  |    1 |  12.50% |   0.00% |
+| 8    | Vileplume / Registeel  |    1 |  12.50% |   0.00% |
+| 8    | Vileplume / Togekiss   |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Umbreon       |    1 |  12.50% |   0.00% |
+| 8    | Umbreon / Reuniclus    |    1 |  12.50% |   0.00% |
+| 8    | Registeel / Umbreon    |    1 |  12.50% |   0.00% |
+| 8    | Togekiss / Umbreon     |    1 |  12.50% |   0.00% |
+| 8    | Togekiss / Registeel   |    1 |  12.50% |   0.00% |
+| 8    | Arctovish / Abomasnow  |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Abomasnow     |    1 |  12.50% |   0.00% |
+| 8    | Togekiss / Abomasnow   |    1 |  12.50% |   0.00% |
+| 8    | Raikou / Abomasnow     |    1 |  12.50% |   0.00% |
+| 8    | Bronzong / Abomasnow   |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Arctovish     |    1 |  12.50% |   0.00% |
+| 8    | Arctovish / Togekiss   |    1 |  12.50% |   0.00% |
+| 8    | Arctovish / Raikou     |    1 |  12.50% |   0.00% |
+| 8    | Arctovish / Bronzong   |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Raikou        |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Bronzong      |    1 |  12.50% |   0.00% |
+| 8    | Togekiss / Bronzong    |    1 |  12.50% |   0.00% |
+| 8    | Raikou / Bronzong      |    1 |  12.50% |   0.00% |
+| 8    | Golisopod / Sharpedo   |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Golisopod     |    1 |  12.50% |   0.00% |
+| 8    | Golisopod / Toxtricity |    1 |  12.50% |   0.00% |
+| 8    | Golisopod / Reuniclus  |    1 |  12.50% |   0.00% |
+| 8    | Golisopod / Registeel  |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Sharpedo      |    1 |  12.50% |   0.00% |
+| 8    | Toxtricity / Sharpedo  |    1 |  12.50% |   0.00% |
+| 8    | Reuniclus / Sharpedo   |    1 |  12.50% |   0.00% |
+| 8    | Registeel / Sharpedo   |    1 |  12.50% |   0.00% |
+| 8    | Flygon / Toxtricity    |    1 |  12.50% |   0.00% |
+| 8    | Toxtricity / Reuniclus |    1 |  12.50% |   0.00% |
+| 8    | Toxtricity / Registeel |    1 |  12.50% |   0.00% |
+| 8    | Politoed / Eldegoss    |    1 |  12.50% |   0.00% |
+| 8    | Tornadus / Politoed    |    1 |  12.50% |   0.00% |
+| 8    | Kingdra / Politoed     |    1 |  12.50% |   0.00% |
+| 8    | Seismitoad / Politoed  |    1 |  12.50% |   0.00% |
+| 8    | Mimikyu / Politoed     |    1 |  12.50% |   0.00% |
+| 8    | Tornadus / Eldegoss    |    1 |  12.50% |   0.00% |
+| 8    | Kingdra / Eldegoss     |    1 |  12.50% |   0.00% |
+| 8    | Seismitoad / Eldegoss  |    1 |  12.50% |   0.00% |
+| 8    | Mimikyu / Eldegoss     |    1 |  12.50% |   0.00% |
+| 8    | Kingdra / Tornadus     |    1 |  12.50% |   0.00% |
+| 8    | Seismitoad / Tornadus  |    1 |  12.50% |   0.00% |
+| 8    | Tornadus / Mimikyu     |    1 |  12.50% |   0.00% |
+| 8    | Kingdra / Seismitoad   |    1 |  12.50% |   0.00% |
+| 8    | Kingdra / Mimikyu      |    1 |  12.50% |   0.00% |
+| 8    | Seismitoad / Mimikyu   |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Flygon / Registeel / Reuniclus     |    2 |  25.00% |   0.00% |
+| 2    | Crobat / Doublade / Raikou         |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Doublade / Rhyperior      |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Togekiss / Doublade       |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Reuniclus / Doublade      |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Raikou / Rhyperior        |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Togekiss / Raikou         |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Reuniclus / Raikou        |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Togekiss / Rhyperior      |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Reuniclus / Rhyperior     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Togekiss / Reuniclus      |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Raikou / Rhyperior      |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Togekiss / Raikou       |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Reuniclus / Raikou      |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Togekiss / Rhyperior    |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Reuniclus / Rhyperior   |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Togekiss / Reuniclus    |    1 |  12.50% | 100.00% |
+| 2    | Togekiss / Raikou / Rhyperior      |    1 |  12.50% | 100.00% |
+| 2    | Reuniclus / Raikou / Rhyperior     |    1 |  12.50% | 100.00% |
+| 2    | Reuniclus / Togekiss / Raikou      |    1 |  12.50% | 100.00% |
+| 2    | Togekiss / Reuniclus / Rhyperior   |    1 |  12.50% | 100.00% |
+| 2    | Lucario / Aerodactyl / Golisopod   |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Lucario / Golisopod      |    1 |  12.50% | 100.00% |
+| 2    | Lucario / Guzzlord / Golisopod     |    1 |  12.50% | 100.00% |
+| 2    | Lucario / Nidoqueen / Golisopod    |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Lucario / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 2    | Lucario / Guzzlord / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 2    | Lucario / Nidoqueen / Aerodactyl   |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Lucario / Guzzlord       |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Lucario / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 2    | Lucario / Guzzlord / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Golisopod / Aerodactyl   |    1 |  12.50% | 100.00% |
+| 2    | Golisopod / Guzzlord / Aerodactyl  |    1 |  12.50% | 100.00% |
+| 2    | Golisopod / Nidoqueen / Aerodactyl |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Golisopod / Guzzlord     |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Golisopod / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 2    | Golisopod / Guzzlord / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Guzzlord / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Nidoqueen / Aerodactyl   |    1 |  12.50% | 100.00% |
+| 2    | Guzzlord / Nidoqueen / Aerodactyl  |    1 |  12.50% | 100.00% |
+| 2    | Suicune / Guzzlord / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Xurkitree / Gardevoir     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Xurkitree / Registeel     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Xurkitree / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Xurkitree / Doublade      |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Gardevoir / Registeel     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Gardevoir / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Gardevoir / Doublade      |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Registeel / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Registeel / Doublade      |    1 |  12.50% | 100.00% |
+| 2    | Crobat / Doublade / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 2    | Xurkitree / Gardevoir / Registeel  |    1 |  12.50% | 100.00% |
+| 2    | Xurkitree / Gardevoir / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Xurkitree / Gardevoir   |    1 |  12.50% | 100.00% |
+| 2    | Xurkitree / Registeel / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Xurkitree / Registeel   |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Xurkitree / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 2    | Gardevoir / Registeel / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Gardevoir / Registeel   |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Gardevoir / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 2    | Doublade / Registeel / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Reuniclus / Metagross  |    1 |  12.50% | 100.00% |
+| 2    | Reuniclus / Metagross / Aurorus    |    1 |  12.50% | 100.00% |
+| 2    | Xatu / Reuniclus / Metagross       |    1 |  12.50% | 100.00% |
+| 2    | Ditto / Reuniclus / Metagross      |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Metagross / Aurorus    |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Xatu / Metagross       |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Ditto / Metagross      |    1 |  12.50% | 100.00% |
+| 2    | Xatu / Metagross / Aurorus         |    1 |  12.50% | 100.00% |
+| 2    | Ditto / Metagross / Aurorus        |    1 |  12.50% | 100.00% |
+| 2    | Xatu / Ditto / Metagross           |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Reuniclus / Aurorus    |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Xatu / Reuniclus       |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Ditto / Reuniclus      |    1 |  12.50% | 100.00% |
+| 2    | Xatu / Reuniclus / Aurorus         |    1 |  12.50% | 100.00% |
+| 2    | Ditto / Reuniclus / Aurorus        |    1 |  12.50% | 100.00% |
+| 2    | Xatu / Ditto / Reuniclus           |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Xatu / Aurorus         |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Ditto / Aurorus        |    1 |  12.50% | 100.00% |
+| 2    | Arctovish / Xatu / Ditto           |    1 |  12.50% | 100.00% |
+| 2    | Xatu / Ditto / Aurorus             |    1 |  12.50% | 100.00% |
+| 2    | Flygon / Vileplume / Umbreon       |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Umbreon / Reuniclus    |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Registeel / Umbreon    |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Togekiss / Umbreon     |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Vileplume / Reuniclus     |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Vileplume / Registeel     |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Vileplume / Togekiss      |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Registeel / Reuniclus  |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Togekiss / Reuniclus   |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Togekiss / Registeel   |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Umbreon / Reuniclus       |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Registeel / Umbreon       |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Togekiss / Umbreon        |    1 |  12.50% |   0.00% |
+| 2    | Registeel / Umbreon / Reuniclus    |    1 |  12.50% |   0.00% |
+| 2    | Togekiss / Umbreon / Reuniclus     |    1 |  12.50% |   0.00% |
+| 2    | Togekiss / Registeel / Umbreon     |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Togekiss / Reuniclus      |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Togekiss / Registeel      |    1 |  12.50% |   0.00% |
+| 2    | Togekiss / Registeel / Reuniclus   |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Arctovish / Abomasnow     |    1 |  12.50% |   0.00% |
+| 2    | Arctovish / Togekiss / Abomasnow   |    1 |  12.50% |   0.00% |
+| 2    | Arctovish / Raikou / Abomasnow     |    1 |  12.50% |   0.00% |
+| 2    | Arctovish / Bronzong / Abomasnow   |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Togekiss / Abomasnow      |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Raikou / Abomasnow        |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Bronzong / Abomasnow      |    1 |  12.50% |   0.00% |
+| 2    | Togekiss / Raikou / Abomasnow      |    1 |  12.50% |   0.00% |
+| 2    | Togekiss / Bronzong / Abomasnow    |    1 |  12.50% |   0.00% |
+| 2    | Bronzong / Raikou / Abomasnow      |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Arctovish / Togekiss      |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Arctovish / Raikou        |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Arctovish / Bronzong      |    1 |  12.50% |   0.00% |
+| 2    | Arctovish / Togekiss / Raikou      |    1 |  12.50% |   0.00% |
+| 2    | Arctovish / Togekiss / Bronzong    |    1 |  12.50% |   0.00% |
+| 2    | Arctovish / Raikou / Bronzong      |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Togekiss / Raikou         |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Togekiss / Bronzong       |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Raikou / Bronzong         |    1 |  12.50% |   0.00% |
+| 2    | Togekiss / Raikou / Bronzong       |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Golisopod / Sharpedo      |    1 |  12.50% |   0.00% |
+| 2    | Golisopod / Sharpedo / Toxtricity  |    1 |  12.50% |   0.00% |
+| 2    | Golisopod / Reuniclus / Sharpedo   |    1 |  12.50% |   0.00% |
+| 2    | Golisopod / Registeel / Sharpedo   |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Golisopod / Toxtricity    |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Golisopod / Reuniclus     |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Golisopod / Registeel     |    1 |  12.50% |   0.00% |
+| 2    | Golisopod / Reuniclus / Toxtricity |    1 |  12.50% |   0.00% |
+| 2    | Golisopod / Registeel / Toxtricity |    1 |  12.50% |   0.00% |
+| 2    | Golisopod / Registeel / Reuniclus  |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Toxtricity / Sharpedo     |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Reuniclus / Sharpedo      |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Registeel / Sharpedo      |    1 |  12.50% |   0.00% |
+| 2    | Toxtricity / Reuniclus / Sharpedo  |    1 |  12.50% |   0.00% |
+| 2    | Toxtricity / Registeel / Sharpedo  |    1 |  12.50% |   0.00% |
+| 2    | Reuniclus / Registeel / Sharpedo   |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Toxtricity / Reuniclus    |    1 |  12.50% |   0.00% |
+| 2    | Flygon / Toxtricity / Registeel    |    1 |  12.50% |   0.00% |
+| 2    | Toxtricity / Registeel / Reuniclus |    1 |  12.50% |   0.00% |
+| 2    | Tornadus / Politoed / Eldegoss     |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Politoed / Eldegoss      |    1 |  12.50% |   0.00% |
+| 2    | Seismitoad / Politoed / Eldegoss   |    1 |  12.50% |   0.00% |
+| 2    | Mimikyu / Politoed / Eldegoss      |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Tornadus / Politoed      |    1 |  12.50% |   0.00% |
+| 2    | Seismitoad / Tornadus / Politoed   |    1 |  12.50% |   0.00% |
+| 2    | Mimikyu / Tornadus / Politoed      |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Seismitoad / Politoed    |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Mimikyu / Politoed       |    1 |  12.50% |   0.00% |
+| 2    | Seismitoad / Mimikyu / Politoed    |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Tornadus / Eldegoss      |    1 |  12.50% |   0.00% |
+| 2    | Seismitoad / Tornadus / Eldegoss   |    1 |  12.50% |   0.00% |
+| 2    | Mimikyu / Tornadus / Eldegoss      |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Seismitoad / Eldegoss    |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Mimikyu / Eldegoss       |    1 |  12.50% |   0.00% |
+| 2    | Seismitoad / Mimikyu / Eldegoss    |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Seismitoad / Tornadus    |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Tornadus / Mimikyu       |    1 |  12.50% |   0.00% |
+| 2    | Seismitoad / Tornadus / Mimikyu    |    1 |  12.50% |   0.00% |
+| 2    | Kingdra / Seismitoad / Mimikyu     |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                    | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Doublade / Rhyperior / Raikou         |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Togekiss / Doublade / Raikou          |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Reuniclus / Doublade / Raikou         |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Togekiss / Doublade / Rhyperior       |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Reuniclus / Doublade / Rhyperior      |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Togekiss / Reuniclus / Doublade       |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Togekiss / Raikou / Rhyperior         |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Reuniclus / Raikou / Rhyperior        |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Togekiss / Reuniclus / Raikou         |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Togekiss / Reuniclus / Rhyperior      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Togekiss / Raikou / Rhyperior       |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Reuniclus / Raikou / Rhyperior      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Togekiss / Reuniclus / Raikou       |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Togekiss / Reuniclus / Rhyperior    |    1 |  12.50% | 100.00% |
+| 1    | Reuniclus / Togekiss / Raikou / Rhyperior      |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Lucario / Aerodactyl / Golisopod     |    1 |  12.50% | 100.00% |
+| 1    | Lucario / Guzzlord / Aerodactyl / Golisopod    |    1 |  12.50% | 100.00% |
+| 1    | Lucario / Aerodactyl / Nidoqueen / Golisopod   |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Lucario / Guzzlord / Golisopod       |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Lucario / Nidoqueen / Golisopod      |    1 |  12.50% | 100.00% |
+| 1    | Lucario / Guzzlord / Nidoqueen / Golisopod     |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Lucario / Guzzlord / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Lucario / Nidoqueen / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 1    | Lucario / Guzzlord / Nidoqueen / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Lucario / Guzzlord / Nidoqueen       |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Golisopod / Guzzlord / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Golisopod / Nidoqueen / Aerodactyl   |    1 |  12.50% | 100.00% |
+| 1    | Golisopod / Guzzlord / Nidoqueen / Aerodactyl  |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Golisopod / Guzzlord / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Guzzlord / Nidoqueen / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Xurkitree / Gardevoir / Registeel     |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Xurkitree / Gardevoir / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Xurkitree / Gardevoir / Doublade      |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Xurkitree / Registeel / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Xurkitree / Registeel / Doublade      |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Xurkitree / Doublade / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Gardevoir / Registeel / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Gardevoir / Registeel / Doublade      |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Gardevoir / Doublade / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Registeel / Doublade / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 1    | Xurkitree / Gardevoir / Registeel / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Gardevoir / Registeel   |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Gardevoir / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Registeel / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Gardevoir / Registeel / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Reuniclus / Metagross / Aurorus    |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Reuniclus / Metagross       |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Ditto / Reuniclus / Metagross      |    1 |  12.50% | 100.00% |
+| 1    | Xatu / Reuniclus / Metagross / Aurorus         |    1 |  12.50% | 100.00% |
+| 1    | Ditto / Reuniclus / Metagross / Aurorus        |    1 |  12.50% | 100.00% |
+| 1    | Xatu / Ditto / Reuniclus / Metagross           |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Metagross / Aurorus         |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Ditto / Metagross / Aurorus        |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Ditto / Metagross           |    1 |  12.50% | 100.00% |
+| 1    | Xatu / Ditto / Metagross / Aurorus             |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Reuniclus / Aurorus         |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Ditto / Reuniclus / Aurorus        |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Ditto / Reuniclus           |    1 |  12.50% | 100.00% |
+| 1    | Xatu / Ditto / Reuniclus / Aurorus             |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Ditto / Aurorus             |    1 |  12.50% | 100.00% |
+| 1    | Flygon / Vileplume / Umbreon / Reuniclus       |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Vileplume / Registeel / Umbreon       |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Vileplume / Togekiss / Umbreon        |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Registeel / Umbreon / Reuniclus    |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Togekiss / Umbreon / Reuniclus     |    1 |  12.50% |   0.00% |
+| 1    | Togekiss / Vileplume / Registeel / Umbreon     |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Vileplume / Registeel / Reuniclus     |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Vileplume / Togekiss / Reuniclus      |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Vileplume / Togekiss / Registeel      |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Togekiss / Registeel / Reuniclus   |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Registeel / Umbreon / Reuniclus       |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Togekiss / Umbreon / Reuniclus        |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Togekiss / Registeel / Umbreon        |    1 |  12.50% |   0.00% |
+| 1    | Togekiss / Registeel / Umbreon / Reuniclus     |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Togekiss / Registeel / Reuniclus      |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Arctovish / Togekiss / Abomasnow      |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Arctovish / Raikou / Abomasnow        |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Arctovish / Bronzong / Abomasnow      |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Togekiss / Raikou / Abomasnow      |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Togekiss / Bronzong / Abomasnow    |    1 |  12.50% |   0.00% |
+| 1    | Bronzong / Arctovish / Raikou / Abomasnow      |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Togekiss / Raikou / Abomasnow         |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Togekiss / Bronzong / Abomasnow       |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Bronzong / Raikou / Abomasnow         |    1 |  12.50% |   0.00% |
+| 1    | Bronzong / Togekiss / Raikou / Abomasnow       |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Arctovish / Togekiss / Raikou         |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Arctovish / Togekiss / Bronzong       |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Arctovish / Raikou / Bronzong         |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Togekiss / Raikou / Bronzong       |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Togekiss / Raikou / Bronzong          |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Sharpedo / Toxtricity     |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Reuniclus / Sharpedo      |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Registeel / Sharpedo      |    1 |  12.50% |   0.00% |
+| 1    | Golisopod / Reuniclus / Sharpedo / Toxtricity  |    1 |  12.50% |   0.00% |
+| 1    | Golisopod / Registeel / Sharpedo / Toxtricity  |    1 |  12.50% |   0.00% |
+| 1    | Golisopod / Reuniclus / Registeel / Sharpedo   |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Reuniclus / Toxtricity    |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Registeel / Toxtricity    |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Registeel / Reuniclus     |    1 |  12.50% |   0.00% |
+| 1    | Golisopod / Registeel / Reuniclus / Toxtricity |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Toxtricity / Reuniclus / Sharpedo     |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Toxtricity / Registeel / Sharpedo     |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Reuniclus / Registeel / Sharpedo      |    1 |  12.50% |   0.00% |
+| 1    | Toxtricity / Reuniclus / Registeel / Sharpedo  |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Toxtricity / Registeel / Reuniclus    |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Tornadus / Politoed / Eldegoss       |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Tornadus / Politoed / Eldegoss    |    1 |  12.50% |   0.00% |
+| 1    | Mimikyu / Tornadus / Politoed / Eldegoss       |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Seismitoad / Politoed / Eldegoss     |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Mimikyu / Politoed / Eldegoss        |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Mimikyu / Politoed / Eldegoss     |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Seismitoad / Tornadus / Politoed     |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Mimikyu / Tornadus / Politoed        |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Mimikyu / Tornadus / Politoed     |    1 |  12.50% |   0.00% |
+| 1    | Mimikyu / Kingdra / Seismitoad / Politoed      |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Seismitoad / Tornadus / Eldegoss     |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Mimikyu / Tornadus / Eldegoss        |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Mimikyu / Tornadus / Eldegoss     |    1 |  12.50% |   0.00% |
+| 1    | Mimikyu / Kingdra / Seismitoad / Eldegoss      |    1 |  12.50% |   0.00% |
+| 1    | Kingdra / Seismitoad / Tornadus / Mimikyu      |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                               | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Raikou / Doublade / Togekiss / Crobat / Rhyperior         |    1 |  12.50% | 100.00% |
+| 1    | Raikou / Doublade / Reuniclus / Crobat / Rhyperior        |    1 |  12.50% | 100.00% |
+| 1    | Raikou / Doublade / Togekiss / Reuniclus / Crobat         |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Togekiss / Reuniclus / Crobat / Rhyperior      |    1 |  12.50% | 100.00% |
+| 1    | Raikou / Togekiss / Reuniclus / Crobat / Rhyperior        |    1 |  12.50% | 100.00% |
+| 1    | Raikou / Doublade / Togekiss / Reuniclus / Rhyperior      |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Suicune / Golisopod / Lucario / Guzzlord     |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Suicune / Golisopod / Nidoqueen / Lucario    |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Golisopod / Nidoqueen / Lucario / Guzzlord   |    1 |  12.50% | 100.00% |
+| 1    | Suicune / Golisopod / Nidoqueen / Lucario / Guzzlord      |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Suicune / Nidoqueen / Lucario / Guzzlord     |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Suicune / Golisopod / Nidoqueen / Guzzlord   |    1 |  12.50% | 100.00% |
+| 1    | Xurkitree / Registeel / Nidoqueen / Crobat / Gardevoir    |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Registeel / Crobat / Gardevoir     |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Nidoqueen / Crobat / Gardevoir     |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Registeel / Nidoqueen / Crobat     |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Registeel / Nidoqueen / Crobat / Gardevoir     |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Registeel / Nidoqueen / Gardevoir  |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Metagross / Aurorus / Reuniclus        |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Ditto / Metagross / Aurorus / Reuniclus       |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Ditto / Metagross / Reuniclus          |    1 |  12.50% | 100.00% |
+| 1    | Xatu / Ditto / Metagross / Aurorus / Reuniclus            |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Ditto / Metagross / Aurorus            |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Ditto / Aurorus / Reuniclus            |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Flygon / Registeel / Umbreon / Reuniclus      |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Flygon / Umbreon / Togekiss / Reuniclus       |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Flygon / Registeel / Umbreon / Togekiss       |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Registeel / Umbreon / Togekiss / Reuniclus    |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Flygon / Registeel / Togekiss / Reuniclus     |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Registeel / Umbreon / Togekiss / Reuniclus       |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Raikou / Flygon / Togekiss / Abomasnow        |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Bronzong / Flygon / Togekiss / Abomasnow      |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Bronzong / Raikou / Flygon / Abomasnow        |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Bronzong / Raikou / Togekiss / Abomasnow      |    1 |  12.50% |   0.00% |
+| 1    | Bronzong / Raikou / Flygon / Togekiss / Abomasnow         |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Raikou / Bronzong / Flygon / Togekiss         |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Toxtricity / Reuniclus / Sharpedo    |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Toxtricity / Registeel / Sharpedo    |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Registeel / Reuniclus / Sharpedo     |    1 |  12.50% |   0.00% |
+| 1    | Golisopod / Toxtricity / Registeel / Reuniclus / Sharpedo |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Toxtricity / Registeel / Reuniclus   |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Toxtricity / Registeel / Reuniclus / Sharpedo    |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Eldegoss / Kingdra / Tornadus / Politoed     |    1 |  12.50% |   0.00% |
+| 1    | Eldegoss / Kingdra / Mimikyu / Tornadus / Politoed        |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Eldegoss / Mimikyu / Tornadus / Politoed     |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Eldegoss / Kingdra / Mimikyu / Politoed      |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Kingdra / Mimikyu / Tornadus / Politoed      |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Eldegoss / Kingdra / Mimikyu / Tornadus      |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Raikou / Doublade / Togekiss / Reuniclus / Crobat / Rhyperior      |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Suicune / Golisopod / Nidoqueen / Lucario / Guzzlord  |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Xurkitree / Registeel / Nidoqueen / Crobat / Gardevoir  |    1 |  12.50% | 100.00% |
+| 1    | Arctovish / Xatu / Ditto / Metagross / Aurorus / Reuniclus         |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Flygon / Registeel / Umbreon / Togekiss / Reuniclus    |    1 |  12.50% |   0.00% |
+| 1    | Arctovish / Raikou / Bronzong / Flygon / Togekiss / Abomasnow      |    1 |  12.50% |   0.00% |
+| 1    | Flygon / Golisopod / Toxtricity / Registeel / Reuniclus / Sharpedo |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Eldegoss / Kingdra / Mimikyu / Tornadus / Politoed    |    1 |  12.50% |   0.00% |
