@@ -1,0 +1,407 @@
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 2                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| 1    | Klefki / Clefable                    |    3 |  37.50% |  33.33% |
+| 1    | Tapu Bulu / Klefki                   |    3 |  37.50% |  33.33% |
+| 1    | Klefki / Tapu Koko                   |    3 |  37.50% |  33.33% |
+| 1    | Tapu Bulu / Clefable                 |    3 |  37.50% |  33.33% |
+| 1    | Clefable / Tapu Koko                 |    3 |  37.50% |  33.33% |
+| 1    | Tapu Bulu / Tapu Koko                |    3 |  37.50% |  33.33% |
+| 7    | Tapu Fini / Tapu Bulu                |    2 |  25.00% |   0.00% |
+| 7    | Tapu Fini / Klefki                   |    2 |  25.00% |   0.00% |
+| 7    | Tapu Fini / Tapu Lele                |    2 |  25.00% |   0.00% |
+| 7    | Tapu Fini / Clefable                 |    2 |  25.00% |   0.00% |
+| 7    | Tapu Fini / Tapu Koko                |    2 |  25.00% |   0.00% |
+| 7    | Tapu Bulu / Tapu Lele                |    2 |  25.00% |   0.00% |
+| 7    | Klefki / Tapu Lele                   |    2 |  25.00% |   0.00% |
+| 7    | Clefable / Tapu Lele                 |    2 |  25.00% |   0.00% |
+| 7    | Tapu Lele / Tapu Koko                |    2 |  25.00% |   0.00% |
+| 16   | Klefki / Azumarill                   |    1 |  12.50% | 100.00% |
+| 16   | Klefki / Mimikyu                     |    1 |  12.50% | 100.00% |
+| 16   | Clefable / Azumarill                 |    1 |  12.50% | 100.00% |
+| 16   | Clefable / Mimikyu                   |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Azumarill                |    1 |  12.50% | 100.00% |
+| 16   | Azumarill / Mimikyu                  |    1 |  12.50% | 100.00% |
+| 16   | Azumarill / Tapu Koko                |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Mimikyu                  |    1 |  12.50% | 100.00% |
+| 16   | Tapu Koko / Mimikyu                  |    1 |  12.50% | 100.00% |
+| 16   | Thundurus-Therian / Celesteela       |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Thundurus-Therian |    1 |  12.50% | 100.00% |
+| 16   | Skarmory / Thundurus-Therian         |    1 |  12.50% | 100.00% |
+| 16   | Dragonite / Thundurus-Therian        |    1 |  12.50% | 100.00% |
+| 16   | Thundurus-Therian / Tornadus-Therian |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Celesteela        |    1 |  12.50% | 100.00% |
+| 16   | Skarmory / Celesteela                |    1 |  12.50% | 100.00% |
+| 16   | Dragonite / Celesteela               |    1 |  12.50% | 100.00% |
+| 16   | Tornadus-Therian / Celesteela        |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Skarmory          |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Dragonite         |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Tornadus-Therian  |    1 |  12.50% | 100.00% |
+| 16   | Skarmory / Dragonite                 |    1 |  12.50% | 100.00% |
+| 16   | Skarmory / Tornadus-Therian          |    1 |  12.50% | 100.00% |
+| 16   | Dragonite / Tornadus-Therian         |    1 |  12.50% | 100.00% |
+| 16   | Hydreigon / Garchomp                 |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Garchomp                    |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Garchomp                  |    1 |  12.50% | 100.00% |
+| 16   | Garchomp / Dragapult                 |    1 |  12.50% | 100.00% |
+| 16   | Garchomp / Latias                    |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Hydreigon                   |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Hydreigon                 |    1 |  12.50% | 100.00% |
+| 16   | Hydreigon / Dragapult                |    1 |  12.50% | 100.00% |
+| 16   | Hydreigon / Latias                   |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Dragalge                    |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Dragapult                   |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Latias                      |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Dragapult                 |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Latias                    |    1 |  12.50% | 100.00% |
+| 16   | Latias / Dragapult                   |    1 |  12.50% | 100.00% |
+| 16   | Aegislash / Celesteela               |    1 |  12.50% | 100.00% |
+| 16   | Aegislash / Heatran                  |    1 |  12.50% | 100.00% |
+| 16   | Aegislash / Ferrothorn               |    1 |  12.50% | 100.00% |
+| 16   | Aegislash / Excadrill                |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Aegislash                 |    1 |  12.50% | 100.00% |
+| 16   | Heatran / Celesteela                 |    1 |  12.50% | 100.00% |
+| 16   | Ferrothorn / Celesteela              |    1 |  12.50% | 100.00% |
+| 16   | Excadrill / Celesteela               |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Celesteela                |    1 |  12.50% | 100.00% |
+| 16   | Heatran / Ferrothorn                 |    1 |  12.50% | 100.00% |
+| 16   | Heatran / Excadrill                  |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Heatran                   |    1 |  12.50% | 100.00% |
+| 16   | Excadrill / Ferrothorn               |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Ferrothorn                |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Excadrill                 |    1 |  12.50% | 100.00% |
+| 16   | Mandibuzz / Weavile                  |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Weavile                  |    1 |  12.50% |   0.00% |
+| 16   | Tyranitar / Weavile                  |    1 |  12.50% |   0.00% |
+| 16   | Hydreigon / Weavile                  |    1 |  12.50% |   0.00% |
+| 16   | Moltres-Galar / Weavile              |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Crawdaunt                |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Tyranitar                |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Hydreigon                |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Moltres-Galar            |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Tyranitar                |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Hydreigon                |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Moltres-Galar            |    1 |  12.50% |   0.00% |
+| 16   | Tyranitar / Hydreigon                |    1 |  12.50% |   0.00% |
+| 16   | Tyranitar / Moltres-Galar            |    1 |  12.50% |   0.00% |
+| 16   | Moltres-Galar / Hydreigon            |    1 |  12.50% |   0.00% |
+| 16   | Slowking / Urshifu                   |    1 |  12.50% |   0.00% |
+| 16   | Swampert / Urshifu                   |    1 |  12.50% |   0.00% |
+| 16   | Toxapex / Urshifu                    |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Urshifu                  |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Urshifu                  |    1 |  12.50% |   0.00% |
+| 16   | Swampert / Slowking                  |    1 |  12.50% |   0.00% |
+| 16   | Toxapex / Slowking                   |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Slowking                 |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Slowking                 |    1 |  12.50% |   0.00% |
+| 16   | Toxapex / Swampert                   |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Swampert                 |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Swampert                 |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Toxapex                  |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Toxapex                  |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Golisopod                |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                             | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Tapu Bulu / Klefki / Clefable                           |    3 |  37.50% |  33.33% |
+| 1    | Klefki / Tapu Koko / Clefable                           |    3 |  37.50% |  33.33% |
+| 1    | Tapu Bulu / Klefki / Tapu Koko                          |    3 |  37.50% |  33.33% |
+| 1    | Tapu Bulu / Clefable / Tapu Koko                        |    3 |  37.50% |  33.33% |
+| 5    | Tapu Fini / Klefki / Tapu Bulu                          |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Tapu Lele / Tapu Bulu                       |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Clefable / Tapu Bulu                        |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Tapu Koko / Tapu Bulu                       |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Klefki / Tapu Lele                          |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Klefki / Clefable                           |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Klefki / Tapu Koko                          |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Clefable / Tapu Lele                        |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Tapu Lele / Tapu Koko                       |    2 |  25.00% |   0.00% |
+| 5    | Tapu Fini / Clefable / Tapu Koko                        |    2 |  25.00% |   0.00% |
+| 5    | Tapu Bulu / Klefki / Tapu Lele                          |    2 |  25.00% |   0.00% |
+| 5    | Tapu Bulu / Clefable / Tapu Lele                        |    2 |  25.00% |   0.00% |
+| 5    | Tapu Bulu / Tapu Lele / Tapu Koko                       |    2 |  25.00% |   0.00% |
+| 5    | Klefki / Tapu Lele / Clefable                           |    2 |  25.00% |   0.00% |
+| 5    | Klefki / Tapu Lele / Tapu Koko                          |    2 |  25.00% |   0.00% |
+| 5    | Clefable / Tapu Lele / Tapu Koko                        |    2 |  25.00% |   0.00% |
+| 21   | Klefki / Azumarill / Clefable                           |    1 |  12.50% | 100.00% |
+| 21   | Klefki / Mimikyu / Clefable                             |    1 |  12.50% | 100.00% |
+| 21   | Tapu Bulu / Klefki / Azumarill                          |    1 |  12.50% | 100.00% |
+| 21   | Klefki / Azumarill / Mimikyu                            |    1 |  12.50% | 100.00% |
+| 21   | Klefki / Azumarill / Tapu Koko                          |    1 |  12.50% | 100.00% |
+| 21   | Tapu Bulu / Klefki / Mimikyu                            |    1 |  12.50% | 100.00% |
+| 21   | Klefki / Tapu Koko / Mimikyu                            |    1 |  12.50% | 100.00% |
+| 21   | Tapu Bulu / Clefable / Azumarill                        |    1 |  12.50% | 100.00% |
+| 21   | Clefable / Azumarill / Mimikyu                          |    1 |  12.50% | 100.00% |
+| 21   | Clefable / Azumarill / Tapu Koko                        |    1 |  12.50% | 100.00% |
+| 21   | Tapu Bulu / Clefable / Mimikyu                          |    1 |  12.50% | 100.00% |
+| 21   | Clefable / Tapu Koko / Mimikyu                          |    1 |  12.50% | 100.00% |
+| 21   | Tapu Bulu / Azumarill / Mimikyu                         |    1 |  12.50% | 100.00% |
+| 21   | Tapu Bulu / Azumarill / Tapu Koko                       |    1 |  12.50% | 100.00% |
+| 21   | Azumarill / Tapu Koko / Mimikyu                         |    1 |  12.50% | 100.00% |
+| 21   | Tapu Bulu / Tapu Koko / Mimikyu                         |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Thundurus-Therian / Celesteela       |    1 |  12.50% | 100.00% |
+| 21   | Skarmory / Thundurus-Therian / Celesteela               |    1 |  12.50% | 100.00% |
+| 21   | Dragonite / Thundurus-Therian / Celesteela              |    1 |  12.50% | 100.00% |
+| 21   | Tornadus-Therian / Thundurus-Therian / Celesteela       |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Skarmory / Thundurus-Therian         |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Dragonite / Thundurus-Therian        |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Thundurus-Therian / Tornadus-Therian |    1 |  12.50% | 100.00% |
+| 21   | Skarmory / Thundurus-Therian / Dragonite                |    1 |  12.50% | 100.00% |
+| 21   | Skarmory / Thundurus-Therian / Tornadus-Therian         |    1 |  12.50% | 100.00% |
+| 21   | Dragonite / Thundurus-Therian / Tornadus-Therian        |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Skarmory / Celesteela                |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Dragonite / Celesteela               |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Tornadus-Therian / Celesteela        |    1 |  12.50% | 100.00% |
+| 21   | Dragonite / Skarmory / Celesteela                       |    1 |  12.50% | 100.00% |
+| 21   | Skarmory / Tornadus-Therian / Celesteela                |    1 |  12.50% | 100.00% |
+| 21   | Dragonite / Tornadus-Therian / Celesteela               |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Skarmory / Dragonite                 |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Skarmory / Tornadus-Therian          |    1 |  12.50% | 100.00% |
+| 21   | Landorus-Therian / Dragonite / Tornadus-Therian         |    1 |  12.50% | 100.00% |
+| 21   | Skarmory / Tornadus-Therian / Dragonite                 |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Hydreigon / Garchomp                           |    1 |  12.50% | 100.00% |
+| 21   | Dragalge / Hydreigon / Garchomp                         |    1 |  12.50% | 100.00% |
+| 21   | Hydreigon / Garchomp / Dragapult                        |    1 |  12.50% | 100.00% |
+| 21   | Hydreigon / Garchomp / Latias                           |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Dragalge / Garchomp                            |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Garchomp / Dragapult                           |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Garchomp / Latias                              |    1 |  12.50% | 100.00% |
+| 21   | Dragalge / Garchomp / Dragapult                         |    1 |  12.50% | 100.00% |
+| 21   | Dragalge / Garchomp / Latias                            |    1 |  12.50% | 100.00% |
+| 21   | Garchomp / Dragapult / Latias                           |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Hydreigon / Dragalge                           |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Hydreigon / Dragapult                          |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Hydreigon / Latias                             |    1 |  12.50% | 100.00% |
+| 21   | Dragalge / Hydreigon / Dragapult                        |    1 |  12.50% | 100.00% |
+| 21   | Dragalge / Hydreigon / Latias                           |    1 |  12.50% | 100.00% |
+| 21   | Hydreigon / Latias / Dragapult                          |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Dragalge / Dragapult                           |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Dragalge / Latias                              |    1 |  12.50% | 100.00% |
+| 21   | Kyurem / Latias / Dragapult                             |    1 |  12.50% | 100.00% |
+| 21   | Dragalge / Latias / Dragapult                           |    1 |  12.50% | 100.00% |
+| 21   | Aegislash / Heatran / Celesteela                        |    1 |  12.50% | 100.00% |
+| 21   | Ferrothorn / Aegislash / Celesteela                     |    1 |  12.50% | 100.00% |
+| 21   | Aegislash / Excadrill / Celesteela                      |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Aegislash / Celesteela                       |    1 |  12.50% | 100.00% |
+| 21   | Aegislash / Heatran / Ferrothorn                        |    1 |  12.50% | 100.00% |
+| 21   | Aegislash / Heatran / Excadrill                         |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Aegislash / Heatran                          |    1 |  12.50% | 100.00% |
+| 21   | Aegislash / Excadrill / Ferrothorn                      |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Aegislash / Ferrothorn                       |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Aegislash / Excadrill                        |    1 |  12.50% | 100.00% |
+| 21   | Ferrothorn / Heatran / Celesteela                       |    1 |  12.50% | 100.00% |
+| 21   | Heatran / Excadrill / Celesteela                        |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Heatran / Celesteela                         |    1 |  12.50% | 100.00% |
+| 21   | Ferrothorn / Excadrill / Celesteela                     |    1 |  12.50% | 100.00% |
+| 21   | Ferrothorn / Melmetal / Celesteela                      |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Excadrill / Celesteela                       |    1 |  12.50% | 100.00% |
+| 21   | Heatran / Excadrill / Ferrothorn                        |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Heatran / Ferrothorn                         |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Heatran / Excadrill                          |    1 |  12.50% | 100.00% |
+| 21   | Melmetal / Excadrill / Ferrothorn                       |    1 |  12.50% | 100.00% |
+| 21   | Mandibuzz / Crawdaunt / Weavile                         |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Tyranitar / Weavile                         |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Hydreigon / Weavile                         |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Moltres-Galar / Weavile                     |    1 |  12.50% |   0.00% |
+| 21   | Crawdaunt / Tyranitar / Weavile                         |    1 |  12.50% |   0.00% |
+| 21   | Crawdaunt / Hydreigon / Weavile                         |    1 |  12.50% |   0.00% |
+| 21   | Crawdaunt / Moltres-Galar / Weavile                     |    1 |  12.50% |   0.00% |
+| 21   | Tyranitar / Hydreigon / Weavile                         |    1 |  12.50% |   0.00% |
+| 21   | Tyranitar / Moltres-Galar / Weavile                     |    1 |  12.50% |   0.00% |
+| 21   | Moltres-Galar / Hydreigon / Weavile                     |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Crawdaunt / Tyranitar                       |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Crawdaunt / Hydreigon                       |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Crawdaunt / Moltres-Galar                   |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Tyranitar / Hydreigon                       |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Tyranitar / Moltres-Galar                   |    1 |  12.50% |   0.00% |
+| 21   | Mandibuzz / Moltres-Galar / Hydreigon                   |    1 |  12.50% |   0.00% |
+| 21   | Crawdaunt / Tyranitar / Hydreigon                       |    1 |  12.50% |   0.00% |
+| 21   | Crawdaunt / Tyranitar / Moltres-Galar                   |    1 |  12.50% |   0.00% |
+| 21   | Crawdaunt / Moltres-Galar / Hydreigon                   |    1 |  12.50% |   0.00% |
+| 21   | Tyranitar / Moltres-Galar / Hydreigon                   |    1 |  12.50% |   0.00% |
+| 21   | Slowking / Swampert / Urshifu                           |    1 |  12.50% |   0.00% |
+| 21   | Slowking / Toxapex / Urshifu                            |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Slowking / Urshifu                          |    1 |  12.50% |   0.00% |
+| 21   | Golisopod / Slowking / Urshifu                          |    1 |  12.50% |   0.00% |
+| 21   | Toxapex / Swampert / Urshifu                            |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Swampert / Urshifu                          |    1 |  12.50% |   0.00% |
+| 21   | Golisopod / Swampert / Urshifu                          |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Toxapex / Urshifu                           |    1 |  12.50% |   0.00% |
+| 21   | Golisopod / Toxapex / Urshifu                           |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Golisopod / Urshifu                         |    1 |  12.50% |   0.00% |
+| 21   | Toxapex / Swampert / Slowking                           |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Swampert / Slowking                         |    1 |  12.50% |   0.00% |
+| 21   | Golisopod / Swampert / Slowking                         |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Toxapex / Slowking                          |    1 |  12.50% |   0.00% |
+| 21   | Golisopod / Toxapex / Slowking                          |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Golisopod / Slowking                        |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Toxapex / Swampert                          |    1 |  12.50% |   0.00% |
+| 21   | Golisopod / Toxapex / Swampert                          |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Golisopod / Swampert                        |    1 |  12.50% |   0.00% |
+| 21   | Tapu Fini / Toxapex / Golisopod                         |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                          | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Tapu Bulu / Klefki / Tapu Koko / Clefable                            |    3 |  37.50% |  33.33% |
+| 2    | Tapu Fini / Klefki / Tapu Lele / Tapu Bulu                           |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Klefki / Tapu Bulu / Clefable                            |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Klefki / Tapu Bulu / Tapu Koko                           |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Clefable / Tapu Lele / Tapu Bulu                         |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Tapu Koko / Tapu Lele / Tapu Bulu                        |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Clefable / Tapu Bulu / Tapu Koko                         |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Klefki / Tapu Lele / Clefable                            |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Klefki / Tapu Lele / Tapu Koko                           |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Klefki / Tapu Koko / Clefable                            |    2 |  25.00% |   0.00% |
+| 2    | Tapu Fini / Clefable / Tapu Lele / Tapu Koko                         |    2 |  25.00% |   0.00% |
+| 2    | Tapu Bulu / Klefki / Tapu Lele / Clefable                            |    2 |  25.00% |   0.00% |
+| 2    | Tapu Bulu / Klefki / Tapu Lele / Tapu Koko                           |    2 |  25.00% |   0.00% |
+| 2    | Tapu Bulu / Clefable / Tapu Lele / Tapu Koko                         |    2 |  25.00% |   0.00% |
+| 2    | Klefki / Tapu Lele / Tapu Koko / Clefable                            |    2 |  25.00% |   0.00% |
+| 16   | Tapu Bulu / Klefki / Azumarill / Clefable                            |    1 |  12.50% | 100.00% |
+| 16   | Klefki / Mimikyu / Azumarill / Clefable                              |    1 |  12.50% | 100.00% |
+| 16   | Klefki / Azumarill / Tapu Koko / Clefable                            |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Klefki / Mimikyu / Clefable                              |    1 |  12.50% | 100.00% |
+| 16   | Klefki / Mimikyu / Tapu Koko / Clefable                              |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Klefki / Azumarill / Mimikyu                             |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Klefki / Azumarill / Tapu Koko                           |    1 |  12.50% | 100.00% |
+| 16   | Klefki / Azumarill / Tapu Koko / Mimikyu                             |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Klefki / Tapu Koko / Mimikyu                             |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Clefable / Azumarill / Mimikyu                           |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Clefable / Azumarill / Tapu Koko                         |    1 |  12.50% | 100.00% |
+| 16   | Clefable / Azumarill / Tapu Koko / Mimikyu                           |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Clefable / Tapu Koko / Mimikyu                           |    1 |  12.50% | 100.00% |
+| 16   | Tapu Bulu / Azumarill / Tapu Koko / Mimikyu                          |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Skarmory / Thundurus-Therian / Celesteela         |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Dragonite / Thundurus-Therian / Celesteela        |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Tornadus-Therian / Thundurus-Therian / Celesteela |    1 |  12.50% | 100.00% |
+| 16   | Dragonite / Skarmory / Thundurus-Therian / Celesteela                |    1 |  12.50% | 100.00% |
+| 16   | Tornadus-Therian / Skarmory / Thundurus-Therian / Celesteela         |    1 |  12.50% | 100.00% |
+| 16   | Tornadus-Therian / Dragonite / Thundurus-Therian / Celesteela        |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Skarmory / Thundurus-Therian / Dragonite          |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Skarmory / Thundurus-Therian / Tornadus-Therian   |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Dragonite / Thundurus-Therian / Tornadus-Therian  |    1 |  12.50% | 100.00% |
+| 16   | Tornadus-Therian / Skarmory / Thundurus-Therian / Dragonite          |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Dragonite / Skarmory / Celesteela                 |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Skarmory / Tornadus-Therian / Celesteela          |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Dragonite / Tornadus-Therian / Celesteela         |    1 |  12.50% | 100.00% |
+| 16   | Dragonite / Skarmory / Tornadus-Therian / Celesteela                 |    1 |  12.50% | 100.00% |
+| 16   | Landorus-Therian / Skarmory / Tornadus-Therian / Dragonite           |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Dragalge / Hydreigon / Garchomp                             |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Hydreigon / Garchomp / Dragapult                            |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Hydreigon / Garchomp / Latias                               |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Hydreigon / Garchomp / Dragapult                          |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Hydreigon / Garchomp / Latias                             |    1 |  12.50% | 100.00% |
+| 16   | Hydreigon / Garchomp / Dragapult / Latias                            |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Dragalge / Garchomp / Dragapult                             |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Dragalge / Garchomp / Latias                                |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Garchomp / Dragapult / Latias                               |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Garchomp / Dragapult / Latias                             |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Hydreigon / Dragalge / Dragapult                            |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Hydreigon / Dragalge / Latias                               |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Hydreigon / Latias / Dragapult                              |    1 |  12.50% | 100.00% |
+| 16   | Dragalge / Hydreigon / Latias / Dragapult                            |    1 |  12.50% | 100.00% |
+| 16   | Kyurem / Dragalge / Dragapult / Latias                               |    1 |  12.50% | 100.00% |
+| 16   | Ferrothorn / Aegislash / Heatran / Celesteela                        |    1 |  12.50% | 100.00% |
+| 16   | Aegislash / Heatran / Excadrill / Celesteela                         |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Aegislash / Heatran / Celesteela                          |    1 |  12.50% | 100.00% |
+| 16   | Ferrothorn / Aegislash / Excadrill / Celesteela                      |    1 |  12.50% | 100.00% |
+| 16   | Ferrothorn / Melmetal / Aegislash / Celesteela                       |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Aegislash / Excadrill / Celesteela                        |    1 |  12.50% | 100.00% |
+| 16   | Aegislash / Heatran / Excadrill / Ferrothorn                         |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Aegislash / Heatran / Ferrothorn                          |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Aegislash / Heatran / Excadrill                           |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Aegislash / Excadrill / Ferrothorn                        |    1 |  12.50% | 100.00% |
+| 16   | Ferrothorn / Heatran / Excadrill / Celesteela                        |    1 |  12.50% | 100.00% |
+| 16   | Ferrothorn / Melmetal / Heatran / Celesteela                         |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Heatran / Excadrill / Celesteela                          |    1 |  12.50% | 100.00% |
+| 16   | Ferrothorn / Melmetal / Excadrill / Celesteela                       |    1 |  12.50% | 100.00% |
+| 16   | Melmetal / Heatran / Excadrill / Ferrothorn                          |    1 |  12.50% | 100.00% |
+| 16   | Mandibuzz / Crawdaunt / Tyranitar / Weavile                          |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Crawdaunt / Hydreigon / Weavile                          |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Crawdaunt / Moltres-Galar / Weavile                      |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Tyranitar / Hydreigon / Weavile                          |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Tyranitar / Moltres-Galar / Weavile                      |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Moltres-Galar / Hydreigon / Weavile                      |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Tyranitar / Hydreigon / Weavile                          |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Tyranitar / Moltres-Galar / Weavile                      |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Moltres-Galar / Hydreigon / Weavile                      |    1 |  12.50% |   0.00% |
+| 16   | Tyranitar / Moltres-Galar / Hydreigon / Weavile                      |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Crawdaunt / Tyranitar / Hydreigon                        |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Crawdaunt / Tyranitar / Moltres-Galar                    |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Crawdaunt / Moltres-Galar / Hydreigon                    |    1 |  12.50% |   0.00% |
+| 16   | Mandibuzz / Tyranitar / Moltres-Galar / Hydreigon                    |    1 |  12.50% |   0.00% |
+| 16   | Crawdaunt / Tyranitar / Moltres-Galar / Hydreigon                    |    1 |  12.50% |   0.00% |
+| 16   | Slowking / Toxapex / Swampert / Urshifu                              |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Slowking / Swampert / Urshifu                            |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Slowking / Swampert / Urshifu                            |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Slowking / Toxapex / Urshifu                             |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Slowking / Toxapex / Urshifu                             |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Slowking / Golisopod / Urshifu                           |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Toxapex / Swampert / Urshifu                             |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Toxapex / Swampert / Urshifu                             |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Golisopod / Swampert / Urshifu                           |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Toxapex / Golisopod / Urshifu                            |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Toxapex / Swampert / Slowking                            |    1 |  12.50% |   0.00% |
+| 16   | Golisopod / Toxapex / Swampert / Slowking                            |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Golisopod / Swampert / Slowking                          |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Toxapex / Golisopod / Slowking                           |    1 |  12.50% |   0.00% |
+| 16   | Tapu Fini / Golisopod / Toxapex / Swampert                           |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                                      | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Clefable / Tapu Fini / Klefki / Tapu Bulu / Tapu Lele                            |    2 |  25.00% |   0.00% |
+| 1    | Tapu Koko / Tapu Fini / Klefki / Tapu Bulu / Tapu Lele                           |    2 |  25.00% |   0.00% |
+| 1    | Clefable / Tapu Koko / Tapu Fini / Klefki / Tapu Bulu                            |    2 |  25.00% |   0.00% |
+| 1    | Clefable / Tapu Koko / Tapu Fini / Tapu Bulu / Tapu Lele                         |    2 |  25.00% |   0.00% |
+| 1    | Clefable / Tapu Koko / Tapu Fini / Klefki / Tapu Lele                            |    2 |  25.00% |   0.00% |
+| 1    | Clefable / Tapu Koko / Klefki / Tapu Bulu / Tapu Lele                            |    2 |  25.00% |   0.00% |
+| 7    | Clefable / Azumarill / Mimikyu / Klefki / Tapu Bulu                              |    1 |  12.50% | 100.00% |
+| 7    | Clefable / Tapu Koko / Azumarill / Klefki / Tapu Bulu                            |    1 |  12.50% | 100.00% |
+| 7    | Clefable / Tapu Koko / Azumarill / Mimikyu / Klefki                              |    1 |  12.50% | 100.00% |
+| 7    | Clefable / Tapu Koko / Mimikyu / Klefki / Tapu Bulu                              |    1 |  12.50% | 100.00% |
+| 7    | Tapu Koko / Azumarill / Mimikyu / Klefki / Tapu Bulu                             |    1 |  12.50% | 100.00% |
+| 7    | Clefable / Tapu Koko / Azumarill / Mimikyu / Tapu Bulu                           |    1 |  12.50% | 100.00% |
+| 7    | Thundurus-Therian / Landorus-Therian / Dragonite / Celesteela / Skarmory         |    1 |  12.50% | 100.00% |
+| 7    | Thundurus-Therian / Landorus-Therian / Celesteela / Skarmory / Tornadus-Therian  |    1 |  12.50% | 100.00% |
+| 7    | Thundurus-Therian / Landorus-Therian / Dragonite / Celesteela / Tornadus-Therian |    1 |  12.50% | 100.00% |
+| 7    | Thundurus-Therian / Dragonite / Celesteela / Skarmory / Tornadus-Therian         |    1 |  12.50% | 100.00% |
+| 7    | Thundurus-Therian / Landorus-Therian / Dragonite / Skarmory / Tornadus-Therian   |    1 |  12.50% | 100.00% |
+| 7    | Landorus-Therian / Dragonite / Celesteela / Skarmory / Tornadus-Therian          |    1 |  12.50% | 100.00% |
+| 7    | Hydreigon / Kyurem / Dragapult / Dragalge / Garchomp                             |    1 |  12.50% | 100.00% |
+| 7    | Hydreigon / Latias / Kyurem / Dragalge / Garchomp                                |    1 |  12.50% | 100.00% |
+| 7    | Hydreigon / Latias / Kyurem / Dragapult / Garchomp                               |    1 |  12.50% | 100.00% |
+| 7    | Hydreigon / Latias / Dragapult / Dragalge / Garchomp                             |    1 |  12.50% | 100.00% |
+| 7    | Latias / Kyurem / Dragapult / Dragalge / Garchomp                                |    1 |  12.50% | 100.00% |
+| 7    | Hydreigon / Latias / Kyurem / Dragapult / Dragalge                               |    1 |  12.50% | 100.00% |
+| 7    | Heatran / Excadrill / Celesteela / Aegislash / Ferrothorn                        |    1 |  12.50% | 100.00% |
+| 7    | Heatran / Melmetal / Celesteela / Aegislash / Ferrothorn                         |    1 |  12.50% | 100.00% |
+| 7    | Heatran / Melmetal / Excadrill / Celesteela / Aegislash                          |    1 |  12.50% | 100.00% |
+| 7    | Melmetal / Excadrill / Celesteela / Aegislash / Ferrothorn                       |    1 |  12.50% | 100.00% |
+| 7    | Heatran / Melmetal / Excadrill / Aegislash / Ferrothorn                          |    1 |  12.50% | 100.00% |
+| 7    | Heatran / Melmetal / Excadrill / Celesteela / Ferrothorn                         |    1 |  12.50% | 100.00% |
+| 7    | Mandibuzz / Crawdaunt / Tyranitar / Hydreigon / Weavile                          |    1 |  12.50% |   0.00% |
+| 7    | Mandibuzz / Crawdaunt / Tyranitar / Moltres-Galar / Weavile                      |    1 |  12.50% |   0.00% |
+| 7    | Mandibuzz / Crawdaunt / Moltres-Galar / Hydreigon / Weavile                      |    1 |  12.50% |   0.00% |
+| 7    | Mandibuzz / Tyranitar / Moltres-Galar / Hydreigon / Weavile                      |    1 |  12.50% |   0.00% |
+| 7    | Crawdaunt / Tyranitar / Moltres-Galar / Hydreigon / Weavile                      |    1 |  12.50% |   0.00% |
+| 7    | Mandibuzz / Crawdaunt / Tyranitar / Moltres-Galar / Hydreigon                    |    1 |  12.50% |   0.00% |
+| 7    | Swampert / Slowking / Tapu Fini / Toxapex / Urshifu                              |    1 |  12.50% |   0.00% |
+| 7    | Swampert / Slowking / Golisopod / Toxapex / Urshifu                              |    1 |  12.50% |   0.00% |
+| 7    | Swampert / Slowking / Golisopod / Tapu Fini / Urshifu                            |    1 |  12.50% |   0.00% |
+| 7    | Slowking / Golisopod / Tapu Fini / Toxapex / Urshifu                             |    1 |  12.50% |   0.00% |
+| 7    | Swampert / Golisopod / Tapu Fini / Toxapex / Urshifu                             |    1 |  12.50% |   0.00% |
+| 7    | Swampert / Slowking / Golisopod / Tapu Fini / Toxapex                            |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                                 | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Clefable / Tapu Koko / Tapu Fini / Klefki / Tapu Bulu / Tapu Lele                           |    2 |  25.00% |   0.00% |
+| 2    | Clefable / Tapu Koko / Azumarill / Mimikyu / Klefki / Tapu Bulu                             |    1 |  12.50% | 100.00% |
+| 2    | Thundurus-Therian / Landorus-Therian / Dragonite / Celesteela / Skarmory / Tornadus-Therian |    1 |  12.50% | 100.00% |
+| 2    | Hydreigon / Latias / Kyurem / Dragapult / Dragalge / Garchomp                               |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Melmetal / Excadrill / Celesteela / Aegislash / Ferrothorn                        |    1 |  12.50% | 100.00% |
+| 2    | Mandibuzz / Crawdaunt / Tyranitar / Moltres-Galar / Hydreigon / Weavile                     |    1 |  12.50% |   0.00% |
+| 2    | Swampert / Slowking / Golisopod / Tapu Fini / Toxapex / Urshifu                             |    1 |  12.50% |   0.00% |
