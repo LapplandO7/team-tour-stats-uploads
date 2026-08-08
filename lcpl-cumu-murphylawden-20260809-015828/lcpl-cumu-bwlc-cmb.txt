@@ -1,0 +1,1693 @@
++ ---- + ---------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2            | Use  | Usage % |  Win %  |
++ ---- + ---------------------- + ---- + ------- + ------- +
+| 1    | Gastly / Mienfoo       |   30 |  50.00% |  43.33% |
+| 2    | Gastly / Vullaby       |   21 |  35.00% |  57.14% |
+| 3    | Ferroseed / Mienfoo    |   20 |  33.33% |  65.00% |
+| 3    | Vullaby / Mienfoo      |   20 |  33.33% |  65.00% |
+| 5    | Abra / Gastly          |   18 |  30.00% |  44.44% |
+| 6    | Ferroseed / Gastly     |   17 |  28.33% |  70.59% |
+| 6    | Abra / Mienfoo         |   17 |  28.33% |  52.94% |
+| 8    | Ferroseed / Vullaby    |   15 |  25.00% |  80.00% |
+| 8    | Diglett / Mienfoo      |   15 |  25.00% |  46.67% |
+| 10   | Gastly / Omanyte       |   14 |  23.33% |  50.00% |
+| 11   | Diglett / Gastly       |   13 |  21.67% |  61.54% |
+| 12   | Omanyte / Mienfoo      |   12 |  20.00% |  50.00% |
+| 13   | Abra / Ferroseed       |   11 |  18.33% |  72.73% |
+| 13   | Pawniard / Gastly      |   11 |  18.33% |  63.64% |
+| 13   | Abra / Vullaby         |   11 |  18.33% |  63.64% |
+| 13   | Gastly / Chinchou      |   11 |  18.33% |  45.45% |
+| 13   | Hippopotas / Mienfoo   |   11 |  18.33% |  27.27% |
+| 18   | Hippopotas / Frillish  |   10 |  16.67% |  50.00% |
+| 18   | Frillish / Mienfoo     |   10 |  16.67% |  40.00% |
+| 20   | Diglett / Vullaby      |    9 |  15.00% |  88.89% |
+| 20   | Abra / Diglett         |    9 |  15.00% |  66.67% |
+| 22   | Timburr / Gastly       |    8 |  13.33% |  62.50% |
+| 22   | Gastly / Porygon       |    8 |  13.33% |  50.00% |
+| 22   | Chinchou / Vullaby     |    8 |  13.33% |  50.00% |
+| 22   | Drilbur / Mienfoo      |    8 |  13.33% |  50.00% |
+| 22   | Hippopotas / Lileep    |    8 |  13.33% |  50.00% |
+| 22   | Hippopotas / Gastly    |    8 |  13.33% |  37.50% |
+| 22   | Vullaby / Staryu       |    8 |  13.33% |  37.50% |
+| 29   | Ferroseed / Diglett    |    7 |  11.67% | 100.00% |
+| 29   | Ferroseed / Chinchou   |    7 |  11.67% |  57.14% |
+| 29   | Omanyte / Vullaby      |    7 |  11.67% |  57.14% |
+| 29   | Ferroseed / Frillish   |    7 |  11.67% |  57.14% |
+| 29   | Porygon / Mienfoo      |    7 |  11.67% |  42.86% |
+| 29   | Staryu / Mienfoo       |    7 |  11.67% |  42.86% |
+| 29   | Drilbur / Gastly       |    7 |  11.67% |  28.57% |
+| 29   | Bronzor / Mienfoo      |    7 |  11.67% |  28.57% |
+| 29   | Abra / Drilbur         |    7 |  11.67% |  28.57% |
+| 38   | Ferroseed / Omanyte    |    6 |  10.00% |  66.67% |
+| 38   | Timburr / Vullaby      |    6 |  10.00% |  66.67% |
+| 38   | Abra / Omanyte         |    6 |  10.00% |  50.00% |
+| 38   | Gastly / Staryu        |    6 |  10.00% |  33.33% |
+| 38   | Chinchou / Mienfoo     |    6 |  10.00% |  33.33% |
+| 38   | Abra / Chinchou        |    6 |  10.00% |  33.33% |
+| 44   | Pawniard / Ferroseed   |    5 |   8.33% |  80.00% |
+| 44   | Diglett / Omanyte      |    5 |   8.33% |  80.00% |
+| 44   | Timburr / Diglett      |    5 |   8.33% |  80.00% |
+| 44   | Timburr / Ferroseed    |    5 |   8.33% |  60.00% |
+| 44   | Drilbur / Ferroseed    |    5 |   8.33% |  60.00% |
+| 44   | Pawniard / Timburr     |    5 |   8.33% |  60.00% |
+| 44   | Pawniard / Vullaby     |    5 |   8.33% |  60.00% |
+| 44   | Porygon / Omanyte      |    5 |   8.33% |  60.00% |
+| 44   | Hippopotas / Bronzor   |    5 |   8.33% |  60.00% |
+| 44   | Frillish / Lileep      |    5 |   8.33% |  60.00% |
+| 44   | Timburr / Chinchou     |    5 |   8.33% |  40.00% |
+| 44   | Drilbur / Vullaby      |    5 |   8.33% |  40.00% |
+| 44   | Pawniard / Mienfoo     |    5 |   8.33% |  40.00% |
+| 44   | Ferroseed / Hippopotas |    5 |   8.33% |  40.00% |
+| 44   | Hippopotas / Carvanha  |    5 |   8.33% |  40.00% |
+| 44   | Ferroseed / Carvanha   |    5 |   8.33% |  40.00% |
+| 44   | Frillish / Carvanha    |    5 |   8.33% |  40.00% |
+| 44   | Carvanha / Mienfoo     |    5 |   8.33% |  40.00% |
+| 44   | Pawniard / Chinchou    |    5 |   8.33% |  40.00% |
+| 44   | Gastly / Lileep        |    5 |   8.33% |  40.00% |
+| 44   | Bronzor / Gastly       |    5 |   8.33% |  20.00% |
+| 44   | Bronzor / Diglett      |    5 |   8.33% |  20.00% |
+| 66   | Timburr / Natu         |    4 |   6.67% | 100.00% |
+| 66   | Gastly / Archen        |    4 |   6.67% |  75.00% |
+| 66   | Bronzor / Frillish     |    4 |   6.67% |  75.00% |
+| 66   | Frillish / Vullaby     |    4 |   6.67% |  75.00% |
+| 66   | Natu / Frillish        |    4 |   6.67% |  75.00% |
+| 66   | Drilbur / Omanyte      |    4 |   6.67% |  50.00% |
+| 66   | Timburr / Omanyte      |    4 |   6.67% |  50.00% |
+| 66   | Diglett / Porygon      |    4 |   6.67% |  50.00% |
+| 66   | Hippopotas / Vullaby   |    4 |   6.67% |  50.00% |
+| 66   | Mienfoo / Snover       |    4 |   6.67% |  50.00% |
+| 66   | Drilbur / Frillish     |    4 |   6.67% |  50.00% |
+| 66   | Natu / Porygon         |    4 |   6.67% |  25.00% |
+| 66   | Chinchou / Staryu      |    4 |   6.67% |  25.00% |
+| 66   | Timburr / Mienfoo      |    4 |   6.67% |  25.00% |
+| 66   | Drifloon / Mienfoo     |    4 |   6.67% |  25.00% |
+| 66   | Diglett / Frillish     |    4 |   6.67% |  25.00% |
+| 66   | Diglett / Staryu       |    4 |   6.67% |  25.00% |
+| 66   | Gastly / Frillish      |    4 |   6.67% |  25.00% |
+| 66   | Diglett / Chinchou     |    4 |   6.67% |  25.00% |
+| 66   | Ferroseed / Drifloon   |    4 |   6.67% |   0.00% |
+| 86   | Gastly / Natu          |    3 |   5.00% |  66.67% |
+| 86   | Hippopotas / Natu      |    3 |   5.00% |  66.67% |
+| 86   | Timburr / Porygon      |    3 |   5.00% |  66.67% |
+| 86   | Hippopotas / Archen    |    3 |   5.00% |  66.67% |
+| 86   | Pawniard / Hippopotas  |    3 |   5.00% |  66.67% |
+| 86   | Archen / Lileep        |    3 |   5.00% |  66.67% |
+| 86   | Pawniard / Lileep      |    3 |   5.00% |  66.67% |
+| 86   | Pawniard / Archen      |    3 |   5.00% |  66.67% |
+| 86   | Bronzor / Lileep       |    3 |   5.00% |  66.67% |
+| 86   | Pawniard / Frillish    |    3 |   5.00% |  66.67% |
+| 86   | Abra / Porygon         |    3 |   5.00% |  66.67% |
+| 86   | Hippopotas / Porygon   |    3 |   5.00% |  33.33% |
+| 86   | Natu / Mienfoo         |    3 |   5.00% |  33.33% |
+| 86   | Ferroseed / Staryu     |    3 |   5.00% |  33.33% |
+| 86   | Pawniard / Staryu      |    3 |   5.00% |  33.33% |
+| 86   | Tentacool / Hippopotas |    3 |   5.00% |  33.33% |
+| 86   | Tentacool / Gastly     |    3 |   5.00% |  33.33% |
+| 86   | Tentacool / Lileep     |    3 |   5.00% |  33.33% |
+| 86   | Archen / Frillish      |    3 |   5.00% |  33.33% |
+| 86   | Diglett / Natu         |    3 |   5.00% |  33.33% |
+| 86   | Tentacool / Mienfoo    |    3 |   5.00% |  33.33% |
+| 86   | Frillish / Porygon     |    3 |   5.00% |  33.33% |
+| 86   | Abra / Frillish        |    3 |   5.00% |  33.33% |
+| 86   | Hippopotas / Drifloon  |    3 |   5.00% |   0.00% |
+| 86   | Frillish / Drifloon    |    3 |   5.00% |   0.00% |
+| 86   | Carvanha / Drifloon    |    3 |   5.00% |   0.00% |
+| 86   | Abra / Bronzor         |    3 |   5.00% |   0.00% |
+| 86   | Lileep / Mienfoo       |    3 |   5.00% |   0.00% |
+| 114  | Ferroseed / Natu       |    2 |   3.33% | 100.00% |
+| 114  | Timburr / Frillish     |    2 |   3.33% | 100.00% |
+| 114  | Timburr / Hippopotas   |    2 |   3.33% | 100.00% |
+| 114  | Timburr / Lileep       |    2 |   3.33% | 100.00% |
+| 114  | Timburr / Bronzor      |    2 |   3.33% | 100.00% |
+| 114  | Natu / Lileep          |    2 |   3.33% | 100.00% |
+| 114  | Bronzor / Natu         |    2 |   3.33% | 100.00% |
+| 114  | Carvanha / Vullaby     |    2 |   3.33% | 100.00% |
+| 114  | Pawniard / Natu        |    2 |   3.33% | 100.00% |
+| 114  | Archen / Mienfoo       |    2 |   3.33% |  50.00% |
+| 114  | Bronzor / Porygon      |    2 |   3.33% |  50.00% |
+| 114  | Hippopotas / Omanyte   |    2 |   3.33% |  50.00% |
+| 114  | Bronzor / Omanyte      |    2 |   3.33% |  50.00% |
+| 114  | Bronzor / Staryu       |    2 |   3.33% |  50.00% |
+| 114  | Pawniard / Diglett     |    2 |   3.33% |  50.00% |
+| 114  | Diglett / Magnemite    |    2 |   3.33% |  50.00% |
+| 114  | Gastly / Snover        |    2 |   3.33% |  50.00% |
+| 114  | Staryu / Snover        |    2 |   3.33% |  50.00% |
+| 114  | Vullaby / Snover       |    2 |   3.33% |  50.00% |
+| 114  | Pawniard / Snover      |    2 |   3.33% |  50.00% |
+| 114  | Drilbur / Porygon      |    2 |   3.33% |  50.00% |
+| 114  | Abra / Pawniard        |    2 |   3.33% |  50.00% |
+| 114  | Magnemite / Snover     |    2 |   3.33% |  50.00% |
+| 114  | Mienfoo / Magnemite    |    2 |   3.33% |  50.00% |
+| 114  | Porygon / Clamperl     |    2 |   3.33% |   0.00% |
+| 114  | Clamperl / Mienfoo     |    2 |   3.33% |   0.00% |
+| 114  | Natu / Clamperl        |    2 |   3.33% |   0.00% |
+| 114  | Staryu / Drifloon      |    2 |   3.33% |   0.00% |
+| 114  | Vullaby / Drifloon     |    2 |   3.33% |   0.00% |
+| 114  | Timburr / Drifloon     |    2 |   3.33% |   0.00% |
+| 114  | Chinchou / Drifloon    |    2 |   3.33% |   0.00% |
+| 114  | Timburr / Staryu       |    2 |   3.33% |   0.00% |
+| 114  | Bronzor / Chinchou     |    2 |   3.33% |   0.00% |
+| 114  | Lileep / Vullaby       |    2 |   3.33% |   0.00% |
+| 114  | Tentacool / Vullaby    |    2 |   3.33% |   0.00% |
+| 114  | Stunky / Mienfoo       |    2 |   3.33% |   0.00% |
+| 114  | Gastly / Stunky        |    2 |   3.33% |   0.00% |
+| 114  | Stunky / Omanyte       |    2 |   3.33% |   0.00% |
+| 114  | Timburr / Stunky       |    2 |   3.33% |   0.00% |
+| 114  | Frillish / Snover      |    2 |   3.33% |   0.00% |
+| 114  | Diglett / Snover       |    2 |   3.33% |   0.00% |
+| 155  | Natu / Omanyte         |    1 |   1.67% | 100.00% |
+| 155  | Archen / Omanyte       |    1 |   1.67% | 100.00% |
+| 155  | Ferroseed / Archen     |    1 |   1.67% | 100.00% |
+| 155  | Archen / Natu          |    1 |   1.67% | 100.00% |
+| 155  | Porygon / Vullaby      |    1 |   1.67% | 100.00% |
+| 155  | Tentacool / Archen     |    1 |   1.67% | 100.00% |
+| 155  | Tentacool / Pawniard   |    1 |   1.67% | 100.00% |
+| 155  | Bronzor / Vullaby      |    1 |   1.67% | 100.00% |
+| 155  | Frillish / Staryu      |    1 |   1.67% | 100.00% |
+| 155  | Pawniard / Omanyte     |    1 |   1.67% | 100.00% |
+| 155  | Diglett / Shellder     |    1 |   1.67% | 100.00% |
+| 155  | Vullaby / Magnemite    |    1 |   1.67% | 100.00% |
+| 155  | Timburr / Magnemite    |    1 |   1.67% | 100.00% |
+| 155  | Natu / Magnemite       |    1 |   1.67% | 100.00% |
+| 155  | Shellder / Magnemite   |    1 |   1.67% | 100.00% |
+| 155  | Natu / Vullaby         |    1 |   1.67% | 100.00% |
+| 155  | Shellder / Vullaby     |    1 |   1.67% | 100.00% |
+| 155  | Timburr / Shellder     |    1 |   1.67% | 100.00% |
+| 155  | Shellder / Natu        |    1 |   1.67% | 100.00% |
+| 155  | Ferroseed / Porygon    |    1 |   1.67% | 100.00% |
+| 155  | Ferroseed / Ponyta     |    1 |   1.67% | 100.00% |
+| 155  | Ponyta / Frillish      |    1 |   1.67% | 100.00% |
+| 155  | Drilbur / Ponyta       |    1 |   1.67% | 100.00% |
+| 155  | Ponyta / Natu          |    1 |   1.67% | 100.00% |
+| 155  | Pawniard / Ponyta      |    1 |   1.67% | 100.00% |
+| 155  | Drilbur / Natu         |    1 |   1.67% | 100.00% |
+| 155  | Drilbur / Pawniard     |    1 |   1.67% | 100.00% |
+| 155  | Ferroseed / Elekid     |    1 |   1.67% | 100.00% |
+| 155  | Elekid / Mienfoo       |    1 |   1.67% | 100.00% |
+| 155  | Diglett / Elekid       |    1 |   1.67% | 100.00% |
+| 155  | Gastly / Elekid        |    1 |   1.67% | 100.00% |
+| 155  | Abra / Elekid          |    1 |   1.67% | 100.00% |
+| 155  | Pawniard / Porygon     |    1 |   1.67% | 100.00% |
+| 155  | Chinchou / Natu        |    1 |   1.67% | 100.00% |
+| 155  | Chinchou / Porygon     |    1 |   1.67% | 100.00% |
+| 155  | Magnemite / Drifloon   |    1 |   1.67% | 100.00% |
+| 155  | Drilbur / Drifloon     |    1 |   1.67% | 100.00% |
+| 155  | Tentacool / Drifloon   |    1 |   1.67% | 100.00% |
+| 155  | Snover / Drifloon      |    1 |   1.67% | 100.00% |
+| 155  | Drilbur / Magnemite    |    1 |   1.67% | 100.00% |
+| 155  | Tentacool / Magnemite  |    1 |   1.67% | 100.00% |
+| 155  | Drilbur / Tentacool    |    1 |   1.67% | 100.00% |
+| 155  | Drilbur / Snover       |    1 |   1.67% | 100.00% |
+| 155  | Tentacool / Snover     |    1 |   1.67% | 100.00% |
+| 155  | Gastly / Clamperl      |    1 |   1.67% |   0.00% |
+| 155  | Hippopotas / Clamperl  |    1 |   1.67% |   0.00% |
+| 155  | Larvesta / Staryu      |    1 |   1.67% |   0.00% |
+| 155  | Gastly / Larvesta      |    1 |   1.67% |   0.00% |
+| 155  | Chinchou / Larvesta    |    1 |   1.67% |   0.00% |
+| 155  | Larvesta / Vullaby     |    1 |   1.67% |   0.00% |
+| 155  | Ferroseed / Larvesta   |    1 |   1.67% |   0.00% |
+| 155  | Pawniard / Drifloon    |    1 |   1.67% |   0.00% |
+| 155  | Riolu / Omanyte        |    1 |   1.67% |   0.00% |
+| 155  | Abra / Riolu           |    1 |   1.67% |   0.00% |
+| 155  | Riolu / Gastly         |    1 |   1.67% |   0.00% |
+| 155  | Riolu / Vullaby        |    1 |   1.67% |   0.00% |
+| 155  | Riolu / Chinchou       |    1 |   1.67% |   0.00% |
+| 155  | Chinchou / Omanyte     |    1 |   1.67% |   0.00% |
+| 155  | Staryu / Clamperl      |    1 |   1.67% |   0.00% |
+| 155  | Porygon / Staryu       |    1 |   1.67% |   0.00% |
+| 155  | Natu / Staryu          |    1 |   1.67% |   0.00% |
+| 155  | Diglett / Clamperl     |    1 |   1.67% |   0.00% |
+| 155  | Ferroseed / Stunky     |    1 |   1.67% |   0.00% |
+| 155  | Abra / Staryu          |    1 |   1.67% |   0.00% |
+| 155  | Stunky / Porygon       |    1 |   1.67% |   0.00% |
+| 155  | Archen / Snover        |    1 |   1.67% |   0.00% |
+| 155  | Archen / Magnemite     |    1 |   1.67% |   0.00% |
+| 155  | Frillish / Magnemite   |    1 |   1.67% |   0.00% |
+| 155  | Diglett / Archen       |    1 |   1.67% |   0.00% |
+| 155  | Abra / Skorupi         |    1 |   1.67% |   0.00% |
+| 155  | Skorupi / Gastly       |    1 |   1.67% |   0.00% |
+| 155  | Skorupi / Frillish     |    1 |   1.67% |   0.00% |
+| 155  | Skorupi / Porygon      |    1 |   1.67% |   0.00% |
+| 155  | Drilbur / Skorupi      |    1 |   1.67% |   0.00% |
+| 155  | Smoochum / Frillish    |    1 |   1.67% |   0.00% |
+| 155  | Natu / Snover          |    1 |   1.67% |   0.00% |
+| 155  | Smoochum / Natu        |    1 |   1.67% |   0.00% |
+| 155  | Smoochum / Diglett     |    1 |   1.67% |   0.00% |
+| 155  | Porygon / Snover       |    1 |   1.67% |   0.00% |
+| 155  | Smoochum / Snover      |    1 |   1.67% |   0.00% |
+| 155  | Smoochum / Porygon     |    1 |   1.67% |   0.00% |
+| 155  | Omanyte / Staryu       |    1 |   1.67% |   0.00% |
+| 155  | Diglett / Lileep       |    1 |   1.67% |   0.00% |
+| 155  | Hippopotas / Diglett   |    1 |   1.67% |   0.00% |
+
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| 1    | Gastly / Vullaby / Mienfoo        |   16 |  26.67% |  56.25% |
+| 2    | Abra / Gastly / Mienfoo           |   15 |  25.00% |  46.67% |
+| 3    | Ferroseed / Gastly / Mienfoo      |   13 |  21.67% |  69.23% |
+| 4    | Ferroseed / Vullaby / Mienfoo     |   11 |  18.33% |  90.91% |
+| 4    | Ferroseed / Gastly / Vullaby      |   11 |  18.33% |  81.82% |
+| 4    | Gastly / Omanyte / Mienfoo        |   11 |  18.33% |  45.45% |
+| 7    | Abra / Ferroseed / Mienfoo        |   10 |  16.67% |  70.00% |
+| 7    | Abra / Gastly / Vullaby           |   10 |  16.67% |  60.00% |
+| 7    | Diglett / Gastly / Mienfoo        |   10 |  16.67% |  50.00% |
+| 10   | Abra / Diglett / Mienfoo          |    9 |  15.00% |  66.67% |
+| 10   | Abra / Vullaby / Mienfoo          |    9 |  15.00% |  66.67% |
+| 10   | Abra / Ferroseed / Gastly         |    9 |  15.00% |  66.67% |
+| 13   | Abra / Diglett / Gastly           |    8 |  13.33% |  62.50% |
+| 14   | Abra / Ferroseed / Vullaby        |    7 |  11.67% |  85.71% |
+| 15   | Ferroseed / Diglett / Gastly      |    6 |  10.00% | 100.00% |
+| 15   | Diglett / Gastly / Vullaby        |    6 |  10.00% |  83.33% |
+| 15   | Diglett / Vullaby / Mienfoo       |    6 |  10.00% |  83.33% |
+| 15   | Ferroseed / Chinchou / Vullaby    |    6 |  10.00% |  66.67% |
+| 15   | Gastly / Chinchou / Vullaby       |    6 |  10.00% |  66.67% |
+| 15   | Ferroseed / Gastly / Chinchou     |    6 |  10.00% |  66.67% |
+| 15   | Gastly / Omanyte / Vullaby        |    6 |  10.00% |  50.00% |
+| 15   | Ferroseed / Frillish / Mienfoo    |    6 |  10.00% |  50.00% |
+| 15   | Drilbur / Gastly / Mienfoo        |    6 |  10.00% |  33.33% |
+| 15   | Hippopotas / Frillish / Mienfoo   |    6 |  10.00% |  33.33% |
+| 15   | Gastly / Chinchou / Mienfoo       |    6 |  10.00% |  33.33% |
+| 15   | Abra / Gastly / Chinchou          |    6 |  10.00% |  33.33% |
+| 15   | Abra / Drilbur / Mienfoo          |    6 |  10.00% |  33.33% |
+| 15   | Abra / Drilbur / Gastly           |    6 |  10.00% |  16.67% |
+| 29   | Abra / Ferroseed / Diglett        |    5 |   8.33% | 100.00% |
+| 29   | Ferroseed / Diglett / Mienfoo     |    5 |   8.33% | 100.00% |
+| 29   | Ferroseed / Diglett / Vullaby     |    5 |   8.33% | 100.00% |
+| 29   | Ferroseed / Gastly / Omanyte      |    5 |   8.33% |  60.00% |
+| 29   | Ferroseed / Omanyte / Mienfoo     |    5 |   8.33% |  60.00% |
+| 29   | Omanyte / Vullaby / Mienfoo       |    5 |   8.33% |  60.00% |
+| 29   | Gastly / Porygon / Omanyte        |    5 |   8.33% |  60.00% |
+| 29   | Staryu / Vullaby / Mienfoo        |    5 |   8.33% |  60.00% |
+| 29   | Hippopotas / Frillish / Lileep    |    5 |   8.33% |  60.00% |
+| 29   | Abra / Omanyte / Mienfoo          |    5 |   8.33% |  60.00% |
+| 29   | Gastly / Porygon / Mienfoo        |    5 |   8.33% |  40.00% |
+| 29   | Drilbur / Vullaby / Mienfoo       |    5 |   8.33% |  40.00% |
+| 29   | Drilbur / Gastly / Vullaby        |    5 |   8.33% |  40.00% |
+| 29   | Pawniard / Gastly / Mienfoo       |    5 |   8.33% |  40.00% |
+| 29   | Ferroseed / Hippopotas / Frillish |    5 |   8.33% |  40.00% |
+| 29   | Ferroseed / Hippopotas / Mienfoo  |    5 |   8.33% |  40.00% |
+| 29   | Ferroseed / Hippopotas / Carvanha |    5 |   8.33% |  40.00% |
+| 29   | Hippopotas / Frillish / Carvanha  |    5 |   8.33% |  40.00% |
+| 29   | Hippopotas / Carvanha / Mienfoo   |    5 |   8.33% |  40.00% |
+| 29   | Ferroseed / Frillish / Carvanha   |    5 |   8.33% |  40.00% |
+| 29   | Ferroseed / Carvanha / Mienfoo    |    5 |   8.33% |  40.00% |
+| 29   | Frillish / Carvanha / Mienfoo     |    5 |   8.33% |  40.00% |
+| 29   | Gastly / Staryu / Vullaby         |    5 |   8.33% |  40.00% |
+| 29   | Gastly / Staryu / Mienfoo         |    5 |   8.33% |  40.00% |
+| 29   | Hippopotas / Gastly / Lileep      |    5 |   8.33% |  40.00% |
+| 29   | Abra / Gastly / Omanyte           |    5 |   8.33% |  40.00% |
+| 29   | Hippopotas / Gastly / Mienfoo     |    5 |   8.33% |  20.00% |
+| 29   | Bronzor / Gastly / Mienfoo        |    5 |   8.33% |  20.00% |
+| 29   | Bronzor / Diglett / Mienfoo       |    5 |   8.33% |  20.00% |
+| 58   | Abra / Diglett / Vullaby          |    4 |   6.67% | 100.00% |
+| 58   | Pawniard / Timburr / Gastly       |    4 |   6.67% |  75.00% |
+| 58   | Timburr / Gastly / Ferroseed      |    4 |   6.67% |  75.00% |
+| 58   | Pawniard / Gastly / Vullaby       |    4 |   6.67% |  75.00% |
+| 58   | Pawniard / Ferroseed / Gastly     |    4 |   6.67% |  75.00% |
+| 58   | Diglett / Gastly / Omanyte        |    4 |   6.67% |  75.00% |
+| 58   | Timburr / Diglett / Gastly        |    4 |   6.67% |  75.00% |
+| 58   | Frillish / Vullaby / Mienfoo      |    4 |   6.67% |  75.00% |
+| 58   | Drilbur / Ferroseed / Mienfoo     |    4 |   6.67% |  50.00% |
+| 58   | Drilbur / Omanyte / Mienfoo       |    4 |   6.67% |  50.00% |
+| 58   | Drilbur / Gastly / Omanyte        |    4 |   6.67% |  50.00% |
+| 58   | Timburr / Gastly / Omanyte        |    4 |   6.67% |  50.00% |
+| 58   | Omanyte / Porygon / Mienfoo       |    4 |   6.67% |  50.00% |
+| 58   | Abra / Omanyte / Vullaby          |    4 |   6.67% |  50.00% |
+| 58   | Hippopotas / Vullaby / Mienfoo    |    4 |   6.67% |  50.00% |
+| 58   | Pawniard / Gastly / Chinchou      |    4 |   6.67% |  50.00% |
+| 58   | Vullaby / Chinchou / Staryu       |    4 |   6.67% |  25.00% |
+| 58   | Timburr / Gastly / Mienfoo        |    4 |   6.67% |  25.00% |
+| 58   | Diglett / Staryu / Mienfoo        |    4 |   6.67% |  25.00% |
+| 58   | Diglett / Gastly / Chinchou       |    4 |   6.67% |  25.00% |
+| 58   | Abra / Chinchou / Mienfoo         |    4 |   6.67% |  25.00% |
+| 58   | Abra / Drilbur / Vullaby          |    4 |   6.67% |  25.00% |
+| 80   | Timburr / Gastly / Vullaby        |    3 |   5.00% | 100.00% |
+| 80   | Timburr / Diglett / Vullaby       |    3 |   5.00% | 100.00% |
+| 80   | Timburr / Vullaby / Ferroseed     |    3 |   5.00% |  66.67% |
+| 80   | Drilbur / Omanyte / Vullaby       |    3 |   5.00% |  66.67% |
+| 80   | Pawniard / Vullaby / Mienfoo      |    3 |   5.00% |  66.67% |
+| 80   | Diglett / Omanyte / Vullaby       |    3 |   5.00% |  66.67% |
+| 80   | Timburr / Gastly / Porygon        |    3 |   5.00% |  66.67% |
+| 80   | Ferroseed / Chinchou / Mienfoo    |    3 |   5.00% |  66.67% |
+| 80   | Hippopotas / Gastly / Archen      |    3 |   5.00% |  66.67% |
+| 80   | Pawniard / Hippopotas / Gastly    |    3 |   5.00% |  66.67% |
+| 80   | Hippopotas / Archen / Lileep      |    3 |   5.00% |  66.67% |
+| 80   | Pawniard / Hippopotas / Lileep    |    3 |   5.00% |  66.67% |
+| 80   | Pawniard / Hippopotas / Archen    |    3 |   5.00% |  66.67% |
+| 80   | Gastly / Lileep / Archen          |    3 |   5.00% |  66.67% |
+| 80   | Pawniard / Gastly / Lileep        |    3 |   5.00% |  66.67% |
+| 80   | Pawniard / Gastly / Archen        |    3 |   5.00% |  66.67% |
+| 80   | Pawniard / Archen / Lileep        |    3 |   5.00% |  66.67% |
+| 80   | Abra / Chinchou / Vullaby         |    3 |   5.00% |  66.67% |
+| 80   | Hippopotas / Bronzor / Frillish   |    3 |   5.00% |  66.67% |
+| 80   | Bronzor / Frillish / Lileep       |    3 |   5.00% |  66.67% |
+| 80   | Hippopotas / Bronzor / Lileep     |    3 |   5.00% |  66.67% |
+| 80   | Abra / Ferroseed / Chinchou       |    3 |   5.00% |  66.67% |
+| 80   | Diglett / Omanyte / Mienfoo       |    3 |   5.00% |  66.67% |
+| 80   | Timburr / Gastly / Chinchou       |    3 |   5.00% |  66.67% |
+| 80   | Hippopotas / Porygon / Mienfoo    |    3 |   5.00% |  33.33% |
+| 80   | Hippopotas / Gastly / Porygon     |    3 |   5.00% |  33.33% |
+| 80   | Ferroseed / Vullaby / Staryu      |    3 |   5.00% |  33.33% |
+| 80   | Ferroseed / Chinchou / Staryu     |    3 |   5.00% |  33.33% |
+| 80   | Timburr / Chinchou / Vullaby      |    3 |   5.00% |  33.33% |
+| 80   | Drilbur / Ferroseed / Gastly      |    3 |   5.00% |  33.33% |
+| 80   | Hippopotas / Bronzor / Mienfoo    |    3 |   5.00% |  33.33% |
+| 80   | Pawniard / Vullaby / Staryu       |    3 |   5.00% |  33.33% |
+| 80   | Pawniard / Timburr / Chinchou     |    3 |   5.00% |  33.33% |
+| 80   | Tentacool / Hippopotas / Gastly   |    3 |   5.00% |  33.33% |
+| 80   | Tentacool / Hippopotas / Lileep   |    3 |   5.00% |  33.33% |
+| 80   | Tentacool / Gastly / Lileep       |    3 |   5.00% |  33.33% |
+| 80   | Diglett / Frillish / Mienfoo      |    3 |   5.00% |  33.33% |
+| 80   | Abra / Drilbur / Omanyte          |    3 |   5.00% |  33.33% |
+| 80   | Abra / Ferroseed / Drilbur        |    3 |   5.00% |  33.33% |
+| 80   | Abra / Drilbur / Frillish         |    3 |   5.00% |  33.33% |
+| 80   | Ferroseed / Hippopotas / Drifloon |    3 |   5.00% |   0.00% |
+| 80   | Hippopotas / Frillish / Drifloon  |    3 |   5.00% |   0.00% |
+| 80   | Drifloon / Hippopotas / Mienfoo   |    3 |   5.00% |   0.00% |
+| 80   | Hippopotas / Carvanha / Drifloon  |    3 |   5.00% |   0.00% |
+| 80   | Ferroseed / Frillish / Drifloon   |    3 |   5.00% |   0.00% |
+| 80   | Drifloon / Ferroseed / Mienfoo    |    3 |   5.00% |   0.00% |
+| 80   | Ferroseed / Carvanha / Drifloon   |    3 |   5.00% |   0.00% |
+| 80   | Drifloon / Frillish / Mienfoo     |    3 |   5.00% |   0.00% |
+| 80   | Frillish / Carvanha / Drifloon    |    3 |   5.00% |   0.00% |
+| 80   | Drifloon / Carvanha / Mienfoo     |    3 |   5.00% |   0.00% |
+| 80   | Bronzor / Gastly / Diglett        |    3 |   5.00% |   0.00% |
+| 80   | Abra / Bronzor / Gastly           |    3 |   5.00% |   0.00% |
+| 80   | Abra / Bronzor / Diglett          |    3 |   5.00% |   0.00% |
+| 80   | Abra / Bronzor / Mienfoo          |    3 |   5.00% |   0.00% |
+| 80   | Diglett / Chinchou / Mienfoo      |    3 |   5.00% |   0.00% |
+| 80   | Hippopotas / Lileep / Mienfoo     |    3 |   5.00% |   0.00% |
+| 136  | Ferroseed / Omanyte / Vullaby     |    2 |   3.33% | 100.00% |
+| 136  | Pawniard / Timburr / Ferroseed    |    2 |   3.33% | 100.00% |
+| 136  | Pawniard / Ferroseed / Vullaby    |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Diglett / Omanyte       |    2 |   3.33% | 100.00% |
+| 136  | Diglett / Porygon / Omanyte       |    2 |   3.33% | 100.00% |
+| 136  | Diglett / Gastly / Porygon        |    2 |   3.33% | 100.00% |
+| 136  | Chinchou / Vullaby / Mienfoo      |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Hippopotas / Frillish   |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Frillish / Lileep       |    2 |   3.33% | 100.00% |
+| 136  | Natu / Timburr / Frillish         |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Bronzor / Frillish      |    2 |   3.33% | 100.00% |
+| 136  | Natu / Hippopotas / Frillish      |    2 |   3.33% | 100.00% |
+| 136  | Natu / Frillish / Lileep          |    2 |   3.33% | 100.00% |
+| 136  | Natu / Bronzor / Frillish         |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Hippopotas / Lileep     |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Hippopotas / Natu       |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Hippopotas / Bronzor    |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Natu / Lileep           |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Bronzor / Lileep        |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Bronzor / Natu          |    2 |   3.33% | 100.00% |
+| 136  | Hippopotas / Natu / Lileep        |    2 |   3.33% | 100.00% |
+| 136  | Hippopotas / Bronzor / Natu       |    2 |   3.33% | 100.00% |
+| 136  | Bronzor / Natu / Lileep           |    2 |   3.33% | 100.00% |
+| 136  | Carvanha / Vullaby / Mienfoo      |    2 |   3.33% | 100.00% |
+| 136  | Hippopotas / Frillish / Vullaby   |    2 |   3.33% | 100.00% |
+| 136  | Ferroseed / Frillish / Vullaby    |    2 |   3.33% | 100.00% |
+| 136  | Carvanha / Frillish / Vullaby     |    2 |   3.33% | 100.00% |
+| 136  | Ferroseed / Hippopotas / Vullaby  |    2 |   3.33% | 100.00% |
+| 136  | Carvanha / Hippopotas / Vullaby   |    2 |   3.33% | 100.00% |
+| 136  | Ferroseed / Carvanha / Vullaby    |    2 |   3.33% | 100.00% |
+| 136  | Ferroseed / Diglett / Omanyte     |    2 |   3.33% | 100.00% |
+| 136  | Timburr / Diglett / Ferroseed     |    2 |   3.33% | 100.00% |
+| 136  | Abra / Porygon / Mienfoo          |    2 |   3.33% | 100.00% |
+| 136  | Drilbur / Ferroseed / Frillish    |    2 |   3.33% | 100.00% |
+| 136  | Abra / Diglett / Omanyte          |    2 |   3.33% | 100.00% |
+| 136  | Natu / Gastly / Porygon           |    2 |   3.33% |  50.00% |
+| 136  | Gastly / Natu / Mienfoo           |    2 |   3.33% |  50.00% |
+| 136  | Timburr / Chinchou / Ferroseed    |    2 |   3.33% |  50.00% |
+| 136  | Drilbur / Ferroseed / Omanyte     |    2 |   3.33% |  50.00% |
+| 136  | Drilbur / Ferroseed / Vullaby     |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Timburr / Mienfoo      |    2 |   3.33% |  50.00% |
+| 136  | Timburr / Ferroseed / Mienfoo     |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Ferroseed / Mienfoo    |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Timburr / Vullaby      |    2 |   3.33% |  50.00% |
+| 136  | Timburr / Porygon / Omanyte       |    2 |   3.33% |  50.00% |
+| 136  | Gastly / Chinchou / Staryu        |    2 |   3.33% |  50.00% |
+| 136  | Ferroseed / Gastly / Staryu       |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Porygon / Mienfoo       |    2 |   3.33% |  50.00% |
+| 136  | Hippopotas / Omanyte / Mienfoo    |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Omanyte / Mienfoo       |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Gastly / Porygon        |    2 |   3.33% |  50.00% |
+| 136  | Hippopotas / Gastly / Omanyte     |    2 |   3.33% |  50.00% |
+| 136  | Hippopotas / Gastly / Bronzor     |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Gastly / Omanyte        |    2 |   3.33% |  50.00% |
+| 136  | Omanyte / Hippopotas / Porygon    |    2 |   3.33% |  50.00% |
+| 136  | Hippopotas / Bronzor / Porygon    |    2 |   3.33% |  50.00% |
+| 136  | Omanyte / Bronzor / Porygon       |    2 |   3.33% |  50.00% |
+| 136  | Hippopotas / Bronzor / Omanyte    |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Chinchou / Vullaby     |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Frillish / Mienfoo      |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Staryu / Mienfoo        |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Diglett / Frillish      |    2 |   3.33% |  50.00% |
+| 136  | Bronzor / Diglett / Staryu        |    2 |   3.33% |  50.00% |
+| 136  | Staryu / Diglett / Vullaby        |    2 |   3.33% |  50.00% |
+| 136  | Hippopotas / Archen / Frillish    |    2 |   3.33% |  50.00% |
+| 136  | Hippopotas / Gastly / Frillish    |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Hippopotas / Frillish  |    2 |   3.33% |  50.00% |
+| 136  | Archen / Frillish / Lileep        |    2 |   3.33% |  50.00% |
+| 136  | Gastly / Archen / Frillish        |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Archen / Frillish      |    2 |   3.33% |  50.00% |
+| 136  | Gastly / Frillish / Lileep        |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Frillish / Lileep      |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Gastly / Frillish      |    2 |   3.33% |  50.00% |
+| 136  | Diglett / Porygon / Mienfoo       |    2 |   3.33% |  50.00% |
+| 136  | Timburr / Omanyte / Ferroseed     |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Timburr / Diglett      |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Diglett / Gastly       |    2 |   3.33% |  50.00% |
+| 136  | Gastly / Staryu / Snover          |    2 |   3.33% |  50.00% |
+| 136  | Mienfoo / Gastly / Snover         |    2 |   3.33% |  50.00% |
+| 136  | Gastly / Vullaby / Snover         |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Gastly / Snover        |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Gastly / Staryu        |    2 |   3.33% |  50.00% |
+| 136  | Mienfoo / Staryu / Snover         |    2 |   3.33% |  50.00% |
+| 136  | Vullaby / Staryu / Snover         |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Staryu / Snover        |    2 |   3.33% |  50.00% |
+| 136  | Mienfoo / Vullaby / Snover        |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Mienfoo / Snover       |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Vullaby / Snover       |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Staryu / Mienfoo       |    2 |   3.33% |  50.00% |
+| 136  | Abra / Frillish / Porygon         |    2 |   3.33% |  50.00% |
+| 136  | Drilbur / Frillish / Porygon      |    2 |   3.33% |  50.00% |
+| 136  | Abra / Drilbur / Porygon          |    2 |   3.33% |  50.00% |
+| 136  | Abra / Frillish / Mienfoo         |    2 |   3.33% |  50.00% |
+| 136  | Drilbur / Frillish / Mienfoo      |    2 |   3.33% |  50.00% |
+| 136  | Abra / Pawniard / Gastly          |    2 |   3.33% |  50.00% |
+| 136  | Abra / Ferroseed / Pawniard       |    2 |   3.33% |  50.00% |
+| 136  | Abra / Pawniard / Chinchou        |    2 |   3.33% |  50.00% |
+| 136  | Pawniard / Ferroseed / Chinchou   |    2 |   3.33% |  50.00% |
+| 136  | Abra / Gastly / Porygon           |    2 |   3.33% |  50.00% |
+| 136  | Magnemite / Mienfoo / Snover      |    2 |   3.33% |  50.00% |
+| 136  | Abra / Ferroseed / Omanyte        |    2 |   3.33% |  50.00% |
+| 136  | Timburr / Diglett / Chinchou      |    2 |   3.33% |  50.00% |
+| 136  | Natu / Porygon / Mienfoo          |    2 |   3.33% |   0.00% |
+| 136  | Porygon / Clamperl / Mienfoo      |    2 |   3.33% |   0.00% |
+| 136  | Natu / Porygon / Clamperl         |    2 |   3.33% |   0.00% |
+| 136  | Natu / Clamperl / Mienfoo         |    2 |   3.33% |   0.00% |
+| 136  | Vullaby / Staryu / Drifloon       |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Staryu / Drifloon       |    2 |   3.33% |   0.00% |
+| 136  | Chinchou / Staryu / Drifloon      |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Vullaby / Drifloon      |    2 |   3.33% |   0.00% |
+| 136  | Chinchou / Vullaby / Drifloon     |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Chinchou / Drifloon     |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Vullaby / Staryu        |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Chinchou / Staryu       |    2 |   3.33% |   0.00% |
+| 136  | Bronzor / Gastly / Chinchou       |    2 |   3.33% |   0.00% |
+| 136  | Bronzor / Diglett / Chinchou      |    2 |   3.33% |   0.00% |
+| 136  | Bronzor / Chinchou / Mienfoo      |    2 |   3.33% |   0.00% |
+| 136  | Abra / Bronzor / Chinchou         |    2 |   3.33% |   0.00% |
+| 136  | Abra / Diglett / Chinchou         |    2 |   3.33% |   0.00% |
+| 136  | Natu / Diglett / Porygon          |    2 |   3.33% |   0.00% |
+| 136  | Gastly / Lileep / Mienfoo         |    2 |   3.33% |   0.00% |
+| 136  | Tentacool / Gastly / Mienfoo      |    2 |   3.33% |   0.00% |
+| 136  | Lileep / Vullaby / Mienfoo        |    2 |   3.33% |   0.00% |
+| 136  | Tentacool / Vullaby / Mienfoo     |    2 |   3.33% |   0.00% |
+| 136  | Tentacool / Hippopotas / Mienfoo  |    2 |   3.33% |   0.00% |
+| 136  | Tentacool / Lileep / Mienfoo      |    2 |   3.33% |   0.00% |
+| 136  | Hippopotas / Gastly / Vullaby     |    2 |   3.33% |   0.00% |
+| 136  | Lileep / Gastly / Vullaby         |    2 |   3.33% |   0.00% |
+| 136  | Tentacool / Gastly / Vullaby      |    2 |   3.33% |   0.00% |
+| 136  | Lileep / Hippopotas / Vullaby     |    2 |   3.33% |   0.00% |
+| 136  | Tentacool / Hippopotas / Vullaby  |    2 |   3.33% |   0.00% |
+| 136  | Tentacool / Lileep / Vullaby      |    2 |   3.33% |   0.00% |
+| 136  | Gastly / Stunky / Mienfoo         |    2 |   3.33% |   0.00% |
+| 136  | Stunky / Omanyte / Mienfoo        |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Stunky / Mienfoo        |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Omanyte / Mienfoo       |    2 |   3.33% |   0.00% |
+| 136  | Gastly / Stunky / Omanyte         |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Gastly / Stunky         |    2 |   3.33% |   0.00% |
+| 136  | Timburr / Stunky / Omanyte        |    2 |   3.33% |   0.00% |
+| 136  | Diglett / Gastly / Staryu         |    2 |   3.33% |   0.00% |
+| 136  | Pawniard / Chinchou / Mienfoo     |    2 |   3.33% |   0.00% |
+| 136  | Diglett / Frillish / Snover       |    2 |   3.33% |   0.00% |
+| 136  | Abra / Gastly / Frillish          |    2 |   3.33% |   0.00% |
+| 136  | Drilbur / Gastly / Frillish       |    2 |   3.33% |   0.00% |
+| 280  | Natu / Gastly / Omanyte           |    1 |   1.67% | 100.00% |
+| 280  | Gastly / Omanyte / Archen         |    1 |   1.67% | 100.00% |
+| 280  | Archen / Gastly / Mienfoo         |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Gastly / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Gastly / Archen       |    1 |   1.67% | 100.00% |
+| 280  | Gastly / Natu / Archen            |    1 |   1.67% | 100.00% |
+| 280  | Natu / Omanyte / Mienfoo          |    1 |   1.67% | 100.00% |
+| 280  | Archen / Omanyte / Mienfoo        |    1 |   1.67% | 100.00% |
+| 280  | Natu / Ferroseed / Omanyte        |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Archen / Omanyte      |    1 |   1.67% | 100.00% |
+| 280  | Natu / Archen / Omanyte           |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Natu / Mienfoo        |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Archen / Mienfoo      |    1 |   1.67% | 100.00% |
+| 280  | Archen / Natu / Mienfoo           |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Archen / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Omanyte / Vullaby       |    1 |   1.67% | 100.00% |
+| 280  | Porygon / Omanyte / Vullaby       |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Porygon / Vullaby       |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Diglett / Porygon       |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Porygon / Vullaby       |    1 |   1.67% | 100.00% |
+| 280  | Gastly / Porygon / Vullaby        |    1 |   1.67% | 100.00% |
+| 280  | Chinchou / Staryu / Mienfoo       |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Staryu / Mienfoo      |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Hippopotas / Archen   |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Hippopotas / Pawniard |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Gastly / Archen       |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Pawniard / Gastly     |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Archen / Lileep       |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Pawniard / Lileep     |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Pawniard / Archen     |    1 |   1.67% | 100.00% |
+| 280  | Bronzor / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 280  | Bronzor / Frillish / Vullaby      |    1 |   1.67% | 100.00% |
+| 280  | Bronzor / Frillish / Staryu       |    1 |   1.67% | 100.00% |
+| 280  | Bronzor / Diglett / Vullaby       |    1 |   1.67% | 100.00% |
+| 280  | Staryu / Bronzor / Vullaby        |    1 |   1.67% | 100.00% |
+| 280  | Frillish / Staryu / Mienfoo       |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Frillish / Vullaby      |    1 |   1.67% | 100.00% |
+| 280  | Staryu / Frillish / Vullaby       |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Frillish / Staryu       |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Timburr / Omanyte      |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Gastly / Omanyte       |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Ferroseed / Omanyte    |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Diglett / Omanyte      |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Ferroseed / Diglett    |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Vullaby / Magnemite     |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Diglett / Magnemite     |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Natu / Magnemite        |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Shellder / Magnemite    |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Natu / Vullaby          |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Shellder / Vullaby      |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Diglett / Natu          |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Diglett / Shellder      |    1 |   1.67% | 100.00% |
+| 280  | Shellder / Diglett / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Vullaby / Magnemite     |    1 |   1.67% | 100.00% |
+| 280  | Natu / Vullaby / Magnemite        |    1 |   1.67% | 100.00% |
+| 280  | Shellder / Vullaby / Magnemite    |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Natu / Magnemite        |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Shellder / Magnemite    |    1 |   1.67% | 100.00% |
+| 280  | Shellder / Natu / Magnemite       |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Natu / Vullaby          |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Shellder / Vullaby      |    1 |   1.67% | 100.00% |
+| 280  | Shellder / Natu / Vullaby         |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Shellder / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Frillish / Porygon    |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Porygon / Mienfoo     |    1 |   1.67% | 100.00% |
+| 280  | Abra / Ferroseed / Porygon        |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Ferroseed / Porygon     |    1 |   1.67% | 100.00% |
+| 280  | Frillish / Porygon / Mienfoo      |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Porygon / Mienfoo       |    1 |   1.67% | 100.00% |
+| 280  | Abra / Ferroseed / Frillish       |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Ponyta / Frillish     |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Ferroseed / Ponyta      |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Ponyta / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Ferroseed / Ponyta     |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Ponyta / Frillish       |    1 |   1.67% | 100.00% |
+| 280  | Natu / Ponyta / Frillish          |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Ponyta / Frillish      |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Ponyta / Natu           |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Pawniard / Ponyta       |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Ponyta / Natu          |    1 |   1.67% | 100.00% |
+| 280  | Natu / Ferroseed / Frillish       |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Ferroseed / Frillish   |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Ferroseed / Natu        |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Ferroseed / Pawniard    |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Ferroseed / Natu       |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Natu / Frillish         |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Pawniard / Frillish     |    1 |   1.67% | 100.00% |
+| 280  | Natu / Pawniard / Frillish        |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Pawniard / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Abra / Diglett / Porygon          |    1 |   1.67% | 100.00% |
+| 280  | Omanyte / Abra / Porygon          |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Chinchou / Vullaby      |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Diglett / Chinchou    |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Elekid / Mienfoo      |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Diglett / Elekid      |    1 |   1.67% | 100.00% |
+| 280  | Ferroseed / Gastly / Elekid       |    1 |   1.67% | 100.00% |
+| 280  | Abra / Ferroseed / Elekid         |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Elekid / Mienfoo        |    1 |   1.67% | 100.00% |
+| 280  | Gastly / Elekid / Mienfoo         |    1 |   1.67% | 100.00% |
+| 280  | Abra / Elekid / Mienfoo           |    1 |   1.67% | 100.00% |
+| 280  | Diglett / Gastly / Elekid         |    1 |   1.67% | 100.00% |
+| 280  | Abra / Diglett / Elekid           |    1 |   1.67% | 100.00% |
+| 280  | Abra / Gastly / Elekid            |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Timburr / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Timburr / Porygon      |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Chinchou / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Porygon / Natu          |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Gastly / Natu           |    1 |   1.67% | 100.00% |
+| 280  | Timburr / Chinchou / Porygon      |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Chinchou / Natu        |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Porygon / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Gastly / Natu          |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Chinchou / Porygon     |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Gastly / Porygon       |    1 |   1.67% | 100.00% |
+| 280  | Porygon / Chinchou / Natu         |    1 |   1.67% | 100.00% |
+| 280  | Gastly / Chinchou / Natu          |    1 |   1.67% | 100.00% |
+| 280  | Gastly / Chinchou / Porygon       |    1 |   1.67% | 100.00% |
+| 280  | Pawniard / Abra / Vullaby         |    1 |   1.67% | 100.00% |
+| 280  | Magnemite / Mienfoo / Drifloon    |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Mienfoo / Drifloon      |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Mienfoo / Drifloon    |    1 |   1.67% | 100.00% |
+| 280  | Mienfoo / Snover / Drifloon       |    1 |   1.67% | 100.00% |
+| 280  | Magnemite / Drilbur / Drifloon    |    1 |   1.67% | 100.00% |
+| 280  | Magnemite / Tentacool / Drifloon  |    1 |   1.67% | 100.00% |
+| 280  | Magnemite / Snover / Drifloon     |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Tentacool / Drifloon    |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Snover / Drifloon       |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Snover / Drifloon     |    1 |   1.67% | 100.00% |
+| 280  | Magnemite / Drilbur / Mienfoo     |    1 |   1.67% | 100.00% |
+| 280  | Magnemite / Tentacool / Mienfoo   |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Tentacool / Mienfoo     |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Snover / Mienfoo        |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Snover / Mienfoo      |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Tentacool / Magnemite   |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Snover / Magnemite      |    1 |   1.67% | 100.00% |
+| 280  | Tentacool / Snover / Magnemite    |    1 |   1.67% | 100.00% |
+| 280  | Drilbur / Tentacool / Snover      |    1 |   1.67% | 100.00% |
+| 280  | Gastly / Porygon / Clamperl       |    1 |   1.67% |   0.00% |
+| 280  | Natu / Hippopotas / Porygon       |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Porygon / Clamperl   |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Clamperl / Mienfoo       |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Natu / Mienfoo       |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Clamperl / Mienfoo   |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Gastly / Natu        |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Gastly / Clamperl    |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Natu / Clamperl          |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Natu / Clamperl      |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Staryu / Drifloon     |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Vullaby / Drifloon    |    1 |   1.67% |   0.00% |
+| 280  | Timburr / Ferroseed / Drifloon    |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Chinchou / Drifloon   |    1 |   1.67% |   0.00% |
+| 280  | Timburr / Staryu / Ferroseed      |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Larvesta / Staryu        |    1 |   1.67% |   0.00% |
+| 280  | Chinchou / Larvesta / Staryu      |    1 |   1.67% |   0.00% |
+| 280  | Vullaby / Larvesta / Staryu       |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Larvesta / Staryu     |    1 |   1.67% |   0.00% |
+| 280  | Chinchou / Gastly / Larvesta      |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Larvesta / Vullaby       |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Gastly / Larvesta     |    1 |   1.67% |   0.00% |
+| 280  | Chinchou / Larvesta / Vullaby     |    1 |   1.67% |   0.00% |
+| 280  | Chinchou / Larvesta / Ferroseed   |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Larvesta / Vullaby    |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Staryu / Drifloon      |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Vullaby / Drifloon     |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Timburr / Drifloon     |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Chinchou / Drifloon    |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Timburr / Staryu       |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Chinchou / Staryu      |    1 |   1.67% |   0.00% |
+| 280  | Abra / Riolu / Omanyte            |    1 |   1.67% |   0.00% |
+| 280  | Riolu / Gastly / Omanyte          |    1 |   1.67% |   0.00% |
+| 280  | Riolu / Omanyte / Vullaby         |    1 |   1.67% |   0.00% |
+| 280  | Riolu / Chinchou / Omanyte        |    1 |   1.67% |   0.00% |
+| 280  | Abra / Riolu / Gastly             |    1 |   1.67% |   0.00% |
+| 280  | Abra / Riolu / Vullaby            |    1 |   1.67% |   0.00% |
+| 280  | Abra / Riolu / Chinchou           |    1 |   1.67% |   0.00% |
+| 280  | Riolu / Gastly / Vullaby          |    1 |   1.67% |   0.00% |
+| 280  | Riolu / Gastly / Chinchou         |    1 |   1.67% |   0.00% |
+| 280  | Riolu / Chinchou / Vullaby        |    1 |   1.67% |   0.00% |
+| 280  | Abra / Chinchou / Omanyte         |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Chinchou / Omanyte       |    1 |   1.67% |   0.00% |
+| 280  | Chinchou / Omanyte / Vullaby      |    1 |   1.67% |   0.00% |
+| 280  | Mienfoo / Staryu / Clamperl       |    1 |   1.67% |   0.00% |
+| 280  | Porygon / Staryu / Clamperl       |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Staryu / Clamperl       |    1 |   1.67% |   0.00% |
+| 280  | Natu / Staryu / Clamperl          |    1 |   1.67% |   0.00% |
+| 280  | Porygon / Staryu / Mienfoo        |    1 |   1.67% |   0.00% |
+| 280  | Natu / Staryu / Mienfoo           |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Porygon / Staryu        |    1 |   1.67% |   0.00% |
+| 280  | Natu / Porygon / Staryu           |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Natu / Staryu           |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Clamperl / Mienfoo      |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Porygon / Clamperl      |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Natu / Clamperl         |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Natu / Mienfoo          |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Stunky / Mienfoo      |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Gastly / Stunky       |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Stunky / Omanyte      |    1 |   1.67% |   0.00% |
+| 280  | Ferroseed / Stunky / Timburr      |    1 |   1.67% |   0.00% |
+| 280  | Abra / Gastly / Staryu            |    1 |   1.67% |   0.00% |
+| 280  | Bronzor / Gastly / Staryu         |    1 |   1.67% |   0.00% |
+| 280  | Abra / Staryu / Mienfoo           |    1 |   1.67% |   0.00% |
+| 280  | Abra / Diglett / Staryu           |    1 |   1.67% |   0.00% |
+| 280  | Abra / Bronzor / Staryu           |    1 |   1.67% |   0.00% |
+| 280  | Stunky / Porygon / Omanyte        |    1 |   1.67% |   0.00% |
+| 280  | Timburr / Stunky / Porygon        |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Stunky / Porygon         |    1 |   1.67% |   0.00% |
+| 280  | Stunky / Porygon / Mienfoo        |    1 |   1.67% |   0.00% |
+| 280  | Timburr / Porygon / Mienfoo       |    1 |   1.67% |   0.00% |
+| 280  | Abra / Pawniard / Mienfoo         |    1 |   1.67% |   0.00% |
+| 280  | Magnemite / Archen / Snover       |    1 |   1.67% |   0.00% |
+| 280  | Magnemite / Frillish / Snover     |    1 |   1.67% |   0.00% |
+| 280  | Magnemite / Diglett / Snover      |    1 |   1.67% |   0.00% |
+| 280  | Mienfoo / Archen / Snover         |    1 |   1.67% |   0.00% |
+| 280  | Archen / Frillish / Snover        |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Archen / Snover         |    1 |   1.67% |   0.00% |
+| 280  | Mienfoo / Frillish / Snover       |    1 |   1.67% |   0.00% |
+| 280  | Mienfoo / Diglett / Snover        |    1 |   1.67% |   0.00% |
+| 280  | Mienfoo / Archen / Magnemite      |    1 |   1.67% |   0.00% |
+| 280  | Archen / Frillish / Magnemite     |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Archen / Magnemite      |    1 |   1.67% |   0.00% |
+| 280  | Mienfoo / Frillish / Magnemite    |    1 |   1.67% |   0.00% |
+| 280  | Mienfoo / Diglett / Magnemite     |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Frillish / Magnemite    |    1 |   1.67% |   0.00% |
+| 280  | Archen / Frillish / Mienfoo       |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Archen / Mienfoo        |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Archen / Frillish       |    1 |   1.67% |   0.00% |
+| 280  | Abra / Skorupi / Gastly           |    1 |   1.67% |   0.00% |
+| 280  | Abra / Skorupi / Frillish         |    1 |   1.67% |   0.00% |
+| 280  | Abra / Skorupi / Porygon          |    1 |   1.67% |   0.00% |
+| 280  | Abra / Drilbur / Skorupi          |    1 |   1.67% |   0.00% |
+| 280  | Skorupi / Gastly / Frillish       |    1 |   1.67% |   0.00% |
+| 280  | Skorupi / Gastly / Porygon        |    1 |   1.67% |   0.00% |
+| 280  | Drilbur / Skorupi / Gastly        |    1 |   1.67% |   0.00% |
+| 280  | Skorupi / Porygon / Frillish      |    1 |   1.67% |   0.00% |
+| 280  | Drilbur / Skorupi / Frillish      |    1 |   1.67% |   0.00% |
+| 280  | Drilbur / Skorupi / Porygon       |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Porygon / Frillish       |    1 |   1.67% |   0.00% |
+| 280  | Drilbur / Gastly / Porygon        |    1 |   1.67% |   0.00% |
+| 280  | Natu / Diglett / Frillish         |    1 |   1.67% |   0.00% |
+| 280  | Natu / Frillish / Snover          |    1 |   1.67% |   0.00% |
+| 280  | Natu / Porygon / Frillish         |    1 |   1.67% |   0.00% |
+| 280  | Natu / Smoochum / Frillish        |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Porygon / Frillish      |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Diglett / Frillish     |    1 |   1.67% |   0.00% |
+| 280  | Porygon / Frillish / Snover       |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Frillish / Snover      |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Porygon / Frillish     |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Natu / Snover           |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Diglett / Natu         |    1 |   1.67% |   0.00% |
+| 280  | Porygon / Natu / Snover           |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Natu / Snover          |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Porygon / Natu         |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Porygon / Snover        |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Diglett / Snover       |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Diglett / Porygon      |    1 |   1.67% |   0.00% |
+| 280  | Smoochum / Porygon / Snover       |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Omanyte / Staryu        |    1 |   1.67% |   0.00% |
+| 280  | Vullaby / Omanyte / Staryu        |    1 |   1.67% |   0.00% |
+| 280  | Omanyte / Staryu / Mienfoo        |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Omanyte / Staryu         |    1 |   1.67% |   0.00% |
+| 280  | Timburr / Chinchou / Mienfoo      |    1 |   1.67% |   0.00% |
+| 280  | Timburr / Diglett / Mienfoo       |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Diglett / Mienfoo      |    1 |   1.67% |   0.00% |
+| 280  | Pawniard / Diglett / Chinchou     |    1 |   1.67% |   0.00% |
+| 280  | Frillish / Lileep / Mienfoo       |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Lileep / Mienfoo        |    1 |   1.67% |   0.00% |
+| 280  | Bronzor / Lileep / Mienfoo        |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Diglett / Mienfoo    |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Frillish / Lileep       |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Diglett / Frillish   |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Diglett / Lileep     |    1 |   1.67% |   0.00% |
+| 280  | Diglett / Bronzor / Lileep        |    1 |   1.67% |   0.00% |
+| 280  | Hippopotas / Diglett / Bronzor    |    1 |   1.67% |   0.00% |
+| 280  | Drilbur / Frillish / Vullaby      |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Frillish / Mienfoo       |    1 |   1.67% |   0.00% |
+| 280  | Gastly / Frillish / Vullaby       |    1 |   1.67% |   0.00% |
+| 280  | Abra / Frillish / Vullaby         |    1 |   1.67% |   0.00% |
+
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                  | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| 1    | Ferroseed / Gastly / Vullaby / Mienfoo       |    8 |  13.33% |  87.50% |
+| 1    | Abra / Diglett / Gastly / Mienfoo            |    8 |  13.33% |  62.50% |
+| 1    | Abra / Gastly / Vullaby / Mienfoo            |    8 |  13.33% |  62.50% |
+| 1    | Abra / Ferroseed / Gastly / Mienfoo          |    8 |  13.33% |  62.50% |
+| 5    | Abra / Ferroseed / Vullaby / Mienfoo         |    6 |  10.00% |  83.33% |
+| 5    | Abra / Ferroseed / Gastly / Vullaby          |    6 |  10.00% |  83.33% |
+| 7    | Abra / Ferroseed / Diglett / Mienfoo         |    5 |   8.33% | 100.00% |
+| 7    | Ferroseed / Gastly / Chinchou / Vullaby      |    5 |   8.33% |  80.00% |
+| 7    | Drilbur / Gastly / Vullaby / Mienfoo         |    5 |   8.33% |  40.00% |
+| 7    | Ferroseed / Hippopotas / Frillish / Mienfoo  |    5 |   8.33% |  40.00% |
+| 7    | Ferroseed / Hippopotas / Frillish / Carvanha |    5 |   8.33% |  40.00% |
+| 7    | Ferroseed / Hippopotas / Carvanha / Mienfoo  |    5 |   8.33% |  40.00% |
+| 7    | Hippopotas / Frillish / Carvanha / Mienfoo   |    5 |   8.33% |  40.00% |
+| 7    | Ferroseed / Frillish / Carvanha / Mienfoo    |    5 |   8.33% |  40.00% |
+| 7    | Abra / Drilbur / Gastly / Mienfoo            |    5 |   8.33% |  20.00% |
+| 16   | Abra / Diglett / Vullaby / Mienfoo           |    4 |   6.67% | 100.00% |
+| 16   | Abra / Ferroseed / Diglett / Gastly          |    4 |   6.67% | 100.00% |
+| 16   | Abra / Ferroseed / Diglett / Vullaby         |    4 |   6.67% | 100.00% |
+| 16   | Ferroseed / Diglett / Gastly / Mienfoo       |    4 |   6.67% | 100.00% |
+| 16   | Ferroseed / Diglett / Vullaby / Mienfoo      |    4 |   6.67% | 100.00% |
+| 16   | Ferroseed / Diglett / Gastly / Vullaby       |    4 |   6.67% | 100.00% |
+| 16   | Diglett / Gastly / Vullaby / Mienfoo         |    4 |   6.67% |  75.00% |
+| 16   | Ferroseed / Gastly / Omanyte / Mienfoo       |    4 |   6.67% |  50.00% |
+| 16   | Drilbur / Gastly / Omanyte / Mienfoo         |    4 |   6.67% |  50.00% |
+| 16   | Gastly / Omanyte / Vullaby / Mienfoo         |    4 |   6.67% |  50.00% |
+| 16   | Omanyte / Gastly / Porygon / Mienfoo         |    4 |   6.67% |  50.00% |
+| 16   | Staryu / Gastly / Vullaby / Mienfoo          |    4 |   6.67% |  50.00% |
+| 16   | Abra / Gastly / Omanyte / Mienfoo            |    4 |   6.67% |  50.00% |
+| 16   | Abra / Gastly / Chinchou / Mienfoo           |    4 |   6.67% |  25.00% |
+| 16   | Abra / Drilbur / Vullaby / Mienfoo           |    4 |   6.67% |  25.00% |
+| 16   | Abra / Drilbur / Gastly / Vullaby            |    4 |   6.67% |  25.00% |
+| 32   | Abra / Diglett / Gastly / Vullaby            |    3 |   5.00% | 100.00% |
+| 32   | Drilbur / Omanyte / Vullaby / Mienfoo        |    3 |   5.00% |  66.67% |
+| 32   | Drilbur / Gastly / Omanyte / Vullaby         |    3 |   5.00% |  66.67% |
+| 32   | Pawniard / Gastly / Vullaby / Mienfoo        |    3 |   5.00% |  66.67% |
+| 32   | Ferroseed / Gastly / Chinchou / Mienfoo      |    3 |   5.00% |  66.67% |
+| 32   | Hippopotas / Gastly / Lileep / Archen        |    3 |   5.00% |  66.67% |
+| 32   | Pawniard / Hippopotas / Gastly / Lileep      |    3 |   5.00% |  66.67% |
+| 32   | Pawniard / Hippopotas / Gastly / Archen      |    3 |   5.00% |  66.67% |
+| 32   | Pawniard / Hippopotas / Archen / Lileep      |    3 |   5.00% |  66.67% |
+| 32   | Pawniard / Gastly / Lileep / Archen          |    3 |   5.00% |  66.67% |
+| 32   | Abra / Gastly / Chinchou / Vullaby           |    3 |   5.00% |  66.67% |
+| 32   | Hippopotas / Bronzor / Frillish / Lileep     |    3 |   5.00% |  66.67% |
+| 32   | Abra / Omanyte / Vullaby / Mienfoo           |    3 |   5.00% |  66.67% |
+| 32   | Abra / Ferroseed / Gastly / Chinchou         |    3 |   5.00% |  66.67% |
+| 32   | Hippopotas / Gastly / Porygon / Mienfoo      |    3 |   5.00% |  33.33% |
+| 32   | Ferroseed / Vullaby / Chinchou / Staryu      |    3 |   5.00% |  33.33% |
+| 32   | Drilbur / Ferroseed / Gastly / Mienfoo       |    3 |   5.00% |  33.33% |
+| 32   | Tentacool / Hippopotas / Gastly / Lileep     |    3 |   5.00% |  33.33% |
+| 32   | Abra / Gastly / Omanyte / Vullaby            |    3 |   5.00% |  33.33% |
+| 32   | Abra / Drilbur / Omanyte / Mienfoo           |    3 |   5.00% |  33.33% |
+| 32   | Abra / Drilbur / Gastly / Omanyte            |    3 |   5.00% |  33.33% |
+| 32   | Abra / Ferroseed / Drilbur / Mienfoo         |    3 |   5.00% |  33.33% |
+| 32   | Ferroseed / Hippopotas / Frillish / Drifloon |    3 |   5.00% |   0.00% |
+| 32   | Drifloon / Ferroseed / Hippopotas / Mienfoo  |    3 |   5.00% |   0.00% |
+| 32   | Ferroseed / Hippopotas / Carvanha / Drifloon |    3 |   5.00% |   0.00% |
+| 32   | Drifloon / Hippopotas / Frillish / Mienfoo   |    3 |   5.00% |   0.00% |
+| 32   | Hippopotas / Frillish / Carvanha / Drifloon  |    3 |   5.00% |   0.00% |
+| 32   | Drifloon / Hippopotas / Carvanha / Mienfoo   |    3 |   5.00% |   0.00% |
+| 32   | Drifloon / Ferroseed / Frillish / Mienfoo    |    3 |   5.00% |   0.00% |
+| 32   | Ferroseed / Frillish / Carvanha / Drifloon   |    3 |   5.00% |   0.00% |
+| 32   | Drifloon / Ferroseed / Carvanha / Mienfoo    |    3 |   5.00% |   0.00% |
+| 32   | Drifloon / Frillish / Carvanha / Mienfoo     |    3 |   5.00% |   0.00% |
+| 32   | Bronzor / Gastly / Diglett / Mienfoo         |    3 |   5.00% |   0.00% |
+| 32   | Abra / Bronzor / Gastly / Diglett            |    3 |   5.00% |   0.00% |
+| 32   | Abra / Bronzor / Gastly / Mienfoo            |    3 |   5.00% |   0.00% |
+| 32   | Abra / Bronzor / Diglett / Mienfoo           |    3 |   5.00% |   0.00% |
+| 32   | Diglett / Gastly / Chinchou / Mienfoo        |    3 |   5.00% |   0.00% |
+| 69   | Ferroseed / Omanyte / Vullaby / Mienfoo      |    2 |   3.33% | 100.00% |
+| 69   | Pawniard / Timburr / Gastly / Ferroseed      |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Gastly / Vullaby / Ferroseed       |    2 |   3.33% | 100.00% |
+| 69   | Pawniard / Ferroseed / Gastly / Vullaby      |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Diglett / Gastly / Omanyte         |    2 |   3.33% | 100.00% |
+| 69   | Diglett / Gastly / Porygon / Omanyte         |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Diglett / Gastly / Vullaby         |    2 |   3.33% | 100.00% |
+| 69   | Gastly / Chinchou / Vullaby / Mienfoo        |    2 |   3.33% | 100.00% |
+| 69   | Ferroseed / Chinchou / Vullaby / Mienfoo     |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Hippopotas / Frillish / Lileep     |    2 |   3.33% | 100.00% |
+| 69   | Natu / Timburr / Hippopotas / Frillish       |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Hippopotas / Bronzor / Frillish    |    2 |   3.33% | 100.00% |
+| 69   | Natu / Timburr / Frillish / Lileep           |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Bronzor / Frillish / Lileep        |    2 |   3.33% | 100.00% |
+| 69   | Natu / Timburr / Bronzor / Frillish          |    2 |   3.33% | 100.00% |
+| 69   | Natu / Hippopotas / Frillish / Lileep        |    2 |   3.33% | 100.00% |
+| 69   | Natu / Hippopotas / Bronzor / Frillish       |    2 |   3.33% | 100.00% |
+| 69   | Natu / Bronzor / Frillish / Lileep           |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Hippopotas / Natu / Lileep         |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Hippopotas / Bronzor / Lileep      |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Hippopotas / Bronzor / Natu        |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Bronzor / Natu / Lileep            |    2 |   3.33% | 100.00% |
+| 69   | Hippopotas / Bronzor / Natu / Lileep         |    2 |   3.33% | 100.00% |
+| 69   | Hippopotas / Frillish / Vullaby / Mienfoo    |    2 |   3.33% | 100.00% |
+| 69   | Ferroseed / Frillish / Vullaby / Mienfoo     |    2 |   3.33% | 100.00% |
+| 69   | Carvanha / Frillish / Vullaby / Mienfoo      |    2 |   3.33% | 100.00% |
+| 69   | Ferroseed / Hippopotas / Vullaby / Mienfoo   |    2 |   3.33% | 100.00% |
+| 69   | Carvanha / Hippopotas / Vullaby / Mienfoo    |    2 |   3.33% | 100.00% |
+| 69   | Ferroseed / Carvanha / Vullaby / Mienfoo     |    2 |   3.33% | 100.00% |
+| 69   | Ferroseed / Hippopotas / Frillish / Vullaby  |    2 |   3.33% | 100.00% |
+| 69   | Carvanha / Hippopotas / Frillish / Vullaby   |    2 |   3.33% | 100.00% |
+| 69   | Ferroseed / Carvanha / Frillish / Vullaby    |    2 |   3.33% | 100.00% |
+| 69   | Ferroseed / Hippopotas / Carvanha / Vullaby  |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Diglett / Gastly / Ferroseed       |    2 |   3.33% | 100.00% |
+| 69   | Abra / Diglett / Omanyte / Mienfoo           |    2 |   3.33% | 100.00% |
+| 69   | Abra / Ferroseed / Chinchou / Vullaby        |    2 |   3.33% | 100.00% |
+| 69   | Timburr / Chinchou / Vullaby / Ferroseed     |    2 |   3.33% |  50.00% |
+| 69   | Drilbur / Ferroseed / Omanyte / Mienfoo      |    2 |   3.33% |  50.00% |
+| 69   | Drilbur / Ferroseed / Vullaby / Mienfoo      |    2 |   3.33% |  50.00% |
+| 69   | Drilbur / Ferroseed / Gastly / Omanyte       |    2 |   3.33% |  50.00% |
+| 69   | Drilbur / Ferroseed / Gastly / Vullaby       |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Timburr / Gastly / Mienfoo        |    2 |   3.33% |  50.00% |
+| 69   | Timburr / Gastly / Ferroseed / Mienfoo       |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Ferroseed / Gastly / Mienfoo      |    2 |   3.33% |  50.00% |
+| 69   | Diglett / Gastly / Omanyte / Vullaby         |    2 |   3.33% |  50.00% |
+| 69   | Timburr / Gastly / Porygon / Omanyte         |    2 |   3.33% |  50.00% |
+| 69   | Gastly / Chinchou / Staryu / Vullaby         |    2 |   3.33% |  50.00% |
+| 69   | Ferroseed / Gastly / Chinchou / Staryu       |    2 |   3.33% |  50.00% |
+| 69   | Ferroseed / Gastly / Staryu / Vullaby        |    2 |   3.33% |  50.00% |
+| 69   | Bronzor / Gastly / Porygon / Mienfoo         |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Gastly / Omanyte / Mienfoo      |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Gastly / Bronzor / Mienfoo      |    2 |   3.33% |  50.00% |
+| 69   | Bronzor / Gastly / Omanyte / Mienfoo         |    2 |   3.33% |  50.00% |
+| 69   | Omanyte / Hippopotas / Porygon / Mienfoo     |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Bronzor / Porygon / Mienfoo     |    2 |   3.33% |  50.00% |
+| 69   | Omanyte / Bronzor / Porygon / Mienfoo        |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Bronzor / Omanyte / Mienfoo     |    2 |   3.33% |  50.00% |
+| 69   | Omanyte / Hippopotas / Gastly / Porygon      |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Gastly / Bronzor / Porygon      |    2 |   3.33% |  50.00% |
+| 69   | Omanyte / Bronzor / Gastly / Porygon         |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Gastly / Bronzor / Omanyte      |    2 |   3.33% |  50.00% |
+| 69   | Omanyte / Hippopotas / Bronzor / Porygon     |    2 |   3.33% |  50.00% |
+| 69   | Bronzor / Diglett / Frillish / Mienfoo       |    2 |   3.33% |  50.00% |
+| 69   | Bronzor / Diglett / Staryu / Mienfoo         |    2 |   3.33% |  50.00% |
+| 69   | Staryu / Diglett / Vullaby / Mienfoo         |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Archen / Frillish / Lileep      |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Archen / Frillish / Gastly      |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Hippopotas / Archen / Frillish    |    2 |   3.33% |  50.00% |
+| 69   | Hippopotas / Gastly / Frillish / Lileep      |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Hippopotas / Frillish / Lileep    |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Hippopotas / Gastly / Frillish    |    2 |   3.33% |  50.00% |
+| 69   | Gastly / Archen / Frillish / Lileep          |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Archen / Frillish / Lileep        |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Gastly / Archen / Frillish        |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Gastly / Frillish / Lileep        |    2 |   3.33% |  50.00% |
+| 69   | Timburr / Gastly / Omanyte / Ferroseed       |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Timburr / Diglett / Gastly        |    2 |   3.33% |  50.00% |
+| 69   | Abra / Drilbur / Omanyte / Vullaby           |    2 |   3.33% |  50.00% |
+| 69   | Mienfoo / Gastly / Staryu / Snover           |    2 |   3.33% |  50.00% |
+| 69   | Gastly / Vullaby / Staryu / Snover           |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Gastly / Staryu / Snover          |    2 |   3.33% |  50.00% |
+| 69   | Mienfoo / Gastly / Vullaby / Snover          |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Mienfoo / Gastly / Snover         |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Gastly / Vullaby / Snover         |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Gastly / Staryu / Mienfoo         |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Gastly / Staryu / Vullaby         |    2 |   3.33% |  50.00% |
+| 69   | Mienfoo / Vullaby / Staryu / Snover          |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Mienfoo / Staryu / Snover         |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Vullaby / Staryu / Snover         |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Mienfoo / Vullaby / Snover        |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Vullaby / Staryu / Mienfoo        |    2 |   3.33% |  50.00% |
+| 69   | Abra / Drilbur / Frillish / Porygon          |    2 |   3.33% |  50.00% |
+| 69   | Abra / Drilbur / Frillish / Mienfoo          |    2 |   3.33% |  50.00% |
+| 69   | Abra / Ferroseed / Chinchou / Mienfoo        |    2 |   3.33% |  50.00% |
+| 69   | Abra / Ferroseed / Gastly / Pawniard         |    2 |   3.33% |  50.00% |
+| 69   | Abra / Pawniard / Gastly / Chinchou          |    2 |   3.33% |  50.00% |
+| 69   | Abra / Ferroseed / Pawniard / Chinchou       |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Ferroseed / Gastly / Chinchou     |    2 |   3.33% |  50.00% |
+| 69   | Diglett / Gastly / Omanyte / Mienfoo         |    2 |   3.33% |  50.00% |
+| 69   | Abra / Ferroseed / Omanyte / Mienfoo         |    2 |   3.33% |  50.00% |
+| 69   | Timburr / Diglett / Gastly / Chinchou        |    2 |   3.33% |  50.00% |
+| 69   | Diglett / Omanyte / Vullaby / Mienfoo        |    2 |   3.33% |  50.00% |
+| 69   | Pawniard / Timburr / Gastly / Chinchou       |    2 |   3.33% |  50.00% |
+| 69   | Natu / Porygon / Clamperl / Mienfoo          |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Vullaby / Staryu / Drifloon        |    2 |   3.33% |   0.00% |
+| 69   | Vullaby / Chinchou / Staryu / Drifloon       |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Chinchou / Staryu / Drifloon       |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Chinchou / Vullaby / Drifloon      |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Vullaby / Chinchou / Staryu        |    2 |   3.33% |   0.00% |
+| 69   | Chinchou / Bronzor / Gastly / Diglett        |    2 |   3.33% |   0.00% |
+| 69   | Bronzor / Gastly / Chinchou / Mienfoo        |    2 |   3.33% |   0.00% |
+| 69   | Abra / Bronzor / Gastly / Chinchou           |    2 |   3.33% |   0.00% |
+| 69   | Bronzor / Diglett / Chinchou / Mienfoo       |    2 |   3.33% |   0.00% |
+| 69   | Abra / Bronzor / Diglett / Chinchou          |    2 |   3.33% |   0.00% |
+| 69   | Abra / Bronzor / Chinchou / Mienfoo          |    2 |   3.33% |   0.00% |
+| 69   | Abra / Diglett / Gastly / Chinchou           |    2 |   3.33% |   0.00% |
+| 69   | Abra / Diglett / Chinchou / Mienfoo          |    2 |   3.33% |   0.00% |
+| 69   | Hippopotas / Gastly / Vullaby / Mienfoo      |    2 |   3.33% |   0.00% |
+| 69   | Lileep / Gastly / Vullaby / Mienfoo          |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Gastly / Vullaby / Mienfoo       |    2 |   3.33% |   0.00% |
+| 69   | Hippopotas / Gastly / Lileep / Mienfoo       |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Hippopotas / Gastly / Mienfoo    |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Gastly / Lileep / Mienfoo        |    2 |   3.33% |   0.00% |
+| 69   | Lileep / Hippopotas / Vullaby / Mienfoo      |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Hippopotas / Vullaby / Mienfoo   |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Lileep / Vullaby / Mienfoo       |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Hippopotas / Lileep / Mienfoo    |    2 |   3.33% |   0.00% |
+| 69   | Lileep / Hippopotas / Gastly / Vullaby       |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Hippopotas / Gastly / Vullaby    |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Lileep / Gastly / Vullaby        |    2 |   3.33% |   0.00% |
+| 69   | Tentacool / Lileep / Hippopotas / Vullaby    |    2 |   3.33% |   0.00% |
+| 69   | Gastly / Stunky / Omanyte / Mienfoo          |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Gastly / Stunky / Mienfoo          |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Gastly / Omanyte / Mienfoo         |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Stunky / Omanyte / Mienfoo         |    2 |   3.33% |   0.00% |
+| 69   | Timburr / Gastly / Stunky / Omanyte          |    2 |   3.33% |   0.00% |
+| 69   | Diglett / Gastly / Staryu / Mienfoo          |    2 |   3.33% |   0.00% |
+| 69   | Pawniard / Gastly / Chinchou / Mienfoo       |    2 |   3.33% |   0.00% |
+| 69   | Drilbur / Ferroseed / Gastly / Abra          |    2 |   3.33% |   0.00% |
+| 69   | Abra / Drilbur / Gastly / Frillish           |    2 |   3.33% |   0.00% |
+| 209  | Natu / Gastly / Omanyte / Mienfoo            |    1 |   1.67% | 100.00% |
+| 209  | Archen / Gastly / Omanyte / Mienfoo          |    1 |   1.67% | 100.00% |
+| 209  | Natu / Ferroseed / Gastly / Omanyte          |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Gastly / Omanyte / Archen        |    1 |   1.67% | 100.00% |
+| 209  | Natu / Gastly / Omanyte / Archen             |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Gastly / Natu / Mienfoo          |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Archen / Gastly / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Archen / Gastly / Natu / Mienfoo             |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Gastly / Natu / Archen           |    1 |   1.67% | 100.00% |
+| 209  | Natu / Ferroseed / Omanyte / Mienfoo         |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Archen / Omanyte / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Natu / Archen / Omanyte / Mienfoo            |    1 |   1.67% | 100.00% |
+| 209  | Natu / Ferroseed / Archen / Omanyte          |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Archen / Natu / Mienfoo          |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Omanyte / Vullaby      |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Gastly / Omanyte / Vullaby       |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Ferroseed / Mienfoo     |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Ferroseed / Vullaby / Mienfoo      |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Vullaby / Mienfoo     |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Gastly / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Vullaby / Ferroseed     |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Omanyte / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Porygon / Omanyte / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Porygon / Omanyte        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Omanyte / Vullaby         |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Porygon / Omanyte / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Gastly / Porygon / Omanyte / Vullaby         |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Porygon / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Gastly / Porygon / Vullaby         |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Gastly / Porygon         |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Porygon / Vullaby         |    1 |   1.67% | 100.00% |
+| 209  | Gastly / Chinchou / Staryu / Mienfoo         |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Gastly / Staryu / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Staryu / Chinchou / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Staryu / Ferroseed / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Chinchou / Staryu / Mienfoo      |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Hippopotas / Gastly / Archen     |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Pawniard / Hippopotas / Gastly   |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Hippopotas / Archen / Lileep     |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Hippopotas / Pawniard / Lileep   |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Pawniard / Hippopotas / Archen   |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Gastly / Lileep / Archen         |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Pawniard / Gastly / Lileep       |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Pawniard / Gastly / Archen       |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Pawniard / Archen / Lileep       |    1 |   1.67% | 100.00% |
+| 209  | Bronzor / Frillish / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Bronzor / Frillish / Staryu / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Bronzor / Diglett / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Staryu / Bronzor / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 209  | Bronzor / Diglett / Frillish / Vullaby       |    1 |   1.67% | 100.00% |
+| 209  | Staryu / Bronzor / Frillish / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Bronzor / Diglett / Frillish / Staryu        |    1 |   1.67% | 100.00% |
+| 209  | Staryu / Bronzor / Diglett / Vullaby         |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Frillish / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Staryu / Frillish / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Frillish / Staryu / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Staryu / Diglett / Frillish / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Gastly / Omanyte        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Omanyte / Ferroseed      |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Omanyte / Ferroseed     |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Diglett / Omanyte       |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Diglett / Gastly / Omanyte       |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Gastly / Omanyte      |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Diglett / Gastly / Omanyte        |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Diglett / Omanyte     |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Diglett / Ferroseed     |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Diglett / Gastly      |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Vullaby / Magnemite      |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Natu / Vullaby / Magnemite         |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Shellder / Vullaby / Magnemite     |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Natu / Magnemite         |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Shellder / Magnemite     |    1 |   1.67% | 100.00% |
+| 209  | Shellder / Diglett / Natu / Magnemite        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Natu / Vullaby           |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Shellder / Vullaby       |    1 |   1.67% | 100.00% |
+| 209  | Shellder / Diglett / Natu / Vullaby          |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Shellder / Natu          |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Natu / Vullaby / Magnemite         |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Shellder / Vullaby / Magnemite     |    1 |   1.67% | 100.00% |
+| 209  | Shellder / Natu / Vullaby / Magnemite        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Shellder / Natu / Magnemite        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Shellder / Natu / Vullaby          |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Frillish / Porygon / Mienfoo     |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Frillish / Porygon        |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Frillish / Porygon     |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Porygon / Mienfoo         |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Porygon / Mienfoo      |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Drilbur / Porygon         |    1 |   1.67% | 100.00% |
+| 209  | Abra / Frillish / Porygon / Mienfoo          |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Frillish / Porygon / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Abra / Drilbur / Porygon / Mienfoo           |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Frillish / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Frillish / Mienfoo     |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Drilbur / Frillish        |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Ponyta / Frillish      |    1 |   1.67% | 100.00% |
+| 209  | Natu / Ferroseed / Ponyta / Frillish         |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Ponyta / Frillish     |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Ponyta / Natu          |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Ponyta / Pawniard      |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Ponyta / Natu         |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Natu / Ponyta / Frillish           |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Pawniard / Ponyta / Frillish       |    1 |   1.67% | 100.00% |
+| 209  | Natu / Pawniard / Ponyta / Frillish          |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Pawniard / Ponyta / Natu           |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Natu / Frillish        |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Pawniard / Frillish    |    1 |   1.67% | 100.00% |
+| 209  | Natu / Ferroseed / Pawniard / Frillish       |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Ferroseed / Pawniard / Natu        |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Natu / Pawniard / Frillish         |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Gastly / Porygon / Mienfoo         |    1 |   1.67% | 100.00% |
+| 209  | Abra / Gastly / Porygon / Mienfoo            |    1 |   1.67% | 100.00% |
+| 209  | Omanyte / Diglett / Porygon / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Abra / Diglett / Porygon / Mienfoo           |    1 |   1.67% | 100.00% |
+| 209  | Omanyte / Abra / Porygon / Mienfoo           |    1 |   1.67% | 100.00% |
+| 209  | Abra / Diglett / Gastly / Porygon            |    1 |   1.67% | 100.00% |
+| 209  | Omanyte / Gastly / Porygon / Abra            |    1 |   1.67% | 100.00% |
+| 209  | Abra / Diglett / Gastly / Omanyte            |    1 |   1.67% | 100.00% |
+| 209  | Omanyte / Diglett / Abra / Porygon           |    1 |   1.67% | 100.00% |
+| 209  | Abra / Chinchou / Vullaby / Mienfoo          |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Chinchou / Vullaby       |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Chinchou / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Vullaby / Ferroseed      |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Diglett / Chinchou / Vullaby     |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Gastly / Chinchou / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Diglett / Chinchou / Ferroseed     |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Chinchou / Ferroseed      |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Diglett / Gastly / Chinchou      |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Diglett / Elekid / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Gastly / Elekid / Mienfoo        |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Elekid / Mienfoo          |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Diglett / Gastly / Elekid        |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Diglett / Elekid          |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Gastly / Elekid           |    1 |   1.67% | 100.00% |
+| 209  | Diglett / Gastly / Elekid / Mienfoo          |    1 |   1.67% | 100.00% |
+| 209  | Abra / Diglett / Elekid / Mienfoo            |    1 |   1.67% | 100.00% |
+| 209  | Abra / Gastly / Elekid / Mienfoo             |    1 |   1.67% | 100.00% |
+| 209  | Abra / Diglett / Gastly / Elekid             |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Diglett / Omanyte / Mienfoo      |    1 |   1.67% | 100.00% |
+| 209  | Abra / Diglett / Omanyte / Vullaby           |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Diglett / Omanyte         |    1 |   1.67% | 100.00% |
+| 209  | Ferroseed / Diglett / Omanyte / Vullaby      |    1 |   1.67% | 100.00% |
+| 209  | Abra / Ferroseed / Omanyte / Vullaby         |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Chinchou / Natu         |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Porygon / Natu          |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Gastly / Natu           |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Chinchou / Porygon      |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Timburr / Gastly / Porygon        |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Porygon / Chinchou / Natu          |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Chinchou / Natu           |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Porygon / Natu            |    1 |   1.67% | 100.00% |
+| 209  | Timburr / Gastly / Chinchou / Porygon        |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Porygon / Chinchou / Natu         |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Gastly / Chinchou / Natu          |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Gastly / Porygon / Natu           |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Gastly / Chinchou / Porygon       |    1 |   1.67% | 100.00% |
+| 209  | Porygon / Gastly / Chinchou / Natu           |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Chinchou / Vullaby    |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Ferroseed / Abra / Vullaby        |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Gastly / Chinchou / Vullaby       |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Chinchou / Abra / Vullaby         |    1 |   1.67% | 100.00% |
+| 209  | Pawniard / Gastly / Abra / Vullaby           |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Mienfoo / Drilbur / Drifloon     |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Mienfoo / Tentacool / Drifloon   |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Mienfoo / Snover / Drifloon      |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Mienfoo / Tentacool / Drifloon     |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Mienfoo / Snover / Drifloon        |    1 |   1.67% | 100.00% |
+| 209  | Tentacool / Mienfoo / Snover / Drifloon      |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Drilbur / Tentacool / Drifloon   |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Drilbur / Snover / Drifloon      |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Tentacool / Snover / Drifloon    |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Tentacool / Snover / Drifloon      |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Drilbur / Tentacool / Mienfoo    |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Drilbur / Snover / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Magnemite / Tentacool / Snover / Mienfoo     |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Tentacool / Snover / Mienfoo       |    1 |   1.67% | 100.00% |
+| 209  | Drilbur / Tentacool / Snover / Magnemite     |    1 |   1.67% | 100.00% |
+| 209  | Natu / Gastly / Porygon / Mienfoo            |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Porygon / Clamperl / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Natu / Hippopotas / Porygon / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Porygon / Clamperl / Mienfoo    |    1 |   1.67% |   0.00% |
+| 209  | Natu / Hippopotas / Gastly / Porygon         |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Gastly / Porygon / Clamperl     |    1 |   1.67% |   0.00% |
+| 209  | Natu / Gastly / Porygon / Clamperl           |    1 |   1.67% |   0.00% |
+| 209  | Natu / Hippopotas / Porygon / Clamperl       |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Gastly / Natu / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Gastly / Clamperl / Mienfoo     |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Natu / Clamperl / Mienfoo           |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Natu / Clamperl / Mienfoo       |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Gastly / Natu / Clamperl        |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Vullaby / Staryu / Drifloon      |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Ferroseed / Staryu / Drifloon      |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Chinchou / Staryu / Drifloon     |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Ferroseed / Vullaby / Drifloon     |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Chinchou / Vullaby / Drifloon    |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Chinchou / Ferroseed / Drifloon    |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Vullaby / Staryu / Ferroseed       |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Chinchou / Staryu / Ferroseed      |    1 |   1.67% |   0.00% |
+| 209  | Chinchou / Gastly / Larvesta / Staryu        |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Larvesta / Staryu / Vullaby         |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Gastly / Larvesta / Staryu       |    1 |   1.67% |   0.00% |
+| 209  | Chinchou / Vullaby / Larvesta / Staryu       |    1 |   1.67% |   0.00% |
+| 209  | Chinchou / Larvesta / Staryu / Ferroseed     |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Vullaby / Larvesta / Staryu      |    1 |   1.67% |   0.00% |
+| 209  | Chinchou / Gastly / Larvesta / Vullaby       |    1 |   1.67% |   0.00% |
+| 209  | Chinchou / Gastly / Larvesta / Ferroseed     |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Gastly / Larvesta / Vullaby      |    1 |   1.67% |   0.00% |
+| 209  | Chinchou / Larvesta / Vullaby / Ferroseed    |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Vullaby / Staryu / Drifloon       |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Staryu / Drifloon       |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Chinchou / Staryu / Drifloon      |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Vullaby / Drifloon      |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Chinchou / Vullaby / Drifloon     |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Chinchou / Drifloon     |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Vullaby / Staryu        |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Vullaby / Chinchou / Staryu       |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Chinchou / Staryu       |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Chinchou / Vullaby      |    1 |   1.67% |   0.00% |
+| 209  | Abra / Riolu / Gastly / Omanyte              |    1 |   1.67% |   0.00% |
+| 209  | Abra / Riolu / Omanyte / Vullaby             |    1 |   1.67% |   0.00% |
+| 209  | Abra / Riolu / Chinchou / Omanyte            |    1 |   1.67% |   0.00% |
+| 209  | Riolu / Gastly / Omanyte / Vullaby           |    1 |   1.67% |   0.00% |
+| 209  | Riolu / Gastly / Chinchou / Omanyte          |    1 |   1.67% |   0.00% |
+| 209  | Riolu / Chinchou / Omanyte / Vullaby         |    1 |   1.67% |   0.00% |
+| 209  | Abra / Riolu / Gastly / Vullaby              |    1 |   1.67% |   0.00% |
+| 209  | Abra / Riolu / Gastly / Chinchou             |    1 |   1.67% |   0.00% |
+| 209  | Abra / Riolu / Chinchou / Vullaby            |    1 |   1.67% |   0.00% |
+| 209  | Riolu / Gastly / Chinchou / Vullaby          |    1 |   1.67% |   0.00% |
+| 209  | Abra / Gastly / Chinchou / Omanyte           |    1 |   1.67% |   0.00% |
+| 209  | Abra / Chinchou / Omanyte / Vullaby          |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Chinchou / Omanyte / Vullaby        |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Porygon / Staryu / Clamperl        |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Diglett / Staryu / Clamperl        |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Natu / Staryu / Clamperl           |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Porygon / Staryu / Clamperl        |    1 |   1.67% |   0.00% |
+| 209  | Natu / Porygon / Staryu / Clamperl           |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Natu / Staryu / Clamperl           |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Porygon / Staryu / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Natu / Porygon / Staryu / Mienfoo            |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Natu / Staryu / Mienfoo            |    1 |   1.67% |   0.00% |
+| 209  | Natu / Diglett / Porygon / Staryu            |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Porygon / Clamperl / Mienfoo       |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Natu / Clamperl / Mienfoo          |    1 |   1.67% |   0.00% |
+| 209  | Natu / Diglett / Porygon / Clamperl          |    1 |   1.67% |   0.00% |
+| 209  | Natu / Diglett / Porygon / Mienfoo           |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Gastly / Stunky / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Stunky / Omanyte / Mienfoo       |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Stunky / Timburr / Mienfoo       |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Omanyte / Timburr / Mienfoo      |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Gastly / Stunky / Omanyte        |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Gastly / Stunky / Timburr        |    1 |   1.67% |   0.00% |
+| 209  | Ferroseed / Stunky / Omanyte / Timburr       |    1 |   1.67% |   0.00% |
+| 209  | Abra / Gastly / Staryu / Mienfoo             |    1 |   1.67% |   0.00% |
+| 209  | Bronzor / Gastly / Staryu / Mienfoo          |    1 |   1.67% |   0.00% |
+| 209  | Abra / Diglett / Gastly / Staryu             |    1 |   1.67% |   0.00% |
+| 209  | Abra / Bronzor / Gastly / Staryu             |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Gastly / Bronzor / Staryu          |    1 |   1.67% |   0.00% |
+| 209  | Abra / Diglett / Staryu / Mienfoo            |    1 |   1.67% |   0.00% |
+| 209  | Abra / Bronzor / Staryu / Mienfoo            |    1 |   1.67% |   0.00% |
+| 209  | Abra / Diglett / Bronzor / Staryu            |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Stunky / Porygon / Omanyte         |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Stunky / Porygon / Omanyte          |    1 |   1.67% |   0.00% |
+| 209  | Stunky / Porygon / Omanyte / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Porygon / Omanyte / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Gastly / Stunky / Porygon          |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Stunky / Porygon / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Stunky / Porygon / Mienfoo          |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Gastly / Porygon / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Abra / Pawniard / Gastly / Mienfoo           |    1 |   1.67% |   0.00% |
+| 209  | Abra / Ferroseed / Pawniard / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Abra / Pawniard / Chinchou / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Ferroseed / Chinchou / Mienfoo    |    1 |   1.67% |   0.00% |
+| 209  | Magnemite / Mienfoo / Archen / Snover        |    1 |   1.67% |   0.00% |
+| 209  | Magnemite / Archen / Frillish / Snover       |    1 |   1.67% |   0.00% |
+| 209  | Magnemite / Diglett / Archen / Snover        |    1 |   1.67% |   0.00% |
+| 209  | Magnemite / Mienfoo / Frillish / Snover      |    1 |   1.67% |   0.00% |
+| 209  | Magnemite / Mienfoo / Diglett / Snover       |    1 |   1.67% |   0.00% |
+| 209  | Magnemite / Diglett / Frillish / Snover      |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Archen / Frillish / Snover         |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Diglett / Archen / Snover          |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Archen / Frillish / Snover         |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Diglett / Frillish / Snover        |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Archen / Frillish / Magnemite      |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Diglett / Archen / Magnemite       |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Archen / Frillish / Magnemite      |    1 |   1.67% |   0.00% |
+| 209  | Mienfoo / Diglett / Frillish / Magnemite     |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Archen / Frillish / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Ferroseed / Omanyte / Abra         |    1 |   1.67% |   0.00% |
+| 209  | Abra / Ferroseed / Gastly / Omanyte          |    1 |   1.67% |   0.00% |
+| 209  | Abra / Skorupi / Gastly / Frillish           |    1 |   1.67% |   0.00% |
+| 209  | Abra / Skorupi / Gastly / Porygon            |    1 |   1.67% |   0.00% |
+| 209  | Abra / Drilbur / Skorupi / Gastly            |    1 |   1.67% |   0.00% |
+| 209  | Abra / Skorupi / Porygon / Frillish          |    1 |   1.67% |   0.00% |
+| 209  | Abra / Drilbur / Skorupi / Frillish          |    1 |   1.67% |   0.00% |
+| 209  | Abra / Drilbur / Skorupi / Porygon           |    1 |   1.67% |   0.00% |
+| 209  | Skorupi / Gastly / Porygon / Frillish        |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Skorupi / Gastly / Frillish        |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Skorupi / Gastly / Porygon         |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Skorupi / Porygon / Frillish       |    1 |   1.67% |   0.00% |
+| 209  | Abra / Gastly / Porygon / Frillish           |    1 |   1.67% |   0.00% |
+| 209  | Abra / Drilbur / Gastly / Porygon            |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Gastly / Porygon / Frillish        |    1 |   1.67% |   0.00% |
+| 209  | Natu / Diglett / Frillish / Snover           |    1 |   1.67% |   0.00% |
+| 209  | Natu / Diglett / Porygon / Frillish          |    1 |   1.67% |   0.00% |
+| 209  | Natu / Diglett / Smoochum / Frillish         |    1 |   1.67% |   0.00% |
+| 209  | Natu / Porygon / Frillish / Snover           |    1 |   1.67% |   0.00% |
+| 209  | Natu / Smoochum / Frillish / Snover          |    1 |   1.67% |   0.00% |
+| 209  | Natu / Smoochum / Porygon / Frillish         |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Porygon / Frillish / Snover        |    1 |   1.67% |   0.00% |
+| 209  | Smoochum / Diglett / Frillish / Snover       |    1 |   1.67% |   0.00% |
+| 209  | Smoochum / Diglett / Porygon / Frillish      |    1 |   1.67% |   0.00% |
+| 209  | Smoochum / Porygon / Frillish / Snover       |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Porygon / Natu / Snover            |    1 |   1.67% |   0.00% |
+| 209  | Smoochum / Diglett / Natu / Snover           |    1 |   1.67% |   0.00% |
+| 209  | Smoochum / Diglett / Porygon / Natu          |    1 |   1.67% |   0.00% |
+| 209  | Smoochum / Porygon / Natu / Snover           |    1 |   1.67% |   0.00% |
+| 209  | Smoochum / Diglett / Porygon / Snover        |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Vullaby / Omanyte / Staryu         |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Vullaby / Staryu / Gastly          |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Omanyte / Staryu / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Gastly / Omanyte / Staryu          |    1 |   1.67% |   0.00% |
+| 209  | Vullaby / Omanyte / Staryu / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Vullaby / Omanyte / Staryu          |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Omanyte / Staryu / Mienfoo          |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Gastly / Chinchou / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Diglett / Chinchou / Mienfoo       |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Chinchou / Mienfoo      |    1 |   1.67% |   0.00% |
+| 209  | Timburr / Diglett / Gastly / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Diglett / Mienfoo       |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Diglett / Chinchou / Mienfoo      |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Diglett / Gastly / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Timburr / Diglett / Chinchou      |    1 |   1.67% |   0.00% |
+| 209  | Pawniard / Diglett / Gastly / Chinchou       |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Frillish / Lileep / Mienfoo     |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Frillish / Lileep / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Bronzor / Frillish / Lileep / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Diglett / Frillish / Mienfoo    |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Bronzor / Frillish / Mienfoo    |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Diglett / Lileep / Mienfoo      |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Bronzor / Lileep / Mienfoo      |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Bronzor / Lileep / Mienfoo         |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Diglett / Bronzor / Mienfoo     |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Diglett / Frillish / Lileep     |    1 |   1.67% |   0.00% |
+| 209  | Diglett / Bronzor / Frillish / Lileep        |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Diglett / Bronzor / Frillish    |    1 |   1.67% |   0.00% |
+| 209  | Hippopotas / Diglett / Bronzor / Lileep      |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Ferroseed / Abra / Vullaby         |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Gastly / Frillish / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Gastly / Frillish / Vullaby        |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Frillish / Abra / Vullaby          |    1 |   1.67% |   0.00% |
+| 209  | Drilbur / Frillish / Vullaby / Mienfoo       |    1 |   1.67% |   0.00% |
+| 209  | Abra / Gastly / Frillish / Mienfoo           |    1 |   1.67% |   0.00% |
+| 209  | Abra / Gastly / Frillish / Vullaby           |    1 |   1.67% |   0.00% |
+| 209  | Gastly / Frillish / Vullaby / Mienfoo        |    1 |   1.67% |   0.00% |
+| 209  | Abra / Frillish / Vullaby / Mienfoo          |    1 |   1.67% |   0.00% |
+
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                             | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Abra / Ferroseed / Gastly / Vullaby / Mienfoo           |    5 |   8.33% |  80.00% |
+| 1    | Ferroseed / Hippopotas / Frillish / Carvanha / Mienfoo  |    5 |   8.33% |  40.00% |
+| 3    | Abra / Diglett / Ferroseed / Gastly / Mienfoo           |    4 |   6.67% | 100.00% |
+| 3    | Abra / Diglett / Ferroseed / Vullaby / Mienfoo          |    4 |   6.67% | 100.00% |
+| 3    | Abra / Drilbur / Gastly / Vullaby / Mienfoo             |    4 |   6.67% |  25.00% |
+| 6    | Abra / Diglett / Gastly / Vullaby / Mienfoo             |    3 |   5.00% | 100.00% |
+| 6    | Abra / Diglett / Ferroseed / Gastly / Vullaby           |    3 |   5.00% | 100.00% |
+| 6    | Diglett / Ferroseed / Gastly / Vullaby / Mienfoo        |    3 |   5.00% | 100.00% |
+| 6    | Drilbur / Gastly / Omanyte / Vullaby / Mienfoo          |    3 |   5.00% |  66.67% |
+| 6    | Pawniard / Gastly / Hippopotas / Archen / Lileep        |    3 |   5.00% |  66.67% |
+| 6    | Abra / Drilbur / Gastly / Omanyte / Mienfoo             |    3 |   5.00% |  33.33% |
+| 6    | Ferroseed / Drifloon / Hippopotas / Frillish / Mienfoo  |    3 |   5.00% |   0.00% |
+| 6    | Ferroseed / Drifloon / Hippopotas / Frillish / Carvanha |    3 |   5.00% |   0.00% |
+| 6    | Ferroseed / Drifloon / Hippopotas / Carvanha / Mienfoo  |    3 |   5.00% |   0.00% |
+| 6    | Drifloon / Hippopotas / Frillish / Carvanha / Mienfoo   |    3 |   5.00% |   0.00% |
+| 6    | Ferroseed / Drifloon / Frillish / Carvanha / Mienfoo    |    3 |   5.00% |   0.00% |
+| 6    | Abra / Bronzor / Diglett / Gastly / Mienfoo             |    3 |   5.00% |   0.00% |
+| 18   | Chinchou / Ferroseed / Gastly / Vullaby / Mienfoo       |    2 |   3.33% | 100.00% |
+| 18   | Timburr / Natu / Hippopotas / Frillish / Lileep         |    2 |   3.33% | 100.00% |
+| 18   | Timburr / Bronzor / Hippopotas / Frillish / Lileep      |    2 |   3.33% | 100.00% |
+| 18   | Timburr / Bronzor / Natu / Hippopotas / Frillish        |    2 |   3.33% | 100.00% |
+| 18   | Timburr / Bronzor / Natu / Frillish / Lileep            |    2 |   3.33% | 100.00% |
+| 18   | Bronzor / Natu / Hippopotas / Frillish / Lileep         |    2 |   3.33% | 100.00% |
+| 18   | Timburr / Bronzor / Natu / Hippopotas / Lileep          |    2 |   3.33% | 100.00% |
+| 18   | Ferroseed / Hippopotas / Frillish / Vullaby / Mienfoo   |    2 |   3.33% | 100.00% |
+| 18   | Vullaby / Hippopotas / Frillish / Carvanha / Mienfoo    |    2 |   3.33% | 100.00% |
+| 18   | Vullaby / Ferroseed / Frillish / Carvanha / Mienfoo     |    2 |   3.33% | 100.00% |
+| 18   | Vullaby / Ferroseed / Hippopotas / Carvanha / Mienfoo   |    2 |   3.33% | 100.00% |
+| 18   | Vullaby / Ferroseed / Hippopotas / Frillish / Carvanha  |    2 |   3.33% | 100.00% |
+| 18   | Abra / Chinchou / Ferroseed / Gastly / Vullaby          |    2 |   3.33% | 100.00% |
+| 18   | Drilbur / Ferroseed / Gastly / Omanyte / Mienfoo        |    2 |   3.33% |  50.00% |
+| 18   | Drilbur / Ferroseed / Gastly / Vullaby / Mienfoo        |    2 |   3.33% |  50.00% |
+| 18   | Staryu / Chinchou / Ferroseed / Gastly / Vullaby        |    2 |   3.33% |  50.00% |
+| 18   | Porygon / Gastly / Hippopotas / Omanyte / Mienfoo       |    2 |   3.33% |  50.00% |
+| 18   | Bronzor / Gastly / Hippopotas / Porygon / Mienfoo       |    2 |   3.33% |  50.00% |
+| 18   | Porygon / Bronzor / Gastly / Omanyte / Mienfoo          |    2 |   3.33% |  50.00% |
+| 18   | Bronzor / Gastly / Hippopotas / Omanyte / Mienfoo       |    2 |   3.33% |  50.00% |
+| 18   | Porygon / Bronzor / Hippopotas / Omanyte / Mienfoo      |    2 |   3.33% |  50.00% |
+| 18   | Porygon / Bronzor / Gastly / Hippopotas / Omanyte       |    2 |   3.33% |  50.00% |
+| 18   | Gastly / Hippopotas / Archen / Frillish / Lileep        |    2 |   3.33% |  50.00% |
+| 18   | Pawniard / Hippopotas / Archen / Frillish / Lileep      |    2 |   3.33% |  50.00% |
+| 18   | Pawniard / Gastly / Hippopotas / Archen / Frillish      |    2 |   3.33% |  50.00% |
+| 18   | Pawniard / Gastly / Hippopotas / Frillish / Lileep      |    2 |   3.33% |  50.00% |
+| 18   | Pawniard / Gastly / Archen / Frillish / Lileep          |    2 |   3.33% |  50.00% |
+| 18   | Abra / Gastly / Omanyte / Vullaby / Mienfoo             |    2 |   3.33% |  50.00% |
+| 18   | Abra / Drilbur / Omanyte / Vullaby / Mienfoo            |    2 |   3.33% |  50.00% |
+| 18   | Abra / Drilbur / Gastly / Omanyte / Vullaby             |    2 |   3.33% |  50.00% |
+| 18   | Staryu / Gastly / Snover / Vullaby / Mienfoo            |    2 |   3.33% |  50.00% |
+| 18   | Staryu / Pawniard / Gastly / Snover / Mienfoo           |    2 |   3.33% |  50.00% |
+| 18   | Staryu / Pawniard / Gastly / Snover / Vullaby           |    2 |   3.33% |  50.00% |
+| 18   | Pawniard / Gastly / Snover / Vullaby / Mienfoo          |    2 |   3.33% |  50.00% |
+| 18   | Staryu / Pawniard / Gastly / Vullaby / Mienfoo          |    2 |   3.33% |  50.00% |
+| 18   | Staryu / Pawniard / Snover / Vullaby / Mienfoo          |    2 |   3.33% |  50.00% |
+| 18   | Abra / Chinchou / Ferroseed / Gastly / Mienfoo          |    2 |   3.33% |  50.00% |
+| 18   | Abra / Chinchou / Pawniard / Ferroseed / Gastly         |    2 |   3.33% |  50.00% |
+| 18   | Staryu / Timburr / Chinchou / Drifloon / Vullaby        |    2 |   3.33% |   0.00% |
+| 18   | Bronzor / Diglett / Chinchou / Gastly / Mienfoo         |    2 |   3.33% |   0.00% |
+| 18   | Abra / Bronzor / Diglett / Chinchou / Gastly            |    2 |   3.33% |   0.00% |
+| 18   | Abra / Bronzor / Chinchou / Gastly / Mienfoo            |    2 |   3.33% |   0.00% |
+| 18   | Abra / Bronzor / Diglett / Chinchou / Mienfoo           |    2 |   3.33% |   0.00% |
+| 18   | Abra / Diglett / Chinchou / Gastly / Mienfoo            |    2 |   3.33% |   0.00% |
+| 18   | Vullaby / Gastly / Hippopotas / Lileep / Mienfoo        |    2 |   3.33% |   0.00% |
+| 18   | Tentacool / Gastly / Hippopotas / Vullaby / Mienfoo     |    2 |   3.33% |   0.00% |
+| 18   | Tentacool / Vullaby / Gastly / Lileep / Mienfoo         |    2 |   3.33% |   0.00% |
+| 18   | Tentacool / Gastly / Hippopotas / Lileep / Mienfoo      |    2 |   3.33% |   0.00% |
+| 18   | Tentacool / Vullaby / Hippopotas / Lileep / Mienfoo     |    2 |   3.33% |   0.00% |
+| 18   | Tentacool / Vullaby / Gastly / Hippopotas / Lileep      |    2 |   3.33% |   0.00% |
+| 18   | Stunky / Timburr / Gastly / Omanyte / Mienfoo           |    2 |   3.33% |   0.00% |
+| 18   | Abra / Drilbur / Ferroseed / Gastly / Mienfoo           |    2 |   3.33% |   0.00% |
+| 70   | Natu / Ferroseed / Gastly / Omanyte / Mienfoo           |    1 |   1.67% | 100.00% |
+| 70   | Ferroseed / Gastly / Archen / Omanyte / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Natu / Gastly / Archen / Omanyte / Mienfoo              |    1 |   1.67% | 100.00% |
+| 70   | Natu / Ferroseed / Gastly / Archen / Omanyte            |    1 |   1.67% | 100.00% |
+| 70   | Natu / Ferroseed / Gastly / Archen / Mienfoo            |    1 |   1.67% | 100.00% |
+| 70   | Natu / Ferroseed / Archen / Omanyte / Mienfoo           |    1 |   1.67% | 100.00% |
+| 70   | Drilbur / Ferroseed / Omanyte / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 70   | Ferroseed / Gastly / Omanyte / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 70   | Drilbur / Ferroseed / Gastly / Omanyte / Vullaby        |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Pawniard / Gastly / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Pawniard / Ferroseed / Gastly / Mienfoo       |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Pawniard / Ferroseed / Vullaby / Mienfoo      |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Ferroseed / Gastly / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 70   | Pawniard / Ferroseed / Gastly / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Pawniard / Ferroseed / Gastly / Vullaby       |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Gastly / Omanyte / Vullaby          |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Omanyte / Porygon / Vullaby         |    1 |   1.67% | 100.00% |
+| 70   | Diglett / Gastly / Omanyte / Porygon / Vullaby          |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Gastly / Omanyte / Porygon          |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Gastly / Omanyte / Porygon / Vullaby          |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Gastly / Porygon / Vullaby          |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Chinchou / Gastly / Vullaby / Mienfoo          |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Ferroseed / Gastly / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Chinchou / Ferroseed / Gastly / Mienfoo        |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Chinchou / Ferroseed / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Gastly / Hippopotas / Archen / Lileep       |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Pawniard / Gastly / Hippopotas / Lileep     |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Pawniard / Gastly / Hippopotas / Archen     |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Pawniard / Hippopotas / Archen / Lileep     |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Pawniard / Gastly / Archen / Lileep         |    1 |   1.67% | 100.00% |
+| 70   | Bronzor / Diglett / Frillish / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Bronzor / Frillish / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Bronzor / Diglett / Frillish / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Bronzor / Diglett / Vullaby / Mienfoo          |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Bronzor / Diglett / Frillish / Vullaby         |    1 |   1.67% | 100.00% |
+| 70   | Staryu / Diglett / Frillish / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Ferroseed / Gastly / Omanyte        |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Pawniard / Ferroseed / Gastly / Omanyte       |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Pawniard / Gastly / Omanyte         |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Pawniard / Ferroseed / Omanyte      |    1 |   1.67% | 100.00% |
+| 70   | Diglett / Pawniard / Ferroseed / Gastly / Omanyte       |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Pawniard / Ferroseed / Gastly       |    1 |   1.67% | 100.00% |
+| 70   | Magnemite / Timburr / Diglett / Natu / Vullaby          |    1 |   1.67% | 100.00% |
+| 70   | Magnemite / Timburr / Diglett / Shellder / Vullaby      |    1 |   1.67% | 100.00% |
+| 70   | Magnemite / Diglett / Natu / Shellder / Vullaby         |    1 |   1.67% | 100.00% |
+| 70   | Magnemite / Timburr / Diglett / Natu / Shellder         |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Natu / Shellder / Vullaby           |    1 |   1.67% | 100.00% |
+| 70   | Magnemite / Timburr / Natu / Shellder / Vullaby         |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Abra / Ferroseed / Frillish / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Drilbur / Ferroseed / Frillish / Mienfoo      |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Abra / Drilbur / Ferroseed / Frillish         |    1 |   1.67% | 100.00% |
+| 70   | Abra / Drilbur / Ferroseed / Porygon / Mienfoo          |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Abra / Drilbur / Frillish / Mienfoo           |    1 |   1.67% | 100.00% |
+| 70   | Abra / Drilbur / Ferroseed / Frillish / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Ponyta / Natu / Drilbur / Ferroseed / Frillish          |    1 |   1.67% | 100.00% |
+| 70   | Ponyta / Drilbur / Ferroseed / Pawniard / Frillish      |    1 |   1.67% | 100.00% |
+| 70   | Ponyta / Natu / Pawniard / Ferroseed / Frillish         |    1 |   1.67% | 100.00% |
+| 70   | Ponyta / Natu / Drilbur / Ferroseed / Pawniard          |    1 |   1.67% | 100.00% |
+| 70   | Ponyta / Natu / Drilbur / Pawniard / Frillish           |    1 |   1.67% | 100.00% |
+| 70   | Natu / Drilbur / Ferroseed / Pawniard / Frillish        |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Diglett / Gastly / Omanyte / Mienfoo          |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Gastly / Porygon / Mienfoo             |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Abra / Gastly / Omanyte / Mienfoo             |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Gastly / Omanyte / Mienfoo             |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Abra / Diglett / Omanyte / Mienfoo            |    1 |   1.67% | 100.00% |
+| 70   | Porygon / Abra / Diglett / Gastly / Omanyte             |    1 |   1.67% | 100.00% |
+| 70   | Abra / Chinchou / Gastly / Vullaby / Mienfoo            |    1 |   1.67% | 100.00% |
+| 70   | Abra / Chinchou / Ferroseed / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Chinchou / Ferroseed / Vullaby      |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Chinchou / Ferroseed / Gastly / Vullaby       |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Chinchou / Gastly / Vullaby         |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Ferroseed / Gastly / Vullaby        |    1 |   1.67% | 100.00% |
+| 70   | Diglett / Chinchou / Ferroseed / Gastly / Vullaby       |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Diglett / Chinchou / Ferroseed / Gastly       |    1 |   1.67% | 100.00% |
+| 70   | Diglett / Elekid / Ferroseed / Gastly / Mienfoo         |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Elekid / Ferroseed / Mienfoo           |    1 |   1.67% | 100.00% |
+| 70   | Abra / Elekid / Ferroseed / Gastly / Mienfoo            |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Elekid / Ferroseed / Gastly            |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Elekid / Gastly / Mienfoo              |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Omanyte / Vullaby / Mienfoo            |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Ferroseed / Omanyte / Mienfoo          |    1 |   1.67% | 100.00% |
+| 70   | Diglett / Ferroseed / Omanyte / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 70   | Abra / Diglett / Ferroseed / Omanyte / Vullaby          |    1 |   1.67% | 100.00% |
+| 70   | Abra / Ferroseed / Omanyte / Vullaby / Mienfoo          |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Chinchou / Natu / Pawniard / Porygon          |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Chinchou / Natu / Pawniard / Gastly           |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Natu / Pawniard / Gastly / Porygon            |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Chinchou / Pawniard / Gastly / Porygon        |    1 |   1.67% | 100.00% |
+| 70   | Timburr / Chinchou / Natu / Gastly / Porygon            |    1 |   1.67% | 100.00% |
+| 70   | Chinchou / Natu / Pawniard / Gastly / Porygon           |    1 |   1.67% | 100.00% |
+| 70   | Chinchou / Pawniard / Ferroseed / Gastly / Vullaby      |    1 |   1.67% | 100.00% |
+| 70   | Abra / Chinchou / Pawniard / Ferroseed / Vullaby        |    1 |   1.67% | 100.00% |
+| 70   | Abra / Pawniard / Ferroseed / Gastly / Vullaby          |    1 |   1.67% | 100.00% |
+| 70   | Abra / Chinchou / Pawniard / Gastly / Vullaby           |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Magnemite / Drilbur / Drifloon / Mienfoo    |    1 |   1.67% | 100.00% |
+| 70   | Magnemite / Drilbur / Drifloon / Snover / Mienfoo       |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Magnemite / Drifloon / Snover / Mienfoo     |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Drilbur / Drifloon / Snover / Mienfoo       |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Magnemite / Drilbur / Drifloon / Snover     |    1 |   1.67% | 100.00% |
+| 70   | Tentacool / Magnemite / Drilbur / Snover / Mienfoo      |    1 |   1.67% | 100.00% |
+| 70   | Natu / Gastly / Hippopotas / Porygon / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Clamperl / Gastly / Hippopotas / Porygon / Mienfoo      |    1 |   1.67% |   0.00% |
+| 70   | Natu / Clamperl / Gastly / Porygon / Mienfoo            |    1 |   1.67% |   0.00% |
+| 70   | Natu / Clamperl / Hippopotas / Porygon / Mienfoo        |    1 |   1.67% |   0.00% |
+| 70   | Natu / Clamperl / Gastly / Hippopotas / Porygon         |    1 |   1.67% |   0.00% |
+| 70   | Natu / Clamperl / Gastly / Hippopotas / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Timburr / Ferroseed / Drifloon / Vullaby       |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Chinchou / Ferroseed / Drifloon / Vullaby      |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Timburr / Chinchou / Ferroseed / Drifloon      |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Chinchou / Ferroseed / Drifloon / Vullaby     |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Timburr / Chinchou / Ferroseed / Vullaby       |    1 |   1.67% |   0.00% |
+| 70   | Larvesta / Staryu / Chinchou / Gastly / Vullaby         |    1 |   1.67% |   0.00% |
+| 70   | Larvesta / Staryu / Chinchou / Ferroseed / Gastly       |    1 |   1.67% |   0.00% |
+| 70   | Larvesta / Staryu / Ferroseed / Gastly / Vullaby        |    1 |   1.67% |   0.00% |
+| 70   | Larvesta / Staryu / Chinchou / Ferroseed / Vullaby      |    1 |   1.67% |   0.00% |
+| 70   | Larvesta / Chinchou / Ferroseed / Gastly / Vullaby      |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Timburr / Pawniard / Drifloon / Vullaby        |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Chinchou / Pawniard / Drifloon / Vullaby       |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Timburr / Chinchou / Pawniard / Drifloon       |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Chinchou / Pawniard / Drifloon / Vullaby      |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Timburr / Chinchou / Pawniard / Vullaby        |    1 |   1.67% |   0.00% |
+| 70   | Riolu / Abra / Gastly / Omanyte / Vullaby               |    1 |   1.67% |   0.00% |
+| 70   | Riolu / Abra / Chinchou / Gastly / Omanyte              |    1 |   1.67% |   0.00% |
+| 70   | Riolu / Abra / Chinchou / Omanyte / Vullaby             |    1 |   1.67% |   0.00% |
+| 70   | Riolu / Chinchou / Gastly / Omanyte / Vullaby           |    1 |   1.67% |   0.00% |
+| 70   | Riolu / Abra / Chinchou / Gastly / Vullaby              |    1 |   1.67% |   0.00% |
+| 70   | Abra / Chinchou / Gastly / Omanyte / Vullaby            |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Clamperl / Porygon / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Natu / Clamperl / Porygon / Mienfoo            |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Natu / Clamperl / Mienfoo            |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Natu / Clamperl / Porygon            |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Natu / Porygon / Mienfoo             |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Natu / Clamperl / Porygon / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Ferroseed / Gastly / Omanyte / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Timburr / Ferroseed / Gastly / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Ferroseed / Gastly / Omanyte / Mienfoo        |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Timburr / Ferroseed / Omanyte / Mienfoo        |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Timburr / Ferroseed / Gastly / Omanyte         |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Abra / Diglett / Gastly / Mienfoo              |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Abra / Bronzor / Gastly / Mienfoo              |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Bronzor / Gastly / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Abra / Diglett / Bronzor / Gastly              |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Abra / Diglett / Bronzor / Mienfoo             |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Timburr / Gastly / Omanyte / Porygon           |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Timburr / Omanyte / Porygon / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Gastly / Omanyte / Porygon / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Gastly / Omanyte / Porygon / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Stunky / Timburr / Gastly / Porygon / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Abra / Pawniard / Ferroseed / Gastly / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Abra / Chinchou / Pawniard / Gastly / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Abra / Chinchou / Pawniard / Ferroseed / Mienfoo        |    1 |   1.67% |   0.00% |
+| 70   | Chinchou / Pawniard / Ferroseed / Gastly / Mienfoo      |    1 |   1.67% |   0.00% |
+| 70   | Magnemite / Snover / Archen / Frillish / Mienfoo        |    1 |   1.67% |   0.00% |
+| 70   | Magnemite / Diglett / Snover / Archen / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Magnemite / Diglett / Snover / Archen / Frillish        |    1 |   1.67% |   0.00% |
+| 70   | Magnemite / Diglett / Snover / Frillish / Mienfoo       |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Snover / Archen / Frillish / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Magnemite / Diglett / Archen / Frillish / Mienfoo       |    1 |   1.67% |   0.00% |
+| 70   | Abra / Drilbur / Ferroseed / Omanyte / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Abra / Drilbur / Ferroseed / Gastly / Omanyte           |    1 |   1.67% |   0.00% |
+| 70   | Abra / Ferroseed / Gastly / Omanyte / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Skorupi / Frillish / Abra / Gastly / Porygon            |    1 |   1.67% |   0.00% |
+| 70   | Skorupi / Abra / Drilbur / Gastly / Frillish            |    1 |   1.67% |   0.00% |
+| 70   | Skorupi / Abra / Drilbur / Gastly / Porygon             |    1 |   1.67% |   0.00% |
+| 70   | Skorupi / Frillish / Abra / Drilbur / Porygon           |    1 |   1.67% |   0.00% |
+| 70   | Skorupi / Frillish / Drilbur / Gastly / Porygon         |    1 |   1.67% |   0.00% |
+| 70   | Frillish / Abra / Drilbur / Gastly / Porygon            |    1 |   1.67% |   0.00% |
+| 70   | Frillish / Diglett / Natu / Snover / Porygon            |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Natu / Smoochum / Snover / Frillish           |    1 |   1.67% |   0.00% |
+| 70   | Frillish / Diglett / Natu / Smoochum / Porygon          |    1 |   1.67% |   0.00% |
+| 70   | Frillish / Natu / Smoochum / Snover / Porygon           |    1 |   1.67% |   0.00% |
+| 70   | Frillish / Diglett / Smoochum / Snover / Porygon        |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Natu / Smoochum / Snover / Porygon            |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Omanyte / Vullaby / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Gastly / Omanyte / Vullaby           |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Gastly / Vullaby / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Diglett / Gastly / Omanyte / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Staryu / Gastly / Omanyte / Vullaby / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Gastly / Omanyte / Vullaby / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Diglett / Chinchou / Gastly / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Chinchou / Pawniard / Gastly / Mienfoo        |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Diglett / Chinchou / Pawniard / Mienfoo       |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Diglett / Pawniard / Gastly / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Chinchou / Pawniard / Gastly / Mienfoo        |    1 |   1.67% |   0.00% |
+| 70   | Timburr / Diglett / Chinchou / Pawniard / Gastly        |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Hippopotas / Frillish / Lileep / Mienfoo      |    1 |   1.67% |   0.00% |
+| 70   | Bronzor / Hippopotas / Frillish / Lileep / Mienfoo      |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Bronzor / Frillish / Lileep / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Bronzor / Hippopotas / Frillish / Mienfoo     |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Bronzor / Hippopotas / Lileep / Mienfoo       |    1 |   1.67% |   0.00% |
+| 70   | Diglett / Bronzor / Hippopotas / Frillish / Lileep      |    1 |   1.67% |   0.00% |
+| 70   | Abra / Drilbur / Ferroseed / Vullaby / Mienfoo          |    1 |   1.67% |   0.00% |
+| 70   | Abra / Drilbur / Ferroseed / Gastly / Vullaby           |    1 |   1.67% |   0.00% |
+| 70   | Abra / Drilbur / Gastly / Frillish / Mienfoo            |    1 |   1.67% |   0.00% |
+| 70   | Abra / Drilbur / Gastly / Frillish / Vullaby            |    1 |   1.67% |   0.00% |
+| 70   | Drilbur / Gastly / Frillish / Vullaby / Mienfoo         |    1 |   1.67% |   0.00% |
+| 70   | Abra / Drilbur / Frillish / Vullaby / Mienfoo           |    1 |   1.67% |   0.00% |
+| 70   | Abra / Gastly / Frillish / Vullaby / Mienfoo            |    1 |   1.67% |   0.00% |
+
++ ---- + ----------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                       | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Abra / Diglett / Ferroseed / Gastly / Vullaby / Mienfoo           |    3 |   5.00% | 100.00% |
+| 1    | Ferroseed / Drifloon / Hippopotas / Frillish / Carvanha / Mienfoo |    3 |   5.00% |   0.00% |
+| 3    | Timburr / Bronzor / Natu / Hippopotas / Frillish / Lileep         |    2 |   3.33% | 100.00% |
+| 3    | Carvanha / Ferroseed / Hippopotas / Frillish / Vullaby / Mienfoo  |    2 |   3.33% | 100.00% |
+| 3    | Porygon / Bronzor / Gastly / Hippopotas / Omanyte / Mienfoo       |    2 |   3.33% |  50.00% |
+| 3    | Pawniard / Gastly / Hippopotas / Archen / Frillish / Lileep       |    2 |   3.33% |  50.00% |
+| 3    | Abra / Drilbur / Gastly / Omanyte / Vullaby / Mienfoo             |    2 |   3.33% |  50.00% |
+| 3    | Staryu / Pawniard / Gastly / Snover / Vullaby / Mienfoo           |    2 |   3.33% |  50.00% |
+| 3    | Abra / Bronzor / Diglett / Chinchou / Gastly / Mienfoo            |    2 |   3.33% |   0.00% |
+| 3    | Tentacool / Vullaby / Gastly / Hippopotas / Lileep / Mienfoo      |    2 |   3.33% |   0.00% |
+| 11   | Natu / Ferroseed / Gastly / Archen / Omanyte / Mienfoo            |    1 |   1.67% | 100.00% |
+| 11   | Drilbur / Ferroseed / Gastly / Omanyte / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 11   | Timburr / Pawniard / Ferroseed / Gastly / Vullaby / Mienfoo       |    1 |   1.67% | 100.00% |
+| 11   | Porygon / Timburr / Diglett / Gastly / Omanyte / Vullaby          |    1 |   1.67% | 100.00% |
+| 11   | Staryu / Chinchou / Ferroseed / Gastly / Vullaby / Mienfoo        |    1 |   1.67% | 100.00% |
+| 11   | Tentacool / Pawniard / Gastly / Hippopotas / Archen / Lileep      |    1 |   1.67% | 100.00% |
+| 11   | Staryu / Bronzor / Diglett / Frillish / Vullaby / Mienfoo         |    1 |   1.67% | 100.00% |
+| 11   | Timburr / Diglett / Pawniard / Ferroseed / Gastly / Omanyte       |    1 |   1.67% | 100.00% |
+| 11   | Magnemite / Timburr / Diglett / Natu / Shellder / Vullaby         |    1 |   1.67% | 100.00% |
+| 11   | Porygon / Abra / Drilbur / Ferroseed / Frillish / Mienfoo         |    1 |   1.67% | 100.00% |
+| 11   | Ponyta / Natu / Drilbur / Ferroseed / Pawniard / Frillish         |    1 |   1.67% | 100.00% |
+| 11   | Porygon / Abra / Diglett / Gastly / Omanyte / Mienfoo             |    1 |   1.67% | 100.00% |
+| 11   | Abra / Chinchou / Ferroseed / Gastly / Vullaby / Mienfoo          |    1 |   1.67% | 100.00% |
+| 11   | Timburr / Diglett / Chinchou / Ferroseed / Gastly / Vullaby       |    1 |   1.67% | 100.00% |
+| 11   | Abra / Diglett / Elekid / Ferroseed / Gastly / Mienfoo            |    1 |   1.67% | 100.00% |
+| 11   | Abra / Diglett / Ferroseed / Omanyte / Vullaby / Mienfoo          |    1 |   1.67% | 100.00% |
+| 11   | Timburr / Chinchou / Natu / Pawniard / Gastly / Porygon           |    1 |   1.67% | 100.00% |
+| 11   | Abra / Chinchou / Pawniard / Ferroseed / Gastly / Vullaby         |    1 |   1.67% | 100.00% |
+| 11   | Tentacool / Snover / Magnemite / Drilbur / Drifloon / Mienfoo     |    1 |   1.67% | 100.00% |
+| 11   | Natu / Clamperl / Gastly / Hippopotas / Porygon / Mienfoo         |    1 |   1.67% |   0.00% |
+| 11   | Staryu / Timburr / Chinchou / Ferroseed / Drifloon / Vullaby      |    1 |   1.67% |   0.00% |
+| 11   | Larvesta / Staryu / Chinchou / Ferroseed / Gastly / Vullaby       |    1 |   1.67% |   0.00% |
+| 11   | Staryu / Timburr / Chinchou / Pawniard / Drifloon / Vullaby       |    1 |   1.67% |   0.00% |
+| 11   | Riolu / Abra / Chinchou / Gastly / Omanyte / Vullaby              |    1 |   1.67% |   0.00% |
+| 11   | Staryu / Diglett / Natu / Clamperl / Porygon / Mienfoo            |    1 |   1.67% |   0.00% |
+| 11   | Stunky / Timburr / Ferroseed / Gastly / Omanyte / Mienfoo         |    1 |   1.67% |   0.00% |
+| 11   | Staryu / Abra / Diglett / Bronzor / Gastly / Mienfoo              |    1 |   1.67% |   0.00% |
+| 11   | Stunky / Timburr / Gastly / Omanyte / Porygon / Mienfoo           |    1 |   1.67% |   0.00% |
+| 11   | Abra / Chinchou / Pawniard / Ferroseed / Gastly / Mienfoo         |    1 |   1.67% |   0.00% |
+| 11   | Magnemite / Diglett / Snover / Archen / Frillish / Mienfoo        |    1 |   1.67% |   0.00% |
+| 11   | Abra / Drilbur / Ferroseed / Gastly / Omanyte / Mienfoo           |    1 |   1.67% |   0.00% |
+| 11   | Skorupi / Frillish / Abra / Drilbur / Gastly / Porygon            |    1 |   1.67% |   0.00% |
+| 11   | Frillish / Diglett / Natu / Smoochum / Snover / Porygon           |    1 |   1.67% |   0.00% |
+| 11   | Staryu / Diglett / Gastly / Omanyte / Vullaby / Mienfoo           |    1 |   1.67% |   0.00% |
+| 11   | Timburr / Diglett / Chinchou / Pawniard / Gastly / Mienfoo        |    1 |   1.67% |   0.00% |
+| 11   | Diglett / Bronzor / Hippopotas / Frillish / Lileep / Mienfoo      |    1 |   1.67% |   0.00% |
+| 11   | Abra / Drilbur / Ferroseed / Gastly / Vullaby / Mienfoo           |    1 |   1.67% |   0.00% |
+| 11   | Abra / Drilbur / Gastly / Frillish / Vullaby / Mienfoo            |    1 |   1.67% |   0.00% |
