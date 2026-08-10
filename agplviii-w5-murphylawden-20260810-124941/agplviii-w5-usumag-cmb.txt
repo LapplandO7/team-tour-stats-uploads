@@ -1,0 +1,317 @@
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza                |    8 | 133.33% |  37.50% |
+| 2    | Arceus-*                           |    5 |  83.33% |  20.00% |
+| 3    | Arceus-Fairy / Rayquaza            |    3 |  50.00% |  33.33% |
+| 3    | Arceus-* / Deoxys-Speed            |    3 |  50.00% |   0.00% |
+| 3    | Arceus-* / Groudon                 |    3 |  50.00% |   0.00% |
+| 6    | Stakataka / Mew                    |    2 |  33.33% | 100.00% |
+| 6    | Arceus-* / Stakataka               |    2 |  33.33% | 100.00% |
+| 6    | Necrozma-Dawn-Wings / Stakataka    |    2 |  33.33% | 100.00% |
+| 6    | Rayquaza / Stakataka               |    2 |  33.33% | 100.00% |
+| 6    | Arceus-Fairy / Stakataka           |    2 |  33.33% | 100.00% |
+| 6    | Arceus-* / Chansey                 |    2 |  33.33% | 100.00% |
+| 6    | Arceus-* / Skarmory                |    2 |  33.33% | 100.00% |
+| 6    | Arceus-* / Tyranitar               |    2 |  33.33% | 100.00% |
+| 6    | Rayquaza / Groudon                 |    2 |  33.33% |  50.00% |
+| 6    | Rayquaza / Necrozma-Dusk-Mane      |    2 |  33.33% |  50.00% |
+| 6    | Rayquaza / Yveltal                 |    2 |  33.33% |  50.00% |
+| 6    | Necrozma-Dusk-Mane / Yveltal       |    2 |  33.33% |  50.00% |
+| 6    | Weavile / Ditto                    |    2 |  33.33% |   0.00% |
+| 6    | Ditto / Giratina                   |    2 |  33.33% |   0.00% |
+| 6    | Smeargle / Ditto                   |    2 |  33.33% |   0.00% |
+| 6    | Gengar / Ditto                     |    2 |  33.33% |   0.00% |
+| 6    | Arceus-* / Necrozma-Dusk-Mane      |    2 |  33.33% |   0.00% |
+| 6    | Arceus-* / Yveltal                 |    2 |  33.33% |   0.00% |
+| 6    | Arceus-* / Marshadow               |    2 |  33.33% |   0.00% |
+| 25   | Arceus-* / Mew                     |    1 |  16.67% | 100.00% |
+| 25   | Necrozma-Dawn-Wings / Mew          |    1 |  16.67% | 100.00% |
+| 25   | Rayquaza / Mew                     |    1 |  16.67% | 100.00% |
+| 25   | Arceus-Fairy / Mew                 |    1 |  16.67% | 100.00% |
+| 25   | Arceus-* / Necrozma-Dawn-Wings     |    1 |  16.67% | 100.00% |
+| 25   | Rayquaza / Necrozma-Dawn-Wings     |    1 |  16.67% | 100.00% |
+| 25   | Arceus-Fairy / Necrozma-Dawn-Wings |    1 |  16.67% | 100.00% |
+| 25   | Stakataka                          |    1 |  16.67% | 100.00% |
+| 25   | Chansey / Skarmory                 |    1 |  16.67% | 100.00% |
+| 25   | Rayquaza / Chansey                 |    1 |  16.67% | 100.00% |
+| 25   | Chansey / Tyranitar                |    1 |  16.67% | 100.00% |
+| 25   | Arceus-Water / Chansey             |    1 |  16.67% | 100.00% |
+| 25   | Rayquaza / Skarmory                |    1 |  16.67% | 100.00% |
+| 25   | Tyranitar / Skarmory               |    1 |  16.67% | 100.00% |
+| 25   | Arceus-Water / Skarmory            |    1 |  16.67% | 100.00% |
+| 25   | Rayquaza / Tyranitar               |    1 |  16.67% | 100.00% |
+| 25   | Arceus-Water / Rayquaza            |    1 |  16.67% | 100.00% |
+| 25   | Arceus-Water / Tyranitar           |    1 |  16.67% | 100.00% |
+| 25   | Rayquaza / Smeargle                |    1 |  16.67% | 100.00% |
+| 25   | Kyogre / Smeargle                  |    1 |  16.67% | 100.00% |
+| 25   | Necrozma-Dusk-Mane / Smeargle      |    1 |  16.67% | 100.00% |
+| 25   | Smeargle / Yveltal                 |    1 |  16.67% | 100.00% |
+| 25   | Smeargle / Groudon                 |    1 |  16.67% | 100.00% |
+| 25   | Kyogre / Rayquaza                  |    1 |  16.67% | 100.00% |
+| 25   | Kyogre / Necrozma-Dusk-Mane        |    1 |  16.67% | 100.00% |
+| 25   | Kyogre / Yveltal                   |    1 |  16.67% | 100.00% |
+| 25   | Kyogre / Groudon                   |    1 |  16.67% | 100.00% |
+| 25   | Necrozma-Dusk-Mane / Groudon       |    1 |  16.67% | 100.00% |
+| 25   | Yveltal / Groudon                  |    1 |  16.67% | 100.00% |
+| 25   | Rayquaza / Deoxys-Speed            |    1 |  16.67% |   0.00% |
+| 25   | Groudon / Deoxys-Speed             |    1 |  16.67% |   0.00% |
+| 25   | Arceus-Fairy / Deoxys-Speed        |    1 |  16.67% |   0.00% |
+| 25   | Arceus-Fairy / Groudon             |    1 |  16.67% |   0.00% |
+| 25   | Weavile / Giratina                 |    1 |  16.67% |   0.00% |
+| 25   | Weavile / Smeargle                 |    1 |  16.67% |   0.00% |
+| 25   | Weavile / Gengar                   |    1 |  16.67% |   0.00% |
+| 25   | Smeargle / Giratina                |    1 |  16.67% |   0.00% |
+| 25   | Gengar / Giratina                  |    1 |  16.67% |   0.00% |
+| 25   | Gengar / Smeargle                  |    1 |  16.67% |   0.00% |
+| 25   | Ditto                              |    1 |  16.67% |   0.00% |
+| 25   | Rayquaza / Marshadow               |    1 |  16.67% |   0.00% |
+| 25   | Necrozma-Dusk-Mane / Marshadow     |    1 |  16.67% |   0.00% |
+| 25   | Arceus-Fairy / Necrozma-Dusk-Mane  |    1 |  16.67% |   0.00% |
+| 25   | Yveltal / Marshadow                |    1 |  16.67% |   0.00% |
+| 25   | Arceus-Fairy / Yveltal             |    1 |  16.67% |   0.00% |
+| 25   | Arceus-Fairy / Marshadow           |    1 |  16.67% |   0.00% |
+
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                    | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza                            |    5 |  83.33% |  20.00% |
+| 2    | Arceus-* / Rayquaza / Deoxys-Speed             |    3 |  50.00% |   0.00% |
+| 2    | Arceus-* / Deoxys-Speed                        |    3 |  50.00% |   0.00% |
+| 2    | Arceus-* / Groudon / Deoxys-Speed              |    3 |  50.00% |   0.00% |
+| 2    | Arceus-* / Rayquaza / Groudon                  |    3 |  50.00% |   0.00% |
+| 2    | Arceus-* / Groudon                             |    3 |  50.00% |   0.00% |
+| 7    | Stakataka / Arceus-* / Mew                     |    2 |  33.33% | 100.00% |
+| 7    | Stakataka / Necrozma-Dawn-Wings / Mew          |    2 |  33.33% | 100.00% |
+| 7    | Stakataka / Rayquaza / Mew                     |    2 |  33.33% | 100.00% |
+| 7    | Stakataka / Arceus-Fairy / Mew                 |    2 |  33.33% | 100.00% |
+| 7    | Arceus-* / Necrozma-Dawn-Wings / Stakataka     |    2 |  33.33% | 100.00% |
+| 7    | Arceus-* / Rayquaza / Stakataka                |    2 |  33.33% | 100.00% |
+| 7    | Rayquaza / Necrozma-Dawn-Wings / Stakataka     |    2 |  33.33% | 100.00% |
+| 7    | Arceus-Fairy / Necrozma-Dawn-Wings / Stakataka |    2 |  33.33% | 100.00% |
+| 7    | Arceus-Fairy / Rayquaza / Stakataka            |    2 |  33.33% | 100.00% |
+| 7    | Arceus-* / Chansey / Skarmory                  |    2 |  33.33% | 100.00% |
+| 7    | Rayquaza / Chansey / Arceus-*                  |    2 |  33.33% | 100.00% |
+| 7    | Arceus-* / Chansey / Tyranitar                 |    2 |  33.33% | 100.00% |
+| 7    | Arceus-* / Rayquaza / Skarmory                 |    2 |  33.33% | 100.00% |
+| 7    | Arceus-* / Tyranitar / Skarmory                |    2 |  33.33% | 100.00% |
+| 7    | Arceus-* / Rayquaza / Tyranitar                |    2 |  33.33% | 100.00% |
+| 7    | Rayquaza / Necrozma-Dusk-Mane / Yveltal        |    2 |  33.33% |  50.00% |
+| 7    | Weavile / Ditto / Giratina                     |    2 |  33.33% |   0.00% |
+| 7    | Weavile / Smeargle / Ditto                     |    2 |  33.33% |   0.00% |
+| 7    | Weavile / Gengar / Ditto                       |    2 |  33.33% |   0.00% |
+| 7    | Smeargle / Ditto / Giratina                    |    2 |  33.33% |   0.00% |
+| 7    | Gengar / Ditto / Giratina                      |    2 |  33.33% |   0.00% |
+| 7    | Gengar / Smeargle / Ditto                      |    2 |  33.33% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane       |    2 |  33.33% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Yveltal                  |    2 |  33.33% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Marshadow                |    2 |  33.33% |   0.00% |
+| 7    | Arceus-* / Necrozma-Dusk-Mane / Yveltal        |    2 |  33.33% |   0.00% |
+| 7    | Arceus-* / Necrozma-Dusk-Mane / Marshadow      |    2 |  33.33% |   0.00% |
+| 7    | Arceus-* / Yveltal / Marshadow                 |    2 |  33.33% |   0.00% |
+| 35   | Arceus-* / Necrozma-Dawn-Wings / Mew           |    1 |  16.67% | 100.00% |
+| 35   | Arceus-* / Rayquaza / Mew                      |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Necrozma-Dawn-Wings / Mew           |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Fairy / Necrozma-Dawn-Wings / Mew       |    1 |  16.67% | 100.00% |
+| 35   | Stakataka / Mew                                |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Fairy / Rayquaza / Mew                  |    1 |  16.67% | 100.00% |
+| 35   | Arceus-* / Rayquaza / Necrozma-Dawn-Wings      |    1 |  16.67% | 100.00% |
+| 35   | Arceus-* / Stakataka                           |    1 |  16.67% | 100.00% |
+| 35   | Necrozma-Dawn-Wings / Stakataka                |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Fairy / Rayquaza / Necrozma-Dawn-Wings  |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Stakataka                           |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Fairy / Stakataka                       |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Chansey / Skarmory                  |    1 |  16.67% | 100.00% |
+| 35   | Chansey / Skarmory / Tyranitar                 |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Water / Chansey / Skarmory              |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Chansey / Tyranitar                 |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Water / Rayquaza / Chansey              |    1 |  16.67% | 100.00% |
+| 35   | Arceus-* / Chansey                             |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Water / Chansey / Tyranitar             |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Skarmory / Tyranitar                |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Water / Rayquaza / Skarmory             |    1 |  16.67% | 100.00% |
+| 35   | Arceus-* / Skarmory                            |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Water / Tyranitar / Skarmory            |    1 |  16.67% | 100.00% |
+| 35   | Arceus-Water / Rayquaza / Tyranitar            |    1 |  16.67% | 100.00% |
+| 35   | Arceus-* / Tyranitar                           |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Rayquaza / Smeargle                   |    1 |  16.67% | 100.00% |
+| 35   | Necrozma-Dusk-Mane / Rayquaza / Smeargle       |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Smeargle / Yveltal                  |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Smeargle / Groudon                  |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Necrozma-Dusk-Mane / Smeargle         |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Smeargle / Yveltal                    |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Smeargle / Groudon                    |    1 |  16.67% | 100.00% |
+| 35   | Necrozma-Dusk-Mane / Smeargle / Yveltal        |    1 |  16.67% | 100.00% |
+| 35   | Necrozma-Dusk-Mane / Smeargle / Groudon        |    1 |  16.67% | 100.00% |
+| 35   | Smeargle / Yveltal / Groudon                   |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Rayquaza / Necrozma-Dusk-Mane         |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Rayquaza / Yveltal                    |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Rayquaza / Groudon                    |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Necrozma-Dusk-Mane / Groudon        |    1 |  16.67% | 100.00% |
+| 35   | Rayquaza / Yveltal / Groudon                   |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Necrozma-Dusk-Mane / Yveltal          |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Necrozma-Dusk-Mane / Groudon          |    1 |  16.67% | 100.00% |
+| 35   | Kyogre / Yveltal / Groudon                     |    1 |  16.67% | 100.00% |
+| 35   | Necrozma-Dusk-Mane / Yveltal / Groudon         |    1 |  16.67% | 100.00% |
+| 35   | Arceus-*                                       |    1 |  16.67% |   0.00% |
+| 35   | Rayquaza / Groudon / Deoxys-Speed              |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Rayquaza / Deoxys-Speed         |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Groudon / Deoxys-Speed          |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Rayquaza / Groudon              |    1 |  16.67% |   0.00% |
+| 35   | Weavile / Smeargle / Giratina                  |    1 |  16.67% |   0.00% |
+| 35   | Weavile / Gengar / Giratina                    |    1 |  16.67% |   0.00% |
+| 35   | Weavile / Gengar / Smeargle                    |    1 |  16.67% |   0.00% |
+| 35   | Weavile / Ditto                                |    1 |  16.67% |   0.00% |
+| 35   | Gengar / Smeargle / Giratina                   |    1 |  16.67% |   0.00% |
+| 35   | Ditto / Giratina                               |    1 |  16.67% |   0.00% |
+| 35   | Smeargle / Ditto                               |    1 |  16.67% |   0.00% |
+| 35   | Gengar / Ditto                                 |    1 |  16.67% |   0.00% |
+| 35   | Rayquaza / Necrozma-Dusk-Mane / Marshadow      |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Rayquaza / Necrozma-Dusk-Mane   |    1 |  16.67% |   0.00% |
+| 35   | Rayquaza / Yveltal / Marshadow                 |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Rayquaza / Yveltal              |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Rayquaza / Marshadow            |    1 |  16.67% |   0.00% |
+| 35   | Necrozma-Dusk-Mane / Yveltal / Marshadow       |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Necrozma-Dusk-Mane / Yveltal    |    1 |  16.67% |   0.00% |
+| 35   | Arceus-* / Necrozma-Dusk-Mane                  |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Necrozma-Dusk-Mane / Marshadow  |    1 |  16.67% |   0.00% |
+| 35   | Arceus-* / Yveltal                             |    1 |  16.67% |   0.00% |
+| 35   | Arceus-Fairy / Yveltal / Marshadow             |    1 |  16.67% |   0.00% |
+| 35   | Arceus-* / Marshadow                           |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                               | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza / Deoxys-Speed                        |    3 |  50.00% |   0.00% |
+| 1    | Arceus-* / Rayquaza / Groudon / Deoxys-Speed              |    3 |  50.00% |   0.00% |
+| 1    | Arceus-* / Groudon / Deoxys-Speed                         |    3 |  50.00% |   0.00% |
+| 1    | Arceus-* / Rayquaza / Groudon                             |    3 |  50.00% |   0.00% |
+| 5    | Stakataka / Arceus-* / Necrozma-Dawn-Wings / Mew          |    2 |  33.33% | 100.00% |
+| 5    | Stakataka / Arceus-* / Rayquaza / Mew                     |    2 |  33.33% | 100.00% |
+| 5    | Stakataka / Rayquaza / Necrozma-Dawn-Wings / Mew          |    2 |  33.33% | 100.00% |
+| 5    | Stakataka / Arceus-Fairy / Necrozma-Dawn-Wings / Mew      |    2 |  33.33% | 100.00% |
+| 5    | Stakataka / Arceus-Fairy / Rayquaza / Mew                 |    2 |  33.33% | 100.00% |
+| 5    | Arceus-* / Rayquaza / Necrozma-Dawn-Wings / Stakataka     |    2 |  33.33% | 100.00% |
+| 5    | Arceus-Fairy / Rayquaza / Necrozma-Dawn-Wings / Stakataka |    2 |  33.33% | 100.00% |
+| 5    | Rayquaza / Chansey / Skarmory / Arceus-*                  |    2 |  33.33% | 100.00% |
+| 5    | Arceus-* / Chansey / Skarmory / Tyranitar                 |    2 |  33.33% | 100.00% |
+| 5    | Rayquaza / Chansey / Tyranitar / Arceus-*                 |    2 |  33.33% | 100.00% |
+| 5    | Arceus-* / Rayquaza / Skarmory / Tyranitar                |    2 |  33.33% | 100.00% |
+| 5    | Weavile / Smeargle / Ditto / Giratina                     |    2 |  33.33% |   0.00% |
+| 5    | Weavile / Gengar / Ditto / Giratina                       |    2 |  33.33% |   0.00% |
+| 5    | Weavile / Gengar / Smeargle / Ditto                       |    2 |  33.33% |   0.00% |
+| 5    | Gengar / Smeargle / Ditto / Giratina                      |    2 |  33.33% |   0.00% |
+| 5    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Yveltal        |    2 |  33.33% |   0.00% |
+| 5    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Marshadow      |    2 |  33.33% |   0.00% |
+| 5    | Arceus-* / Rayquaza / Yveltal / Marshadow                 |    2 |  33.33% |   0.00% |
+| 5    | Arceus-* / Necrozma-Dusk-Mane / Yveltal / Marshadow       |    2 |  33.33% |   0.00% |
+| 24   | Arceus-* / Rayquaza / Necrozma-Dawn-Wings / Mew           |    1 |  16.67% | 100.00% |
+| 24   | Stakataka / Arceus-* / Mew                                |    1 |  16.67% | 100.00% |
+| 24   | Stakataka / Necrozma-Dawn-Wings / Mew                     |    1 |  16.67% | 100.00% |
+| 24   | Arceus-Fairy / Rayquaza / Necrozma-Dawn-Wings / Mew       |    1 |  16.67% | 100.00% |
+| 24   | Stakataka / Rayquaza / Mew                                |    1 |  16.67% | 100.00% |
+| 24   | Stakataka / Arceus-Fairy / Mew                            |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Necrozma-Dawn-Wings / Stakataka                |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Rayquaza / Stakataka                           |    1 |  16.67% | 100.00% |
+| 24   | Rayquaza / Necrozma-Dawn-Wings / Stakataka                |    1 |  16.67% | 100.00% |
+| 24   | Arceus-Fairy / Necrozma-Dawn-Wings / Stakataka            |    1 |  16.67% | 100.00% |
+| 24   | Arceus-Fairy / Rayquaza / Stakataka                       |    1 |  16.67% | 100.00% |
+| 24   | Rayquaza / Chansey / Skarmory / Tyranitar                 |    1 |  16.67% | 100.00% |
+| 24   | Arceus-Water / Rayquaza / Chansey / Skarmory              |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Chansey / Skarmory                             |    1 |  16.67% | 100.00% |
+| 24   | Arceus-Water / Chansey / Skarmory / Tyranitar             |    1 |  16.67% | 100.00% |
+| 24   | Rayquaza / Chansey / Arceus-*                             |    1 |  16.67% | 100.00% |
+| 24   | Arceus-Water / Rayquaza / Chansey / Tyranitar             |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Chansey / Tyranitar                            |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Rayquaza / Skarmory                            |    1 |  16.67% | 100.00% |
+| 24   | Arceus-Water / Rayquaza / Skarmory / Tyranitar            |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Tyranitar / Skarmory                           |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Rayquaza / Tyranitar                           |    1 |  16.67% | 100.00% |
+| 24   | Necrozma-Dusk-Mane / Kyogre / Rayquaza / Smeargle         |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Rayquaza / Smeargle / Yveltal                    |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Rayquaza / Smeargle / Groudon                    |    1 |  16.67% | 100.00% |
+| 24   | Necrozma-Dusk-Mane / Rayquaza / Smeargle / Yveltal        |    1 |  16.67% | 100.00% |
+| 24   | Necrozma-Dusk-Mane / Rayquaza / Smeargle / Groudon        |    1 |  16.67% | 100.00% |
+| 24   | Rayquaza / Smeargle / Yveltal / Groudon                   |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Necrozma-Dusk-Mane / Smeargle / Yveltal          |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Necrozma-Dusk-Mane / Smeargle / Groudon          |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Smeargle / Yveltal / Groudon                     |    1 |  16.67% | 100.00% |
+| 24   | Necrozma-Dusk-Mane / Smeargle / Yveltal / Groudon         |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Rayquaza / Necrozma-Dusk-Mane / Yveltal          |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Rayquaza / Necrozma-Dusk-Mane / Groudon          |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Rayquaza / Yveltal / Groudon                     |    1 |  16.67% | 100.00% |
+| 24   | Rayquaza / Necrozma-Dusk-Mane / Yveltal / Groudon         |    1 |  16.67% | 100.00% |
+| 24   | Kyogre / Necrozma-Dusk-Mane / Yveltal / Groudon           |    1 |  16.67% | 100.00% |
+| 24   | Arceus-* / Deoxys-Speed                                   |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Rayquaza                                       |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Groudon                                        |    1 |  16.67% |   0.00% |
+| 24   | Arceus-Fairy / Rayquaza / Groudon / Deoxys-Speed          |    1 |  16.67% |   0.00% |
+| 24   | Weavile / Gengar / Smeargle / Giratina                    |    1 |  16.67% |   0.00% |
+| 24   | Weavile / Ditto / Giratina                                |    1 |  16.67% |   0.00% |
+| 24   | Weavile / Smeargle / Ditto                                |    1 |  16.67% |   0.00% |
+| 24   | Weavile / Gengar / Ditto                                  |    1 |  16.67% |   0.00% |
+| 24   | Smeargle / Ditto / Giratina                               |    1 |  16.67% |   0.00% |
+| 24   | Gengar / Ditto / Giratina                                 |    1 |  16.67% |   0.00% |
+| 24   | Gengar / Smeargle / Ditto                                 |    1 |  16.67% |   0.00% |
+| 24   | Rayquaza / Necrozma-Dusk-Mane / Yveltal / Marshadow       |    1 |  16.67% |   0.00% |
+| 24   | Arceus-Fairy / Rayquaza / Necrozma-Dusk-Mane / Yveltal    |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Rayquaza / Necrozma-Dusk-Mane                  |    1 |  16.67% |   0.00% |
+| 24   | Arceus-Fairy / Rayquaza / Necrozma-Dusk-Mane / Marshadow  |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Rayquaza / Yveltal                             |    1 |  16.67% |   0.00% |
+| 24   | Arceus-Fairy / Rayquaza / Yveltal / Marshadow             |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Rayquaza / Marshadow                           |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Necrozma-Dusk-Mane / Yveltal                   |    1 |  16.67% |   0.00% |
+| 24   | Arceus-Fairy / Necrozma-Dusk-Mane / Yveltal / Marshadow   |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Necrozma-Dusk-Mane / Marshadow                 |    1 |  16.67% |   0.00% |
+| 24   | Arceus-* / Yveltal / Marshadow                            |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza / Groudon / Deoxys-Speed                       |    3 |  50.00% |   0.00% |
+| 2    | Arceus-* / Stakataka / Necrozma-Dawn-Wings / Rayquaza / Mew        |    2 |  33.33% | 100.00% |
+| 2    | Arceus-Fairy / Stakataka / Necrozma-Dawn-Wings / Rayquaza / Mew    |    2 |  33.33% | 100.00% |
+| 2    | Arceus-* / Tyranitar / Chansey / Rayquaza / Skarmory               |    2 |  33.33% | 100.00% |
+| 2    | Weavile / Gengar / Smeargle / Ditto / Giratina                     |    2 |  33.33% |   0.00% |
+| 2    | Arceus-* / Necrozma-Dusk-Mane / Marshadow / Rayquaza / Yveltal     |    2 |  33.33% |   0.00% |
+| 7    | Stakataka / Arceus-* / Necrozma-Dawn-Wings / Mew                   |    1 |  16.67% | 100.00% |
+| 7    | Stakataka / Arceus-* / Rayquaza / Mew                              |    1 |  16.67% | 100.00% |
+| 7    | Stakataka / Rayquaza / Necrozma-Dawn-Wings / Mew                   |    1 |  16.67% | 100.00% |
+| 7    | Stakataka / Arceus-Fairy / Necrozma-Dawn-Wings / Mew               |    1 |  16.67% | 100.00% |
+| 7    | Stakataka / Arceus-Fairy / Rayquaza / Mew                          |    1 |  16.67% | 100.00% |
+| 7    | Arceus-* / Rayquaza / Necrozma-Dawn-Wings / Stakataka              |    1 |  16.67% | 100.00% |
+| 7    | Arceus-Fairy / Rayquaza / Necrozma-Dawn-Wings / Stakataka          |    1 |  16.67% | 100.00% |
+| 7    | Rayquaza / Chansey / Skarmory / Arceus-*                           |    1 |  16.67% | 100.00% |
+| 7    | Arceus-Water / Tyranitar / Chansey / Rayquaza / Skarmory           |    1 |  16.67% | 100.00% |
+| 7    | Arceus-* / Chansey / Skarmory / Tyranitar                          |    1 |  16.67% | 100.00% |
+| 7    | Rayquaza / Chansey / Tyranitar / Arceus-*                          |    1 |  16.67% | 100.00% |
+| 7    | Arceus-* / Rayquaza / Skarmory / Tyranitar                         |    1 |  16.67% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Smeargle / Kyogre / Rayquaza / Yveltal        |    1 |  16.67% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Smeargle / Groudon / Kyogre / Rayquaza        |    1 |  16.67% | 100.00% |
+| 7    | Smeargle / Groudon / Kyogre / Rayquaza / Yveltal                   |    1 |  16.67% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Smeargle / Groudon / Rayquaza / Yveltal       |    1 |  16.67% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Smeargle / Groudon / Kyogre / Yveltal         |    1 |  16.67% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Groudon / Kyogre / Rayquaza / Yveltal         |    1 |  16.67% | 100.00% |
+| 7    | Arceus-* / Rayquaza / Deoxys-Speed                                 |    1 |  16.67% |   0.00% |
+| 7    | Arceus-* / Groudon / Deoxys-Speed                                  |    1 |  16.67% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Groudon                                      |    1 |  16.67% |   0.00% |
+| 7    | Weavile / Smeargle / Ditto / Giratina                              |    1 |  16.67% |   0.00% |
+| 7    | Weavile / Gengar / Ditto / Giratina                                |    1 |  16.67% |   0.00% |
+| 7    | Weavile / Gengar / Smeargle / Ditto                                |    1 |  16.67% |   0.00% |
+| 7    | Gengar / Smeargle / Ditto / Giratina                               |    1 |  16.67% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Yveltal                 |    1 |  16.67% |   0.00% |
+| 7    | Arceus-Fairy / Necrozma-Dusk-Mane / Marshadow / Rayquaza / Yveltal |    1 |  16.67% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Marshadow               |    1 |  16.67% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Yveltal / Marshadow                          |    1 |  16.67% |   0.00% |
+| 7    | Arceus-* / Necrozma-Dusk-Mane / Yveltal / Marshadow                |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Stakataka / Necrozma-Dawn-Wings / Rayquaza / Mew           |    1 |  16.67% | 100.00% |
+| 1    | Arceus-Fairy / Stakataka / Necrozma-Dawn-Wings / Rayquaza / Mew       |    1 |  16.67% | 100.00% |
+| 1    | Arceus-* / Tyranitar / Chansey / Rayquaza / Skarmory                  |    1 |  16.67% | 100.00% |
+| 1    | Necrozma-Dusk-Mane / Smeargle / Groudon / Kyogre / Rayquaza / Yveltal |    1 |  16.67% | 100.00% |
+| 1    | Arceus-* / Rayquaza / Groudon / Deoxys-Speed                          |    1 |  16.67% |   0.00% |
+| 1    | Weavile / Gengar / Smeargle / Ditto / Giratina                        |    1 |  16.67% |   0.00% |
+| 1    | Arceus-* / Necrozma-Dusk-Mane / Marshadow / Rayquaza / Yveltal        |    1 |  16.67% |   0.00% |
