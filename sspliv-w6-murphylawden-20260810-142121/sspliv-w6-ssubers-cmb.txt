@@ -1,0 +1,414 @@
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                           | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| 1    | Necrozma-Dusk-Mane / Yveltal          |    6 |  75.00% |  66.67% |
+| 1    | Eternatus / Necrozma-Dusk-Mane        |    6 |  75.00% |  66.67% |
+| 1    | Eternatus / Yveltal                   |    6 |  75.00% |  66.67% |
+| 4    | Eternatus / Kyogre                    |    4 |  50.00% |  50.00% |
+| 5    | Groudon / Necrozma-Dusk-Mane          |    3 |  37.50% |  66.67% |
+| 5    | Groudon / Yveltal                     |    3 |  37.50% |  66.67% |
+| 5    | Groudon / Eternatus                   |    3 |  37.50% |  66.67% |
+| 5    | Kyogre / Yveltal                      |    3 |  37.50% |  66.67% |
+| 5    | Necrozma-Dusk-Mane / Kyogre           |    3 |  37.50% |  66.67% |
+| 10   | Xerneas-* / Yveltal                   |    2 |  25.00% | 100.00% |
+| 10   | Xerneas-* / Eternatus                 |    2 |  25.00% | 100.00% |
+| 10   | Xerneas-* / Necrozma-Dusk-Mane        |    2 |  25.00% | 100.00% |
+| 10   | Eternatus / Calyrex-Shadow            |    2 |  25.00% |  50.00% |
+| 10   | Landorus-Therian / Kyogre             |    2 |  25.00% |   0.00% |
+| 10   | Eternatus / Landorus-Therian          |    2 |  25.00% |   0.00% |
+| 10   | Clefable / Yveltal                    |    2 |  25.00% |   0.00% |
+| 17   | Necrozma-Dusk-Mane / Weavile          |    1 |  12.50% | 100.00% |
+| 17   | Weavile / Yveltal                     |    1 |  12.50% | 100.00% |
+| 17   | Eternatus / Weavile                   |    1 |  12.50% | 100.00% |
+| 17   | Calyrex-Shadow / Weavile              |    1 |  12.50% | 100.00% |
+| 17   | Groudon / Weavile                     |    1 |  12.50% | 100.00% |
+| 17   | Calyrex-Shadow / Necrozma-Dusk-Mane   |    1 |  12.50% | 100.00% |
+| 17   | Calyrex-Shadow / Yveltal              |    1 |  12.50% | 100.00% |
+| 17   | Groudon / Calyrex-Shadow              |    1 |  12.50% | 100.00% |
+| 17   | Rayquaza / Yveltal                    |    1 |  12.50% | 100.00% |
+| 17   | Rayquaza / Xerneas-*                  |    1 |  12.50% | 100.00% |
+| 17   | Rayquaza / Eternatus                  |    1 |  12.50% | 100.00% |
+| 17   | Rayquaza / Necrozma-Dusk-Mane         |    1 |  12.50% | 100.00% |
+| 17   | Rayquaza / Kyogre                     |    1 |  12.50% | 100.00% |
+| 17   | Xerneas-* / Kyogre                    |    1 |  12.50% | 100.00% |
+| 17   | Ferrothorn / Yveltal                  |    1 |  12.50% | 100.00% |
+| 17   | Eternatus / Ferrothorn                |    1 |  12.50% | 100.00% |
+| 17   | Groudon / Ferrothorn                  |    1 |  12.50% | 100.00% |
+| 17   | Ferrothorn / Necrozma-Dusk-Mane       |    1 |  12.50% | 100.00% |
+| 17   | Xerneas-* / Ferrothorn                |    1 |  12.50% | 100.00% |
+| 17   | Groudon / Xerneas-*                   |    1 |  12.50% | 100.00% |
+| 17   | Marshadow / Yveltal                   |    1 |  12.50% | 100.00% |
+| 17   | Ho-Oh / Yveltal                       |    1 |  12.50% | 100.00% |
+| 17   | Marshadow / Necrozma-Dusk-Mane        |    1 |  12.50% | 100.00% |
+| 17   | Ho-Oh / Necrozma-Dusk-Mane            |    1 |  12.50% | 100.00% |
+| 17   | Marshadow / Kyogre                    |    1 |  12.50% | 100.00% |
+| 17   | Eternatus / Marshadow                 |    1 |  12.50% | 100.00% |
+| 17   | Ho-Oh / Marshadow                     |    1 |  12.50% | 100.00% |
+| 17   | Ho-Oh / Kyogre                        |    1 |  12.50% | 100.00% |
+| 17   | Ho-Oh / Eternatus                     |    1 |  12.50% | 100.00% |
+| 17   | Shedinja / Audino                     |    1 |  12.50% |   0.00% |
+| 17   | Shedinja / Kyogre                     |    1 |  12.50% |   0.00% |
+| 17   | Shedinja / Eternatus                  |    1 |  12.50% |   0.00% |
+| 17   | Shedinja / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 17   | Shedinja / Calyrex-Shadow             |    1 |  12.50% |   0.00% |
+| 17   | Audino / Kyogre                       |    1 |  12.50% |   0.00% |
+| 17   | Audino / Eternatus                    |    1 |  12.50% |   0.00% |
+| 17   | Audino / Landorus-Therian             |    1 |  12.50% |   0.00% |
+| 17   | Audino / Calyrex-Shadow               |    1 |  12.50% |   0.00% |
+| 17   | Calyrex-Shadow / Kyogre               |    1 |  12.50% |   0.00% |
+| 17   | Calyrex-Shadow / Landorus-Therian     |    1 |  12.50% |   0.00% |
+| 17   | Clefable / Necrozma-Dusk-Mane         |    1 |  12.50% |   0.00% |
+| 17   | Necrozma-Dusk-Mane / Skarmory         |    1 |  12.50% |   0.00% |
+| 17   | Tyranitar / Necrozma-Dusk-Mane        |    1 |  12.50% |   0.00% |
+| 17   | Clefable / Eternatus                  |    1 |  12.50% |   0.00% |
+| 17   | Eternatus / Skarmory                  |    1 |  12.50% |   0.00% |
+| 17   | Tyranitar / Eternatus                 |    1 |  12.50% |   0.00% |
+| 17   | Clefable / Skarmory                   |    1 |  12.50% |   0.00% |
+| 17   | Tyranitar / Clefable                  |    1 |  12.50% |   0.00% |
+| 17   | Skarmory / Yveltal                    |    1 |  12.50% |   0.00% |
+| 17   | Tyranitar / Yveltal                   |    1 |  12.50% |   0.00% |
+| 17   | Tyranitar / Skarmory                  |    1 |  12.50% |   0.00% |
+| 17   | Landorus-Therian / Necrozma-Dusk-Mane |    1 |  12.50% |   0.00% |
+| 17   | Groudon / Landorus-Therian            |    1 |  12.50% |   0.00% |
+| 17   | Groudon / Kyogre                      |    1 |  12.50% |   0.00% |
+| 17   | Landorus-Therian / Yveltal            |    1 |  12.50% |   0.00% |
+| 17   | Xatu / Yveltal                        |    1 |  12.50% |   0.00% |
+| 17   | Gastrodon / Yveltal                   |    1 |  12.50% |   0.00% |
+| 17   | Zygarde / Yveltal                     |    1 |  12.50% |   0.00% |
+| 17   | Blissey / Yveltal                     |    1 |  12.50% |   0.00% |
+| 17   | Xatu / Clefable                       |    1 |  12.50% |   0.00% |
+| 17   | Clefable / Gastrodon                  |    1 |  12.50% |   0.00% |
+| 17   | Clefable / Zygarde                    |    1 |  12.50% |   0.00% |
+| 17   | Clefable / Blissey                    |    1 |  12.50% |   0.00% |
+| 17   | Xatu / Gastrodon                      |    1 |  12.50% |   0.00% |
+| 17   | Xatu / Zygarde                        |    1 |  12.50% |   0.00% |
+| 17   | Xatu / Blissey                        |    1 |  12.50% |   0.00% |
+| 17   | Zygarde / Gastrodon                   |    1 |  12.50% |   0.00% |
+| 17   | Blissey / Gastrodon                   |    1 |  12.50% |   0.00% |
+| 17   | Blissey / Zygarde                     |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                       | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Eternatus / Necrozma-Dusk-Mane / Yveltal          |    6 |  75.00% |  66.67% |
+| 2    | Groudon / Necrozma-Dusk-Mane / Yveltal            |    3 |  37.50% |  66.67% |
+| 2    | Groudon / Eternatus / Necrozma-Dusk-Mane          |    3 |  37.50% |  66.67% |
+| 2    | Groudon / Eternatus / Yveltal                     |    3 |  37.50% |  66.67% |
+| 2    | Kyogre / Eternatus / Yveltal                      |    3 |  37.50% |  66.67% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Yveltal             |    3 |  37.50% |  66.67% |
+| 2    | Eternatus / Necrozma-Dusk-Mane / Kyogre           |    3 |  37.50% |  66.67% |
+| 8    | Xerneas-* / Eternatus / Yveltal                   |    2 |  25.00% | 100.00% |
+| 8    | Xerneas-* / Necrozma-Dusk-Mane / Yveltal          |    2 |  25.00% | 100.00% |
+| 8    | Xerneas-* / Eternatus / Necrozma-Dusk-Mane        |    2 |  25.00% | 100.00% |
+| 8    | Eternatus / Landorus-Therian / Kyogre             |    2 |  25.00% |   0.00% |
+| 12   | Necrozma-Dusk-Mane / Weavile / Yveltal            |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Necrozma-Dusk-Mane / Weavile          |    1 |  12.50% | 100.00% |
+| 12   | Calyrex-Shadow / Necrozma-Dusk-Mane / Weavile     |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Necrozma-Dusk-Mane / Weavile            |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Weavile / Yveltal                     |    1 |  12.50% | 100.00% |
+| 12   | Calyrex-Shadow / Weavile / Yveltal                |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Weavile / Yveltal                       |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Weavile / Calyrex-Shadow              |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Eternatus / Weavile                     |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Calyrex-Shadow / Weavile                |    1 |  12.50% | 100.00% |
+| 12   | Calyrex-Shadow / Necrozma-Dusk-Mane / Yveltal     |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Necrozma-Dusk-Mane / Calyrex-Shadow   |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Calyrex-Shadow / Necrozma-Dusk-Mane     |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Calyrex-Shadow / Yveltal              |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Calyrex-Shadow / Yveltal                |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Eternatus / Calyrex-Shadow              |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Xerneas-* / Yveltal                    |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Eternatus / Yveltal                    |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Necrozma-Dusk-Mane / Yveltal           |    1 |  12.50% | 100.00% |
+| 12   | Kyogre / Rayquaza / Yveltal                       |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Rayquaza / Xerneas-*                  |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Xerneas-* / Necrozma-Dusk-Mane         |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Xerneas-* / Kyogre                     |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Eternatus / Necrozma-Dusk-Mane         |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Eternatus / Kyogre                     |    1 |  12.50% | 100.00% |
+| 12   | Rayquaza / Necrozma-Dusk-Mane / Kyogre            |    1 |  12.50% | 100.00% |
+| 12   | Kyogre / Xerneas-* / Yveltal                      |    1 |  12.50% | 100.00% |
+| 12   | Xerneas-* / Eternatus / Kyogre                    |    1 |  12.50% | 100.00% |
+| 12   | Xerneas-* / Necrozma-Dusk-Mane / Kyogre           |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Ferrothorn / Yveltal                  |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Ferrothorn / Yveltal                    |    1 |  12.50% | 100.00% |
+| 12   | Ferrothorn / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% | 100.00% |
+| 12   | Xerneas-* / Ferrothorn / Yveltal                  |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Xerneas-* / Yveltal                     |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Eternatus / Ferrothorn                  |    1 |  12.50% | 100.00% |
+| 12   | Necrozma-Dusk-Mane / Eternatus / Ferrothorn       |    1 |  12.50% | 100.00% |
+| 12   | Xerneas-* / Eternatus / Ferrothorn                |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Xerneas-* / Eternatus                   |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Ferrothorn / Necrozma-Dusk-Mane         |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Xerneas-* / Ferrothorn                  |    1 |  12.50% | 100.00% |
+| 12   | Xerneas-* / Ferrothorn / Necrozma-Dusk-Mane       |    1 |  12.50% | 100.00% |
+| 12   | Groudon / Xerneas-* / Necrozma-Dusk-Mane          |    1 |  12.50% | 100.00% |
+| 12   | Marshadow / Necrozma-Dusk-Mane / Yveltal          |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Necrozma-Dusk-Mane / Yveltal              |    1 |  12.50% | 100.00% |
+| 12   | Kyogre / Marshadow / Yveltal                      |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Marshadow / Yveltal                   |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Marshadow / Yveltal                       |    1 |  12.50% | 100.00% |
+| 12   | Kyogre / Ho-Oh / Yveltal                          |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Eternatus / Yveltal                       |    1 |  12.50% | 100.00% |
+| 12   | Marshadow / Necrozma-Dusk-Mane / Kyogre           |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Marshadow / Necrozma-Dusk-Mane        |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Marshadow / Necrozma-Dusk-Mane            |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Necrozma-Dusk-Mane / Kyogre               |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Eternatus / Necrozma-Dusk-Mane            |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Marshadow / Kyogre                    |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Marshadow / Kyogre                        |    1 |  12.50% | 100.00% |
+| 12   | Eternatus / Marshadow / Ho-Oh                     |    1 |  12.50% | 100.00% |
+| 12   | Ho-Oh / Eternatus / Kyogre                        |    1 |  12.50% | 100.00% |
+| 12   | Shedinja / Audino / Kyogre                        |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Audino / Eternatus                     |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Audino / Landorus-Therian              |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Audino / Calyrex-Shadow                |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Eternatus / Kyogre                     |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Landorus-Therian / Kyogre              |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Calyrex-Shadow / Kyogre                |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Eternatus / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Eternatus / Calyrex-Shadow             |    1 |  12.50% |   0.00% |
+| 12   | Shedinja / Calyrex-Shadow / Landorus-Therian      |    1 |  12.50% |   0.00% |
+| 12   | Audino / Eternatus / Kyogre                       |    1 |  12.50% |   0.00% |
+| 12   | Audino / Landorus-Therian / Kyogre                |    1 |  12.50% |   0.00% |
+| 12   | Audino / Calyrex-Shadow / Kyogre                  |    1 |  12.50% |   0.00% |
+| 12   | Audino / Eternatus / Landorus-Therian             |    1 |  12.50% |   0.00% |
+| 12   | Audino / Eternatus / Calyrex-Shadow               |    1 |  12.50% |   0.00% |
+| 12   | Audino / Calyrex-Shadow / Landorus-Therian        |    1 |  12.50% |   0.00% |
+| 12   | Eternatus / Calyrex-Shadow / Kyogre               |    1 |  12.50% |   0.00% |
+| 12   | Calyrex-Shadow / Landorus-Therian / Kyogre        |    1 |  12.50% |   0.00% |
+| 12   | Eternatus / Landorus-Therian / Calyrex-Shadow     |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Eternatus / Necrozma-Dusk-Mane         |    1 |  12.50% |   0.00% |
+| 12   | Eternatus / Necrozma-Dusk-Mane / Skarmory         |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Eternatus / Necrozma-Dusk-Mane        |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Necrozma-Dusk-Mane / Yveltal           |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Necrozma-Dusk-Mane / Skarmory          |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Clefable / Necrozma-Dusk-Mane         |    1 |  12.50% |   0.00% |
+| 12   | Skarmory / Necrozma-Dusk-Mane / Yveltal           |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Necrozma-Dusk-Mane / Yveltal          |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Necrozma-Dusk-Mane / Skarmory         |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Eternatus / Yveltal                    |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Eternatus / Skarmory                   |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Clefable / Eternatus                  |    1 |  12.50% |   0.00% |
+| 12   | Skarmory / Eternatus / Yveltal                    |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Eternatus / Yveltal                   |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Eternatus / Skarmory                  |    1 |  12.50% |   0.00% |
+| 12   | Skarmory / Clefable / Yveltal                     |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Clefable / Yveltal                    |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Clefable / Skarmory                   |    1 |  12.50% |   0.00% |
+| 12   | Tyranitar / Skarmory / Yveltal                    |    1 |  12.50% |   0.00% |
+| 12   | Groudon / Landorus-Therian / Necrozma-Dusk-Mane   |    1 |  12.50% |   0.00% |
+| 12   | Groudon / Necrozma-Dusk-Mane / Kyogre             |    1 |  12.50% |   0.00% |
+| 12   | Landorus-Therian / Eternatus / Necrozma-Dusk-Mane |    1 |  12.50% |   0.00% |
+| 12   | Landorus-Therian / Necrozma-Dusk-Mane / Yveltal   |    1 |  12.50% |   0.00% |
+| 12   | Landorus-Therian / Necrozma-Dusk-Mane / Kyogre    |    1 |  12.50% |   0.00% |
+| 12   | Groudon / Eternatus / Landorus-Therian            |    1 |  12.50% |   0.00% |
+| 12   | Groudon / Landorus-Therian / Yveltal              |    1 |  12.50% |   0.00% |
+| 12   | Groudon / Landorus-Therian / Kyogre               |    1 |  12.50% |   0.00% |
+| 12   | Groudon / Eternatus / Kyogre                      |    1 |  12.50% |   0.00% |
+| 12   | Kyogre / Groudon / Yveltal                        |    1 |  12.50% |   0.00% |
+| 12   | Eternatus / Landorus-Therian / Yveltal            |    1 |  12.50% |   0.00% |
+| 12   | Kyogre / Landorus-Therian / Yveltal               |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Clefable / Yveltal                         |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Gastrodon / Yveltal                    |    1 |  12.50% |   0.00% |
+| 12   | Zygarde / Clefable / Yveltal                      |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Blissey / Yveltal                      |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Gastrodon / Yveltal                        |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Zygarde / Yveltal                          |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Blissey / Yveltal                          |    1 |  12.50% |   0.00% |
+| 12   | Zygarde / Gastrodon / Yveltal                     |    1 |  12.50% |   0.00% |
+| 12   | Blissey / Gastrodon / Yveltal                     |    1 |  12.50% |   0.00% |
+| 12   | Zygarde / Blissey / Yveltal                       |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Clefable / Gastrodon                       |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Clefable / Zygarde                         |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Clefable / Blissey                         |    1 |  12.50% |   0.00% |
+| 12   | Zygarde / Clefable / Gastrodon                    |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Blissey / Gastrodon                    |    1 |  12.50% |   0.00% |
+| 12   | Clefable / Blissey / Zygarde                      |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Zygarde / Gastrodon                        |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Blissey / Gastrodon                        |    1 |  12.50% |   0.00% |
+| 12   | Xatu / Blissey / Zygarde                          |    1 |  12.50% |   0.00% |
+| 12   | Zygarde / Blissey / Gastrodon                     |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                 | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Groudon / Eternatus / Necrozma-Dusk-Mane / Yveltal          |    3 |  37.50% |  66.67% |
+| 1    | Kyogre / Eternatus / Necrozma-Dusk-Mane / Yveltal           |    3 |  37.50% |  66.67% |
+| 3    | Xerneas-* / Eternatus / Necrozma-Dusk-Mane / Yveltal        |    2 |  25.00% | 100.00% |
+| 4    | Eternatus / Necrozma-Dusk-Mane / Weavile / Yveltal          |    1 |  12.50% | 100.00% |
+| 4    | Calyrex-Shadow / Necrozma-Dusk-Mane / Weavile / Yveltal     |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Necrozma-Dusk-Mane / Weavile / Yveltal            |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Necrozma-Dusk-Mane / Weavile / Calyrex-Shadow   |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Eternatus / Necrozma-Dusk-Mane / Weavile          |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Calyrex-Shadow / Necrozma-Dusk-Mane / Weavile     |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Calyrex-Shadow / Weavile / Yveltal              |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Eternatus / Weavile / Yveltal                     |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Calyrex-Shadow / Weavile / Yveltal                |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Eternatus / Weavile / Calyrex-Shadow              |    1 |  12.50% | 100.00% |
+| 4    | Calyrex-Shadow / Eternatus / Necrozma-Dusk-Mane / Yveltal   |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Calyrex-Shadow / Necrozma-Dusk-Mane / Yveltal     |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Eternatus / Necrozma-Dusk-Mane / Calyrex-Shadow   |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Eternatus / Calyrex-Shadow / Yveltal              |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Rayquaza / Xerneas-* / Yveltal                  |    1 |  12.50% | 100.00% |
+| 4    | Rayquaza / Xerneas-* / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Rayquaza / Xerneas-* / Yveltal                     |    1 |  12.50% | 100.00% |
+| 4    | Rayquaza / Eternatus / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Rayquaza / Eternatus / Yveltal                     |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Rayquaza / Necrozma-Dusk-Mane / Yveltal            |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Rayquaza / Xerneas-* / Necrozma-Dusk-Mane       |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Rayquaza / Xerneas-* / Kyogre                   |    1 |  12.50% | 100.00% |
+| 4    | Rayquaza / Xerneas-* / Necrozma-Dusk-Mane / Kyogre          |    1 |  12.50% | 100.00% |
+| 4    | Rayquaza / Eternatus / Necrozma-Dusk-Mane / Kyogre          |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Xerneas-* / Eternatus / Yveltal                    |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Xerneas-* / Necrozma-Dusk-Mane / Yveltal           |    1 |  12.50% | 100.00% |
+| 4    | Xerneas-* / Eternatus / Necrozma-Dusk-Mane / Kyogre         |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Eternatus / Ferrothorn / Yveltal                  |    1 |  12.50% | 100.00% |
+| 4    | Necrozma-Dusk-Mane / Eternatus / Ferrothorn / Yveltal       |    1 |  12.50% | 100.00% |
+| 4    | Xerneas-* / Eternatus / Ferrothorn / Yveltal                |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Xerneas-* / Eternatus / Yveltal                   |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Ferrothorn / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Xerneas-* / Ferrothorn / Yveltal                  |    1 |  12.50% | 100.00% |
+| 4    | Xerneas-* / Ferrothorn / Necrozma-Dusk-Mane / Yveltal       |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Xerneas-* / Necrozma-Dusk-Mane / Yveltal          |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Necrozma-Dusk-Mane / Eternatus / Ferrothorn       |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Xerneas-* / Eternatus / Ferrothorn                |    1 |  12.50% | 100.00% |
+| 4    | Necrozma-Dusk-Mane / Xerneas-* / Eternatus / Ferrothorn     |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Xerneas-* / Eternatus / Necrozma-Dusk-Mane        |    1 |  12.50% | 100.00% |
+| 4    | Groudon / Xerneas-* / Ferrothorn / Necrozma-Dusk-Mane       |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Marshadow / Necrozma-Dusk-Mane / Yveltal           |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Marshadow / Necrozma-Dusk-Mane / Yveltal        |    1 |  12.50% | 100.00% |
+| 4    | Ho-Oh / Marshadow / Necrozma-Dusk-Mane / Yveltal            |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Ho-Oh / Necrozma-Dusk-Mane / Yveltal               |    1 |  12.50% | 100.00% |
+| 4    | Ho-Oh / Eternatus / Necrozma-Dusk-Mane / Yveltal            |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Eternatus / Marshadow / Yveltal                    |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Ho-Oh / Marshadow / Yveltal                        |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Marshadow / Ho-Oh / Yveltal                     |    1 |  12.50% | 100.00% |
+| 4    | Kyogre / Ho-Oh / Eternatus / Yveltal                        |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Marshadow / Necrozma-Dusk-Mane / Kyogre         |    1 |  12.50% | 100.00% |
+| 4    | Ho-Oh / Marshadow / Necrozma-Dusk-Mane / Kyogre             |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Marshadow / Necrozma-Dusk-Mane / Ho-Oh          |    1 |  12.50% | 100.00% |
+| 4    | Ho-Oh / Eternatus / Necrozma-Dusk-Mane / Kyogre             |    1 |  12.50% | 100.00% |
+| 4    | Eternatus / Marshadow / Ho-Oh / Kyogre                      |    1 |  12.50% | 100.00% |
+| 4    | Shedinja / Audino / Eternatus / Kyogre                      |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Audino / Landorus-Therian / Kyogre               |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Audino / Calyrex-Shadow / Kyogre                 |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Audino / Eternatus / Landorus-Therian            |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Audino / Eternatus / Calyrex-Shadow              |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Audino / Calyrex-Shadow / Landorus-Therian       |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Eternatus / Landorus-Therian / Kyogre            |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Eternatus / Calyrex-Shadow / Kyogre              |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Calyrex-Shadow / Landorus-Therian / Kyogre       |    1 |  12.50% |   0.00% |
+| 4    | Shedinja / Eternatus / Landorus-Therian / Calyrex-Shadow    |    1 |  12.50% |   0.00% |
+| 4    | Audino / Eternatus / Landorus-Therian / Kyogre              |    1 |  12.50% |   0.00% |
+| 4    | Audino / Eternatus / Calyrex-Shadow / Kyogre                |    1 |  12.50% |   0.00% |
+| 4    | Audino / Calyrex-Shadow / Landorus-Therian / Kyogre         |    1 |  12.50% |   0.00% |
+| 4    | Audino / Eternatus / Landorus-Therian / Calyrex-Shadow      |    1 |  12.50% |   0.00% |
+| 4    | Calyrex-Shadow / Eternatus / Landorus-Therian / Kyogre      |    1 |  12.50% |   0.00% |
+| 4    | Clefable / Eternatus / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% |   0.00% |
+| 4    | Clefable / Eternatus / Necrozma-Dusk-Mane / Skarmory        |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Clefable / Eternatus / Necrozma-Dusk-Mane       |    1 |  12.50% |   0.00% |
+| 4    | Skarmory / Eternatus / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Eternatus / Necrozma-Dusk-Mane / Yveltal        |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Eternatus / Necrozma-Dusk-Mane / Skarmory       |    1 |  12.50% |   0.00% |
+| 4    | Skarmory / Clefable / Necrozma-Dusk-Mane / Yveltal          |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Clefable / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Clefable / Necrozma-Dusk-Mane / Skarmory        |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Skarmory / Necrozma-Dusk-Mane / Yveltal         |    1 |  12.50% |   0.00% |
+| 4    | Skarmory / Clefable / Eternatus / Yveltal                   |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Clefable / Eternatus / Yveltal                  |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Clefable / Eternatus / Skarmory                 |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Skarmory / Eternatus / Yveltal                  |    1 |  12.50% |   0.00% |
+| 4    | Tyranitar / Skarmory / Clefable / Yveltal                   |    1 |  12.50% |   0.00% |
+| 4    | Groudon / Landorus-Therian / Eternatus / Necrozma-Dusk-Mane |    1 |  12.50% |   0.00% |
+| 4    | Groudon / Landorus-Therian / Necrozma-Dusk-Mane / Yveltal   |    1 |  12.50% |   0.00% |
+| 4    | Groudon / Landorus-Therian / Necrozma-Dusk-Mane / Kyogre    |    1 |  12.50% |   0.00% |
+| 4    | Groudon / Eternatus / Necrozma-Dusk-Mane / Kyogre           |    1 |  12.50% |   0.00% |
+| 4    | Kyogre / Groudon / Necrozma-Dusk-Mane / Yveltal             |    1 |  12.50% |   0.00% |
+| 4    | Landorus-Therian / Eternatus / Necrozma-Dusk-Mane / Yveltal |    1 |  12.50% |   0.00% |
+| 4    | Landorus-Therian / Eternatus / Necrozma-Dusk-Mane / Kyogre  |    1 |  12.50% |   0.00% |
+| 4    | Kyogre / Landorus-Therian / Necrozma-Dusk-Mane / Yveltal    |    1 |  12.50% |   0.00% |
+| 4    | Groudon / Eternatus / Landorus-Therian / Yveltal            |    1 |  12.50% |   0.00% |
+| 4    | Groudon / Eternatus / Landorus-Therian / Kyogre             |    1 |  12.50% |   0.00% |
+| 4    | Kyogre / Groudon / Landorus-Therian / Yveltal               |    1 |  12.50% |   0.00% |
+| 4    | Kyogre / Groudon / Eternatus / Yveltal                      |    1 |  12.50% |   0.00% |
+| 4    | Kyogre / Eternatus / Landorus-Therian / Yveltal             |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Clefable / Gastrodon / Yveltal                       |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Zygarde / Clefable / Yveltal                         |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Clefable / Blissey / Yveltal                         |    1 |  12.50% |   0.00% |
+| 4    | Zygarde / Clefable / Gastrodon / Yveltal                    |    1 |  12.50% |   0.00% |
+| 4    | Blissey / Clefable / Gastrodon / Yveltal                    |    1 |  12.50% |   0.00% |
+| 4    | Zygarde / Clefable / Blissey / Yveltal                      |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Zygarde / Gastrodon / Yveltal                        |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Blissey / Gastrodon / Yveltal                        |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Zygarde / Blissey / Yveltal                          |    1 |  12.50% |   0.00% |
+| 4    | Blissey / Zygarde / Gastrodon / Yveltal                     |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Zygarde / Clefable / Gastrodon                       |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Clefable / Blissey / Gastrodon                       |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Clefable / Blissey / Zygarde                         |    1 |  12.50% |   0.00% |
+| 4    | Zygarde / Clefable / Blissey / Gastrodon                    |    1 |  12.50% |   0.00% |
+| 4    | Xatu / Zygarde / Blissey / Gastrodon                        |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Eternatus / Yveltal / Calyrex-Shadow / Necrozma-Dusk-Mane / Weavile   |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Groudon / Weavile          |    1 |  12.50% | 100.00% |
+| 1    | Yveltal / Calyrex-Shadow / Necrozma-Dusk-Mane / Groudon / Weavile     |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Calyrex-Shadow / Necrozma-Dusk-Mane / Groudon / Weavile   |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Calyrex-Shadow / Groudon / Weavile              |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Calyrex-Shadow / Necrozma-Dusk-Mane / Groudon   |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Rayquaza / Necrozma-Dusk-Mane / Xerneas-*       |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Rayquaza / Xerneas-* / Kyogre                   |    1 |  12.50% | 100.00% |
+| 1    | Yveltal / Rayquaza / Necrozma-Dusk-Mane / Xerneas-* / Kyogre          |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Rayquaza / Necrozma-Dusk-Mane / Kyogre          |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Rayquaza / Necrozma-Dusk-Mane / Xerneas-* / Kyogre        |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Xerneas-* / Kyogre         |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Groudon / Ferrothorn       |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Groudon / Ferrothorn / Xerneas-*                |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Ferrothorn / Xerneas-*     |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Groudon / Xerneas-*        |    1 |  12.50% | 100.00% |
+| 1    | Yveltal / Necrozma-Dusk-Mane / Groudon / Ferrothorn / Xerneas-*       |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Necrozma-Dusk-Mane / Groudon / Ferrothorn / Xerneas-*     |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Marshadow / Necrozma-Dusk-Mane / Kyogre         |    1 |  12.50% | 100.00% |
+| 1    | Yveltal / Marshadow / Necrozma-Dusk-Mane / Ho-Oh / Kyogre             |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Marshadow / Necrozma-Dusk-Mane / Ho-Oh          |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Ho-Oh / Kyogre             |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Marshadow / Ho-Oh / Kyogre                      |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Marshadow / Necrozma-Dusk-Mane / Ho-Oh / Kyogre           |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Shedinja / Audino / Landorus-Therian / Kyogre             |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Shedinja / Calyrex-Shadow / Audino / Kyogre               |    1 |  12.50% |   0.00% |
+| 1    | Shedinja / Calyrex-Shadow / Audino / Landorus-Therian / Kyogre        |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Shedinja / Calyrex-Shadow / Audino / Landorus-Therian     |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Shedinja / Calyrex-Shadow / Landorus-Therian / Kyogre     |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Calyrex-Shadow / Audino / Landorus-Therian / Kyogre       |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Skarmory / Clefable        |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Tyranitar / Clefable       |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Necrozma-Dusk-Mane / Tyranitar / Skarmory / Clefable      |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Tyranitar / Skarmory       |    1 |  12.50% |   0.00% |
+| 1    | Yveltal / Necrozma-Dusk-Mane / Tyranitar / Skarmory / Clefable        |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Tyranitar / Skarmory / Clefable                 |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Groudon / Landorus-Therian |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Necrozma-Dusk-Mane / Groudon / Landorus-Therian / Kyogre  |    1 |  12.50% |   0.00% |
+| 1    | Yveltal / Necrozma-Dusk-Mane / Groudon / Landorus-Therian / Kyogre    |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Groudon / Kyogre           |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Landorus-Therian / Kyogre  |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Groudon / Landorus-Therian / Kyogre             |    1 |  12.50% |   0.00% |
+| 1    | Yveltal / Zygarde / Xatu / Clefable / Gastrodon                       |    1 |  12.50% |   0.00% |
+| 1    | Blissey / Yveltal / Xatu / Clefable / Gastrodon                       |    1 |  12.50% |   0.00% |
+| 1    | Blissey / Yveltal / Zygarde / Xatu / Clefable                         |    1 |  12.50% |   0.00% |
+| 1    | Blissey / Yveltal / Zygarde / Clefable / Gastrodon                    |    1 |  12.50% |   0.00% |
+| 1    | Blissey / Yveltal / Zygarde / Xatu / Gastrodon                        |    1 |  12.50% |   0.00% |
+| 1    | Blissey / Zygarde / Xatu / Clefable / Gastrodon                       |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Eternatus / Yveltal / Calyrex-Shadow / Necrozma-Dusk-Mane / Groudon / Weavile  |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Rayquaza / Necrozma-Dusk-Mane / Xerneas-* / Kyogre       |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Groudon / Ferrothorn / Xerneas-*    |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Yveltal / Marshadow / Necrozma-Dusk-Mane / Ho-Oh / Kyogre          |    1 |  12.50% | 100.00% |
+| 1    | Eternatus / Shedinja / Calyrex-Shadow / Audino / Landorus-Therian / Kyogre     |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Tyranitar / Skarmory / Clefable     |    1 |  12.50% |   0.00% |
+| 1    | Eternatus / Yveltal / Necrozma-Dusk-Mane / Groudon / Landorus-Therian / Kyogre |    1 |  12.50% |   0.00% |
+| 1    | Blissey / Yveltal / Zygarde / Xatu / Clefable / Gastrodon                      |    1 |  12.50% |   0.00% |
