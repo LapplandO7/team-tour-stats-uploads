@@ -1,0 +1,761 @@
++ ---- + --------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                 | Use  | Usage % |  Win %  |
++ ---- + --------------------------- + ---- + ------- + ------- +
+| 1    | Uxie / Liepard              |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Ivysaur              |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Rapidash             |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Shiftry              |    4 |  25.00% |  50.00% |
+| 1    | Ivysaur / Liepard           |    4 |  25.00% |  50.00% |
+| 1    | Rapidash / Liepard          |    4 |  25.00% |  50.00% |
+| 1    | Shiftry / Liepard           |    4 |  25.00% |  50.00% |
+| 1    | Ivysaur / Rapidash          |    4 |  25.00% |  50.00% |
+| 1    | Ivysaur / Shiftry           |    4 |  25.00% |  50.00% |
+| 1    | Rapidash / Shiftry          |    4 |  25.00% |  50.00% |
+| 11   | Uxie / Carracosta           |    3 |  18.75% |  66.67% |
+| 11   | Carracosta / Liepard        |    3 |  18.75% |  66.67% |
+| 11   | Ivysaur / Carracosta        |    3 |  18.75% |  66.67% |
+| 11   | Rapidash / Carracosta       |    3 |  18.75% |  66.67% |
+| 11   | Carracosta / Shiftry        |    3 |  18.75% |  66.67% |
+| 11   | Silvally / Rhydon           |    3 |  18.75% |   0.00% |
+| 17   | Qwilfish / Stunfisk         |    2 |  12.50% | 100.00% |
+| 17   | Gourgeist-* / Throh         |    2 |  12.50% | 100.00% |
+| 17   | Thwackey / Rhydon           |    2 |  12.50% |  50.00% |
+| 17   | Skuntank / Klinklang        |    2 |  12.50% |  50.00% |
+| 17   | Persian-Alola / Rapidash    |    2 |  12.50% |  50.00% |
+| 17   | Persian-Alola / Bouffalant  |    2 |  12.50% |  50.00% |
+| 17   | Persian-Alola / Articuno    |    2 |  12.50% |  50.00% |
+| 17   | Persian-Alola / Palossand   |    2 |  12.50% |  50.00% |
+| 17   | Rapidash / Bouffalant       |    2 |  12.50% |  50.00% |
+| 17   | Rapidash / Articuno         |    2 |  12.50% |  50.00% |
+| 17   | Rapidash / Palossand        |    2 |  12.50% |  50.00% |
+| 17   | Bouffalant / Articuno       |    2 |  12.50% |  50.00% |
+| 17   | Bouffalant / Palossand      |    2 |  12.50% |  50.00% |
+| 17   | Palossand / Articuno        |    2 |  12.50% |  50.00% |
+| 17   | Silvally / Thwackey         |    2 |  12.50% |   0.00% |
+| 17   | Silvally / Alcremie         |    2 |  12.50% |   0.00% |
+| 17   | Thwackey / Alcremie         |    2 |  12.50% |   0.00% |
+| 17   | Mareanie / Articuno         |    2 |  12.50% |   0.00% |
+| 17   | Miltank / Articuno          |    2 |  12.50% |   0.00% |
+| 17   | Rapidash-Galar / Articuno   |    2 |  12.50% |   0.00% |
+| 17   | Rhydon / Articuno           |    2 |  12.50% |   0.00% |
+| 17   | Silvally / Articuno         |    2 |  12.50% |   0.00% |
+| 17   | Miltank / Mareanie          |    2 |  12.50% |   0.00% |
+| 17   | Rapidash-Galar / Mareanie   |    2 |  12.50% |   0.00% |
+| 17   | Rhydon / Mareanie           |    2 |  12.50% |   0.00% |
+| 17   | Silvally / Mareanie         |    2 |  12.50% |   0.00% |
+| 17   | Rapidash-Galar / Miltank    |    2 |  12.50% |   0.00% |
+| 17   | Miltank / Rhydon            |    2 |  12.50% |   0.00% |
+| 17   | Silvally / Miltank          |    2 |  12.50% |   0.00% |
+| 17   | Rapidash-Galar / Rhydon     |    2 |  12.50% |   0.00% |
+| 17   | Rapidash-Galar / Silvally   |    2 |  12.50% |   0.00% |
+| 48   | Qwilfish / Altaria          |    1 |   6.25% | 100.00% |
+| 48   | Qwilfish / Articuno         |    1 |   6.25% | 100.00% |
+| 48   | Qwilfish / Sableye          |    1 |   6.25% | 100.00% |
+| 48   | Qwilfish / Tangela          |    1 |   6.25% | 100.00% |
+| 48   | Altaria / Articuno          |    1 |   6.25% | 100.00% |
+| 48   | Altaria / Sableye           |    1 |   6.25% | 100.00% |
+| 48   | Altaria / Stunfisk          |    1 |   6.25% | 100.00% |
+| 48   | Tangela / Altaria           |    1 |   6.25% | 100.00% |
+| 48   | Sableye / Articuno          |    1 |   6.25% | 100.00% |
+| 48   | Stunfisk / Articuno         |    1 |   6.25% | 100.00% |
+| 48   | Tangela / Articuno          |    1 |   6.25% | 100.00% |
+| 48   | Stunfisk / Sableye          |    1 |   6.25% | 100.00% |
+| 48   | Tangela / Sableye           |    1 |   6.25% | 100.00% |
+| 48   | Tangela / Stunfisk          |    1 |   6.25% | 100.00% |
+| 48   | Coalossal / Accelgor        |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Accelgor      |    1 |   6.25% | 100.00% |
+| 48   | Liepard / Accelgor          |    1 |   6.25% | 100.00% |
+| 48   | Throh / Accelgor            |    1 |   6.25% | 100.00% |
+| 48   | Raichu / Accelgor           |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-Super / Accelgor  |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Coalossal     |    1 |   6.25% | 100.00% |
+| 48   | Coalossal / Liepard         |    1 |   6.25% | 100.00% |
+| 48   | Coalossal / Throh           |    1 |   6.25% | 100.00% |
+| 48   | Raichu / Coalossal          |    1 |   6.25% | 100.00% |
+| 48   | Coalossal / Gourgeist-Super |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Liepard       |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Raichu        |    1 |   6.25% | 100.00% |
+| 48   | Liepard / Throh             |    1 |   6.25% | 100.00% |
+| 48   | Raichu / Liepard            |    1 |   6.25% | 100.00% |
+| 48   | Liepard / Gourgeist-Super   |    1 |   6.25% | 100.00% |
+| 48   | Raichu / Throh              |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-Super / Throh     |    1 |   6.25% | 100.00% |
+| 48   | Raichu / Gourgeist-Super    |    1 |   6.25% | 100.00% |
+| 48   | Skuntank / Thwackey         |    1 |   6.25% | 100.00% |
+| 48   | Skuntank / Rhydon           |    1 |   6.25% | 100.00% |
+| 48   | Skuntank / Rotom            |    1 |   6.25% | 100.00% |
+| 48   | Skuntank / Beheeyem         |    1 |   6.25% | 100.00% |
+| 48   | Thwackey / Klinklang        |    1 |   6.25% | 100.00% |
+| 48   | Rhydon / Klinklang          |    1 |   6.25% | 100.00% |
+| 48   | Rotom / Klinklang           |    1 |   6.25% | 100.00% |
+| 48   | Beheeyem / Klinklang        |    1 |   6.25% | 100.00% |
+| 48   | Rotom / Thwackey            |    1 |   6.25% | 100.00% |
+| 48   | Thwackey / Beheeyem         |    1 |   6.25% | 100.00% |
+| 48   | Rotom / Rhydon              |    1 |   6.25% | 100.00% |
+| 48   | Beheeyem / Rhydon           |    1 |   6.25% | 100.00% |
+| 48   | Rotom / Beheeyem            |    1 |   6.25% | 100.00% |
+| 48   | Persian-Alola / Alcremie    |    1 |   6.25% | 100.00% |
+| 48   | Rapidash / Alcremie         |    1 |   6.25% | 100.00% |
+| 48   | Bouffalant / Alcremie       |    1 |   6.25% | 100.00% |
+| 48   | Articuno / Alcremie         |    1 |   6.25% | 100.00% |
+| 48   | Palossand / Alcremie        |    1 |   6.25% | 100.00% |
+| 48   | Altaria / Alcremie          |    1 |   6.25% | 100.00% |
+| 48   | Hakamo-o / Alcremie         |    1 |   6.25% | 100.00% |
+| 48   | Miltank / Alcremie          |    1 |   6.25% | 100.00% |
+| 48   | Shedinja / Alcremie         |    1 |   6.25% | 100.00% |
+| 48   | Stunfisk-Galar / Alcremie   |    1 |   6.25% | 100.00% |
+| 48   | Hakamo-o / Altaria          |    1 |   6.25% | 100.00% |
+| 48   | Miltank / Altaria           |    1 |   6.25% | 100.00% |
+| 48   | Shedinja / Altaria          |    1 |   6.25% | 100.00% |
+| 48   | Altaria / Stunfisk-Galar    |    1 |   6.25% | 100.00% |
+| 48   | Hakamo-o / Miltank          |    1 |   6.25% | 100.00% |
+| 48   | Hakamo-o / Shedinja         |    1 |   6.25% | 100.00% |
+| 48   | Hakamo-o / Stunfisk-Galar   |    1 |   6.25% | 100.00% |
+| 48   | Shedinja / Miltank          |    1 |   6.25% | 100.00% |
+| 48   | Miltank / Stunfisk-Galar    |    1 |   6.25% | 100.00% |
+| 48   | Shedinja / Stunfisk-Galar   |    1 |   6.25% | 100.00% |
+| 48   | Thievul / Throh             |    1 |   6.25% | 100.00% |
+| 48   | Qwilfish / Thievul          |    1 |   6.25% | 100.00% |
+| 48   | Thievul / Stunfisk          |    1 |   6.25% | 100.00% |
+| 48   | Cryogonal / Thievul         |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Thievul       |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-Small / Thievul   |    1 |   6.25% | 100.00% |
+| 48   | Qwilfish / Throh            |    1 |   6.25% | 100.00% |
+| 48   | Throh / Stunfisk            |    1 |   6.25% | 100.00% |
+| 48   | Cryogonal / Throh           |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-Small / Throh     |    1 |   6.25% | 100.00% |
+| 48   | Qwilfish / Cryogonal        |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Qwilfish      |    1 |   6.25% | 100.00% |
+| 48   | Qwilfish / Gourgeist-Small  |    1 |   6.25% | 100.00% |
+| 48   | Cryogonal / Stunfisk        |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Stunfisk      |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-Small / Stunfisk  |    1 |   6.25% | 100.00% |
+| 48   | Gourgeist-* / Cryogonal     |    1 |   6.25% | 100.00% |
+| 48   | Cryogonal / Gourgeist-Small |    1 |   6.25% | 100.00% |
+| 48   | Throh / Kadabra             |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Kadabra          |    1 |   6.25% |   0.00% |
+| 48   | Rhydon / Kadabra            |    1 |   6.25% |   0.00% |
+| 48   | Thwackey / Kadabra          |    1 |   6.25% |   0.00% |
+| 48   | Alcremie / Kadabra          |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Throh            |    1 |   6.25% |   0.00% |
+| 48   | Rhydon / Throh              |    1 |   6.25% |   0.00% |
+| 48   | Thwackey / Throh            |    1 |   6.25% |   0.00% |
+| 48   | Throh / Alcremie            |    1 |   6.25% |   0.00% |
+| 48   | Rhydon / Alcremie           |    1 |   6.25% |   0.00% |
+| 48   | Uxie / Lilligant            |    1 |   6.25% |   0.00% |
+| 48   | Lilligant / Liepard         |    1 |   6.25% |   0.00% |
+| 48   | Ivysaur / Lilligant         |    1 |   6.25% |   0.00% |
+| 48   | Rapidash / Lilligant        |    1 |   6.25% |   0.00% |
+| 48   | Lilligant / Shiftry         |    1 |   6.25% |   0.00% |
+| 48   | Exeggutor / Palossand       |    1 |   6.25% |   0.00% |
+| 48   | Rapidash / Exeggutor        |    1 |   6.25% |   0.00% |
+| 48   | Exeggutor / Articuno        |    1 |   6.25% |   0.00% |
+| 48   | Persian-Alola / Exeggutor   |    1 |   6.25% |   0.00% |
+| 48   | Bouffalant / Exeggutor      |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Skuntank         |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Shiinotic        |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Stunfisk         |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Klinklang        |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Kabutops         |    1 |   6.25% |   0.00% |
+| 48   | Shiinotic / Skuntank        |    1 |   6.25% |   0.00% |
+| 48   | Skuntank / Stunfisk         |    1 |   6.25% |   0.00% |
+| 48   | Skuntank / Kabutops         |    1 |   6.25% |   0.00% |
+| 48   | Shiinotic / Stunfisk        |    1 |   6.25% |   0.00% |
+| 48   | Shiinotic / Klinklang       |    1 |   6.25% |   0.00% |
+| 48   | Shiinotic / Kabutops        |    1 |   6.25% |   0.00% |
+| 48   | Klinklang / Stunfisk        |    1 |   6.25% |   0.00% |
+| 48   | Kabutops / Stunfisk         |    1 |   6.25% |   0.00% |
+| 48   | Kabutops / Klinklang        |    1 |   6.25% |   0.00% |
+| 48   | Coalossal / Marowak         |    1 |   6.25% |   0.00% |
+| 48   | Thwackey / Marowak          |    1 |   6.25% |   0.00% |
+| 48   | Marowak / Alcremie          |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Marowak          |    1 |   6.25% |   0.00% |
+| 48   | Cofagrigus / Marowak        |    1 |   6.25% |   0.00% |
+| 48   | Coalossal / Thwackey        |    1 |   6.25% |   0.00% |
+| 48   | Coalossal / Alcremie        |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Coalossal        |    1 |   6.25% |   0.00% |
+| 48   | Cofagrigus / Coalossal      |    1 |   6.25% |   0.00% |
+| 48   | Cofagrigus / Thwackey       |    1 |   6.25% |   0.00% |
+| 48   | Cofagrigus / Alcremie       |    1 |   6.25% |   0.00% |
+| 48   | Silvally / Cofagrigus       |    1 |   6.25% |   0.00% |
+
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                            | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| 1    | Uxie / Ivysaur / Liepard               |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Rapidash / Liepard              |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Shiftry / Liepard               |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Ivysaur / Rapidash              |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Ivysaur / Shiftry               |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Rapidash / Shiftry              |    4 |  25.00% |  50.00% |
+| 1    | Ivysaur / Rapidash / Liepard           |    4 |  25.00% |  50.00% |
+| 1    | Ivysaur / Shiftry / Liepard            |    4 |  25.00% |  50.00% |
+| 1    | Rapidash / Shiftry / Liepard           |    4 |  25.00% |  50.00% |
+| 1    | Ivysaur / Shiftry / Rapidash           |    4 |  25.00% |  50.00% |
+| 11   | Uxie / Carracosta / Liepard            |    3 |  18.75% |  66.67% |
+| 11   | Uxie / Ivysaur / Carracosta            |    3 |  18.75% |  66.67% |
+| 11   | Uxie / Rapidash / Carracosta           |    3 |  18.75% |  66.67% |
+| 11   | Uxie / Shiftry / Carracosta            |    3 |  18.75% |  66.67% |
+| 11   | Ivysaur / Carracosta / Liepard         |    3 |  18.75% |  66.67% |
+| 11   | Rapidash / Carracosta / Liepard        |    3 |  18.75% |  66.67% |
+| 11   | Carracosta / Shiftry / Liepard         |    3 |  18.75% |  66.67% |
+| 11   | Carracosta / Ivysaur / Rapidash        |    3 |  18.75% |  66.67% |
+| 11   | Carracosta / Ivysaur / Shiftry         |    3 |  18.75% |  66.67% |
+| 11   | Carracosta / Rapidash / Shiftry        |    3 |  18.75% |  66.67% |
+| 21   | Persian-Alola / Rapidash / Bouffalant  |    2 |  12.50% |  50.00% |
+| 21   | Persian-Alola / Rapidash / Articuno    |    2 |  12.50% |  50.00% |
+| 21   | Persian-Alola / Rapidash / Palossand   |    2 |  12.50% |  50.00% |
+| 21   | Persian-Alola / Bouffalant / Articuno  |    2 |  12.50% |  50.00% |
+| 21   | Persian-Alola / Bouffalant / Palossand |    2 |  12.50% |  50.00% |
+| 21   | Persian-Alola / Palossand / Articuno   |    2 |  12.50% |  50.00% |
+| 21   | Rapidash / Bouffalant / Articuno       |    2 |  12.50% |  50.00% |
+| 21   | Rapidash / Bouffalant / Palossand      |    2 |  12.50% |  50.00% |
+| 21   | Rapidash / Palossand / Articuno        |    2 |  12.50% |  50.00% |
+| 21   | Bouffalant / Palossand / Articuno      |    2 |  12.50% |  50.00% |
+| 21   | Silvally / Thwackey / Alcremie         |    2 |  12.50% |   0.00% |
+| 21   | Mareanie / Miltank / Articuno          |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Mareanie / Articuno   |    2 |  12.50% |   0.00% |
+| 21   | Mareanie / Rhydon / Articuno           |    2 |  12.50% |   0.00% |
+| 21   | Mareanie / Silvally / Articuno         |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Miltank / Articuno    |    2 |  12.50% |   0.00% |
+| 21   | Miltank / Rhydon / Articuno            |    2 |  12.50% |   0.00% |
+| 21   | Silvally / Miltank / Articuno          |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Rhydon / Articuno     |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Silvally / Articuno   |    2 |  12.50% |   0.00% |
+| 21   | Silvally / Rhydon / Articuno           |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Miltank / Mareanie    |    2 |  12.50% |   0.00% |
+| 21   | Miltank / Rhydon / Mareanie            |    2 |  12.50% |   0.00% |
+| 21   | Silvally / Miltank / Mareanie          |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Rhydon / Mareanie     |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Silvally / Mareanie   |    2 |  12.50% |   0.00% |
+| 21   | Silvally / Rhydon / Mareanie           |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Miltank / Rhydon      |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Silvally / Miltank    |    2 |  12.50% |   0.00% |
+| 21   | Silvally / Miltank / Rhydon            |    2 |  12.50% |   0.00% |
+| 21   | Rapidash-Galar / Silvally / Rhydon     |    2 |  12.50% |   0.00% |
+| 52   | Qwilfish / Altaria / Articuno          |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Altaria / Sableye           |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Altaria / Stunfisk          |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Tangela / Altaria           |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Sableye / Articuno          |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Stunfisk / Articuno         |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Tangela / Articuno          |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Stunfisk / Sableye          |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Tangela / Sableye           |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Tangela / Stunfisk          |    1 |   6.25% | 100.00% |
+| 52   | Sableye / Altaria / Articuno           |    1 |   6.25% | 100.00% |
+| 52   | Altaria / Stunfisk / Articuno          |    1 |   6.25% | 100.00% |
+| 52   | Tangela / Altaria / Articuno           |    1 |   6.25% | 100.00% |
+| 52   | Altaria / Stunfisk / Sableye           |    1 |   6.25% | 100.00% |
+| 52   | Tangela / Altaria / Sableye            |    1 |   6.25% | 100.00% |
+| 52   | Tangela / Altaria / Stunfisk           |    1 |   6.25% | 100.00% |
+| 52   | Sableye / Stunfisk / Articuno          |    1 |   6.25% | 100.00% |
+| 52   | Tangela / Sableye / Articuno           |    1 |   6.25% | 100.00% |
+| 52   | Tangela / Stunfisk / Articuno          |    1 |   6.25% | 100.00% |
+| 52   | Tangela / Stunfisk / Sableye           |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Coalossal / Accelgor     |    1 |   6.25% | 100.00% |
+| 52   | Coalossal / Liepard / Accelgor         |    1 |   6.25% | 100.00% |
+| 52   | Coalossal / Throh / Accelgor           |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Coalossal / Accelgor          |    1 |   6.25% | 100.00% |
+| 52   | Coalossal / Gourgeist-Super / Accelgor |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Liepard / Accelgor       |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Throh / Accelgor         |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Raichu / Accelgor        |    1 |   6.25% | 100.00% |
+| 52   | Liepard / Throh / Accelgor             |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Liepard / Accelgor            |    1 |   6.25% | 100.00% |
+| 52   | Liepard / Gourgeist-Super / Accelgor   |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Throh / Accelgor              |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-Super / Throh / Accelgor     |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Gourgeist-Super / Accelgor    |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Coalossal / Liepard      |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Coalossal / Throh        |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Raichu / Coalossal       |    1 |   6.25% | 100.00% |
+| 52   | Coalossal / Liepard / Throh            |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Coalossal / Liepard           |    1 |   6.25% | 100.00% |
+| 52   | Coalossal / Liepard / Gourgeist-Super  |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Coalossal / Throh             |    1 |   6.25% | 100.00% |
+| 52   | Coalossal / Gourgeist-Super / Throh    |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Coalossal / Gourgeist-Super   |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Liepard / Throh          |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Raichu / Liepard         |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Raichu / Throh           |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Liepard / Throh               |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-Super / Liepard / Throh      |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Liepard / Gourgeist-Super     |    1 |   6.25% | 100.00% |
+| 52   | Raichu / Gourgeist-Super / Throh       |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Thwackey / Klinklang        |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Rhydon / Klinklang          |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Rotom / Klinklang           |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Beheeyem / Klinklang        |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Thwackey / Rhydon           |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Rotom / Thwackey            |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Thwackey / Beheeyem         |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Rotom / Rhydon              |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Beheeyem / Rhydon           |    1 |   6.25% | 100.00% |
+| 52   | Skuntank / Rotom / Beheeyem            |    1 |   6.25% | 100.00% |
+| 52   | Rhydon / Thwackey / Klinklang          |    1 |   6.25% | 100.00% |
+| 52   | Rotom / Thwackey / Klinklang           |    1 |   6.25% | 100.00% |
+| 52   | Thwackey / Klinklang / Beheeyem        |    1 |   6.25% | 100.00% |
+| 52   | Rotom / Rhydon / Klinklang             |    1 |   6.25% | 100.00% |
+| 52   | Rhydon / Klinklang / Beheeyem          |    1 |   6.25% | 100.00% |
+| 52   | Rotom / Beheeyem / Klinklang           |    1 |   6.25% | 100.00% |
+| 52   | Rotom / Thwackey / Rhydon              |    1 |   6.25% | 100.00% |
+| 52   | Thwackey / Rhydon / Beheeyem           |    1 |   6.25% | 100.00% |
+| 52   | Rotom / Thwackey / Beheeyem            |    1 |   6.25% | 100.00% |
+| 52   | Rotom / Beheeyem / Rhydon              |    1 |   6.25% | 100.00% |
+| 52   | Persian-Alola / Rapidash / Alcremie    |    1 |   6.25% | 100.00% |
+| 52   | Persian-Alola / Bouffalant / Alcremie  |    1 |   6.25% | 100.00% |
+| 52   | Persian-Alola / Articuno / Alcremie    |    1 |   6.25% | 100.00% |
+| 52   | Persian-Alola / Palossand / Alcremie   |    1 |   6.25% | 100.00% |
+| 52   | Rapidash / Bouffalant / Alcremie       |    1 |   6.25% | 100.00% |
+| 52   | Rapidash / Articuno / Alcremie         |    1 |   6.25% | 100.00% |
+| 52   | Rapidash / Palossand / Alcremie        |    1 |   6.25% | 100.00% |
+| 52   | Articuno / Bouffalant / Alcremie       |    1 |   6.25% | 100.00% |
+| 52   | Bouffalant / Palossand / Alcremie      |    1 |   6.25% | 100.00% |
+| 52   | Articuno / Palossand / Alcremie        |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Altaria / Alcremie          |    1 |   6.25% | 100.00% |
+| 52   | Miltank / Altaria / Alcremie           |    1 |   6.25% | 100.00% |
+| 52   | Shedinja / Altaria / Alcremie          |    1 |   6.25% | 100.00% |
+| 52   | Stunfisk-Galar / Altaria / Alcremie    |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Miltank / Alcremie          |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Shedinja / Alcremie         |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Stunfisk-Galar / Alcremie   |    1 |   6.25% | 100.00% |
+| 52   | Shedinja / Miltank / Alcremie          |    1 |   6.25% | 100.00% |
+| 52   | Miltank / Stunfisk-Galar / Alcremie    |    1 |   6.25% | 100.00% |
+| 52   | Shedinja / Stunfisk-Galar / Alcremie   |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Miltank / Altaria           |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Altaria / Shedinja          |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Altaria / Stunfisk-Galar    |    1 |   6.25% | 100.00% |
+| 52   | Shedinja / Miltank / Altaria           |    1 |   6.25% | 100.00% |
+| 52   | Miltank / Altaria / Stunfisk-Galar     |    1 |   6.25% | 100.00% |
+| 52   | Shedinja / Altaria / Stunfisk-Galar    |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Miltank / Shedinja          |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Miltank / Stunfisk-Galar    |    1 |   6.25% | 100.00% |
+| 52   | Hakamo-o / Stunfisk-Galar / Shedinja   |    1 |   6.25% | 100.00% |
+| 52   | Shedinja / Miltank / Stunfisk-Galar    |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Thievul / Throh             |    1 |   6.25% | 100.00% |
+| 52   | Thievul / Throh / Stunfisk             |    1 |   6.25% | 100.00% |
+| 52   | Cryogonal / Thievul / Throh            |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Thievul / Throh          |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-Small / Thievul / Throh      |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Thievul / Stunfisk          |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Cryogonal / Thievul         |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Qwilfish / Thievul       |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Gourgeist-Small / Thievul   |    1 |   6.25% | 100.00% |
+| 52   | Cryogonal / Thievul / Stunfisk         |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Thievul / Stunfisk       |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-Small / Thievul / Stunfisk   |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Cryogonal / Thievul      |    1 |   6.25% | 100.00% |
+| 52   | Cryogonal / Gourgeist-Small / Thievul  |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Throh / Stunfisk            |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Cryogonal / Throh           |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Qwilfish / Throh         |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Gourgeist-Small / Throh     |    1 |   6.25% | 100.00% |
+| 52   | Cryogonal / Throh / Stunfisk           |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Throh / Stunfisk         |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-Small / Throh / Stunfisk     |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Cryogonal / Throh        |    1 |   6.25% | 100.00% |
+| 52   | Cryogonal / Gourgeist-Small / Throh    |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Cryogonal / Stunfisk        |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Qwilfish / Stunfisk      |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Gourgeist-Small / Stunfisk  |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Qwilfish / Cryogonal     |    1 |   6.25% | 100.00% |
+| 52   | Qwilfish / Cryogonal / Gourgeist-Small |    1 |   6.25% | 100.00% |
+| 52   | Gourgeist-* / Cryogonal / Stunfisk     |    1 |   6.25% | 100.00% |
+| 52   | Cryogonal / Gourgeist-Small / Stunfisk |    1 |   6.25% | 100.00% |
+| 52   | Silvally / Throh / Kadabra             |    1 |   6.25% |   0.00% |
+| 52   | Rhydon / Throh / Kadabra               |    1 |   6.25% |   0.00% |
+| 52   | Thwackey / Throh / Kadabra             |    1 |   6.25% |   0.00% |
+| 52   | Alcremie / Throh / Kadabra             |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Rhydon / Kadabra            |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Thwackey / Kadabra          |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Alcremie / Kadabra          |    1 |   6.25% |   0.00% |
+| 52   | Thwackey / Rhydon / Kadabra            |    1 |   6.25% |   0.00% |
+| 52   | Alcremie / Rhydon / Kadabra            |    1 |   6.25% |   0.00% |
+| 52   | Alcremie / Thwackey / Kadabra          |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Rhydon / Throh              |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Thwackey / Throh            |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Throh / Alcremie            |    1 |   6.25% |   0.00% |
+| 52   | Thwackey / Rhydon / Throh              |    1 |   6.25% |   0.00% |
+| 52   | Rhydon / Throh / Alcremie              |    1 |   6.25% |   0.00% |
+| 52   | Thwackey / Throh / Alcremie            |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Thwackey / Rhydon           |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Rhydon / Alcremie           |    1 |   6.25% |   0.00% |
+| 52   | Thwackey / Rhydon / Alcremie           |    1 |   6.25% |   0.00% |
+| 52   | Uxie / Lilligant / Liepard             |    1 |   6.25% |   0.00% |
+| 52   | Uxie / Ivysaur / Lilligant             |    1 |   6.25% |   0.00% |
+| 52   | Uxie / Rapidash / Lilligant            |    1 |   6.25% |   0.00% |
+| 52   | Uxie / Lilligant / Shiftry             |    1 |   6.25% |   0.00% |
+| 52   | Ivysaur / Lilligant / Liepard          |    1 |   6.25% |   0.00% |
+| 52   | Rapidash / Lilligant / Liepard         |    1 |   6.25% |   0.00% |
+| 52   | Lilligant / Shiftry / Liepard          |    1 |   6.25% |   0.00% |
+| 52   | Ivysaur / Lilligant / Rapidash         |    1 |   6.25% |   0.00% |
+| 52   | Ivysaur / Lilligant / Shiftry          |    1 |   6.25% |   0.00% |
+| 52   | Rapidash / Lilligant / Shiftry         |    1 |   6.25% |   0.00% |
+| 52   | Rapidash / Exeggutor / Palossand       |    1 |   6.25% |   0.00% |
+| 52   | Exeggutor / Palossand / Articuno       |    1 |   6.25% |   0.00% |
+| 52   | Persian-Alola / Exeggutor / Palossand  |    1 |   6.25% |   0.00% |
+| 52   | Bouffalant / Exeggutor / Palossand     |    1 |   6.25% |   0.00% |
+| 52   | Rapidash / Exeggutor / Articuno        |    1 |   6.25% |   0.00% |
+| 52   | Persian-Alola / Rapidash / Exeggutor   |    1 |   6.25% |   0.00% |
+| 52   | Rapidash / Bouffalant / Exeggutor      |    1 |   6.25% |   0.00% |
+| 52   | Persian-Alola / Exeggutor / Articuno   |    1 |   6.25% |   0.00% |
+| 52   | Bouffalant / Exeggutor / Articuno      |    1 |   6.25% |   0.00% |
+| 52   | Persian-Alola / Bouffalant / Exeggutor |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Skuntank / Shiinotic        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Skuntank / Stunfisk         |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Skuntank / Klinklang        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Skuntank / Kabutops         |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Shiinotic / Stunfisk        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Shiinotic / Klinklang       |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Shiinotic / Kabutops        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Klinklang / Stunfisk        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Kabutops / Stunfisk         |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Kabutops / Klinklang        |    1 |   6.25% |   0.00% |
+| 52   | Shiinotic / Skuntank / Stunfisk        |    1 |   6.25% |   0.00% |
+| 52   | Shiinotic / Skuntank / Klinklang       |    1 |   6.25% |   0.00% |
+| 52   | Shiinotic / Skuntank / Kabutops        |    1 |   6.25% |   0.00% |
+| 52   | Skuntank / Klinklang / Stunfisk        |    1 |   6.25% |   0.00% |
+| 52   | Skuntank / Kabutops / Stunfisk         |    1 |   6.25% |   0.00% |
+| 52   | Skuntank / Kabutops / Klinklang        |    1 |   6.25% |   0.00% |
+| 52   | Shiinotic / Klinklang / Stunfisk       |    1 |   6.25% |   0.00% |
+| 52   | Shiinotic / Kabutops / Stunfisk        |    1 |   6.25% |   0.00% |
+| 52   | Shiinotic / Kabutops / Klinklang       |    1 |   6.25% |   0.00% |
+| 52   | Kabutops / Klinklang / Stunfisk        |    1 |   6.25% |   0.00% |
+| 52   | Coalossal / Thwackey / Marowak         |    1 |   6.25% |   0.00% |
+| 52   | Coalossal / Marowak / Alcremie         |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Coalossal / Marowak         |    1 |   6.25% |   0.00% |
+| 52   | Cofagrigus / Coalossal / Marowak       |    1 |   6.25% |   0.00% |
+| 52   | Thwackey / Marowak / Alcremie          |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Thwackey / Marowak          |    1 |   6.25% |   0.00% |
+| 52   | Cofagrigus / Thwackey / Marowak        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Marowak / Alcremie          |    1 |   6.25% |   0.00% |
+| 52   | Cofagrigus / Marowak / Alcremie        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Cofagrigus / Marowak        |    1 |   6.25% |   0.00% |
+| 52   | Coalossal / Thwackey / Alcremie        |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Coalossal / Thwackey        |    1 |   6.25% |   0.00% |
+| 52   | Cofagrigus / Coalossal / Thwackey      |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Coalossal / Alcremie        |    1 |   6.25% |   0.00% |
+| 52   | Cofagrigus / Coalossal / Alcremie      |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Coalossal / Cofagrigus      |    1 |   6.25% |   0.00% |
+| 52   | Cofagrigus / Thwackey / Alcremie       |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Thwackey / Cofagrigus       |    1 |   6.25% |   0.00% |
+| 52   | Silvally / Cofagrigus / Alcremie       |    1 |   6.25% |   0.00% |
+
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                        | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Uxie / Ivysaur / Rapidash / Liepard                |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Ivysaur / Shiftry / Liepard                 |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Rapidash / Shiftry / Liepard                |    4 |  25.00% |  50.00% |
+| 1    | Uxie / Ivysaur / Shiftry / Rapidash                |    4 |  25.00% |  50.00% |
+| 1    | Ivysaur / Shiftry / Rapidash / Liepard             |    4 |  25.00% |  50.00% |
+| 6    | Uxie / Ivysaur / Carracosta / Liepard              |    3 |  18.75% |  66.67% |
+| 6    | Uxie / Rapidash / Carracosta / Liepard             |    3 |  18.75% |  66.67% |
+| 6    | Uxie / Shiftry / Liepard / Carracosta              |    3 |  18.75% |  66.67% |
+| 6    | Uxie / Ivysaur / Rapidash / Carracosta             |    3 |  18.75% |  66.67% |
+| 6    | Uxie / Ivysaur / Shiftry / Carracosta              |    3 |  18.75% |  66.67% |
+| 6    | Uxie / Rapidash / Shiftry / Carracosta             |    3 |  18.75% |  66.67% |
+| 6    | Carracosta / Ivysaur / Rapidash / Liepard          |    3 |  18.75% |  66.67% |
+| 6    | Carracosta / Ivysaur / Shiftry / Liepard           |    3 |  18.75% |  66.67% |
+| 6    | Carracosta / Rapidash / Shiftry / Liepard          |    3 |  18.75% |  66.67% |
+| 6    | Carracosta / Ivysaur / Shiftry / Rapidash          |    3 |  18.75% |  66.67% |
+| 16   | Persian-Alola / Rapidash / Bouffalant / Articuno   |    2 |  12.50% |  50.00% |
+| 16   | Persian-Alola / Rapidash / Bouffalant / Palossand  |    2 |  12.50% |  50.00% |
+| 16   | Persian-Alola / Rapidash / Palossand / Articuno    |    2 |  12.50% |  50.00% |
+| 16   | Persian-Alola / Bouffalant / Palossand / Articuno  |    2 |  12.50% |  50.00% |
+| 16   | Rapidash / Bouffalant / Palossand / Articuno       |    2 |  12.50% |  50.00% |
+| 16   | Rapidash-Galar / Mareanie / Miltank / Articuno     |    2 |  12.50% |   0.00% |
+| 16   | Mareanie / Miltank / Rhydon / Articuno             |    2 |  12.50% |   0.00% |
+| 16   | Mareanie / Miltank / Silvally / Articuno           |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Mareanie / Rhydon / Articuno      |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Mareanie / Silvally / Articuno    |    2 |  12.50% |   0.00% |
+| 16   | Mareanie / Rhydon / Silvally / Articuno            |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Miltank / Rhydon / Articuno       |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Silvally / Miltank / Articuno     |    2 |  12.50% |   0.00% |
+| 16   | Silvally / Miltank / Rhydon / Articuno             |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Silvally / Rhydon / Articuno      |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Miltank / Rhydon / Mareanie       |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Silvally / Miltank / Mareanie     |    2 |  12.50% |   0.00% |
+| 16   | Silvally / Miltank / Rhydon / Mareanie             |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Silvally / Rhydon / Mareanie      |    2 |  12.50% |   0.00% |
+| 16   | Rapidash-Galar / Silvally / Miltank / Rhydon       |    2 |  12.50% |   0.00% |
+| 36   | Qwilfish / Sableye / Altaria / Articuno            |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Altaria / Stunfisk / Articuno           |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Tangela / Altaria / Articuno            |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Altaria / Stunfisk / Sableye            |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Tangela / Altaria / Sableye             |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Tangela / Altaria / Stunfisk            |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Sableye / Stunfisk / Articuno           |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Tangela / Sableye / Articuno            |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Tangela / Stunfisk / Articuno           |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Tangela / Stunfisk / Sableye            |    1 |   6.25% | 100.00% |
+| 36   | Sableye / Altaria / Stunfisk / Articuno            |    1 |   6.25% | 100.00% |
+| 36   | Tangela / Sableye / Altaria / Articuno             |    1 |   6.25% | 100.00% |
+| 36   | Tangela / Altaria / Stunfisk / Articuno            |    1 |   6.25% | 100.00% |
+| 36   | Tangela / Altaria / Stunfisk / Sableye             |    1 |   6.25% | 100.00% |
+| 36   | Tangela / Sableye / Stunfisk / Articuno            |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Coalossal / Liepard / Accelgor       |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Coalossal / Throh / Accelgor         |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Raichu / Coalossal / Accelgor        |    1 |   6.25% | 100.00% |
+| 36   | Coalossal / Liepard / Throh / Accelgor             |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Coalossal / Liepard / Accelgor            |    1 |   6.25% | 100.00% |
+| 36   | Coalossal / Liepard / Gourgeist-Super / Accelgor   |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Coalossal / Throh / Accelgor              |    1 |   6.25% | 100.00% |
+| 36   | Coalossal / Gourgeist-Super / Throh / Accelgor     |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Coalossal / Gourgeist-Super / Accelgor    |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Liepard / Throh / Accelgor           |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Raichu / Liepard / Accelgor          |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Raichu / Throh / Accelgor            |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Liepard / Throh / Accelgor                |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-Super / Liepard / Throh / Accelgor       |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Liepard / Gourgeist-Super / Accelgor      |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Gourgeist-Super / Throh / Accelgor        |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Coalossal / Liepard / Throh          |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Raichu / Coalossal / Liepard         |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Raichu / Coalossal / Throh           |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Coalossal / Liepard / Throh               |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-Super / Coalossal / Liepard / Throh      |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Coalossal / Liepard / Gourgeist-Super     |    1 |   6.25% | 100.00% |
+| 36   | Raichu / Coalossal / Gourgeist-Super / Throh       |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Raichu / Liepard / Throh             |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-Super / Raichu / Liepard / Throh         |    1 |   6.25% | 100.00% |
+| 36   | Rhydon / Skuntank / Thwackey / Klinklang           |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Rotom / Thwackey / Klinklang            |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Thwackey / Klinklang / Beheeyem         |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Rotom / Rhydon / Klinklang              |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Rhydon / Klinklang / Beheeyem           |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Rotom / Beheeyem / Klinklang            |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Rotom / Thwackey / Rhydon               |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Thwackey / Rhydon / Beheeyem            |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Rotom / Thwackey / Beheeyem             |    1 |   6.25% | 100.00% |
+| 36   | Skuntank / Rotom / Beheeyem / Rhydon               |    1 |   6.25% | 100.00% |
+| 36   | Rhydon / Rotom / Thwackey / Klinklang              |    1 |   6.25% | 100.00% |
+| 36   | Rhydon / Thwackey / Klinklang / Beheeyem           |    1 |   6.25% | 100.00% |
+| 36   | Rotom / Thwackey / Klinklang / Beheeyem            |    1 |   6.25% | 100.00% |
+| 36   | Rotom / Rhydon / Klinklang / Beheeyem              |    1 |   6.25% | 100.00% |
+| 36   | Rotom / Thwackey / Rhydon / Beheeyem               |    1 |   6.25% | 100.00% |
+| 36   | Persian-Alola / Rapidash / Bouffalant / Alcremie   |    1 |   6.25% | 100.00% |
+| 36   | Persian-Alola / Rapidash / Articuno / Alcremie     |    1 |   6.25% | 100.00% |
+| 36   | Persian-Alola / Rapidash / Palossand / Alcremie    |    1 |   6.25% | 100.00% |
+| 36   | Persian-Alola / Articuno / Bouffalant / Alcremie   |    1 |   6.25% | 100.00% |
+| 36   | Persian-Alola / Bouffalant / Palossand / Alcremie  |    1 |   6.25% | 100.00% |
+| 36   | Persian-Alola / Articuno / Palossand / Alcremie    |    1 |   6.25% | 100.00% |
+| 36   | Rapidash / Bouffalant / Articuno / Alcremie        |    1 |   6.25% | 100.00% |
+| 36   | Rapidash / Bouffalant / Palossand / Alcremie       |    1 |   6.25% | 100.00% |
+| 36   | Rapidash / Palossand / Articuno / Alcremie         |    1 |   6.25% | 100.00% |
+| 36   | Articuno / Bouffalant / Palossand / Alcremie       |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Miltank / Altaria / Alcremie            |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Shedinja / Altaria / Alcremie           |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Stunfisk-Galar / Altaria / Alcremie     |    1 |   6.25% | 100.00% |
+| 36   | Shedinja / Miltank / Altaria / Alcremie            |    1 |   6.25% | 100.00% |
+| 36   | Miltank / Stunfisk-Galar / Altaria / Alcremie      |    1 |   6.25% | 100.00% |
+| 36   | Shedinja / Stunfisk-Galar / Altaria / Alcremie     |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Miltank / Shedinja / Alcremie           |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Miltank / Stunfisk-Galar / Alcremie     |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Stunfisk-Galar / Shedinja / Alcremie    |    1 |   6.25% | 100.00% |
+| 36   | Shedinja / Miltank / Stunfisk-Galar / Alcremie     |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Miltank / Altaria / Shedinja            |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Miltank / Altaria / Stunfisk-Galar      |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Stunfisk-Galar / Altaria / Shedinja     |    1 |   6.25% | 100.00% |
+| 36   | Shedinja / Miltank / Altaria / Stunfisk-Galar      |    1 |   6.25% | 100.00% |
+| 36   | Hakamo-o / Miltank / Stunfisk-Galar / Shedinja     |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Thievul / Throh / Stunfisk              |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Cryogonal / Thievul / Throh             |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Qwilfish / Thievul / Throh           |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Gourgeist-Small / Thievul / Throh       |    1 |   6.25% | 100.00% |
+| 36   | Cryogonal / Thievul / Throh / Stunfisk             |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Thievul / Throh / Stunfisk           |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-Small / Thievul / Throh / Stunfisk       |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Cryogonal / Thievul / Throh          |    1 |   6.25% | 100.00% |
+| 36   | Cryogonal / Gourgeist-Small / Thievul / Throh      |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Cryogonal / Thievul / Stunfisk          |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Qwilfish / Thievul / Stunfisk        |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Gourgeist-Small / Thievul / Stunfisk    |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Qwilfish / Cryogonal / Thievul       |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Cryogonal / Gourgeist-Small / Thievul   |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Cryogonal / Thievul / Stunfisk       |    1 |   6.25% | 100.00% |
+| 36   | Cryogonal / Gourgeist-Small / Thievul / Stunfisk   |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Cryogonal / Throh / Stunfisk            |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Qwilfish / Throh / Stunfisk          |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Gourgeist-Small / Throh / Stunfisk      |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Qwilfish / Cryogonal / Throh         |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Cryogonal / Gourgeist-Small / Throh     |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Cryogonal / Throh / Stunfisk         |    1 |   6.25% | 100.00% |
+| 36   | Cryogonal / Gourgeist-Small / Throh / Stunfisk     |    1 |   6.25% | 100.00% |
+| 36   | Gourgeist-* / Qwilfish / Cryogonal / Stunfisk      |    1 |   6.25% | 100.00% |
+| 36   | Qwilfish / Cryogonal / Gourgeist-Small / Stunfisk  |    1 |   6.25% | 100.00% |
+| 36   | Silvally / Rhydon / Throh / Kadabra                |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Throh / Kadabra              |    1 |   6.25% |   0.00% |
+| 36   | Alcremie / Silvally / Throh / Kadabra              |    1 |   6.25% |   0.00% |
+| 36   | Thwackey / Rhydon / Throh / Kadabra                |    1 |   6.25% |   0.00% |
+| 36   | Alcremie / Rhydon / Throh / Kadabra                |    1 |   6.25% |   0.00% |
+| 36   | Alcremie / Thwackey / Throh / Kadabra              |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Rhydon / Kadabra             |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Rhydon / Alcremie / Kadabra             |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Alcremie / Kadabra           |    1 |   6.25% |   0.00% |
+| 36   | Alcremie / Thwackey / Rhydon / Kadabra             |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Rhydon / Throh               |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Rhydon / Throh / Alcremie               |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Throh / Alcremie             |    1 |   6.25% |   0.00% |
+| 36   | Thwackey / Rhydon / Throh / Alcremie               |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Rhydon / Alcremie            |    1 |   6.25% |   0.00% |
+| 36   | Uxie / Ivysaur / Lilligant / Liepard               |    1 |   6.25% |   0.00% |
+| 36   | Uxie / Rapidash / Lilligant / Liepard              |    1 |   6.25% |   0.00% |
+| 36   | Uxie / Lilligant / Shiftry / Liepard               |    1 |   6.25% |   0.00% |
+| 36   | Uxie / Ivysaur / Lilligant / Rapidash              |    1 |   6.25% |   0.00% |
+| 36   | Uxie / Ivysaur / Lilligant / Shiftry               |    1 |   6.25% |   0.00% |
+| 36   | Uxie / Rapidash / Lilligant / Shiftry              |    1 |   6.25% |   0.00% |
+| 36   | Ivysaur / Lilligant / Rapidash / Liepard           |    1 |   6.25% |   0.00% |
+| 36   | Ivysaur / Lilligant / Shiftry / Liepard            |    1 |   6.25% |   0.00% |
+| 36   | Rapidash / Lilligant / Shiftry / Liepard           |    1 |   6.25% |   0.00% |
+| 36   | Ivysaur / Lilligant / Shiftry / Rapidash           |    1 |   6.25% |   0.00% |
+| 36   | Rapidash / Exeggutor / Palossand / Articuno        |    1 |   6.25% |   0.00% |
+| 36   | Persian-Alola / Rapidash / Exeggutor / Palossand   |    1 |   6.25% |   0.00% |
+| 36   | Rapidash / Bouffalant / Exeggutor / Palossand      |    1 |   6.25% |   0.00% |
+| 36   | Persian-Alola / Exeggutor / Palossand / Articuno   |    1 |   6.25% |   0.00% |
+| 36   | Bouffalant / Exeggutor / Palossand / Articuno      |    1 |   6.25% |   0.00% |
+| 36   | Persian-Alola / Bouffalant / Exeggutor / Palossand |    1 |   6.25% |   0.00% |
+| 36   | Persian-Alola / Rapidash / Exeggutor / Articuno    |    1 |   6.25% |   0.00% |
+| 36   | Rapidash / Bouffalant / Exeggutor / Articuno       |    1 |   6.25% |   0.00% |
+| 36   | Persian-Alola / Rapidash / Bouffalant / Exeggutor  |    1 |   6.25% |   0.00% |
+| 36   | Persian-Alola / Bouffalant / Exeggutor / Articuno  |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Skuntank / Shiinotic / Stunfisk         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Skuntank / Shiinotic / Klinklang        |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Skuntank / Shiinotic / Kabutops         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Skuntank / Klinklang / Stunfisk         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Skuntank / Kabutops / Stunfisk          |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Skuntank / Kabutops / Klinklang         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Shiinotic / Klinklang / Stunfisk        |    1 |   6.25% |   0.00% |
+| 36   | Kabutops / Silvally / Shiinotic / Stunfisk         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Shiinotic / Klinklang / Kabutops        |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Kabutops / Klinklang / Stunfisk         |    1 |   6.25% |   0.00% |
+| 36   | Shiinotic / Skuntank / Klinklang / Stunfisk        |    1 |   6.25% |   0.00% |
+| 36   | Shiinotic / Skuntank / Kabutops / Stunfisk         |    1 |   6.25% |   0.00% |
+| 36   | Shiinotic / Skuntank / Kabutops / Klinklang        |    1 |   6.25% |   0.00% |
+| 36   | Skuntank / Kabutops / Klinklang / Stunfisk         |    1 |   6.25% |   0.00% |
+| 36   | Shiinotic / Kabutops / Klinklang / Stunfisk        |    1 |   6.25% |   0.00% |
+| 36   | Coalossal / Thwackey / Marowak / Alcremie          |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Coalossal / Thwackey / Marowak          |    1 |   6.25% |   0.00% |
+| 36   | Cofagrigus / Coalossal / Thwackey / Marowak        |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Coalossal / Marowak / Alcremie          |    1 |   6.25% |   0.00% |
+| 36   | Cofagrigus / Coalossal / Marowak / Alcremie        |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Coalossal / Cofagrigus / Marowak        |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Marowak / Alcremie           |    1 |   6.25% |   0.00% |
+| 36   | Cofagrigus / Thwackey / Marowak / Alcremie         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Cofagrigus / Marowak         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Cofagrigus / Marowak / Alcremie         |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Coalossal / Thwackey / Alcremie         |    1 |   6.25% |   0.00% |
+| 36   | Cofagrigus / Coalossal / Thwackey / Alcremie       |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Coalossal / Thwackey / Cofagrigus       |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Coalossal / Cofagrigus / Alcremie       |    1 |   6.25% |   0.00% |
+| 36   | Silvally / Thwackey / Cofagrigus / Alcremie        |    1 |   6.25% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Rapidash / Shiftry / Uxie / Liepard / Ivysaur                 |    4 |  25.00% |  50.00% |
+| 2    | Rapidash / Uxie / Carracosta / Liepard / Ivysaur              |    3 |  18.75% |  66.67% |
+| 2    | Shiftry / Uxie / Carracosta / Liepard / Ivysaur               |    3 |  18.75% |  66.67% |
+| 2    | Rapidash / Shiftry / Uxie / Carracosta / Liepard              |    3 |  18.75% |  66.67% |
+| 2    | Rapidash / Shiftry / Uxie / Carracosta / Ivysaur              |    3 |  18.75% |  66.67% |
+| 2    | Rapidash / Shiftry / Carracosta / Liepard / Ivysaur           |    3 |  18.75% |  66.67% |
+| 7    | Palossand / Persian-Alola / Rapidash / Bouffalant / Articuno  |    2 |  12.50% |  50.00% |
+| 7    | Rapidash-Galar / Mareanie / Miltank / Rhydon / Articuno       |    2 |  12.50% |   0.00% |
+| 7    | Rapidash-Galar / Mareanie / Silvally / Miltank / Articuno     |    2 |  12.50% |   0.00% |
+| 7    | Mareanie / Silvally / Miltank / Rhydon / Articuno             |    2 |  12.50% |   0.00% |
+| 7    | Rapidash-Galar / Mareanie / Silvally / Rhydon / Articuno      |    2 |  12.50% |   0.00% |
+| 7    | Rapidash-Galar / Silvally / Miltank / Rhydon / Articuno       |    2 |  12.50% |   0.00% |
+| 7    | Rapidash-Galar / Mareanie / Silvally / Miltank / Rhydon       |    2 |  12.50% |   0.00% |
+| 14   | Altaria / Sableye / Qwilfish / Stunfisk / Articuno            |    1 |   6.25% | 100.00% |
+| 14   | Tangela / Altaria / Sableye / Qwilfish / Articuno             |    1 |   6.25% | 100.00% |
+| 14   | Tangela / Altaria / Qwilfish / Stunfisk / Articuno            |    1 |   6.25% | 100.00% |
+| 14   | Tangela / Altaria / Sableye / Qwilfish / Stunfisk             |    1 |   6.25% | 100.00% |
+| 14   | Tangela / Sableye / Qwilfish / Stunfisk / Articuno            |    1 |   6.25% | 100.00% |
+| 14   | Tangela / Altaria / Sableye / Stunfisk / Articuno             |    1 |   6.25% | 100.00% |
+| 14   | Coalossal / Gourgeist-* / Liepard / Accelgor / Throh          |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Coalossal / Gourgeist-* / Liepard / Accelgor         |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Coalossal / Gourgeist-* / Accelgor / Throh           |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Coalossal / Liepard / Accelgor / Throh               |    1 |   6.25% | 100.00% |
+| 14   | Coalossal / Liepard / Gourgeist-Super / Accelgor / Throh      |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Coalossal / Liepard / Gourgeist-Super / Accelgor     |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Coalossal / Gourgeist-Super / Accelgor / Throh       |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Gourgeist-* / Liepard / Accelgor / Throh             |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Liepard / Gourgeist-Super / Accelgor / Throh         |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Coalossal / Gourgeist-* / Liepard / Throh            |    1 |   6.25% | 100.00% |
+| 14   | Raichu / Coalossal / Liepard / Gourgeist-Super / Throh        |    1 |   6.25% | 100.00% |
+| 14   | Thwackey / Klinklang / Skuntank / Rotom / Rhydon              |    1 |   6.25% | 100.00% |
+| 14   | Thwackey / Klinklang / Beheeyem / Skuntank / Rhydon           |    1 |   6.25% | 100.00% |
+| 14   | Thwackey / Klinklang / Beheeyem / Skuntank / Rotom            |    1 |   6.25% | 100.00% |
+| 14   | Beheeyem / Klinklang / Skuntank / Rotom / Rhydon              |    1 |   6.25% | 100.00% |
+| 14   | Thwackey / Beheeyem / Skuntank / Rotom / Rhydon               |    1 |   6.25% | 100.00% |
+| 14   | Thwackey / Klinklang / Beheeyem / Rotom / Rhydon              |    1 |   6.25% | 100.00% |
+| 14   | Alcremie / Persian-Alola / Rapidash / Bouffalant / Articuno   |    1 |   6.25% | 100.00% |
+| 14   | Palossand / Alcremie / Persian-Alola / Rapidash / Bouffalant  |    1 |   6.25% | 100.00% |
+| 14   | Palossand / Alcremie / Persian-Alola / Rapidash / Articuno    |    1 |   6.25% | 100.00% |
+| 14   | Palossand / Alcremie / Persian-Alola / Bouffalant / Articuno  |    1 |   6.25% | 100.00% |
+| 14   | Palossand / Alcremie / Rapidash / Bouffalant / Articuno       |    1 |   6.25% | 100.00% |
+| 14   | Hakamo-o / Alcremie / Shedinja / Altaria / Miltank            |    1 |   6.25% | 100.00% |
+| 14   | Hakamo-o / Alcremie / Altaria / Stunfisk-Galar / Miltank      |    1 |   6.25% | 100.00% |
+| 14   | Hakamo-o / Alcremie / Shedinja / Altaria / Stunfisk-Galar     |    1 |   6.25% | 100.00% |
+| 14   | Alcremie / Shedinja / Altaria / Stunfisk-Galar / Miltank      |    1 |   6.25% | 100.00% |
+| 14   | Hakamo-o / Alcremie / Shedinja / Stunfisk-Galar / Miltank     |    1 |   6.25% | 100.00% |
+| 14   | Hakamo-o / Shedinja / Altaria / Stunfisk-Galar / Miltank      |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Qwilfish / Stunfisk / Cryogonal / Throh             |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Gourgeist-* / Qwilfish / Stunfisk / Throh           |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Qwilfish / Stunfisk / Gourgeist-Small / Throh       |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Gourgeist-* / Qwilfish / Cryogonal / Throh          |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Qwilfish / Cryogonal / Gourgeist-Small / Throh      |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Gourgeist-* / Stunfisk / Cryogonal / Throh          |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Stunfisk / Cryogonal / Gourgeist-Small / Throh      |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Gourgeist-* / Qwilfish / Stunfisk / Cryogonal       |    1 |   6.25% | 100.00% |
+| 14   | Thievul / Qwilfish / Stunfisk / Cryogonal / Gourgeist-Small   |    1 |   6.25% | 100.00% |
+| 14   | Gourgeist-* / Qwilfish / Stunfisk / Cryogonal / Throh         |    1 |   6.25% | 100.00% |
+| 14   | Qwilfish / Stunfisk / Cryogonal / Gourgeist-Small / Throh     |    1 |   6.25% | 100.00% |
+| 14   | Thwackey / Silvally / Rhydon / Throh / Kadabra                |    1 |   6.25% |   0.00% |
+| 14   | Alcremie / Silvally / Rhydon / Throh / Kadabra                |    1 |   6.25% |   0.00% |
+| 14   | Thwackey / Alcremie / Silvally / Throh / Kadabra              |    1 |   6.25% |   0.00% |
+| 14   | Thwackey / Alcremie / Rhydon / Throh / Kadabra                |    1 |   6.25% |   0.00% |
+| 14   | Thwackey / Alcremie / Silvally / Rhydon / Kadabra             |    1 |   6.25% |   0.00% |
+| 14   | Thwackey / Alcremie / Silvally / Rhydon / Throh               |    1 |   6.25% |   0.00% |
+| 14   | Rapidash / Lilligant / Uxie / Liepard / Ivysaur               |    1 |   6.25% |   0.00% |
+| 14   | Lilligant / Shiftry / Uxie / Liepard / Ivysaur                |    1 |   6.25% |   0.00% |
+| 14   | Rapidash / Lilligant / Shiftry / Uxie / Liepard               |    1 |   6.25% |   0.00% |
+| 14   | Rapidash / Lilligant / Shiftry / Uxie / Ivysaur               |    1 |   6.25% |   0.00% |
+| 14   | Rapidash / Lilligant / Shiftry / Liepard / Ivysaur            |    1 |   6.25% |   0.00% |
+| 14   | Palossand / Persian-Alola / Rapidash / Exeggutor / Articuno   |    1 |   6.25% |   0.00% |
+| 14   | Palossand / Rapidash / Bouffalant / Exeggutor / Articuno      |    1 |   6.25% |   0.00% |
+| 14   | Palossand / Persian-Alola / Rapidash / Bouffalant / Exeggutor |    1 |   6.25% |   0.00% |
+| 14   | Palossand / Persian-Alola / Bouffalant / Exeggutor / Articuno |    1 |   6.25% |   0.00% |
+| 14   | Persian-Alola / Rapidash / Bouffalant / Exeggutor / Articuno  |    1 |   6.25% |   0.00% |
+| 14   | Shiinotic / Klinklang / Silvally / Stunfisk / Skuntank        |    1 |   6.25% |   0.00% |
+| 14   | Shiinotic / Kabutops / Silvally / Stunfisk / Skuntank         |    1 |   6.25% |   0.00% |
+| 14   | Shiinotic / Kabutops / Klinklang / Silvally / Skuntank        |    1 |   6.25% |   0.00% |
+| 14   | Kabutops / Klinklang / Silvally / Stunfisk / Skuntank         |    1 |   6.25% |   0.00% |
+| 14   | Shiinotic / Kabutops / Klinklang / Silvally / Stunfisk        |    1 |   6.25% |   0.00% |
+| 14   | Shiinotic / Kabutops / Klinklang / Stunfisk / Skuntank        |    1 |   6.25% |   0.00% |
+| 14   | Coalossal / Thwackey / Alcremie / Silvally / Marowak          |    1 |   6.25% |   0.00% |
+| 14   | Coalossal / Thwackey / Alcremie / Cofagrigus / Marowak        |    1 |   6.25% |   0.00% |
+| 14   | Coalossal / Thwackey / Cofagrigus / Silvally / Marowak        |    1 |   6.25% |   0.00% |
+| 14   | Coalossal / Alcremie / Cofagrigus / Silvally / Marowak        |    1 |   6.25% |   0.00% |
+| 14   | Thwackey / Alcremie / Cofagrigus / Silvally / Marowak         |    1 |   6.25% |   0.00% |
+| 14   | Coalossal / Thwackey / Alcremie / Cofagrigus / Silvally       |    1 |   6.25% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                              | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Rapidash / Shiftry / Uxie / Carracosta / Liepard / Ivysaur               |    3 |  18.75% |  66.67% |
+| 2    | Rapidash-Galar / Mareanie / Silvally / Miltank / Rhydon / Articuno       |    2 |  12.50% |   0.00% |
+| 3    | Tangela / Altaria / Sableye / Qwilfish / Stunfisk / Articuno             |    1 |   6.25% | 100.00% |
+| 3    | Raichu / Coalossal / Gourgeist-* / Liepard / Accelgor / Throh            |    1 |   6.25% | 100.00% |
+| 3    | Raichu / Coalossal / Liepard / Gourgeist-Super / Accelgor / Throh        |    1 |   6.25% | 100.00% |
+| 3    | Thwackey / Klinklang / Beheeyem / Skuntank / Rotom / Rhydon              |    1 |   6.25% | 100.00% |
+| 3    | Palossand / Alcremie / Persian-Alola / Rapidash / Bouffalant / Articuno  |    1 |   6.25% | 100.00% |
+| 3    | Hakamo-o / Alcremie / Shedinja / Altaria / Stunfisk-Galar / Miltank      |    1 |   6.25% | 100.00% |
+| 3    | Thievul / Gourgeist-* / Qwilfish / Stunfisk / Cryogonal / Throh          |    1 |   6.25% | 100.00% |
+| 3    | Thievul / Qwilfish / Stunfisk / Cryogonal / Gourgeist-Small / Throh      |    1 |   6.25% | 100.00% |
+| 3    | Thwackey / Alcremie / Silvally / Rhydon / Throh / Kadabra                |    1 |   6.25% |   0.00% |
+| 3    | Rapidash / Lilligant / Shiftry / Uxie / Liepard / Ivysaur                |    1 |   6.25% |   0.00% |
+| 3    | Palossand / Persian-Alola / Rapidash / Bouffalant / Exeggutor / Articuno |    1 |   6.25% |   0.00% |
+| 3    | Shiinotic / Kabutops / Klinklang / Silvally / Stunfisk / Skuntank        |    1 |   6.25% |   0.00% |
+| 3    | Coalossal / Thwackey / Alcremie / Cofagrigus / Silvally / Marowak        |    1 |   6.25% |   0.00% |
