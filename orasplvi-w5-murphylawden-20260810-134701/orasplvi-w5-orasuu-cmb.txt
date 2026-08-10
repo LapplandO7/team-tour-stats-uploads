@@ -1,0 +1,463 @@
++ ---- + ----------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2             | Use  | Usage % |  Win %  |
++ ---- + ----------------------- + ---- + ------- + ------- +
+| 1    | Doublade / Aerodactyl   |    3 |  37.50% |  66.67% |
+| 1    | Crobat / Empoleon       |    3 |  37.50% |  33.33% |
+| 3    | Mandibuzz / Aerodactyl  |    2 |  25.00% |  50.00% |
+| 3    | Gardevoir / Seismitoad  |    2 |  25.00% |  50.00% |
+| 3    | Doublade / Mandibuzz    |    2 |  25.00% |  50.00% |
+| 3    | Crobat / Swampert       |    2 |  25.00% |  50.00% |
+| 3    | Mienshao / Empoleon     |    2 |  25.00% |   0.00% |
+| 3    | Crobat / Mienshao       |    2 |  25.00% |   0.00% |
+| 9    | Mandibuzz / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 9    | Suicune / Mandibuzz     |    1 |  12.50% | 100.00% |
+| 9    | Blissey / Mandibuzz     |    1 |  12.50% | 100.00% |
+| 9    | Doublade / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 9    | Suicune / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 9    | Blissey / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 9    | Aerodactyl / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 9    | Doublade / Suicune      |    1 |  12.50% | 100.00% |
+| 9    | Doublade / Blissey      |    1 |  12.50% | 100.00% |
+| 9    | Blissey / Suicune       |    1 |  12.50% | 100.00% |
+| 9    | Suicune / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 9    | Blissey / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 9    | Heracross / Empoleon    |    1 |  12.50% | 100.00% |
+| 9    | Snorlax / Empoleon      |    1 |  12.50% | 100.00% |
+| 9    | Tangela / Empoleon      |    1 |  12.50% | 100.00% |
+| 9    | Swampert / Empoleon     |    1 |  12.50% | 100.00% |
+| 9    | Heracross / Snorlax     |    1 |  12.50% | 100.00% |
+| 9    | Crobat / Heracross      |    1 |  12.50% | 100.00% |
+| 9    | Heracross / Tangela     |    1 |  12.50% | 100.00% |
+| 9    | Heracross / Swampert    |    1 |  12.50% | 100.00% |
+| 9    | Crobat / Snorlax        |    1 |  12.50% | 100.00% |
+| 9    | Tangela / Snorlax       |    1 |  12.50% | 100.00% |
+| 9    | Swampert / Snorlax      |    1 |  12.50% | 100.00% |
+| 9    | Crobat / Tangela        |    1 |  12.50% | 100.00% |
+| 9    | Tangela / Swampert      |    1 |  12.50% | 100.00% |
+| 9    | Shaymin / Swampert      |    1 |  12.50% | 100.00% |
+| 9    | Swampert / Lucario      |    1 |  12.50% | 100.00% |
+| 9    | Swampert / Tornadus     |    1 |  12.50% | 100.00% |
+| 9    | Doublade / Swampert     |    1 |  12.50% | 100.00% |
+| 9    | Swampert / Aerodactyl   |    1 |  12.50% | 100.00% |
+| 9    | Shaymin / Lucario       |    1 |  12.50% | 100.00% |
+| 9    | Shaymin / Tornadus      |    1 |  12.50% | 100.00% |
+| 9    | Doublade / Shaymin      |    1 |  12.50% | 100.00% |
+| 9    | Shaymin / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 9    | Lucario / Tornadus      |    1 |  12.50% | 100.00% |
+| 9    | Doublade / Lucario      |    1 |  12.50% | 100.00% |
+| 9    | Lucario / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 9    | Doublade / Tornadus     |    1 |  12.50% | 100.00% |
+| 9    | Aerodactyl / Tornadus   |    1 |  12.50% | 100.00% |
+| 9    | Hydreigon / Metagross   |    1 |  12.50% | 100.00% |
+| 9    | Gardevoir / Metagross   |    1 |  12.50% | 100.00% |
+| 9    | Toxicroak / Metagross   |    1 |  12.50% | 100.00% |
+| 9    | Klefki / Metagross      |    1 |  12.50% | 100.00% |
+| 9    | Metagross / Seismitoad  |    1 |  12.50% | 100.00% |
+| 9    | Gardevoir / Hydreigon   |    1 |  12.50% | 100.00% |
+| 9    | Toxicroak / Hydreigon   |    1 |  12.50% | 100.00% |
+| 9    | Hydreigon / Klefki      |    1 |  12.50% | 100.00% |
+| 9    | Hydreigon / Seismitoad  |    1 |  12.50% | 100.00% |
+| 9    | Gardevoir / Toxicroak   |    1 |  12.50% | 100.00% |
+| 9    | Gardevoir / Klefki      |    1 |  12.50% | 100.00% |
+| 9    | Toxicroak / Klefki      |    1 |  12.50% | 100.00% |
+| 9    | Toxicroak / Seismitoad  |    1 |  12.50% | 100.00% |
+| 9    | Klefki / Seismitoad     |    1 |  12.50% | 100.00% |
+| 9    | Snorlax / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 9    | Snorlax / Seismitoad    |    1 |  12.50% |   0.00% |
+| 9    | Snorlax / Mandibuzz     |    1 |  12.50% |   0.00% |
+| 9    | Gardevoir / Snorlax     |    1 |  12.50% |   0.00% |
+| 9    | Doublade / Snorlax      |    1 |  12.50% |   0.00% |
+| 9    | Seismitoad / Aerodactyl |    1 |  12.50% |   0.00% |
+| 9    | Gardevoir / Aerodactyl  |    1 |  12.50% |   0.00% |
+| 9    | Mandibuzz / Seismitoad  |    1 |  12.50% |   0.00% |
+| 9    | Doublade / Seismitoad   |    1 |  12.50% |   0.00% |
+| 9    | Gardevoir / Mandibuzz   |    1 |  12.50% |   0.00% |
+| 9    | Gardevoir / Doublade    |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Kyurem         |    1 |  12.50% |   0.00% |
+| 9    | Swampert / Kyurem       |    1 |  12.50% |   0.00% |
+| 9    | Kyurem / Roserade       |    1 |  12.50% |   0.00% |
+| 9    | Kyurem / Gligar         |    1 |  12.50% |   0.00% |
+| 9    | Kyurem / Infernape      |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Roserade       |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Gligar         |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Infernape      |    1 |  12.50% |   0.00% |
+| 9    | Swampert / Roserade     |    1 |  12.50% |   0.00% |
+| 9    | Swampert / Gligar       |    1 |  12.50% |   0.00% |
+| 9    | Swampert / Infernape    |    1 |  12.50% |   0.00% |
+| 9    | Gligar / Roserade       |    1 |  12.50% |   0.00% |
+| 9    | Infernape / Roserade    |    1 |  12.50% |   0.00% |
+| 9    | Gligar / Infernape      |    1 |  12.50% |   0.00% |
+| 9    | Slowking / Empoleon     |    1 |  12.50% |   0.00% |
+| 9    | Absol / Empoleon        |    1 |  12.50% |   0.00% |
+| 9    | Empoleon / Rotom-Mow    |    1 |  12.50% |   0.00% |
+| 9    | Slowking / Mienshao     |    1 |  12.50% |   0.00% |
+| 9    | Absol / Mienshao        |    1 |  12.50% |   0.00% |
+| 9    | Mienshao / Rotom-Mow    |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Slowking       |    1 |  12.50% |   0.00% |
+| 9    | Absol / Slowking        |    1 |  12.50% |   0.00% |
+| 9    | Slowking / Rotom-Mow    |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Absol          |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Rotom-Mow      |    1 |  12.50% |   0.00% |
+| 9    | Absol / Rotom-Mow       |    1 |  12.50% |   0.00% |
+| 9    | Houndoom / Empoleon     |    1 |  12.50% |   0.00% |
+| 9    | Houndoom / Mienshao     |    1 |  12.50% |   0.00% |
+| 9    | Houndoom / Celebi       |    1 |  12.50% |   0.00% |
+| 9    | Houndoom / Rhyperior    |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Houndoom       |    1 |  12.50% |   0.00% |
+| 9    | Celebi / Empoleon       |    1 |  12.50% |   0.00% |
+| 9    | Empoleon / Rhyperior    |    1 |  12.50% |   0.00% |
+| 9    | Celebi / Mienshao       |    1 |  12.50% |   0.00% |
+| 9    | Mienshao / Rhyperior    |    1 |  12.50% |   0.00% |
+| 9    | Celebi / Rhyperior      |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Celebi         |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Rhyperior      |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| 1    | Doublade / Mandibuzz / Aerodactyl   |    2 |  25.00% |  50.00% |
+| 1    | Mienshao / Crobat / Empoleon        |    2 |  25.00% |   0.00% |
+| 3    | Doublade / Mandibuzz / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 3    | Suicune / Mandibuzz / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 3    | Blissey / Mandibuzz / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Mandibuzz / Nidoqueen  |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Suicune / Mandibuzz      |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Blissey / Mandibuzz      |    1 |  12.50% | 100.00% |
+| 3    | Blissey / Suicune / Mandibuzz       |    1 |  12.50% | 100.00% |
+| 3    | Suicune / Mandibuzz / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 3    | Blissey / Mandibuzz / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Suicune / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Blissey / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Aerodactyl / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 3    | Blissey / Suicune / Nidoqueen       |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Suicune / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Blissey / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Blissey / Suicune        |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Suicune / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Blissey / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 3    | Blissey / Suicune / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 3    | Heracross / Snorlax / Empoleon      |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Heracross / Empoleon       |    1 |  12.50% | 100.00% |
+| 3    | Heracross / Tangela / Empoleon      |    1 |  12.50% | 100.00% |
+| 3    | Heracross / Swampert / Empoleon     |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Snorlax / Empoleon         |    1 |  12.50% | 100.00% |
+| 3    | Tangela / Snorlax / Empoleon        |    1 |  12.50% | 100.00% |
+| 3    | Swampert / Snorlax / Empoleon       |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Tangela / Empoleon         |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Swampert / Empoleon        |    1 |  12.50% | 100.00% |
+| 3    | Tangela / Swampert / Empoleon       |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Heracross / Snorlax        |    1 |  12.50% | 100.00% |
+| 3    | Tangela / Heracross / Snorlax       |    1 |  12.50% | 100.00% |
+| 3    | Heracross / Swampert / Snorlax      |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Heracross / Tangela        |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Heracross / Swampert       |    1 |  12.50% | 100.00% |
+| 3    | Heracross / Swampert / Tangela      |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Tangela / Snorlax          |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Swampert / Snorlax         |    1 |  12.50% | 100.00% |
+| 3    | Tangela / Swampert / Snorlax        |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Tangela / Swampert         |    1 |  12.50% | 100.00% |
+| 3    | Shaymin / Swampert / Lucario        |    1 |  12.50% | 100.00% |
+| 3    | Shaymin / Swampert / Tornadus       |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Shaymin / Swampert       |    1 |  12.50% | 100.00% |
+| 3    | Shaymin / Swampert / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 3    | Swampert / Lucario / Tornadus       |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Swampert / Lucario       |    1 |  12.50% | 100.00% |
+| 3    | Swampert / Lucario / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Swampert / Tornadus      |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Swampert / Tornadus    |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Swampert / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 3    | Shaymin / Lucario / Tornadus        |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Shaymin / Lucario        |    1 |  12.50% | 100.00% |
+| 3    | Shaymin / Lucario / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Shaymin / Tornadus       |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Shaymin / Tornadus     |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Shaymin / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Lucario / Tornadus       |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Lucario / Tornadus     |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Lucario / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 3    | Doublade / Aerodactyl / Tornadus    |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Hydreigon / Metagross   |    1 |  12.50% | 100.00% |
+| 3    | Toxicroak / Hydreigon / Metagross   |    1 |  12.50% | 100.00% |
+| 3    | Klefki / Hydreigon / Metagross      |    1 |  12.50% | 100.00% |
+| 3    | Hydreigon / Metagross / Seismitoad  |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Toxicroak / Metagross   |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Klefki / Metagross      |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Metagross / Seismitoad  |    1 |  12.50% | 100.00% |
+| 3    | Toxicroak / Klefki / Metagross      |    1 |  12.50% | 100.00% |
+| 3    | Toxicroak / Metagross / Seismitoad  |    1 |  12.50% | 100.00% |
+| 3    | Klefki / Metagross / Seismitoad     |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Hydreigon / Toxicroak   |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Hydreigon / Klefki      |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Hydreigon / Seismitoad  |    1 |  12.50% | 100.00% |
+| 3    | Toxicroak / Hydreigon / Klefki      |    1 |  12.50% | 100.00% |
+| 3    | Toxicroak / Hydreigon / Seismitoad  |    1 |  12.50% | 100.00% |
+| 3    | Hydreigon / Klefki / Seismitoad     |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Klefki / Toxicroak      |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Toxicroak / Seismitoad  |    1 |  12.50% | 100.00% |
+| 3    | Gardevoir / Klefki / Seismitoad     |    1 |  12.50% | 100.00% |
+| 3    | Toxicroak / Klefki / Seismitoad     |    1 |  12.50% | 100.00% |
+| 3    | Seismitoad / Snorlax / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 3    | Snorlax / Mandibuzz / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Snorlax / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 3    | Doublade / Snorlax / Aerodactyl     |    1 |  12.50% |   0.00% |
+| 3    | Snorlax / Mandibuzz / Seismitoad    |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Snorlax / Seismitoad    |    1 |  12.50% |   0.00% |
+| 3    | Doublade / Snorlax / Seismitoad     |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Snorlax / Mandibuzz     |    1 |  12.50% |   0.00% |
+| 3    | Doublade / Snorlax / Mandibuzz      |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Doublade / Snorlax      |    1 |  12.50% |   0.00% |
+| 3    | Seismitoad / Mandibuzz / Aerodactyl |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Seismitoad / Aerodactyl |    1 |  12.50% |   0.00% |
+| 3    | Seismitoad / Doublade / Aerodactyl  |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Mandibuzz / Aerodactyl  |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Doublade / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Mandibuzz / Seismitoad  |    1 |  12.50% |   0.00% |
+| 3    | Doublade / Mandibuzz / Seismitoad   |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Doublade / Seismitoad   |    1 |  12.50% |   0.00% |
+| 3    | Gardevoir / Doublade / Mandibuzz    |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Swampert / Kyurem          |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Kyurem / Roserade          |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Kyurem / Gligar            |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Kyurem / Infernape         |    1 |  12.50% |   0.00% |
+| 3    | Swampert / Kyurem / Roserade        |    1 |  12.50% |   0.00% |
+| 3    | Swampert / Kyurem / Gligar          |    1 |  12.50% |   0.00% |
+| 3    | Swampert / Kyurem / Infernape       |    1 |  12.50% |   0.00% |
+| 3    | Gligar / Kyurem / Roserade          |    1 |  12.50% |   0.00% |
+| 3    | Infernape / Kyurem / Roserade       |    1 |  12.50% |   0.00% |
+| 3    | Infernape / Kyurem / Gligar         |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Swampert / Roserade        |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Swampert / Gligar          |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Swampert / Infernape       |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Gligar / Roserade          |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Infernape / Roserade       |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Gligar / Infernape         |    1 |  12.50% |   0.00% |
+| 3    | Swampert / Gligar / Roserade        |    1 |  12.50% |   0.00% |
+| 3    | Infernape / Swampert / Roserade     |    1 |  12.50% |   0.00% |
+| 3    | Swampert / Gligar / Infernape       |    1 |  12.50% |   0.00% |
+| 3    | Infernape / Gligar / Roserade       |    1 |  12.50% |   0.00% |
+| 3    | Mienshao / Slowking / Empoleon      |    1 |  12.50% |   0.00% |
+| 3    | Mienshao / Absol / Empoleon         |    1 |  12.50% |   0.00% |
+| 3    | Mienshao / Empoleon / Rotom-Mow     |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Slowking / Empoleon        |    1 |  12.50% |   0.00% |
+| 3    | Absol / Slowking / Empoleon         |    1 |  12.50% |   0.00% |
+| 3    | Slowking / Empoleon / Rotom-Mow     |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Absol / Empoleon           |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Empoleon / Rotom-Mow       |    1 |  12.50% |   0.00% |
+| 3    | Absol / Empoleon / Rotom-Mow        |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Slowking / Mienshao        |    1 |  12.50% |   0.00% |
+| 3    | Absol / Slowking / Mienshao         |    1 |  12.50% |   0.00% |
+| 3    | Slowking / Mienshao / Rotom-Mow     |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Absol / Mienshao           |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Mienshao / Rotom-Mow       |    1 |  12.50% |   0.00% |
+| 3    | Absol / Mienshao / Rotom-Mow        |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Absol / Slowking           |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Slowking / Rotom-Mow       |    1 |  12.50% |   0.00% |
+| 3    | Absol / Slowking / Rotom-Mow        |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Absol / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 3    | Mienshao / Houndoom / Empoleon      |    1 |  12.50% |   0.00% |
+| 3    | Houndoom / Celebi / Empoleon        |    1 |  12.50% |   0.00% |
+| 3    | Houndoom / Empoleon / Rhyperior     |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Houndoom / Empoleon        |    1 |  12.50% |   0.00% |
+| 3    | Houndoom / Celebi / Mienshao        |    1 |  12.50% |   0.00% |
+| 3    | Houndoom / Mienshao / Rhyperior     |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Houndoom / Mienshao        |    1 |  12.50% |   0.00% |
+| 3    | Houndoom / Celebi / Rhyperior       |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Houndoom / Celebi          |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Houndoom / Rhyperior       |    1 |  12.50% |   0.00% |
+| 3    | Mienshao / Celebi / Empoleon        |    1 |  12.50% |   0.00% |
+| 3    | Mienshao / Empoleon / Rhyperior     |    1 |  12.50% |   0.00% |
+| 3    | Celebi / Empoleon / Rhyperior       |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Celebi / Empoleon          |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Empoleon / Rhyperior       |    1 |  12.50% |   0.00% |
+| 3    | Celebi / Mienshao / Rhyperior       |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Celebi / Mienshao          |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Mienshao / Rhyperior       |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Celebi / Rhyperior         |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Doublade / Suicune / Mandibuzz / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Blissey / Mandibuzz / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Aerodactyl / Mandibuzz / Nidoqueen   |    1 |  12.50% | 100.00% |
+| 1    | Blissey / Suicune / Mandibuzz / Nidoqueen       |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Suicune / Mandibuzz / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Blissey / Mandibuzz / Nidoqueen    |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Blissey / Suicune / Mandibuzz        |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Suicune / Mandibuzz / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Blissey / Mandibuzz / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 1    | Blissey / Suicune / Mandibuzz / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Blissey / Suicune / Nidoqueen        |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Doublade / Suicune / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Doublade / Blissey / Nidoqueen     |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Blissey / Suicune / Nidoqueen      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Blissey / Suicune / Aerodactyl       |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Heracross / Snorlax / Empoleon         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Heracross / Snorlax / Empoleon        |    1 |  12.50% | 100.00% |
+| 1    | Heracross / Swampert / Snorlax / Empoleon       |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Heracross / Tangela / Empoleon         |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Heracross / Swampert / Empoleon        |    1 |  12.50% | 100.00% |
+| 1    | Heracross / Swampert / Tangela / Empoleon       |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tangela / Snorlax / Empoleon           |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Swampert / Snorlax / Empoleon          |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Swampert / Snorlax / Empoleon         |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tangela / Swampert / Empoleon          |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Heracross / Tangela / Snorlax          |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Heracross / Swampert / Snorlax         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Heracross / Swampert / Snorlax        |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Heracross / Swampert / Tangela         |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Tangela / Swampert / Snorlax           |    1 |  12.50% | 100.00% |
+| 1    | Shaymin / Swampert / Lucario / Tornadus         |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Shaymin / Swampert / Lucario         |    1 |  12.50% | 100.00% |
+| 1    | Shaymin / Swampert / Lucario / Aerodactyl       |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Shaymin / Swampert / Tornadus        |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Shaymin / Swampert / Tornadus      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Shaymin / Swampert / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Swampert / Lucario / Tornadus        |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Swampert / Lucario / Tornadus      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Swampert / Lucario / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Swampert / Aerodactyl / Tornadus     |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Shaymin / Lucario / Tornadus         |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Shaymin / Lucario / Tornadus       |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Shaymin / Lucario / Aerodactyl       |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Shaymin / Aerodactyl / Tornadus      |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Aerodactyl / Lucario / Tornadus      |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Toxicroak / Hydreigon / Metagross   |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Klefki / Hydreigon / Metagross      |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Hydreigon / Metagross / Seismitoad  |    1 |  12.50% | 100.00% |
+| 1    | Toxicroak / Klefki / Hydreigon / Metagross      |    1 |  12.50% | 100.00% |
+| 1    | Toxicroak / Hydreigon / Metagross / Seismitoad  |    1 |  12.50% | 100.00% |
+| 1    | Klefki / Hydreigon / Metagross / Seismitoad     |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Toxicroak / Klefki / Metagross      |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Toxicroak / Metagross / Seismitoad  |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Klefki / Metagross / Seismitoad     |    1 |  12.50% | 100.00% |
+| 1    | Toxicroak / Klefki / Metagross / Seismitoad     |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Klefki / Hydreigon / Toxicroak      |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Hydreigon / Toxicroak / Seismitoad  |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Hydreigon / Klefki / Seismitoad     |    1 |  12.50% | 100.00% |
+| 1    | Toxicroak / Hydreigon / Klefki / Seismitoad     |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Klefki / Toxicroak / Seismitoad     |    1 |  12.50% | 100.00% |
+| 1    | Seismitoad / Snorlax / Mandibuzz / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Seismitoad / Snorlax / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Seismitoad / Snorlax / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Snorlax / Mandibuzz / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Snorlax / Mandibuzz / Aerodactyl     |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Doublade / Snorlax / Aerodactyl     |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Snorlax / Mandibuzz / Seismitoad    |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Snorlax / Mandibuzz / Seismitoad     |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Doublade / Snorlax / Seismitoad     |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Doublade / Snorlax / Mandibuzz      |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Seismitoad / Mandibuzz / Aerodactyl |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Doublade / Mandibuzz / Aerodactyl  |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Seismitoad / Doublade / Aerodactyl  |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Doublade / Mandibuzz / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 1    | Gardevoir / Doublade / Mandibuzz / Seismitoad   |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Kyurem / Roserade           |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Kyurem / Gligar             |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Kyurem / Infernape          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Gligar / Kyurem / Roserade             |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Infernape / Kyurem / Roserade          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Infernape / Kyurem / Gligar            |    1 |  12.50% |   0.00% |
+| 1    | Gligar / Swampert / Kyurem / Roserade           |    1 |  12.50% |   0.00% |
+| 1    | Infernape / Swampert / Kyurem / Roserade        |    1 |  12.50% |   0.00% |
+| 1    | Infernape / Swampert / Kyurem / Gligar          |    1 |  12.50% |   0.00% |
+| 1    | Infernape / Gligar / Kyurem / Roserade          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Gligar / Roserade           |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Infernape / Swampert / Roserade        |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Gligar / Infernape          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Infernape / Gligar / Roserade          |    1 |  12.50% |   0.00% |
+| 1    | Infernape / Swampert / Gligar / Roserade        |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Crobat / Slowking / Empoleon         |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Absol / Slowking / Empoleon          |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Slowking / Empoleon / Rotom-Mow      |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Absol / Crobat / Empoleon            |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Crobat / Empoleon / Rotom-Mow        |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Absol / Empoleon / Rotom-Mow         |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Absol / Slowking / Empoleon            |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Slowking / Empoleon / Rotom-Mow        |    1 |  12.50% |   0.00% |
+| 1    | Absol / Slowking / Empoleon / Rotom-Mow         |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Absol / Empoleon / Rotom-Mow           |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Absol / Slowking / Mienshao            |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Slowking / Mienshao / Rotom-Mow        |    1 |  12.50% |   0.00% |
+| 1    | Absol / Slowking / Mienshao / Rotom-Mow         |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Absol / Mienshao / Rotom-Mow           |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Absol / Slowking / Rotom-Mow           |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Houndoom / Celebi / Empoleon         |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Houndoom / Empoleon / Rhyperior      |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Houndoom / Crobat / Empoleon         |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Celebi / Empoleon / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Houndoom / Celebi / Empoleon           |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Houndoom / Empoleon / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Celebi / Mienshao / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Houndoom / Celebi / Mienshao           |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Houndoom / Mienshao / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Houndoom / Celebi / Rhyperior          |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Celebi / Empoleon / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Crobat / Celebi / Empoleon           |    1 |  12.50% |   0.00% |
+| 1    | Mienshao / Crobat / Empoleon / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Celebi / Empoleon / Rhyperior          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Celebi / Mienshao / Rhyperior          |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Blissey / Nidoqueen / Doublade / Suicune / Mandibuzz       |    1 |  12.50% | 100.00% |
+| 1    | Nidoqueen / Doublade / Suicune / Mandibuzz / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 1    | Blissey / Nidoqueen / Doublade / Mandibuzz / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 1    | Blissey / Nidoqueen / Suicune / Mandibuzz / Aerodactyl     |    1 |  12.50% | 100.00% |
+| 1    | Blissey / Doublade / Suicune / Mandibuzz / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 1    | Blissey / Nidoqueen / Doublade / Suicune / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Crobat / Heracross / Snorlax / Empoleon          |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Heracross / Swampert / Snorlax / Empoleon         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Heracross / Swampert / Snorlax / Empoleon        |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Crobat / Heracross / Swampert / Empoleon         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Crobat / Swampert / Snorlax / Empoleon           |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Crobat / Heracross / Swampert / Snorlax          |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Swampert / Shaymin / Tornadus / Lucario         |    1 |  12.50% | 100.00% |
+| 1    | Tornadus / Swampert / Shaymin / Aerodactyl / Lucario       |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Swampert / Shaymin / Aerodactyl / Lucario       |    1 |  12.50% | 100.00% |
+| 1    | Tornadus / Doublade / Swampert / Shaymin / Aerodactyl      |    1 |  12.50% | 100.00% |
+| 1    | Tornadus / Doublade / Swampert / Aerodactyl / Lucario      |    1 |  12.50% | 100.00% |
+| 1    | Tornadus / Doublade / Shaymin / Aerodactyl / Lucario       |    1 |  12.50% | 100.00% |
+| 1    | Klefki / Gardevoir / Hydreigon / Metagross / Toxicroak     |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Hydreigon / Metagross / Toxicroak / Seismitoad |    1 |  12.50% | 100.00% |
+| 1    | Klefki / Gardevoir / Hydreigon / Metagross / Seismitoad    |    1 |  12.50% | 100.00% |
+| 1    | Klefki / Hydreigon / Metagross / Toxicroak / Seismitoad    |    1 |  12.50% | 100.00% |
+| 1    | Klefki / Gardevoir / Metagross / Toxicroak / Seismitoad    |    1 |  12.50% | 100.00% |
+| 1    | Klefki / Gardevoir / Hydreigon / Toxicroak / Seismitoad    |    1 |  12.50% | 100.00% |
+| 1    | Snorlax / Gardevoir / Mandibuzz / Aerodactyl / Seismitoad  |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Snorlax / Mandibuzz / Aerodactyl / Seismitoad   |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Snorlax / Gardevoir / Aerodactyl / Seismitoad   |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Snorlax / Gardevoir / Mandibuzz / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Snorlax / Gardevoir / Mandibuzz / Seismitoad    |    1 |  12.50% |   0.00% |
+| 1    | Doublade / Gardevoir / Mandibuzz / Aerodactyl / Seismitoad |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Kyurem / Gligar / Roserade             |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Kyurem / Infernape / Roserade          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Kyurem / Infernape / Gligar            |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Kyurem / Infernape / Gligar / Roserade            |    1 |  12.50% |   0.00% |
+| 1    | Swampert / Kyurem / Infernape / Gligar / Roserade          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Infernape / Gligar / Roserade          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Absol / Mienshao / Empoleon / Slowking            |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Crobat / Mienshao / Empoleon / Slowking        |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Absol / Mienshao / Empoleon / Slowking         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Crobat / Absol / Mienshao / Empoleon           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Crobat / Absol / Empoleon / Slowking           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Crobat / Absol / Mienshao / Slowking           |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Celebi / Mienshao / Empoleon / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Crobat / Celebi / Mienshao / Empoleon           |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Crobat / Mienshao / Empoleon / Rhyperior        |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Crobat / Celebi / Empoleon / Rhyperior          |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Crobat / Celebi / Mienshao / Rhyperior          |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Celebi / Mienshao / Empoleon / Rhyperior          |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                          | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Blissey / Nidoqueen / Doublade / Suicune / Mandibuzz / Aerodactyl    |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Crobat / Heracross / Swampert / Snorlax / Empoleon         |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Aerodactyl / Swampert / Shaymin / Tornadus / Lucario      |    1 |  12.50% | 100.00% |
+| 1    | Klefki / Gardevoir / Hydreigon / Metagross / Toxicroak / Seismitoad  |    1 |  12.50% | 100.00% |
+| 1    | Doublade / Snorlax / Gardevoir / Mandibuzz / Aerodactyl / Seismitoad |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Swampert / Kyurem / Infernape / Gligar / Roserade           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Crobat / Absol / Mienshao / Empoleon / Slowking          |    1 |  12.50% |   0.00% |
+| 1    | Houndoom / Crobat / Celebi / Mienshao / Empoleon / Rhyperior         |    1 |  12.50% |   0.00% |
