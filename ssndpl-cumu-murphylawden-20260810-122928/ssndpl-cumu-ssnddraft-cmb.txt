@@ -1,0 +1,1753 @@
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| 1    | Kartana / Blastoise               |    8 |  14.29% |  50.00% |
+| 2    | Nihilego / Tapu Lele              |    7 |  12.50% |  57.14% |
+| 2    | Kartana / Tapu Lele               |    7 |  12.50% |  57.14% |
+| 2    | Blastoise / Tapu Lele             |    7 |  12.50% |  57.14% |
+| 2    | Zapdos / Tapu Lele                |    7 |  12.50% |  57.14% |
+| 2    | Kartana / Nihilego                |    7 |  12.50% |  57.14% |
+| 2    | Nihilego / Blastoise              |    7 |  12.50% |  57.14% |
+| 2    | Nihilego / Zapdos                 |    7 |  12.50% |  57.14% |
+| 2    | Kartana / Zapdos                  |    7 |  12.50% |  57.14% |
+| 2    | Blastoise / Zapdos                |    7 |  12.50% |  57.14% |
+| 11   | Kartana / Cinderace               |    6 |  10.71% |  83.33% |
+| 11   | Krookodile / Tapu Lele            |    6 |  10.71% |  66.67% |
+| 11   | Nihilego / Krookodile             |    6 |  10.71% |  66.67% |
+| 11   | Kartana / Krookodile              |    6 |  10.71% |  66.67% |
+| 11   | Krookodile / Blastoise            |    6 |  10.71% |  66.67% |
+| 11   | Krookodile / Zapdos               |    6 |  10.71% |  66.67% |
+| 11   | Greninja-* / Diancie              |    6 |  10.71% |  33.33% |
+| 18   | Kartana / Gardevoir               |    5 |   8.93% | 100.00% |
+| 18   | Cinderace / Gardevoir             |    5 |   8.93% | 100.00% |
+| 18   | Kartana / Gliscor                 |    5 |   8.93% |  80.00% |
+| 18   | Cinderace / Gliscor               |    5 |   8.93% |  80.00% |
+| 18   | Lopunny / Kyurem                  |    5 |   8.93% |  40.00% |
+| 18   | Klefki / Lopunny                  |    5 |   8.93% |  40.00% |
+| 18   | Araquanid / Lopunny               |    5 |   8.93% |  40.00% |
+| 18   | Klefki / Kyurem                   |    5 |   8.93% |  40.00% |
+| 18   | Araquanid / Kyurem                |    5 |   8.93% |  40.00% |
+| 18   | Klefki / Araquanid                |    5 |   8.93% |  40.00% |
+| 28   | Dragonite / Tapu Koko             |    4 |   7.14% | 100.00% |
+| 28   | Kartana / Corviknight             |    4 |   7.14% | 100.00% |
+| 28   | Gardevoir / Corviknight           |    4 |   7.14% | 100.00% |
+| 28   | Cinderace / Corviknight           |    4 |   7.14% | 100.00% |
+| 28   | Gardevoir / Gliscor               |    4 |   7.14% | 100.00% |
+| 28   | Gardevoir / Toxapex               |    4 |   7.14% | 100.00% |
+| 28   | Cinderace / Toxapex               |    4 |   7.14% | 100.00% |
+| 28   | Toxapex / Gliscor                 |    4 |   7.14% | 100.00% |
+| 28   | Kartana / Toxapex                 |    4 |   7.14% | 100.00% |
+| 28   | Uxie / Melmetal                   |    4 |   7.14% |  75.00% |
+| 28   | Heatran / Tapu Fini               |    4 |   7.14% |  50.00% |
+| 28   | Heatran / Gallade                 |    4 |   7.14% |  50.00% |
+| 28   | Tapu Fini / Gallade               |    4 |   7.14% |  50.00% |
+| 28   | Mew / Diancie                     |    4 |   7.14% |  50.00% |
+| 28   | Rillaboom / Mew                   |    4 |   7.14% |  50.00% |
+| 28   | Swampert / Mew                    |    4 |   7.14% |  50.00% |
+| 28   | Greninja-* / Mew                  |    4 |   7.14% |  50.00% |
+| 28   | Rillaboom / Diancie               |    4 |   7.14% |  50.00% |
+| 28   | Swampert / Diancie                |    4 |   7.14% |  50.00% |
+| 28   | Rillaboom / Swampert              |    4 |   7.14% |  50.00% |
+| 28   | Greninja-* / Rillaboom            |    4 |   7.14% |  50.00% |
+| 28   | Greninja-* / Swampert             |    4 |   7.14% |  50.00% |
+| 28   | Scizor / Garchomp                 |    4 |   7.14% |  25.00% |
+| 28   | Togekiss / Garchomp               |    4 |   7.14% |  25.00% |
+| 28   | Togekiss / Scizor                 |    4 |   7.14% |  25.00% |
+| 28   | Lopunny / Necrozma                |    4 |   7.14% |  25.00% |
+| 28   | Necrozma / Kyurem                 |    4 |   7.14% |  25.00% |
+| 28   | Klefki / Necrozma                 |    4 |   7.14% |  25.00% |
+| 28   | Araquanid / Necrozma              |    4 |   7.14% |  25.00% |
+| 28   | Zeraora / Mew                     |    4 |   7.14% |  25.00% |
+| 28   | Infernape / Mew                   |    4 |   7.14% |  25.00% |
+| 28   | Zeraora / Infernape               |    4 |   7.14% |  25.00% |
+| 28   | Weavile / Gliscor                 |    4 |   7.14% |  25.00% |
+| 28   | Celesteela / Gliscor              |    4 |   7.14% |  25.00% |
+| 28   | Lopunny / Gliscor                 |    4 |   7.14% |  25.00% |
+| 28   | Gengar / Gliscor                  |    4 |   7.14% |  25.00% |
+| 28   | Weavile / Celesteela              |    4 |   7.14% |  25.00% |
+| 28   | Weavile / Lopunny                 |    4 |   7.14% |  25.00% |
+| 28   | Weavile / Gengar                  |    4 |   7.14% |  25.00% |
+| 28   | Lopunny / Celesteela              |    4 |   7.14% |  25.00% |
+| 28   | Gengar / Celesteela               |    4 |   7.14% |  25.00% |
+| 28   | Gengar / Lopunny                  |    4 |   7.14% |  25.00% |
+| 28   | Mesprit / Garchomp                |    4 |   7.14% |   0.00% |
+| 71   | Melmetal / Tapu Koko              |    3 |   5.36% | 100.00% |
+| 71   | Sharpedo / Tapu Koko              |    3 |   5.36% | 100.00% |
+| 71   | Dragonite / Melmetal              |    3 |   5.36% | 100.00% |
+| 71   | Sharpedo / Melmetal               |    3 |   5.36% | 100.00% |
+| 71   | Sharpedo / Dragonite              |    3 |   5.36% | 100.00% |
+| 71   | Corviknight / Gliscor             |    3 |   5.36% | 100.00% |
+| 71   | Toxapex / Corviknight             |    3 |   5.36% | 100.00% |
+| 71   | Garchomp / Rotom-Wash             |    3 |   5.36% |  66.67% |
+| 71   | Garchomp / Celesteela             |    3 |   5.36% |  66.67% |
+| 71   | Porygon-Z / Garchomp              |    3 |   5.36% |  66.67% |
+| 71   | Garchomp / Zapdos-Galar           |    3 |   5.36% |  66.67% |
+| 71   | Celesteela / Rotom-Wash           |    3 |   5.36% |  66.67% |
+| 71   | Porygon-Z / Rotom-Wash            |    3 |   5.36% |  66.67% |
+| 71   | Zapdos-Galar / Rotom-Wash         |    3 |   5.36% |  66.67% |
+| 71   | Porygon-Z / Celesteela            |    3 |   5.36% |  66.67% |
+| 71   | Celesteela / Zapdos-Galar         |    3 |   5.36% |  66.67% |
+| 71   | Porygon-Z / Zapdos-Galar          |    3 |   5.36% |  66.67% |
+| 71   | Lopunny / Landorus-Therian        |    3 |   5.36% |  66.67% |
+| 71   | Landorus-Therian / Kyurem         |    3 |   5.36% |  66.67% |
+| 71   | Klefki / Landorus-Therian         |    3 |   5.36% |  66.67% |
+| 71   | Araquanid / Landorus-Therian      |    3 |   5.36% |  66.67% |
+| 71   | Heatran / Zeraora                 |    3 |   5.36% |  66.67% |
+| 71   | Zeraora / Tapu Fini               |    3 |   5.36% |  66.67% |
+| 71   | Zeraora / Gallade                 |    3 |   5.36% |  66.67% |
+| 71   | Aegislash / Landorus-Therian      |    3 |   5.36% |  66.67% |
+| 71   | Aegislash / Rotom-Wash            |    3 |   5.36% |  66.67% |
+| 71   | Aegislash / Deoxys-Speed          |    3 |   5.36% |  66.67% |
+| 71   | Landorus-Therian / Rotom-Wash     |    3 |   5.36% |  66.67% |
+| 71   | Landorus-Therian / Deoxys-Speed   |    3 |   5.36% |  66.67% |
+| 71   | Deoxys-Speed / Rotom-Wash         |    3 |   5.36% |  66.67% |
+| 71   | Cinderace / Garchomp              |    3 |   5.36% |  33.33% |
+| 71   | Garchomp / Blastoise              |    3 |   5.36% |  33.33% |
+| 71   | Cinderace / Scizor                |    3 |   5.36% |  33.33% |
+| 71   | Cinderace / Blastoise             |    3 |   5.36% |  33.33% |
+| 71   | Cinderace / Togekiss              |    3 |   5.36% |  33.33% |
+| 71   | Scizor / Blastoise                |    3 |   5.36% |  33.33% |
+| 71   | Togekiss / Blastoise              |    3 |   5.36% |  33.33% |
+| 71   | Garchomp / Mew                    |    3 |   5.36% |  33.33% |
+| 71   | Vileplume / Mew                   |    3 |   5.36% |  33.33% |
+| 71   | Zeraora / Garchomp                |    3 |   5.36% |  33.33% |
+| 71   | Vileplume / Zeraora               |    3 |   5.36% |  33.33% |
+| 71   | Garchomp / Infernape              |    3 |   5.36% |  33.33% |
+| 71   | Vileplume / Infernape             |    3 |   5.36% |  33.33% |
+| 71   | Muk-Alola / Garchomp              |    3 |   5.36% |  33.33% |
+| 71   | Muk-Alola / Scizor                |    3 |   5.36% |  33.33% |
+| 71   | Muk-Alola / Togekiss              |    3 |   5.36% |  33.33% |
+| 71   | Weavile / Melmetal                |    3 |   5.36% |  33.33% |
+| 71   | Weavile / Landorus                |    3 |   5.36% |  33.33% |
+| 71   | Weavile / Eldegoss                |    3 |   5.36% |  33.33% |
+| 71   | Weavile / Beedrill                |    3 |   5.36% |  33.33% |
+| 71   | Melmetal / Landorus               |    3 |   5.36% |  33.33% |
+| 71   | Melmetal / Beedrill               |    3 |   5.36% |  33.33% |
+| 71   | Beedrill / Landorus               |    3 |   5.36% |  33.33% |
+| 71   | Slowbro / Gliscor                 |    3 |   5.36% |  33.33% |
+| 71   | Weavile / Slowbro                 |    3 |   5.36% |  33.33% |
+| 71   | Slowbro / Celesteela              |    3 |   5.36% |  33.33% |
+| 71   | Lopunny / Slowbro                 |    3 |   5.36% |  33.33% |
+| 71   | Gengar / Slowbro                  |    3 |   5.36% |  33.33% |
+| 71   | Primarina / Mew                   |    3 |   5.36% |  33.33% |
+| 71   | Zeraora / Primarina               |    3 |   5.36% |  33.33% |
+| 71   | Primarina / Infernape             |    3 |   5.36% |  33.33% |
+| 71   | Mesprit / Scizor                  |    3 |   5.36% |   0.00% |
+| 71   | Togekiss / Mesprit                |    3 |   5.36% |   0.00% |
+| 134  | Aegislash / Moltres-Galar         |    2 |   3.57% | 100.00% |
+| 134  | Moltres-Galar / Landorus-Therian  |    2 |   3.57% | 100.00% |
+| 134  | Moltres-Galar / Rotom-Wash        |    2 |   3.57% | 100.00% |
+| 134  | Moltres-Galar / Deoxys-Speed      |    2 |   3.57% | 100.00% |
+| 134  | Uxie / Tapu Koko                  |    2 |   3.57% | 100.00% |
+| 134  | Seismitoad / Tapu Koko            |    2 |   3.57% | 100.00% |
+| 134  | Seismitoad / Melmetal             |    2 |   3.57% | 100.00% |
+| 134  | Uxie / Dragonite                  |    2 |   3.57% | 100.00% |
+| 134  | Seismitoad / Dragonite            |    2 |   3.57% | 100.00% |
+| 134  | Uxie / Sharpedo                   |    2 |   3.57% | 100.00% |
+| 134  | Seismitoad / Sharpedo             |    2 |   3.57% | 100.00% |
+| 134  | Porygon2 / Tapu Koko              |    2 |   3.57% | 100.00% |
+| 134  | Porygon2 / Melmetal               |    2 |   3.57% | 100.00% |
+| 134  | Porygon2 / Dragonite              |    2 |   3.57% | 100.00% |
+| 134  | Porygon2 / Sharpedo               |    2 |   3.57% | 100.00% |
+| 134  | Kartana / Tyrantrum               |    2 |   3.57% | 100.00% |
+| 134  | Gardevoir / Tyrantrum             |    2 |   3.57% | 100.00% |
+| 134  | Cinderace / Tyrantrum             |    2 |   3.57% | 100.00% |
+| 134  | Landorus-Therian / Necrozma       |    2 |   3.57% |  50.00% |
+| 134  | Vileplume / Garchomp              |    2 |   3.57% |  50.00% |
+| 134  | Celebi / Zeraora                  |    2 |   3.57% |  50.00% |
+| 134  | Celebi / Heatran                  |    2 |   3.57% |  50.00% |
+| 134  | Celebi / Tapu Fini                |    2 |   3.57% |  50.00% |
+| 134  | Celebi / Gallade                  |    2 |   3.57% |  50.00% |
+| 134  | Cinderace / Muk-Alola             |    2 |   3.57% |  50.00% |
+| 134  | Cobalion / Mew                    |    2 |   3.57% |  50.00% |
+| 134  | Cobalion / Diancie                |    2 |   3.57% |  50.00% |
+| 134  | Cobalion / Rillaboom              |    2 |   3.57% |  50.00% |
+| 134  | Cobalion / Swampert               |    2 |   3.57% |  50.00% |
+| 134  | Greninja-* / Cobalion             |    2 |   3.57% |  50.00% |
+| 134  | Melmetal / Eldegoss               |    2 |   3.57% |  50.00% |
+| 134  | Eldegoss / Landorus               |    2 |   3.57% |  50.00% |
+| 134  | Eldegoss / Beedrill               |    2 |   3.57% |  50.00% |
+| 134  | Landorus-Therian / Glalie         |    2 |   3.57% |  50.00% |
+| 134  | Deoxys-Speed / Glalie             |    2 |   3.57% |  50.00% |
+| 134  | Aegislash / Glalie                |    2 |   3.57% |  50.00% |
+| 134  | Rotom-Wash / Glalie               |    2 |   3.57% |  50.00% |
+| 134  | Lopunny / Skuntank                |    2 |   3.57% |  50.00% |
+| 134  | Skuntank / Kyurem                 |    2 |   3.57% |  50.00% |
+| 134  | Klefki / Skuntank                 |    2 |   3.57% |  50.00% |
+| 134  | Araquanid / Skuntank              |    2 |   3.57% |  50.00% |
+| 134  | Weavile / Uxie                    |    2 |   3.57% |  50.00% |
+| 134  | Uxie / Landorus                   |    2 |   3.57% |  50.00% |
+| 134  | Uxie / Beedrill                   |    2 |   3.57% |  50.00% |
+| 134  | Vileplume / Primarina             |    2 |   3.57% |  50.00% |
+| 134  | Tapu Koko / Ferrothorn            |    2 |   3.57% |  50.00% |
+| 134  | Tapu Koko / Swampert              |    2 |   3.57% |  50.00% |
+| 134  | Tapu Koko / Pelipper              |    2 |   3.57% |  50.00% |
+| 134  | Kabutops / Tapu Koko              |    2 |   3.57% |  50.00% |
+| 134  | Swampert / Ferrothorn             |    2 |   3.57% |  50.00% |
+| 134  | Pelipper / Ferrothorn             |    2 |   3.57% |  50.00% |
+| 134  | Kabutops / Ferrothorn             |    2 |   3.57% |  50.00% |
+| 134  | Pelipper / Swampert               |    2 |   3.57% |  50.00% |
+| 134  | Kabutops / Swampert               |    2 |   3.57% |  50.00% |
+| 134  | Kabutops / Pelipper               |    2 |   3.57% |  50.00% |
+| 134  | Mandibuzz / Gallade               |    2 |   3.57% |  50.00% |
+| 134  | Crawdaunt / Gallade               |    2 |   3.57% |  50.00% |
+| 134  | Crawdaunt / Zeraora               |    2 |   3.57% |  50.00% |
+| 134  | Tapu Fini / Mandibuzz             |    2 |   3.57% |  50.00% |
+| 134  | Crawdaunt / Tapu Fini             |    2 |   3.57% |  50.00% |
+| 134  | Heatran / Mandibuzz               |    2 |   3.57% |  50.00% |
+| 134  | Crawdaunt / Mandibuzz             |    2 |   3.57% |  50.00% |
+| 134  | Heatran / Crawdaunt               |    2 |   3.57% |  50.00% |
+| 134  | Garchomp / Primarina              |    2 |   3.57% |  50.00% |
+| 134  | Muk-Alola / Blastoise             |    2 |   3.57% |  50.00% |
+| 134  | Thundurus / Mew                   |    2 |   3.57% |  50.00% |
+| 134  | Thundurus / Diancie               |    2 |   3.57% |  50.00% |
+| 134  | Thundurus / Swampert              |    2 |   3.57% |  50.00% |
+| 134  | Greninja-* / Thundurus            |    2 |   3.57% |  50.00% |
+| 134  | Rillaboom / Thundurus             |    2 |   3.57% |  50.00% |
+| 134  | Cinderace / Mesprit               |    2 |   3.57% |   0.00% |
+| 134  | Mesprit / Blastoise               |    2 |   3.57% |   0.00% |
+| 134  | Zapdos / Diancie                  |    2 |   3.57% |   0.00% |
+| 134  | Seismitoad / Diancie              |    2 |   3.57% |   0.00% |
+| 134  | Diancie / Incineroar              |    2 |   3.57% |   0.00% |
+| 134  | Greninja-* / Zapdos               |    2 |   3.57% |   0.00% |
+| 134  | Seismitoad / Zapdos               |    2 |   3.57% |   0.00% |
+| 134  | Zapdos / Incineroar               |    2 |   3.57% |   0.00% |
+| 134  | Greninja-* / Seismitoad           |    2 |   3.57% |   0.00% |
+| 134  | Greninja-* / Incineroar           |    2 |   3.57% |   0.00% |
+| 134  | Seismitoad / Incineroar           |    2 |   3.57% |   0.00% |
+| 134  | Skarmory / Mew                    |    2 |   3.57% |   0.00% |
+| 134  | Skarmory / Zeraora                |    2 |   3.57% |   0.00% |
+| 134  | Skarmory / Infernape              |    2 |   3.57% |   0.00% |
+| 134  | Vileplume / Skarmory              |    2 |   3.57% |   0.00% |
+| 134  | Muk-Alola / Mesprit               |    2 |   3.57% |   0.00% |
+| 220  | Tyranitar / Garchomp              |    1 |   1.79% | 100.00% |
+| 220  | Tyranitar / Rotom-Wash            |    1 |   1.79% | 100.00% |
+| 220  | Tyranitar / Celesteela            |    1 |   1.79% | 100.00% |
+| 220  | Porygon-Z / Tyranitar             |    1 |   1.79% | 100.00% |
+| 220  | Tyranitar / Zapdos-Galar          |    1 |   1.79% | 100.00% |
+| 220  | Zeraora / Corviknight             |    1 |   1.79% | 100.00% |
+| 220  | Heatran / Corviknight             |    1 |   1.79% | 100.00% |
+| 220  | Celebi / Corviknight              |    1 |   1.79% | 100.00% |
+| 220  | Corviknight / Tapu Fini           |    1 |   1.79% | 100.00% |
+| 220  | Corviknight / Gallade             |    1 |   1.79% | 100.00% |
+| 220  | Aegislash / Zygarde-10%           |    1 |   1.79% | 100.00% |
+| 220  | Zygarde-10% / Landorus-Therian    |    1 |   1.79% | 100.00% |
+| 220  | Zygarde-10% / Rotom-Wash          |    1 |   1.79% | 100.00% |
+| 220  | Zygarde-10% / Deoxys-Speed        |    1 |   1.79% | 100.00% |
+| 220  | Zygarde-10% / Moltres-Galar       |    1 |   1.79% | 100.00% |
+| 220  | Uxie / Seismitoad                 |    1 |   1.79% | 100.00% |
+| 220  | Deoxys-Defense / Mawile           |    1 |   1.79% | 100.00% |
+| 220  | Deoxys-Defense / Mienshao         |    1 |   1.79% | 100.00% |
+| 220  | Amoonguss / Deoxys-Defense        |    1 |   1.79% | 100.00% |
+| 220  | Deoxys-Defense / Swampert         |    1 |   1.79% | 100.00% |
+| 220  | Tornadus-Therian / Deoxys-Defense |    1 |   1.79% | 100.00% |
+| 220  | Mienshao / Mawile                 |    1 |   1.79% | 100.00% |
+| 220  | Amoonguss / Mawile                |    1 |   1.79% | 100.00% |
+| 220  | Swampert / Mawile                 |    1 |   1.79% | 100.00% |
+| 220  | Tornadus-Therian / Mawile         |    1 |   1.79% | 100.00% |
+| 220  | Amoonguss / Mienshao              |    1 |   1.79% | 100.00% |
+| 220  | Mienshao / Swampert               |    1 |   1.79% | 100.00% |
+| 220  | Tornadus-Therian / Mienshao       |    1 |   1.79% | 100.00% |
+| 220  | Amoonguss / Swampert              |    1 |   1.79% | 100.00% |
+| 220  | Tornadus-Therian / Amoonguss      |    1 |   1.79% | 100.00% |
+| 220  | Tornadus-Therian / Swampert       |    1 |   1.79% | 100.00% |
+| 220  | Seismitoad / Porygon2             |    1 |   1.79% | 100.00% |
+| 220  | Porygon-Z / Serperior             |    1 |   1.79% | 100.00% |
+| 220  | Serperior / Celesteela            |    1 |   1.79% | 100.00% |
+| 220  | Serperior / Rotom-Wash            |    1 |   1.79% | 100.00% |
+| 220  | Serperior / Garchomp              |    1 |   1.79% | 100.00% |
+| 220  | Serperior / Zapdos-Galar          |    1 |   1.79% | 100.00% |
+| 220  | Moltres-Galar / Glalie            |    1 |   1.79% | 100.00% |
+| 220  | Uxie / Eldegoss                   |    1 |   1.79% | 100.00% |
+| 220  | Dragonite / Ferrothorn            |    1 |   1.79% | 100.00% |
+| 220  | Dragonite / Swampert              |    1 |   1.79% | 100.00% |
+| 220  | Dragonite / Pelipper              |    1 |   1.79% | 100.00% |
+| 220  | Kabutops / Dragonite              |    1 |   1.79% | 100.00% |
+| 220  | Zeraora / Mandibuzz               |    1 |   1.79% | 100.00% |
+| 220  | Corviknight / Tyrantrum           |    1 |   1.79% | 100.00% |
+| 220  | Conkeldurr / Tyrantrum            |    1 |   1.79% | 100.00% |
+| 220  | Kartana / Conkeldurr              |    1 |   1.79% | 100.00% |
+| 220  | Conkeldurr / Gardevoir            |    1 |   1.79% | 100.00% |
+| 220  | Conkeldurr / Corviknight          |    1 |   1.79% | 100.00% |
+| 220  | Cinderace / Conkeldurr            |    1 |   1.79% | 100.00% |
+| 220  | Uxie / Porygon2                   |    1 |   1.79% | 100.00% |
+| 220  | Landorus-Therian / Skuntank       |    1 |   1.79% | 100.00% |
+| 220  | Tyrantrum / Gliscor               |    1 |   1.79% | 100.00% |
+| 220  | Toxapex / Tyrantrum               |    1 |   1.79% | 100.00% |
+| 220  | Kartana / Aerodactyl              |    1 |   1.79% |   0.00% |
+| 220  | Kartana / Bronzong                |    1 |   1.79% |   0.00% |
+| 220  | Cinderace / Aerodactyl            |    1 |   1.79% |   0.00% |
+| 220  | Cinderace / Bronzong              |    1 |   1.79% |   0.00% |
+| 220  | Blastoise / Gliscor               |    1 |   1.79% |   0.00% |
+| 220  | Aerodactyl / Gliscor              |    1 |   1.79% |   0.00% |
+| 220  | Bronzong / Gliscor                |    1 |   1.79% |   0.00% |
+| 220  | Aerodactyl / Blastoise            |    1 |   1.79% |   0.00% |
+| 220  | Bronzong / Blastoise              |    1 |   1.79% |   0.00% |
+| 220  | Bronzong / Aerodactyl             |    1 |   1.79% |   0.00% |
+| 220  | Scizor / Diancie                  |    1 |   1.79% |   0.00% |
+| 220  | Scizor / Zapdos                   |    1 |   1.79% |   0.00% |
+| 220  | Greninja-* / Scizor               |    1 |   1.79% |   0.00% |
+| 220  | Seismitoad / Scizor               |    1 |   1.79% |   0.00% |
+| 220  | Scizor / Incineroar               |    1 |   1.79% |   0.00% |
+| 220  | Skarmory / Garchomp               |    1 |   1.79% |   0.00% |
+| 220  | Tornadus-Therian / Landorus       |    1 |   1.79% |   0.00% |
+| 220  | Tornadus-Therian / Victini        |    1 |   1.79% |   0.00% |
+| 220  | Tornadus-Therian / Scizor         |    1 |   1.79% |   0.00% |
+| 220  | Tornadus-Therian / Primarina      |    1 |   1.79% |   0.00% |
+| 220  | Tornadus-Therian / Regirock       |    1 |   1.79% |   0.00% |
+| 220  | Victini / Landorus                |    1 |   1.79% |   0.00% |
+| 220  | Scizor / Landorus                 |    1 |   1.79% |   0.00% |
+| 220  | Primarina / Landorus              |    1 |   1.79% |   0.00% |
+| 220  | Landorus / Regirock               |    1 |   1.79% |   0.00% |
+| 220  | Scizor / Victini                  |    1 |   1.79% |   0.00% |
+| 220  | Primarina / Victini               |    1 |   1.79% |   0.00% |
+| 220  | Victini / Regirock                |    1 |   1.79% |   0.00% |
+| 220  | Scizor / Primarina                |    1 |   1.79% |   0.00% |
+| 220  | Scizor / Regirock                 |    1 |   1.79% |   0.00% |
+| 220  | Primarina / Regirock              |    1 |   1.79% |   0.00% |
+| 220  | Weavile / Drampa                  |    1 |   1.79% |   0.00% |
+| 220  | Melmetal / Drampa                 |    1 |   1.79% |   0.00% |
+| 220  | Drampa / Landorus                 |    1 |   1.79% |   0.00% |
+| 220  | Eldegoss / Drampa                 |    1 |   1.79% |   0.00% |
+| 220  | Beedrill / Drampa                 |    1 |   1.79% |   0.00% |
+| 220  | Landorus-Therian / Whimsicott     |    1 |   1.79% |   0.00% |
+| 220  | Whimsicott / Glalie               |    1 |   1.79% |   0.00% |
+| 220  | Whimsicott / Deoxys-Speed         |    1 |   1.79% |   0.00% |
+| 220  | Aegislash / Whimsicott            |    1 |   1.79% |   0.00% |
+| 220  | Whimsicott / Rotom-Wash           |    1 |   1.79% |   0.00% |
+| 220  | Mudsdale / Gallade                |    1 |   1.79% |   0.00% |
+| 220  | Mudsdale / Zeraora                |    1 |   1.79% |   0.00% |
+| 220  | Mudsdale / Tapu Fini              |    1 |   1.79% |   0.00% |
+| 220  | Celebi / Mudsdale                 |    1 |   1.79% |   0.00% |
+| 220  | Heatran / Mudsdale                |    1 |   1.79% |   0.00% |
+| 220  | Skuntank / Necrozma               |    1 |   1.79% |   0.00% |
+| 220  | Skarmory / Primarina              |    1 |   1.79% |   0.00% |
+| 220  | Eelektross / Kyurem               |    1 |   1.79% |   0.00% |
+| 220  | Eelektross / Necrozma             |    1 |   1.79% |   0.00% |
+| 220  | Lopunny / Eelektross              |    1 |   1.79% |   0.00% |
+| 220  | Klefki / Eelektross               |    1 |   1.79% |   0.00% |
+| 220  | Araquanid / Eelektross            |    1 |   1.79% |   0.00% |
+| 220  | Weavile / Keldeo                  |    1 |   1.79% |   0.00% |
+| 220  | Melmetal / Keldeo                 |    1 |   1.79% |   0.00% |
+| 220  | Keldeo / Landorus                 |    1 |   1.79% |   0.00% |
+| 220  | Uxie / Keldeo                     |    1 |   1.79% |   0.00% |
+| 220  | Beedrill / Keldeo                 |    1 |   1.79% |   0.00% |
+| 220  | Whimsicott / Diancie              |    1 |   1.79% |   0.00% |
+| 220  | Seismitoad / Whimsicott           |    1 |   1.79% |   0.00% |
+| 220  | Whimsicott / Zapdos               |    1 |   1.79% |   0.00% |
+| 220  | Greninja-* / Whimsicott           |    1 |   1.79% |   0.00% |
+| 220  | Whimsicott / Incineroar           |    1 |   1.79% |   0.00% |
+| 220  | Mesprit / Celesteela              |    1 |   1.79% |   0.00% |
+| 220  | Mesprit / Rotom-Wash              |    1 |   1.79% |   0.00% |
+| 220  | Porygon-Z / Mesprit               |    1 |   1.79% |   0.00% |
+| 220  | Mesprit / Zapdos-Galar            |    1 |   1.79% |   0.00% |
+| 220  | Hoopa-Unbound / Tapu Koko         |    1 |   1.79% |   0.00% |
+| 220  | Hoopa-Unbound / Swampert          |    1 |   1.79% |   0.00% |
+| 220  | Hoopa-Unbound / Pelipper          |    1 |   1.79% |   0.00% |
+| 220  | Hoopa-Unbound / Kabutops          |    1 |   1.79% |   0.00% |
+| 220  | Hoopa-Unbound / Ferrothorn        |    1 |   1.79% |   0.00% |
+| 220  | Eldegoss / Gliscor                |    1 |   1.79% |   0.00% |
+| 220  | Lopunny / Eldegoss                |    1 |   1.79% |   0.00% |
+| 220  | Gengar / Eldegoss                 |    1 |   1.79% |   0.00% |
+| 220  | Eldegoss / Celesteela             |    1 |   1.79% |   0.00% |
+| 220  | Nidoqueen / Gallade               |    1 |   1.79% |   0.00% |
+| 220  | Nidoqueen / Mandibuzz             |    1 |   1.79% |   0.00% |
+| 220  | Nidoqueen / Heatran               |    1 |   1.79% |   0.00% |
+| 220  | Nidoqueen / Crawdaunt             |    1 |   1.79% |   0.00% |
+| 220  | Nidoqueen / Tapu Fini             |    1 |   1.79% |   0.00% |
+| 220  | Crawdaunt / Mew                   |    1 |   1.79% |   0.00% |
+| 220  | Crawdaunt / Garchomp              |    1 |   1.79% |   0.00% |
+| 220  | Crawdaunt / Primarina             |    1 |   1.79% |   0.00% |
+| 220  | Crawdaunt / Infernape             |    1 |   1.79% |   0.00% |
+| 220  | Blastoise / Froslass              |    1 |   1.79% |   0.00% |
+| 220  | Kartana / Froslass                |    1 |   1.79% |   0.00% |
+| 220  | Zapdos / Froslass                 |    1 |   1.79% |   0.00% |
+| 220  | Tapu Lele / Froslass              |    1 |   1.79% |   0.00% |
+| 220  | Nihilego / Froslass               |    1 |   1.79% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Kartana / Nihilego / Tapu Lele                  |    7 |  12.50% |  57.14% |
+| 1    | Nihilego / Blastoise / Tapu Lele                |    7 |  12.50% |  57.14% |
+| 1    | Nihilego / Zapdos / Tapu Lele                   |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Blastoise / Tapu Lele                 |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Zapdos / Tapu Lele                    |    7 |  12.50% |  57.14% |
+| 1    | Blastoise / Zapdos / Tapu Lele                  |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Nihilego / Blastoise                  |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Nihilego / Zapdos                     |    7 |  12.50% |  57.14% |
+| 1    | Nihilego / Blastoise / Zapdos                   |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Blastoise / Zapdos                    |    7 |  12.50% |  57.14% |
+| 11   | Nihilego / Krookodile / Tapu Lele               |    6 |  10.71% |  66.67% |
+| 11   | Kartana / Krookodile / Tapu Lele                |    6 |  10.71% |  66.67% |
+| 11   | Krookodile / Blastoise / Tapu Lele              |    6 |  10.71% |  66.67% |
+| 11   | Krookodile / Zapdos / Tapu Lele                 |    6 |  10.71% |  66.67% |
+| 11   | Kartana / Nihilego / Krookodile                 |    6 |  10.71% |  66.67% |
+| 11   | Nihilego / Krookodile / Blastoise               |    6 |  10.71% |  66.67% |
+| 11   | Nihilego / Krookodile / Zapdos                  |    6 |  10.71% |  66.67% |
+| 11   | Kartana / Krookodile / Blastoise                |    6 |  10.71% |  66.67% |
+| 11   | Kartana / Krookodile / Zapdos                   |    6 |  10.71% |  66.67% |
+| 11   | Krookodile / Blastoise / Zapdos                 |    6 |  10.71% |  66.67% |
+| 21   | Kartana / Gardevoir / Cinderace                 |    5 |   8.93% | 100.00% |
+| 21   | Kartana / Cinderace / Gliscor                   |    5 |   8.93% |  80.00% |
+| 21   | Klefki / Lopunny / Kyurem                       |    5 |   8.93% |  40.00% |
+| 21   | Araquanid / Lopunny / Kyurem                    |    5 |   8.93% |  40.00% |
+| 21   | Araquanid / Klefki / Lopunny                    |    5 |   8.93% |  40.00% |
+| 21   | Klefki / Araquanid / Kyurem                     |    5 |   8.93% |  40.00% |
+| 27   | Kartana / Gardevoir / Corviknight               |    4 |   7.14% | 100.00% |
+| 27   | Kartana / Cinderace / Corviknight               |    4 |   7.14% | 100.00% |
+| 27   | Cinderace / Gardevoir / Corviknight             |    4 |   7.14% | 100.00% |
+| 27   | Cinderace / Gardevoir / Gliscor                 |    4 |   7.14% | 100.00% |
+| 27   | Cinderace / Gardevoir / Toxapex                 |    4 |   7.14% | 100.00% |
+| 27   | Gardevoir / Gliscor / Toxapex                   |    4 |   7.14% | 100.00% |
+| 27   | Kartana / Gardevoir / Gliscor                   |    4 |   7.14% | 100.00% |
+| 27   | Kartana / Gardevoir / Toxapex                   |    4 |   7.14% | 100.00% |
+| 27   | Cinderace / Toxapex / Gliscor                   |    4 |   7.14% | 100.00% |
+| 27   | Cinderace / Kartana / Toxapex                   |    4 |   7.14% | 100.00% |
+| 27   | Kartana / Toxapex / Gliscor                     |    4 |   7.14% | 100.00% |
+| 27   | Heatran / Tapu Fini / Gallade                   |    4 |   7.14% |  50.00% |
+| 27   | Rillaboom / Mew / Diancie                       |    4 |   7.14% |  50.00% |
+| 27   | Swampert / Mew / Diancie                        |    4 |   7.14% |  50.00% |
+| 27   | Greninja-* / Mew / Diancie                      |    4 |   7.14% |  50.00% |
+| 27   | Swampert / Rillaboom / Mew                      |    4 |   7.14% |  50.00% |
+| 27   | Greninja-* / Rillaboom / Mew                    |    4 |   7.14% |  50.00% |
+| 27   | Greninja-* / Swampert / Mew                     |    4 |   7.14% |  50.00% |
+| 27   | Swampert / Rillaboom / Diancie                  |    4 |   7.14% |  50.00% |
+| 27   | Greninja-* / Rillaboom / Diancie                |    4 |   7.14% |  50.00% |
+| 27   | Greninja-* / Swampert / Diancie                 |    4 |   7.14% |  50.00% |
+| 27   | Greninja-* / Rillaboom / Swampert               |    4 |   7.14% |  50.00% |
+| 27   | Togekiss / Scizor / Garchomp                    |    4 |   7.14% |  25.00% |
+| 27   | Necrozma / Lopunny / Kyurem                     |    4 |   7.14% |  25.00% |
+| 27   | Klefki / Lopunny / Necrozma                     |    4 |   7.14% |  25.00% |
+| 27   | Araquanid / Lopunny / Necrozma                  |    4 |   7.14% |  25.00% |
+| 27   | Necrozma / Klefki / Kyurem                      |    4 |   7.14% |  25.00% |
+| 27   | Necrozma / Araquanid / Kyurem                   |    4 |   7.14% |  25.00% |
+| 27   | Klefki / Araquanid / Necrozma                   |    4 |   7.14% |  25.00% |
+| 27   | Zeraora / Infernape / Mew                       |    4 |   7.14% |  25.00% |
+| 27   | Celesteela / Weavile / Gliscor                  |    4 |   7.14% |  25.00% |
+| 27   | Weavile / Lopunny / Gliscor                     |    4 |   7.14% |  25.00% |
+| 27   | Weavile / Gengar / Gliscor                      |    4 |   7.14% |  25.00% |
+| 27   | Celesteela / Lopunny / Gliscor                  |    4 |   7.14% |  25.00% |
+| 27   | Celesteela / Gengar / Gliscor                   |    4 |   7.14% |  25.00% |
+| 27   | Gengar / Lopunny / Gliscor                      |    4 |   7.14% |  25.00% |
+| 27   | Weavile / Lopunny / Celesteela                  |    4 |   7.14% |  25.00% |
+| 27   | Weavile / Gengar / Celesteela                   |    4 |   7.14% |  25.00% |
+| 27   | Weavile / Gengar / Lopunny                      |    4 |   7.14% |  25.00% |
+| 27   | Gengar / Lopunny / Celesteela                   |    4 |   7.14% |  25.00% |
+| 67   | Dragonite / Melmetal / Tapu Koko                |    3 |   5.36% | 100.00% |
+| 67   | Sharpedo / Melmetal / Tapu Koko                 |    3 |   5.36% | 100.00% |
+| 67   | Sharpedo / Dragonite / Tapu Koko                |    3 |   5.36% | 100.00% |
+| 67   | Dragonite / Sharpedo / Melmetal                 |    3 |   5.36% | 100.00% |
+| 67   | Gardevoir / Corviknight / Gliscor               |    3 |   5.36% | 100.00% |
+| 67   | Gardevoir / Corviknight / Toxapex               |    3 |   5.36% | 100.00% |
+| 67   | Cinderace / Corviknight / Gliscor               |    3 |   5.36% | 100.00% |
+| 67   | Cinderace / Toxapex / Corviknight               |    3 |   5.36% | 100.00% |
+| 67   | Toxapex / Corviknight / Gliscor                 |    3 |   5.36% | 100.00% |
+| 67   | Kartana / Corviknight / Gliscor                 |    3 |   5.36% | 100.00% |
+| 67   | Kartana / Toxapex / Corviknight                 |    3 |   5.36% | 100.00% |
+| 67   | Garchomp / Celesteela / Rotom-Wash              |    3 |   5.36% |  66.67% |
+| 67   | Porygon-Z / Garchomp / Rotom-Wash               |    3 |   5.36% |  66.67% |
+| 67   | Garchomp / Zapdos-Galar / Rotom-Wash            |    3 |   5.36% |  66.67% |
+| 67   | Porygon-Z / Garchomp / Celesteela               |    3 |   5.36% |  66.67% |
+| 67   | Garchomp / Celesteela / Zapdos-Galar            |    3 |   5.36% |  66.67% |
+| 67   | Porygon-Z / Garchomp / Zapdos-Galar             |    3 |   5.36% |  66.67% |
+| 67   | Porygon-Z / Celesteela / Rotom-Wash             |    3 |   5.36% |  66.67% |
+| 67   | Zapdos-Galar / Celesteela / Rotom-Wash          |    3 |   5.36% |  66.67% |
+| 67   | Porygon-Z / Zapdos-Galar / Rotom-Wash           |    3 |   5.36% |  66.67% |
+| 67   | Porygon-Z / Celesteela / Zapdos-Galar           |    3 |   5.36% |  66.67% |
+| 67   | Landorus-Therian / Lopunny / Kyurem             |    3 |   5.36% |  66.67% |
+| 67   | Klefki / Lopunny / Landorus-Therian             |    3 |   5.36% |  66.67% |
+| 67   | Araquanid / Lopunny / Landorus-Therian          |    3 |   5.36% |  66.67% |
+| 67   | Klefki / Landorus-Therian / Kyurem              |    3 |   5.36% |  66.67% |
+| 67   | Araquanid / Landorus-Therian / Kyurem           |    3 |   5.36% |  66.67% |
+| 67   | Araquanid / Klefki / Landorus-Therian           |    3 |   5.36% |  66.67% |
+| 67   | Heatran / Zeraora / Tapu Fini                   |    3 |   5.36% |  66.67% |
+| 67   | Heatran / Zeraora / Gallade                     |    3 |   5.36% |  66.67% |
+| 67   | Zeraora / Tapu Fini / Gallade                   |    3 |   5.36% |  66.67% |
+| 67   | Aegislash / Landorus-Therian / Rotom-Wash       |    3 |   5.36% |  66.67% |
+| 67   | Aegislash / Landorus-Therian / Deoxys-Speed     |    3 |   5.36% |  66.67% |
+| 67   | Aegislash / Deoxys-Speed / Rotom-Wash           |    3 |   5.36% |  66.67% |
+| 67   | Deoxys-Speed / Landorus-Therian / Rotom-Wash    |    3 |   5.36% |  66.67% |
+| 67   | Cinderace / Scizor / Garchomp                   |    3 |   5.36% |  33.33% |
+| 67   | Cinderace / Togekiss / Garchomp                 |    3 |   5.36% |  33.33% |
+| 67   | Scizor / Garchomp / Blastoise                   |    3 |   5.36% |  33.33% |
+| 67   | Togekiss / Garchomp / Blastoise                 |    3 |   5.36% |  33.33% |
+| 67   | Cinderace / Togekiss / Scizor                   |    3 |   5.36% |  33.33% |
+| 67   | Togekiss / Scizor / Blastoise                   |    3 |   5.36% |  33.33% |
+| 67   | Zeraora / Garchomp / Mew                        |    3 |   5.36% |  33.33% |
+| 67   | Vileplume / Zeraora / Mew                       |    3 |   5.36% |  33.33% |
+| 67   | Infernape / Garchomp / Mew                      |    3 |   5.36% |  33.33% |
+| 67   | Vileplume / Infernape / Mew                     |    3 |   5.36% |  33.33% |
+| 67   | Zeraora / Garchomp / Infernape                  |    3 |   5.36% |  33.33% |
+| 67   | Vileplume / Zeraora / Infernape                 |    3 |   5.36% |  33.33% |
+| 67   | Muk-Alola / Scizor / Garchomp                   |    3 |   5.36% |  33.33% |
+| 67   | Muk-Alola / Togekiss / Garchomp                 |    3 |   5.36% |  33.33% |
+| 67   | Muk-Alola / Togekiss / Scizor                   |    3 |   5.36% |  33.33% |
+| 67   | Weavile / Melmetal / Landorus                   |    3 |   5.36% |  33.33% |
+| 67   | Weavile / Melmetal / Beedrill                   |    3 |   5.36% |  33.33% |
+| 67   | Weavile / Beedrill / Landorus                   |    3 |   5.36% |  33.33% |
+| 67   | Melmetal / Beedrill / Landorus                  |    3 |   5.36% |  33.33% |
+| 67   | Weavile / Slowbro / Gliscor                     |    3 |   5.36% |  33.33% |
+| 67   | Celesteela / Slowbro / Gliscor                  |    3 |   5.36% |  33.33% |
+| 67   | Lopunny / Slowbro / Gliscor                     |    3 |   5.36% |  33.33% |
+| 67   | Gengar / Slowbro / Gliscor                      |    3 |   5.36% |  33.33% |
+| 67   | Weavile / Slowbro / Celesteela                  |    3 |   5.36% |  33.33% |
+| 67   | Weavile / Lopunny / Slowbro                     |    3 |   5.36% |  33.33% |
+| 67   | Weavile / Gengar / Slowbro                      |    3 |   5.36% |  33.33% |
+| 67   | Lopunny / Slowbro / Celesteela                  |    3 |   5.36% |  33.33% |
+| 67   | Gengar / Slowbro / Celesteela                   |    3 |   5.36% |  33.33% |
+| 67   | Gengar / Lopunny / Slowbro                      |    3 |   5.36% |  33.33% |
+| 67   | Zeraora / Primarina / Mew                       |    3 |   5.36% |  33.33% |
+| 67   | Infernape / Primarina / Mew                     |    3 |   5.36% |  33.33% |
+| 67   | Zeraora / Primarina / Infernape                 |    3 |   5.36% |  33.33% |
+| 67   | Mesprit / Scizor / Garchomp                     |    3 |   5.36% |   0.00% |
+| 67   | Togekiss / Mesprit / Garchomp                   |    3 |   5.36% |   0.00% |
+| 67   | Mesprit / Togekiss / Scizor                     |    3 |   5.36% |   0.00% |
+| 136  | Aegislash / Moltres-Galar / Landorus-Therian    |    2 |   3.57% | 100.00% |
+| 136  | Aegislash / Moltres-Galar / Rotom-Wash          |    2 |   3.57% | 100.00% |
+| 136  | Aegislash / Moltres-Galar / Deoxys-Speed        |    2 |   3.57% | 100.00% |
+| 136  | Moltres-Galar / Landorus-Therian / Rotom-Wash   |    2 |   3.57% | 100.00% |
+| 136  | Moltres-Galar / Landorus-Therian / Deoxys-Speed |    2 |   3.57% | 100.00% |
+| 136  | Deoxys-Speed / Moltres-Galar / Rotom-Wash       |    2 |   3.57% | 100.00% |
+| 136  | Uxie / Melmetal / Tapu Koko                     |    2 |   3.57% | 100.00% |
+| 136  | Seismitoad / Melmetal / Tapu Koko               |    2 |   3.57% | 100.00% |
+| 136  | Uxie / Dragonite / Tapu Koko                    |    2 |   3.57% | 100.00% |
+| 136  | Seismitoad / Dragonite / Tapu Koko              |    2 |   3.57% | 100.00% |
+| 136  | Uxie / Sharpedo / Tapu Koko                     |    2 |   3.57% | 100.00% |
+| 136  | Seismitoad / Sharpedo / Tapu Koko               |    2 |   3.57% | 100.00% |
+| 136  | Dragonite / Uxie / Melmetal                     |    2 |   3.57% | 100.00% |
+| 136  | Dragonite / Seismitoad / Melmetal               |    2 |   3.57% | 100.00% |
+| 136  | Uxie / Sharpedo / Melmetal                      |    2 |   3.57% | 100.00% |
+| 136  | Seismitoad / Sharpedo / Melmetal                |    2 |   3.57% | 100.00% |
+| 136  | Uxie / Sharpedo / Dragonite                     |    2 |   3.57% | 100.00% |
+| 136  | Seismitoad / Sharpedo / Dragonite               |    2 |   3.57% | 100.00% |
+| 136  | Porygon2 / Melmetal / Tapu Koko                 |    2 |   3.57% | 100.00% |
+| 136  | Porygon2 / Dragonite / Tapu Koko                |    2 |   3.57% | 100.00% |
+| 136  | Porygon2 / Sharpedo / Tapu Koko                 |    2 |   3.57% | 100.00% |
+| 136  | Dragonite / Porygon2 / Melmetal                 |    2 |   3.57% | 100.00% |
+| 136  | Porygon2 / Sharpedo / Melmetal                  |    2 |   3.57% | 100.00% |
+| 136  | Porygon2 / Sharpedo / Dragonite                 |    2 |   3.57% | 100.00% |
+| 136  | Kartana / Gardevoir / Tyrantrum                 |    2 |   3.57% | 100.00% |
+| 136  | Kartana / Cinderace / Tyrantrum                 |    2 |   3.57% | 100.00% |
+| 136  | Cinderace / Gardevoir / Tyrantrum               |    2 |   3.57% | 100.00% |
+| 136  | Cinderace / Garchomp / Blastoise                |    2 |   3.57% |  50.00% |
+| 136  | Cinderace / Scizor / Blastoise                  |    2 |   3.57% |  50.00% |
+| 136  | Cinderace / Togekiss / Blastoise                |    2 |   3.57% |  50.00% |
+| 136  | Necrozma / Lopunny / Landorus-Therian           |    2 |   3.57% |  50.00% |
+| 136  | Necrozma / Landorus-Therian / Kyurem            |    2 |   3.57% |  50.00% |
+| 136  | Klefki / Landorus-Therian / Necrozma            |    2 |   3.57% |  50.00% |
+| 136  | Araquanid / Landorus-Therian / Necrozma         |    2 |   3.57% |  50.00% |
+| 136  | Vileplume / Garchomp / Mew                      |    2 |   3.57% |  50.00% |
+| 136  | Vileplume / Zeraora / Garchomp                  |    2 |   3.57% |  50.00% |
+| 136  | Vileplume / Garchomp / Infernape                |    2 |   3.57% |  50.00% |
+| 136  | Celebi / Heatran / Zeraora                      |    2 |   3.57% |  50.00% |
+| 136  | Celebi / Zeraora / Tapu Fini                    |    2 |   3.57% |  50.00% |
+| 136  | Celebi / Zeraora / Gallade                      |    2 |   3.57% |  50.00% |
+| 136  | Celebi / Heatran / Tapu Fini                    |    2 |   3.57% |  50.00% |
+| 136  | Celebi / Heatran / Gallade                      |    2 |   3.57% |  50.00% |
+| 136  | Celebi / Tapu Fini / Gallade                    |    2 |   3.57% |  50.00% |
+| 136  | Cinderace / Garchomp / Muk-Alola                |    2 |   3.57% |  50.00% |
+| 136  | Cinderace / Scizor / Muk-Alola                  |    2 |   3.57% |  50.00% |
+| 136  | Cinderace / Togekiss / Muk-Alola                |    2 |   3.57% |  50.00% |
+| 136  | Cobalion / Mew / Diancie                        |    2 |   3.57% |  50.00% |
+| 136  | Cobalion / Rillaboom / Mew                      |    2 |   3.57% |  50.00% |
+| 136  | Swampert / Mew / Cobalion                       |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Cobalion / Mew                     |    2 |   3.57% |  50.00% |
+| 136  | Cobalion / Rillaboom / Diancie                  |    2 |   3.57% |  50.00% |
+| 136  | Swampert / Diancie / Cobalion                   |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Cobalion / Diancie                 |    2 |   3.57% |  50.00% |
+| 136  | Cobalion / Rillaboom / Swampert                 |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Cobalion / Rillaboom               |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Cobalion / Swampert                |    2 |   3.57% |  50.00% |
+| 136  | Weavile / Melmetal / Eldegoss                   |    2 |   3.57% |  50.00% |
+| 136  | Weavile / Eldegoss / Landorus                   |    2 |   3.57% |  50.00% |
+| 136  | Weavile / Eldegoss / Beedrill                   |    2 |   3.57% |  50.00% |
+| 136  | Melmetal / Eldegoss / Landorus                  |    2 |   3.57% |  50.00% |
+| 136  | Beedrill / Melmetal / Eldegoss                  |    2 |   3.57% |  50.00% |
+| 136  | Eldegoss / Beedrill / Landorus                  |    2 |   3.57% |  50.00% |
+| 136  | Deoxys-Speed / Landorus-Therian / Glalie        |    2 |   3.57% |  50.00% |
+| 136  | Aegislash / Landorus-Therian / Glalie           |    2 |   3.57% |  50.00% |
+| 136  | Rotom-Wash / Landorus-Therian / Glalie          |    2 |   3.57% |  50.00% |
+| 136  | Deoxys-Speed / Aegislash / Glalie               |    2 |   3.57% |  50.00% |
+| 136  | Deoxys-Speed / Rotom-Wash / Glalie              |    2 |   3.57% |  50.00% |
+| 136  | Aegislash / Rotom-Wash / Glalie                 |    2 |   3.57% |  50.00% |
+| 136  | Lopunny / Skuntank / Kyurem                     |    2 |   3.57% |  50.00% |
+| 136  | Klefki / Lopunny / Skuntank                     |    2 |   3.57% |  50.00% |
+| 136  | Araquanid / Lopunny / Skuntank                  |    2 |   3.57% |  50.00% |
+| 136  | Klefki / Skuntank / Kyurem                      |    2 |   3.57% |  50.00% |
+| 136  | Araquanid / Skuntank / Kyurem                   |    2 |   3.57% |  50.00% |
+| 136  | Klefki / Araquanid / Skuntank                   |    2 |   3.57% |  50.00% |
+| 136  | Weavile / Uxie / Melmetal                       |    2 |   3.57% |  50.00% |
+| 136  | Weavile / Uxie / Landorus                       |    2 |   3.57% |  50.00% |
+| 136  | Weavile / Uxie / Beedrill                       |    2 |   3.57% |  50.00% |
+| 136  | Uxie / Melmetal / Landorus                      |    2 |   3.57% |  50.00% |
+| 136  | Uxie / Melmetal / Beedrill                      |    2 |   3.57% |  50.00% |
+| 136  | Uxie / Beedrill / Landorus                      |    2 |   3.57% |  50.00% |
+| 136  | Vileplume / Primarina / Mew                     |    2 |   3.57% |  50.00% |
+| 136  | Vileplume / Zeraora / Primarina                 |    2 |   3.57% |  50.00% |
+| 136  | Vileplume / Primarina / Infernape               |    2 |   3.57% |  50.00% |
+| 136  | Swampert / Tapu Koko / Ferrothorn               |    2 |   3.57% |  50.00% |
+| 136  | Pelipper / Tapu Koko / Ferrothorn               |    2 |   3.57% |  50.00% |
+| 136  | Kabutops / Tapu Koko / Ferrothorn               |    2 |   3.57% |  50.00% |
+| 136  | Pelipper / Tapu Koko / Swampert                 |    2 |   3.57% |  50.00% |
+| 136  | Kabutops / Tapu Koko / Swampert                 |    2 |   3.57% |  50.00% |
+| 136  | Kabutops / Tapu Koko / Pelipper                 |    2 |   3.57% |  50.00% |
+| 136  | Swampert / Pelipper / Ferrothorn                |    2 |   3.57% |  50.00% |
+| 136  | Kabutops / Swampert / Ferrothorn                |    2 |   3.57% |  50.00% |
+| 136  | Kabutops / Pelipper / Ferrothorn                |    2 |   3.57% |  50.00% |
+| 136  | Kabutops / Pelipper / Swampert                  |    2 |   3.57% |  50.00% |
+| 136  | Tapu Fini / Mandibuzz / Gallade                 |    2 |   3.57% |  50.00% |
+| 136  | Crawdaunt / Tapu Fini / Gallade                 |    2 |   3.57% |  50.00% |
+| 136  | Heatran / Mandibuzz / Gallade                   |    2 |   3.57% |  50.00% |
+| 136  | Crawdaunt / Mandibuzz / Gallade                 |    2 |   3.57% |  50.00% |
+| 136  | Heatran / Crawdaunt / Gallade                   |    2 |   3.57% |  50.00% |
+| 136  | Heatran / Tapu Fini / Mandibuzz                 |    2 |   3.57% |  50.00% |
+| 136  | Crawdaunt / Tapu Fini / Mandibuzz               |    2 |   3.57% |  50.00% |
+| 136  | Heatran / Crawdaunt / Tapu Fini                 |    2 |   3.57% |  50.00% |
+| 136  | Heatran / Crawdaunt / Mandibuzz                 |    2 |   3.57% |  50.00% |
+| 136  | Garchomp / Primarina / Mew                      |    2 |   3.57% |  50.00% |
+| 136  | Zeraora / Garchomp / Primarina                  |    2 |   3.57% |  50.00% |
+| 136  | Garchomp / Primarina / Infernape                |    2 |   3.57% |  50.00% |
+| 136  | Muk-Alola / Garchomp / Blastoise                |    2 |   3.57% |  50.00% |
+| 136  | Muk-Alola / Scizor / Blastoise                  |    2 |   3.57% |  50.00% |
+| 136  | Muk-Alola / Togekiss / Blastoise                |    2 |   3.57% |  50.00% |
+| 136  | Thundurus / Mew / Diancie                       |    2 |   3.57% |  50.00% |
+| 136  | Thundurus / Swampert / Mew                      |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Thundurus / Mew                    |    2 |   3.57% |  50.00% |
+| 136  | Thundurus / Rillaboom / Mew                     |    2 |   3.57% |  50.00% |
+| 136  | Thundurus / Swampert / Diancie                  |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Thundurus / Diancie                |    2 |   3.57% |  50.00% |
+| 136  | Thundurus / Rillaboom / Diancie                 |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Thundurus / Swampert               |    2 |   3.57% |  50.00% |
+| 136  | Thundurus / Rillaboom / Swampert                |    2 |   3.57% |  50.00% |
+| 136  | Greninja-* / Rillaboom / Thundurus              |    2 |   3.57% |  50.00% |
+| 136  | Cinderace / Mesprit / Garchomp                  |    2 |   3.57% |   0.00% |
+| 136  | Mesprit / Garchomp / Blastoise                  |    2 |   3.57% |   0.00% |
+| 136  | Cinderace / Mesprit / Scizor                    |    2 |   3.57% |   0.00% |
+| 136  | Cinderace / Togekiss / Mesprit                  |    2 |   3.57% |   0.00% |
+| 136  | Mesprit / Scizor / Blastoise                    |    2 |   3.57% |   0.00% |
+| 136  | Togekiss / Mesprit / Blastoise                  |    2 |   3.57% |   0.00% |
+| 136  | Greninja-* / Zapdos / Diancie                   |    2 |   3.57% |   0.00% |
+| 136  | Seismitoad / Zapdos / Diancie                   |    2 |   3.57% |   0.00% |
+| 136  | Zapdos / Diancie / Incineroar                   |    2 |   3.57% |   0.00% |
+| 136  | Greninja-* / Seismitoad / Diancie               |    2 |   3.57% |   0.00% |
+| 136  | Greninja-* / Diancie / Incineroar               |    2 |   3.57% |   0.00% |
+| 136  | Seismitoad / Diancie / Incineroar               |    2 |   3.57% |   0.00% |
+| 136  | Greninja-* / Seismitoad / Zapdos                |    2 |   3.57% |   0.00% |
+| 136  | Greninja-* / Zapdos / Incineroar                |    2 |   3.57% |   0.00% |
+| 136  | Seismitoad / Zapdos / Incineroar                |    2 |   3.57% |   0.00% |
+| 136  | Greninja-* / Seismitoad / Incineroar            |    2 |   3.57% |   0.00% |
+| 136  | Skarmory / Zeraora / Mew                        |    2 |   3.57% |   0.00% |
+| 136  | Skarmory / Infernape / Mew                      |    2 |   3.57% |   0.00% |
+| 136  | Vileplume / Skarmory / Mew                      |    2 |   3.57% |   0.00% |
+| 136  | Skarmory / Zeraora / Infernape                  |    2 |   3.57% |   0.00% |
+| 136  | Vileplume / Skarmory / Zeraora                  |    2 |   3.57% |   0.00% |
+| 136  | Vileplume / Skarmory / Infernape                |    2 |   3.57% |   0.00% |
+| 136  | Muk-Alola / Mesprit / Garchomp                  |    2 |   3.57% |   0.00% |
+| 136  | Muk-Alola / Mesprit / Scizor                    |    2 |   3.57% |   0.00% |
+| 136  | Muk-Alola / Togekiss / Mesprit                  |    2 |   3.57% |   0.00% |
+| 279  | Tyranitar / Garchomp / Rotom-Wash               |    1 |   1.79% | 100.00% |
+| 279  | Tyranitar / Garchomp / Celesteela               |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Tyranitar / Garchomp                |    1 |   1.79% | 100.00% |
+| 279  | Tyranitar / Garchomp / Zapdos-Galar             |    1 |   1.79% | 100.00% |
+| 279  | Tyranitar / Celesteela / Rotom-Wash             |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Tyranitar / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 279  | Tyranitar / Zapdos-Galar / Rotom-Wash           |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Tyranitar / Celesteela              |    1 |   1.79% | 100.00% |
+| 279  | Tyranitar / Celesteela / Zapdos-Galar           |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Tyranitar / Zapdos-Galar            |    1 |   1.79% | 100.00% |
+| 279  | Heatran / Zeraora / Corviknight                 |    1 |   1.79% | 100.00% |
+| 279  | Celebi / Zeraora / Corviknight                  |    1 |   1.79% | 100.00% |
+| 279  | Corviknight / Zeraora / Tapu Fini               |    1 |   1.79% | 100.00% |
+| 279  | Zeraora / Corviknight / Gallade                 |    1 |   1.79% | 100.00% |
+| 279  | Celebi / Heatran / Corviknight                  |    1 |   1.79% | 100.00% |
+| 279  | Heatran / Corviknight / Tapu Fini               |    1 |   1.79% | 100.00% |
+| 279  | Heatran / Corviknight / Gallade                 |    1 |   1.79% | 100.00% |
+| 279  | Celebi / Corviknight / Tapu Fini                |    1 |   1.79% | 100.00% |
+| 279  | Celebi / Corviknight / Gallade                  |    1 |   1.79% | 100.00% |
+| 279  | Corviknight / Tapu Fini / Gallade               |    1 |   1.79% | 100.00% |
+| 279  | Aegislash / Zygarde-10% / Landorus-Therian      |    1 |   1.79% | 100.00% |
+| 279  | Aegislash / Zygarde-10% / Rotom-Wash            |    1 |   1.79% | 100.00% |
+| 279  | Aegislash / Zygarde-10% / Deoxys-Speed          |    1 |   1.79% | 100.00% |
+| 279  | Aegislash / Zygarde-10% / Moltres-Galar         |    1 |   1.79% | 100.00% |
+| 279  | Zygarde-10% / Landorus-Therian / Rotom-Wash     |    1 |   1.79% | 100.00% |
+| 279  | Zygarde-10% / Landorus-Therian / Deoxys-Speed   |    1 |   1.79% | 100.00% |
+| 279  | Zygarde-10% / Moltres-Galar / Landorus-Therian  |    1 |   1.79% | 100.00% |
+| 279  | Deoxys-Speed / Zygarde-10% / Rotom-Wash         |    1 |   1.79% | 100.00% |
+| 279  | Zygarde-10% / Moltres-Galar / Rotom-Wash        |    1 |   1.79% | 100.00% |
+| 279  | Zygarde-10% / Moltres-Galar / Deoxys-Speed      |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Seismitoad / Tapu Koko                   |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Seismitoad / Melmetal                    |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Seismitoad / Dragonite                   |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Sharpedo / Seismitoad                    |    1 |   1.79% | 100.00% |
+| 279  | Deoxys-Defense / Mienshao / Mawile              |    1 |   1.79% | 100.00% |
+| 279  | Amoonguss / Deoxys-Defense / Mawile             |    1 |   1.79% | 100.00% |
+| 279  | Swampert / Deoxys-Defense / Mawile              |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Deoxys-Defense / Mawile      |    1 |   1.79% | 100.00% |
+| 279  | Amoonguss / Deoxys-Defense / Mienshao           |    1 |   1.79% | 100.00% |
+| 279  | Deoxys-Defense / Mienshao / Swampert            |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Deoxys-Defense / Mienshao    |    1 |   1.79% | 100.00% |
+| 279  | Amoonguss / Deoxys-Defense / Swampert           |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Amoonguss / Deoxys-Defense   |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Deoxys-Defense / Swampert    |    1 |   1.79% | 100.00% |
+| 279  | Amoonguss / Mienshao / Mawile                   |    1 |   1.79% | 100.00% |
+| 279  | Swampert / Mienshao / Mawile                    |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Mienshao / Mawile            |    1 |   1.79% | 100.00% |
+| 279  | Amoonguss / Swampert / Mawile                   |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Amoonguss / Mawile           |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Swampert / Mawile            |    1 |   1.79% | 100.00% |
+| 279  | Amoonguss / Mienshao / Swampert                 |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Amoonguss / Mienshao         |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Mienshao / Swampert          |    1 |   1.79% | 100.00% |
+| 279  | Tornadus-Therian / Amoonguss / Swampert         |    1 |   1.79% | 100.00% |
+| 279  | Seismitoad / Tapu Koko / Porygon2               |    1 |   1.79% | 100.00% |
+| 279  | Seismitoad / Melmetal / Porygon2                |    1 |   1.79% | 100.00% |
+| 279  | Seismitoad / Dragonite / Porygon2               |    1 |   1.79% | 100.00% |
+| 279  | Seismitoad / Sharpedo / Porygon2                |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Serperior / Celesteela              |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Serperior / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Serperior / Garchomp                |    1 |   1.79% | 100.00% |
+| 279  | Porygon-Z / Serperior / Zapdos-Galar            |    1 |   1.79% | 100.00% |
+| 279  | Serperior / Celesteela / Rotom-Wash             |    1 |   1.79% | 100.00% |
+| 279  | Serperior / Garchomp / Celesteela               |    1 |   1.79% | 100.00% |
+| 279  | Serperior / Celesteela / Zapdos-Galar           |    1 |   1.79% | 100.00% |
+| 279  | Serperior / Garchomp / Rotom-Wash               |    1 |   1.79% | 100.00% |
+| 279  | Serperior / Zapdos-Galar / Rotom-Wash           |    1 |   1.79% | 100.00% |
+| 279  | Serperior / Garchomp / Zapdos-Galar             |    1 |   1.79% | 100.00% |
+| 279  | Moltres-Galar / Glalie / Rotom-Wash             |    1 |   1.79% | 100.00% |
+| 279  | Moltres-Galar / Landorus-Therian / Glalie       |    1 |   1.79% | 100.00% |
+| 279  | Deoxys-Speed / Moltres-Galar / Glalie           |    1 |   1.79% | 100.00% |
+| 279  | Aegislash / Moltres-Galar / Glalie              |    1 |   1.79% | 100.00% |
+| 279  | Weavile / Uxie / Eldegoss                       |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Melmetal / Eldegoss                      |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Eldegoss / Landorus                      |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Eldegoss / Beedrill                      |    1 |   1.79% | 100.00% |
+| 279  | Dragonite / Tapu Koko / Ferrothorn              |    1 |   1.79% | 100.00% |
+| 279  | Dragonite / Tapu Koko / Swampert                |    1 |   1.79% | 100.00% |
+| 279  | Dragonite / Tapu Koko / Pelipper                |    1 |   1.79% | 100.00% |
+| 279  | Kabutops / Dragonite / Tapu Koko                |    1 |   1.79% | 100.00% |
+| 279  | Swampert / Dragonite / Ferrothorn               |    1 |   1.79% | 100.00% |
+| 279  | Dragonite / Pelipper / Ferrothorn               |    1 |   1.79% | 100.00% |
+| 279  | Kabutops / Dragonite / Ferrothorn               |    1 |   1.79% | 100.00% |
+| 279  | Dragonite / Pelipper / Swampert                 |    1 |   1.79% | 100.00% |
+| 279  | Kabutops / Dragonite / Swampert                 |    1 |   1.79% | 100.00% |
+| 279  | Kabutops / Dragonite / Pelipper                 |    1 |   1.79% | 100.00% |
+| 279  | Zeraora / Mandibuzz / Gallade                   |    1 |   1.79% | 100.00% |
+| 279  | Crawdaunt / Zeraora / Gallade                   |    1 |   1.79% | 100.00% |
+| 279  | Zeraora / Tapu Fini / Mandibuzz                 |    1 |   1.79% | 100.00% |
+| 279  | Crawdaunt / Zeraora / Tapu Fini                 |    1 |   1.79% | 100.00% |
+| 279  | Heatran / Zeraora / Mandibuzz                   |    1 |   1.79% | 100.00% |
+| 279  | Crawdaunt / Zeraora / Mandibuzz                 |    1 |   1.79% | 100.00% |
+| 279  | Heatran / Crawdaunt / Zeraora                   |    1 |   1.79% | 100.00% |
+| 279  | Vileplume / Garchomp / Primarina                |    1 |   1.79% | 100.00% |
+| 279  | Kartana / Corviknight / Tyrantrum               |    1 |   1.79% | 100.00% |
+| 279  | Kartana / Conkeldurr / Tyrantrum                |    1 |   1.79% | 100.00% |
+| 279  | Gardevoir / Corviknight / Tyrantrum             |    1 |   1.79% | 100.00% |
+| 279  | Conkeldurr / Gardevoir / Tyrantrum              |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Corviknight / Tyrantrum             |    1 |   1.79% | 100.00% |
+| 279  | Conkeldurr / Corviknight / Tyrantrum            |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Conkeldurr / Tyrantrum              |    1 |   1.79% | 100.00% |
+| 279  | Kartana / Gardevoir / Conkeldurr                |    1 |   1.79% | 100.00% |
+| 279  | Kartana / Corviknight / Conkeldurr              |    1 |   1.79% | 100.00% |
+| 279  | Kartana / Cinderace / Conkeldurr                |    1 |   1.79% | 100.00% |
+| 279  | Conkeldurr / Gardevoir / Corviknight            |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Gardevoir / Conkeldurr              |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Corviknight / Conkeldurr            |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Blastoise / Muk-Alola               |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Tapu Koko / Porygon2                     |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Melmetal / Porygon2                      |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Dragonite / Porygon2                     |    1 |   1.79% | 100.00% |
+| 279  | Uxie / Sharpedo / Porygon2                      |    1 |   1.79% | 100.00% |
+| 279  | Landorus-Therian / Skuntank / Kyurem            |    1 |   1.79% | 100.00% |
+| 279  | Lopunny / Skuntank / Landorus-Therian           |    1 |   1.79% | 100.00% |
+| 279  | Klefki / Landorus-Therian / Skuntank            |    1 |   1.79% | 100.00% |
+| 279  | Araquanid / Landorus-Therian / Skuntank         |    1 |   1.79% | 100.00% |
+| 279  | Kartana / Tyrantrum / Gliscor                   |    1 |   1.79% | 100.00% |
+| 279  | Kartana / Toxapex / Tyrantrum                   |    1 |   1.79% | 100.00% |
+| 279  | Gardevoir / Tyrantrum / Gliscor                 |    1 |   1.79% | 100.00% |
+| 279  | Gardevoir / Tyrantrum / Toxapex                 |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Tyrantrum / Gliscor                 |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Toxapex / Tyrantrum                 |    1 |   1.79% | 100.00% |
+| 279  | Toxapex / Tyrantrum / Gliscor                   |    1 |   1.79% | 100.00% |
+| 279  | Cinderace / Mesprit / Blastoise                 |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Cinderace / Blastoise                 |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Cinderace / Aerodactyl                |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Bronzong / Cinderace                  |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Blastoise / Gliscor                   |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Aerodactyl / Gliscor                  |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Bronzong / Gliscor                    |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Aerodactyl / Blastoise                |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Bronzong / Blastoise                  |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Bronzong / Aerodactyl                 |    1 |   1.79% |   0.00% |
+| 279  | Cinderace / Blastoise / Gliscor                 |    1 |   1.79% |   0.00% |
+| 279  | Cinderace / Aerodactyl / Gliscor                |    1 |   1.79% |   0.00% |
+| 279  | Cinderace / Bronzong / Gliscor                  |    1 |   1.79% |   0.00% |
+| 279  | Cinderace / Aerodactyl / Blastoise              |    1 |   1.79% |   0.00% |
+| 279  | Cinderace / Bronzong / Blastoise                |    1 |   1.79% |   0.00% |
+| 279  | Cinderace / Bronzong / Aerodactyl               |    1 |   1.79% |   0.00% |
+| 279  | Aerodactyl / Blastoise / Gliscor                |    1 |   1.79% |   0.00% |
+| 279  | Bronzong / Blastoise / Gliscor                  |    1 |   1.79% |   0.00% |
+| 279  | Bronzong / Aerodactyl / Gliscor                 |    1 |   1.79% |   0.00% |
+| 279  | Bronzong / Aerodactyl / Blastoise               |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Zapdos / Diancie                       |    1 |   1.79% |   0.00% |
+| 279  | Greninja-* / Scizor / Diancie                   |    1 |   1.79% |   0.00% |
+| 279  | Seismitoad / Scizor / Diancie                   |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Diancie / Incineroar                   |    1 |   1.79% |   0.00% |
+| 279  | Greninja-* / Scizor / Zapdos                    |    1 |   1.79% |   0.00% |
+| 279  | Seismitoad / Scizor / Zapdos                    |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Zapdos / Incineroar                    |    1 |   1.79% |   0.00% |
+| 279  | Greninja-* / Seismitoad / Scizor                |    1 |   1.79% |   0.00% |
+| 279  | Greninja-* / Scizor / Incineroar                |    1 |   1.79% |   0.00% |
+| 279  | Seismitoad / Scizor / Incineroar                |    1 |   1.79% |   0.00% |
+| 279  | Skarmory / Garchomp / Mew                       |    1 |   1.79% |   0.00% |
+| 279  | Skarmory / Zeraora / Garchomp                   |    1 |   1.79% |   0.00% |
+| 279  | Skarmory / Garchomp / Infernape                 |    1 |   1.79% |   0.00% |
+| 279  | Vileplume / Skarmory / Garchomp                 |    1 |   1.79% |   0.00% |
+| 279  | Cinderace / Mesprit / Muk-Alola                 |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Victini / Landorus           |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Scizor / Landorus            |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Primarina / Landorus         |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Landorus / Regirock          |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Scizor / Victini             |    1 |   1.79% |   0.00% |
+| 279  | Primarina / Tornadus-Therian / Victini          |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Victini / Regirock           |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Scizor / Primarina           |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Scizor / Regirock            |    1 |   1.79% |   0.00% |
+| 279  | Tornadus-Therian / Primarina / Regirock         |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Victini / Landorus                     |    1 |   1.79% |   0.00% |
+| 279  | Primarina / Victini / Landorus                  |    1 |   1.79% |   0.00% |
+| 279  | Victini / Landorus / Regirock                   |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Primarina / Landorus                   |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Landorus / Regirock                    |    1 |   1.79% |   0.00% |
+| 279  | Primarina / Landorus / Regirock                 |    1 |   1.79% |   0.00% |
+| 279  | Primarina / Scizor / Victini                    |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Victini / Regirock                     |    1 |   1.79% |   0.00% |
+| 279  | Primarina / Victini / Regirock                  |    1 |   1.79% |   0.00% |
+| 279  | Scizor / Primarina / Regirock                   |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Melmetal / Drampa                     |    1 |   1.79% |   0.00% |
+| 279  | Drampa / Weavile / Landorus                     |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Eldegoss / Drampa                     |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Beedrill / Drampa                     |    1 |   1.79% |   0.00% |
+| 279  | Drampa / Melmetal / Landorus                    |    1 |   1.79% |   0.00% |
+| 279  | Melmetal / Eldegoss / Drampa                    |    1 |   1.79% |   0.00% |
+| 279  | Melmetal / Beedrill / Drampa                    |    1 |   1.79% |   0.00% |
+| 279  | Drampa / Eldegoss / Landorus                    |    1 |   1.79% |   0.00% |
+| 279  | Drampa / Beedrill / Landorus                    |    1 |   1.79% |   0.00% |
+| 279  | Eldegoss / Beedrill / Drampa                    |    1 |   1.79% |   0.00% |
+| 279  | Landorus-Therian / Whimsicott / Glalie          |    1 |   1.79% |   0.00% |
+| 279  | Landorus-Therian / Whimsicott / Deoxys-Speed    |    1 |   1.79% |   0.00% |
+| 279  | Aegislash / Landorus-Therian / Whimsicott       |    1 |   1.79% |   0.00% |
+| 279  | Landorus-Therian / Whimsicott / Rotom-Wash      |    1 |   1.79% |   0.00% |
+| 279  | Deoxys-Speed / Whimsicott / Glalie              |    1 |   1.79% |   0.00% |
+| 279  | Aegislash / Whimsicott / Glalie                 |    1 |   1.79% |   0.00% |
+| 279  | Rotom-Wash / Whimsicott / Glalie                |    1 |   1.79% |   0.00% |
+| 279  | Aegislash / Whimsicott / Deoxys-Speed           |    1 |   1.79% |   0.00% |
+| 279  | Rotom-Wash / Whimsicott / Deoxys-Speed          |    1 |   1.79% |   0.00% |
+| 279  | Aegislash / Whimsicott / Rotom-Wash             |    1 |   1.79% |   0.00% |
+| 279  | Mudsdale / Zeraora / Gallade                    |    1 |   1.79% |   0.00% |
+| 279  | Mudsdale / Tapu Fini / Gallade                  |    1 |   1.79% |   0.00% |
+| 279  | Celebi / Mudsdale / Gallade                     |    1 |   1.79% |   0.00% |
+| 279  | Heatran / Mudsdale / Gallade                    |    1 |   1.79% |   0.00% |
+| 279  | Mudsdale / Zeraora / Tapu Fini                  |    1 |   1.79% |   0.00% |
+| 279  | Celebi / Mudsdale / Zeraora                     |    1 |   1.79% |   0.00% |
+| 279  | Heatran / Mudsdale / Zeraora                    |    1 |   1.79% |   0.00% |
+| 279  | Celebi / Mudsdale / Tapu Fini                   |    1 |   1.79% |   0.00% |
+| 279  | Heatran / Mudsdale / Tapu Fini                  |    1 |   1.79% |   0.00% |
+| 279  | Celebi / Heatran / Mudsdale                     |    1 |   1.79% |   0.00% |
+| 279  | Lopunny / Skuntank / Necrozma                   |    1 |   1.79% |   0.00% |
+| 279  | Necrozma / Skuntank / Kyurem                    |    1 |   1.79% |   0.00% |
+| 279  | Klefki / Skuntank / Necrozma                    |    1 |   1.79% |   0.00% |
+| 279  | Araquanid / Skuntank / Necrozma                 |    1 |   1.79% |   0.00% |
+| 279  | Skarmory / Primarina / Mew                      |    1 |   1.79% |   0.00% |
+| 279  | Skarmory / Zeraora / Primarina                  |    1 |   1.79% |   0.00% |
+| 279  | Skarmory / Primarina / Infernape                |    1 |   1.79% |   0.00% |
+| 279  | Vileplume / Skarmory / Primarina                |    1 |   1.79% |   0.00% |
+| 279  | Necrozma / Eelektross / Kyurem                  |    1 |   1.79% |   0.00% |
+| 279  | Eelektross / Lopunny / Kyurem                   |    1 |   1.79% |   0.00% |
+| 279  | Klefki / Eelektross / Kyurem                    |    1 |   1.79% |   0.00% |
+| 279  | Eelektross / Araquanid / Kyurem                 |    1 |   1.79% |   0.00% |
+| 279  | Eelektross / Lopunny / Necrozma                 |    1 |   1.79% |   0.00% |
+| 279  | Klefki / Eelektross / Necrozma                  |    1 |   1.79% |   0.00% |
+| 279  | Eelektross / Araquanid / Necrozma               |    1 |   1.79% |   0.00% |
+| 279  | Klefki / Lopunny / Eelektross                   |    1 |   1.79% |   0.00% |
+| 279  | Araquanid / Lopunny / Eelektross                |    1 |   1.79% |   0.00% |
+| 279  | Klefki / Araquanid / Eelektross                 |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Melmetal / Keldeo                     |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Keldeo / Landorus                     |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Uxie / Keldeo                         |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Beedrill / Keldeo                     |    1 |   1.79% |   0.00% |
+| 279  | Melmetal / Keldeo / Landorus                    |    1 |   1.79% |   0.00% |
+| 279  | Uxie / Melmetal / Keldeo                        |    1 |   1.79% |   0.00% |
+| 279  | Melmetal / Beedrill / Keldeo                    |    1 |   1.79% |   0.00% |
+| 279  | Uxie / Keldeo / Landorus                        |    1 |   1.79% |   0.00% |
+| 279  | Beedrill / Keldeo / Landorus                    |    1 |   1.79% |   0.00% |
+| 279  | Uxie / Beedrill / Keldeo                        |    1 |   1.79% |   0.00% |
+| 279  | Seismitoad / Whimsicott / Diancie               |    1 |   1.79% |   0.00% |
+| 279  | Whimsicott / Zapdos / Diancie                   |    1 |   1.79% |   0.00% |
+| 279  | Greninja-* / Whimsicott / Diancie               |    1 |   1.79% |   0.00% |
+| 279  | Whimsicott / Diancie / Incineroar               |    1 |   1.79% |   0.00% |
+| 279  | Seismitoad / Whimsicott / Zapdos                |    1 |   1.79% |   0.00% |
+| 279  | Seismitoad / Greninja-* / Whimsicott            |    1 |   1.79% |   0.00% |
+| 279  | Seismitoad / Whimsicott / Incineroar            |    1 |   1.79% |   0.00% |
+| 279  | Greninja-* / Whimsicott / Zapdos                |    1 |   1.79% |   0.00% |
+| 279  | Whimsicott / Zapdos / Incineroar                |    1 |   1.79% |   0.00% |
+| 279  | Greninja-* / Whimsicott / Incineroar            |    1 |   1.79% |   0.00% |
+| 279  | Mesprit / Garchomp / Celesteela                 |    1 |   1.79% |   0.00% |
+| 279  | Mesprit / Garchomp / Rotom-Wash                 |    1 |   1.79% |   0.00% |
+| 279  | Porygon-Z / Mesprit / Garchomp                  |    1 |   1.79% |   0.00% |
+| 279  | Mesprit / Garchomp / Zapdos-Galar               |    1 |   1.79% |   0.00% |
+| 279  | Mesprit / Celesteela / Rotom-Wash               |    1 |   1.79% |   0.00% |
+| 279  | Porygon-Z / Mesprit / Celesteela                |    1 |   1.79% |   0.00% |
+| 279  | Mesprit / Celesteela / Zapdos-Galar             |    1 |   1.79% |   0.00% |
+| 279  | Porygon-Z / Mesprit / Rotom-Wash                |    1 |   1.79% |   0.00% |
+| 279  | Mesprit / Zapdos-Galar / Rotom-Wash             |    1 |   1.79% |   0.00% |
+| 279  | Porygon-Z / Mesprit / Zapdos-Galar              |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Tapu Koko / Swampert            |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Tapu Koko / Pelipper            |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Kabutops / Tapu Koko            |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Tapu Koko / Ferrothorn          |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Pelipper / Swampert             |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Kabutops / Swampert             |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Ferrothorn / Swampert           |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Kabutops / Pelipper             |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Ferrothorn / Pelipper           |    1 |   1.79% |   0.00% |
+| 279  | Hoopa-Unbound / Kabutops / Ferrothorn           |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Eldegoss / Gliscor                    |    1 |   1.79% |   0.00% |
+| 279  | Lopunny / Eldegoss / Gliscor                    |    1 |   1.79% |   0.00% |
+| 279  | Gengar / Eldegoss / Gliscor                     |    1 |   1.79% |   0.00% |
+| 279  | Celesteela / Eldegoss / Gliscor                 |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Lopunny / Eldegoss                    |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Gengar / Eldegoss                     |    1 |   1.79% |   0.00% |
+| 279  | Weavile / Eldegoss / Celesteela                 |    1 |   1.79% |   0.00% |
+| 279  | Gengar / Lopunny / Eldegoss                     |    1 |   1.79% |   0.00% |
+| 279  | Lopunny / Eldegoss / Celesteela                 |    1 |   1.79% |   0.00% |
+| 279  | Gengar / Eldegoss / Celesteela                  |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Mandibuzz / Gallade                 |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Heatran / Gallade                   |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Crawdaunt / Gallade                 |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Tapu Fini / Gallade                 |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Heatran / Mandibuzz                 |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Crawdaunt / Mandibuzz               |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Tapu Fini / Mandibuzz               |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Heatran / Crawdaunt                 |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Heatran / Tapu Fini                 |    1 |   1.79% |   0.00% |
+| 279  | Nidoqueen / Crawdaunt / Tapu Fini               |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Zeraora / Mew                       |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Garchomp / Mew                      |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Primarina / Mew                     |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Infernape / Mew                     |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Zeraora / Garchomp                  |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Zeraora / Primarina                 |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Zeraora / Infernape                 |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Garchomp / Primarina                |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Garchomp / Infernape                |    1 |   1.79% |   0.00% |
+| 279  | Crawdaunt / Primarina / Infernape               |    1 |   1.79% |   0.00% |
+| 279  | Muk-Alola / Mesprit / Blastoise                 |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Blastoise / Froslass                  |    1 |   1.79% |   0.00% |
+| 279  | Blastoise / Zapdos / Froslass                   |    1 |   1.79% |   0.00% |
+| 279  | Tapu Lele / Blastoise / Froslass                |    1 |   1.79% |   0.00% |
+| 279  | Nihilego / Blastoise / Froslass                 |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Zapdos / Froslass                     |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Tapu Lele / Froslass                  |    1 |   1.79% |   0.00% |
+| 279  | Kartana / Nihilego / Froslass                   |    1 |   1.79% |   0.00% |
+| 279  | Tapu Lele / Zapdos / Froslass                   |    1 |   1.79% |   0.00% |
+| 279  | Nihilego / Zapdos / Froslass                    |    1 |   1.79% |   0.00% |
+| 279  | Nihilego / Tapu Lele / Froslass                 |    1 |   1.79% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Kartana / Nihilego / Blastoise / Tapu Lele                    |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Nihilego / Zapdos / Tapu Lele                       |    7 |  12.50% |  57.14% |
+| 1    | Nihilego / Blastoise / Zapdos / Tapu Lele                     |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Blastoise / Zapdos / Tapu Lele                      |    7 |  12.50% |  57.14% |
+| 1    | Kartana / Nihilego / Blastoise / Zapdos                       |    7 |  12.50% |  57.14% |
+| 6    | Kartana / Nihilego / Krookodile / Tapu Lele                   |    6 |  10.71% |  66.67% |
+| 6    | Nihilego / Krookodile / Blastoise / Tapu Lele                 |    6 |  10.71% |  66.67% |
+| 6    | Nihilego / Krookodile / Zapdos / Tapu Lele                    |    6 |  10.71% |  66.67% |
+| 6    | Kartana / Krookodile / Blastoise / Tapu Lele                  |    6 |  10.71% |  66.67% |
+| 6    | Kartana / Krookodile / Zapdos / Tapu Lele                     |    6 |  10.71% |  66.67% |
+| 6    | Krookodile / Blastoise / Zapdos / Tapu Lele                   |    6 |  10.71% |  66.67% |
+| 6    | Kartana / Nihilego / Krookodile / Blastoise                   |    6 |  10.71% |  66.67% |
+| 6    | Kartana / Nihilego / Krookodile / Zapdos                      |    6 |  10.71% |  66.67% |
+| 6    | Nihilego / Krookodile / Blastoise / Zapdos                    |    6 |  10.71% |  66.67% |
+| 6    | Kartana / Krookodile / Blastoise / Zapdos                     |    6 |  10.71% |  66.67% |
+| 16   | Araquanid / Klefki / Lopunny / Kyurem                         |    5 |   8.93% |  40.00% |
+| 17   | Kartana / Cinderace / Gardevoir / Corviknight                 |    4 |   7.14% | 100.00% |
+| 17   | Cinderace / Gardevoir / Gliscor / Toxapex                     |    4 |   7.14% | 100.00% |
+| 17   | Cinderace / Kartana / Gardevoir / Gliscor                     |    4 |   7.14% | 100.00% |
+| 17   | Cinderace / Kartana / Gardevoir / Toxapex                     |    4 |   7.14% | 100.00% |
+| 17   | Kartana / Gardevoir / Gliscor / Toxapex                       |    4 |   7.14% | 100.00% |
+| 17   | Cinderace / Kartana / Toxapex / Gliscor                       |    4 |   7.14% | 100.00% |
+| 17   | Swampert / Rillaboom / Mew / Diancie                          |    4 |   7.14% |  50.00% |
+| 17   | Greninja-* / Rillaboom / Mew / Diancie                        |    4 |   7.14% |  50.00% |
+| 17   | Greninja-* / Swampert / Mew / Diancie                         |    4 |   7.14% |  50.00% |
+| 17   | Greninja-* / Swampert / Rillaboom / Mew                       |    4 |   7.14% |  50.00% |
+| 17   | Greninja-* / Swampert / Rillaboom / Diancie                   |    4 |   7.14% |  50.00% |
+| 17   | Necrozma / Klefki / Lopunny / Kyurem                          |    4 |   7.14% |  25.00% |
+| 17   | Necrozma / Araquanid / Lopunny / Kyurem                       |    4 |   7.14% |  25.00% |
+| 17   | Araquanid / Klefki / Lopunny / Necrozma                       |    4 |   7.14% |  25.00% |
+| 17   | Necrozma / Klefki / Araquanid / Kyurem                        |    4 |   7.14% |  25.00% |
+| 17   | Celesteela / Weavile / Lopunny / Gliscor                      |    4 |   7.14% |  25.00% |
+| 17   | Celesteela / Weavile / Gengar / Gliscor                       |    4 |   7.14% |  25.00% |
+| 17   | Weavile / Gengar / Lopunny / Gliscor                          |    4 |   7.14% |  25.00% |
+| 17   | Celesteela / Gengar / Lopunny / Gliscor                       |    4 |   7.14% |  25.00% |
+| 17   | Weavile / Gengar / Lopunny / Celesteela                       |    4 |   7.14% |  25.00% |
+| 37   | Dragonite / Sharpedo / Melmetal / Tapu Koko                   |    3 |   5.36% | 100.00% |
+| 37   | Cinderace / Gardevoir / Corviknight / Gliscor                 |    3 |   5.36% | 100.00% |
+| 37   | Cinderace / Gardevoir / Corviknight / Toxapex                 |    3 |   5.36% | 100.00% |
+| 37   | Gardevoir / Corviknight / Gliscor / Toxapex                   |    3 |   5.36% | 100.00% |
+| 37   | Kartana / Gardevoir / Corviknight / Gliscor                   |    3 |   5.36% | 100.00% |
+| 37   | Kartana / Gardevoir / Corviknight / Toxapex                   |    3 |   5.36% | 100.00% |
+| 37   | Cinderace / Toxapex / Corviknight / Gliscor                   |    3 |   5.36% | 100.00% |
+| 37   | Cinderace / Kartana / Corviknight / Gliscor                   |    3 |   5.36% | 100.00% |
+| 37   | Cinderace / Kartana / Toxapex / Corviknight                   |    3 |   5.36% | 100.00% |
+| 37   | Kartana / Toxapex / Corviknight / Gliscor                     |    3 |   5.36% | 100.00% |
+| 37   | Porygon-Z / Garchomp / Celesteela / Rotom-Wash                |    3 |   5.36% |  66.67% |
+| 37   | Zapdos-Galar / Garchomp / Celesteela / Rotom-Wash             |    3 |   5.36% |  66.67% |
+| 37   | Porygon-Z / Garchomp / Zapdos-Galar / Rotom-Wash              |    3 |   5.36% |  66.67% |
+| 37   | Porygon-Z / Garchomp / Celesteela / Zapdos-Galar              |    3 |   5.36% |  66.67% |
+| 37   | Porygon-Z / Zapdos-Galar / Celesteela / Rotom-Wash            |    3 |   5.36% |  66.67% |
+| 37   | Landorus-Therian / Klefki / Lopunny / Kyurem                  |    3 |   5.36% |  66.67% |
+| 37   | Landorus-Therian / Araquanid / Lopunny / Kyurem               |    3 |   5.36% |  66.67% |
+| 37   | Araquanid / Klefki / Lopunny / Landorus-Therian               |    3 |   5.36% |  66.67% |
+| 37   | Araquanid / Klefki / Landorus-Therian / Kyurem                |    3 |   5.36% |  66.67% |
+| 37   | Heatran / Zeraora / Tapu Fini / Gallade                       |    3 |   5.36% |  66.67% |
+| 37   | Aegislash / Landorus-Therian / Deoxys-Speed / Rotom-Wash      |    3 |   5.36% |  66.67% |
+| 37   | Cinderace / Togekiss / Scizor / Garchomp                      |    3 |   5.36% |  33.33% |
+| 37   | Togekiss / Scizor / Garchomp / Blastoise                      |    3 |   5.36% |  33.33% |
+| 37   | Infernape / Zeraora / Garchomp / Mew                          |    3 |   5.36% |  33.33% |
+| 37   | Vileplume / Zeraora / Infernape / Mew                         |    3 |   5.36% |  33.33% |
+| 37   | Muk-Alola / Togekiss / Scizor / Garchomp                      |    3 |   5.36% |  33.33% |
+| 37   | Weavile / Melmetal / Beedrill / Landorus                      |    3 |   5.36% |  33.33% |
+| 37   | Celesteela / Weavile / Slowbro / Gliscor                      |    3 |   5.36% |  33.33% |
+| 37   | Weavile / Lopunny / Slowbro / Gliscor                         |    3 |   5.36% |  33.33% |
+| 37   | Weavile / Gengar / Slowbro / Gliscor                          |    3 |   5.36% |  33.33% |
+| 37   | Celesteela / Lopunny / Slowbro / Gliscor                      |    3 |   5.36% |  33.33% |
+| 37   | Celesteela / Gengar / Slowbro / Gliscor                       |    3 |   5.36% |  33.33% |
+| 37   | Gengar / Lopunny / Slowbro / Gliscor                          |    3 |   5.36% |  33.33% |
+| 37   | Weavile / Lopunny / Slowbro / Celesteela                      |    3 |   5.36% |  33.33% |
+| 37   | Weavile / Gengar / Slowbro / Celesteela                       |    3 |   5.36% |  33.33% |
+| 37   | Weavile / Gengar / Lopunny / Slowbro                          |    3 |   5.36% |  33.33% |
+| 37   | Gengar / Lopunny / Slowbro / Celesteela                       |    3 |   5.36% |  33.33% |
+| 37   | Zeraora / Infernape / Primarina / Mew                         |    3 |   5.36% |  33.33% |
+| 37   | Mesprit / Togekiss / Scizor / Garchomp                        |    3 |   5.36% |   0.00% |
+| 76   | Aegislash / Moltres-Galar / Landorus-Therian / Rotom-Wash     |    2 |   3.57% | 100.00% |
+| 76   | Aegislash / Moltres-Galar / Landorus-Therian / Deoxys-Speed   |    2 |   3.57% | 100.00% |
+| 76   | Aegislash / Moltres-Galar / Deoxys-Speed / Rotom-Wash         |    2 |   3.57% | 100.00% |
+| 76   | Deoxys-Speed / Moltres-Galar / Landorus-Therian / Rotom-Wash  |    2 |   3.57% | 100.00% |
+| 76   | Dragonite / Uxie / Melmetal / Tapu Koko                       |    2 |   3.57% | 100.00% |
+| 76   | Dragonite / Seismitoad / Melmetal / Tapu Koko                 |    2 |   3.57% | 100.00% |
+| 76   | Uxie / Sharpedo / Melmetal / Tapu Koko                        |    2 |   3.57% | 100.00% |
+| 76   | Seismitoad / Sharpedo / Melmetal / Tapu Koko                  |    2 |   3.57% | 100.00% |
+| 76   | Uxie / Sharpedo / Dragonite / Tapu Koko                       |    2 |   3.57% | 100.00% |
+| 76   | Seismitoad / Sharpedo / Dragonite / Tapu Koko                 |    2 |   3.57% | 100.00% |
+| 76   | Dragonite / Uxie / Sharpedo / Melmetal                        |    2 |   3.57% | 100.00% |
+| 76   | Dragonite / Seismitoad / Sharpedo / Melmetal                  |    2 |   3.57% | 100.00% |
+| 76   | Dragonite / Porygon2 / Melmetal / Tapu Koko                   |    2 |   3.57% | 100.00% |
+| 76   | Porygon2 / Sharpedo / Melmetal / Tapu Koko                    |    2 |   3.57% | 100.00% |
+| 76   | Porygon2 / Sharpedo / Dragonite / Tapu Koko                   |    2 |   3.57% | 100.00% |
+| 76   | Dragonite / Porygon2 / Sharpedo / Melmetal                    |    2 |   3.57% | 100.00% |
+| 76   | Kartana / Gardevoir / Cinderace / Tyrantrum                   |    2 |   3.57% | 100.00% |
+| 76   | Cinderace / Scizor / Garchomp / Blastoise                     |    2 |   3.57% |  50.00% |
+| 76   | Cinderace / Togekiss / Garchomp / Blastoise                   |    2 |   3.57% |  50.00% |
+| 76   | Cinderace / Togekiss / Scizor / Blastoise                     |    2 |   3.57% |  50.00% |
+| 76   | Necrozma / Landorus-Therian / Lopunny / Kyurem                |    2 |   3.57% |  50.00% |
+| 76   | Necrozma / Klefki / Lopunny / Landorus-Therian                |    2 |   3.57% |  50.00% |
+| 76   | Necrozma / Araquanid / Lopunny / Landorus-Therian             |    2 |   3.57% |  50.00% |
+| 76   | Necrozma / Klefki / Landorus-Therian / Kyurem                 |    2 |   3.57% |  50.00% |
+| 76   | Necrozma / Araquanid / Landorus-Therian / Kyurem              |    2 |   3.57% |  50.00% |
+| 76   | Araquanid / Klefki / Landorus-Therian / Necrozma              |    2 |   3.57% |  50.00% |
+| 76   | Vileplume / Zeraora / Garchomp / Mew                          |    2 |   3.57% |  50.00% |
+| 76   | Vileplume / Infernape / Garchomp / Mew                        |    2 |   3.57% |  50.00% |
+| 76   | Vileplume / Zeraora / Garchomp / Infernape                    |    2 |   3.57% |  50.00% |
+| 76   | Celebi / Heatran / Zeraora / Tapu Fini                        |    2 |   3.57% |  50.00% |
+| 76   | Celebi / Heatran / Zeraora / Gallade                          |    2 |   3.57% |  50.00% |
+| 76   | Celebi / Zeraora / Tapu Fini / Gallade                        |    2 |   3.57% |  50.00% |
+| 76   | Celebi / Heatran / Tapu Fini / Gallade                        |    2 |   3.57% |  50.00% |
+| 76   | Cinderace / Scizor / Garchomp / Muk-Alola                     |    2 |   3.57% |  50.00% |
+| 76   | Cinderace / Togekiss / Garchomp / Muk-Alola                   |    2 |   3.57% |  50.00% |
+| 76   | Cinderace / Togekiss / Scizor / Muk-Alola                     |    2 |   3.57% |  50.00% |
+| 76   | Cobalion / Rillaboom / Mew / Diancie                          |    2 |   3.57% |  50.00% |
+| 76   | Cobalion / Swampert / Mew / Diancie                           |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Cobalion / Mew / Diancie                         |    2 |   3.57% |  50.00% |
+| 76   | Swampert / Rillaboom / Mew / Cobalion                         |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Cobalion / Rillaboom / Mew                       |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Swampert / Mew / Cobalion                        |    2 |   3.57% |  50.00% |
+| 76   | Swampert / Rillaboom / Diancie / Cobalion                     |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Cobalion / Rillaboom / Diancie                   |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Swampert / Diancie / Cobalion                    |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Cobalion / Rillaboom / Swampert                  |    2 |   3.57% |  50.00% |
+| 76   | Weavile / Melmetal / Eldegoss / Landorus                      |    2 |   3.57% |  50.00% |
+| 76   | Beedrill / Weavile / Melmetal / Eldegoss                      |    2 |   3.57% |  50.00% |
+| 76   | Weavile / Eldegoss / Beedrill / Landorus                      |    2 |   3.57% |  50.00% |
+| 76   | Beedrill / Melmetal / Eldegoss / Landorus                     |    2 |   3.57% |  50.00% |
+| 76   | Deoxys-Speed / Aegislash / Landorus-Therian / Glalie          |    2 |   3.57% |  50.00% |
+| 76   | Deoxys-Speed / Rotom-Wash / Landorus-Therian / Glalie         |    2 |   3.57% |  50.00% |
+| 76   | Aegislash / Rotom-Wash / Landorus-Therian / Glalie            |    2 |   3.57% |  50.00% |
+| 76   | Deoxys-Speed / Aegislash / Rotom-Wash / Glalie                |    2 |   3.57% |  50.00% |
+| 76   | Klefki / Lopunny / Skuntank / Kyurem                          |    2 |   3.57% |  50.00% |
+| 76   | Araquanid / Lopunny / Skuntank / Kyurem                       |    2 |   3.57% |  50.00% |
+| 76   | Araquanid / Klefki / Lopunny / Skuntank                       |    2 |   3.57% |  50.00% |
+| 76   | Klefki / Araquanid / Skuntank / Kyurem                        |    2 |   3.57% |  50.00% |
+| 76   | Weavile / Uxie / Melmetal / Landorus                          |    2 |   3.57% |  50.00% |
+| 76   | Weavile / Uxie / Melmetal / Beedrill                          |    2 |   3.57% |  50.00% |
+| 76   | Weavile / Uxie / Beedrill / Landorus                          |    2 |   3.57% |  50.00% |
+| 76   | Uxie / Melmetal / Beedrill / Landorus                         |    2 |   3.57% |  50.00% |
+| 76   | Vileplume / Zeraora / Primarina / Mew                         |    2 |   3.57% |  50.00% |
+| 76   | Vileplume / Infernape / Primarina / Mew                       |    2 |   3.57% |  50.00% |
+| 76   | Vileplume / Zeraora / Primarina / Infernape                   |    2 |   3.57% |  50.00% |
+| 76   | Pelipper / Swampert / Tapu Koko / Ferrothorn                  |    2 |   3.57% |  50.00% |
+| 76   | Kabutops / Swampert / Tapu Koko / Ferrothorn                  |    2 |   3.57% |  50.00% |
+| 76   | Pelipper / Kabutops / Tapu Koko / Ferrothorn                  |    2 |   3.57% |  50.00% |
+| 76   | Pelipper / Kabutops / Tapu Koko / Swampert                    |    2 |   3.57% |  50.00% |
+| 76   | Kabutops / Swampert / Pelipper / Ferrothorn                   |    2 |   3.57% |  50.00% |
+| 76   | Heatran / Tapu Fini / Mandibuzz / Gallade                     |    2 |   3.57% |  50.00% |
+| 76   | Crawdaunt / Tapu Fini / Mandibuzz / Gallade                   |    2 |   3.57% |  50.00% |
+| 76   | Heatran / Crawdaunt / Tapu Fini / Gallade                     |    2 |   3.57% |  50.00% |
+| 76   | Heatran / Crawdaunt / Mandibuzz / Gallade                     |    2 |   3.57% |  50.00% |
+| 76   | Heatran / Crawdaunt / Tapu Fini / Mandibuzz                   |    2 |   3.57% |  50.00% |
+| 76   | Zeraora / Garchomp / Primarina / Mew                          |    2 |   3.57% |  50.00% |
+| 76   | Infernape / Garchomp / Primarina / Mew                        |    2 |   3.57% |  50.00% |
+| 76   | Zeraora / Garchomp / Primarina / Infernape                    |    2 |   3.57% |  50.00% |
+| 76   | Muk-Alola / Scizor / Garchomp / Blastoise                     |    2 |   3.57% |  50.00% |
+| 76   | Muk-Alola / Togekiss / Garchomp / Blastoise                   |    2 |   3.57% |  50.00% |
+| 76   | Muk-Alola / Togekiss / Scizor / Blastoise                     |    2 |   3.57% |  50.00% |
+| 76   | Thundurus / Swampert / Mew / Diancie                          |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Thundurus / Mew / Diancie                        |    2 |   3.57% |  50.00% |
+| 76   | Thundurus / Rillaboom / Mew / Diancie                         |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Thundurus / Swampert / Mew                       |    2 |   3.57% |  50.00% |
+| 76   | Thundurus / Swampert / Rillaboom / Mew                        |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Thundurus / Rillaboom / Mew                      |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Thundurus / Swampert / Diancie                   |    2 |   3.57% |  50.00% |
+| 76   | Thundurus / Swampert / Rillaboom / Diancie                    |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Thundurus / Rillaboom / Diancie                  |    2 |   3.57% |  50.00% |
+| 76   | Greninja-* / Thundurus / Rillaboom / Swampert                 |    2 |   3.57% |  50.00% |
+| 76   | Cinderace / Mesprit / Scizor / Garchomp                       |    2 |   3.57% |   0.00% |
+| 76   | Cinderace / Togekiss / Mesprit / Garchomp                     |    2 |   3.57% |   0.00% |
+| 76   | Mesprit / Scizor / Garchomp / Blastoise                       |    2 |   3.57% |   0.00% |
+| 76   | Togekiss / Mesprit / Garchomp / Blastoise                     |    2 |   3.57% |   0.00% |
+| 76   | Cinderace / Togekiss / Mesprit / Scizor                       |    2 |   3.57% |   0.00% |
+| 76   | Mesprit / Togekiss / Scizor / Blastoise                       |    2 |   3.57% |   0.00% |
+| 76   | Greninja-* / Seismitoad / Zapdos / Diancie                    |    2 |   3.57% |   0.00% |
+| 76   | Greninja-* / Zapdos / Diancie / Incineroar                    |    2 |   3.57% |   0.00% |
+| 76   | Seismitoad / Zapdos / Diancie / Incineroar                    |    2 |   3.57% |   0.00% |
+| 76   | Greninja-* / Seismitoad / Diancie / Incineroar                |    2 |   3.57% |   0.00% |
+| 76   | Greninja-* / Seismitoad / Zapdos / Incineroar                 |    2 |   3.57% |   0.00% |
+| 76   | Skarmory / Zeraora / Infernape / Mew                          |    2 |   3.57% |   0.00% |
+| 76   | Vileplume / Skarmory / Zeraora / Mew                          |    2 |   3.57% |   0.00% |
+| 76   | Vileplume / Skarmory / Infernape / Mew                        |    2 |   3.57% |   0.00% |
+| 76   | Vileplume / Skarmory / Zeraora / Infernape                    |    2 |   3.57% |   0.00% |
+| 76   | Muk-Alola / Mesprit / Scizor / Garchomp                       |    2 |   3.57% |   0.00% |
+| 76   | Muk-Alola / Togekiss / Mesprit / Garchomp                     |    2 |   3.57% |   0.00% |
+| 76   | Muk-Alola / Togekiss / Mesprit / Scizor                       |    2 |   3.57% |   0.00% |
+| 185  | Tyranitar / Garchomp / Celesteela / Rotom-Wash                |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Tyranitar / Garchomp / Rotom-Wash                 |    1 |   1.79% | 100.00% |
+| 185  | Tyranitar / Garchomp / Zapdos-Galar / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Tyranitar / Garchomp / Celesteela                 |    1 |   1.79% | 100.00% |
+| 185  | Tyranitar / Garchomp / Celesteela / Zapdos-Galar              |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Tyranitar / Garchomp / Zapdos-Galar               |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Tyranitar / Celesteela / Rotom-Wash               |    1 |   1.79% | 100.00% |
+| 185  | Zapdos-Galar / Tyranitar / Celesteela / Rotom-Wash            |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Tyranitar / Zapdos-Galar / Rotom-Wash             |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Tyranitar / Celesteela / Zapdos-Galar             |    1 |   1.79% | 100.00% |
+| 185  | Celebi / Heatran / Zeraora / Corviknight                      |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Corviknight / Zeraora / Tapu Fini                   |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Zeraora / Corviknight / Gallade                     |    1 |   1.79% | 100.00% |
+| 185  | Celebi / Corviknight / Zeraora / Tapu Fini                    |    1 |   1.79% | 100.00% |
+| 185  | Celebi / Zeraora / Corviknight / Gallade                      |    1 |   1.79% | 100.00% |
+| 185  | Corviknight / Zeraora / Tapu Fini / Gallade                   |    1 |   1.79% | 100.00% |
+| 185  | Celebi / Heatran / Corviknight / Tapu Fini                    |    1 |   1.79% | 100.00% |
+| 185  | Celebi / Heatran / Corviknight / Gallade                      |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Corviknight / Tapu Fini / Gallade                   |    1 |   1.79% | 100.00% |
+| 185  | Celebi / Corviknight / Tapu Fini / Gallade                    |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Zygarde-10% / Landorus-Therian / Rotom-Wash       |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Zygarde-10% / Landorus-Therian / Deoxys-Speed     |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Zygarde-10% / Moltres-Galar / Landorus-Therian    |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Zygarde-10% / Deoxys-Speed / Rotom-Wash           |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Zygarde-10% / Moltres-Galar / Rotom-Wash          |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Zygarde-10% / Moltres-Galar / Deoxys-Speed        |    1 |   1.79% | 100.00% |
+| 185  | Deoxys-Speed / Zygarde-10% / Landorus-Therian / Rotom-Wash    |    1 |   1.79% | 100.00% |
+| 185  | Zygarde-10% / Moltres-Galar / Landorus-Therian / Rotom-Wash   |    1 |   1.79% | 100.00% |
+| 185  | Zygarde-10% / Moltres-Galar / Landorus-Therian / Deoxys-Speed |    1 |   1.79% | 100.00% |
+| 185  | Deoxys-Speed / Zygarde-10% / Moltres-Galar / Rotom-Wash       |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Seismitoad / Melmetal / Tapu Koko                      |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Seismitoad / Dragonite / Tapu Koko                     |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Sharpedo / Seismitoad / Tapu Koko                      |    1 |   1.79% | 100.00% |
+| 185  | Dragonite / Uxie / Seismitoad / Melmetal                      |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Sharpedo / Melmetal / Seismitoad                       |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Sharpedo / Dragonite / Seismitoad                      |    1 |   1.79% | 100.00% |
+| 185  | Amoonguss / Deoxys-Defense / Mienshao / Mawile                |    1 |   1.79% | 100.00% |
+| 185  | Swampert / Deoxys-Defense / Mienshao / Mawile                 |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Deoxys-Defense / Mienshao / Mawile         |    1 |   1.79% | 100.00% |
+| 185  | Swampert / Amoonguss / Deoxys-Defense / Mawile                |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Amoonguss / Deoxys-Defense / Mawile        |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Swampert / Deoxys-Defense / Mawile         |    1 |   1.79% | 100.00% |
+| 185  | Amoonguss / Deoxys-Defense / Mienshao / Swampert              |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Amoonguss / Deoxys-Defense / Mienshao      |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Deoxys-Defense / Mienshao / Swampert       |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Amoonguss / Deoxys-Defense / Swampert      |    1 |   1.79% | 100.00% |
+| 185  | Amoonguss / Swampert / Mienshao / Mawile                      |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Amoonguss / Mienshao / Mawile              |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Swampert / Mienshao / Mawile               |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Amoonguss / Swampert / Mawile              |    1 |   1.79% | 100.00% |
+| 185  | Tornadus-Therian / Amoonguss / Mienshao / Swampert            |    1 |   1.79% | 100.00% |
+| 185  | Seismitoad / Melmetal / Tapu Koko / Porygon2                  |    1 |   1.79% | 100.00% |
+| 185  | Seismitoad / Dragonite / Tapu Koko / Porygon2                 |    1 |   1.79% | 100.00% |
+| 185  | Seismitoad / Sharpedo / Tapu Koko / Porygon2                  |    1 |   1.79% | 100.00% |
+| 185  | Dragonite / Seismitoad / Melmetal / Porygon2                  |    1 |   1.79% | 100.00% |
+| 185  | Seismitoad / Sharpedo / Melmetal / Porygon2                   |    1 |   1.79% | 100.00% |
+| 185  | Seismitoad / Sharpedo / Dragonite / Porygon2                  |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Serperior / Celesteela / Rotom-Wash               |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Serperior / Garchomp / Celesteela                 |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Serperior / Celesteela / Zapdos-Galar             |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Serperior / Garchomp / Rotom-Wash                 |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Serperior / Zapdos-Galar / Rotom-Wash             |    1 |   1.79% | 100.00% |
+| 185  | Porygon-Z / Serperior / Garchomp / Zapdos-Galar               |    1 |   1.79% | 100.00% |
+| 185  | Serperior / Garchomp / Celesteela / Rotom-Wash                |    1 |   1.79% | 100.00% |
+| 185  | Serperior / Zapdos-Galar / Celesteela / Rotom-Wash            |    1 |   1.79% | 100.00% |
+| 185  | Serperior / Garchomp / Celesteela / Zapdos-Galar              |    1 |   1.79% | 100.00% |
+| 185  | Serperior / Garchomp / Zapdos-Galar / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 185  | Glalie / Moltres-Galar / Landorus-Therian / Rotom-Wash        |    1 |   1.79% | 100.00% |
+| 185  | Deoxys-Speed / Moltres-Galar / Glalie / Rotom-Wash            |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Moltres-Galar / Glalie / Rotom-Wash               |    1 |   1.79% | 100.00% |
+| 185  | Deoxys-Speed / Moltres-Galar / Landorus-Therian / Glalie      |    1 |   1.79% | 100.00% |
+| 185  | Aegislash / Moltres-Galar / Landorus-Therian / Glalie         |    1 |   1.79% | 100.00% |
+| 185  | Deoxys-Speed / Aegislash / Moltres-Galar / Glalie             |    1 |   1.79% | 100.00% |
+| 185  | Weavile / Uxie / Melmetal / Eldegoss                          |    1 |   1.79% | 100.00% |
+| 185  | Weavile / Uxie / Eldegoss / Landorus                          |    1 |   1.79% | 100.00% |
+| 185  | Weavile / Uxie / Eldegoss / Beedrill                          |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Melmetal / Eldegoss / Landorus                         |    1 |   1.79% | 100.00% |
+| 185  | Eldegoss / Uxie / Melmetal / Beedrill                         |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Eldegoss / Beedrill / Landorus                         |    1 |   1.79% | 100.00% |
+| 185  | Swampert / Dragonite / Tapu Koko / Ferrothorn                 |    1 |   1.79% | 100.00% |
+| 185  | Pelipper / Dragonite / Tapu Koko / Ferrothorn                 |    1 |   1.79% | 100.00% |
+| 185  | Kabutops / Dragonite / Tapu Koko / Ferrothorn                 |    1 |   1.79% | 100.00% |
+| 185  | Pelipper / Dragonite / Tapu Koko / Swampert                   |    1 |   1.79% | 100.00% |
+| 185  | Kabutops / Dragonite / Tapu Koko / Swampert                   |    1 |   1.79% | 100.00% |
+| 185  | Kabutops / Dragonite / Tapu Koko / Pelipper                   |    1 |   1.79% | 100.00% |
+| 185  | Swampert / Dragonite / Pelipper / Ferrothorn                  |    1 |   1.79% | 100.00% |
+| 185  | Kabutops / Swampert / Dragonite / Ferrothorn                  |    1 |   1.79% | 100.00% |
+| 185  | Kabutops / Dragonite / Pelipper / Ferrothorn                  |    1 |   1.79% | 100.00% |
+| 185  | Kabutops / Dragonite / Pelipper / Swampert                    |    1 |   1.79% | 100.00% |
+| 185  | Zeraora / Tapu Fini / Mandibuzz / Gallade                     |    1 |   1.79% | 100.00% |
+| 185  | Crawdaunt / Zeraora / Tapu Fini / Gallade                     |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Zeraora / Mandibuzz / Gallade                       |    1 |   1.79% | 100.00% |
+| 185  | Crawdaunt / Zeraora / Mandibuzz / Gallade                     |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Crawdaunt / Zeraora / Gallade                       |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Zeraora / Tapu Fini / Mandibuzz                     |    1 |   1.79% | 100.00% |
+| 185  | Crawdaunt / Zeraora / Tapu Fini / Mandibuzz                   |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Crawdaunt / Zeraora / Tapu Fini                     |    1 |   1.79% | 100.00% |
+| 185  | Heatran / Crawdaunt / Zeraora / Mandibuzz                     |    1 |   1.79% | 100.00% |
+| 185  | Vileplume / Garchomp / Primarina / Mew                        |    1 |   1.79% | 100.00% |
+| 185  | Vileplume / Zeraora / Garchomp / Primarina                    |    1 |   1.79% | 100.00% |
+| 185  | Vileplume / Garchomp / Primarina / Infernape                  |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Gardevoir / Corviknight / Tyrantrum                 |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Gardevoir / Conkeldurr / Tyrantrum                  |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Cinderace / Corviknight / Tyrantrum                 |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Conkeldurr / Corviknight / Tyrantrum                |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Cinderace / Conkeldurr / Tyrantrum                  |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Gardevoir / Corviknight / Tyrantrum               |    1 |   1.79% | 100.00% |
+| 185  | Conkeldurr / Gardevoir / Corviknight / Tyrantrum              |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Gardevoir / Conkeldurr / Tyrantrum                |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Conkeldurr / Corviknight / Tyrantrum              |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Gardevoir / Corviknight / Conkeldurr                |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Gardevoir / Cinderace / Conkeldurr                  |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Cinderace / Corviknight / Conkeldurr                |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Gardevoir / Corviknight / Conkeldurr              |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Muk-Alola / Garchomp / Blastoise                  |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Scizor / Blastoise / Muk-Alola                    |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Togekiss / Blastoise / Muk-Alola                  |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Melmetal / Tapu Koko / Porygon2                        |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Dragonite / Tapu Koko / Porygon2                       |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Sharpedo / Tapu Koko / Porygon2                        |    1 |   1.79% | 100.00% |
+| 185  | Dragonite / Uxie / Melmetal / Porygon2                        |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Sharpedo / Melmetal / Porygon2                         |    1 |   1.79% | 100.00% |
+| 185  | Uxie / Sharpedo / Dragonite / Porygon2                        |    1 |   1.79% | 100.00% |
+| 185  | Landorus-Therian / Lopunny / Skuntank / Kyurem                |    1 |   1.79% | 100.00% |
+| 185  | Klefki / Landorus-Therian / Skuntank / Kyurem                 |    1 |   1.79% | 100.00% |
+| 185  | Araquanid / Landorus-Therian / Skuntank / Kyurem              |    1 |   1.79% | 100.00% |
+| 185  | Klefki / Lopunny / Skuntank / Landorus-Therian                |    1 |   1.79% | 100.00% |
+| 185  | Araquanid / Lopunny / Skuntank / Landorus-Therian             |    1 |   1.79% | 100.00% |
+| 185  | Araquanid / Klefki / Landorus-Therian / Skuntank              |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Gardevoir / Tyrantrum / Gliscor                     |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Gardevoir / Tyrantrum / Toxapex                     |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Cinderace / Tyrantrum / Gliscor                     |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Cinderace / Tyrantrum / Toxapex                     |    1 |   1.79% | 100.00% |
+| 185  | Kartana / Toxapex / Tyrantrum / Gliscor                       |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Gardevoir / Tyrantrum / Gliscor                   |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Gardevoir / Tyrantrum / Toxapex                   |    1 |   1.79% | 100.00% |
+| 185  | Gardevoir / Tyrantrum / Gliscor / Toxapex                     |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Toxapex / Tyrantrum / Gliscor                     |    1 |   1.79% | 100.00% |
+| 185  | Cinderace / Mesprit / Garchomp / Blastoise                    |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Mesprit / Scizor / Blastoise                      |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Togekiss / Mesprit / Blastoise                    |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Cinderace / Blastoise / Gliscor                     |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Cinderace / Gliscor / Aerodactyl                    |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Bronzong / Cinderace / Gliscor                      |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Cinderace / Blastoise / Aerodactyl                  |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Bronzong / Cinderace / Blastoise                    |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Bronzong / Cinderace / Aerodactyl                   |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Aerodactyl / Blastoise / Gliscor                    |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Bronzong / Blastoise / Gliscor                      |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Bronzong / Aerodactyl / Gliscor                     |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Bronzong / Aerodactyl / Blastoise                   |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Aerodactyl / Blastoise / Gliscor                  |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Bronzong / Blastoise / Gliscor                    |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Bronzong / Aerodactyl / Gliscor                   |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Bronzong / Aerodactyl / Blastoise                 |    1 |   1.79% |   0.00% |
+| 185  | Bronzong / Aerodactyl / Blastoise / Gliscor                   |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Scizor / Zapdos / Diancie                        |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Scizor / Zapdos / Diancie                        |    1 |   1.79% |   0.00% |
+| 185  | Scizor / Zapdos / Diancie / Incineroar                        |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Seismitoad / Scizor / Diancie                    |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Scizor / Diancie / Incineroar                    |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Scizor / Diancie / Incineroar                    |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Seismitoad / Scizor / Zapdos                     |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Scizor / Zapdos / Incineroar                     |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Scizor / Zapdos / Incineroar                     |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Seismitoad / Scizor / Incineroar                 |    1 |   1.79% |   0.00% |
+| 185  | Skarmory / Zeraora / Garchomp / Mew                           |    1 |   1.79% |   0.00% |
+| 185  | Skarmory / Infernape / Garchomp / Mew                         |    1 |   1.79% |   0.00% |
+| 185  | Vileplume / Skarmory / Garchomp / Mew                         |    1 |   1.79% |   0.00% |
+| 185  | Skarmory / Zeraora / Garchomp / Infernape                     |    1 |   1.79% |   0.00% |
+| 185  | Vileplume / Skarmory / Zeraora / Garchomp                     |    1 |   1.79% |   0.00% |
+| 185  | Vileplume / Skarmory / Garchomp / Infernape                   |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Mesprit / Garchomp / Muk-Alola                    |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Mesprit / Scizor / Muk-Alola                      |    1 |   1.79% |   0.00% |
+| 185  | Cinderace / Togekiss / Mesprit / Muk-Alola                    |    1 |   1.79% |   0.00% |
+| 185  | Tornadus-Therian / Scizor / Victini / Landorus                |    1 |   1.79% |   0.00% |
+| 185  | Primarina / Tornadus-Therian / Victini / Landorus             |    1 |   1.79% |   0.00% |
+| 185  | Tornadus-Therian / Victini / Landorus / Regirock              |    1 |   1.79% |   0.00% |
+| 185  | Tornadus-Therian / Scizor / Primarina / Landorus              |    1 |   1.79% |   0.00% |
+| 185  | Tornadus-Therian / Scizor / Landorus / Regirock               |    1 |   1.79% |   0.00% |
+| 185  | Tornadus-Therian / Primarina / Landorus / Regirock            |    1 |   1.79% |   0.00% |
+| 185  | Primarina / Tornadus-Therian / Scizor / Victini               |    1 |   1.79% |   0.00% |
+| 185  | Tornadus-Therian / Scizor / Victini / Regirock                |    1 |   1.79% |   0.00% |
+| 185  | Primarina / Tornadus-Therian / Victini / Regirock             |    1 |   1.79% |   0.00% |
+| 185  | Tornadus-Therian / Scizor / Primarina / Regirock              |    1 |   1.79% |   0.00% |
+| 185  | Primarina / Scizor / Victini / Landorus                       |    1 |   1.79% |   0.00% |
+| 185  | Scizor / Victini / Landorus / Regirock                        |    1 |   1.79% |   0.00% |
+| 185  | Primarina / Victini / Landorus / Regirock                     |    1 |   1.79% |   0.00% |
+| 185  | Scizor / Primarina / Landorus / Regirock                      |    1 |   1.79% |   0.00% |
+| 185  | Primarina / Scizor / Victini / Regirock                       |    1 |   1.79% |   0.00% |
+| 185  | Drampa / Weavile / Melmetal / Landorus                        |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Melmetal / Eldegoss / Drampa                        |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Melmetal / Beedrill / Drampa                        |    1 |   1.79% |   0.00% |
+| 185  | Drampa / Weavile / Eldegoss / Landorus                        |    1 |   1.79% |   0.00% |
+| 185  | Drampa / Weavile / Beedrill / Landorus                        |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Eldegoss / Beedrill / Drampa                        |    1 |   1.79% |   0.00% |
+| 185  | Drampa / Melmetal / Eldegoss / Landorus                       |    1 |   1.79% |   0.00% |
+| 185  | Drampa / Melmetal / Beedrill / Landorus                       |    1 |   1.79% |   0.00% |
+| 185  | Beedrill / Melmetal / Eldegoss / Drampa                       |    1 |   1.79% |   0.00% |
+| 185  | Drampa / Eldegoss / Beedrill / Landorus                       |    1 |   1.79% |   0.00% |
+| 185  | Deoxys-Speed / Landorus-Therian / Whimsicott / Glalie         |    1 |   1.79% |   0.00% |
+| 185  | Aegislash / Landorus-Therian / Whimsicott / Glalie            |    1 |   1.79% |   0.00% |
+| 185  | Rotom-Wash / Landorus-Therian / Whimsicott / Glalie           |    1 |   1.79% |   0.00% |
+| 185  | Aegislash / Landorus-Therian / Whimsicott / Deoxys-Speed      |    1 |   1.79% |   0.00% |
+| 185  | Rotom-Wash / Landorus-Therian / Whimsicott / Deoxys-Speed     |    1 |   1.79% |   0.00% |
+| 185  | Aegislash / Landorus-Therian / Whimsicott / Rotom-Wash        |    1 |   1.79% |   0.00% |
+| 185  | Deoxys-Speed / Aegislash / Whimsicott / Glalie                |    1 |   1.79% |   0.00% |
+| 185  | Deoxys-Speed / Rotom-Wash / Whimsicott / Glalie               |    1 |   1.79% |   0.00% |
+| 185  | Aegislash / Rotom-Wash / Whimsicott / Glalie                  |    1 |   1.79% |   0.00% |
+| 185  | Aegislash / Rotom-Wash / Whimsicott / Deoxys-Speed            |    1 |   1.79% |   0.00% |
+| 185  | Mudsdale / Zeraora / Tapu Fini / Gallade                      |    1 |   1.79% |   0.00% |
+| 185  | Celebi / Mudsdale / Zeraora / Gallade                         |    1 |   1.79% |   0.00% |
+| 185  | Heatran / Mudsdale / Zeraora / Gallade                        |    1 |   1.79% |   0.00% |
+| 185  | Celebi / Mudsdale / Tapu Fini / Gallade                       |    1 |   1.79% |   0.00% |
+| 185  | Heatran / Mudsdale / Tapu Fini / Gallade                      |    1 |   1.79% |   0.00% |
+| 185  | Celebi / Heatran / Mudsdale / Gallade                         |    1 |   1.79% |   0.00% |
+| 185  | Celebi / Mudsdale / Zeraora / Tapu Fini                       |    1 |   1.79% |   0.00% |
+| 185  | Heatran / Mudsdale / Zeraora / Tapu Fini                      |    1 |   1.79% |   0.00% |
+| 185  | Celebi / Heatran / Mudsdale / Zeraora                         |    1 |   1.79% |   0.00% |
+| 185  | Celebi / Heatran / Mudsdale / Tapu Fini                       |    1 |   1.79% |   0.00% |
+| 185  | Necrozma / Lopunny / Skuntank / Kyurem                        |    1 |   1.79% |   0.00% |
+| 185  | Klefki / Lopunny / Skuntank / Necrozma                        |    1 |   1.79% |   0.00% |
+| 185  | Araquanid / Lopunny / Skuntank / Necrozma                     |    1 |   1.79% |   0.00% |
+| 185  | Necrozma / Klefki / Skuntank / Kyurem                         |    1 |   1.79% |   0.00% |
+| 185  | Necrozma / Araquanid / Skuntank / Kyurem                      |    1 |   1.79% |   0.00% |
+| 185  | Klefki / Araquanid / Skuntank / Necrozma                      |    1 |   1.79% |   0.00% |
+| 185  | Skarmory / Zeraora / Primarina / Mew                          |    1 |   1.79% |   0.00% |
+| 185  | Skarmory / Infernape / Primarina / Mew                        |    1 |   1.79% |   0.00% |
+| 185  | Vileplume / Skarmory / Primarina / Mew                        |    1 |   1.79% |   0.00% |
+| 185  | Skarmory / Zeraora / Primarina / Infernape                    |    1 |   1.79% |   0.00% |
+| 185  | Vileplume / Skarmory / Zeraora / Primarina                    |    1 |   1.79% |   0.00% |
+| 185  | Vileplume / Skarmory / Primarina / Infernape                  |    1 |   1.79% |   0.00% |
+| 185  | Necrozma / Eelektross / Lopunny / Kyurem                      |    1 |   1.79% |   0.00% |
+| 185  | Necrozma / Klefki / Eelektross / Kyurem                       |    1 |   1.79% |   0.00% |
+| 185  | Necrozma / Eelektross / Araquanid / Kyurem                    |    1 |   1.79% |   0.00% |
+| 185  | Klefki / Lopunny / Eelektross / Kyurem                        |    1 |   1.79% |   0.00% |
+| 185  | Araquanid / Eelektross / Lopunny / Kyurem                     |    1 |   1.79% |   0.00% |
+| 185  | Klefki / Araquanid / Eelektross / Kyurem                      |    1 |   1.79% |   0.00% |
+| 185  | Klefki / Lopunny / Eelektross / Necrozma                      |    1 |   1.79% |   0.00% |
+| 185  | Araquanid / Eelektross / Lopunny / Necrozma                   |    1 |   1.79% |   0.00% |
+| 185  | Klefki / Araquanid / Eelektross / Necrozma                    |    1 |   1.79% |   0.00% |
+| 185  | Araquanid / Klefki / Lopunny / Eelektross                     |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Melmetal / Keldeo / Landorus                        |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Uxie / Melmetal / Keldeo                            |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Melmetal / Beedrill / Keldeo                        |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Uxie / Keldeo / Landorus                            |    1 |   1.79% |   0.00% |
+| 185  | Beedrill / Weavile / Keldeo / Landorus                        |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Uxie / Beedrill / Keldeo                            |    1 |   1.79% |   0.00% |
+| 185  | Uxie / Melmetal / Keldeo / Landorus                           |    1 |   1.79% |   0.00% |
+| 185  | Beedrill / Melmetal / Keldeo / Landorus                       |    1 |   1.79% |   0.00% |
+| 185  | Uxie / Melmetal / Beedrill / Keldeo                           |    1 |   1.79% |   0.00% |
+| 185  | Beedrill / Uxie / Keldeo / Landorus                           |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Whimsicott / Zapdos / Diancie                    |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Greninja-* / Whimsicott / Diancie                |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Whimsicott / Diancie / Incineroar                |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Whimsicott / Zapdos / Diancie                    |    1 |   1.79% |   0.00% |
+| 185  | Whimsicott / Zapdos / Diancie / Incineroar                    |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Whimsicott / Diancie / Incineroar                |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Greninja-* / Whimsicott / Zapdos                 |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Whimsicott / Zapdos / Incineroar                 |    1 |   1.79% |   0.00% |
+| 185  | Seismitoad / Greninja-* / Whimsicott / Incineroar             |    1 |   1.79% |   0.00% |
+| 185  | Greninja-* / Whimsicott / Zapdos / Incineroar                 |    1 |   1.79% |   0.00% |
+| 185  | Mesprit / Garchomp / Celesteela / Rotom-Wash                  |    1 |   1.79% |   0.00% |
+| 185  | Porygon-Z / Mesprit / Garchomp / Celesteela                   |    1 |   1.79% |   0.00% |
+| 185  | Mesprit / Garchomp / Celesteela / Zapdos-Galar                |    1 |   1.79% |   0.00% |
+| 185  | Porygon-Z / Mesprit / Garchomp / Rotom-Wash                   |    1 |   1.79% |   0.00% |
+| 185  | Mesprit / Garchomp / Zapdos-Galar / Rotom-Wash                |    1 |   1.79% |   0.00% |
+| 185  | Porygon-Z / Mesprit / Garchomp / Zapdos-Galar                 |    1 |   1.79% |   0.00% |
+| 185  | Porygon-Z / Mesprit / Celesteela / Rotom-Wash                 |    1 |   1.79% |   0.00% |
+| 185  | Zapdos-Galar / Mesprit / Celesteela / Rotom-Wash              |    1 |   1.79% |   0.00% |
+| 185  | Porygon-Z / Mesprit / Celesteela / Zapdos-Galar               |    1 |   1.79% |   0.00% |
+| 185  | Porygon-Z / Mesprit / Zapdos-Galar / Rotom-Wash               |    1 |   1.79% |   0.00% |
+| 185  | Pelipper / Hoopa-Unbound / Tapu Koko / Swampert               |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Kabutops / Tapu Koko / Swampert               |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Ferrothorn / Tapu Koko / Swampert             |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Kabutops / Tapu Koko / Pelipper               |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Ferrothorn / Tapu Koko / Pelipper             |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Kabutops / Tapu Koko / Ferrothorn             |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Kabutops / Pelipper / Swampert                |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Ferrothorn / Pelipper / Swampert              |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Ferrothorn / Kabutops / Swampert              |    1 |   1.79% |   0.00% |
+| 185  | Hoopa-Unbound / Ferrothorn / Kabutops / Pelipper              |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Lopunny / Eldegoss / Gliscor                        |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Gengar / Eldegoss / Gliscor                         |    1 |   1.79% |   0.00% |
+| 185  | Celesteela / Weavile / Eldegoss / Gliscor                     |    1 |   1.79% |   0.00% |
+| 185  | Gengar / Lopunny / Eldegoss / Gliscor                         |    1 |   1.79% |   0.00% |
+| 185  | Celesteela / Lopunny / Eldegoss / Gliscor                     |    1 |   1.79% |   0.00% |
+| 185  | Celesteela / Gengar / Eldegoss / Gliscor                      |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Gengar / Lopunny / Eldegoss                         |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Lopunny / Eldegoss / Celesteela                     |    1 |   1.79% |   0.00% |
+| 185  | Weavile / Gengar / Eldegoss / Celesteela                      |    1 |   1.79% |   0.00% |
+| 185  | Gengar / Lopunny / Eldegoss / Celesteela                      |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Heatran / Mandibuzz / Gallade                     |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Crawdaunt / Mandibuzz / Gallade                   |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Tapu Fini / Mandibuzz / Gallade                   |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Heatran / Crawdaunt / Gallade                     |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Heatran / Tapu Fini / Gallade                     |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Crawdaunt / Tapu Fini / Gallade                   |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Heatran / Crawdaunt / Mandibuzz                   |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Heatran / Tapu Fini / Mandibuzz                   |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Crawdaunt / Tapu Fini / Mandibuzz                 |    1 |   1.79% |   0.00% |
+| 185  | Nidoqueen / Heatran / Crawdaunt / Tapu Fini                   |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Zeraora / Garchomp / Mew                          |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Zeraora / Primarina / Mew                         |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Zeraora / Infernape / Mew                         |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Garchomp / Primarina / Mew                        |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Infernape / Garchomp / Mew                        |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Infernape / Primarina / Mew                       |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Zeraora / Garchomp / Primarina                    |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Zeraora / Garchomp / Infernape                    |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Zeraora / Primarina / Infernape                   |    1 |   1.79% |   0.00% |
+| 185  | Crawdaunt / Garchomp / Primarina / Infernape                  |    1 |   1.79% |   0.00% |
+| 185  | Muk-Alola / Mesprit / Garchomp / Blastoise                    |    1 |   1.79% |   0.00% |
+| 185  | Muk-Alola / Mesprit / Scizor / Blastoise                      |    1 |   1.79% |   0.00% |
+| 185  | Muk-Alola / Togekiss / Mesprit / Blastoise                    |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Blastoise / Zapdos / Froslass                       |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Tapu Lele / Blastoise / Froslass                    |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Nihilego / Blastoise / Froslass                     |    1 |   1.79% |   0.00% |
+| 185  | Tapu Lele / Blastoise / Zapdos / Froslass                     |    1 |   1.79% |   0.00% |
+| 185  | Nihilego / Blastoise / Zapdos / Froslass                      |    1 |   1.79% |   0.00% |
+| 185  | Nihilego / Tapu Lele / Blastoise / Froslass                   |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Tapu Lele / Zapdos / Froslass                       |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Nihilego / Zapdos / Froslass                        |    1 |   1.79% |   0.00% |
+| 185  | Kartana / Nihilego / Tapu Lele / Froslass                     |    1 |   1.79% |   0.00% |
+| 185  | Nihilego / Tapu Lele / Zapdos / Froslass                      |    1 |   1.79% |   0.00% |
+
++ ---- + -------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                                | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Zapdos / Kartana / Tapu Lele / Nihilego / Blastoise                        |    7 |  12.50% |  57.14% |
+| 2    | Krookodile / Kartana / Tapu Lele / Nihilego / Blastoise                    |    6 |  10.71% |  66.67% |
+| 2    | Krookodile / Zapdos / Kartana / Tapu Lele / Nihilego                       |    6 |  10.71% |  66.67% |
+| 2    | Krookodile / Zapdos / Tapu Lele / Nihilego / Blastoise                     |    6 |  10.71% |  66.67% |
+| 2    | Krookodile / Zapdos / Kartana / Tapu Lele / Blastoise                      |    6 |  10.71% |  66.67% |
+| 2    | Krookodile / Zapdos / Kartana / Nihilego / Blastoise                       |    6 |  10.71% |  66.67% |
+| 7    | Cinderace / Toxapex / Gardevoir / Kartana / Gliscor                        |    4 |   7.14% | 100.00% |
+| 7    | Greninja-* / Swampert / Diancie / Rillaboom / Mew                          |    4 |   7.14% |  50.00% |
+| 7    | Klefki / Lopunny / Necrozma / Araquanid / Kyurem                           |    4 |   7.14% |  25.00% |
+| 7    | Weavile / Gengar / Lopunny / Celesteela / Gliscor                          |    4 |   7.14% |  25.00% |
+| 11   | Cinderace / Toxapex / Gardevoir / Corviknight / Gliscor                    |    3 |   5.36% | 100.00% |
+| 11   | Cinderace / Gardevoir / Kartana / Corviknight / Gliscor                    |    3 |   5.36% | 100.00% |
+| 11   | Cinderace / Toxapex / Gardevoir / Kartana / Corviknight                    |    3 |   5.36% | 100.00% |
+| 11   | Toxapex / Gardevoir / Kartana / Corviknight / Gliscor                      |    3 |   5.36% | 100.00% |
+| 11   | Cinderace / Toxapex / Kartana / Corviknight / Gliscor                      |    3 |   5.36% | 100.00% |
+| 11   | Celesteela / Zapdos-Galar / Porygon-Z / Garchomp / Rotom-Wash              |    3 |   5.36% |  66.67% |
+| 11   | Klefki / Lopunny / Landorus-Therian / Araquanid / Kyurem                   |    3 |   5.36% |  66.67% |
+| 11   | Weavile / Lopunny / Celesteela / Slowbro / Gliscor                         |    3 |   5.36% |  33.33% |
+| 11   | Weavile / Gengar / Celesteela / Slowbro / Gliscor                          |    3 |   5.36% |  33.33% |
+| 11   | Weavile / Gengar / Lopunny / Slowbro / Gliscor                             |    3 |   5.36% |  33.33% |
+| 11   | Gengar / Lopunny / Celesteela / Slowbro / Gliscor                          |    3 |   5.36% |  33.33% |
+| 11   | Weavile / Gengar / Lopunny / Celesteela / Slowbro                          |    3 |   5.36% |  33.33% |
+| 23   | Aegislash / Landorus-Therian / Deoxys-Speed / Moltres-Galar / Rotom-Wash   |    2 |   3.57% | 100.00% |
+| 23   | Dragonite / Uxie / Sharpedo / Tapu Koko / Melmetal                         |    2 |   3.57% | 100.00% |
+| 23   | Seismitoad / Dragonite / Sharpedo / Tapu Koko / Melmetal                   |    2 |   3.57% | 100.00% |
+| 23   | Porygon2 / Dragonite / Sharpedo / Tapu Koko / Melmetal                     |    2 |   3.57% | 100.00% |
+| 23   | Cinderace / Blastoise / Scizor / Togekiss / Garchomp                       |    2 |   3.57% |  50.00% |
+| 23   | Klefki / Lopunny / Necrozma / Landorus-Therian / Kyurem                    |    2 |   3.57% |  50.00% |
+| 23   | Lopunny / Necrozma / Landorus-Therian / Araquanid / Kyurem                 |    2 |   3.57% |  50.00% |
+| 23   | Klefki / Lopunny / Necrozma / Araquanid / Landorus-Therian                 |    2 |   3.57% |  50.00% |
+| 23   | Klefki / Necrozma / Araquanid / Landorus-Therian / Kyurem                  |    2 |   3.57% |  50.00% |
+| 23   | Mew / Zeraora / Vileplume / Garchomp / Infernape                           |    2 |   3.57% |  50.00% |
+| 23   | Zeraora / Gallade / Celebi / Heatran / Tapu Fini                           |    2 |   3.57% |  50.00% |
+| 23   | Cinderace / Muk-Alola / Scizor / Togekiss / Garchomp                       |    2 |   3.57% |  50.00% |
+| 23   | Cobalion / Swampert / Diancie / Rillaboom / Mew                            |    2 |   3.57% |  50.00% |
+| 23   | Greninja-* / Cobalion / Diancie / Rillaboom / Mew                          |    2 |   3.57% |  50.00% |
+| 23   | Greninja-* / Cobalion / Swampert / Diancie / Mew                           |    2 |   3.57% |  50.00% |
+| 23   | Greninja-* / Cobalion / Swampert / Rillaboom / Mew                         |    2 |   3.57% |  50.00% |
+| 23   | Greninja-* / Cobalion / Swampert / Diancie / Rillaboom                     |    2 |   3.57% |  50.00% |
+| 23   | Weavile / Landorus / Melmetal / Beedrill / Eldegoss                        |    2 |   3.57% |  50.00% |
+| 23   | Glalie / Aegislash / Landorus-Therian / Deoxys-Speed / Rotom-Wash          |    2 |   3.57% |  50.00% |
+| 23   | Klefki / Lopunny / Araquanid / Kyurem / Skuntank                           |    2 |   3.57% |  50.00% |
+| 23   | Weavile / Uxie / Landorus / Melmetal / Beedrill                            |    2 |   3.57% |  50.00% |
+| 23   | Mew / Zeraora / Primarina / Vileplume / Infernape                          |    2 |   3.57% |  50.00% |
+| 23   | Kabutops / Ferrothorn / Tapu Koko / Pelipper / Swampert                    |    2 |   3.57% |  50.00% |
+| 23   | Crawdaunt / Gallade / Heatran / Tapu Fini / Mandibuzz                      |    2 |   3.57% |  50.00% |
+| 23   | Mew / Zeraora / Primarina / Garchomp / Infernape                           |    2 |   3.57% |  50.00% |
+| 23   | Blastoise / Muk-Alola / Scizor / Togekiss / Garchomp                       |    2 |   3.57% |  50.00% |
+| 23   | Mew / Greninja-* / Swampert / Diancie / Thundurus                          |    2 |   3.57% |  50.00% |
+| 23   | Mew / Swampert / Diancie / Rillaboom / Thundurus                           |    2 |   3.57% |  50.00% |
+| 23   | Mew / Greninja-* / Diancie / Rillaboom / Thundurus                         |    2 |   3.57% |  50.00% |
+| 23   | Mew / Greninja-* / Swampert / Rillaboom / Thundurus                        |    2 |   3.57% |  50.00% |
+| 23   | Greninja-* / Swampert / Diancie / Rillaboom / Thundurus                    |    2 |   3.57% |  50.00% |
+| 23   | Cinderace / Mesprit / Scizor / Togekiss / Garchomp                         |    2 |   3.57% |   0.00% |
+| 23   | Mesprit / Blastoise / Scizor / Togekiss / Garchomp                         |    2 |   3.57% |   0.00% |
+| 23   | Seismitoad / Zapdos / Greninja-* / Diancie / Incineroar                    |    2 |   3.57% |   0.00% |
+| 23   | Mew / Zeraora / Vileplume / Skarmory / Infernape                           |    2 |   3.57% |   0.00% |
+| 23   | Mesprit / Muk-Alola / Scizor / Togekiss / Garchomp                         |    2 |   3.57% |   0.00% |
+| 59   | Tyranitar / Celesteela / Porygon-Z / Garchomp / Rotom-Wash                 |    1 |   1.79% | 100.00% |
+| 59   | Tyranitar / Celesteela / Zapdos-Galar / Garchomp / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 59   | Tyranitar / Zapdos-Galar / Porygon-Z / Garchomp / Rotom-Wash               |    1 |   1.79% | 100.00% |
+| 59   | Tyranitar / Celesteela / Zapdos-Galar / Porygon-Z / Garchomp               |    1 |   1.79% | 100.00% |
+| 59   | Tyranitar / Celesteela / Zapdos-Galar / Porygon-Z / Rotom-Wash             |    1 |   1.79% | 100.00% |
+| 59   | Zeraora / Celebi / Heatran / Corviknight / Tapu Fini                       |    1 |   1.79% | 100.00% |
+| 59   | Zeraora / Gallade / Celebi / Heatran / Corviknight                         |    1 |   1.79% | 100.00% |
+| 59   | Zeraora / Gallade / Heatran / Corviknight / Tapu Fini                      |    1 |   1.79% | 100.00% |
+| 59   | Zeraora / Gallade / Celebi / Corviknight / Tapu Fini                       |    1 |   1.79% | 100.00% |
+| 59   | Gallade / Celebi / Heatran / Corviknight / Tapu Fini                       |    1 |   1.79% | 100.00% |
+| 59   | Aegislash / Zygarde-10% / Landorus-Therian / Deoxys-Speed / Rotom-Wash     |    1 |   1.79% | 100.00% |
+| 59   | Aegislash / Zygarde-10% / Landorus-Therian / Moltres-Galar / Rotom-Wash    |    1 |   1.79% | 100.00% |
+| 59   | Aegislash / Zygarde-10% / Landorus-Therian / Deoxys-Speed / Moltres-Galar  |    1 |   1.79% | 100.00% |
+| 59   | Aegislash / Zygarde-10% / Deoxys-Speed / Moltres-Galar / Rotom-Wash        |    1 |   1.79% | 100.00% |
+| 59   | Zygarde-10% / Landorus-Therian / Deoxys-Speed / Moltres-Galar / Rotom-Wash |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Dragonite / Uxie / Tapu Koko / Melmetal                       |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Uxie / Sharpedo / Tapu Koko / Melmetal                        |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Dragonite / Uxie / Sharpedo / Tapu Koko                       |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Dragonite / Uxie / Sharpedo / Melmetal                        |    1 |   1.79% | 100.00% |
+| 59   | Mawile / Swampert / Amoonguss / Deoxys-Defense / Mienshao                  |    1 |   1.79% | 100.00% |
+| 59   | Mawile / Tornadus-Therian / Amoonguss / Deoxys-Defense / Mienshao          |    1 |   1.79% | 100.00% |
+| 59   | Mawile / Swampert / Tornadus-Therian / Deoxys-Defense / Mienshao           |    1 |   1.79% | 100.00% |
+| 59   | Mawile / Swampert / Tornadus-Therian / Amoonguss / Deoxys-Defense          |    1 |   1.79% | 100.00% |
+| 59   | Swampert / Tornadus-Therian / Amoonguss / Deoxys-Defense / Mienshao        |    1 |   1.79% | 100.00% |
+| 59   | Mawile / Swampert / Tornadus-Therian / Amoonguss / Mienshao                |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Porygon2 / Dragonite / Tapu Koko / Melmetal                   |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Porygon2 / Sharpedo / Tapu Koko / Melmetal                    |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Porygon2 / Dragonite / Sharpedo / Tapu Koko                   |    1 |   1.79% | 100.00% |
+| 59   | Seismitoad / Porygon2 / Dragonite / Sharpedo / Melmetal                    |    1 |   1.79% | 100.00% |
+| 59   | Celesteela / Porygon-Z / Serperior / Garchomp / Rotom-Wash                 |    1 |   1.79% | 100.00% |
+| 59   | Celesteela / Zapdos-Galar / Porygon-Z / Serperior / Rotom-Wash             |    1 |   1.79% | 100.00% |
+| 59   | Celesteela / Zapdos-Galar / Porygon-Z / Serperior / Garchomp               |    1 |   1.79% | 100.00% |
+| 59   | Zapdos-Galar / Porygon-Z / Serperior / Garchomp / Rotom-Wash               |    1 |   1.79% | 100.00% |
+| 59   | Celesteela / Zapdos-Galar / Serperior / Garchomp / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 59   | Rotom-Wash / Landorus-Therian / Deoxys-Speed / Moltres-Galar / Glalie      |    1 |   1.79% | 100.00% |
+| 59   | Rotom-Wash / Aegislash / Landorus-Therian / Moltres-Galar / Glalie         |    1 |   1.79% | 100.00% |
+| 59   | Rotom-Wash / Aegislash / Deoxys-Speed / Moltres-Galar / Glalie             |    1 |   1.79% | 100.00% |
+| 59   | Aegislash / Landorus-Therian / Deoxys-Speed / Moltres-Galar / Glalie       |    1 |   1.79% | 100.00% |
+| 59   | Weavile / Uxie / Landorus / Melmetal / Eldegoss                            |    1 |   1.79% | 100.00% |
+| 59   | Weavile / Uxie / Eldegoss / Melmetal / Beedrill                            |    1 |   1.79% | 100.00% |
+| 59   | Weavile / Uxie / Landorus / Eldegoss / Beedrill                            |    1 |   1.79% | 100.00% |
+| 59   | Uxie / Landorus / Eldegoss / Melmetal / Beedrill                           |    1 |   1.79% | 100.00% |
+| 59   | Dragonite / Ferrothorn / Tapu Koko / Pelipper / Swampert                   |    1 |   1.79% | 100.00% |
+| 59   | Kabutops / Dragonite / Ferrothorn / Tapu Koko / Swampert                   |    1 |   1.79% | 100.00% |
+| 59   | Kabutops / Dragonite / Ferrothorn / Tapu Koko / Pelipper                   |    1 |   1.79% | 100.00% |
+| 59   | Kabutops / Dragonite / Tapu Koko / Pelipper / Swampert                     |    1 |   1.79% | 100.00% |
+| 59   | Kabutops / Dragonite / Ferrothorn / Swampert / Pelipper                    |    1 |   1.79% | 100.00% |
+| 59   | Zeraora / Gallade / Heatran / Tapu Fini / Mandibuzz                        |    1 |   1.79% | 100.00% |
+| 59   | Crawdaunt / Zeraora / Gallade / Tapu Fini / Mandibuzz                      |    1 |   1.79% | 100.00% |
+| 59   | Crawdaunt / Zeraora / Gallade / Heatran / Tapu Fini                        |    1 |   1.79% | 100.00% |
+| 59   | Crawdaunt / Zeraora / Gallade / Heatran / Mandibuzz                        |    1 |   1.79% | 100.00% |
+| 59   | Crawdaunt / Zeraora / Heatran / Tapu Fini / Mandibuzz                      |    1 |   1.79% | 100.00% |
+| 59   | Zeraora / Primarina / Vileplume / Garchomp / Mew                           |    1 |   1.79% | 100.00% |
+| 59   | Mew / Primarina / Vileplume / Garchomp / Infernape                         |    1 |   1.79% | 100.00% |
+| 59   | Zeraora / Primarina / Vileplume / Garchomp / Infernape                     |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Gardevoir / Kartana / Corviknight / Tyrantrum                  |    1 |   1.79% | 100.00% |
+| 59   | Gardevoir / Kartana / Conkeldurr / Corviknight / Tyrantrum                 |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Gardevoir / Kartana / Conkeldurr / Tyrantrum                   |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Kartana / Conkeldurr / Corviknight / Tyrantrum                 |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Gardevoir / Conkeldurr / Corviknight / Tyrantrum               |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Gardevoir / Kartana / Conkeldurr / Corviknight                 |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Blastoise / Muk-Alola / Scizor / Garchomp                      |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Blastoise / Muk-Alola / Togekiss / Garchomp                    |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Muk-Alola / Scizor / Togekiss / Blastoise                      |    1 |   1.79% | 100.00% |
+| 59   | Porygon2 / Dragonite / Uxie / Tapu Koko / Melmetal                         |    1 |   1.79% | 100.00% |
+| 59   | Porygon2 / Uxie / Sharpedo / Tapu Koko / Melmetal                          |    1 |   1.79% | 100.00% |
+| 59   | Porygon2 / Dragonite / Uxie / Sharpedo / Tapu Koko                         |    1 |   1.79% | 100.00% |
+| 59   | Porygon2 / Dragonite / Uxie / Sharpedo / Melmetal                          |    1 |   1.79% | 100.00% |
+| 59   | Klefki / Lopunny / Landorus-Therian / Kyurem / Skuntank                    |    1 |   1.79% | 100.00% |
+| 59   | Lopunny / Landorus-Therian / Araquanid / Kyurem / Skuntank                 |    1 |   1.79% | 100.00% |
+| 59   | Klefki / Araquanid / Landorus-Therian / Kyurem / Skuntank                  |    1 |   1.79% | 100.00% |
+| 59   | Klefki / Lopunny / Araquanid / Landorus-Therian / Skuntank                 |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Gardevoir / Kartana / Tyrantrum / Gliscor                      |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Toxapex / Gardevoir / Kartana / Tyrantrum                      |    1 |   1.79% | 100.00% |
+| 59   | Toxapex / Gardevoir / Kartana / Tyrantrum / Gliscor                        |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Toxapex / Kartana / Tyrantrum / Gliscor                        |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Toxapex / Gardevoir / Tyrantrum / Gliscor                      |    1 |   1.79% | 100.00% |
+| 59   | Cinderace / Mesprit / Blastoise / Scizor / Garchomp                        |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Mesprit / Blastoise / Togekiss / Garchomp                      |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Mesprit / Scizor / Togekiss / Blastoise                        |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Kartana / Aerodactyl / Blastoise / Gliscor                     |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Bronzong / Kartana / Blastoise / Gliscor                       |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Bronzong / Kartana / Aerodactyl / Gliscor                      |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Bronzong / Kartana / Aerodactyl / Blastoise                    |    1 |   1.79% |   0.00% |
+| 59   | Bronzong / Kartana / Aerodactyl / Blastoise / Gliscor                      |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Bronzong / Aerodactyl / Blastoise / Gliscor                    |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Zapdos / Greninja-* / Diancie / Scizor                        |    1 |   1.79% |   0.00% |
+| 59   | Zapdos / Greninja-* / Diancie / Incineroar / Scizor                        |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Zapdos / Diancie / Incineroar / Scizor                        |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Greninja-* / Diancie / Incineroar / Scizor                    |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Zapdos / Greninja-* / Incineroar / Scizor                     |    1 |   1.79% |   0.00% |
+| 59   | Mew / Zeraora / Skarmory / Garchomp / Infernape                            |    1 |   1.79% |   0.00% |
+| 59   | Zeraora / Vileplume / Skarmory / Garchomp / Mew                            |    1 |   1.79% |   0.00% |
+| 59   | Mew / Vileplume / Skarmory / Garchomp / Infernape                          |    1 |   1.79% |   0.00% |
+| 59   | Zeraora / Vileplume / Skarmory / Garchomp / Infernape                      |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Mesprit / Muk-Alola / Scizor / Garchomp                        |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Mesprit / Muk-Alola / Togekiss / Garchomp                      |    1 |   1.79% |   0.00% |
+| 59   | Cinderace / Mesprit / Muk-Alola / Scizor / Togekiss                        |    1 |   1.79% |   0.00% |
+| 59   | Landorus / Tornadus-Therian / Scizor / Primarina / Victini                 |    1 |   1.79% |   0.00% |
+| 59   | Landorus / Regirock / Tornadus-Therian / Scizor / Victini                  |    1 |   1.79% |   0.00% |
+| 59   | Landorus / Regirock / Tornadus-Therian / Primarina / Victini               |    1 |   1.79% |   0.00% |
+| 59   | Landorus / Regirock / Tornadus-Therian / Scizor / Primarina                |    1 |   1.79% |   0.00% |
+| 59   | Regirock / Tornadus-Therian / Scizor / Primarina / Victini                 |    1 |   1.79% |   0.00% |
+| 59   | Landorus / Regirock / Scizor / Primarina / Victini                         |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Drampa / Landorus / Melmetal / Eldegoss                          |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Drampa / Landorus / Melmetal / Beedrill                          |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Drampa / Melmetal / Beedrill / Eldegoss                          |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Drampa / Landorus / Eldegoss / Beedrill                          |    1 |   1.79% |   0.00% |
+| 59   | Drampa / Landorus / Melmetal / Beedrill / Eldegoss                         |    1 |   1.79% |   0.00% |
+| 59   | Whimsicott / Aegislash / Landorus-Therian / Deoxys-Speed / Glalie          |    1 |   1.79% |   0.00% |
+| 59   | Glalie / Whimsicott / Landorus-Therian / Deoxys-Speed / Rotom-Wash         |    1 |   1.79% |   0.00% |
+| 59   | Glalie / Whimsicott / Aegislash / Landorus-Therian / Rotom-Wash            |    1 |   1.79% |   0.00% |
+| 59   | Whimsicott / Aegislash / Landorus-Therian / Deoxys-Speed / Rotom-Wash      |    1 |   1.79% |   0.00% |
+| 59   | Glalie / Whimsicott / Aegislash / Deoxys-Speed / Rotom-Wash                |    1 |   1.79% |   0.00% |
+| 59   | Mudsdale / Zeraora / Gallade / Celebi / Tapu Fini                          |    1 |   1.79% |   0.00% |
+| 59   | Mudsdale / Zeraora / Gallade / Heatran / Tapu Fini                         |    1 |   1.79% |   0.00% |
+| 59   | Mudsdale / Zeraora / Gallade / Celebi / Heatran                            |    1 |   1.79% |   0.00% |
+| 59   | Mudsdale / Gallade / Celebi / Heatran / Tapu Fini                          |    1 |   1.79% |   0.00% |
+| 59   | Mudsdale / Zeraora / Celebi / Heatran / Tapu Fini                          |    1 |   1.79% |   0.00% |
+| 59   | Klefki / Lopunny / Necrozma / Kyurem / Skuntank                            |    1 |   1.79% |   0.00% |
+| 59   | Lopunny / Necrozma / Araquanid / Kyurem / Skuntank                         |    1 |   1.79% |   0.00% |
+| 59   | Klefki / Lopunny / Necrozma / Araquanid / Skuntank                         |    1 |   1.79% |   0.00% |
+| 59   | Klefki / Necrozma / Araquanid / Kyurem / Skuntank                          |    1 |   1.79% |   0.00% |
+| 59   | Mew / Zeraora / Primarina / Skarmory / Infernape                           |    1 |   1.79% |   0.00% |
+| 59   | Zeraora / Primarina / Vileplume / Skarmory / Mew                           |    1 |   1.79% |   0.00% |
+| 59   | Mew / Primarina / Vileplume / Skarmory / Infernape                         |    1 |   1.79% |   0.00% |
+| 59   | Zeraora / Primarina / Vileplume / Skarmory / Infernape                     |    1 |   1.79% |   0.00% |
+| 59   | Klefki / Lopunny / Necrozma / Kyurem / Eelektross                          |    1 |   1.79% |   0.00% |
+| 59   | Lopunny / Necrozma / Araquanid / Kyurem / Eelektross                       |    1 |   1.79% |   0.00% |
+| 59   | Klefki / Necrozma / Araquanid / Kyurem / Eelektross                        |    1 |   1.79% |   0.00% |
+| 59   | Klefki / Lopunny / Araquanid / Kyurem / Eelektross                         |    1 |   1.79% |   0.00% |
+| 59   | Klefki / Lopunny / Necrozma / Araquanid / Eelektross                       |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Keldeo / Uxie / Landorus / Melmetal                              |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Keldeo / Landorus / Melmetal / Beedrill                          |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Keldeo / Uxie / Melmetal / Beedrill                              |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Keldeo / Uxie / Landorus / Beedrill                              |    1 |   1.79% |   0.00% |
+| 59   | Keldeo / Uxie / Landorus / Melmetal / Beedrill                             |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Zapdos / Greninja-* / Whimsicott / Diancie                    |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Zapdos / Whimsicott / Diancie / Incineroar                    |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Greninja-* / Whimsicott / Diancie / Incineroar                |    1 |   1.79% |   0.00% |
+| 59   | Zapdos / Greninja-* / Whimsicott / Diancie / Incineroar                    |    1 |   1.79% |   0.00% |
+| 59   | Seismitoad / Zapdos / Greninja-* / Whimsicott / Incineroar                 |    1 |   1.79% |   0.00% |
+| 59   | Celesteela / Mesprit / Porygon-Z / Garchomp / Rotom-Wash                   |    1 |   1.79% |   0.00% |
+| 59   | Celesteela / Mesprit / Zapdos-Galar / Garchomp / Rotom-Wash                |    1 |   1.79% |   0.00% |
+| 59   | Celesteela / Mesprit / Zapdos-Galar / Porygon-Z / Garchomp                 |    1 |   1.79% |   0.00% |
+| 59   | Mesprit / Zapdos-Galar / Porygon-Z / Garchomp / Rotom-Wash                 |    1 |   1.79% |   0.00% |
+| 59   | Celesteela / Mesprit / Zapdos-Galar / Porygon-Z / Rotom-Wash               |    1 |   1.79% |   0.00% |
+| 59   | Kabutops / Hoopa-Unbound / Tapu Koko / Pelipper / Swampert                 |    1 |   1.79% |   0.00% |
+| 59   | Ferrothorn / Hoopa-Unbound / Tapu Koko / Pelipper / Swampert               |    1 |   1.79% |   0.00% |
+| 59   | Kabutops / Ferrothorn / Hoopa-Unbound / Tapu Koko / Swampert               |    1 |   1.79% |   0.00% |
+| 59   | Kabutops / Ferrothorn / Hoopa-Unbound / Tapu Koko / Pelipper               |    1 |   1.79% |   0.00% |
+| 59   | Kabutops / Ferrothorn / Hoopa-Unbound / Pelipper / Swampert                |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Gengar / Lopunny / Eldegoss / Gliscor                            |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Lopunny / Celesteela / Eldegoss / Gliscor                        |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Gengar / Celesteela / Eldegoss / Gliscor                         |    1 |   1.79% |   0.00% |
+| 59   | Gengar / Lopunny / Celesteela / Eldegoss / Gliscor                         |    1 |   1.79% |   0.00% |
+| 59   | Weavile / Gengar / Lopunny / Celesteela / Eldegoss                         |    1 |   1.79% |   0.00% |
+| 59   | Nidoqueen / Crawdaunt / Gallade / Heatran / Mandibuzz                      |    1 |   1.79% |   0.00% |
+| 59   | Nidoqueen / Gallade / Heatran / Tapu Fini / Mandibuzz                      |    1 |   1.79% |   0.00% |
+| 59   | Nidoqueen / Crawdaunt / Gallade / Tapu Fini / Mandibuzz                    |    1 |   1.79% |   0.00% |
+| 59   | Nidoqueen / Crawdaunt / Gallade / Heatran / Tapu Fini                      |    1 |   1.79% |   0.00% |
+| 59   | Nidoqueen / Crawdaunt / Heatran / Tapu Fini / Mandibuzz                    |    1 |   1.79% |   0.00% |
+| 59   | Crawdaunt / Zeraora / Primarina / Garchomp / Mew                           |    1 |   1.79% |   0.00% |
+| 59   | Mew / Crawdaunt / Zeraora / Garchomp / Infernape                           |    1 |   1.79% |   0.00% |
+| 59   | Mew / Crawdaunt / Zeraora / Primarina / Infernape                          |    1 |   1.79% |   0.00% |
+| 59   | Mew / Crawdaunt / Primarina / Garchomp / Infernape                         |    1 |   1.79% |   0.00% |
+| 59   | Crawdaunt / Zeraora / Primarina / Garchomp / Infernape                     |    1 |   1.79% |   0.00% |
+| 59   | Mesprit / Blastoise / Muk-Alola / Scizor / Garchomp                        |    1 |   1.79% |   0.00% |
+| 59   | Mesprit / Blastoise / Muk-Alola / Togekiss / Garchomp                      |    1 |   1.79% |   0.00% |
+| 59   | Mesprit / Muk-Alola / Scizor / Togekiss / Blastoise                        |    1 |   1.79% |   0.00% |
+| 59   | Zapdos / Kartana / Tapu Lele / Blastoise / Froslass                        |    1 |   1.79% |   0.00% |
+| 59   | Zapdos / Kartana / Nihilego / Blastoise / Froslass                         |    1 |   1.79% |   0.00% |
+| 59   | Kartana / Tapu Lele / Nihilego / Blastoise / Froslass                      |    1 |   1.79% |   0.00% |
+| 59   | Zapdos / Tapu Lele / Nihilego / Blastoise / Froslass                       |    1 |   1.79% |   0.00% |
+| 59   | Zapdos / Kartana / Tapu Lele / Nihilego / Froslass                         |    1 |   1.79% |   0.00% |
+
++ ---- + -------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                            | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Krookodile / Zapdos / Kartana / Tapu Lele / Nihilego / Blastoise                       |    6 |  10.71% |  66.67% |
+| 2    | Cinderace / Toxapex / Gardevoir / Kartana / Corviknight / Gliscor                      |    3 |   5.36% | 100.00% |
+| 2    | Weavile / Gengar / Lopunny / Celesteela / Slowbro / Gliscor                            |    3 |   5.36% |  33.33% |
+| 4    | Klefki / Lopunny / Necrozma / Landorus-Therian / Araquanid / Kyurem                    |    2 |   3.57% |  50.00% |
+| 4    | Greninja-* / Cobalion / Swampert / Diancie / Rillaboom / Mew                           |    2 |   3.57% |  50.00% |
+| 4    | Mew / Greninja-* / Swampert / Diancie / Rillaboom / Thundurus                          |    2 |   3.57% |  50.00% |
+| 7    | Tyranitar / Celesteela / Zapdos-Galar / Porygon-Z / Garchomp / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 7    | Zeraora / Gallade / Celebi / Heatran / Corviknight / Tapu Fini                         |    1 |   1.79% | 100.00% |
+| 7    | Aegislash / Zygarde-10% / Landorus-Therian / Deoxys-Speed / Moltres-Galar / Rotom-Wash |    1 |   1.79% | 100.00% |
+| 7    | Seismitoad / Dragonite / Uxie / Sharpedo / Tapu Koko / Melmetal                        |    1 |   1.79% | 100.00% |
+| 7    | Mawile / Swampert / Tornadus-Therian / Amoonguss / Deoxys-Defense / Mienshao           |    1 |   1.79% | 100.00% |
+| 7    | Seismitoad / Porygon2 / Dragonite / Sharpedo / Tapu Koko / Melmetal                    |    1 |   1.79% | 100.00% |
+| 7    | Celesteela / Zapdos-Galar / Porygon-Z / Serperior / Garchomp / Rotom-Wash              |    1 |   1.79% | 100.00% |
+| 7    | Rotom-Wash / Aegislash / Landorus-Therian / Deoxys-Speed / Moltres-Galar / Glalie      |    1 |   1.79% | 100.00% |
+| 7    | Weavile / Uxie / Landorus / Melmetal / Beedrill / Eldegoss                             |    1 |   1.79% | 100.00% |
+| 7    | Kabutops / Dragonite / Ferrothorn / Tapu Koko / Pelipper / Swampert                    |    1 |   1.79% | 100.00% |
+| 7    | Crawdaunt / Zeraora / Gallade / Heatran / Tapu Fini / Mandibuzz                        |    1 |   1.79% | 100.00% |
+| 7    | Mew / Zeraora / Primarina / Vileplume / Garchomp / Infernape                           |    1 |   1.79% | 100.00% |
+| 7    | Cinderace / Gardevoir / Kartana / Conkeldurr / Corviknight / Tyrantrum                 |    1 |   1.79% | 100.00% |
+| 7    | Cinderace / Blastoise / Muk-Alola / Scizor / Togekiss / Garchomp                       |    1 |   1.79% | 100.00% |
+| 7    | Porygon2 / Dragonite / Uxie / Sharpedo / Tapu Koko / Melmetal                          |    1 |   1.79% | 100.00% |
+| 7    | Klefki / Lopunny / Landorus-Therian / Araquanid / Kyurem / Skuntank                    |    1 |   1.79% | 100.00% |
+| 7    | Cinderace / Toxapex / Gardevoir / Kartana / Tyrantrum / Gliscor                        |    1 |   1.79% | 100.00% |
+| 7    | Cinderace / Mesprit / Blastoise / Scizor / Togekiss / Garchomp                         |    1 |   1.79% |   0.00% |
+| 7    | Cinderace / Bronzong / Kartana / Aerodactyl / Blastoise / Gliscor                      |    1 |   1.79% |   0.00% |
+| 7    | Seismitoad / Zapdos / Greninja-* / Diancie / Incineroar / Scizor                       |    1 |   1.79% |   0.00% |
+| 7    | Mew / Zeraora / Vileplume / Skarmory / Garchomp / Infernape                            |    1 |   1.79% |   0.00% |
+| 7    | Cinderace / Mesprit / Muk-Alola / Scizor / Togekiss / Garchomp                         |    1 |   1.79% |   0.00% |
+| 7    | Landorus / Regirock / Tornadus-Therian / Scizor / Primarina / Victini                  |    1 |   1.79% |   0.00% |
+| 7    | Weavile / Landorus / Drampa / Melmetal / Beedrill / Eldegoss                           |    1 |   1.79% |   0.00% |
+| 7    | Glalie / Whimsicott / Aegislash / Landorus-Therian / Deoxys-Speed / Rotom-Wash         |    1 |   1.79% |   0.00% |
+| 7    | Mudsdale / Zeraora / Gallade / Celebi / Heatran / Tapu Fini                            |    1 |   1.79% |   0.00% |
+| 7    | Klefki / Lopunny / Necrozma / Araquanid / Kyurem / Skuntank                            |    1 |   1.79% |   0.00% |
+| 7    | Mew / Zeraora / Primarina / Vileplume / Skarmory / Infernape                           |    1 |   1.79% |   0.00% |
+| 7    | Klefki / Lopunny / Necrozma / Araquanid / Kyurem / Eelektross                          |    1 |   1.79% |   0.00% |
+| 7    | Weavile / Keldeo / Uxie / Landorus / Melmetal / Beedrill                               |    1 |   1.79% |   0.00% |
+| 7    | Seismitoad / Zapdos / Greninja-* / Whimsicott / Diancie / Incineroar                   |    1 |   1.79% |   0.00% |
+| 7    | Celesteela / Mesprit / Zapdos-Galar / Porygon-Z / Garchomp / Rotom-Wash                |    1 |   1.79% |   0.00% |
+| 7    | Kabutops / Ferrothorn / Hoopa-Unbound / Tapu Koko / Pelipper / Swampert                |    1 |   1.79% |   0.00% |
+| 7    | Weavile / Gengar / Lopunny / Celesteela / Eldegoss / Gliscor                           |    1 |   1.79% |   0.00% |
+| 7    | Nidoqueen / Crawdaunt / Gallade / Heatran / Tapu Fini / Mandibuzz                      |    1 |   1.79% |   0.00% |
+| 7    | Mew / Crawdaunt / Zeraora / Primarina / Garchomp / Infernape                           |    1 |   1.79% |   0.00% |
+| 7    | Mesprit / Blastoise / Muk-Alola / Scizor / Togekiss / Garchomp                         |    1 |   1.79% |   0.00% |
+| 7    | Zapdos / Kartana / Tapu Lele / Nihilego / Blastoise / Froslass                         |    1 |   1.79% |   0.00% |
