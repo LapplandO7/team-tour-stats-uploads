@@ -1,0 +1,360 @@
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 2                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| 1    | Dragonite / Ting-Lu            |    2 |  33.33% |  50.00% |
+| 2    | Spectrier / Staraptor          |    1 |  16.67% | 100.00% |
+| 2    | Sandaconda / Staraptor         |    1 |  16.67% | 100.00% |
+| 2    | Raging Bolt / Staraptor        |    1 |  16.67% | 100.00% |
+| 2    | Venusaur / Staraptor           |    1 |  16.67% | 100.00% |
+| 2    | Scizor / Staraptor             |    1 |  16.67% | 100.00% |
+| 2    | Sandaconda / Spectrier         |    1 |  16.67% | 100.00% |
+| 2    | Raging Bolt / Spectrier        |    1 |  16.67% | 100.00% |
+| 2    | Venusaur / Spectrier           |    1 |  16.67% | 100.00% |
+| 2    | Scizor / Spectrier             |    1 |  16.67% | 100.00% |
+| 2    | Sandaconda / Raging Bolt       |    1 |  16.67% | 100.00% |
+| 2    | Sandaconda / Venusaur          |    1 |  16.67% | 100.00% |
+| 2    | Sandaconda / Scizor            |    1 |  16.67% | 100.00% |
+| 2    | Raging Bolt / Venusaur         |    1 |  16.67% | 100.00% |
+| 2    | Raging Bolt / Scizor           |    1 |  16.67% | 100.00% |
+| 2    | Scizor / Venusaur              |    1 |  16.67% | 100.00% |
+| 2    | Iron Moth / Ninjask            |    1 |  16.67% | 100.00% |
+| 2    | Iron Moth / Alomomola          |    1 |  16.67% | 100.00% |
+| 2    | Iron Moth / Hatterene          |    1 |  16.67% | 100.00% |
+| 2    | Iron Moth / Great Tusk         |    1 |  16.67% | 100.00% |
+| 2    | Iron Moth / Corviknight        |    1 |  16.67% | 100.00% |
+| 2    | Ninjask / Alomomola            |    1 |  16.67% | 100.00% |
+| 2    | Ninjask / Hatterene            |    1 |  16.67% | 100.00% |
+| 2    | Ninjask / Great Tusk           |    1 |  16.67% | 100.00% |
+| 2    | Ninjask / Corviknight          |    1 |  16.67% | 100.00% |
+| 2    | Alomomola / Hatterene          |    1 |  16.67% | 100.00% |
+| 2    | Great Tusk / Alomomola         |    1 |  16.67% | 100.00% |
+| 2    | Corviknight / Alomomola        |    1 |  16.67% | 100.00% |
+| 2    | Great Tusk / Hatterene         |    1 |  16.67% | 100.00% |
+| 2    | Corviknight / Hatterene        |    1 |  16.67% | 100.00% |
+| 2    | Corviknight / Great Tusk       |    1 |  16.67% | 100.00% |
+| 2    | Duraludon / Ting-Lu            |    1 |  16.67% | 100.00% |
+| 2    | Duraludon / Gholdengo          |    1 |  16.67% | 100.00% |
+| 2    | Dragonite / Duraludon          |    1 |  16.67% | 100.00% |
+| 2    | Duraludon / Ogerpon-Wellspring |    1 |  16.67% | 100.00% |
+| 2    | Cinderace / Duraludon          |    1 |  16.67% | 100.00% |
+| 2    | Ting-Lu / Gholdengo            |    1 |  16.67% | 100.00% |
+| 2    | Ting-Lu / Ogerpon-Wellspring   |    1 |  16.67% | 100.00% |
+| 2    | Cinderace / Ting-Lu            |    1 |  16.67% | 100.00% |
+| 2    | Dragonite / Gholdengo          |    1 |  16.67% | 100.00% |
+| 2    | Ogerpon-Wellspring / Gholdengo |    1 |  16.67% | 100.00% |
+| 2    | Cinderace / Gholdengo          |    1 |  16.67% | 100.00% |
+| 2    | Dragonite / Ogerpon-Wellspring |    1 |  16.67% | 100.00% |
+| 2    | Cinderace / Dragonite          |    1 |  16.67% | 100.00% |
+| 2    | Cinderace / Ogerpon-Wellspring |    1 |  16.67% | 100.00% |
+| 2    | Darmanitan-Galar / Alcremie    |    1 |  16.67% |   0.00% |
+| 2    | Corviknight / Alcremie         |    1 |  16.67% |   0.00% |
+| 2    | Alcremie / Clodsire            |    1 |  16.67% |   0.00% |
+| 2    | Alcremie / Rillaboom           |    1 |  16.67% |   0.00% |
+| 2    | Kingambit / Alcremie           |    1 |  16.67% |   0.00% |
+| 2    | Darmanitan-Galar / Corviknight |    1 |  16.67% |   0.00% |
+| 2    | Darmanitan-Galar / Clodsire    |    1 |  16.67% |   0.00% |
+| 2    | Darmanitan-Galar / Rillaboom   |    1 |  16.67% |   0.00% |
+| 2    | Darmanitan-Galar / Kingambit   |    1 |  16.67% |   0.00% |
+| 2    | Corviknight / Clodsire         |    1 |  16.67% |   0.00% |
+| 2    | Corviknight / Rillaboom        |    1 |  16.67% |   0.00% |
+| 2    | Corviknight / Kingambit        |    1 |  16.67% |   0.00% |
+| 2    | Rillaboom / Clodsire           |    1 |  16.67% |   0.00% |
+| 2    | Kingambit / Clodsire           |    1 |  16.67% |   0.00% |
+| 2    | Kingambit / Rillaboom          |    1 |  16.67% |   0.00% |
+| 2    | Urshifu / Iron Treads          |    1 |  16.67% |   0.00% |
+| 2    | Urshifu / Slowking-Galar       |    1 |  16.67% |   0.00% |
+| 2    | Urshifu / Togekiss             |    1 |  16.67% |   0.00% |
+| 2    | Urshifu / Arctozolt            |    1 |  16.67% |   0.00% |
+| 2    | Urshifu / Ogerpon              |    1 |  16.67% |   0.00% |
+| 2    | Slowking-Galar / Iron Treads   |    1 |  16.67% |   0.00% |
+| 2    | Togekiss / Iron Treads         |    1 |  16.67% |   0.00% |
+| 2    | Arctozolt / Iron Treads        |    1 |  16.67% |   0.00% |
+| 2    | Ogerpon / Iron Treads          |    1 |  16.67% |   0.00% |
+| 2    | Togekiss / Slowking-Galar      |    1 |  16.67% |   0.00% |
+| 2    | Slowking-Galar / Arctozolt     |    1 |  16.67% |   0.00% |
+| 2    | Slowking-Galar / Ogerpon       |    1 |  16.67% |   0.00% |
+| 2    | Togekiss / Arctozolt           |    1 |  16.67% |   0.00% |
+| 2    | Togekiss / Ogerpon             |    1 |  16.67% |   0.00% |
+| 2    | Arctozolt / Ogerpon            |    1 |  16.67% |   0.00% |
+| 2    | Ferrothorn / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 2    | Skeledirge / Ferrothorn        |    1 |  16.67% |   0.00% |
+| 2    | Blastoise / Ferrothorn         |    1 |  16.67% |   0.00% |
+| 2    | Zamazenta-* / Ferrothorn       |    1 |  16.67% |   0.00% |
+| 2    | Ferrothorn / Dragonite         |    1 |  16.67% |   0.00% |
+| 2    | Skeledirge / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 2    | Blastoise / Ting-Lu            |    1 |  16.67% |   0.00% |
+| 2    | Zamazenta-* / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 2    | Blastoise / Skeledirge         |    1 |  16.67% |   0.00% |
+| 2    | Skeledirge / Zamazenta-*       |    1 |  16.67% |   0.00% |
+| 2    | Skeledirge / Dragonite         |    1 |  16.67% |   0.00% |
+| 2    | Blastoise / Zamazenta-*        |    1 |  16.67% |   0.00% |
+| 2    | Blastoise / Dragonite          |    1 |  16.67% |   0.00% |
+| 2    | Zamazenta-* / Dragonite        |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                                | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| 1    | Sandaconda / Spectrier / Staraptor         |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Spectrier / Staraptor        |    1 |  16.67% | 100.00% |
+| 1    | Venusaur / Spectrier / Staraptor           |    1 |  16.67% | 100.00% |
+| 1    | Scizor / Spectrier / Staraptor             |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Staraptor / Raging Bolt       |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Venusaur / Staraptor          |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Staraptor            |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Venusaur / Staraptor         |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Scizor / Staraptor           |    1 |  16.67% | 100.00% |
+| 1    | Scizor / Venusaur / Staraptor              |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Spectrier / Raging Bolt       |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Venusaur / Spectrier          |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Spectrier            |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Venusaur / Spectrier         |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Scizor / Spectrier           |    1 |  16.67% | 100.00% |
+| 1    | Scizor / Venusaur / Spectrier              |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Venusaur / Raging Bolt        |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Raging Bolt          |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Venusaur             |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Scizor / Venusaur            |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Alomomola / Ninjask            |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Hatterene / Ninjask            |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Ninjask           |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Ninjask          |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Alomomola / Hatterene          |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Alomomola         |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Alomomola        |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Hatterene         |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Hatterene        |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Great Tusk       |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Alomomola / Hatterene            |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Great Tusk / Alomomola           |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Corviknight / Alomomola          |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Great Tusk / Hatterene           |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Corviknight / Hatterene          |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Corviknight / Great Tusk         |    1 |  16.67% | 100.00% |
+| 1    | Great Tusk / Alomomola / Hatterene         |    1 |  16.67% | 100.00% |
+| 1    | Corviknight / Alomomola / Hatterene        |    1 |  16.67% | 100.00% |
+| 1    | Corviknight / Great Tusk / Alomomola       |    1 |  16.67% | 100.00% |
+| 1    | Corviknight / Great Tusk / Hatterene       |    1 |  16.67% | 100.00% |
+| 1    | Duraludon / Ting-Lu / Gholdengo            |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Duraludon / Ting-Lu            |    1 |  16.67% | 100.00% |
+| 1    | Duraludon / Ting-Lu / Ogerpon-Wellspring   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Duraludon / Ting-Lu            |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Duraludon / Gholdengo          |    1 |  16.67% | 100.00% |
+| 1    | Duraludon / Ogerpon-Wellspring / Gholdengo |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Duraludon / Gholdengo          |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Duraludon / Ogerpon-Wellspring |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Duraludon          |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Duraludon / Ogerpon-Wellspring |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Ting-Lu / Gholdengo            |    1 |  16.67% | 100.00% |
+| 1    | Ogerpon-Wellspring / Ting-Lu / Gholdengo   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Ting-Lu / Gholdengo            |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Ting-Lu / Ogerpon-Wellspring   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Ting-Lu            |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Ting-Lu / Ogerpon-Wellspring   |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Ogerpon-Wellspring / Gholdengo |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Gholdengo          |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Ogerpon-Wellspring / Gholdengo |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Ogerpon-Wellspring |    1 |  16.67% | 100.00% |
+| 1    | Darmanitan-Galar / Corviknight / Alcremie  |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Alcremie / Clodsire     |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Alcremie / Rillaboom    |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Kingambit / Alcremie    |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Alcremie / Clodsire          |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Alcremie / Rillaboom         |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Kingambit / Alcremie         |    1 |  16.67% |   0.00% |
+| 1    | Alcremie / Rillaboom / Clodsire            |    1 |  16.67% |   0.00% |
+| 1    | Kingambit / Alcremie / Clodsire            |    1 |  16.67% |   0.00% |
+| 1    | Kingambit / Alcremie / Rillaboom           |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Clodsire  |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Rillaboom |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Kingambit |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Rillaboom / Clodsire    |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Kingambit / Clodsire    |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Kingambit / Rillaboom   |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Rillaboom / Clodsire         |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Kingambit / Clodsire         |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Kingambit / Rillaboom        |    1 |  16.67% |   0.00% |
+| 1    | Kingambit / Rillaboom / Clodsire           |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Iron Treads     |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Iron Treads           |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Arctozolt / Iron Treads          |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Ogerpon / Iron Treads            |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Togekiss        |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Arctozolt       |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Ogerpon         |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Arctozolt / Togekiss             |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Ogerpon / Togekiss               |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Arctozolt / Ogerpon              |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Slowking-Galar / Iron Treads    |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Arctozolt / Iron Treads   |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Ogerpon / Iron Treads     |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Arctozolt / Iron Treads         |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Ogerpon / Iron Treads           |    1 |  16.67% |   0.00% |
+| 1    | Arctozolt / Ogerpon / Iron Treads          |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Slowking-Galar / Arctozolt      |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Slowking-Galar / Ogerpon        |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Arctozolt / Ogerpon       |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Arctozolt / Ogerpon             |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Ferrothorn / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Ferrothorn / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Ferrothorn / Ting-Lu         |    1 |  16.67% |   0.00% |
+| 1    | Ferrothorn / Dragonite / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Ferrothorn        |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Ferrothorn / Zamazenta-*      |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Ferrothorn / Dragonite        |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Zamazenta-* / Ferrothorn       |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Ferrothorn / Dragonite         |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Ferrothorn / Dragonite       |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Zamazenta-* / Ting-Lu         |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Dragonite / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Zamazenta-* / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Dragonite / Ting-Lu            |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Dragonite / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Zamazenta-*       |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Dragonite         |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Zamazenta-* / Dragonite       |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Zamazenta-* / Dragonite        |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 4                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Sandaconda / Spectrier / Staraptor / Raging Bolt       |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Venusaur / Spectrier / Staraptor          |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Spectrier / Staraptor            |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Venusaur / Spectrier / Staraptor         |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Scizor / Spectrier / Staraptor           |    1 |  16.67% | 100.00% |
+| 1    | Scizor / Venusaur / Spectrier / Staraptor              |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Venusaur / Staraptor / Raging Bolt        |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Staraptor / Raging Bolt          |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Venusaur / Staraptor             |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Scizor / Venusaur / Staraptor            |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Venusaur / Spectrier / Raging Bolt        |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Spectrier / Raging Bolt          |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Venusaur / Spectrier             |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Scizor / Venusaur / Spectrier            |    1 |  16.67% | 100.00% |
+| 1    | Sandaconda / Scizor / Venusaur / Raging Bolt           |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Hatterene / Alomomola / Ninjask            |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Alomomola / Ninjask           |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Alomomola / Ninjask          |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Hatterene / Ninjask           |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Hatterene / Ninjask          |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Great Tusk / Ninjask         |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Alomomola / Hatterene         |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Alomomola / Hatterene        |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Great Tusk / Alomomola       |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Corviknight / Great Tusk / Hatterene       |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Great Tusk / Alomomola / Hatterene           |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Corviknight / Alomomola / Hatterene          |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Corviknight / Great Tusk / Alomomola         |    1 |  16.67% | 100.00% |
+| 1    | Ninjask / Corviknight / Great Tusk / Hatterene         |    1 |  16.67% | 100.00% |
+| 1    | Corviknight / Great Tusk / Alomomola / Hatterene       |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Duraludon / Ting-Lu / Gholdengo            |    1 |  16.67% | 100.00% |
+| 1    | Ogerpon-Wellspring / Duraludon / Ting-Lu / Gholdengo   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Duraludon / Ting-Lu / Gholdengo            |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Duraludon / Ting-Lu / Ogerpon-Wellspring   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Duraludon / Ting-Lu            |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Duraludon / Ting-Lu / Ogerpon-Wellspring   |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Duraludon / Ogerpon-Wellspring / Gholdengo |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Duraludon / Gholdengo          |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Duraludon / Ogerpon-Wellspring / Gholdengo |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Duraludon / Ogerpon-Wellspring |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Ogerpon-Wellspring / Ting-Lu / Gholdengo   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Ting-Lu / Gholdengo            |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Ogerpon-Wellspring / Ting-Lu / Gholdengo   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Ting-Lu / Ogerpon-Wellspring   |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Dragonite / Ogerpon-Wellspring / Gholdengo |    1 |  16.67% | 100.00% |
+| 1    | Darmanitan-Galar / Corviknight / Alcremie / Clodsire   |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Alcremie / Rillaboom  |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Kingambit / Alcremie  |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Alcremie / Rillaboom / Clodsire     |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Kingambit / Alcremie / Clodsire     |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Kingambit / Alcremie / Rillaboom    |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Alcremie / Rillaboom / Clodsire          |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Kingambit / Alcremie / Clodsire          |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Kingambit / Alcremie / Rillaboom         |    1 |  16.67% |   0.00% |
+| 1    | Kingambit / Alcremie / Rillaboom / Clodsire            |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Rillaboom / Clodsire  |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Kingambit / Clodsire  |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Corviknight / Kingambit / Rillaboom |    1 |  16.67% |   0.00% |
+| 1    | Darmanitan-Galar / Kingambit / Rillaboom / Clodsire    |    1 |  16.67% |   0.00% |
+| 1    | Corviknight / Kingambit / Rillaboom / Clodsire         |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Togekiss / Iron Treads      |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Arctozolt / Iron Treads     |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Ogerpon / Iron Treads       |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Arctozolt / Iron Treads           |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Ogerpon / Iron Treads             |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Arctozolt / Ogerpon / Iron Treads            |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Arctozolt / Togekiss        |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Ogerpon / Togekiss          |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Arctozolt / Ogerpon         |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Arctozolt / Ogerpon / Togekiss               |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Slowking-Galar / Arctozolt / Iron Treads    |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Slowking-Galar / Ogerpon / Iron Treads      |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Arctozolt / Ogerpon / Iron Treads     |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Arctozolt / Ogerpon / Iron Treads           |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Slowking-Galar / Arctozolt / Ogerpon        |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Ferrothorn / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Ferrothorn / Zamazenta-* / Ting-Lu        |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Ferrothorn / Dragonite / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Zamazenta-* / Ferrothorn / Ting-Lu         |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Ferrothorn / Dragonite / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Ferrothorn / Dragonite / Ting-Lu         |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Ferrothorn / Zamazenta-*      |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Ferrothorn / Dragonite        |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Ferrothorn / Zamazenta-* / Dragonite      |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Zamazenta-* / Ferrothorn / Dragonite       |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Zamazenta-* / Ting-Lu         |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Dragonite / Ting-Lu           |    1 |  16.67% |   0.00% |
+| 1    | Skeledirge / Zamazenta-* / Ting-Lu / Dragonite         |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Zamazenta-* / Dragonite / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Zamazenta-* / Dragonite       |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Venusaur / Spectrier / Sandaconda / Staraptor / Raging Bolt        |    1 |  16.67% | 100.00% |
+| 1    | Spectrier / Sandaconda / Scizor / Staraptor / Raging Bolt          |    1 |  16.67% | 100.00% |
+| 1    | Venusaur / Spectrier / Sandaconda / Scizor / Staraptor             |    1 |  16.67% | 100.00% |
+| 1    | Venusaur / Spectrier / Scizor / Staraptor / Raging Bolt            |    1 |  16.67% | 100.00% |
+| 1    | Venusaur / Sandaconda / Scizor / Staraptor / Raging Bolt           |    1 |  16.67% | 100.00% |
+| 1    | Venusaur / Spectrier / Sandaconda / Scizor / Raging Bolt           |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Ninjask / Alomomola / Hatterene           |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Ninjask / Alomomola / Corviknight / Hatterene          |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Ninjask / Alomomola / Corviknight         |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Ninjask / Corviknight / Hatterene         |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Alomomola / Corviknight / Hatterene       |    1 |  16.67% | 100.00% |
+| 1    | Great Tusk / Ninjask / Alomomola / Corviknight / Hatterene         |    1 |  16.67% | 100.00% |
+| 1    | Gholdengo / Dragonite / Ting-Lu / Ogerpon-Wellspring / Duraludon   |    1 |  16.67% | 100.00% |
+| 1    | Gholdengo / Dragonite / Ting-Lu / Cinderace / Duraludon            |    1 |  16.67% | 100.00% |
+| 1    | Gholdengo / Ting-Lu / Ogerpon-Wellspring / Cinderace / Duraludon   |    1 |  16.67% | 100.00% |
+| 1    | Dragonite / Ting-Lu / Ogerpon-Wellspring / Cinderace / Duraludon   |    1 |  16.67% | 100.00% |
+| 1    | Gholdengo / Dragonite / Ogerpon-Wellspring / Cinderace / Duraludon |    1 |  16.67% | 100.00% |
+| 1    | Gholdengo / Dragonite / Ting-Lu / Ogerpon-Wellspring / Cinderace   |    1 |  16.67% | 100.00% |
+| 1    | Alcremie / Clodsire / Darmanitan-Galar / Rillaboom / Corviknight   |    1 |  16.67% |   0.00% |
+| 1    | Alcremie / Clodsire / Kingambit / Darmanitan-Galar / Corviknight   |    1 |  16.67% |   0.00% |
+| 1    | Alcremie / Kingambit / Darmanitan-Galar / Rillaboom / Corviknight  |    1 |  16.67% |   0.00% |
+| 1    | Alcremie / Clodsire / Kingambit / Darmanitan-Galar / Rillaboom     |    1 |  16.67% |   0.00% |
+| 1    | Alcremie / Clodsire / Kingambit / Rillaboom / Corviknight          |    1 |  16.67% |   0.00% |
+| 1    | Clodsire / Kingambit / Darmanitan-Galar / Rillaboom / Corviknight  |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Slowking-Galar / Arctozolt / Iron Treads      |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Slowking-Galar / Ogerpon / Iron Treads        |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Slowking-Galar / Arctozolt / Ogerpon / Iron Treads       |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Arctozolt / Ogerpon / Iron Treads             |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Slowking-Galar / Arctozolt / Ogerpon          |    1 |  16.67% |   0.00% |
+| 1    | Togekiss / Slowking-Galar / Arctozolt / Ogerpon / Iron Treads      |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Blastoise / Skeledirge / Ferrothorn / Ting-Lu        |    1 |  16.67% |   0.00% |
+| 1    | Blastoise / Skeledirge / Ferrothorn / Dragonite / Ting-Lu          |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Skeledirge / Ferrothorn / Dragonite / Ting-Lu        |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Blastoise / Ferrothorn / Dragonite / Ting-Lu         |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Blastoise / Skeledirge / Ferrothorn / Dragonite      |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Blastoise / Skeledirge / Dragonite / Ting-Lu         |    1 |  16.67% |   0.00% |
+
++ ---- + ---------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Venusaur / Spectrier / Sandaconda / Scizor / Staraptor / Raging Bolt         |    1 |  16.67% | 100.00% |
+| 1    | Iron Moth / Great Tusk / Ninjask / Alomomola / Corviknight / Hatterene       |    1 |  16.67% | 100.00% |
+| 1    | Gholdengo / Dragonite / Ting-Lu / Ogerpon-Wellspring / Cinderace / Duraludon |    1 |  16.67% | 100.00% |
+| 1    | Alcremie / Clodsire / Kingambit / Darmanitan-Galar / Rillaboom / Corviknight |    1 |  16.67% |   0.00% |
+| 1    | Urshifu / Togekiss / Slowking-Galar / Arctozolt / Ogerpon / Iron Treads      |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Blastoise / Skeledirge / Ferrothorn / Dragonite / Ting-Lu      |    1 |  16.67% |   0.00% |
