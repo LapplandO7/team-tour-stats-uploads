@@ -1,0 +1,2253 @@
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| 1    | Excadrill / Garchomp            |    8 |  16.00% |  75.00% |
+| 1    | Garchomp / Serperior            |    8 |  16.00% |  62.50% |
+| 1    | Garchomp / Thundurus            |    8 |  16.00% |  62.50% |
+| 1    | Excadrill / Serperior           |    8 |  16.00% |  50.00% |
+| 5    | Thundurus / Serperior           |    7 |  14.00% |  42.86% |
+| 6    | Garchomp / Tornadus-Therian     |    6 |  12.00% |  83.33% |
+| 6    | Tyranitar / Excadrill           |    6 |  12.00% |  66.67% |
+| 6    | Excadrill / Keldeo              |    6 |  12.00% |  50.00% |
+| 6    | Excadrill / Zapdos              |    6 |  12.00% |  33.33% |
+| 6    | Manaphy / Thundurus             |    6 |  12.00% |  33.33% |
+| 11   | Latias / Garchomp               |    5 |  10.00% |  80.00% |
+| 11   | Excadrill / Thundurus           |    5 |  10.00% |  60.00% |
+| 11   | Zapdos / Keldeo                 |    5 |  10.00% |  40.00% |
+| 11   | Latias / Serperior              |    5 |  10.00% |  40.00% |
+| 11   | Latias / Landorus-Therian       |    5 |  10.00% |  40.00% |
+| 11   | Landorus-Therian / Serperior    |    5 |  10.00% |  40.00% |
+| 11   | Manaphy / Serperior             |    5 |  10.00% |  40.00% |
+| 18   | Cofagrigus / Clefable           |    4 |   8.00% |  75.00% |
+| 18   | Excadrill / Mew                 |    4 |   8.00% |  75.00% |
+| 18   | Tyranitar / Serperior           |    4 |   8.00% |  75.00% |
+| 18   | Latias / Clefable               |    4 |   8.00% |  75.00% |
+| 18   | Excadrill / Tornadus-Therian    |    4 |   8.00% |  50.00% |
+| 18   | Garchomp / Clefable             |    4 |   8.00% |  50.00% |
+| 18   | Hippowdon / Clefable            |    4 |   8.00% |  50.00% |
+| 18   | Garchomp / Metagross            |    4 |   8.00% |  50.00% |
+| 18   | Mew / Thundurus                 |    4 |   8.00% |  50.00% |
+| 18   | Thundurus / Bisharp             |    4 |   8.00% |  50.00% |
+| 18   | Latias / Kyurem-Black           |    4 |   8.00% |  50.00% |
+| 18   | Heatran / Garchomp              |    4 |   8.00% |  50.00% |
+| 18   | Excadrill / Manaphy             |    4 |   8.00% |  50.00% |
+| 18   | Mew / Manaphy                   |    4 |   8.00% |  50.00% |
+| 18   | Garchomp / Weavile              |    4 |   8.00% |  25.00% |
+| 18   | Heatran / Clefable              |    4 |   8.00% |  25.00% |
+| 18   | Garchomp / Manaphy              |    4 |   8.00% |  25.00% |
+| 35   | Latias / Hippowdon              |    3 |   6.00% | 100.00% |
+| 35   | Latias / Rotom-Wash             |    3 |   6.00% | 100.00% |
+| 35   | Hippowdon / Ferrothorn          |    3 |   6.00% | 100.00% |
+| 35   | Garchomp / Alakazam             |    3 |   6.00% |  66.67% |
+| 35   | Tornadus-Therian / Clefable     |    3 |   6.00% |  66.67% |
+| 35   | Diancie / Tornadus-Therian      |    3 |   6.00% |  66.67% |
+| 35   | Serperior / Magnezone           |    3 |   6.00% |  66.67% |
+| 35   | Kyurem-Black / Scizor           |    3 |   6.00% |  66.67% |
+| 35   | Talonflame / Scizor             |    3 |   6.00% |  66.67% |
+| 35   | Latias / Metagross              |    3 |   6.00% |  66.67% |
+| 35   | Thundurus / Metagross           |    3 |   6.00% |  66.67% |
+| 35   | Mew / Bisharp                   |    3 |   6.00% |  66.67% |
+| 35   | Garchomp / Mew                  |    3 |   6.00% |  66.67% |
+| 35   | Garchomp / Bisharp              |    3 |   6.00% |  66.67% |
+| 35   | Latias / Talonflame             |    3 |   6.00% |  66.67% |
+| 35   | Kyurem-Black / Talonflame       |    3 |   6.00% |  66.67% |
+| 35   | Mew / Serperior                 |    3 |   6.00% |  66.67% |
+| 35   | Rotom-Wash / Clefable           |    3 |   6.00% |  66.67% |
+| 35   | Rotom-Wash / Ferrothorn         |    3 |   6.00% |  66.67% |
+| 35   | Clefable / Ferrothorn           |    3 |   6.00% |  66.67% |
+| 35   | Latias / Heatran                |    3 |   6.00% |  66.67% |
+| 35   | Chansey / Cofagrigus            |    3 |   6.00% |  66.67% |
+| 35   | Chansey / Clefable              |    3 |   6.00% |  66.67% |
+| 35   | Chansey / Slowbro               |    3 |   6.00% |  66.67% |
+| 35   | Tyranitar / Garchomp            |    3 |   6.00% |  66.67% |
+| 35   | Tyranitar / Thundurus           |    3 |   6.00% |  66.67% |
+| 35   | Metagross / Weavile             |    3 |   6.00% |  66.67% |
+| 35   | Excadrill / Clefable            |    3 |   6.00% |  33.33% |
+| 35   | Weavile / Volcanion             |    3 |   6.00% |  33.33% |
+| 35   | Garchomp / Volcanion            |    3 |   6.00% |  33.33% |
+| 35   | Heatran / Skarmory              |    3 |   6.00% |  33.33% |
+| 35   | Heatran / Serperior             |    3 |   6.00% |  33.33% |
+| 35   | Clefable / Skarmory             |    3 |   6.00% |  33.33% |
+| 35   | Gyarados / Kyurem-Black         |    3 |   6.00% |  33.33% |
+| 35   | Latias / Gyarados               |    3 |   6.00% |  33.33% |
+| 35   | Manaphy / Bisharp               |    3 |   6.00% |  33.33% |
+| 35   | Gliscor / Scizor                |    3 |   6.00% |  33.33% |
+| 35   | Clefable / Scizor               |    3 |   6.00% |  33.33% |
+| 35   | Scizor / Slowbro                |    3 |   6.00% |  33.33% |
+| 35   | Clefable / Gliscor              |    3 |   6.00% |  33.33% |
+| 35   | Gliscor / Slowbro               |    3 |   6.00% |  33.33% |
+| 35   | Clefable / Slowbro              |    3 |   6.00% |  33.33% |
+| 35   | Bisharp / Serperior             |    3 |   6.00% |  33.33% |
+| 35   | Chansey / Zapdos                |    3 |   6.00% |  33.33% |
+| 35   | Excadrill / Weavile             |    3 |   6.00% |  33.33% |
+| 35   | Excadrill / Volcanion           |    3 |   6.00% |  33.33% |
+| 35   | Garchomp / Keldeo               |    3 |   6.00% |  33.33% |
+| 35   | Landorus-Therian / Volcanion    |    3 |   6.00% |   0.00% |
+| 35   | Latias / Volcanion              |    3 |   6.00% |   0.00% |
+| 84   | Alakazam / Tornadus-Therian     |    2 |   4.00% | 100.00% |
+| 84   | Excadrill / Alakazam            |    2 |   4.00% | 100.00% |
+| 84   | Diancie / Serperior             |    2 |   4.00% | 100.00% |
+| 84   | Diancie / Garchomp              |    2 |   4.00% | 100.00% |
+| 84   | Azumarill / Serperior           |    2 |   4.00% | 100.00% |
+| 84   | Tornadus-Therian / Serperior    |    2 |   4.00% | 100.00% |
+| 84   | Azumarill / Magnezone           |    2 |   4.00% | 100.00% |
+| 84   | Azumarill / Garchomp            |    2 |   4.00% | 100.00% |
+| 84   | Garchomp / Magnezone            |    2 |   4.00% | 100.00% |
+| 84   | Latias / Thundurus              |    2 |   4.00% | 100.00% |
+| 84   | Latias / Scizor                 |    2 |   4.00% | 100.00% |
+| 84   | Heatran / Tornadus-Therian      |    2 |   4.00% | 100.00% |
+| 84   | Charizard / Serperior           |    2 |   4.00% | 100.00% |
+| 84   | Excadrill / Charizard           |    2 |   4.00% | 100.00% |
+| 84   | Tyranitar / Volcarona           |    2 |   4.00% | 100.00% |
+| 84   | Serperior / Volcarona           |    2 |   4.00% | 100.00% |
+| 84   | Excadrill / Volcarona           |    2 |   4.00% | 100.00% |
+| 84   | Latias / Ferrothorn             |    2 |   4.00% | 100.00% |
+| 84   | Rotom-Wash / Hippowdon          |    2 |   4.00% | 100.00% |
+| 84   | Alakazam / Clefable             |    2 |   4.00% |  50.00% |
+| 84   | Cofagrigus / Tornadus-Therian   |    2 |   4.00% |  50.00% |
+| 84   | Cofagrigus / Excadrill          |    2 |   4.00% |  50.00% |
+| 84   | Hippowdon / Zapdos              |    2 |   4.00% |  50.00% |
+| 84   | Hippowdon / Keldeo              |    2 |   4.00% |  50.00% |
+| 84   | Garchomp / Scizor               |    2 |   4.00% |  50.00% |
+| 84   | Kyurem-Black / Garchomp         |    2 |   4.00% |  50.00% |
+| 84   | Mew / Metagross                 |    2 |   4.00% |  50.00% |
+| 84   | Bisharp / Metagross             |    2 |   4.00% |  50.00% |
+| 84   | Latias / Bisharp                |    2 |   4.00% |  50.00% |
+| 84   | Thundurus / Scizor              |    2 |   4.00% |  50.00% |
+| 84   | Excadrill / Talonflame          |    2 |   4.00% |  50.00% |
+| 84   | Gyarados / Talonflame           |    2 |   4.00% |  50.00% |
+| 84   | Gyarados / Serperior            |    2 |   4.00% |  50.00% |
+| 84   | Gyarados / Landorus-Therian     |    2 |   4.00% |  50.00% |
+| 84   | Kyurem-Black / Landorus-Therian |    2 |   4.00% |  50.00% |
+| 84   | Scizor / Landorus-Therian       |    2 |   4.00% |  50.00% |
+| 84   | Clefable / Lopunny              |    2 |   4.00% |  50.00% |
+| 84   | Rotom-Wash / Landorus-Therian   |    2 |   4.00% |  50.00% |
+| 84   | Keldeo / Serperior              |    2 |   4.00% |  50.00% |
+| 84   | Charizard / Keldeo              |    2 |   4.00% |  50.00% |
+| 84   | Latias / Reuniclus              |    2 |   4.00% |  50.00% |
+| 84   | Latias / Skarmory               |    2 |   4.00% |  50.00% |
+| 84   | Heatran / Reuniclus             |    2 |   4.00% |  50.00% |
+| 84   | Clefable / Gastrodon            |    2 |   4.00% |  50.00% |
+| 84   | Reuniclus / Skarmory            |    2 |   4.00% |  50.00% |
+| 84   | Skarmory / Gastrodon            |    2 |   4.00% |  50.00% |
+| 84   | Tyranitar / Lopunny             |    2 |   4.00% |  50.00% |
+| 84   | Excadrill / Lopunny             |    2 |   4.00% |  50.00% |
+| 84   | Keldeo / Lopunny                |    2 |   4.00% |  50.00% |
+| 84   | Zapdos / Lopunny                |    2 |   4.00% |  50.00% |
+| 84   | Amoonguss / Lopunny             |    2 |   4.00% |  50.00% |
+| 84   | Tyranitar / Keldeo              |    2 |   4.00% |  50.00% |
+| 84   | Tyranitar / Zapdos              |    2 |   4.00% |  50.00% |
+| 84   | Tyranitar / Amoonguss           |    2 |   4.00% |  50.00% |
+| 84   | Excadrill / Amoonguss           |    2 |   4.00% |  50.00% |
+| 84   | Keldeo / Amoonguss              |    2 |   4.00% |  50.00% |
+| 84   | Zapdos / Amoonguss              |    2 |   4.00% |  50.00% |
+| 84   | Cofagrigus / Scizor             |    2 |   4.00% |  50.00% |
+| 84   | Chansey / Scizor                |    2 |   4.00% |  50.00% |
+| 84   | Cofagrigus / Gliscor            |    2 |   4.00% |  50.00% |
+| 84   | Cofagrigus / Slowbro            |    2 |   4.00% |  50.00% |
+| 84   | Chansey / Gliscor               |    2 |   4.00% |  50.00% |
+| 84   | Zapdos / Mew                    |    2 |   4.00% |  50.00% |
+| 84   | Tyranitar / Manaphy             |    2 |   4.00% |  50.00% |
+| 84   | Garchomp / Volcarona            |    2 |   4.00% |  50.00% |
+| 84   | Latias / Weavile                |    2 |   4.00% |  50.00% |
+| 84   | Keldeo / Skarmory               |    2 |   4.00% |  50.00% |
+| 84   | Keldeo / Venusaur               |    2 |   4.00% |  50.00% |
+| 84   | Zapdos / Venusaur               |    2 |   4.00% |  50.00% |
+| 84   | Excadrill / Venusaur            |    2 |   4.00% |  50.00% |
+| 84   | Zapdos / Weavile                |    2 |   4.00% |  50.00% |
+| 84   | Chansey / Weavile               |    2 |   4.00% |  50.00% |
+| 84   | Pinsir / Serperior              |    2 |   4.00% |  50.00% |
+| 84   | Pinsir / Garchomp               |    2 |   4.00% |  50.00% |
+| 84   | Latias / Magnezone              |    2 |   4.00% |  50.00% |
+| 84   | Heatran / Keldeo                |    2 |   4.00% |  50.00% |
+| 84   | Excadrill / Hippowdon           |    2 |   4.00% |   0.00% |
+| 84   | Scizor / Weavile                |    2 |   4.00% |   0.00% |
+| 84   | Kyurem-Black / Volcanion        |    2 |   4.00% |   0.00% |
+| 84   | Diancie / Weavile               |    2 |   4.00% |   0.00% |
+| 84   | Garchomp / Skarmory             |    2 |   4.00% |   0.00% |
+| 84   | Manaphy / Metagross             |    2 |   4.00% |   0.00% |
+| 84   | Latias / Volcarona              |    2 |   4.00% |   0.00% |
+| 84   | Landorus-Therian / Lopunny      |    2 |   4.00% |   0.00% |
+| 84   | Tornadus-Therian / Volcanion    |    2 |   4.00% |   0.00% |
+| 84   | Keldeo / Weavile                |    2 |   4.00% |   0.00% |
+| 84   | Landorus-Therian / Bisharp      |    2 |   4.00% |   0.00% |
+| 84   | Serperior / Volcanion           |    2 |   4.00% |   0.00% |
+| 172  | Cofagrigus / Alakazam           |    1 |   2.00% | 100.00% |
+| 172  | Cofagrigus / Garchomp           |    1 |   2.00% | 100.00% |
+| 172  | Diancie / Azumarill             |    1 |   2.00% | 100.00% |
+| 172  | Diancie / Magnezone             |    1 |   2.00% | 100.00% |
+| 172  | Azumarill / Tornadus-Therian    |    1 |   2.00% | 100.00% |
+| 172  | Tornadus-Therian / Magnezone    |    1 |   2.00% | 100.00% |
+| 172  | Latias / Mew                    |    1 |   2.00% | 100.00% |
+| 172  | Kyurem-Black / Thundurus        |    1 |   2.00% | 100.00% |
+| 172  | Talonflame / Garchomp           |    1 |   2.00% | 100.00% |
+| 172  | Talonflame / Thundurus          |    1 |   2.00% | 100.00% |
+| 172  | Pinsir / Talonflame             |    1 |   2.00% | 100.00% |
+| 172  | Pinsir / Excadrill              |    1 |   2.00% | 100.00% |
+| 172  | Pinsir / Manaphy                |    1 |   2.00% | 100.00% |
+| 172  | Pinsir / Dragonite              |    1 |   2.00% | 100.00% |
+| 172  | Pinsir / Mew                    |    1 |   2.00% | 100.00% |
+| 172  | Talonflame / Manaphy            |    1 |   2.00% | 100.00% |
+| 172  | Talonflame / Dragonite          |    1 |   2.00% | 100.00% |
+| 172  | Talonflame / Mew                |    1 |   2.00% | 100.00% |
+| 172  | Excadrill / Dragonite           |    1 |   2.00% | 100.00% |
+| 172  | Manaphy / Dragonite             |    1 |   2.00% | 100.00% |
+| 172  | Mew / Dragonite                 |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Alakazam           |    1 |   2.00% | 100.00% |
+| 172  | Alakazam / Bisharp              |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Garchomp           |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Bisharp            |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Tornadus-Therian   |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Excadrill          |    1 |   2.00% | 100.00% |
+| 172  | Tornadus-Therian / Bisharp      |    1 |   2.00% | 100.00% |
+| 172  | Excadrill / Bisharp             |    1 |   2.00% | 100.00% |
+| 172  | Diancie / Slowbro               |    1 |   2.00% | 100.00% |
+| 172  | Heatran / Diancie               |    1 |   2.00% | 100.00% |
+| 172  | Serperior / Slowbro             |    1 |   2.00% | 100.00% |
+| 172  | Heatran / Slowbro               |    1 |   2.00% | 100.00% |
+| 172  | Garchomp / Slowbro              |    1 |   2.00% | 100.00% |
+| 172  | Tornadus-Therian / Slowbro      |    1 |   2.00% | 100.00% |
+| 172  | Charizard / Mew                 |    1 |   2.00% | 100.00% |
+| 172  | Tyranitar / Mew                 |    1 |   2.00% | 100.00% |
+| 172  | Mew / Volcarona                 |    1 |   2.00% | 100.00% |
+| 172  | Tyranitar / Charizard           |    1 |   2.00% | 100.00% |
+| 172  | Charizard / Volcarona           |    1 |   2.00% | 100.00% |
+| 172  | Gyarados / Scizor               |    1 |   2.00% | 100.00% |
+| 172  | Talonflame / Landorus-Therian   |    1 |   2.00% | 100.00% |
+| 172  | Cresselia / Serperior           |    1 |   2.00% | 100.00% |
+| 172  | Cresselia / Keldeo              |    1 |   2.00% | 100.00% |
+| 172  | Cresselia / Charizard           |    1 |   2.00% | 100.00% |
+| 172  | Cresselia / Excadrill           |    1 |   2.00% | 100.00% |
+| 172  | Cresselia / Landorus-Therian    |    1 |   2.00% | 100.00% |
+| 172  | Keldeo / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 172  | Charizard / Landorus-Therian    |    1 |   2.00% | 100.00% |
+| 172  | Excadrill / Landorus-Therian    |    1 |   2.00% | 100.00% |
+| 172  | Gyarados / Mew                  |    1 |   2.00% | 100.00% |
+| 172  | Gyarados / Bisharp              |    1 |   2.00% | 100.00% |
+| 172  | Gyarados / Manaphy              |    1 |   2.00% | 100.00% |
+| 172  | Gyarados / Thundurus            |    1 |   2.00% | 100.00% |
+| 172  | Metagross / Volcanion           |    1 |   2.00% | 100.00% |
+| 172  | Excadrill / Metagross           |    1 |   2.00% | 100.00% |
+| 172  | Thundurus / Weavile             |    1 |   2.00% | 100.00% |
+| 172  | Thundurus / Volcanion           |    1 |   2.00% | 100.00% |
+| 172  | Lopunny / Skarmory              |    1 |   2.00% | 100.00% |
+| 172  | Cofagrigus / Lopunny            |    1 |   2.00% | 100.00% |
+| 172  | Chansey / Lopunny               |    1 |   2.00% | 100.00% |
+| 172  | Lopunny / Gastrodon             |    1 |   2.00% | 100.00% |
+| 172  | Cofagrigus / Skarmory           |    1 |   2.00% | 100.00% |
+| 172  | Chansey / Skarmory              |    1 |   2.00% | 100.00% |
+| 172  | Cofagrigus / Gastrodon          |    1 |   2.00% | 100.00% |
+| 172  | Chansey / Gastrodon             |    1 |   2.00% | 100.00% |
+| 172  | Thundurus / Volcarona           |    1 |   2.00% | 100.00% |
+| 172  | Latias / Gengar                 |    1 |   2.00% | 100.00% |
+| 172  | Gengar / Clefable               |    1 |   2.00% | 100.00% |
+| 172  | Gengar / Ferrothorn             |    1 |   2.00% | 100.00% |
+| 172  | Hippowdon / Gengar              |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Gengar             |    1 |   2.00% | 100.00% |
+| 172  | Garchomp / Venusaur             |    1 |   2.00% | 100.00% |
+| 172  | Mew / Venusaur                  |    1 |   2.00% | 100.00% |
+| 172  | Keldeo / Mew                    |    1 |   2.00% | 100.00% |
+| 172  | Zapdos / Garchomp               |    1 |   2.00% | 100.00% |
+| 172  | Pinsir / Magnezone              |    1 |   2.00% | 100.00% |
+| 172  | Pinsir / Azumarill              |    1 |   2.00% | 100.00% |
+| 172  | Latias / Pinsir                 |    1 |   2.00% | 100.00% |
+| 172  | Latias / Azumarill              |    1 |   2.00% | 100.00% |
+| 172  | Medicham / Clefable             |    1 |   2.00% | 100.00% |
+| 172  | Garchomp / Medicham             |    1 |   2.00% | 100.00% |
+| 172  | Heatran / Medicham              |    1 |   2.00% | 100.00% |
+| 172  | Latias / Medicham               |    1 |   2.00% | 100.00% |
+| 172  | Medicham / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 172  | Latias / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 172  | Latias / Hydreigon              |    1 |   2.00% | 100.00% |
+| 172  | Hydreigon / Clefable            |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Hydreigon          |    1 |   2.00% | 100.00% |
+| 172  | Hydreigon / Ferrothorn          |    1 |   2.00% | 100.00% |
+| 172  | Hippowdon / Hydreigon           |    1 |   2.00% | 100.00% |
+| 172  | Latias / Keldeo                 |    1 |   2.00% | 100.00% |
+| 172  | Hippowdon / Reuniclus           |    1 |   2.00% | 100.00% |
+| 172  | Keldeo / Reuniclus              |    1 |   2.00% | 100.00% |
+| 172  | Hippowdon / Skarmory            |    1 |   2.00% | 100.00% |
+| 172  | Heatran / Hippowdon             |    1 |   2.00% | 100.00% |
+| 172  | Hippowdon / Slowbro             |    1 |   2.00% | 100.00% |
+| 172  | Weavile / Slowbro               |    1 |   2.00% | 100.00% |
+| 172  | Zapdos / Slowbro                |    1 |   2.00% | 100.00% |
+| 172  | Ferrothorn / Slowbro            |    1 |   2.00% | 100.00% |
+| 172  | Chansey / Hippowdon             |    1 |   2.00% | 100.00% |
+| 172  | Hippowdon / Weavile             |    1 |   2.00% | 100.00% |
+| 172  | Chansey / Ferrothorn            |    1 |   2.00% | 100.00% |
+| 172  | Ferrothorn / Weavile            |    1 |   2.00% | 100.00% |
+| 172  | Zapdos / Ferrothorn             |    1 |   2.00% | 100.00% |
+| 172  | Metagross / Serperior           |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Metagross          |    1 |   2.00% | 100.00% |
+| 172  | Landorus-Therian / Metagross    |    1 |   2.00% | 100.00% |
+| 172  | Serperior / Weavile             |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Weavile            |    1 |   2.00% | 100.00% |
+| 172  | Landorus-Therian / Weavile      |    1 |   2.00% | 100.00% |
+| 172  | Rotom-Wash / Serperior          |    1 |   2.00% | 100.00% |
+| 172  | Hippowdon / Sceptile            |    1 |   2.00% |   0.00% |
+| 172  | Excadrill / Sceptile            |    1 |   2.00% |   0.00% |
+| 172  | Zapdos / Sceptile               |    1 |   2.00% |   0.00% |
+| 172  | Clefable / Sceptile             |    1 |   2.00% |   0.00% |
+| 172  | Keldeo / Sceptile               |    1 |   2.00% |   0.00% |
+| 172  | Zapdos / Clefable               |    1 |   2.00% |   0.00% |
+| 172  | Keldeo / Clefable               |    1 |   2.00% |   0.00% |
+| 172  | Scizor / Volcanion              |    1 |   2.00% |   0.00% |
+| 172  | Scizor / Dragonite              |    1 |   2.00% |   0.00% |
+| 172  | Kyurem-Black / Weavile          |    1 |   2.00% |   0.00% |
+| 172  | Dragonite / Weavile             |    1 |   2.00% |   0.00% |
+| 172  | Dragonite / Volcanion           |    1 |   2.00% |   0.00% |
+| 172  | Kyurem-Black / Dragonite        |    1 |   2.00% |   0.00% |
+| 172  | Garchomp / Dragonite            |    1 |   2.00% |   0.00% |
+| 172  | Diancie / Latios                |    1 |   2.00% |   0.00% |
+| 172  | Diancie / Scizor                |    1 |   2.00% |   0.00% |
+| 172  | Diancie / Seismitoad            |    1 |   2.00% |   0.00% |
+| 172  | Diancie / Talonflame            |    1 |   2.00% |   0.00% |
+| 172  | Latios / Weavile                |    1 |   2.00% |   0.00% |
+| 172  | Weavile / Seismitoad            |    1 |   2.00% |   0.00% |
+| 172  | Talonflame / Weavile            |    1 |   2.00% |   0.00% |
+| 172  | Latios / Scizor                 |    1 |   2.00% |   0.00% |
+| 172  | Latios / Seismitoad             |    1 |   2.00% |   0.00% |
+| 172  | Talonflame / Latios             |    1 |   2.00% |   0.00% |
+| 172  | Scizor / Seismitoad             |    1 |   2.00% |   0.00% |
+| 172  | Talonflame / Seismitoad         |    1 |   2.00% |   0.00% |
+| 172  | Medicham / Serperior            |    1 |   2.00% |   0.00% |
+| 172  | Victini / Medicham              |    1 |   2.00% |   0.00% |
+| 172  | Medicham / Hydreigon            |    1 |   2.00% |   0.00% |
+| 172  | Excadrill / Medicham            |    1 |   2.00% |   0.00% |
+| 172  | Zapdos / Medicham               |    1 |   2.00% |   0.00% |
+| 172  | Victini / Serperior             |    1 |   2.00% |   0.00% |
+| 172  | Hydreigon / Serperior           |    1 |   2.00% |   0.00% |
+| 172  | Zapdos / Serperior              |    1 |   2.00% |   0.00% |
+| 172  | Victini / Hydreigon             |    1 |   2.00% |   0.00% |
+| 172  | Excadrill / Victini             |    1 |   2.00% |   0.00% |
+| 172  | Victini / Zapdos                |    1 |   2.00% |   0.00% |
+| 172  | Excadrill / Hydreigon           |    1 |   2.00% |   0.00% |
+| 172  | Zapdos / Hydreigon              |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Alakazam              |    1 |   2.00% |   0.00% |
+| 172  | Alakazam / Skarmory             |    1 |   2.00% |   0.00% |
+| 172  | Alakazam / Serperior            |    1 |   2.00% |   0.00% |
+| 172  | Clefable / Serperior            |    1 |   2.00% |   0.00% |
+| 172  | Serperior / Skarmory            |    1 |   2.00% |   0.00% |
+| 172  | Gyarados / Excadrill            |    1 |   2.00% |   0.00% |
+| 172  | Excadrill / Kyurem-Black        |    1 |   2.00% |   0.00% |
+| 172  | Kyurem-Black / Serperior        |    1 |   2.00% |   0.00% |
+| 172  | Latias / Excadrill              |    1 |   2.00% |   0.00% |
+| 172  | Talonflame / Serperior          |    1 |   2.00% |   0.00% |
+| 172  | Gyarados / Volcarona            |    1 |   2.00% |   0.00% |
+| 172  | Gyarados / Volcanion            |    1 |   2.00% |   0.00% |
+| 172  | Kyurem-Black / Volcarona        |    1 |   2.00% |   0.00% |
+| 172  | Volcarona / Volcanion           |    1 |   2.00% |   0.00% |
+| 172  | Landorus-Therian / Volcarona    |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Lopunny               |    1 |   2.00% |   0.00% |
+| 172  | Rotom-Wash / Lopunny            |    1 |   2.00% |   0.00% |
+| 172  | Ferrothorn / Lopunny            |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Landorus-Therian      |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Rotom-Wash            |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Ferrothorn            |    1 |   2.00% |   0.00% |
+| 172  | Clefable / Landorus-Therian     |    1 |   2.00% |   0.00% |
+| 172  | Ferrothorn / Landorus-Therian   |    1 |   2.00% |   0.00% |
+| 172  | Latias / Gastrodon              |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Gastrodon             |    1 |   2.00% |   0.00% |
+| 172  | Clefable / Reuniclus            |    1 |   2.00% |   0.00% |
+| 172  | Reuniclus / Gastrodon           |    1 |   2.00% |   0.00% |
+| 172  | Gallade / Mew                   |    1 |   2.00% |   0.00% |
+| 172  | Gallade / Serperior             |    1 |   2.00% |   0.00% |
+| 172  | Gallade / Manaphy               |    1 |   2.00% |   0.00% |
+| 172  | Gallade / Excadrill             |    1 |   2.00% |   0.00% |
+| 172  | Gallade / Thundurus             |    1 |   2.00% |   0.00% |
+| 172  | Mew / Altaria                   |    1 |   2.00% |   0.00% |
+| 172  | Altaria / Magnezone             |    1 |   2.00% |   0.00% |
+| 172  | Chansey / Altaria               |    1 |   2.00% |   0.00% |
+| 172  | Quagsire / Altaria              |    1 |   2.00% |   0.00% |
+| 172  | Zapdos / Altaria                |    1 |   2.00% |   0.00% |
+| 172  | Mew / Magnezone                 |    1 |   2.00% |   0.00% |
+| 172  | Chansey / Mew                   |    1 |   2.00% |   0.00% |
+| 172  | Quagsire / Mew                  |    1 |   2.00% |   0.00% |
+| 172  | Chansey / Magnezone             |    1 |   2.00% |   0.00% |
+| 172  | Quagsire / Magnezone            |    1 |   2.00% |   0.00% |
+| 172  | Zapdos / Magnezone              |    1 |   2.00% |   0.00% |
+| 172  | Chansey / Quagsire              |    1 |   2.00% |   0.00% |
+| 172  | Quagsire / Zapdos               |    1 |   2.00% |   0.00% |
+| 172  | Tornadus-Therian / Weavile      |    1 |   2.00% |   0.00% |
+| 172  | Cofagrigus / Weavile            |    1 |   2.00% |   0.00% |
+| 172  | Diancie / Excadrill             |    1 |   2.00% |   0.00% |
+| 172  | Diancie / Volcanion             |    1 |   2.00% |   0.00% |
+| 172  | Diancie / Cofagrigus            |    1 |   2.00% |   0.00% |
+| 172  | Cofagrigus / Volcanion          |    1 |   2.00% |   0.00% |
+| 172  | Hippowdon / Garchomp            |    1 |   2.00% |   0.00% |
+| 172  | Hippowdon / Volcanion           |    1 |   2.00% |   0.00% |
+| 172  | Hippowdon / Tornadus-Therian    |    1 |   2.00% |   0.00% |
+| 172  | Clefable / Volcanion            |    1 |   2.00% |   0.00% |
+| 172  | Metagross / Volcarona           |    1 |   2.00% |   0.00% |
+| 172  | Weavile / Volcarona             |    1 |   2.00% |   0.00% |
+| 172  | Manaphy / Volcarona             |    1 |   2.00% |   0.00% |
+| 172  | Manaphy / Weavile               |    1 |   2.00% |   0.00% |
+| 172  | Latias / Manaphy                |    1 |   2.00% |   0.00% |
+| 172  | Victini / Charizard             |    1 |   2.00% |   0.00% |
+| 172  | Charizard / Skarmory            |    1 |   2.00% |   0.00% |
+| 172  | Charizard / Weavile             |    1 |   2.00% |   0.00% |
+| 172  | Charizard / Garchomp            |    1 |   2.00% |   0.00% |
+| 172  | Victini / Keldeo                |    1 |   2.00% |   0.00% |
+| 172  | Victini / Skarmory              |    1 |   2.00% |   0.00% |
+| 172  | Victini / Weavile               |    1 |   2.00% |   0.00% |
+| 172  | Victini / Garchomp              |    1 |   2.00% |   0.00% |
+| 172  | Weavile / Skarmory              |    1 |   2.00% |   0.00% |
+| 172  | Venusaur / Weavile              |    1 |   2.00% |   0.00% |
+| 172  | Chansey / Venusaur              |    1 |   2.00% |   0.00% |
+| 172  | Chansey / Keldeo                |    1 |   2.00% |   0.00% |
+| 172  | Chansey / Excadrill             |    1 |   2.00% |   0.00% |
+| 172  | Landorus-Therian / Thundurus    |    1 |   2.00% |   0.00% |
+| 172  | Manaphy / Scizor                |    1 |   2.00% |   0.00% |
+| 172  | Manaphy / Landorus-Therian      |    1 |   2.00% |   0.00% |
+| 172  | Scizor / Serperior              |    1 |   2.00% |   0.00% |
+| 172  | Bisharp / Scizor                |    1 |   2.00% |   0.00% |
+| 172  | Dragalge / Scizor               |    1 |   2.00% |   0.00% |
+| 172  | Scizor / Magnezone              |    1 |   2.00% |   0.00% |
+| 172  | Dragalge / Slowbro              |    1 |   2.00% |   0.00% |
+| 172  | Magnezone / Slowbro             |    1 |   2.00% |   0.00% |
+| 172  | Gliscor / Dragalge              |    1 |   2.00% |   0.00% |
+| 172  | Gliscor / Magnezone             |    1 |   2.00% |   0.00% |
+| 172  | Clefable / Dragalge             |    1 |   2.00% |   0.00% |
+| 172  | Dragalge / Magnezone            |    1 |   2.00% |   0.00% |
+| 172  | Clefable / Magnezone            |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Pinsir                |    1 |   2.00% |   0.00% |
+| 172  | Pinsir / Keldeo                 |    1 |   2.00% |   0.00% |
+| 172  | Pinsir / Thundurus              |    1 |   2.00% |   0.00% |
+| 172  | Heatran / Thundurus             |    1 |   2.00% |   0.00% |
+| 172  | Keldeo / Thundurus              |    1 |   2.00% |   0.00% |
+| 172  | Landorus-Therian / Magnezone    |    1 |   2.00% |   0.00% |
+| 172  | Lopunny / Serperior             |    1 |   2.00% |   0.00% |
+| 172  | Latias / Lopunny                |    1 |   2.00% |   0.00% |
+| 172  | Lopunny / Volcanion             |    1 |   2.00% |   0.00% |
+| 172  | Lopunny / Magnezone             |    1 |   2.00% |   0.00% |
+| 172  | Magnezone / Volcanion           |    1 |   2.00% |   0.00% |
+| 172  | Gardevoir / Landorus-Therian    |    1 |   2.00% |   0.00% |
+| 172  | Gardevoir / Bisharp             |    1 |   2.00% |   0.00% |
+| 172  | Gardevoir / Latias              |    1 |   2.00% |   0.00% |
+| 172  | Gardevoir / Volcanion           |    1 |   2.00% |   0.00% |
+| 172  | Gardevoir / Serperior           |    1 |   2.00% |   0.00% |
+| 172  | Bisharp / Volcanion             |    1 |   2.00% |   0.00% |
+
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                  | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| 1    | Excadrill / Zapdos / Keldeo                  |    5 |  10.00% |  40.00% |
+| 1    | Thundurus / Manaphy / Serperior              |    5 |  10.00% |  40.00% |
+| 3    | Tyranitar / Excadrill / Serperior            |    4 |   8.00% |  75.00% |
+| 3    | Excadrill / Garchomp / Thundurus             |    4 |   8.00% |  75.00% |
+| 3    | Excadrill / Thundurus / Serperior            |    4 |   8.00% |  50.00% |
+| 3    | Thundurus / Garchomp / Serperior             |    4 |   8.00% |  50.00% |
+| 7    | Garchomp / Tornadus-Therian / Clefable       |    3 |   6.00% |  66.67% |
+| 7    | Garchomp / Excadrill / Tornadus-Therian      |    3 |   6.00% |  66.67% |
+| 7    | Thundurus / Garchomp / Metagross             |    3 |   6.00% |  66.67% |
+| 7    | Thundurus / Mew / Bisharp                    |    3 |   6.00% |  66.67% |
+| 7    | Latias / Kyurem-Black / Talonflame           |    3 |   6.00% |  66.67% |
+| 7    | Rotom-Wash / Clefable / Ferrothorn           |    3 |   6.00% |  66.67% |
+| 7    | Chansey / Cofagrigus / Clefable              |    3 |   6.00% |  66.67% |
+| 7    | Excadrill / Garchomp / Serperior             |    3 |   6.00% |  66.67% |
+| 7    | Tyranitar / Garchomp / Serperior             |    3 |   6.00% |  66.67% |
+| 7    | Tyranitar / Thundurus / Serperior            |    3 |   6.00% |  66.67% |
+| 7    | Tyranitar / Excadrill / Garchomp             |    3 |   6.00% |  66.67% |
+| 7    | Tyranitar / Excadrill / Thundurus            |    3 |   6.00% |  66.67% |
+| 7    | Tyranitar / Garchomp / Thundurus             |    3 |   6.00% |  66.67% |
+| 7    | Heatran / Garchomp / Serperior               |    3 |   6.00% |  33.33% |
+| 7    | Latias / Gyarados / Kyurem-Black             |    3 |   6.00% |  33.33% |
+| 7    | Mew / Manaphy / Thundurus                    |    3 |   6.00% |  33.33% |
+| 7    | Thundurus / Manaphy / Bisharp                |    3 |   6.00% |  33.33% |
+| 7    | Garchomp / Manaphy / Thundurus               |    3 |   6.00% |  33.33% |
+| 7    | Clefable / Gliscor / Scizor                  |    3 |   6.00% |  33.33% |
+| 7    | Gliscor / Scizor / Slowbro                   |    3 |   6.00% |  33.33% |
+| 7    | Clefable / Scizor / Slowbro                  |    3 |   6.00% |  33.33% |
+| 7    | Clefable / Gliscor / Slowbro                 |    3 |   6.00% |  33.33% |
+| 7    | Excadrill / Manaphy / Serperior              |    3 |   6.00% |  33.33% |
+| 7    | Excadrill / Manaphy / Thundurus              |    3 |   6.00% |  33.33% |
+| 7    | Latias / Landorus-Therian / Serperior        |    3 |   6.00% |  33.33% |
+| 7    | Latias / Landorus-Therian / Volcanion        |    3 |   6.00% |   0.00% |
+| 33   | Excadrill / Alakazam / Tornadus-Therian      |    2 |   4.00% | 100.00% |
+| 33   | Garchomp / Alakazam / Tornadus-Therian       |    2 |   4.00% | 100.00% |
+| 33   | Garchomp / Excadrill / Alakazam              |    2 |   4.00% | 100.00% |
+| 33   | Diancie / Garchomp / Serperior               |    2 |   4.00% | 100.00% |
+| 33   | Diancie / Tornadus-Therian / Serperior       |    2 |   4.00% | 100.00% |
+| 33   | Diancie / Garchomp / Tornadus-Therian        |    2 |   4.00% | 100.00% |
+| 33   | Azumarill / Serperior / Magnezone            |    2 |   4.00% | 100.00% |
+| 33   | Azumarill / Garchomp / Serperior             |    2 |   4.00% | 100.00% |
+| 33   | Garchomp / Serperior / Magnezone             |    2 |   4.00% | 100.00% |
+| 33   | Tornadus-Therian / Garchomp / Serperior      |    2 |   4.00% | 100.00% |
+| 33   | Azumarill / Garchomp / Magnezone             |    2 |   4.00% | 100.00% |
+| 33   | Latias / Garchomp / Thundurus                |    2 |   4.00% | 100.00% |
+| 33   | Latias / Kyurem-Black / Scizor               |    2 |   4.00% | 100.00% |
+| 33   | Latias / Talonflame / Scizor                 |    2 |   4.00% | 100.00% |
+| 33   | Kyurem-Black / Scizor / Talonflame           |    2 |   4.00% | 100.00% |
+| 33   | Heatran / Garchomp / Tornadus-Therian        |    2 |   4.00% | 100.00% |
+| 33   | Excadrill / Charizard / Serperior            |    2 |   4.00% | 100.00% |
+| 33   | Tyranitar / Serperior / Volcarona            |    2 |   4.00% | 100.00% |
+| 33   | Tyranitar / Excadrill / Volcarona            |    2 |   4.00% | 100.00% |
+| 33   | Excadrill / Serperior / Volcarona            |    2 |   4.00% | 100.00% |
+| 33   | Latias / Clefable / Ferrothorn               |    2 |   4.00% | 100.00% |
+| 33   | Latias / Hippowdon / Clefable                |    2 |   4.00% | 100.00% |
+| 33   | Latias / Clefable / Rotom-Wash               |    2 |   4.00% | 100.00% |
+| 33   | Latias / Hippowdon / Ferrothorn              |    2 |   4.00% | 100.00% |
+| 33   | Latias / Ferrothorn / Rotom-Wash             |    2 |   4.00% | 100.00% |
+| 33   | Latias / Hippowdon / Rotom-Wash              |    2 |   4.00% | 100.00% |
+| 33   | Hippowdon / Clefable / Ferrothorn            |    2 |   4.00% | 100.00% |
+| 33   | Rotom-Wash / Hippowdon / Clefable            |    2 |   4.00% | 100.00% |
+| 33   | Rotom-Wash / Hippowdon / Ferrothorn          |    2 |   4.00% | 100.00% |
+| 33   | Garchomp / Alakazam / Clefable               |    2 |   4.00% |  50.00% |
+| 33   | Cofagrigus / Tornadus-Therian / Excadrill    |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Tornadus-Therian / Clefable      |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Garchomp / Clefable              |    2 |   4.00% |  50.00% |
+| 33   | Kyurem-Black / Garchomp / Scizor             |    2 |   4.00% |  50.00% |
+| 33   | Garchomp / Weavile / Volcanion               |    2 |   4.00% |  50.00% |
+| 33   | Bisharp / Mew / Metagross                    |    2 |   4.00% |  50.00% |
+| 33   | Garchomp / Mew / Metagross                   |    2 |   4.00% |  50.00% |
+| 33   | Thundurus / Mew / Metagross                  |    2 |   4.00% |  50.00% |
+| 33   | Bisharp / Garchomp / Metagross               |    2 |   4.00% |  50.00% |
+| 33   | Bisharp / Thundurus / Metagross              |    2 |   4.00% |  50.00% |
+| 33   | Latias / Garchomp / Metagross                |    2 |   4.00% |  50.00% |
+| 33   | Garchomp / Mew / Bisharp                     |    2 |   4.00% |  50.00% |
+| 33   | Garchomp / Mew / Thundurus                   |    2 |   4.00% |  50.00% |
+| 33   | Thundurus / Garchomp / Bisharp               |    2 |   4.00% |  50.00% |
+| 33   | Heatran / Garchomp / Clefable                |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Mew / Manaphy                    |    2 |   4.00% |  50.00% |
+| 33   | Gyarados / Kyurem-Black / Talonflame         |    2 |   4.00% |  50.00% |
+| 33   | Latias / Gyarados / Talonflame               |    2 |   4.00% |  50.00% |
+| 33   | Mew / Manaphy / Bisharp                      |    2 |   4.00% |  50.00% |
+| 33   | Gyarados / Kyurem-Black / Landorus-Therian   |    2 |   4.00% |  50.00% |
+| 33   | Latias / Gyarados / Landorus-Therian         |    2 |   4.00% |  50.00% |
+| 33   | Latias / Kyurem-Black / Landorus-Therian     |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Mew / Serperior                  |    2 |   4.00% |  50.00% |
+| 33   | Latias / Clefable / Heatran                  |    2 |   4.00% |  50.00% |
+| 33   | Latias / Reuniclus / Heatran                 |    2 |   4.00% |  50.00% |
+| 33   | Latias / Heatran / Skarmory                  |    2 |   4.00% |  50.00% |
+| 33   | Latias / Reuniclus / Skarmory                |    2 |   4.00% |  50.00% |
+| 33   | Heatran / Reuniclus / Skarmory               |    2 |   4.00% |  50.00% |
+| 33   | Skarmory / Clefable / Gastrodon              |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Excadrill / Lopunny              |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Keldeo / Lopunny                 |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Zapdos / Lopunny                 |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Amoonguss / Lopunny              |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Keldeo / Lopunny                 |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Zapdos / Lopunny                 |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Amoonguss / Lopunny              |    2 |   4.00% |  50.00% |
+| 33   | Zapdos / Keldeo / Lopunny                    |    2 |   4.00% |  50.00% |
+| 33   | Amoonguss / Keldeo / Lopunny                 |    2 |   4.00% |  50.00% |
+| 33   | Zapdos / Lopunny / Amoonguss                 |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Excadrill / Keldeo               |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Excadrill / Zapdos               |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Excadrill / Amoonguss            |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Zapdos / Keldeo                  |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Keldeo / Amoonguss               |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Zapdos / Amoonguss               |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Keldeo / Amoonguss               |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Zapdos / Amoonguss               |    2 |   4.00% |  50.00% |
+| 33   | Zapdos / Keldeo / Amoonguss                  |    2 |   4.00% |  50.00% |
+| 33   | Cofagrigus / Gliscor / Scizor                |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Cofagrigus / Scizor                |    2 |   4.00% |  50.00% |
+| 33   | Cofagrigus / Clefable / Scizor               |    2 |   4.00% |  50.00% |
+| 33   | Cofagrigus / Scizor / Slowbro                |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Gliscor / Scizor                   |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Clefable / Scizor                  |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Scizor / Slowbro                   |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Cofagrigus / Gliscor               |    2 |   4.00% |  50.00% |
+| 33   | Cofagrigus / Clefable / Gliscor              |    2 |   4.00% |  50.00% |
+| 33   | Cofagrigus / Gliscor / Slowbro               |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Cofagrigus / Slowbro               |    2 |   4.00% |  50.00% |
+| 33   | Cofagrigus / Clefable / Slowbro              |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Clefable / Gliscor                 |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Gliscor / Slowbro                  |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Clefable / Slowbro                 |    2 |   4.00% |  50.00% |
+| 33   | Mew / Manaphy / Serperior                    |    2 |   4.00% |  50.00% |
+| 33   | Thundurus / Mew / Serperior                  |    2 |   4.00% |  50.00% |
+| 33   | Manaphy / Bisharp / Serperior                |    2 |   4.00% |  50.00% |
+| 33   | Thundurus / Bisharp / Serperior              |    2 |   4.00% |  50.00% |
+| 33   | Garchomp / Manaphy / Serperior               |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Manaphy / Serperior              |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Garchomp / Manaphy               |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Excadrill / Manaphy              |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Garchomp / Manaphy               |    2 |   4.00% |  50.00% |
+| 33   | Tyranitar / Manaphy / Thundurus              |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Weavile / Volcanion              |    2 |   4.00% |  50.00% |
+| 33   | Garchomp / Metagross / Weavile               |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Garchomp / Volcanion             |    2 |   4.00% |  50.00% |
+| 33   | Latias / Metagross / Weavile                 |    2 |   4.00% |  50.00% |
+| 33   | Zapdos / Keldeo / Venusaur                   |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Keldeo / Venusaur                |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Zapdos / Venusaur                |    2 |   4.00% |  50.00% |
+| 33   | Chansey / Zapdos / Weavile                   |    2 |   4.00% |  50.00% |
+| 33   | Pinsir / Garchomp / Serperior                |    2 |   4.00% |  50.00% |
+| 33   | Latias / Serperior / Magnezone               |    2 |   4.00% |  50.00% |
+| 33   | Excadrill / Hippowdon / Clefable             |    2 |   4.00% |   0.00% |
+| 33   | Heatran / Clefable / Skarmory                |    2 |   4.00% |   0.00% |
+| 33   | Garchomp / Manaphy / Metagross               |    2 |   4.00% |   0.00% |
+| 33   | Excadrill / Tornadus-Therian / Volcanion     |    2 |   4.00% |   0.00% |
+| 33   | Bisharp / Landorus-Therian / Serperior       |    2 |   4.00% |   0.00% |
+| 33   | Landorus-Therian / Volcanion / Serperior     |    2 |   4.00% |   0.00% |
+| 33   | Latias / Serperior / Volcanion               |    2 |   4.00% |   0.00% |
+| 153  | Cofagrigus / Alakazam / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Alakazam / Clefable / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Alakazam / Clefable             |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Alakazam / Excadrill            |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Cofagrigus / Alakazam             |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Alakazam / Clefable              |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Tornadus-Therian / Clefable     |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Cofagrigus / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Clefable / Excadrill            |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Garchomp / Clefable             |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Garchomp / Excadrill            |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Azumarill / Serperior              |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Serperior / Magnezone              |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Azumarill / Magnezone              |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Azumarill / Garchomp               |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Azumarill / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Garchomp / Magnezone               |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Tornadus-Therian / Magnezone       |    1 |   2.00% | 100.00% |
+| 153  | Azumarill / Tornadus-Therian / Serperior     |    1 |   2.00% | 100.00% |
+| 153  | Tornadus-Therian / Serperior / Magnezone     |    1 |   2.00% | 100.00% |
+| 153  | Azumarill / Tornadus-Therian / Magnezone     |    1 |   2.00% | 100.00% |
+| 153  | Azumarill / Garchomp / Tornadus-Therian      |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Tornadus-Therian / Magnezone      |    1 |   2.00% | 100.00% |
+| 153  | Latias / Mew / Metagross                     |    1 |   2.00% | 100.00% |
+| 153  | Latias / Bisharp / Metagross                 |    1 |   2.00% | 100.00% |
+| 153  | Latias / Thundurus / Metagross               |    1 |   2.00% | 100.00% |
+| 153  | Latias / Mew / Bisharp                       |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Latias / Mew                      |    1 |   2.00% | 100.00% |
+| 153  | Latias / Mew / Thundurus                     |    1 |   2.00% | 100.00% |
+| 153  | Latias / Garchomp / Bisharp                  |    1 |   2.00% | 100.00% |
+| 153  | Latias / Thundurus / Bisharp                 |    1 |   2.00% | 100.00% |
+| 153  | Latias / Garchomp / Scizor                   |    1 |   2.00% | 100.00% |
+| 153  | Latias / Thundurus / Scizor                  |    1 |   2.00% | 100.00% |
+| 153  | Kyurem-Black / Thundurus / Scizor            |    1 |   2.00% | 100.00% |
+| 153  | Thundurus / Garchomp / Scizor                |    1 |   2.00% | 100.00% |
+| 153  | Talonflame / Garchomp / Scizor               |    1 |   2.00% | 100.00% |
+| 153  | Thundurus / Scizor / Talonflame              |    1 |   2.00% | 100.00% |
+| 153  | Latias / Kyurem-Black / Garchomp             |    1 |   2.00% | 100.00% |
+| 153  | Latias / Kyurem-Black / Thundurus            |    1 |   2.00% | 100.00% |
+| 153  | Latias / Talonflame / Garchomp               |    1 |   2.00% | 100.00% |
+| 153  | Latias / Talonflame / Thundurus              |    1 |   2.00% | 100.00% |
+| 153  | Kyurem-Black / Garchomp / Thundurus          |    1 |   2.00% | 100.00% |
+| 153  | Kyurem-Black / Garchomp / Talonflame         |    1 |   2.00% | 100.00% |
+| 153  | Kyurem-Black / Thundurus / Talonflame        |    1 |   2.00% | 100.00% |
+| 153  | Talonflame / Garchomp / Thundurus            |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Talonflame / Excadrill              |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Talonflame / Manaphy                |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Talonflame / Dragonite              |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Talonflame / Mew                    |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Manaphy / Excadrill                 |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Dragonite / Excadrill               |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Mew / Excadrill                     |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Manaphy / Dragonite                 |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Mew / Manaphy                       |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Mew / Dragonite                     |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Talonflame / Manaphy             |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Talonflame / Dragonite           |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Talonflame / Mew                 |    1 |   2.00% | 100.00% |
+| 153  | Talonflame / Manaphy / Dragonite             |    1 |   2.00% | 100.00% |
+| 153  | Talonflame / Mew / Manaphy                   |    1 |   2.00% | 100.00% |
+| 153  | Talonflame / Mew / Dragonite                 |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Manaphy / Dragonite              |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Mew / Dragonite                  |    1 |   2.00% | 100.00% |
+| 153  | Mew / Manaphy / Dragonite                    |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Alakazam / Rotom-Wash             |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Alakazam / Bisharp                |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Alakazam / Bisharp              |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Alakazam / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Excadrill / Alakazam            |    1 |   2.00% | 100.00% |
+| 153  | Tornadus-Therian / Alakazam / Bisharp        |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Alakazam / Bisharp               |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Garchomp / Bisharp              |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Garchomp / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Excadrill / Garchomp            |    1 |   2.00% | 100.00% |
+| 153  | Tornadus-Therian / Garchomp / Bisharp        |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Garchomp / Bisharp               |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Tornadus-Therian / Bisharp      |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Excadrill / Bisharp             |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Excadrill / Tornadus-Therian    |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Tornadus-Therian / Bisharp       |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Serperior / Slowbro                |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Diancie / Serperior                |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Diancie / Slowbro                  |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Garchomp / Slowbro                 |    1 |   2.00% | 100.00% |
+| 153  | Diancie / Tornadus-Therian / Slowbro         |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Diancie / Garchomp                 |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Diancie / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Serperior / Slowbro                |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Serperior / Slowbro               |    1 |   2.00% | 100.00% |
+| 153  | Tornadus-Therian / Serperior / Slowbro       |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Tornadus-Therian / Serperior       |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Garchomp / Slowbro                 |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Tornadus-Therian / Slowbro         |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Tornadus-Therian / Slowbro        |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Charizard / Mew                  |    1 |   2.00% | 100.00% |
+| 153  | Charizard / Mew / Serperior                  |    1 |   2.00% | 100.00% |
+| 153  | Charizard / Mew / Volcarona                  |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Charizard / Mew                  |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Mew / Serperior                  |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Mew / Volcarona                  |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Excadrill / Mew                  |    1 |   2.00% | 100.00% |
+| 153  | Mew / Serperior / Volcarona                  |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Mew / Volcarona                  |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Charizard / Serperior            |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Charizard / Volcarona            |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Excadrill / Charizard            |    1 |   2.00% | 100.00% |
+| 153  | Charizard / Serperior / Volcarona            |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Charizard / Volcarona            |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Talonflame / Landorus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Talonflame / Scizor               |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Kyurem-Black / Scizor             |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Landorus-Therian / Scizor         |    1 |   2.00% | 100.00% |
+| 153  | Latias / Gyarados / Scizor                   |    1 |   2.00% | 100.00% |
+| 153  | Talonflame / Landorus-Therian / Kyurem-Black |    1 |   2.00% | 100.00% |
+| 153  | Latias / Talonflame / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 153  | Scizor / Talonflame / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 153  | Scizor / Kyurem-Black / Landorus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Latias / Scizor / Landorus-Therian           |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Keldeo / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Charizard / Serperior            |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Serperior / Excadrill            |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Landorus-Therian / Serperior     |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Charizard / Keldeo               |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Keldeo / Excadrill               |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Keldeo / Landorus-Therian        |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Charizard / Excadrill            |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Charizard / Landorus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Cresselia / Landorus-Therian / Excadrill     |    1 |   2.00% | 100.00% |
+| 153  | Charizard / Keldeo / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Keldeo / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Landorus-Therian / Keldeo / Serperior        |    1 |   2.00% | 100.00% |
+| 153  | Charizard / Landorus-Therian / Serperior     |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Landorus-Therian / Serperior     |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Charizard / Keldeo               |    1 |   2.00% | 100.00% |
+| 153  | Charizard / Keldeo / Landorus-Therian        |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Keldeo / Landorus-Therian        |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Charizard / Landorus-Therian     |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Mew / Bisharp                     |    1 |   2.00% | 100.00% |
+| 153  | Mew / Bisharp / Serperior                    |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Mew / Manaphy                     |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Mew / Serperior                   |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Mew / Thundurus                   |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Manaphy / Bisharp                 |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Bisharp / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Thundurus / Bisharp               |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Manaphy / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Manaphy / Thundurus               |    1 |   2.00% | 100.00% |
+| 153  | Gyarados / Thundurus / Serperior             |    1 |   2.00% | 100.00% |
+| 153  | Thundurus / Metagross / Weavile              |    1 |   2.00% | 100.00% |
+| 153  | Thundurus / Metagross / Volcanion            |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Thundurus / Metagross            |    1 |   2.00% | 100.00% |
+| 153  | Metagross / Weavile / Volcanion              |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Metagross / Weavile              |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Metagross / Volcanion             |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Garchomp / Metagross             |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Metagross / Volcanion            |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Thundurus / Weavile               |    1 |   2.00% | 100.00% |
+| 153  | Thundurus / Weavile / Volcanion              |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Thundurus / Weavile              |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Thundurus / Volcanion             |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Thundurus / Volcanion            |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Garchomp / Weavile               |    1 |   2.00% | 100.00% |
+| 153  | Clefable / Lopunny / Skarmory                |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Lopunny / Skarmory              |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Lopunny / Skarmory                 |    1 |   2.00% | 100.00% |
+| 153  | Gastrodon / Lopunny / Skarmory               |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Clefable / Lopunny              |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Clefable / Lopunny                 |    1 |   2.00% | 100.00% |
+| 153  | Clefable / Lopunny / Gastrodon               |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Cofagrigus / Lopunny               |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Lopunny / Gastrodon             |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Lopunny / Gastrodon                |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Clefable / Skarmory             |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Clefable / Skarmory                |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Cofagrigus / Skarmory              |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Gastrodon / Skarmory            |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Gastrodon / Skarmory               |    1 |   2.00% | 100.00% |
+| 153  | Cofagrigus / Clefable / Gastrodon            |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Clefable / Gastrodon               |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Cofagrigus / Gastrodon             |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Garchomp / Volcarona             |    1 |   2.00% | 100.00% |
+| 153  | Tyranitar / Thundurus / Volcarona            |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Serperior / Volcarona             |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Garchomp / Volcarona             |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Thundurus / Volcarona             |    1 |   2.00% | 100.00% |
+| 153  | Thundurus / Serperior / Volcarona            |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Thundurus / Volcarona            |    1 |   2.00% | 100.00% |
+| 153  | Latias / Gengar / Clefable                   |    1 |   2.00% | 100.00% |
+| 153  | Latias / Gengar / Ferrothorn                 |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hippowdon / Gengar                  |    1 |   2.00% | 100.00% |
+| 153  | Latias / Gengar / Rotom-Wash                 |    1 |   2.00% | 100.00% |
+| 153  | Gengar / Clefable / Ferrothorn               |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Gengar / Clefable                |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Gengar / Clefable               |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Gengar / Ferrothorn              |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Gengar / Ferrothorn             |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Hippowdon / Gengar              |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Keldeo / Venusaur                 |    1 |   2.00% | 100.00% |
+| 153  | Keldeo / Venusaur / Mew                      |    1 |   2.00% | 100.00% |
+| 153  | Zapdos / Garchomp / Venusaur                 |    1 |   2.00% | 100.00% |
+| 153  | Zapdos / Mew / Venusaur                      |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Garchomp / Venusaur              |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Mew / Venusaur                   |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Venusaur / Mew                    |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Zapdos / Keldeo                   |    1 |   2.00% | 100.00% |
+| 153  | Zapdos / Keldeo / Mew                        |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Excadrill / Keldeo                |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Keldeo / Mew                     |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Keldeo / Mew                      |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Zapdos / Garchomp                |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Zapdos / Mew                     |    1 |   2.00% | 100.00% |
+| 153  | Zapdos / Garchomp / Mew                      |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Garchomp / Mew                   |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Serperior / Magnezone               |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Azumarill / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Latias / Pinsir / Serperior                  |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Azumarill / Magnezone               |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Garchomp / Magnezone                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Pinsir / Magnezone                  |    1 |   2.00% | 100.00% |
+| 153  | Pinsir / Azumarill / Garchomp                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Pinsir / Azumarill                  |    1 |   2.00% | 100.00% |
+| 153  | Latias / Pinsir / Garchomp                   |    1 |   2.00% | 100.00% |
+| 153  | Latias / Azumarill / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Latias / Garchomp / Serperior                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Azumarill / Magnezone               |    1 |   2.00% | 100.00% |
+| 153  | Latias / Garchomp / Magnezone                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Azumarill / Garchomp                |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Medicham / Clefable               |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Medicham / Clefable                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Medicham / Clefable                 |    1 |   2.00% | 100.00% |
+| 153  | Medicham / Clefable / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Medicham / Heatran                |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Latias / Medicham                 |    1 |   2.00% | 100.00% |
+| 153  | Garchomp / Medicham / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Latias / Medicham                  |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Medicham / Tornadus-Therian        |    1 |   2.00% | 100.00% |
+| 153  | Latias / Medicham / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 153  | Latias / Garchomp / Clefable                 |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Tornadus-Therian / Clefable        |    1 |   2.00% | 100.00% |
+| 153  | Latias / Tornadus-Therian / Clefable         |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Latias / Garchomp                  |    1 |   2.00% | 100.00% |
+| 153  | Latias / Garchomp / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Latias / Tornadus-Therian          |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hydreigon / Clefable                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hydreigon / Rotom-Wash              |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hydreigon / Ferrothorn              |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hippowdon / Hydreigon               |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Hydreigon / Clefable            |    1 |   2.00% | 100.00% |
+| 153  | Hydreigon / Clefable / Ferrothorn            |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Hydreigon / Clefable             |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Hydreigon / Ferrothorn          |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Hippowdon / Hydreigon           |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Hydreigon / Ferrothorn           |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hippowdon / Reuniclus               |    1 |   2.00% | 100.00% |
+| 153  | Latias / Keldeo / Reuniclus                  |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hippowdon / Skarmory                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Keldeo / Skarmory                   |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hippowdon / Heatran                 |    1 |   2.00% | 100.00% |
+| 153  | Latias / Hippowdon / Keldeo                  |    1 |   2.00% | 100.00% |
+| 153  | Latias / Keldeo / Heatran                    |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Reuniclus / Skarmory             |    1 |   2.00% | 100.00% |
+| 153  | Keldeo / Reuniclus / Skarmory                |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Hippowdon / Reuniclus              |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Keldeo / Reuniclus               |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Keldeo / Reuniclus                 |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Hippowdon / Skarmory               |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Keldeo / Skarmory                |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Keldeo / Skarmory                  |    1 |   2.00% | 100.00% |
+| 153  | Heatran / Hippowdon / Keldeo                 |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Hippowdon / Slowbro                |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Weavile / Slowbro                |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Zapdos / Slowbro                 |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Ferrothorn / Slowbro             |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Weavile / Slowbro                  |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Zapdos / Slowbro                   |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Ferrothorn / Slowbro               |    1 |   2.00% | 100.00% |
+| 153  | Zapdos / Weavile / Slowbro                   |    1 |   2.00% | 100.00% |
+| 153  | Ferrothorn / Weavile / Slowbro               |    1 |   2.00% | 100.00% |
+| 153  | Zapdos / Ferrothorn / Slowbro                |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Hippowdon / Weavile                |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Hippowdon / Zapdos                 |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Hippowdon / Ferrothorn             |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Zapdos / Weavile                 |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Ferrothorn / Weavile             |    1 |   2.00% | 100.00% |
+| 153  | Hippowdon / Ferrothorn / Zapdos              |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Ferrothorn / Weavile               |    1 |   2.00% | 100.00% |
+| 153  | Chansey / Zapdos / Ferrothorn                |    1 |   2.00% | 100.00% |
+| 153  | Zapdos / Ferrothorn / Weavile                |    1 |   2.00% | 100.00% |
+| 153  | Metagross / Weavile / Serperior              |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Metagross / Weavile             |    1 |   2.00% | 100.00% |
+| 153  | Landorus-Therian / Metagross / Weavile       |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Metagross / Serperior           |    1 |   2.00% | 100.00% |
+| 153  | Landorus-Therian / Metagross / Serperior     |    1 |   2.00% | 100.00% |
+| 153  | Latias / Metagross / Serperior               |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Landorus-Therian / Metagross    |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Latias / Metagross              |    1 |   2.00% | 100.00% |
+| 153  | Latias / Landorus-Therian / Metagross        |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Serperior / Weavile             |    1 |   2.00% | 100.00% |
+| 153  | Landorus-Therian / Serperior / Weavile       |    1 |   2.00% | 100.00% |
+| 153  | Latias / Serperior / Weavile                 |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Landorus-Therian / Weavile      |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Latias / Weavile                |    1 |   2.00% | 100.00% |
+| 153  | Latias / Landorus-Therian / Weavile          |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Landorus-Therian / Serperior    |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Latias / Serperior              |    1 |   2.00% | 100.00% |
+| 153  | Rotom-Wash / Latias / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 153  | Excadrill / Hippowdon / Sceptile             |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Zapdos / Sceptile                |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Clefable / Sceptile              |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Keldeo / Sceptile                |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Zapdos / Sceptile                |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Clefable / Sceptile              |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Keldeo / Sceptile                |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Clefable / Sceptile                 |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Keldeo / Sceptile                   |    1 |   2.00% |   0.00% |
+| 153  | Keldeo / Clefable / Sceptile                 |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Hippowdon / Zapdos               |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Hippowdon / Keldeo               |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Clefable / Zapdos                |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Keldeo / Zapdos                  |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Keldeo / Clefable                |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Zapdos / Clefable                |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Keldeo / Clefable                |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Keldeo / Clefable                   |    1 |   2.00% |   0.00% |
+| 153  | Scizor / Weavile / Volcanion                 |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Scizor / Weavile              |    1 |   2.00% |   0.00% |
+| 153  | Dragonite / Scizor / Weavile                 |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Scizor / Weavile                  |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Scizor / Volcanion            |    1 |   2.00% |   0.00% |
+| 153  | Scizor / Dragonite / Volcanion               |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Scizor / Volcanion                |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Scizor / Dragonite            |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Scizor / Dragonite                |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Weavile / Volcanion           |    1 |   2.00% |   0.00% |
+| 153  | Dragonite / Weavile / Volcanion              |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Dragonite / Weavile           |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Garchomp / Weavile            |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Dragonite / Weavile               |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Dragonite / Volcanion         |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Garchomp / Volcanion          |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Dragonite / Volcanion             |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Garchomp / Dragonite          |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Latios / Weavile                   |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Scizor / Weavile                   |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Weavile / Seismitoad               |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Talonflame / Weavile               |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Latios / Scizor                    |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Latios / Seismitoad                |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Talonflame / Latios                |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Scizor / Seismitoad                |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Talonflame / Scizor                |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Talonflame / Seismitoad            |    1 |   2.00% |   0.00% |
+| 153  | Latios / Scizor / Weavile                    |    1 |   2.00% |   0.00% |
+| 153  | Latios / Weavile / Seismitoad                |    1 |   2.00% |   0.00% |
+| 153  | Talonflame / Latios / Weavile                |    1 |   2.00% |   0.00% |
+| 153  | Scizor / Weavile / Seismitoad                |    1 |   2.00% |   0.00% |
+| 153  | Talonflame / Scizor / Weavile                |    1 |   2.00% |   0.00% |
+| 153  | Talonflame / Weavile / Seismitoad            |    1 |   2.00% |   0.00% |
+| 153  | Latios / Scizor / Seismitoad                 |    1 |   2.00% |   0.00% |
+| 153  | Talonflame / Latios / Scizor                 |    1 |   2.00% |   0.00% |
+| 153  | Talonflame / Latios / Seismitoad             |    1 |   2.00% |   0.00% |
+| 153  | Talonflame / Scizor / Seismitoad             |    1 |   2.00% |   0.00% |
+| 153  | Victini / Medicham / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Medicham / Serperior / Hydreigon             |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Medicham / Serperior             |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Medicham / Serperior                |    1 |   2.00% |   0.00% |
+| 153  | Victini / Medicham / Hydreigon               |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Victini / Medicham               |    1 |   2.00% |   0.00% |
+| 153  | Victini / Medicham / Zapdos                  |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Medicham / Hydreigon             |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Medicham / Hydreigon                |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Zapdos / Medicham                |    1 |   2.00% |   0.00% |
+| 153  | Victini / Hydreigon / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Victini / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Victini / Zapdos / Serperior                 |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Hydreigon / Serperior            |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Hydreigon / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Zapdos / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Victini / Hydreigon              |    1 |   2.00% |   0.00% |
+| 153  | Victini / Hydreigon / Zapdos                 |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Victini / Zapdos                 |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Zapdos / Hydreigon               |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Alakazam / Garchomp                |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Alakazam / Clefable                |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Alakazam / Skarmory                |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Alakazam / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Alakazam / Skarmory               |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Alakazam / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Alakazam / Clefable / Skarmory               |    1 |   2.00% |   0.00% |
+| 153  | Alakazam / Clefable / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Alakazam / Serperior / Skarmory              |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Garchomp / Skarmory                |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Clefable / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Serperior / Skarmory               |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Clefable / Skarmory               |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Clefable / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Serperior / Skarmory              |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Serperior / Skarmory              |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Kyurem-Black / Excadrill          |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Kyurem-Black / Serperior          |    1 |   2.00% |   0.00% |
+| 153  | Latias / Gyarados / Excadrill                |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Talonflame / Excadrill            |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Serperior / Excadrill             |    1 |   2.00% |   0.00% |
+| 153  | Latias / Gyarados / Serperior                |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Talonflame / Serperior            |    1 |   2.00% |   0.00% |
+| 153  | Latias / Excadrill / Kyurem-Black            |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Kyurem-Black / Talonflame        |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Kyurem-Black / Serperior         |    1 |   2.00% |   0.00% |
+| 153  | Latias / Kyurem-Black / Serperior            |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Serperior / Talonflame        |    1 |   2.00% |   0.00% |
+| 153  | Latias / Excadrill / Talonflame              |    1 |   2.00% |   0.00% |
+| 153  | Latias / Excadrill / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Talonflame / Serperior           |    1 |   2.00% |   0.00% |
+| 153  | Latias / Talonflame / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Mew / Manaphy                     |    1 |   2.00% |   0.00% |
+| 153  | Mew / Manaphy / Metagross                    |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Manaphy / Bisharp                 |    1 |   2.00% |   0.00% |
+| 153  | Metagross / Manaphy / Bisharp                |    1 |   2.00% |   0.00% |
+| 153  | Thundurus / Manaphy / Metagross              |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Kyurem-Black / Volcarona          |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Kyurem-Black / Volcanion          |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Volcarona / Volcanion             |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Landorus-Therian / Volcarona      |    1 |   2.00% |   0.00% |
+| 153  | Latias / Gyarados / Volcarona                |    1 |   2.00% |   0.00% |
+| 153  | Gyarados / Landorus-Therian / Volcanion      |    1 |   2.00% |   0.00% |
+| 153  | Latias / Gyarados / Volcanion                |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Volcarona / Volcanion         |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Landorus-Therian / Volcarona  |    1 |   2.00% |   0.00% |
+| 153  | Latias / Kyurem-Black / Volcarona            |    1 |   2.00% |   0.00% |
+| 153  | Kyurem-Black / Landorus-Therian / Volcanion  |    1 |   2.00% |   0.00% |
+| 153  | Latias / Kyurem-Black / Volcanion            |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Volcarona / Volcanion     |    1 |   2.00% |   0.00% |
+| 153  | Latias / Volcarona / Volcanion               |    1 |   2.00% |   0.00% |
+| 153  | Latias / Landorus-Therian / Volcarona        |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Landorus-Therian / Lopunny         |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Lopunny / Rotom-Wash               |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Clefable / Lopunny                 |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Ferrothorn / Lopunny               |    1 |   2.00% |   0.00% |
+| 153  | Rotom-Wash / Landorus-Therian / Lopunny      |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Clefable / Lopunny        |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Ferrothorn / Lopunny      |    1 |   2.00% |   0.00% |
+| 153  | Rotom-Wash / Clefable / Lopunny              |    1 |   2.00% |   0.00% |
+| 153  | Rotom-Wash / Ferrothorn / Lopunny            |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Lopunny / Ferrothorn              |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Landorus-Therian / Rotom-Wash      |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Clefable / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Ferrothorn / Landorus-Therian      |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Clefable / Rotom-Wash              |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Ferrothorn / Rotom-Wash            |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Clefable / Ferrothorn              |    1 |   2.00% |   0.00% |
+| 153  | Rotom-Wash / Clefable / Landorus-Therian     |    1 |   2.00% |   0.00% |
+| 153  | Rotom-Wash / Ferrothorn / Landorus-Therian   |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Landorus-Therian / Ferrothorn     |    1 |   2.00% |   0.00% |
+| 153  | Latias / Heatran / Gastrodon                 |    1 |   2.00% |   0.00% |
+| 153  | Latias / Clefable / Reuniclus                |    1 |   2.00% |   0.00% |
+| 153  | Latias / Clefable / Gastrodon                |    1 |   2.00% |   0.00% |
+| 153  | Latias / Clefable / Skarmory                 |    1 |   2.00% |   0.00% |
+| 153  | Latias / Reuniclus / Gastrodon               |    1 |   2.00% |   0.00% |
+| 153  | Latias / Skarmory / Gastrodon                |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Clefable / Reuniclus               |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Clefable / Gastrodon               |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Reuniclus / Gastrodon              |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Skarmory / Gastrodon               |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Reuniclus / Gastrodon             |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Reuniclus / Skarmory              |    1 |   2.00% |   0.00% |
+| 153  | Skarmory / Reuniclus / Gastrodon             |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Mew / Serperior                    |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Mew / Manaphy                      |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Excadrill / Mew                    |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Mew / Thundurus                    |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Mew / Thundurus                  |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Manaphy / Serperior                |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Excadrill / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Thundurus / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Excadrill / Manaphy                |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Manaphy / Thundurus                |    1 |   2.00% |   0.00% |
+| 153  | Gallade / Excadrill / Thundurus              |    1 |   2.00% |   0.00% |
+| 153  | Mew / Altaria / Magnezone                    |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Mew / Altaria                      |    1 |   2.00% |   0.00% |
+| 153  | Quagsire / Mew / Altaria                     |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Mew / Altaria                       |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Altaria / Magnezone                |    1 |   2.00% |   0.00% |
+| 153  | Quagsire / Altaria / Magnezone               |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Altaria / Magnezone                 |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Quagsire / Altaria                 |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Zapdos / Altaria                   |    1 |   2.00% |   0.00% |
+| 153  | Quagsire / Zapdos / Altaria                  |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Mew / Magnezone                    |    1 |   2.00% |   0.00% |
+| 153  | Quagsire / Mew / Magnezone                   |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Mew / Magnezone                     |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Quagsire / Mew                     |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Zapdos / Mew                       |    1 |   2.00% |   0.00% |
+| 153  | Quagsire / Zapdos / Mew                      |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Quagsire / Magnezone               |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Zapdos / Magnezone                 |    1 |   2.00% |   0.00% |
+| 153  | Quagsire / Zapdos / Magnezone                |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Quagsire / Zapdos                  |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Tornadus-Therian / Weavile         |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Tornadus-Therian / Weavile       |    1 |   2.00% |   0.00% |
+| 153  | Tornadus-Therian / Weavile / Volcanion       |    1 |   2.00% |   0.00% |
+| 153  | Cofagrigus / Tornadus-Therian / Weavile      |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Weavile / Excadrill                |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Weavile / Volcanion                |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Cofagrigus / Weavile               |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Cofagrigus / Weavile             |    1 |   2.00% |   0.00% |
+| 153  | Cofagrigus / Weavile / Volcanion             |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Tornadus-Therian / Excadrill       |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Tornadus-Therian / Volcanion       |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Tornadus-Therian / Cofagrigus      |    1 |   2.00% |   0.00% |
+| 153  | Cofagrigus / Tornadus-Therian / Volcanion    |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Volcanion / Excadrill              |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Cofagrigus / Excadrill             |    1 |   2.00% |   0.00% |
+| 153  | Diancie / Cofagrigus / Volcanion             |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Cofagrigus / Volcanion           |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Hippowdon / Garchomp             |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Garchomp / Clefable              |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Garchomp / Volcanion             |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Garchomp / Tornadus-Therian      |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Clefable / Volcanion              |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Tornadus-Therian / Volcanion      |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Hippowdon / Volcanion            |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Hippowdon / Tornadus-Therian     |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Clefable / Volcanion             |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Clefable / Volcanion             |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Tornadus-Therian / Clefable      |    1 |   2.00% |   0.00% |
+| 153  | Hippowdon / Tornadus-Therian / Volcanion     |    1 |   2.00% |   0.00% |
+| 153  | Tornadus-Therian / Clefable / Volcanion      |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Metagross / Volcarona             |    1 |   2.00% |   0.00% |
+| 153  | Weavile / Metagross / Volcarona              |    1 |   2.00% |   0.00% |
+| 153  | Latias / Metagross / Volcarona               |    1 |   2.00% |   0.00% |
+| 153  | Manaphy / Metagross / Volcarona              |    1 |   2.00% |   0.00% |
+| 153  | Manaphy / Metagross / Weavile                |    1 |   2.00% |   0.00% |
+| 153  | Latias / Manaphy / Metagross                 |    1 |   2.00% |   0.00% |
+| 153  | Weavile / Garchomp / Volcarona               |    1 |   2.00% |   0.00% |
+| 153  | Latias / Garchomp / Volcarona                |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Manaphy / Volcarona               |    1 |   2.00% |   0.00% |
+| 153  | Latias / Garchomp / Weavile                  |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Manaphy / Weavile                 |    1 |   2.00% |   0.00% |
+| 153  | Latias / Garchomp / Manaphy                  |    1 |   2.00% |   0.00% |
+| 153  | Latias / Weavile / Volcarona                 |    1 |   2.00% |   0.00% |
+| 153  | Weavile / Manaphy / Volcarona                |    1 |   2.00% |   0.00% |
+| 153  | Latias / Manaphy / Volcarona                 |    1 |   2.00% |   0.00% |
+| 153  | Latias / Manaphy / Weavile                   |    1 |   2.00% |   0.00% |
+| 153  | Victini / Charizard / Keldeo                 |    1 |   2.00% |   0.00% |
+| 153  | Victini / Charizard / Skarmory               |    1 |   2.00% |   0.00% |
+| 153  | Victini / Charizard / Weavile                |    1 |   2.00% |   0.00% |
+| 153  | Victini / Charizard / Garchomp               |    1 |   2.00% |   0.00% |
+| 153  | Charizard / Keldeo / Skarmory                |    1 |   2.00% |   0.00% |
+| 153  | Charizard / Keldeo / Weavile                 |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Charizard / Keldeo                |    1 |   2.00% |   0.00% |
+| 153  | Charizard / Weavile / Skarmory               |    1 |   2.00% |   0.00% |
+| 153  | Charizard / Garchomp / Skarmory              |    1 |   2.00% |   0.00% |
+| 153  | Charizard / Garchomp / Weavile               |    1 |   2.00% |   0.00% |
+| 153  | Victini / Keldeo / Skarmory                  |    1 |   2.00% |   0.00% |
+| 153  | Victini / Keldeo / Weavile                   |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Victini / Keldeo                  |    1 |   2.00% |   0.00% |
+| 153  | Victini / Weavile / Skarmory                 |    1 |   2.00% |   0.00% |
+| 153  | Victini / Garchomp / Skarmory                |    1 |   2.00% |   0.00% |
+| 153  | Victini / Garchomp / Weavile                 |    1 |   2.00% |   0.00% |
+| 153  | Keldeo / Weavile / Skarmory                  |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Keldeo / Skarmory                 |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Keldeo / Weavile                  |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Weavile / Skarmory                |    1 |   2.00% |   0.00% |
+| 153  | Keldeo / Venusaur / Weavile                  |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Keldeo / Venusaur                  |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Venusaur / Weavile               |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Venusaur / Weavile                  |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Venusaur / Weavile                 |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Excadrill / Venusaur               |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Zapdos / Venusaur                  |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Keldeo / Weavile                 |    1 |   2.00% |   0.00% |
+| 153  | Zapdos / Keldeo / Weavile                    |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Keldeo / Weavile                   |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Excadrill / Keldeo                 |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Zapdos / Keldeo                    |    1 |   2.00% |   0.00% |
+| 153  | Excadrill / Zapdos / Weavile                 |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Excadrill / Weavile                |    1 |   2.00% |   0.00% |
+| 153  | Chansey / Excadrill / Zapdos                 |    1 |   2.00% |   0.00% |
+| 153  | Scizor / Manaphy / Thundurus                 |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Manaphy / Thundurus       |    1 |   2.00% |   0.00% |
+| 153  | Scizor / Thundurus / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Bisharp / Scizor / Thundurus                 |    1 |   2.00% |   0.00% |
+| 153  | Scizor / Landorus-Therian / Thundurus        |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Thundurus / Serperior     |    1 |   2.00% |   0.00% |
+| 153  | Bisharp / Landorus-Therian / Thundurus       |    1 |   2.00% |   0.00% |
+| 153  | Manaphy / Scizor / Serperior                 |    1 |   2.00% |   0.00% |
+| 153  | Bisharp / Manaphy / Scizor                   |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Manaphy / Scizor          |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Manaphy / Serperior       |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Manaphy / Bisharp         |    1 |   2.00% |   0.00% |
+| 153  | Bisharp / Scizor / Serperior                 |    1 |   2.00% |   0.00% |
+| 153  | Landorus-Therian / Scizor / Serperior        |    1 |   2.00% |   0.00% |
+| 153  | Bisharp / Landorus-Therian / Scizor          |    1 |   2.00% |   0.00% |
+| 153  | Dragalge / Scizor / Slowbro                  |    1 |   2.00% |   0.00% |
+| 153  | Magnezone / Scizor / Slowbro                 |    1 |   2.00% |   0.00% |
+| 153  | Gliscor / Scizor / Dragalge                  |    1 |   2.00% |   0.00% |
+| 153  | Gliscor / Scizor / Magnezone                 |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Dragalge / Scizor                 |    1 |   2.00% |   0.00% |
+| 153  | Dragalge / Scizor / Magnezone                |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Scizor / Magnezone                |    1 |   2.00% |   0.00% |
+| 153  | Gliscor / Dragalge / Slowbro                 |    1 |   2.00% |   0.00% |
+| 153  | Gliscor / Magnezone / Slowbro                |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Dragalge / Slowbro                |    1 |   2.00% |   0.00% |
+| 153  | Dragalge / Magnezone / Slowbro               |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Magnezone / Slowbro               |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Gliscor / Dragalge                |    1 |   2.00% |   0.00% |
+| 153  | Gliscor / Dragalge / Magnezone               |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Gliscor / Magnezone               |    1 |   2.00% |   0.00% |
+| 153  | Clefable / Dragalge / Magnezone              |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Pinsir / Garchomp                  |    1 |   2.00% |   0.00% |
+| 153  | Pinsir / Garchomp / Keldeo                   |    1 |   2.00% |   0.00% |
+| 153  | Pinsir / Garchomp / Thundurus                |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Pinsir / Keldeo                    |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Pinsir / Serperior                 |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Pinsir / Thundurus                 |    1 |   2.00% |   0.00% |
+| 153  | Pinsir / Keldeo / Serperior                  |    1 |   2.00% |   0.00% |
+| 153  | Pinsir / Keldeo / Thundurus                  |    1 |   2.00% |   0.00% |
+| 153  | Pinsir / Thundurus / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Garchomp / Keldeo                  |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Garchomp / Thundurus               |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Serperior / Keldeo                |    1 |   2.00% |   0.00% |
+| 153  | Garchomp / Thundurus / Keldeo                |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Keldeo / Serperior                 |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Keldeo / Thundurus                 |    1 |   2.00% |   0.00% |
+| 153  | Heatran / Thundurus / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Thundurus / Keldeo / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Lopunny / Landorus-Therian / Serperior       |    1 |   2.00% |   0.00% |
+| 153  | Latias / Lopunny / Landorus-Therian          |    1 |   2.00% |   0.00% |
+| 153  | Lopunny / Landorus-Therian / Volcanion       |    1 |   2.00% |   0.00% |
+| 153  | Lopunny / Landorus-Therian / Magnezone       |    1 |   2.00% |   0.00% |
+| 153  | Magnezone / Landorus-Therian / Serperior     |    1 |   2.00% |   0.00% |
+| 153  | Latias / Landorus-Therian / Magnezone        |    1 |   2.00% |   0.00% |
+| 153  | Magnezone / Landorus-Therian / Volcanion     |    1 |   2.00% |   0.00% |
+| 153  | Latias / Lopunny / Serperior                 |    1 |   2.00% |   0.00% |
+| 153  | Lopunny / Volcanion / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Magnezone / Lopunny / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Latias / Lopunny / Volcanion                 |    1 |   2.00% |   0.00% |
+| 153  | Latias / Lopunny / Magnezone                 |    1 |   2.00% |   0.00% |
+| 153  | Magnezone / Lopunny / Volcanion              |    1 |   2.00% |   0.00% |
+| 153  | Magnezone / Serperior / Volcanion            |    1 |   2.00% |   0.00% |
+| 153  | Latias / Magnezone / Volcanion               |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Bisharp / Landorus-Therian       |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Latias / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Landorus-Therian / Volcanion     |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Landorus-Therian / Serperior     |    1 |   2.00% |   0.00% |
+| 153  | Latias / Bisharp / Landorus-Therian          |    1 |   2.00% |   0.00% |
+| 153  | Bisharp / Landorus-Therian / Volcanion       |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Latias / Bisharp                 |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Bisharp / Volcanion              |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Bisharp / Serperior              |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Latias / Volcanion               |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Latias / Serperior               |    1 |   2.00% |   0.00% |
+| 153  | Gardevoir / Serperior / Volcanion            |    1 |   2.00% |   0.00% |
+| 153  | Latias / Bisharp / Volcanion                 |    1 |   2.00% |   0.00% |
+| 153  | Latias / Bisharp / Serperior                 |    1 |   2.00% |   0.00% |
+| 153  | Serperior / Bisharp / Volcanion              |    1 |   2.00% |   0.00% |
+
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                             | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Tyranitar / Excadrill / Garchomp / Serperior            |    3 |   6.00% |  66.67% |
+| 1    | Excadrill / Thundurus / Garchomp / Serperior            |    3 |   6.00% |  66.67% |
+| 1    | Tyranitar / Excadrill / Thundurus / Serperior           |    3 |   6.00% |  66.67% |
+| 1    | Tyranitar / Thundurus / Garchomp / Serperior            |    3 |   6.00% |  66.67% |
+| 1    | Tyranitar / Excadrill / Garchomp / Thundurus            |    3 |   6.00% |  66.67% |
+| 1    | Clefable / Gliscor / Scizor / Slowbro                   |    3 |   6.00% |  33.33% |
+| 1    | Excadrill / Thundurus / Manaphy / Serperior             |    3 |   6.00% |  33.33% |
+| 8    | Garchomp / Excadrill / Alakazam / Tornadus-Therian      |    2 |   4.00% | 100.00% |
+| 8    | Tornadus-Therian / Diancie / Garchomp / Serperior       |    2 |   4.00% | 100.00% |
+| 8    | Azumarill / Garchomp / Serperior / Magnezone            |    2 |   4.00% | 100.00% |
+| 8    | Latias / Kyurem-Black / Scizor / Talonflame             |    2 |   4.00% | 100.00% |
+| 8    | Tyranitar / Excadrill / Serperior / Volcarona           |    2 |   4.00% | 100.00% |
+| 8    | Latias / Hippowdon / Clefable / Ferrothorn              |    2 |   4.00% | 100.00% |
+| 8    | Latias / Clefable / Ferrothorn / Rotom-Wash             |    2 |   4.00% | 100.00% |
+| 8    | Latias / Hippowdon / Clefable / Rotom-Wash              |    2 |   4.00% | 100.00% |
+| 8    | Latias / Hippowdon / Ferrothorn / Rotom-Wash            |    2 |   4.00% | 100.00% |
+| 8    | Rotom-Wash / Hippowdon / Clefable / Ferrothorn          |    2 |   4.00% | 100.00% |
+| 8    | Garchomp / Excadrill / Tornadus-Therian / Clefable      |    2 |   4.00% |  50.00% |
+| 8    | Garchomp / Bisharp / Mew / Metagross                    |    2 |   4.00% |  50.00% |
+| 8    | Bisharp / Thundurus / Mew / Metagross                   |    2 |   4.00% |  50.00% |
+| 8    | Garchomp / Thundurus / Mew / Metagross                  |    2 |   4.00% |  50.00% |
+| 8    | Bisharp / Thundurus / Garchomp / Metagross              |    2 |   4.00% |  50.00% |
+| 8    | Garchomp / Thundurus / Mew / Bisharp                    |    2 |   4.00% |  50.00% |
+| 8    | Latias / Gyarados / Kyurem-Black / Talonflame           |    2 |   4.00% |  50.00% |
+| 8    | Thundurus / Mew / Manaphy / Bisharp                     |    2 |   4.00% |  50.00% |
+| 8    | Latias / Gyarados / Kyurem-Black / Landorus-Therian     |    2 |   4.00% |  50.00% |
+| 8    | Latias / Reuniclus / Heatran / Skarmory                 |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Keldeo / Lopunny                |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Zapdos / Lopunny                |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Amoonguss / Lopunny             |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Zapdos / Keldeo / Lopunny                   |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Amoonguss / Keldeo / Lopunny                |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Zapdos / Lopunny / Amoonguss                |    2 |   4.00% |  50.00% |
+| 8    | Excadrill / Zapdos / Keldeo / Lopunny                   |    2 |   4.00% |  50.00% |
+| 8    | Excadrill / Amoonguss / Keldeo / Lopunny                |    2 |   4.00% |  50.00% |
+| 8    | Excadrill / Zapdos / Lopunny / Amoonguss                |    2 |   4.00% |  50.00% |
+| 8    | Zapdos / Keldeo / Lopunny / Amoonguss                   |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Zapdos / Keldeo                 |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Keldeo / Amoonguss              |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Zapdos / Amoonguss              |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Zapdos / Keldeo / Amoonguss                 |    2 |   4.00% |  50.00% |
+| 8    | Excadrill / Zapdos / Keldeo / Amoonguss                 |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Cofagrigus / Gliscor / Scizor                 |    2 |   4.00% |  50.00% |
+| 8    | Cofagrigus / Clefable / Gliscor / Scizor                |    2 |   4.00% |  50.00% |
+| 8    | Cofagrigus / Gliscor / Scizor / Slowbro                 |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Cofagrigus / Clefable / Scizor                |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Cofagrigus / Scizor / Slowbro                 |    2 |   4.00% |  50.00% |
+| 8    | Cofagrigus / Clefable / Scizor / Slowbro                |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Clefable / Gliscor / Scizor                   |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Gliscor / Scizor / Slowbro                    |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Clefable / Scizor / Slowbro                   |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Cofagrigus / Clefable / Gliscor               |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Cofagrigus / Gliscor / Slowbro                |    2 |   4.00% |  50.00% |
+| 8    | Cofagrigus / Clefable / Gliscor / Slowbro               |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Cofagrigus / Clefable / Slowbro               |    2 |   4.00% |  50.00% |
+| 8    | Chansey / Clefable / Gliscor / Slowbro                  |    2 |   4.00% |  50.00% |
+| 8    | Thundurus / Mew / Manaphy / Serperior                   |    2 |   4.00% |  50.00% |
+| 8    | Thundurus / Manaphy / Bisharp / Serperior               |    2 |   4.00% |  50.00% |
+| 8    | Excadrill / Garchomp / Manaphy / Serperior              |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Manaphy / Serperior             |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Garchomp / Manaphy / Serperior              |    2 |   4.00% |  50.00% |
+| 8    | Thundurus / Garchomp / Manaphy / Serperior              |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Thundurus / Manaphy / Serperior             |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Garchomp / Manaphy              |    2 |   4.00% |  50.00% |
+| 8    | Excadrill / Garchomp / Manaphy / Thundurus              |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Excadrill / Manaphy / Thundurus             |    2 |   4.00% |  50.00% |
+| 8    | Tyranitar / Garchomp / Manaphy / Thundurus              |    2 |   4.00% |  50.00% |
+| 8    | Excadrill / Zapdos / Keldeo / Venusaur                  |    2 |   4.00% |  50.00% |
+| 8    | Latias / Landorus-Therian / Volcanion / Serperior       |    2 |   4.00% |   0.00% |
+| 70   | Cofagrigus / Alakazam / Clefable / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Alakazam / Tornadus-Therian / Excadrill    |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Cofagrigus / Alakazam / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Alakazam / Clefable / Tornadus-Therian      |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Alakazam / Clefable / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Alakazam / Clefable / Excadrill            |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Cofagrigus / Alakazam / Clefable             |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Cofagrigus / Alakazam / Excadrill            |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Excadrill / Alakazam / Clefable              |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Tornadus-Therian / Clefable / Excadrill    |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Cofagrigus / Tornadus-Therian / Clefable     |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Cofagrigus / Tornadus-Therian / Excadrill    |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Garchomp / Clefable / Excadrill            |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Azumarill / Serperior / Magnezone             |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Azumarill / Garchomp / Serperior              |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Azumarill / Tornadus-Therian / Serperior      |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Garchomp / Serperior / Magnezone              |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Tornadus-Therian / Serperior / Magnezone      |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Azumarill / Garchomp / Magnezone              |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Azumarill / Tornadus-Therian / Magnezone      |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Azumarill / Garchomp / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Garchomp / Tornadus-Therian / Magnezone       |    1 |   2.00% | 100.00% |
+| 70   | Azumarill / Tornadus-Therian / Serperior / Magnezone    |    1 |   2.00% | 100.00% |
+| 70   | Tornadus-Therian / Azumarill / Garchomp / Serperior     |    1 |   2.00% | 100.00% |
+| 70   | Tornadus-Therian / Garchomp / Serperior / Magnezone     |    1 |   2.00% | 100.00% |
+| 70   | Azumarill / Garchomp / Tornadus-Therian / Magnezone     |    1 |   2.00% | 100.00% |
+| 70   | Latias / Bisharp / Mew / Metagross                      |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Latias / Mew / Metagross                     |    1 |   2.00% | 100.00% |
+| 70   | Latias / Thundurus / Mew / Metagross                    |    1 |   2.00% | 100.00% |
+| 70   | Latias / Bisharp / Garchomp / Metagross                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Bisharp / Thundurus / Metagross                |    1 |   2.00% | 100.00% |
+| 70   | Latias / Thundurus / Garchomp / Metagross               |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Latias / Mew / Bisharp                       |    1 |   2.00% | 100.00% |
+| 70   | Latias / Thundurus / Mew / Bisharp                      |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Latias / Mew / Thundurus                     |    1 |   2.00% | 100.00% |
+| 70   | Latias / Thundurus / Garchomp / Bisharp                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Kyurem-Black / Garchomp / Scizor               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Kyurem-Black / Thundurus / Scizor              |    1 |   2.00% | 100.00% |
+| 70   | Latias / Thundurus / Garchomp / Scizor                  |    1 |   2.00% | 100.00% |
+| 70   | Latias / Talonflame / Garchomp / Scizor                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Thundurus / Scizor / Talonflame                |    1 |   2.00% | 100.00% |
+| 70   | Kyurem-Black / Garchomp / Thundurus / Scizor            |    1 |   2.00% | 100.00% |
+| 70   | Kyurem-Black / Garchomp / Scizor / Talonflame           |    1 |   2.00% | 100.00% |
+| 70   | Kyurem-Black / Thundurus / Scizor / Talonflame          |    1 |   2.00% | 100.00% |
+| 70   | Thundurus / Garchomp / Scizor / Talonflame              |    1 |   2.00% | 100.00% |
+| 70   | Latias / Kyurem-Black / Garchomp / Thundurus            |    1 |   2.00% | 100.00% |
+| 70   | Latias / Kyurem-Black / Garchomp / Talonflame           |    1 |   2.00% | 100.00% |
+| 70   | Latias / Kyurem-Black / Thundurus / Talonflame          |    1 |   2.00% | 100.00% |
+| 70   | Latias / Talonflame / Garchomp / Thundurus              |    1 |   2.00% | 100.00% |
+| 70   | Kyurem-Black / Garchomp / Thundurus / Talonflame        |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Talonflame / Manaphy / Excadrill               |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Talonflame / Dragonite / Excadrill             |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Talonflame / Mew / Excadrill                   |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Talonflame / Manaphy / Dragonite               |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Talonflame / Mew / Manaphy                     |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Talonflame / Mew / Dragonite                   |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Manaphy / Dragonite / Excadrill                |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Mew / Manaphy / Excadrill                      |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Mew / Dragonite / Excadrill                    |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Mew / Manaphy / Dragonite                      |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Talonflame / Manaphy / Dragonite            |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Talonflame / Mew / Manaphy                  |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Talonflame / Mew / Dragonite                |    1 |   2.00% | 100.00% |
+| 70   | Talonflame / Mew / Manaphy / Dragonite                  |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Mew / Manaphy / Dragonite                   |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Alakazam / Bisharp / Rotom-Wash              |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Alakazam / Tornadus-Therian / Rotom-Wash     |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Excadrill / Alakazam / Rotom-Wash            |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Tornadus-Therian / Alakazam / Bisharp        |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Excadrill / Alakazam / Bisharp               |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Tornadus-Therian / Alakazam / Bisharp      |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Excadrill / Alakazam / Bisharp             |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Excadrill / Alakazam / Tornadus-Therian    |    1 |   2.00% | 100.00% |
+| 70   | Tornadus-Therian / Alakazam / Bisharp / Excadrill       |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Tornadus-Therian / Garchomp / Bisharp      |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Excadrill / Garchomp / Bisharp             |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Excadrill / Garchomp / Tornadus-Therian    |    1 |   2.00% | 100.00% |
+| 70   | Tornadus-Therian / Garchomp / Bisharp / Excadrill       |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Excadrill / Tornadus-Therian / Bisharp     |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Diancie / Serperior / Slowbro                 |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Garchomp / Serperior / Slowbro                |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Tornadus-Therian / Serperior / Slowbro        |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Diancie / Garchomp / Serperior                |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Diancie / Tornadus-Therian / Serperior        |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Diancie / Garchomp / Slowbro                  |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Diancie / Tornadus-Therian / Slowbro          |    1 |   2.00% | 100.00% |
+| 70   | Diancie / Garchomp / Tornadus-Therian / Slowbro         |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Diancie / Garchomp / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Garchomp / Serperior / Slowbro                |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Tornadus-Therian / Serperior / Slowbro        |    1 |   2.00% | 100.00% |
+| 70   | Tornadus-Therian / Garchomp / Serperior / Slowbro       |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Tornadus-Therian / Garchomp / Serperior       |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Garchomp / Tornadus-Therian / Slowbro         |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Charizard / Mew / Serperior                 |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Charizard / Mew / Volcarona                 |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Excadrill / Charizard / Mew                 |    1 |   2.00% | 100.00% |
+| 70   | Charizard / Mew / Serperior / Volcarona                 |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Charizard / Mew / Serperior                 |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Charizard / Mew / Volcarona                 |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Mew / Serperior / Volcarona                 |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Excadrill / Mew / Serperior                 |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Excadrill / Mew / Volcarona                 |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Mew / Serperior / Volcarona                 |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Charizard / Serperior / Volcarona           |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Excadrill / Charizard / Serperior           |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Excadrill / Charizard / Volcarona           |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Charizard / Serperior / Volcarona           |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Talonflame / Landorus-Therian / Kyurem-Black |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Talonflame / Scizor / Kyurem-Black           |    1 |   2.00% | 100.00% |
+| 70   | Latias / Gyarados / Talonflame / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Talonflame / Landorus-Therian / Scizor       |    1 |   2.00% | 100.00% |
+| 70   | Latias / Gyarados / Talonflame / Scizor                 |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Kyurem-Black / Landorus-Therian / Scizor     |    1 |   2.00% | 100.00% |
+| 70   | Latias / Gyarados / Kyurem-Black / Scizor               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Gyarados / Landorus-Therian / Scizor           |    1 |   2.00% | 100.00% |
+| 70   | Latias / Talonflame / Landorus-Therian / Kyurem-Black   |    1 |   2.00% | 100.00% |
+| 70   | Scizor / Talonflame / Landorus-Therian / Kyurem-Black   |    1 |   2.00% | 100.00% |
+| 70   | Latias / Scizor / Talonflame / Landorus-Therian         |    1 |   2.00% | 100.00% |
+| 70   | Latias / Scizor / Kyurem-Black / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Charizard / Keldeo / Serperior              |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Keldeo / Serperior / Excadrill              |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Landorus-Therian / Keldeo / Serperior       |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Charizard / Serperior / Excadrill           |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Charizard / Landorus-Therian / Serperior    |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Landorus-Therian / Serperior / Excadrill    |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Charizard / Keldeo / Excadrill              |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Charizard / Keldeo / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Keldeo / Landorus-Therian / Excadrill       |    1 |   2.00% | 100.00% |
+| 70   | Cresselia / Charizard / Landorus-Therian / Excadrill    |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Charizard / Keldeo / Serperior              |    1 |   2.00% | 100.00% |
+| 70   | Charizard / Keldeo / Landorus-Therian / Serperior       |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Landorus-Therian / Keldeo / Serperior       |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Charizard / Landorus-Therian / Serperior    |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Charizard / Keldeo / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Mew / Manaphy / Bisharp                      |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Mew / Bisharp / Serperior                    |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Thundurus / Mew / Bisharp                    |    1 |   2.00% | 100.00% |
+| 70   | Mew / Manaphy / Bisharp / Serperior                     |    1 |   2.00% | 100.00% |
+| 70   | Thundurus / Mew / Bisharp / Serperior                   |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Mew / Manaphy / Serperior                    |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Mew / Manaphy / Thundurus                    |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Thundurus / Mew / Serperior                  |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Manaphy / Bisharp / Serperior                |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Thundurus / Manaphy / Bisharp                |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Thundurus / Bisharp / Serperior              |    1 |   2.00% | 100.00% |
+| 70   | Gyarados / Thundurus / Manaphy / Serperior              |    1 |   2.00% | 100.00% |
+| 70   | Thundurus / Garchomp / Metagross / Weavile              |    1 |   2.00% | 100.00% |
+| 70   | Thundurus / Metagross / Weavile / Volcanion             |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Thundurus / Metagross / Weavile             |    1 |   2.00% | 100.00% |
+| 70   | Thundurus / Garchomp / Metagross / Volcanion            |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Thundurus / Garchomp / Metagross            |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Thundurus / Metagross / Volcanion           |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Metagross / Weavile / Volcanion              |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Metagross / Weavile              |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Metagross / Weavile / Volcanion             |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Metagross / Volcanion            |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Thundurus / Weavile / Volcanion              |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Thundurus / Weavile              |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Thundurus / Weavile / Volcanion             |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Thundurus / Volcanion            |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Weavile / Volcanion              |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Clefable / Lopunny / Skarmory              |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Clefable / Lopunny / Skarmory                 |    1 |   2.00% | 100.00% |
+| 70   | Gastrodon / Clefable / Lopunny / Skarmory               |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Cofagrigus / Lopunny / Skarmory               |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Gastrodon / Lopunny / Skarmory             |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Gastrodon / Lopunny / Skarmory                |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Cofagrigus / Clefable / Lopunny               |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Clefable / Lopunny / Gastrodon             |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Clefable / Lopunny / Gastrodon                |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Cofagrigus / Lopunny / Gastrodon              |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Cofagrigus / Clefable / Skarmory              |    1 |   2.00% | 100.00% |
+| 70   | Cofagrigus / Clefable / Gastrodon / Skarmory            |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Clefable / Gastrodon / Skarmory               |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Cofagrigus / Gastrodon / Skarmory             |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Cofagrigus / Clefable / Gastrodon             |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Garchomp / Serperior / Volcarona            |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Excadrill / Garchomp / Volcarona            |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Garchomp / Thundurus / Volcarona            |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Thundurus / Serperior / Volcarona           |    1 |   2.00% | 100.00% |
+| 70   | Tyranitar / Excadrill / Thundurus / Volcarona           |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Serperior / Volcarona            |    1 |   2.00% | 100.00% |
+| 70   | Thundurus / Garchomp / Serperior / Volcarona            |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Thundurus / Volcarona            |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Thundurus / Serperior / Volcarona           |    1 |   2.00% | 100.00% |
+| 70   | Latias / Gengar / Clefable / Ferrothorn                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Gengar / Clefable                  |    1 |   2.00% | 100.00% |
+| 70   | Latias / Gengar / Clefable / Rotom-Wash                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Gengar / Ferrothorn                |    1 |   2.00% | 100.00% |
+| 70   | Latias / Gengar / Ferrothorn / Rotom-Wash               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Gengar / Rotom-Wash                |    1 |   2.00% | 100.00% |
+| 70   | Hippowdon / Gengar / Clefable / Ferrothorn              |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Gengar / Clefable / Ferrothorn             |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Hippowdon / Gengar / Clefable              |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Hippowdon / Gengar / Ferrothorn            |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Zapdos / Keldeo / Venusaur                   |    1 |   2.00% | 100.00% |
+| 70   | Zapdos / Keldeo / Venusaur / Mew                        |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Excadrill / Keldeo / Venusaur                |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Keldeo / Venusaur / Mew                     |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Keldeo / Venusaur / Mew                      |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Zapdos / Garchomp / Venusaur                |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Zapdos / Mew / Venusaur                     |    1 |   2.00% | 100.00% |
+| 70   | Zapdos / Garchomp / Venusaur / Mew                      |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Garchomp / Venusaur / Mew                   |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Excadrill / Zapdos / Keldeo                  |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Zapdos / Keldeo / Mew                       |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Zapdos / Keldeo / Mew                        |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Excadrill / Keldeo / Mew                     |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Zapdos / Garchomp / Mew                     |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Azumarill / Serperior / Magnezone              |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Garchomp / Serperior / Magnezone               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Pinsir / Serperior / Magnezone                 |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Azumarill / Garchomp / Serperior               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Pinsir / Azumarill / Serperior                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Pinsir / Garchomp / Serperior                  |    1 |   2.00% | 100.00% |
+| 70   | Pinsir / Azumarill / Garchomp / Magnezone               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Pinsir / Azumarill / Magnezone                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Pinsir / Garchomp / Magnezone                  |    1 |   2.00% | 100.00% |
+| 70   | Latias / Pinsir / Azumarill / Garchomp                  |    1 |   2.00% | 100.00% |
+| 70   | Latias / Azumarill / Serperior / Magnezone              |    1 |   2.00% | 100.00% |
+| 70   | Latias / Garchomp / Serperior / Magnezone               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Azumarill / Garchomp / Serperior               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Azumarill / Garchomp / Magnezone               |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Medicham / Clefable / Heatran                |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Latias / Medicham / Clefable                 |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Medicham / Clefable / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Latias / Medicham / Clefable                  |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Medicham / Clefable / Tornadus-Therian        |    1 |   2.00% | 100.00% |
+| 70   | Latias / Medicham / Clefable / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Latias / Medicham / Heatran                  |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Medicham / Tornadus-Therian / Heatran        |    1 |   2.00% | 100.00% |
+| 70   | Garchomp / Latias / Medicham / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Latias / Medicham / Tornadus-Therian          |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Latias / Garchomp / Clefable                  |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Garchomp / Clefable / Tornadus-Therian        |    1 |   2.00% | 100.00% |
+| 70   | Latias / Garchomp / Clefable / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Latias / Tornadus-Therian / Clefable          |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Latias / Garchomp / Tornadus-Therian          |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hydreigon / Clefable / Rotom-Wash              |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hydreigon / Clefable / Ferrothorn              |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Hydreigon / Clefable               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hydreigon / Ferrothorn / Rotom-Wash            |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Hydreigon / Rotom-Wash             |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Hydreigon / Ferrothorn             |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Hydreigon / Clefable / Ferrothorn          |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Hippowdon / Hydreigon / Clefable           |    1 |   2.00% | 100.00% |
+| 70   | Hippowdon / Hydreigon / Clefable / Ferrothorn           |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Hippowdon / Hydreigon / Ferrothorn         |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Reuniclus / Skarmory               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Keldeo / Reuniclus / Skarmory                  |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Reuniclus / Heatran                |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Keldeo / Reuniclus                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Heatran / Keldeo / Reuniclus                   |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Heatran / Skarmory                 |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Keldeo / Skarmory                  |    1 |   2.00% | 100.00% |
+| 70   | Latias / Keldeo / Heatran / Skarmory                    |    1 |   2.00% | 100.00% |
+| 70   | Latias / Hippowdon / Keldeo / Heatran                   |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Hippowdon / Reuniclus / Skarmory              |    1 |   2.00% | 100.00% |
+| 70   | Hippowdon / Keldeo / Reuniclus / Skarmory               |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Keldeo / Reuniclus / Skarmory                 |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Hippowdon / Keldeo / Reuniclus                |    1 |   2.00% | 100.00% |
+| 70   | Heatran / Hippowdon / Keldeo / Skarmory                 |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Hippowdon / Weavile / Slowbro                 |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Hippowdon / Zapdos / Slowbro                  |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Hippowdon / Ferrothorn / Slowbro              |    1 |   2.00% | 100.00% |
+| 70   | Hippowdon / Zapdos / Weavile / Slowbro                  |    1 |   2.00% | 100.00% |
+| 70   | Hippowdon / Ferrothorn / Weavile / Slowbro              |    1 |   2.00% | 100.00% |
+| 70   | Hippowdon / Ferrothorn / Zapdos / Slowbro               |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Zapdos / Weavile / Slowbro                    |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Ferrothorn / Weavile / Slowbro                |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Zapdos / Ferrothorn / Slowbro                 |    1 |   2.00% | 100.00% |
+| 70   | Zapdos / Ferrothorn / Weavile / Slowbro                 |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Hippowdon / Zapdos / Weavile                  |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Hippowdon / Ferrothorn / Weavile              |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Hippowdon / Ferrothorn / Zapdos               |    1 |   2.00% | 100.00% |
+| 70   | Hippowdon / Ferrothorn / Zapdos / Weavile               |    1 |   2.00% | 100.00% |
+| 70   | Chansey / Zapdos / Ferrothorn / Weavile                 |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Metagross / Weavile / Serperior            |    1 |   2.00% | 100.00% |
+| 70   | Landorus-Therian / Metagross / Weavile / Serperior      |    1 |   2.00% | 100.00% |
+| 70   | Latias / Metagross / Weavile / Serperior                |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Landorus-Therian / Metagross / Weavile     |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Latias / Metagross / Weavile               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Landorus-Therian / Metagross / Weavile         |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Landorus-Therian / Metagross / Serperior   |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Latias / Metagross / Serperior             |    1 |   2.00% | 100.00% |
+| 70   | Latias / Landorus-Therian / Metagross / Serperior       |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Landorus-Therian / Metagross / Latias      |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Landorus-Therian / Serperior / Weavile     |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Latias / Serperior / Weavile               |    1 |   2.00% | 100.00% |
+| 70   | Latias / Landorus-Therian / Serperior / Weavile         |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Latias / Landorus-Therian / Weavile        |    1 |   2.00% | 100.00% |
+| 70   | Rotom-Wash / Landorus-Therian / Serperior / Latias      |    1 |   2.00% | 100.00% |
+| 70   | Excadrill / Hippowdon / Zapdos / Sceptile               |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Clefable / Sceptile             |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Keldeo / Sceptile               |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Clefable / Zapdos / Sceptile                |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Keldeo / Zapdos / Sceptile                  |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Keldeo / Clefable / Sceptile                |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Clefable / Sceptile                |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Keldeo / Sceptile                  |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Keldeo / Clefable / Sceptile                |    1 |   2.00% |   0.00% |
+| 70   | Zapdos / Keldeo / Clefable / Sceptile                   |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Clefable / Zapdos               |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Keldeo / Zapdos                 |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Keldeo / Clefable               |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Keldeo / Clefable / Zapdos                  |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Keldeo / Clefable                  |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Scizor / Weavile / Volcanion             |    1 |   2.00% |   0.00% |
+| 70   | Dragonite / Scizor / Weavile / Volcanion                |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Scizor / Weavile / Volcanion                 |    1 |   2.00% |   0.00% |
+| 70   | Dragonite / Kyurem-Black / Scizor / Weavile             |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Garchomp / Scizor / Weavile              |    1 |   2.00% |   0.00% |
+| 70   | Dragonite / Garchomp / Scizor / Weavile                 |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Scizor / Dragonite / Volcanion           |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Garchomp / Scizor / Volcanion            |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Scizor / Dragonite / Volcanion               |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Garchomp / Scizor / Dragonite            |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Dragonite / Weavile / Volcanion          |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Garchomp / Weavile / Volcanion           |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Dragonite / Weavile / Volcanion              |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Garchomp / Dragonite / Weavile           |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Garchomp / Dragonite / Volcanion         |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Latios / Scizor / Weavile                     |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Latios / Weavile / Seismitoad                 |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Talonflame / Latios / Weavile                 |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Scizor / Weavile / Seismitoad                 |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Talonflame / Scizor / Weavile                 |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Talonflame / Weavile / Seismitoad             |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Latios / Scizor / Seismitoad                  |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Talonflame / Latios / Scizor                  |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Talonflame / Latios / Seismitoad              |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Talonflame / Scizor / Seismitoad              |    1 |   2.00% |   0.00% |
+| 70   | Latios / Scizor / Weavile / Seismitoad                  |    1 |   2.00% |   0.00% |
+| 70   | Talonflame / Latios / Scizor / Weavile                  |    1 |   2.00% |   0.00% |
+| 70   | Talonflame / Latios / Weavile / Seismitoad              |    1 |   2.00% |   0.00% |
+| 70   | Talonflame / Scizor / Weavile / Seismitoad              |    1 |   2.00% |   0.00% |
+| 70   | Talonflame / Latios / Scizor / Seismitoad               |    1 |   2.00% |   0.00% |
+| 70   | Victini / Medicham / Serperior / Hydreigon              |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Victini / Medicham / Serperior              |    1 |   2.00% |   0.00% |
+| 70   | Victini / Medicham / Zapdos / Serperior                 |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Medicham / Serperior / Hydreigon            |    1 |   2.00% |   0.00% |
+| 70   | Zapdos / Medicham / Serperior / Hydreigon               |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Medicham / Serperior               |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Victini / Medicham / Hydreigon              |    1 |   2.00% |   0.00% |
+| 70   | Victini / Medicham / Zapdos / Hydreigon                 |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Victini / Medicham / Zapdos                 |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Medicham / Hydreigon               |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Victini / Hydreigon / Serperior             |    1 |   2.00% |   0.00% |
+| 70   | Victini / Hydreigon / Zapdos / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Victini / Zapdos / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Hydreigon / Serperior              |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Victini / Hydreigon / Zapdos                |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Alakazam / Clefable / Garchomp                |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Alakazam / Garchomp / Skarmory                |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Alakazam / Serperior / Garchomp               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Alakazam / Clefable / Skarmory                |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Alakazam / Clefable / Serperior               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Alakazam / Serperior / Skarmory               |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Alakazam / Clefable / Skarmory               |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Alakazam / Clefable / Serperior              |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Alakazam / Serperior / Skarmory              |    1 |   2.00% |   0.00% |
+| 70   | Alakazam / Clefable / Serperior / Skarmory              |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Garchomp / Clefable / Skarmory                |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Garchomp / Clefable / Serperior               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Garchomp / Serperior / Skarmory               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Serperior / Skarmory               |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Clefable / Serperior / Skarmory              |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Kyurem-Black / Excadrill            |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Kyurem-Black / Talonflame / Excadrill        |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Kyurem-Black / Serperior / Excadrill         |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Kyurem-Black / Serperior            |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Kyurem-Black / Serperior / Talonflame        |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Talonflame / Excadrill              |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Serperior / Excadrill               |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Talonflame / Serperior / Excadrill           |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Talonflame / Serperior              |    1 |   2.00% |   0.00% |
+| 70   | Latias / Excadrill / Kyurem-Black / Talonflame          |    1 |   2.00% |   0.00% |
+| 70   | Latias / Excadrill / Kyurem-Black / Serperior           |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Kyurem-Black / Serperior / Talonflame       |    1 |   2.00% |   0.00% |
+| 70   | Latias / Kyurem-Black / Serperior / Talonflame          |    1 |   2.00% |   0.00% |
+| 70   | Latias / Excadrill / Talonflame / Serperior             |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Mew / Manaphy / Bisharp                      |    1 |   2.00% |   0.00% |
+| 70   | Metagross / Mew / Manaphy / Bisharp                     |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Mew / Manaphy / Metagross                    |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Mew / Manaphy / Thundurus                    |    1 |   2.00% |   0.00% |
+| 70   | Thundurus / Mew / Manaphy / Metagross                   |    1 |   2.00% |   0.00% |
+| 70   | Metagross / Garchomp / Manaphy / Bisharp                |    1 |   2.00% |   0.00% |
+| 70   | Thundurus / Garchomp / Manaphy / Bisharp                |    1 |   2.00% |   0.00% |
+| 70   | Metagross / Thundurus / Manaphy / Bisharp               |    1 |   2.00% |   0.00% |
+| 70   | Thundurus / Garchomp / Manaphy / Metagross              |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Kyurem-Black / Volcarona / Volcanion         |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Kyurem-Black / Landorus-Therian / Volcarona  |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Kyurem-Black / Volcarona            |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Kyurem-Black / Landorus-Therian / Volcanion  |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Kyurem-Black / Volcanion            |    1 |   2.00% |   0.00% |
+| 70   | Gyarados / Landorus-Therian / Volcarona / Volcanion     |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Volcarona / Volcanion               |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Landorus-Therian / Volcarona        |    1 |   2.00% |   0.00% |
+| 70   | Latias / Gyarados / Landorus-Therian / Volcanion        |    1 |   2.00% |   0.00% |
+| 70   | Kyurem-Black / Landorus-Therian / Volcarona / Volcanion |    1 |   2.00% |   0.00% |
+| 70   | Latias / Kyurem-Black / Volcarona / Volcanion           |    1 |   2.00% |   0.00% |
+| 70   | Latias / Kyurem-Black / Landorus-Therian / Volcarona    |    1 |   2.00% |   0.00% |
+| 70   | Latias / Kyurem-Black / Landorus-Therian / Volcanion    |    1 |   2.00% |   0.00% |
+| 70   | Latias / Landorus-Therian / Volcarona / Volcanion       |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Landorus-Therian / Lopunny / Rotom-Wash       |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Landorus-Therian / Clefable / Lopunny         |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Landorus-Therian / Ferrothorn / Lopunny       |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Lopunny / Rotom-Wash               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Ferrothorn / Lopunny / Rotom-Wash             |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Lopunny / Ferrothorn               |    1 |   2.00% |   0.00% |
+| 70   | Rotom-Wash / Landorus-Therian / Clefable / Lopunny      |    1 |   2.00% |   0.00% |
+| 70   | Rotom-Wash / Landorus-Therian / Ferrothorn / Lopunny    |    1 |   2.00% |   0.00% |
+| 70   | Landorus-Therian / Clefable / Lopunny / Ferrothorn      |    1 |   2.00% |   0.00% |
+| 70   | Rotom-Wash / Clefable / Lopunny / Ferrothorn            |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Landorus-Therian / Rotom-Wash      |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Ferrothorn / Landorus-Therian / Rotom-Wash    |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Landorus-Therian / Ferrothorn      |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Ferrothorn / Rotom-Wash            |    1 |   2.00% |   0.00% |
+| 70   | Rotom-Wash / Clefable / Landorus-Therian / Ferrothorn   |    1 |   2.00% |   0.00% |
+| 70   | Latias / Clefable / Reuniclus / Heatran                 |    1 |   2.00% |   0.00% |
+| 70   | Latias / Clefable / Heatran / Gastrodon                 |    1 |   2.00% |   0.00% |
+| 70   | Latias / Clefable / Heatran / Skarmory                  |    1 |   2.00% |   0.00% |
+| 70   | Latias / Reuniclus / Heatran / Gastrodon                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Skarmory / Heatran / Gastrodon                 |    1 |   2.00% |   0.00% |
+| 70   | Latias / Clefable / Reuniclus / Gastrodon               |    1 |   2.00% |   0.00% |
+| 70   | Latias / Clefable / Reuniclus / Skarmory                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Skarmory / Clefable / Gastrodon                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Skarmory / Reuniclus / Gastrodon               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Reuniclus / Gastrodon              |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Clefable / Reuniclus / Skarmory               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Skarmory / Clefable / Gastrodon               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Skarmory / Reuniclus / Gastrodon              |    1 |   2.00% |   0.00% |
+| 70   | Skarmory / Clefable / Reuniclus / Gastrodon             |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Mew / Manaphy / Serperior                     |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Excadrill / Mew / Serperior                   |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Thundurus / Mew / Serperior                   |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Excadrill / Mew / Manaphy                     |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Mew / Manaphy / Thundurus                     |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Excadrill / Mew / Thundurus                   |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Mew / Manaphy / Serperior                   |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Thundurus / Mew / Serperior                 |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Mew / Manaphy / Thundurus                   |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Excadrill / Manaphy / Serperior               |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Thundurus / Manaphy / Serperior               |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Excadrill / Thundurus / Serperior             |    1 |   2.00% |   0.00% |
+| 70   | Gallade / Excadrill / Manaphy / Thundurus               |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Mew / Altaria / Magnezone                     |    1 |   2.00% |   0.00% |
+| 70   | Quagsire / Mew / Altaria / Magnezone                    |    1 |   2.00% |   0.00% |
+| 70   | Zapdos / Mew / Altaria / Magnezone                      |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Quagsire / Mew / Altaria                      |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Zapdos / Mew / Altaria                        |    1 |   2.00% |   0.00% |
+| 70   | Quagsire / Zapdos / Mew / Altaria                       |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Quagsire / Altaria / Magnezone                |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Zapdos / Altaria / Magnezone                  |    1 |   2.00% |   0.00% |
+| 70   | Quagsire / Zapdos / Altaria / Magnezone                 |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Quagsire / Zapdos / Altaria                   |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Quagsire / Mew / Magnezone                    |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Zapdos / Mew / Magnezone                      |    1 |   2.00% |   0.00% |
+| 70   | Quagsire / Zapdos / Mew / Magnezone                     |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Quagsire / Zapdos / Mew                       |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Quagsire / Zapdos / Magnezone                 |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Tornadus-Therian / Weavile / Excadrill        |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Tornadus-Therian / Weavile / Volcanion        |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Tornadus-Therian / Cofagrigus / Weavile       |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Tornadus-Therian / Weavile / Volcanion      |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Tornadus-Therian / Cofagrigus / Weavile     |    1 |   2.00% |   0.00% |
+| 70   | Cofagrigus / Tornadus-Therian / Weavile / Volcanion     |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Volcanion / Weavile / Excadrill               |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Cofagrigus / Weavile / Excadrill              |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Cofagrigus / Weavile / Volcanion              |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Cofagrigus / Weavile / Volcanion            |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Tornadus-Therian / Volcanion / Excadrill      |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Tornadus-Therian / Cofagrigus / Excadrill     |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Tornadus-Therian / Cofagrigus / Volcanion     |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Tornadus-Therian / Cofagrigus / Volcanion   |    1 |   2.00% |   0.00% |
+| 70   | Diancie / Cofagrigus / Volcanion / Excadrill            |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Garchomp / Clefable             |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Garchomp / Volcanion            |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Garchomp / Tornadus-Therian     |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Garchomp / Clefable / Volcanion             |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Garchomp / Tornadus-Therian / Volcanion     |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Garchomp / Clefable / Volcanion             |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Garchomp / Clefable / Tornadus-Therian      |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Garchomp / Tornadus-Therian / Volcanion     |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Clefable / Tornadus-Therian / Volcanion      |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Clefable / Volcanion            |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Tornadus-Therian / Clefable     |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Hippowdon / Tornadus-Therian / Volcanion    |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Tornadus-Therian / Clefable / Volcanion     |    1 |   2.00% |   0.00% |
+| 70   | Hippowdon / Tornadus-Therian / Clefable / Volcanion     |    1 |   2.00% |   0.00% |
+| 70   | Weavile / Garchomp / Metagross / Volcarona              |    1 |   2.00% |   0.00% |
+| 70   | Latias / Garchomp / Metagross / Volcarona               |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Manaphy / Metagross / Volcarona              |    1 |   2.00% |   0.00% |
+| 70   | Latias / Garchomp / Metagross / Weavile                 |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Manaphy / Metagross / Weavile                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Garchomp / Manaphy / Metagross                 |    1 |   2.00% |   0.00% |
+| 70   | Latias / Weavile / Metagross / Volcarona                |    1 |   2.00% |   0.00% |
+| 70   | Weavile / Manaphy / Metagross / Volcarona               |    1 |   2.00% |   0.00% |
+| 70   | Latias / Manaphy / Metagross / Volcarona                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Manaphy / Metagross / Weavile                  |    1 |   2.00% |   0.00% |
+| 70   | Latias / Weavile / Garchomp / Volcarona                 |    1 |   2.00% |   0.00% |
+| 70   | Weavile / Garchomp / Manaphy / Volcarona                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Garchomp / Manaphy / Volcarona                 |    1 |   2.00% |   0.00% |
+| 70   | Latias / Garchomp / Manaphy / Weavile                   |    1 |   2.00% |   0.00% |
+| 70   | Latias / Weavile / Manaphy / Volcarona                  |    1 |   2.00% |   0.00% |
+| 70   | Victini / Charizard / Keldeo / Skarmory                 |    1 |   2.00% |   0.00% |
+| 70   | Victini / Charizard / Keldeo / Weavile                  |    1 |   2.00% |   0.00% |
+| 70   | Victini / Charizard / Keldeo / Garchomp                 |    1 |   2.00% |   0.00% |
+| 70   | Victini / Charizard / Weavile / Skarmory                |    1 |   2.00% |   0.00% |
+| 70   | Victini / Charizard / Garchomp / Skarmory               |    1 |   2.00% |   0.00% |
+| 70   | Victini / Charizard / Garchomp / Weavile                |    1 |   2.00% |   0.00% |
+| 70   | Charizard / Keldeo / Weavile / Skarmory                 |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Charizard / Keldeo / Skarmory                |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Charizard / Keldeo / Weavile                 |    1 |   2.00% |   0.00% |
+| 70   | Charizard / Garchomp / Weavile / Skarmory               |    1 |   2.00% |   0.00% |
+| 70   | Victini / Keldeo / Weavile / Skarmory                   |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Victini / Keldeo / Skarmory                  |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Victini / Keldeo / Weavile                   |    1 |   2.00% |   0.00% |
+| 70   | Victini / Garchomp / Weavile / Skarmory                 |    1 |   2.00% |   0.00% |
+| 70   | Garchomp / Keldeo / Weavile / Skarmory                  |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Keldeo / Venusaur / Weavile                 |    1 |   2.00% |   0.00% |
+| 70   | Zapdos / Keldeo / Venusaur / Weavile                    |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Keldeo / Venusaur / Weavile                   |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Excadrill / Keldeo / Venusaur                 |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Zapdos / Keldeo / Venusaur                    |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Venusaur / Weavile                 |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Excadrill / Venusaur / Weavile                |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Zapdos / Venusaur / Weavile                   |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Excadrill / Zapdos / Venusaur                 |    1 |   2.00% |   0.00% |
+| 70   | Excadrill / Zapdos / Keldeo / Weavile                   |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Excadrill / Keldeo / Weavile                  |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Zapdos / Keldeo / Weavile                     |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Excadrill / Zapdos / Keldeo                   |    1 |   2.00% |   0.00% |
+| 70   | Chansey / Excadrill / Zapdos / Weavile                  |    1 |   2.00% |   0.00% |
+| 70   | Scizor / Manaphy / Thundurus / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Scizor / Manaphy / Thundurus                  |    1 |   2.00% |   0.00% |
+| 70   | Scizor / Landorus-Therian / Manaphy / Thundurus         |    1 |   2.00% |   0.00% |
+| 70   | Landorus-Therian / Manaphy / Thundurus / Serperior      |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Landorus-Therian / Manaphy / Thundurus        |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Scizor / Thundurus / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Scizor / Landorus-Therian / Thundurus / Serperior       |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Scizor / Landorus-Therian / Thundurus         |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Landorus-Therian / Thundurus / Serperior      |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Manaphy / Scizor / Serperior                  |    1 |   2.00% |   0.00% |
+| 70   | Landorus-Therian / Manaphy / Scizor / Serperior         |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Landorus-Therian / Manaphy / Scizor           |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Landorus-Therian / Manaphy / Serperior        |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Landorus-Therian / Scizor / Serperior         |    1 |   2.00% |   0.00% |
+| 70   | Gliscor / Scizor / Dragalge / Slowbro                   |    1 |   2.00% |   0.00% |
+| 70   | Gliscor / Scizor / Magnezone / Slowbro                  |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Dragalge / Scizor / Slowbro                  |    1 |   2.00% |   0.00% |
+| 70   | Dragalge / Scizor / Magnezone / Slowbro                 |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Scizor / Magnezone / Slowbro                 |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Gliscor / Scizor / Dragalge                  |    1 |   2.00% |   0.00% |
+| 70   | Gliscor / Scizor / Dragalge / Magnezone                 |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Gliscor / Scizor / Magnezone                 |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Dragalge / Scizor / Magnezone                |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Gliscor / Dragalge / Slowbro                 |    1 |   2.00% |   0.00% |
+| 70   | Magnezone / Gliscor / Dragalge / Slowbro                |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Gliscor / Magnezone / Slowbro                |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Dragalge / Magnezone / Slowbro               |    1 |   2.00% |   0.00% |
+| 70   | Clefable / Gliscor / Dragalge / Magnezone               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Pinsir / Garchomp / Keldeo                    |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Pinsir / Garchomp / Serperior                 |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Pinsir / Garchomp / Thundurus                 |    1 |   2.00% |   0.00% |
+| 70   | Pinsir / Garchomp / Serperior / Keldeo                  |    1 |   2.00% |   0.00% |
+| 70   | Pinsir / Garchomp / Thundurus / Keldeo                  |    1 |   2.00% |   0.00% |
+| 70   | Pinsir / Thundurus / Garchomp / Serperior               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Pinsir / Keldeo / Serperior                   |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Pinsir / Keldeo / Thundurus                   |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Pinsir / Thundurus / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Pinsir / Thundurus / Keldeo / Serperior                 |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Garchomp / Serperior / Keldeo                 |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Garchomp / Thundurus / Keldeo                 |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Thundurus / Garchomp / Serperior              |    1 |   2.00% |   0.00% |
+| 70   | Thundurus / Garchomp / Serperior / Keldeo               |    1 |   2.00% |   0.00% |
+| 70   | Heatran / Thundurus / Keldeo / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Lopunny / Landorus-Therian / Serperior         |    1 |   2.00% |   0.00% |
+| 70   | Lopunny / Landorus-Therian / Volcanion / Serperior      |    1 |   2.00% |   0.00% |
+| 70   | Lopunny / Magnezone / Landorus-Therian / Serperior      |    1 |   2.00% |   0.00% |
+| 70   | Latias / Lopunny / Landorus-Therian / Volcanion         |    1 |   2.00% |   0.00% |
+| 70   | Latias / Lopunny / Landorus-Therian / Magnezone         |    1 |   2.00% |   0.00% |
+| 70   | Lopunny / Magnezone / Landorus-Therian / Volcanion      |    1 |   2.00% |   0.00% |
+| 70   | Latias / Magnezone / Landorus-Therian / Serperior       |    1 |   2.00% |   0.00% |
+| 70   | Magnezone / Landorus-Therian / Volcanion / Serperior    |    1 |   2.00% |   0.00% |
+| 70   | Latias / Magnezone / Landorus-Therian / Volcanion       |    1 |   2.00% |   0.00% |
+| 70   | Latias / Lopunny / Volcanion / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Magnezone / Lopunny / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Magnezone / Lopunny / Volcanion / Serperior             |    1 |   2.00% |   0.00% |
+| 70   | Latias / Magnezone / Lopunny / Volcanion                |    1 |   2.00% |   0.00% |
+| 70   | Latias / Magnezone / Serperior / Volcanion              |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Bisharp / Latias / Landorus-Therian         |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Bisharp / Landorus-Therian / Volcanion      |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Bisharp / Landorus-Therian / Serperior      |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Latias / Landorus-Therian / Volcanion       |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Latias / Landorus-Therian / Serperior       |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Serperior / Landorus-Therian / Volcanion    |    1 |   2.00% |   0.00% |
+| 70   | Latias / Bisharp / Landorus-Therian / Volcanion         |    1 |   2.00% |   0.00% |
+| 70   | Latias / Bisharp / Landorus-Therian / Serperior         |    1 |   2.00% |   0.00% |
+| 70   | Bisharp / Serperior / Landorus-Therian / Volcanion      |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Latias / Bisharp / Volcanion                |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Latias / Bisharp / Serperior                |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Serperior / Bisharp / Volcanion             |    1 |   2.00% |   0.00% |
+| 70   | Gardevoir / Latias / Serperior / Volcanion              |    1 |   2.00% |   0.00% |
+| 70   | Latias / Serperior / Bisharp / Volcanion                |    1 |   2.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Garchomp / Serperior / Tyranitar / Excadrill / Thundurus           |    3 |   6.00% |  66.67% |
+| 2    | Hippowdon / Rotom-Wash / Latias / Ferrothorn / Clefable            |    2 |   4.00% | 100.00% |
+| 2    | Garchomp / Bisharp / Metagross / Mew / Thundurus                   |    2 |   4.00% |  50.00% |
+| 2    | Keldeo / Lopunny / Tyranitar / Excadrill / Zapdos                  |    2 |   4.00% |  50.00% |
+| 2    | Keldeo / Lopunny / Tyranitar / Excadrill / Amoonguss               |    2 |   4.00% |  50.00% |
+| 2    | Lopunny / Tyranitar / Excadrill / Zapdos / Amoonguss               |    2 |   4.00% |  50.00% |
+| 2    | Keldeo / Lopunny / Tyranitar / Zapdos / Amoonguss                  |    2 |   4.00% |  50.00% |
+| 2    | Keldeo / Lopunny / Excadrill / Zapdos / Amoonguss                  |    2 |   4.00% |  50.00% |
+| 2    | Keldeo / Tyranitar / Excadrill / Zapdos / Amoonguss                |    2 |   4.00% |  50.00% |
+| 2    | Chansey / Cofagrigus / Gliscor / Scizor / Clefable                 |    2 |   4.00% |  50.00% |
+| 2    | Chansey / Cofagrigus / Slowbro / Scizor / Gliscor                  |    2 |   4.00% |  50.00% |
+| 2    | Cofagrigus / Gliscor / Slowbro / Scizor / Clefable                 |    2 |   4.00% |  50.00% |
+| 2    | Chansey / Cofagrigus / Slowbro / Scizor / Clefable                 |    2 |   4.00% |  50.00% |
+| 2    | Chansey / Gliscor / Slowbro / Scizor / Clefable                    |    2 |   4.00% |  50.00% |
+| 2    | Chansey / Cofagrigus / Gliscor / Slowbro / Clefable                |    2 |   4.00% |  50.00% |
+| 2    | Garchomp / Serperior / Tyranitar / Excadrill / Manaphy             |    2 |   4.00% |  50.00% |
+| 2    | Garchomp / Serperior / Excadrill / Manaphy / Thundurus             |    2 |   4.00% |  50.00% |
+| 2    | Serperior / Tyranitar / Excadrill / Manaphy / Thundurus            |    2 |   4.00% |  50.00% |
+| 2    | Garchomp / Serperior / Tyranitar / Manaphy / Thundurus             |    2 |   4.00% |  50.00% |
+| 2    | Garchomp / Tyranitar / Excadrill / Manaphy / Thundurus             |    2 |   4.00% |  50.00% |
+| 21   | Cofagrigus / Excadrill / Tornadus-Therian / Alakazam / Clefable    |    1 |   2.00% | 100.00% |
+| 21   | Cofagrigus / Garchomp / Tornadus-Therian / Alakazam / Clefable     |    1 |   2.00% | 100.00% |
+| 21   | Cofagrigus / Garchomp / Excadrill / Tornadus-Therian / Alakazam    |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Excadrill / Tornadus-Therian / Alakazam / Clefable      |    1 |   2.00% | 100.00% |
+| 21   | Cofagrigus / Garchomp / Excadrill / Alakazam / Clefable            |    1 |   2.00% | 100.00% |
+| 21   | Cofagrigus / Garchomp / Excadrill / Tornadus-Therian / Clefable    |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Azumarill / Diancie / Magnezone             |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Azumarill / Diancie / Tornadus-Therian / Magnezone     |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Azumarill / Diancie / Tornadus-Therian      |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Diancie / Tornadus-Therian / Magnezone      |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Azumarill / Diancie / Tornadus-Therian / Magnezone      |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Azumarill / Tornadus-Therian / Magnezone    |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Bisharp / Latias / Metagross / Mew                      |    1 |   2.00% | 100.00% |
+| 21   | Bisharp / Latias / Metagross / Mew / Thundurus                     |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Latias / Metagross / Mew / Thundurus                    |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Bisharp / Latias / Metagross / Thundurus                |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Bisharp / Latias / Mew / Thundurus                      |    1 |   2.00% | 100.00% |
+| 21   | Kyurem-Black / Garchomp / Latias / Scizor / Thundurus              |    1 |   2.00% | 100.00% |
+| 21   | Talonflame / Kyurem-Black / Garchomp / Latias / Scizor             |    1 |   2.00% | 100.00% |
+| 21   | Talonflame / Kyurem-Black / Latias / Scizor / Thundurus            |    1 |   2.00% | 100.00% |
+| 21   | Talonflame / Garchomp / Latias / Scizor / Thundurus                |    1 |   2.00% | 100.00% |
+| 21   | Talonflame / Kyurem-Black / Garchomp / Scizor / Thundurus          |    1 |   2.00% | 100.00% |
+| 21   | Talonflame / Kyurem-Black / Garchomp / Latias / Thundurus          |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Talonflame / Excadrill / Manaphy / Dragonite              |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Talonflame / Excadrill / Manaphy / Mew                    |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Talonflame / Excadrill / Dragonite / Mew                  |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Talonflame / Manaphy / Dragonite / Mew                    |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Excadrill / Manaphy / Dragonite / Mew                     |    1 |   2.00% | 100.00% |
+| 21   | Talonflame / Excadrill / Manaphy / Dragonite / Mew                 |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Alakazam / Garchomp / Bisharp / Tornadus-Therian      |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Garchomp / Bisharp / Excadrill / Alakazam             |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Garchomp / Excadrill / Tornadus-Therian / Alakazam    |    1 |   2.00% | 100.00% |
+| 21   | Alakazam / Garchomp / Bisharp / Excadrill / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Alakazam / Bisharp / Excadrill / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Garchomp / Bisharp / Excadrill / Tornadus-Therian     |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Garchomp / Serperior / Slowbro / Diancie                 |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Serperior / Slowbro / Diancie / Tornadus-Therian         |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Slowbro / Diancie / Tornadus-Therian        |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Garchomp / Serperior / Diancie / Tornadus-Therian        |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Garchomp / Slowbro / Diancie / Tornadus-Therian          |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Garchomp / Serperior / Slowbro / Tornadus-Therian        |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Tyranitar / Charizard / Volcarona / Mew                |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Tyranitar / Excadrill / Charizard / Mew                |    1 |   2.00% | 100.00% |
+| 21   | Tyranitar / Excadrill / Charizard / Volcarona / Mew                |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Excadrill / Charizard / Volcarona / Mew                |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Tyranitar / Excadrill / Volcarona / Mew                |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Tyranitar / Excadrill / Charizard / Volcarona          |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Talonflame / Kyurem-Black / Latias / Landorus-Therian   |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Talonflame / Kyurem-Black / Scizor / Landorus-Therian   |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Talonflame / Kyurem-Black / Latias / Scizor             |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Talonflame / Latias / Scizor / Landorus-Therian         |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Kyurem-Black / Latias / Scizor / Landorus-Therian       |    1 |   2.00% | 100.00% |
+| 21   | Talonflame / Kyurem-Black / Latias / Scizor / Landorus-Therian     |    1 |   2.00% | 100.00% |
+| 21   | Keldeo / Serperior / Cresselia / Charizard / Excadrill             |    1 |   2.00% | 100.00% |
+| 21   | Keldeo / Serperior / Cresselia / Charizard / Landorus-Therian      |    1 |   2.00% | 100.00% |
+| 21   | Keldeo / Serperior / Cresselia / Excadrill / Landorus-Therian      |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Cresselia / Charizard / Excadrill / Landorus-Therian   |    1 |   2.00% | 100.00% |
+| 21   | Keldeo / Cresselia / Charizard / Excadrill / Landorus-Therian      |    1 |   2.00% | 100.00% |
+| 21   | Keldeo / Serperior / Excadrill / Charizard / Landorus-Therian      |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Bisharp / Serperior / Manaphy / Mew                     |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Bisharp / Manaphy / Mew / Thundurus                     |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Bisharp / Serperior / Mew / Thundurus                   |    1 |   2.00% | 100.00% |
+| 21   | Bisharp / Serperior / Manaphy / Mew / Thundurus                    |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Serperior / Manaphy / Mew / Thundurus                   |    1 |   2.00% | 100.00% |
+| 21   | Gyarados / Bisharp / Serperior / Manaphy / Thundurus               |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Metagross / Volcanion / Thundurus / Weavile             |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Excadrill / Metagross / Thundurus / Weavile             |    1 |   2.00% | 100.00% |
+| 21   | Excadrill / Metagross / Volcanion / Thundurus / Weavile            |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Excadrill / Metagross / Volcanion / Thundurus           |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Excadrill / Metagross / Volcanion / Weavile             |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Excadrill / Volcanion / Thundurus / Weavile             |    1 |   2.00% | 100.00% |
+| 21   | Chansey / Cofagrigus / Lopunny / Skarmory / Clefable               |    1 |   2.00% | 100.00% |
+| 21   | Cofagrigus / Lopunny / Skarmory / Clefable / Gastrodon             |    1 |   2.00% | 100.00% |
+| 21   | Chansey / Lopunny / Skarmory / Clefable / Gastrodon                |    1 |   2.00% | 100.00% |
+| 21   | Chansey / Cofagrigus / Lopunny / Skarmory / Gastrodon              |    1 |   2.00% | 100.00% |
+| 21   | Chansey / Cofagrigus / Lopunny / Clefable / Gastrodon              |    1 |   2.00% | 100.00% |
+| 21   | Chansey / Cofagrigus / Skarmory / Clefable / Gastrodon             |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Tyranitar / Excadrill / Volcarona           |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Tyranitar / Volcarona / Thundurus           |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Tyranitar / Excadrill / Volcarona / Thundurus           |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Tyranitar / Excadrill / Volcarona / Thundurus          |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Excadrill / Volcarona / Thundurus           |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Latias / Ferrothorn / Gengar / Clefable                |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Latias / Ferrothorn / Gengar / Clefable               |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Rotom-Wash / Latias / Gengar / Clefable                |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Rotom-Wash / Latias / Ferrothorn / Gengar              |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Rotom-Wash / Ferrothorn / Gengar / Clefable            |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Keldeo / Venusaur / Excadrill / Zapdos                  |    1 |   2.00% | 100.00% |
+| 21   | Keldeo / Venusaur / Excadrill / Zapdos / Mew                       |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Keldeo / Venusaur / Zapdos / Mew                        |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Keldeo / Venusaur / Excadrill / Mew                     |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Venusaur / Excadrill / Zapdos / Mew                     |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Keldeo / Excadrill / Zapdos / Mew                       |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Garchomp / Serperior / Azumarill / Magnezone              |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Serperior / Latias / Azumarill / Magnezone                |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Garchomp / Serperior / Latias / Magnezone                 |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Garchomp / Serperior / Latias / Azumarill                 |    1 |   2.00% | 100.00% |
+| 21   | Pinsir / Garchomp / Latias / Azumarill / Magnezone                 |    1 |   2.00% | 100.00% |
+| 21   | Garchomp / Serperior / Latias / Azumarill / Magnezone              |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Medicham / Garchomp / Latias / Clefable                  |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Medicham / Garchomp / Tornadus-Therian / Clefable        |    1 |   2.00% | 100.00% |
+| 21   | Medicham / Garchomp / Latias / Tornadus-Therian / Clefable         |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Medicham / Latias / Tornadus-Therian / Clefable          |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Medicham / Garchomp / Latias / Tornadus-Therian          |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Garchomp / Latias / Tornadus-Therian / Clefable          |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Latias / Hydreigon / Ferrothorn / Clefable            |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Rotom-Wash / Latias / Hydreigon / Clefable             |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Latias / Hydreigon / Ferrothorn / Clefable             |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Rotom-Wash / Latias / Hydreigon / Ferrothorn           |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Rotom-Wash / Hydreigon / Ferrothorn / Clefable         |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Hippowdon / Reuniclus / Latias / Skarmory                |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Reuniclus / Keldeo / Latias / Skarmory                 |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Reuniclus / Keldeo / Latias / Skarmory                   |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Hippowdon / Reuniclus / Keldeo / Latias                  |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Hippowdon / Keldeo / Latias / Skarmory                   |    1 |   2.00% | 100.00% |
+| 21   | Heatran / Hippowdon / Reuniclus / Keldeo / Skarmory                |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Chansey / Slowbro / Zapdos / Weavile                   |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Chansey / Slowbro / Ferrothorn / Weavile               |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Chansey / Slowbro / Ferrothorn / Zapdos                |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Slowbro / Ferrothorn / Zapdos / Weavile                |    1 |   2.00% | 100.00% |
+| 21   | Chansey / Slowbro / Ferrothorn / Zapdos / Weavile                  |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Chansey / Ferrothorn / Zapdos / Weavile                |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Serperior / Metagross / Landorus-Therian / Weavile    |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Serperior / Latias / Metagross / Weavile              |    1 |   2.00% | 100.00% |
+| 21   | Serperior / Latias / Metagross / Landorus-Therian / Weavile        |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Latias / Metagross / Landorus-Therian / Weavile       |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Serperior / Latias / Metagross / Landorus-Therian     |    1 |   2.00% | 100.00% |
+| 21   | Rotom-Wash / Serperior / Latias / Landorus-Therian / Weavile       |    1 |   2.00% | 100.00% |
+| 21   | Hippowdon / Excadrill / Sceptile / Zapdos / Clefable               |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Keldeo / Excadrill / Sceptile / Zapdos                 |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Keldeo / Excadrill / Sceptile / Clefable               |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Keldeo / Sceptile / Zapdos / Clefable                  |    1 |   2.00% |   0.00% |
+| 21   | Keldeo / Excadrill / Sceptile / Zapdos / Clefable                  |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Keldeo / Excadrill / Zapdos / Clefable                 |    1 |   2.00% |   0.00% |
+| 21   | Kyurem-Black / Dragonite / Scizor / Volcanion / Weavile            |    1 |   2.00% |   0.00% |
+| 21   | Kyurem-Black / Garchomp / Scizor / Volcanion / Weavile             |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Dragonite / Scizor / Volcanion / Weavile                |    1 |   2.00% |   0.00% |
+| 21   | Kyurem-Black / Garchomp / Dragonite / Scizor / Weavile             |    1 |   2.00% |   0.00% |
+| 21   | Kyurem-Black / Garchomp / Scizor / Dragonite / Volcanion           |    1 |   2.00% |   0.00% |
+| 21   | Kyurem-Black / Garchomp / Dragonite / Volcanion / Weavile          |    1 |   2.00% |   0.00% |
+| 21   | Scizor / Diancie / Latios / Weavile / Seismitoad                   |    1 |   2.00% |   0.00% |
+| 21   | Talonflame / Scizor / Diancie / Latios / Weavile                   |    1 |   2.00% |   0.00% |
+| 21   | Talonflame / Diancie / Latios / Weavile / Seismitoad               |    1 |   2.00% |   0.00% |
+| 21   | Talonflame / Scizor / Diancie / Weavile / Seismitoad               |    1 |   2.00% |   0.00% |
+| 21   | Talonflame / Scizor / Diancie / Latios / Seismitoad                |    1 |   2.00% |   0.00% |
+| 21   | Talonflame / Scizor / Latios / Weavile / Seismitoad                |    1 |   2.00% |   0.00% |
+| 21   | Victini / Medicham / Serperior / Excadrill / Hydreigon             |    1 |   2.00% |   0.00% |
+| 21   | Victini / Medicham / Serperior / Hydreigon / Zapdos                |    1 |   2.00% |   0.00% |
+| 21   | Victini / Medicham / Serperior / Excadrill / Zapdos                |    1 |   2.00% |   0.00% |
+| 21   | Medicham / Serperior / Excadrill / Hydreigon / Zapdos              |    1 |   2.00% |   0.00% |
+| 21   | Victini / Medicham / Excadrill / Hydreigon / Zapdos                |    1 |   2.00% |   0.00% |
+| 21   | Victini / Serperior / Excadrill / Hydreigon / Zapdos               |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Garchomp / Skarmory / Alakazam / Clefable                |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Garchomp / Serperior / Alakazam / Clefable               |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Garchomp / Serperior / Skarmory / Alakazam               |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Serperior / Skarmory / Alakazam / Clefable               |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Serperior / Skarmory / Alakazam / Clefable              |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Garchomp / Serperior / Skarmory / Clefable               |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Talonflame / Kyurem-Black / Latias / Excadrill          |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Kyurem-Black / Serperior / Latias / Excadrill           |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Talonflame / Kyurem-Black / Serperior / Excadrill       |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Talonflame / Kyurem-Black / Serperior / Latias          |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Talonflame / Serperior / Latias / Excadrill             |    1 |   2.00% |   0.00% |
+| 21   | Talonflame / Kyurem-Black / Serperior / Latias / Excadrill         |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Bisharp / Manaphy / Metagross / Mew                     |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Bisharp / Manaphy / Mew / Thundurus                     |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Manaphy / Metagross / Mew / Thundurus                    |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Manaphy / Metagross / Mew / Thundurus                   |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Bisharp / Manaphy / Metagross / Thundurus               |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Kyurem-Black / Volcarona / Volcanion / Landorus-Therian |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Kyurem-Black / Latias / Volcarona / Volcanion           |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Kyurem-Black / Latias / Volcarona / Landorus-Therian    |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Kyurem-Black / Latias / Volcanion / Landorus-Therian    |    1 |   2.00% |   0.00% |
+| 21   | Gyarados / Latias / Volcarona / Volcanion / Landorus-Therian       |    1 |   2.00% |   0.00% |
+| 21   | Kyurem-Black / Latias / Volcarona / Volcanion / Landorus-Therian   |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Rotom-Wash / Lopunny / Clefable / Landorus-Therian       |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Rotom-Wash / Lopunny / Ferrothorn / Landorus-Therian     |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Lopunny / Ferrothorn / Clefable / Landorus-Therian       |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Rotom-Wash / Lopunny / Ferrothorn / Clefable             |    1 |   2.00% |   0.00% |
+| 21   | Rotom-Wash / Lopunny / Ferrothorn / Clefable / Landorus-Therian    |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Rotom-Wash / Ferrothorn / Clefable / Landorus-Therian    |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Reuniclus / Latias / Clefable / Gastrodon                |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Reuniclus / Latias / Skarmory / Clefable                 |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Latias / Skarmory / Clefable / Gastrodon                 |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Reuniclus / Latias / Skarmory / Gastrodon                |    1 |   2.00% |   0.00% |
+| 21   | Reuniclus / Latias / Skarmory / Clefable / Gastrodon               |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Reuniclus / Skarmory / Clefable / Gastrodon              |    1 |   2.00% |   0.00% |
+| 21   | Gallade / Serperior / Excadrill / Manaphy / Mew                    |    1 |   2.00% |   0.00% |
+| 21   | Gallade / Serperior / Manaphy / Mew / Thundurus                    |    1 |   2.00% |   0.00% |
+| 21   | Gallade / Serperior / Excadrill / Mew / Thundurus                  |    1 |   2.00% |   0.00% |
+| 21   | Gallade / Excadrill / Manaphy / Mew / Thundurus                    |    1 |   2.00% |   0.00% |
+| 21   | Serperior / Excadrill / Manaphy / Mew / Thundurus                  |    1 |   2.00% |   0.00% |
+| 21   | Gallade / Serperior / Excadrill / Manaphy / Thundurus              |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Quagsire / Altaria / Mew / Magnezone                     |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Altaria / Zapdos / Mew / Magnezone                       |    1 |   2.00% |   0.00% |
+| 21   | Quagsire / Altaria / Zapdos / Mew / Magnezone                      |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Quagsire / Altaria / Zapdos / Mew                        |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Quagsire / Altaria / Zapdos / Magnezone                  |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Quagsire / Zapdos / Mew / Magnezone                      |    1 |   2.00% |   0.00% |
+| 21   | Excadrill / Volcanion / Diancie / Tornadus-Therian / Weavile       |    1 |   2.00% |   0.00% |
+| 21   | Cofagrigus / Excadrill / Diancie / Tornadus-Therian / Weavile      |    1 |   2.00% |   0.00% |
+| 21   | Cofagrigus / Volcanion / Diancie / Tornadus-Therian / Weavile      |    1 |   2.00% |   0.00% |
+| 21   | Cofagrigus / Excadrill / Volcanion / Tornadus-Therian / Weavile    |    1 |   2.00% |   0.00% |
+| 21   | Cofagrigus / Excadrill / Volcanion / Diancie / Weavile             |    1 |   2.00% |   0.00% |
+| 21   | Cofagrigus / Excadrill / Volcanion / Diancie / Tornadus-Therian    |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Garchomp / Excadrill / Volcanion / Clefable            |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Garchomp / Excadrill / Tornadus-Therian / Clefable     |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Garchomp / Excadrill / Volcanion / Tornadus-Therian    |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Excadrill / Volcanion / Tornadus-Therian / Clefable     |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Garchomp / Volcanion / Tornadus-Therian / Clefable     |    1 |   2.00% |   0.00% |
+| 21   | Hippowdon / Excadrill / Volcanion / Tornadus-Therian / Clefable    |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Latias / Metagross / Volcarona / Weavile                |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Manaphy / Metagross / Volcarona / Weavile               |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Latias / Manaphy / Metagross / Volcarona                |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Latias / Manaphy / Metagross / Weavile                  |    1 |   2.00% |   0.00% |
+| 21   | Latias / Manaphy / Metagross / Volcarona / Weavile                 |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Latias / Manaphy / Volcarona / Weavile                  |    1 |   2.00% |   0.00% |
+| 21   | Victini / Keldeo / Charizard / Skarmory / Weavile                  |    1 |   2.00% |   0.00% |
+| 21   | Victini / Keldeo / Garchomp / Charizard / Skarmory                 |    1 |   2.00% |   0.00% |
+| 21   | Victini / Keldeo / Garchomp / Charizard / Weavile                  |    1 |   2.00% |   0.00% |
+| 21   | Victini / Garchomp / Charizard / Skarmory / Weavile                |    1 |   2.00% |   0.00% |
+| 21   | Garchomp / Keldeo / Charizard / Skarmory / Weavile                 |    1 |   2.00% |   0.00% |
+| 21   | Victini / Garchomp / Keldeo / Skarmory / Weavile                   |    1 |   2.00% |   0.00% |
+| 21   | Keldeo / Venusaur / Excadrill / Zapdos / Weavile                   |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Keldeo / Venusaur / Excadrill / Weavile                  |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Keldeo / Venusaur / Zapdos / Weavile                     |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Keldeo / Venusaur / Excadrill / Zapdos                   |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Venusaur / Excadrill / Zapdos / Weavile                  |    1 |   2.00% |   0.00% |
+| 21   | Chansey / Keldeo / Excadrill / Zapdos / Weavile                    |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Serperior / Manaphy / Scizor / Thundurus                 |    1 |   2.00% |   0.00% |
+| 21   | Serperior / Thundurus / Manaphy / Scizor / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Thundurus / Manaphy / Scizor / Landorus-Therian          |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Serperior / Thundurus / Manaphy / Landorus-Therian       |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Serperior / Thundurus / Scizor / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Serperior / Manaphy / Scizor / Landorus-Therian          |    1 |   2.00% |   0.00% |
+| 21   | Gliscor / Dragalge / Slowbro / Scizor / Clefable                   |    1 |   2.00% |   0.00% |
+| 21   | Dragalge / Slowbro / Scizor / Gliscor / Magnezone                  |    1 |   2.00% |   0.00% |
+| 21   | Gliscor / Slowbro / Scizor / Clefable / Magnezone                  |    1 |   2.00% |   0.00% |
+| 21   | Dragalge / Slowbro / Scizor / Clefable / Magnezone                 |    1 |   2.00% |   0.00% |
+| 21   | Gliscor / Dragalge / Scizor / Clefable / Magnezone                 |    1 |   2.00% |   0.00% |
+| 21   | Gliscor / Dragalge / Slowbro / Clefable / Magnezone                |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Pinsir / Garchomp / Keldeo / Serperior                   |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Pinsir / Garchomp / Keldeo / Thundurus                   |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Pinsir / Garchomp / Serperior / Thundurus                |    1 |   2.00% |   0.00% |
+| 21   | Pinsir / Garchomp / Keldeo / Serperior / Thundurus                 |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Pinsir / Keldeo / Serperior / Thundurus                  |    1 |   2.00% |   0.00% |
+| 21   | Heatran / Garchomp / Keldeo / Serperior / Thundurus                |    1 |   2.00% |   0.00% |
+| 21   | Lopunny / Serperior / Latias / Volcanion / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 21   | Lopunny / Serperior / Latias / Landorus-Therian / Magnezone        |    1 |   2.00% |   0.00% |
+| 21   | Lopunny / Serperior / Volcanion / Landorus-Therian / Magnezone     |    1 |   2.00% |   0.00% |
+| 21   | Lopunny / Latias / Volcanion / Landorus-Therian / Magnezone        |    1 |   2.00% |   0.00% |
+| 21   | Serperior / Latias / Volcanion / Landorus-Therian / Magnezone      |    1 |   2.00% |   0.00% |
+| 21   | Lopunny / Serperior / Latias / Volcanion / Magnezone               |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Gardevoir / Latias / Volcanion / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Serperior / Gardevoir / Latias / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Serperior / Gardevoir / Volcanion / Landorus-Therian     |    1 |   2.00% |   0.00% |
+| 21   | Serperior / Gardevoir / Latias / Volcanion / Landorus-Therian      |    1 |   2.00% |   0.00% |
+| 21   | Bisharp / Serperior / Latias / Volcanion / Landorus-Therian        |    1 |   2.00% |   0.00% |
+| 21   | Serperior / Bisharp / Gardevoir / Latias / Volcanion               |    1 |   2.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                 | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Keldeo / Lopunny / Tyranitar / Excadrill / Zapdos / Amoonguss               |    2 |   4.00% |  50.00% |
+| 1    | Chansey / Cofagrigus / Gliscor / Slowbro / Scizor / Clefable                |    2 |   4.00% |  50.00% |
+| 1    | Garchomp / Serperior / Tyranitar / Excadrill / Manaphy / Thundurus          |    2 |   4.00% |  50.00% |
+| 4    | Cofagrigus / Garchomp / Excadrill / Tornadus-Therian / Alakazam / Clefable  |    1 |   2.00% | 100.00% |
+| 4    | Garchomp / Serperior / Azumarill / Diancie / Tornadus-Therian / Magnezone   |    1 |   2.00% | 100.00% |
+| 4    | Garchomp / Bisharp / Latias / Metagross / Mew / Thundurus                   |    1 |   2.00% | 100.00% |
+| 4    | Talonflame / Kyurem-Black / Garchomp / Latias / Scizor / Thundurus          |    1 |   2.00% | 100.00% |
+| 4    | Pinsir / Talonflame / Excadrill / Manaphy / Dragonite / Mew                 |    1 |   2.00% | 100.00% |
+| 4    | Rotom-Wash / Alakazam / Garchomp / Bisharp / Excadrill / Tornadus-Therian   |    1 |   2.00% | 100.00% |
+| 4    | Heatran / Garchomp / Serperior / Slowbro / Diancie / Tornadus-Therian       |    1 |   2.00% | 100.00% |
+| 4    | Serperior / Tyranitar / Excadrill / Charizard / Volcarona / Mew             |    1 |   2.00% | 100.00% |
+| 4    | Gyarados / Talonflame / Kyurem-Black / Latias / Scizor / Landorus-Therian   |    1 |   2.00% | 100.00% |
+| 4    | Keldeo / Serperior / Cresselia / Charizard / Excadrill / Landorus-Therian   |    1 |   2.00% | 100.00% |
+| 4    | Gyarados / Bisharp / Serperior / Manaphy / Mew / Thundurus                  |    1 |   2.00% | 100.00% |
+| 4    | Garchomp / Excadrill / Metagross / Volcanion / Thundurus / Weavile          |    1 |   2.00% | 100.00% |
+| 4    | Chansey / Cofagrigus / Lopunny / Skarmory / Clefable / Gastrodon            |    1 |   2.00% | 100.00% |
+| 4    | Garchomp / Serperior / Tyranitar / Excadrill / Volcarona / Thundurus        |    1 |   2.00% | 100.00% |
+| 4    | Hippowdon / Rotom-Wash / Latias / Ferrothorn / Gengar / Clefable            |    1 |   2.00% | 100.00% |
+| 4    | Garchomp / Keldeo / Venusaur / Excadrill / Zapdos / Mew                     |    1 |   2.00% | 100.00% |
+| 4    | Pinsir / Garchomp / Serperior / Latias / Azumarill / Magnezone              |    1 |   2.00% | 100.00% |
+| 4    | Heatran / Medicham / Garchomp / Latias / Tornadus-Therian / Clefable        |    1 |   2.00% | 100.00% |
+| 4    | Hippowdon / Rotom-Wash / Latias / Hydreigon / Ferrothorn / Clefable         |    1 |   2.00% | 100.00% |
+| 4    | Heatran / Hippowdon / Reuniclus / Keldeo / Latias / Skarmory                |    1 |   2.00% | 100.00% |
+| 4    | Hippowdon / Chansey / Slowbro / Ferrothorn / Zapdos / Weavile               |    1 |   2.00% | 100.00% |
+| 4    | Rotom-Wash / Serperior / Latias / Metagross / Landorus-Therian / Weavile    |    1 |   2.00% | 100.00% |
+| 4    | Hippowdon / Keldeo / Excadrill / Sceptile / Zapdos / Clefable               |    1 |   2.00% |   0.00% |
+| 4    | Kyurem-Black / Garchomp / Dragonite / Scizor / Volcanion / Weavile          |    1 |   2.00% |   0.00% |
+| 4    | Talonflame / Scizor / Diancie / Latios / Weavile / Seismitoad               |    1 |   2.00% |   0.00% |
+| 4    | Victini / Medicham / Serperior / Excadrill / Hydreigon / Zapdos             |    1 |   2.00% |   0.00% |
+| 4    | Heatran / Garchomp / Serperior / Skarmory / Alakazam / Clefable             |    1 |   2.00% |   0.00% |
+| 4    | Gyarados / Talonflame / Kyurem-Black / Serperior / Latias / Excadrill       |    1 |   2.00% |   0.00% |
+| 4    | Garchomp / Bisharp / Manaphy / Metagross / Mew / Thundurus                  |    1 |   2.00% |   0.00% |
+| 4    | Gyarados / Kyurem-Black / Latias / Volcarona / Volcanion / Landorus-Therian |    1 |   2.00% |   0.00% |
+| 4    | Heatran / Rotom-Wash / Lopunny / Ferrothorn / Clefable / Landorus-Therian   |    1 |   2.00% |   0.00% |
+| 4    | Heatran / Reuniclus / Latias / Skarmory / Clefable / Gastrodon              |    1 |   2.00% |   0.00% |
+| 4    | Gallade / Serperior / Excadrill / Manaphy / Mew / Thundurus                 |    1 |   2.00% |   0.00% |
+| 4    | Chansey / Quagsire / Altaria / Zapdos / Mew / Magnezone                     |    1 |   2.00% |   0.00% |
+| 4    | Cofagrigus / Excadrill / Volcanion / Diancie / Tornadus-Therian / Weavile   |    1 |   2.00% |   0.00% |
+| 4    | Hippowdon / Garchomp / Excadrill / Volcanion / Tornadus-Therian / Clefable  |    1 |   2.00% |   0.00% |
+| 4    | Garchomp / Latias / Manaphy / Metagross / Volcarona / Weavile               |    1 |   2.00% |   0.00% |
+| 4    | Victini / Keldeo / Garchomp / Charizard / Skarmory / Weavile                |    1 |   2.00% |   0.00% |
+| 4    | Chansey / Keldeo / Venusaur / Excadrill / Zapdos / Weavile                  |    1 |   2.00% |   0.00% |
+| 4    | Landorus-Therian / Bisharp / Serperior / Manaphy / Scizor / Thundurus       |    1 |   2.00% |   0.00% |
+| 4    | Gliscor / Dragalge / Slowbro / Scizor / Clefable / Magnezone                |    1 |   2.00% |   0.00% |
+| 4    | Heatran / Pinsir / Garchomp / Keldeo / Serperior / Thundurus                |    1 |   2.00% |   0.00% |
+| 4    | Lopunny / Serperior / Latias / Volcanion / Landorus-Therian / Magnezone     |    1 |   2.00% |   0.00% |
+| 4    | Bisharp / Serperior / Gardevoir / Latias / Volcanion / Landorus-Therian     |    1 |   2.00% |   0.00% |
