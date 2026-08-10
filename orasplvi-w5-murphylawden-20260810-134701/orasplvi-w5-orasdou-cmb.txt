@@ -1,0 +1,435 @@
++ ---- + ----------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                   | Use  | Usage % |  Win %  |
++ ---- + ----------------------------- + ---- + ------- + ------- +
+| 1    | Landorus / Amoonguss          |    3 |  37.50% |  66.67% |
+| 1    | Thundurus / Landorus-Therian  |    3 |  37.50% |  33.33% |
+| 3    | Scrafty / Amoonguss           |    2 |  25.00% | 100.00% |
+| 3    | Scrafty / Landorus            |    2 |  25.00% | 100.00% |
+| 3    | Deoxys-Speed / Kangaskhan     |    2 |  25.00% |  50.00% |
+| 3    | Genesect / Kangaskhan         |    2 |  25.00% |  50.00% |
+| 3    | Deoxys-Speed / Genesect       |    2 |  25.00% |  50.00% |
+| 3    | Charizard / Landorus-Therian  |    2 |  25.00% |  50.00% |
+| 3    | Charizard / Thundurus         |    2 |  25.00% |  50.00% |
+| 3    | Heatran / Charizard           |    2 |  25.00% |  50.00% |
+| 3    | Charizard / Sylveon           |    2 |  25.00% |  50.00% |
+| 3    | Heatran / Landorus-Therian    |    2 |  25.00% |  50.00% |
+| 3    | Sylveon / Landorus-Therian    |    2 |  25.00% |  50.00% |
+| 3    | Heatran / Thundurus           |    2 |  25.00% |  50.00% |
+| 3    | Sylveon / Thundurus           |    2 |  25.00% |  50.00% |
+| 3    | Heatran / Sylveon             |    2 |  25.00% |  50.00% |
+| 3    | Thundurus / Kangaskhan        |    2 |  25.00% |  50.00% |
+| 3    | Volcanion / Kangaskhan        |    2 |  25.00% |  50.00% |
+| 3    | Thundurus / Volcanion         |    2 |  25.00% |  50.00% |
+| 20   | Gardevoir / Amoonguss         |    1 |  12.50% | 100.00% |
+| 20   | Gardevoir / Blastoise         |    1 |  12.50% | 100.00% |
+| 20   | Gardevoir / Landorus          |    1 |  12.50% | 100.00% |
+| 20   | Gardevoir / Volcanion         |    1 |  12.50% | 100.00% |
+| 20   | Gardevoir / Scrafty           |    1 |  12.50% | 100.00% |
+| 20   | Blastoise / Amoonguss         |    1 |  12.50% | 100.00% |
+| 20   | Amoonguss / Volcanion         |    1 |  12.50% | 100.00% |
+| 20   | Landorus / Blastoise          |    1 |  12.50% | 100.00% |
+| 20   | Blastoise / Volcanion         |    1 |  12.50% | 100.00% |
+| 20   | Scrafty / Blastoise           |    1 |  12.50% | 100.00% |
+| 20   | Landorus / Volcanion          |    1 |  12.50% | 100.00% |
+| 20   | Scrafty / Volcanion           |    1 |  12.50% | 100.00% |
+| 20   | Conkeldurr / Kangaskhan       |    1 |  12.50% | 100.00% |
+| 20   | Thundurus / Conkeldurr        |    1 |  12.50% | 100.00% |
+| 20   | Deoxys-Speed / Conkeldurr     |    1 |  12.50% | 100.00% |
+| 20   | Volcanion / Conkeldurr        |    1 |  12.50% | 100.00% |
+| 20   | Genesect / Conkeldurr         |    1 |  12.50% | 100.00% |
+| 20   | Deoxys-Speed / Thundurus      |    1 |  12.50% | 100.00% |
+| 20   | Thundurus / Genesect          |    1 |  12.50% | 100.00% |
+| 20   | Deoxys-Speed / Volcanion      |    1 |  12.50% | 100.00% |
+| 20   | Genesect / Volcanion          |    1 |  12.50% | 100.00% |
+| 20   | Amoonguss / Metagross         |    1 |  12.50% | 100.00% |
+| 20   | Talonflame / Metagross        |    1 |  12.50% | 100.00% |
+| 20   | Landorus / Metagross          |    1 |  12.50% | 100.00% |
+| 20   | Scrafty / Metagross           |    1 |  12.50% | 100.00% |
+| 20   | Kyurem-Black / Metagross      |    1 |  12.50% | 100.00% |
+| 20   | Talonflame / Amoonguss        |    1 |  12.50% | 100.00% |
+| 20   | Kyurem-Black / Amoonguss      |    1 |  12.50% | 100.00% |
+| 20   | Talonflame / Landorus         |    1 |  12.50% | 100.00% |
+| 20   | Talonflame / Scrafty          |    1 |  12.50% | 100.00% |
+| 20   | Talonflame / Kyurem-Black     |    1 |  12.50% | 100.00% |
+| 20   | Kyurem-Black / Landorus       |    1 |  12.50% | 100.00% |
+| 20   | Scrafty / Kyurem-Black        |    1 |  12.50% | 100.00% |
+| 20   | Charizard / Blastoise         |    1 |  12.50% | 100.00% |
+| 20   | Blastoise / Sylveon           |    1 |  12.50% | 100.00% |
+| 20   | Blastoise / Landorus-Therian  |    1 |  12.50% | 100.00% |
+| 20   | Heatran / Blastoise           |    1 |  12.50% | 100.00% |
+| 20   | Blastoise / Thundurus         |    1 |  12.50% | 100.00% |
+| 20   | Sylveon / Kangaskhan          |    1 |  12.50% |   0.00% |
+| 20   | Amoonguss / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 20   | Landorus / Kangaskhan         |    1 |  12.50% |   0.00% |
+| 20   | Sylveon / Deoxys-Speed        |    1 |  12.50% |   0.00% |
+| 20   | Amoonguss / Deoxys-Speed      |    1 |  12.50% |   0.00% |
+| 20   | Landorus / Deoxys-Speed       |    1 |  12.50% |   0.00% |
+| 20   | Sylveon / Amoonguss           |    1 |  12.50% |   0.00% |
+| 20   | Sylveon / Genesect            |    1 |  12.50% |   0.00% |
+| 20   | Landorus / Sylveon            |    1 |  12.50% |   0.00% |
+| 20   | Amoonguss / Genesect          |    1 |  12.50% |   0.00% |
+| 20   | Landorus / Genesect           |    1 |  12.50% |   0.00% |
+| 20   | Charizard / Mew               |    1 |  12.50% |   0.00% |
+| 20   | Mew / Landorus-Therian        |    1 |  12.50% |   0.00% |
+| 20   | Mew / Thundurus               |    1 |  12.50% |   0.00% |
+| 20   | Heatran / Mew                 |    1 |  12.50% |   0.00% |
+| 20   | Mew / Sylveon                 |    1 |  12.50% |   0.00% |
+| 20   | Ludicolo / Salamence          |    1 |  12.50% |   0.00% |
+| 20   | Landorus-Therian / Salamence  |    1 |  12.50% |   0.00% |
+| 20   | Gothitelle / Salamence        |    1 |  12.50% |   0.00% |
+| 20   | Politoed / Salamence          |    1 |  12.50% |   0.00% |
+| 20   | Salamence / Genesect          |    1 |  12.50% |   0.00% |
+| 20   | Ludicolo / Landorus-Therian   |    1 |  12.50% |   0.00% |
+| 20   | Gothitelle / Ludicolo         |    1 |  12.50% |   0.00% |
+| 20   | Politoed / Ludicolo           |    1 |  12.50% |   0.00% |
+| 20   | Ludicolo / Genesect           |    1 |  12.50% |   0.00% |
+| 20   | Gothitelle / Landorus-Therian |    1 |  12.50% |   0.00% |
+| 20   | Politoed / Landorus-Therian   |    1 |  12.50% |   0.00% |
+| 20   | Landorus-Therian / Genesect   |    1 |  12.50% |   0.00% |
+| 20   | Politoed / Gothitelle         |    1 |  12.50% |   0.00% |
+| 20   | Gothitelle / Genesect         |    1 |  12.50% |   0.00% |
+| 20   | Politoed / Genesect           |    1 |  12.50% |   0.00% |
+| 20   | Aegislash / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 20   | Landorus-Therian / Kangaskhan |    1 |  12.50% |   0.00% |
+| 20   | Rotom-Wash / Kangaskhan       |    1 |  12.50% |   0.00% |
+| 20   | Aegislash / Volcanion         |    1 |  12.50% |   0.00% |
+| 20   | Landorus-Therian / Volcanion  |    1 |  12.50% |   0.00% |
+| 20   | Rotom-Wash / Volcanion        |    1 |  12.50% |   0.00% |
+| 20   | Aegislash / Thundurus         |    1 |  12.50% |   0.00% |
+| 20   | Aegislash / Landorus-Therian  |    1 |  12.50% |   0.00% |
+| 20   | Rotom-Wash / Aegislash        |    1 |  12.50% |   0.00% |
+| 20   | Rotom-Wash / Thundurus        |    1 |  12.50% |   0.00% |
+| 20   | Rotom-Wash / Landorus-Therian |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                                | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| 1    | Scrafty / Landorus / Amoonguss             |    2 |  25.00% | 100.00% |
+| 1    | Genesect / Deoxys-Speed / Kangaskhan       |    2 |  25.00% |  50.00% |
+| 1    | Charizard / Thundurus / Landorus-Therian   |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Charizard / Landorus-Therian     |    2 |  25.00% |  50.00% |
+| 1    | Charizard / Sylveon / Landorus-Therian     |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Charizard / Thundurus            |    2 |  25.00% |  50.00% |
+| 1    | Charizard / Sylveon / Thundurus            |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Charizard / Sylveon              |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Thundurus / Landorus-Therian     |    2 |  25.00% |  50.00% |
+| 1    | Thundurus / Sylveon / Landorus-Therian     |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Sylveon / Landorus-Therian       |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Sylveon / Thundurus              |    2 |  25.00% |  50.00% |
+| 1    | Thundurus / Volcanion / Kangaskhan         |    2 |  25.00% |  50.00% |
+| 14   | Gardevoir / Blastoise / Amoonguss          |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Landorus / Amoonguss           |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Amoonguss / Volcanion          |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Scrafty / Amoonguss            |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Landorus / Blastoise           |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Blastoise / Volcanion          |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Scrafty / Blastoise            |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Landorus / Volcanion           |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Scrafty / Landorus             |    1 |  12.50% | 100.00% |
+| 14   | Gardevoir / Scrafty / Volcanion            |    1 |  12.50% | 100.00% |
+| 14   | Landorus / Blastoise / Amoonguss           |    1 |  12.50% | 100.00% |
+| 14   | Blastoise / Amoonguss / Volcanion          |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Blastoise / Amoonguss            |    1 |  12.50% | 100.00% |
+| 14   | Landorus / Amoonguss / Volcanion           |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Amoonguss / Volcanion            |    1 |  12.50% | 100.00% |
+| 14   | Landorus / Blastoise / Volcanion           |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Landorus / Blastoise             |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Blastoise / Volcanion            |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Landorus / Volcanion             |    1 |  12.50% | 100.00% |
+| 14   | Conkeldurr / Thundurus / Kangaskhan        |    1 |  12.50% | 100.00% |
+| 14   | Conkeldurr / Deoxys-Speed / Kangaskhan     |    1 |  12.50% | 100.00% |
+| 14   | Conkeldurr / Volcanion / Kangaskhan        |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Conkeldurr / Kangaskhan         |    1 |  12.50% | 100.00% |
+| 14   | Deoxys-Speed / Thundurus / Kangaskhan      |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Thundurus / Kangaskhan          |    1 |  12.50% | 100.00% |
+| 14   | Deoxys-Speed / Volcanion / Kangaskhan      |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Volcanion / Kangaskhan          |    1 |  12.50% | 100.00% |
+| 14   | Deoxys-Speed / Thundurus / Conkeldurr      |    1 |  12.50% | 100.00% |
+| 14   | Thundurus / Volcanion / Conkeldurr         |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Thundurus / Conkeldurr          |    1 |  12.50% | 100.00% |
+| 14   | Deoxys-Speed / Volcanion / Conkeldurr      |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Deoxys-Speed / Conkeldurr       |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Volcanion / Conkeldurr          |    1 |  12.50% | 100.00% |
+| 14   | Deoxys-Speed / Thundurus / Volcanion       |    1 |  12.50% | 100.00% |
+| 14   | Deoxys-Speed / Thundurus / Genesect        |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Thundurus / Volcanion           |    1 |  12.50% | 100.00% |
+| 14   | Genesect / Deoxys-Speed / Volcanion        |    1 |  12.50% | 100.00% |
+| 14   | Amoonguss / Metagross / Talonflame         |    1 |  12.50% | 100.00% |
+| 14   | Amoonguss / Landorus / Metagross           |    1 |  12.50% | 100.00% |
+| 14   | Amoonguss / Metagross / Scrafty            |    1 |  12.50% | 100.00% |
+| 14   | Amoonguss / Metagross / Kyurem-Black       |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Landorus / Metagross          |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Metagross / Scrafty           |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Metagross / Kyurem-Black      |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Landorus / Metagross             |    1 |  12.50% | 100.00% |
+| 14   | Kyurem-Black / Landorus / Metagross        |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Metagross / Kyurem-Black         |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Landorus / Amoonguss          |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Amoonguss / Scrafty           |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Amoonguss / Kyurem-Black      |    1 |  12.50% | 100.00% |
+| 14   | Kyurem-Black / Landorus / Amoonguss        |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Amoonguss / Kyurem-Black         |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Landorus / Scrafty            |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Landorus / Kyurem-Black       |    1 |  12.50% | 100.00% |
+| 14   | Talonflame / Scrafty / Kyurem-Black        |    1 |  12.50% | 100.00% |
+| 14   | Scrafty / Landorus / Kyurem-Black          |    1 |  12.50% | 100.00% |
+| 14   | Blastoise / Charizard / Sylveon            |    1 |  12.50% | 100.00% |
+| 14   | Charizard / Blastoise / Landorus-Therian   |    1 |  12.50% | 100.00% |
+| 14   | Heatran / Charizard / Blastoise            |    1 |  12.50% | 100.00% |
+| 14   | Charizard / Blastoise / Thundurus          |    1 |  12.50% | 100.00% |
+| 14   | Blastoise / Sylveon / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 14   | Heatran / Blastoise / Sylveon              |    1 |  12.50% | 100.00% |
+| 14   | Blastoise / Sylveon / Thundurus            |    1 |  12.50% | 100.00% |
+| 14   | Heatran / Blastoise / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 14   | Thundurus / Blastoise / Landorus-Therian   |    1 |  12.50% | 100.00% |
+| 14   | Heatran / Blastoise / Thundurus            |    1 |  12.50% | 100.00% |
+| 14   | Sylveon / Deoxys-Speed / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 14   | Amoonguss / Deoxys-Speed / Kangaskhan      |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Deoxys-Speed / Kangaskhan       |    1 |  12.50% |   0.00% |
+| 14   | Sylveon / Amoonguss / Kangaskhan           |    1 |  12.50% |   0.00% |
+| 14   | Genesect / Sylveon / Kangaskhan            |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Sylveon / Kangaskhan            |    1 |  12.50% |   0.00% |
+| 14   | Genesect / Amoonguss / Kangaskhan          |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Amoonguss / Kangaskhan          |    1 |  12.50% |   0.00% |
+| 14   | Genesect / Landorus / Kangaskhan           |    1 |  12.50% |   0.00% |
+| 14   | Amoonguss / Sylveon / Deoxys-Speed         |    1 |  12.50% |   0.00% |
+| 14   | Sylveon / Deoxys-Speed / Genesect          |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Sylveon / Deoxys-Speed          |    1 |  12.50% |   0.00% |
+| 14   | Amoonguss / Deoxys-Speed / Genesect        |    1 |  12.50% |   0.00% |
+| 14   | Amoonguss / Landorus / Deoxys-Speed        |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Deoxys-Speed / Genesect         |    1 |  12.50% |   0.00% |
+| 14   | Sylveon / Amoonguss / Genesect             |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Sylveon / Amoonguss             |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Sylveon / Genesect              |    1 |  12.50% |   0.00% |
+| 14   | Landorus / Amoonguss / Genesect            |    1 |  12.50% |   0.00% |
+| 14   | Charizard / Mew / Landorus-Therian         |    1 |  12.50% |   0.00% |
+| 14   | Charizard / Mew / Thundurus                |    1 |  12.50% |   0.00% |
+| 14   | Heatran / Charizard / Mew                  |    1 |  12.50% |   0.00% |
+| 14   | Charizard / Mew / Sylveon                  |    1 |  12.50% |   0.00% |
+| 14   | Thundurus / Mew / Landorus-Therian         |    1 |  12.50% |   0.00% |
+| 14   | Heatran / Mew / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 14   | Mew / Sylveon / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 14   | Heatran / Mew / Thundurus                  |    1 |  12.50% |   0.00% |
+| 14   | Mew / Sylveon / Thundurus                  |    1 |  12.50% |   0.00% |
+| 14   | Heatran / Mew / Sylveon                    |    1 |  12.50% |   0.00% |
+| 14   | Landorus-Therian / Ludicolo / Salamence    |    1 |  12.50% |   0.00% |
+| 14   | Gothitelle / Ludicolo / Salamence          |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Ludicolo / Salamence            |    1 |  12.50% |   0.00% |
+| 14   | Ludicolo / Salamence / Genesect            |    1 |  12.50% |   0.00% |
+| 14   | Landorus-Therian / Gothitelle / Salamence  |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Landorus-Therian / Salamence    |    1 |  12.50% |   0.00% |
+| 14   | Landorus-Therian / Salamence / Genesect    |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Gothitelle / Salamence          |    1 |  12.50% |   0.00% |
+| 14   | Gothitelle / Salamence / Genesect          |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Salamence / Genesect            |    1 |  12.50% |   0.00% |
+| 14   | Gothitelle / Ludicolo / Landorus-Therian   |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Ludicolo / Landorus-Therian     |    1 |  12.50% |   0.00% |
+| 14   | Ludicolo / Landorus-Therian / Genesect     |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Gothitelle / Ludicolo           |    1 |  12.50% |   0.00% |
+| 14   | Gothitelle / Ludicolo / Genesect           |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Ludicolo / Genesect             |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Gothitelle / Landorus-Therian   |    1 |  12.50% |   0.00% |
+| 14   | Gothitelle / Landorus-Therian / Genesect   |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Landorus-Therian / Genesect     |    1 |  12.50% |   0.00% |
+| 14   | Politoed / Gothitelle / Genesect           |    1 |  12.50% |   0.00% |
+| 14   | Aegislash / Volcanion / Kangaskhan         |    1 |  12.50% |   0.00% |
+| 14   | Landorus-Therian / Volcanion / Kangaskhan  |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Volcanion / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 14   | Aegislash / Thundurus / Kangaskhan         |    1 |  12.50% |   0.00% |
+| 14   | Aegislash / Landorus-Therian / Kangaskhan  |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Aegislash / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 14   | Landorus-Therian / Thundurus / Kangaskhan  |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Thundurus / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Landorus-Therian / Kangaskhan |    1 |  12.50% |   0.00% |
+| 14   | Aegislash / Thundurus / Volcanion          |    1 |  12.50% |   0.00% |
+| 14   | Aegislash / Landorus-Therian / Volcanion   |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Aegislash / Volcanion         |    1 |  12.50% |   0.00% |
+| 14   | Landorus-Therian / Thundurus / Volcanion   |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Thundurus / Volcanion         |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Landorus-Therian / Volcanion  |    1 |  12.50% |   0.00% |
+| 14   | Landorus-Therian / Aegislash / Thundurus   |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Aegislash / Thundurus         |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Aegislash / Landorus-Therian  |    1 |  12.50% |   0.00% |
+| 14   | Rotom-Wash / Landorus-Therian / Thundurus  |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 4                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Heatran / Charizard / Thundurus / Landorus-Therian     |    2 |  25.00% |  50.00% |
+| 1    | Charizard / Thundurus / Sylveon / Landorus-Therian     |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Charizard / Sylveon / Landorus-Therian       |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Charizard / Sylveon / Thundurus              |    2 |  25.00% |  50.00% |
+| 1    | Heatran / Thundurus / Sylveon / Landorus-Therian       |    2 |  25.00% |  50.00% |
+| 6    | Gardevoir / Landorus / Blastoise / Amoonguss           |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Blastoise / Amoonguss / Volcanion          |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Scrafty / Blastoise / Amoonguss            |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Landorus / Amoonguss / Volcanion           |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Scrafty / Landorus / Amoonguss             |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Scrafty / Amoonguss / Volcanion            |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Landorus / Blastoise / Volcanion           |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Scrafty / Landorus / Blastoise             |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Scrafty / Blastoise / Volcanion            |    1 |  12.50% | 100.00% |
+| 6    | Gardevoir / Scrafty / Landorus / Volcanion             |    1 |  12.50% | 100.00% |
+| 6    | Landorus / Blastoise / Amoonguss / Volcanion           |    1 |  12.50% | 100.00% |
+| 6    | Scrafty / Landorus / Blastoise / Amoonguss             |    1 |  12.50% | 100.00% |
+| 6    | Scrafty / Blastoise / Amoonguss / Volcanion            |    1 |  12.50% | 100.00% |
+| 6    | Scrafty / Landorus / Amoonguss / Volcanion             |    1 |  12.50% | 100.00% |
+| 6    | Scrafty / Landorus / Blastoise / Volcanion             |    1 |  12.50% | 100.00% |
+| 6    | Conkeldurr / Deoxys-Speed / Thundurus / Kangaskhan     |    1 |  12.50% | 100.00% |
+| 6    | Conkeldurr / Thundurus / Volcanion / Kangaskhan        |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Conkeldurr / Thundurus / Kangaskhan         |    1 |  12.50% | 100.00% |
+| 6    | Conkeldurr / Deoxys-Speed / Volcanion / Kangaskhan     |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Conkeldurr / Deoxys-Speed / Kangaskhan      |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Conkeldurr / Volcanion / Kangaskhan         |    1 |  12.50% | 100.00% |
+| 6    | Deoxys-Speed / Thundurus / Volcanion / Kangaskhan      |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Deoxys-Speed / Thundurus / Kangaskhan       |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Thundurus / Volcanion / Kangaskhan          |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Deoxys-Speed / Volcanion / Kangaskhan       |    1 |  12.50% | 100.00% |
+| 6    | Deoxys-Speed / Thundurus / Volcanion / Conkeldurr      |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Deoxys-Speed / Thundurus / Conkeldurr       |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Thundurus / Volcanion / Conkeldurr          |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Deoxys-Speed / Volcanion / Conkeldurr       |    1 |  12.50% | 100.00% |
+| 6    | Genesect / Deoxys-Speed / Thundurus / Volcanion        |    1 |  12.50% | 100.00% |
+| 6    | Amoonguss / Landorus / Metagross / Talonflame          |    1 |  12.50% | 100.00% |
+| 6    | Amoonguss / Metagross / Scrafty / Talonflame           |    1 |  12.50% | 100.00% |
+| 6    | Amoonguss / Metagross / Kyurem-Black / Talonflame      |    1 |  12.50% | 100.00% |
+| 6    | Amoonguss / Landorus / Metagross / Scrafty             |    1 |  12.50% | 100.00% |
+| 6    | Amoonguss / Landorus / Metagross / Kyurem-Black        |    1 |  12.50% | 100.00% |
+| 6    | Kyurem-Black / Amoonguss / Metagross / Scrafty         |    1 |  12.50% | 100.00% |
+| 6    | Talonflame / Landorus / Metagross / Scrafty            |    1 |  12.50% | 100.00% |
+| 6    | Talonflame / Landorus / Metagross / Kyurem-Black       |    1 |  12.50% | 100.00% |
+| 6    | Kyurem-Black / Talonflame / Metagross / Scrafty        |    1 |  12.50% | 100.00% |
+| 6    | Scrafty / Landorus / Metagross / Kyurem-Black          |    1 |  12.50% | 100.00% |
+| 6    | Talonflame / Landorus / Amoonguss / Scrafty            |    1 |  12.50% | 100.00% |
+| 6    | Talonflame / Landorus / Amoonguss / Kyurem-Black       |    1 |  12.50% | 100.00% |
+| 6    | Kyurem-Black / Talonflame / Amoonguss / Scrafty        |    1 |  12.50% | 100.00% |
+| 6    | Scrafty / Landorus / Amoonguss / Kyurem-Black          |    1 |  12.50% | 100.00% |
+| 6    | Talonflame / Landorus / Scrafty / Kyurem-Black         |    1 |  12.50% | 100.00% |
+| 6    | Blastoise / Charizard / Sylveon / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 6    | Heatran / Blastoise / Charizard / Sylveon              |    1 |  12.50% | 100.00% |
+| 6    | Blastoise / Charizard / Sylveon / Thundurus            |    1 |  12.50% | 100.00% |
+| 6    | Heatran / Charizard / Blastoise / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 6    | Charizard / Thundurus / Blastoise / Landorus-Therian   |    1 |  12.50% | 100.00% |
+| 6    | Heatran / Charizard / Blastoise / Thundurus            |    1 |  12.50% | 100.00% |
+| 6    | Heatran / Blastoise / Sylveon / Landorus-Therian       |    1 |  12.50% | 100.00% |
+| 6    | Blastoise / Thundurus / Sylveon / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 6    | Heatran / Blastoise / Sylveon / Thundurus              |    1 |  12.50% | 100.00% |
+| 6    | Heatran / Thundurus / Blastoise / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 6    | Amoonguss / Sylveon / Deoxys-Speed / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 6    | Genesect / Sylveon / Deoxys-Speed / Kangaskhan         |    1 |  12.50% |   0.00% |
+| 6    | Landorus / Sylveon / Deoxys-Speed / Kangaskhan         |    1 |  12.50% |   0.00% |
+| 6    | Genesect / Amoonguss / Deoxys-Speed / Kangaskhan       |    1 |  12.50% |   0.00% |
+| 6    | Amoonguss / Landorus / Deoxys-Speed / Kangaskhan       |    1 |  12.50% |   0.00% |
+| 6    | Genesect / Landorus / Deoxys-Speed / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 6    | Genesect / Sylveon / Amoonguss / Kangaskhan            |    1 |  12.50% |   0.00% |
+| 6    | Landorus / Sylveon / Amoonguss / Kangaskhan            |    1 |  12.50% |   0.00% |
+| 6    | Genesect / Landorus / Sylveon / Kangaskhan             |    1 |  12.50% |   0.00% |
+| 6    | Genesect / Landorus / Amoonguss / Kangaskhan           |    1 |  12.50% |   0.00% |
+| 6    | Amoonguss / Sylveon / Deoxys-Speed / Genesect          |    1 |  12.50% |   0.00% |
+| 6    | Amoonguss / Landorus / Sylveon / Deoxys-Speed          |    1 |  12.50% |   0.00% |
+| 6    | Landorus / Sylveon / Deoxys-Speed / Genesect           |    1 |  12.50% |   0.00% |
+| 6    | Amoonguss / Landorus / Deoxys-Speed / Genesect         |    1 |  12.50% |   0.00% |
+| 6    | Landorus / Sylveon / Amoonguss / Genesect              |    1 |  12.50% |   0.00% |
+| 6    | Charizard / Thundurus / Landorus-Therian / Mew         |    1 |  12.50% |   0.00% |
+| 6    | Heatran / Charizard / Mew / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 6    | Charizard / Mew / Sylveon / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 6    | Heatran / Charizard / Mew / Thundurus                  |    1 |  12.50% |   0.00% |
+| 6    | Charizard / Mew / Sylveon / Thundurus                  |    1 |  12.50% |   0.00% |
+| 6    | Heatran / Charizard / Mew / Sylveon                    |    1 |  12.50% |   0.00% |
+| 6    | Heatran / Thundurus / Mew / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 6    | Thundurus / Mew / Sylveon / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 6    | Heatran / Mew / Sylveon / Landorus-Therian             |    1 |  12.50% |   0.00% |
+| 6    | Heatran / Mew / Sylveon / Thundurus                    |    1 |  12.50% |   0.00% |
+| 6    | Landorus-Therian / Gothitelle / Ludicolo / Salamence   |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Landorus-Therian / Ludicolo / Salamence     |    1 |  12.50% |   0.00% |
+| 6    | Landorus-Therian / Ludicolo / Salamence / Genesect     |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Gothitelle / Ludicolo / Salamence           |    1 |  12.50% |   0.00% |
+| 6    | Gothitelle / Ludicolo / Salamence / Genesect           |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Ludicolo / Salamence / Genesect             |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Landorus-Therian / Gothitelle / Salamence   |    1 |  12.50% |   0.00% |
+| 6    | Landorus-Therian / Gothitelle / Salamence / Genesect   |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Landorus-Therian / Salamence / Genesect     |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Gothitelle / Salamence / Genesect           |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Gothitelle / Ludicolo / Landorus-Therian    |    1 |  12.50% |   0.00% |
+| 6    | Gothitelle / Ludicolo / Landorus-Therian / Genesect    |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Ludicolo / Landorus-Therian / Genesect      |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Gothitelle / Ludicolo / Genesect            |    1 |  12.50% |   0.00% |
+| 6    | Politoed / Gothitelle / Landorus-Therian / Genesect    |    1 |  12.50% |   0.00% |
+| 6    | Aegislash / Thundurus / Volcanion / Kangaskhan         |    1 |  12.50% |   0.00% |
+| 6    | Aegislash / Landorus-Therian / Volcanion / Kangaskhan  |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Aegislash / Volcanion / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 6    | Landorus-Therian / Thundurus / Volcanion / Kangaskhan  |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Thundurus / Volcanion / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Landorus-Therian / Volcanion / Kangaskhan |    1 |  12.50% |   0.00% |
+| 6    | Landorus-Therian / Aegislash / Thundurus / Kangaskhan  |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Aegislash / Thundurus / Kangaskhan        |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Aegislash / Landorus-Therian / Kangaskhan |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Landorus-Therian / Thundurus / Kangaskhan |    1 |  12.50% |   0.00% |
+| 6    | Landorus-Therian / Aegislash / Thundurus / Volcanion   |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Aegislash / Thundurus / Volcanion         |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Aegislash / Landorus-Therian / Volcanion  |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Landorus-Therian / Thundurus / Volcanion  |    1 |  12.50% |   0.00% |
+| 6    | Rotom-Wash / Landorus-Therian / Aegislash / Thundurus  |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Heatran / Landorus-Therian / Charizard / Sylveon / Thundurus       |    2 |  25.00% |  50.00% |
+| 2    | Gardevoir / Volcanion / Landorus / Blastoise / Amoonguss           |    1 |  12.50% | 100.00% |
+| 2    | Gardevoir / Scrafty / Landorus / Blastoise / Amoonguss             |    1 |  12.50% | 100.00% |
+| 2    | Gardevoir / Volcanion / Scrafty / Blastoise / Amoonguss            |    1 |  12.50% | 100.00% |
+| 2    | Gardevoir / Volcanion / Scrafty / Landorus / Amoonguss             |    1 |  12.50% | 100.00% |
+| 2    | Gardevoir / Volcanion / Scrafty / Landorus / Blastoise             |    1 |  12.50% | 100.00% |
+| 2    | Volcanion / Scrafty / Landorus / Blastoise / Amoonguss             |    1 |  12.50% | 100.00% |
+| 2    | Deoxys-Speed / Kangaskhan / Conkeldurr / Volcanion / Thundurus     |    1 |  12.50% | 100.00% |
+| 2    | Deoxys-Speed / Genesect / Kangaskhan / Conkeldurr / Thundurus      |    1 |  12.50% | 100.00% |
+| 2    | Genesect / Kangaskhan / Conkeldurr / Volcanion / Thundurus         |    1 |  12.50% | 100.00% |
+| 2    | Deoxys-Speed / Genesect / Kangaskhan / Conkeldurr / Volcanion      |    1 |  12.50% | 100.00% |
+| 2    | Deoxys-Speed / Genesect / Kangaskhan / Volcanion / Thundurus       |    1 |  12.50% | 100.00% |
+| 2    | Deoxys-Speed / Genesect / Conkeldurr / Volcanion / Thundurus       |    1 |  12.50% | 100.00% |
+| 2    | Talonflame / Metagross / Scrafty / Landorus / Amoonguss            |    1 |  12.50% | 100.00% |
+| 2    | Talonflame / Kyurem-Black / Metagross / Landorus / Amoonguss       |    1 |  12.50% | 100.00% |
+| 2    | Talonflame / Kyurem-Black / Metagross / Scrafty / Amoonguss        |    1 |  12.50% | 100.00% |
+| 2    | Kyurem-Black / Metagross / Scrafty / Landorus / Amoonguss          |    1 |  12.50% | 100.00% |
+| 2    | Talonflame / Kyurem-Black / Metagross / Scrafty / Landorus         |    1 |  12.50% | 100.00% |
+| 2    | Talonflame / Kyurem-Black / Scrafty / Landorus / Amoonguss         |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Charizard / Sylveon / Blastoise / Landorus-Therian       |    1 |  12.50% | 100.00% |
+| 2    | Landorus-Therian / Charizard / Sylveon / Blastoise / Thundurus     |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Charizard / Sylveon / Blastoise / Thundurus              |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Landorus-Therian / Charizard / Blastoise / Thundurus     |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Landorus-Therian / Sylveon / Blastoise / Thundurus       |    1 |  12.50% | 100.00% |
+| 2    | Deoxys-Speed / Genesect / Kangaskhan / Sylveon / Amoonguss         |    1 |  12.50% |   0.00% |
+| 2    | Deoxys-Speed / Kangaskhan / Sylveon / Landorus / Amoonguss         |    1 |  12.50% |   0.00% |
+| 2    | Deoxys-Speed / Genesect / Kangaskhan / Sylveon / Landorus          |    1 |  12.50% |   0.00% |
+| 2    | Deoxys-Speed / Genesect / Kangaskhan / Landorus / Amoonguss        |    1 |  12.50% |   0.00% |
+| 2    | Genesect / Kangaskhan / Sylveon / Landorus / Amoonguss             |    1 |  12.50% |   0.00% |
+| 2    | Deoxys-Speed / Genesect / Sylveon / Landorus / Amoonguss           |    1 |  12.50% |   0.00% |
+| 2    | Heatran / Landorus-Therian / Charizard / Mew / Thundurus           |    1 |  12.50% |   0.00% |
+| 2    | Landorus-Therian / Charizard / Sylveon / Mew / Thundurus           |    1 |  12.50% |   0.00% |
+| 2    | Heatran / Charizard / Sylveon / Mew / Landorus-Therian             |    1 |  12.50% |   0.00% |
+| 2    | Heatran / Charizard / Sylveon / Mew / Thundurus                    |    1 |  12.50% |   0.00% |
+| 2    | Heatran / Landorus-Therian / Sylveon / Mew / Thundurus             |    1 |  12.50% |   0.00% |
+| 2    | Salamence / Gothitelle / Ludicolo / Politoed / Landorus-Therian    |    1 |  12.50% |   0.00% |
+| 2    | Salamence / Genesect / Gothitelle / Ludicolo / Landorus-Therian    |    1 |  12.50% |   0.00% |
+| 2    | Salamence / Genesect / Ludicolo / Politoed / Landorus-Therian      |    1 |  12.50% |   0.00% |
+| 2    | Salamence / Genesect / Gothitelle / Ludicolo / Politoed            |    1 |  12.50% |   0.00% |
+| 2    | Salamence / Genesect / Gothitelle / Politoed / Landorus-Therian    |    1 |  12.50% |   0.00% |
+| 2    | Genesect / Gothitelle / Ludicolo / Politoed / Landorus-Therian     |    1 |  12.50% |   0.00% |
+| 2    | Kangaskhan / Thundurus / Volcanion / Aegislash / Landorus-Therian  |    1 |  12.50% |   0.00% |
+| 2    | Kangaskhan / Rotom-Wash / Volcanion / Aegislash / Thundurus        |    1 |  12.50% |   0.00% |
+| 2    | Kangaskhan / Rotom-Wash / Volcanion / Aegislash / Landorus-Therian |    1 |  12.50% |   0.00% |
+| 2    | Kangaskhan / Rotom-Wash / Thundurus / Volcanion / Landorus-Therian |    1 |  12.50% |   0.00% |
+| 2    | Kangaskhan / Rotom-Wash / Thundurus / Aegislash / Landorus-Therian |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Thundurus / Volcanion / Aegislash / Landorus-Therian  |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Gardevoir / Volcanion / Scrafty / Landorus / Blastoise / Amoonguss             |    1 |  12.50% | 100.00% |
+| 1    | Deoxys-Speed / Kangaskhan / Genesect / Conkeldurr / Volcanion / Thundurus      |    1 |  12.50% | 100.00% |
+| 1    | Talonflame / Kyurem-Black / Metagross / Scrafty / Landorus / Amoonguss         |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Charizard / Thundurus / Sylveon / Blastoise / Landorus-Therian       |    1 |  12.50% | 100.00% |
+| 1    | Deoxys-Speed / Genesect / Kangaskhan / Sylveon / Landorus / Amoonguss          |    1 |  12.50% |   0.00% |
+| 1    | Heatran / Landorus-Therian / Charizard / Sylveon / Mew / Thundurus             |    1 |  12.50% |   0.00% |
+| 1    | Salamence / Genesect / Gothitelle / Ludicolo / Politoed / Landorus-Therian     |    1 |  12.50% |   0.00% |
+| 1    | Kangaskhan / Rotom-Wash / Thundurus / Volcanion / Aegislash / Landorus-Therian |    1 |  12.50% |   0.00% |
