@@ -1,0 +1,357 @@
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| 1    | Vikadrago / Iron Tornado            |    2 |  33.33% |   0.00% |
+| 1    | Vikadrago / Rotoghold               |    2 |  33.33% |   0.00% |
+| 1    | Iron Tornado / Rotoghold            |    2 |  33.33% |   0.00% |
+| 4    | Lelecuno-Galar / Cresserace         |    1 |  16.67% | 100.00% |
+| 4    | Cresserace / Sol Valiant            |    1 |  16.67% | 100.00% |
+| 4    | Bouffa-Lu / Cresserace              |    1 |  16.67% | 100.00% |
+| 4    | Cresserace / Rotoghold              |    1 |  16.67% | 100.00% |
+| 4    | Cresserace / Tentazor               |    1 |  16.67% | 100.00% |
+| 4    | Lelecuno-Galar / Sol Valiant        |    1 |  16.67% | 100.00% |
+| 4    | Bouffa-Lu / Lelecuno-Galar          |    1 |  16.67% | 100.00% |
+| 4    | Lelecuno-Galar / Rotoghold          |    1 |  16.67% | 100.00% |
+| 4    | Lelecuno-Galar / Tentazor           |    1 |  16.67% | 100.00% |
+| 4    | Bouffa-Lu / Sol Valiant             |    1 |  16.67% | 100.00% |
+| 4    | Sol Valiant / Rotoghold             |    1 |  16.67% | 100.00% |
+| 4    | Tentazor / Sol Valiant              |    1 |  16.67% | 100.00% |
+| 4    | Bouffa-Lu / Rotoghold               |    1 |  16.67% | 100.00% |
+| 4    | Bouffa-Lu / Tentazor                |    1 |  16.67% | 100.00% |
+| 4    | Tentazor / Rotoghold                |    1 |  16.67% | 100.00% |
+| 4    | Vikadrago / Baxgeist-Large          |    1 |  16.67% | 100.00% |
+| 4    | Vikadrago / Revarantis              |    1 |  16.67% | 100.00% |
+| 4    | Amphamence / Vikadrago              |    1 |  16.67% | 100.00% |
+| 4    | Vikadrago / Iron Dirge              |    1 |  16.67% | 100.00% |
+| 4    | Vikadrago / Sol Valiant             |    1 |  16.67% | 100.00% |
+| 4    | Baxgeist-Large / Revarantis         |    1 |  16.67% | 100.00% |
+| 4    | Amphamence / Baxgeist-Large         |    1 |  16.67% | 100.00% |
+| 4    | Iron Dirge / Baxgeist-Large         |    1 |  16.67% | 100.00% |
+| 4    | Baxgeist-Large / Sol Valiant        |    1 |  16.67% | 100.00% |
+| 4    | Amphamence / Revarantis             |    1 |  16.67% | 100.00% |
+| 4    | Iron Dirge / Revarantis             |    1 |  16.67% | 100.00% |
+| 4    | Sol Valiant / Revarantis            |    1 |  16.67% | 100.00% |
+| 4    | Amphamence / Iron Dirge             |    1 |  16.67% | 100.00% |
+| 4    | Amphamence / Sol Valiant            |    1 |  16.67% | 100.00% |
+| 4    | Iron Dirge / Sol Valiant            |    1 |  16.67% | 100.00% |
+| 4    | Floatzera / Crygargonal             |    1 |  16.67% | 100.00% |
+| 4    | Crygargonal / Kabupult              |    1 |  16.67% | 100.00% |
+| 4    | Overgyara / Crygargonal             |    1 |  16.67% | 100.00% |
+| 4    | Crygargonal / Dragocoal             |    1 |  16.67% | 100.00% |
+| 4    | Crygargonal / Iron Mimic            |    1 |  16.67% | 100.00% |
+| 4    | Floatzera / Kabupult                |    1 |  16.67% | 100.00% |
+| 4    | Floatzera / Overgyara               |    1 |  16.67% | 100.00% |
+| 4    | Floatzera / Dragocoal               |    1 |  16.67% | 100.00% |
+| 4    | Floatzera / Iron Mimic              |    1 |  16.67% | 100.00% |
+| 4    | Overgyara / Kabupult                |    1 |  16.67% | 100.00% |
+| 4    | Dragocoal / Kabupult                |    1 |  16.67% | 100.00% |
+| 4    | Iron Mimic / Kabupult               |    1 |  16.67% | 100.00% |
+| 4    | Overgyara / Dragocoal               |    1 |  16.67% | 100.00% |
+| 4    | Overgyara / Iron Mimic              |    1 |  16.67% | 100.00% |
+| 4    | Dragocoal / Iron Mimic              |    1 |  16.67% | 100.00% |
+| 4    | Overgyara / Vikadrago               |    1 |  16.67% |   0.00% |
+| 4    | Vikadrago / Icekrai                 |    1 |  16.67% |   0.00% |
+| 4    | Vikadrago / Necrotrik-Dawn-Wings    |    1 |  16.67% |   0.00% |
+| 4    | Overgyara / Iron Tornado            |    1 |  16.67% |   0.00% |
+| 4    | Overgyara / Rotoghold               |    1 |  16.67% |   0.00% |
+| 4    | Overgyara / Icekrai                 |    1 |  16.67% |   0.00% |
+| 4    | Overgyara / Necrotrik-Dawn-Wings    |    1 |  16.67% |   0.00% |
+| 4    | Iron Tornado / Icekrai              |    1 |  16.67% |   0.00% |
+| 4    | Necrotrik-Dawn-Wings / Iron Tornado |    1 |  16.67% |   0.00% |
+| 4    | Icekrai / Rotoghold                 |    1 |  16.67% |   0.00% |
+| 4    | Necrotrik-Dawn-Wings / Rotoghold    |    1 |  16.67% |   0.00% |
+| 4    | Necrotrik-Dawn-Wings / Icekrai      |    1 |  16.67% |   0.00% |
+| 4    | Slither King / Deliraidon           |    1 |  16.67% |   0.00% |
+| 4    | Deliraidon / Aero Wake              |    1 |  16.67% |   0.00% |
+| 4    | Florgerouge / Deliraidon            |    1 |  16.67% |   0.00% |
+| 4    | Stargrowth / Deliraidon             |    1 |  16.67% |   0.00% |
+| 4    | Deliraidon / Sol Valiant            |    1 |  16.67% |   0.00% |
+| 4    | Slither King / Aero Wake            |    1 |  16.67% |   0.00% |
+| 4    | Florgerouge / Slither King          |    1 |  16.67% |   0.00% |
+| 4    | Slither King / Stargrowth           |    1 |  16.67% |   0.00% |
+| 4    | Slither King / Sol Valiant          |    1 |  16.67% |   0.00% |
+| 4    | Florgerouge / Aero Wake             |    1 |  16.67% |   0.00% |
+| 4    | Stargrowth / Aero Wake              |    1 |  16.67% |   0.00% |
+| 4    | Aero Wake / Sol Valiant             |    1 |  16.67% |   0.00% |
+| 4    | Florgerouge / Stargrowth            |    1 |  16.67% |   0.00% |
+| 4    | Florgerouge / Sol Valiant           |    1 |  16.67% |   0.00% |
+| 4    | Stargrowth / Sol Valiant            |    1 |  16.67% |   0.00% |
+| 4    | Vikadrago / Iron Legion             |    1 |  16.67% |   0.00% |
+| 4    | Vikadrago / Iron Matcha             |    1 |  16.67% |   0.00% |
+| 4    | Vikadrago / Varantis                |    1 |  16.67% |   0.00% |
+| 4    | Rotoghold / Iron Legion             |    1 |  16.67% |   0.00% |
+| 4    | Iron Tornado / Iron Legion          |    1 |  16.67% |   0.00% |
+| 4    | Iron Matcha / Iron Legion           |    1 |  16.67% |   0.00% |
+| 4    | Varantis / Iron Legion              |    1 |  16.67% |   0.00% |
+| 4    | Iron Matcha / Rotoghold             |    1 |  16.67% |   0.00% |
+| 4    | Varantis / Rotoghold                |    1 |  16.67% |   0.00% |
+| 4    | Iron Matcha / Iron Tornado          |    1 |  16.67% |   0.00% |
+| 4    | Iron Tornado / Varantis             |    1 |  16.67% |   0.00% |
+| 4    | Iron Matcha / Varantis              |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Vikadrago / Iron Tornado / Rotoghold            |    2 |  33.33% |   0.00% |
+| 2    | Lelecuno-Galar / Cresserace / Sol Valiant       |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Lelecuno-Galar / Cresserace         |    1 |  16.67% | 100.00% |
+| 2    | Lelecuno-Galar / Cresserace / Rotoghold         |    1 |  16.67% | 100.00% |
+| 2    | Lelecuno-Galar / Cresserace / Tentazor          |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Cresserace / Sol Valiant            |    1 |  16.67% | 100.00% |
+| 2    | Cresserace / Sol Valiant / Rotoghold            |    1 |  16.67% | 100.00% |
+| 2    | Tentazor / Cresserace / Sol Valiant             |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Cresserace / Rotoghold              |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Cresserace / Tentazor               |    1 |  16.67% | 100.00% |
+| 2    | Cresserace / Tentazor / Rotoghold               |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Lelecuno-Galar / Sol Valiant        |    1 |  16.67% | 100.00% |
+| 2    | Lelecuno-Galar / Sol Valiant / Rotoghold        |    1 |  16.67% | 100.00% |
+| 2    | Tentazor / Lelecuno-Galar / Sol Valiant         |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Lelecuno-Galar / Rotoghold          |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Lelecuno-Galar / Tentazor           |    1 |  16.67% | 100.00% |
+| 2    | Lelecuno-Galar / Tentazor / Rotoghold           |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Sol Valiant / Rotoghold             |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Tentazor / Sol Valiant              |    1 |  16.67% | 100.00% |
+| 2    | Tentazor / Sol Valiant / Rotoghold              |    1 |  16.67% | 100.00% |
+| 2    | Bouffa-Lu / Tentazor / Rotoghold                |    1 |  16.67% | 100.00% |
+| 2    | Vikadrago / Baxgeist-Large / Revarantis         |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Vikadrago / Baxgeist-Large         |    1 |  16.67% | 100.00% |
+| 2    | Iron Dirge / Vikadrago / Baxgeist-Large         |    1 |  16.67% | 100.00% |
+| 2    | Vikadrago / Baxgeist-Large / Sol Valiant        |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Vikadrago / Revarantis             |    1 |  16.67% | 100.00% |
+| 2    | Vikadrago / Iron Dirge / Revarantis             |    1 |  16.67% | 100.00% |
+| 2    | Vikadrago / Sol Valiant / Revarantis            |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Vikadrago / Iron Dirge             |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Vikadrago / Sol Valiant            |    1 |  16.67% | 100.00% |
+| 2    | Vikadrago / Iron Dirge / Sol Valiant            |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Baxgeist-Large / Revarantis        |    1 |  16.67% | 100.00% |
+| 2    | Iron Dirge / Baxgeist-Large / Revarantis        |    1 |  16.67% | 100.00% |
+| 2    | Baxgeist-Large / Sol Valiant / Revarantis       |    1 |  16.67% | 100.00% |
+| 2    | Iron Dirge / Amphamence / Baxgeist-Large        |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Baxgeist-Large / Sol Valiant       |    1 |  16.67% | 100.00% |
+| 2    | Iron Dirge / Baxgeist-Large / Sol Valiant       |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Iron Dirge / Revarantis            |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Sol Valiant / Revarantis           |    1 |  16.67% | 100.00% |
+| 2    | Iron Dirge / Sol Valiant / Revarantis           |    1 |  16.67% | 100.00% |
+| 2    | Amphamence / Iron Dirge / Sol Valiant           |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Crygargonal / Kabupult              |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Crygargonal / Overgyara             |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Crygargonal / Dragocoal             |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Crygargonal / Iron Mimic            |    1 |  16.67% | 100.00% |
+| 2    | Overgyara / Crygargonal / Kabupult              |    1 |  16.67% | 100.00% |
+| 2    | Crygargonal / Dragocoal / Kabupult              |    1 |  16.67% | 100.00% |
+| 2    | Crygargonal / Iron Mimic / Kabupult             |    1 |  16.67% | 100.00% |
+| 2    | Overgyara / Crygargonal / Dragocoal             |    1 |  16.67% | 100.00% |
+| 2    | Overgyara / Crygargonal / Iron Mimic            |    1 |  16.67% | 100.00% |
+| 2    | Crygargonal / Dragocoal / Iron Mimic            |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Kabupult / Overgyara                |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Dragocoal / Kabupult                |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Iron Mimic / Kabupult               |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Dragocoal / Overgyara               |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Iron Mimic / Overgyara              |    1 |  16.67% | 100.00% |
+| 2    | Floatzera / Dragocoal / Iron Mimic              |    1 |  16.67% | 100.00% |
+| 2    | Overgyara / Dragocoal / Kabupult                |    1 |  16.67% | 100.00% |
+| 2    | Overgyara / Iron Mimic / Kabupult               |    1 |  16.67% | 100.00% |
+| 2    | Dragocoal / Iron Mimic / Kabupult               |    1 |  16.67% | 100.00% |
+| 2    | Overgyara / Dragocoal / Iron Mimic              |    1 |  16.67% | 100.00% |
+| 2    | Overgyara / Vikadrago / Iron Tornado            |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Vikadrago / Rotoghold               |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Vikadrago / Icekrai                 |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Vikadrago / Necrotrik-Dawn-Wings    |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Tornado / Icekrai              |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Tornado / Necrotrik-Dawn-Wings |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Icekrai / Rotoghold                 |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Necrotrik-Dawn-Wings / Rotoghold    |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Icekrai / Necrotrik-Dawn-Wings      |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Iron Tornado / Rotoghold            |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Iron Tornado / Icekrai              |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Necrotrik-Dawn-Wings / Iron Tornado |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Icekrai / Rotoghold                 |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Necrotrik-Dawn-Wings / Rotoghold    |    1 |  16.67% |   0.00% |
+| 2    | Overgyara / Necrotrik-Dawn-Wings / Icekrai      |    1 |  16.67% |   0.00% |
+| 2    | Iron Tornado / Icekrai / Rotoghold              |    1 |  16.67% |   0.00% |
+| 2    | Necrotrik-Dawn-Wings / Iron Tornado / Rotoghold |    1 |  16.67% |   0.00% |
+| 2    | Necrotrik-Dawn-Wings / Iron Tornado / Icekrai   |    1 |  16.67% |   0.00% |
+| 2    | Necrotrik-Dawn-Wings / Icekrai / Rotoghold      |    1 |  16.67% |   0.00% |
+| 2    | Slither King / Deliraidon / Aero Wake           |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Slither King / Deliraidon         |    1 |  16.67% |   0.00% |
+| 2    | Slither King / Stargrowth / Deliraidon          |    1 |  16.67% |   0.00% |
+| 2    | Slither King / Deliraidon / Sol Valiant         |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Deliraidon / Aero Wake            |    1 |  16.67% |   0.00% |
+| 2    | Stargrowth / Deliraidon / Aero Wake             |    1 |  16.67% |   0.00% |
+| 2    | Deliraidon / Aero Wake / Sol Valiant            |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Stargrowth / Deliraidon           |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Deliraidon / Sol Valiant          |    1 |  16.67% |   0.00% |
+| 2    | Stargrowth / Deliraidon / Sol Valiant           |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Slither King / Aero Wake          |    1 |  16.67% |   0.00% |
+| 2    | Slither King / Stargrowth / Aero Wake           |    1 |  16.67% |   0.00% |
+| 2    | Slither King / Aero Wake / Sol Valiant          |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Slither King / Stargrowth         |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Slither King / Sol Valiant        |    1 |  16.67% |   0.00% |
+| 2    | Slither King / Stargrowth / Sol Valiant         |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Stargrowth / Aero Wake            |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Aero Wake / Sol Valiant           |    1 |  16.67% |   0.00% |
+| 2    | Stargrowth / Aero Wake / Sol Valiant            |    1 |  16.67% |   0.00% |
+| 2    | Florgerouge / Stargrowth / Sol Valiant          |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Rotoghold / Iron Legion             |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Tornado / Iron Legion          |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Matcha / Iron Legion           |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Varantis / Iron Legion              |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Matcha / Rotoghold             |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Varantis / Rotoghold                |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Tornado / Iron Matcha          |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Tornado / Varantis             |    1 |  16.67% |   0.00% |
+| 2    | Vikadrago / Iron Matcha / Varantis              |    1 |  16.67% |   0.00% |
+| 2    | Rotoghold / Iron Tornado / Iron Legion          |    1 |  16.67% |   0.00% |
+| 2    | Iron Matcha / Rotoghold / Iron Legion           |    1 |  16.67% |   0.00% |
+| 2    | Rotoghold / Varantis / Iron Legion              |    1 |  16.67% |   0.00% |
+| 2    | Iron Matcha / Iron Tornado / Iron Legion        |    1 |  16.67% |   0.00% |
+| 2    | Iron Tornado / Varantis / Iron Legion           |    1 |  16.67% |   0.00% |
+| 2    | Iron Matcha / Varantis / Iron Legion            |    1 |  16.67% |   0.00% |
+| 2    | Iron Matcha / Iron Tornado / Rotoghold          |    1 |  16.67% |   0.00% |
+| 2    | Iron Tornado / Varantis / Rotoghold             |    1 |  16.67% |   0.00% |
+| 2    | Iron Matcha / Varantis / Rotoghold              |    1 |  16.67% |   0.00% |
+| 2    | Iron Matcha / Iron Tornado / Varantis           |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                 | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Bouffa-Lu / Lelecuno-Galar / Cresserace / Sol Valiant       |    1 |  16.67% | 100.00% |
+| 1    | Lelecuno-Galar / Cresserace / Sol Valiant / Rotoghold       |    1 |  16.67% | 100.00% |
+| 1    | Tentazor / Lelecuno-Galar / Cresserace / Sol Valiant        |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Lelecuno-Galar / Cresserace / Rotoghold         |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Lelecuno-Galar / Cresserace / Tentazor          |    1 |  16.67% | 100.00% |
+| 1    | Lelecuno-Galar / Cresserace / Tentazor / Rotoghold          |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Cresserace / Sol Valiant / Rotoghold            |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Tentazor / Cresserace / Sol Valiant             |    1 |  16.67% | 100.00% |
+| 1    | Tentazor / Cresserace / Sol Valiant / Rotoghold             |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Cresserace / Tentazor / Rotoghold               |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Lelecuno-Galar / Sol Valiant / Rotoghold        |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Tentazor / Lelecuno-Galar / Sol Valiant         |    1 |  16.67% | 100.00% |
+| 1    | Tentazor / Lelecuno-Galar / Sol Valiant / Rotoghold         |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Lelecuno-Galar / Tentazor / Rotoghold           |    1 |  16.67% | 100.00% |
+| 1    | Bouffa-Lu / Tentazor / Sol Valiant / Rotoghold              |    1 |  16.67% | 100.00% |
+| 1    | Amphamence / Vikadrago / Baxgeist-Large / Revarantis        |    1 |  16.67% | 100.00% |
+| 1    | Iron Dirge / Vikadrago / Baxgeist-Large / Revarantis        |    1 |  16.67% | 100.00% |
+| 1    | Vikadrago / Baxgeist-Large / Sol Valiant / Revarantis       |    1 |  16.67% | 100.00% |
+| 1    | Iron Dirge / Amphamence / Vikadrago / Baxgeist-Large        |    1 |  16.67% | 100.00% |
+| 1    | Amphamence / Vikadrago / Baxgeist-Large / Sol Valiant       |    1 |  16.67% | 100.00% |
+| 1    | Iron Dirge / Vikadrago / Baxgeist-Large / Sol Valiant       |    1 |  16.67% | 100.00% |
+| 1    | Amphamence / Vikadrago / Iron Dirge / Revarantis            |    1 |  16.67% | 100.00% |
+| 1    | Amphamence / Vikadrago / Sol Valiant / Revarantis           |    1 |  16.67% | 100.00% |
+| 1    | Vikadrago / Iron Dirge / Sol Valiant / Revarantis           |    1 |  16.67% | 100.00% |
+| 1    | Amphamence / Vikadrago / Iron Dirge / Sol Valiant           |    1 |  16.67% | 100.00% |
+| 1    | Iron Dirge / Amphamence / Baxgeist-Large / Revarantis       |    1 |  16.67% | 100.00% |
+| 1    | Amphamence / Baxgeist-Large / Sol Valiant / Revarantis      |    1 |  16.67% | 100.00% |
+| 1    | Iron Dirge / Baxgeist-Large / Sol Valiant / Revarantis      |    1 |  16.67% | 100.00% |
+| 1    | Iron Dirge / Amphamence / Baxgeist-Large / Sol Valiant      |    1 |  16.67% | 100.00% |
+| 1    | Amphamence / Iron Dirge / Sol Valiant / Revarantis          |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Kabupult / Overgyara              |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Dragocoal / Kabupult              |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Iron Mimic / Kabupult             |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Dragocoal / Overgyara             |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Iron Mimic / Overgyara            |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Dragocoal / Iron Mimic            |    1 |  16.67% | 100.00% |
+| 1    | Overgyara / Crygargonal / Dragocoal / Kabupult              |    1 |  16.67% | 100.00% |
+| 1    | Overgyara / Crygargonal / Iron Mimic / Kabupult             |    1 |  16.67% | 100.00% |
+| 1    | Crygargonal / Dragocoal / Iron Mimic / Kabupult             |    1 |  16.67% | 100.00% |
+| 1    | Overgyara / Crygargonal / Dragocoal / Iron Mimic            |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Dragocoal / Kabupult / Overgyara                |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Iron Mimic / Kabupult / Overgyara               |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Dragocoal / Iron Mimic / Kabupult               |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Dragocoal / Iron Mimic / Overgyara              |    1 |  16.67% | 100.00% |
+| 1    | Overgyara / Dragocoal / Iron Mimic / Kabupult               |    1 |  16.67% | 100.00% |
+| 1    | Overgyara / Vikadrago / Iron Tornado / Rotoghold            |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Vikadrago / Iron Tornado / Icekrai              |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Vikadrago / Iron Tornado / Necrotrik-Dawn-Wings |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Vikadrago / Icekrai / Rotoghold                 |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Vikadrago / Necrotrik-Dawn-Wings / Rotoghold    |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Vikadrago / Icekrai / Necrotrik-Dawn-Wings      |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Icekrai / Rotoghold              |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Necrotrik-Dawn-Wings / Rotoghold |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Icekrai / Necrotrik-Dawn-Wings   |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Necrotrik-Dawn-Wings / Icekrai / Rotoghold      |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Iron Tornado / Icekrai / Rotoghold              |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Necrotrik-Dawn-Wings / Iron Tornado / Rotoghold |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Necrotrik-Dawn-Wings / Iron Tornado / Icekrai   |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Necrotrik-Dawn-Wings / Icekrai / Rotoghold      |    1 |  16.67% |   0.00% |
+| 1    | Necrotrik-Dawn-Wings / Iron Tornado / Icekrai / Rotoghold   |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Slither King / Deliraidon / Aero Wake         |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Stargrowth / Deliraidon / Aero Wake          |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Deliraidon / Aero Wake / Sol Valiant         |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Slither King / Stargrowth / Deliraidon        |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Slither King / Deliraidon / Sol Valiant       |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Stargrowth / Deliraidon / Sol Valiant        |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Stargrowth / Deliraidon / Aero Wake           |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Deliraidon / Aero Wake / Sol Valiant          |    1 |  16.67% |   0.00% |
+| 1    | Stargrowth / Deliraidon / Aero Wake / Sol Valiant           |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Stargrowth / Deliraidon / Sol Valiant         |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Slither King / Stargrowth / Aero Wake         |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Slither King / Aero Wake / Sol Valiant        |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Stargrowth / Aero Wake / Sol Valiant         |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Slither King / Stargrowth / Sol Valiant       |    1 |  16.67% |   0.00% |
+| 1    | Florgerouge / Stargrowth / Aero Wake / Sol Valiant          |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Rotoghold / Iron Tornado / Iron Legion          |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Rotoghold / Iron Matcha / Iron Legion           |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Rotoghold / Varantis / Iron Legion              |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Iron Matcha / Iron Legion        |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Varantis / Iron Legion           |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Matcha / Varantis / Iron Legion            |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Iron Matcha / Rotoghold          |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Varantis / Rotoghold             |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Matcha / Varantis / Rotoghold              |    1 |  16.67% |   0.00% |
+| 1    | Vikadrago / Iron Tornado / Iron Matcha / Varantis           |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Rotoghold / Iron Tornado / Iron Legion        |    1 |  16.67% |   0.00% |
+| 1    | Rotoghold / Iron Tornado / Varantis / Iron Legion           |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Rotoghold / Varantis / Iron Legion            |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Iron Tornado / Varantis / Iron Legion         |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Iron Tornado / Varantis / Rotoghold           |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                             | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Rotoghold / Lelecuno-Galar / Cresserace / Sol Valiant / Bouffa-Lu       |    1 |  16.67% | 100.00% |
+| 1    | Lelecuno-Galar / Cresserace / Sol Valiant / Bouffa-Lu / Tentazor        |    1 |  16.67% | 100.00% |
+| 1    | Rotoghold / Lelecuno-Galar / Cresserace / Sol Valiant / Tentazor        |    1 |  16.67% | 100.00% |
+| 1    | Rotoghold / Lelecuno-Galar / Cresserace / Bouffa-Lu / Tentazor          |    1 |  16.67% | 100.00% |
+| 1    | Rotoghold / Cresserace / Sol Valiant / Bouffa-Lu / Tentazor             |    1 |  16.67% | 100.00% |
+| 1    | Rotoghold / Lelecuno-Galar / Sol Valiant / Bouffa-Lu / Tentazor         |    1 |  16.67% | 100.00% |
+| 1    | Baxgeist-Large / Vikadrago / Iron Dirge / Revarantis / Amphamence       |    1 |  16.67% | 100.00% |
+| 1    | Baxgeist-Large / Sol Valiant / Vikadrago / Revarantis / Amphamence      |    1 |  16.67% | 100.00% |
+| 1    | Baxgeist-Large / Sol Valiant / Iron Dirge / Revarantis / Vikadrago      |    1 |  16.67% | 100.00% |
+| 1    | Baxgeist-Large / Sol Valiant / Vikadrago / Iron Dirge / Amphamence      |    1 |  16.67% | 100.00% |
+| 1    | Sol Valiant / Vikadrago / Iron Dirge / Revarantis / Amphamence          |    1 |  16.67% | 100.00% |
+| 1    | Baxgeist-Large / Sol Valiant / Iron Dirge / Revarantis / Amphamence     |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Dragocoal / Overgyara / Kabupult              |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Overgyara / Iron Mimic / Kabupult             |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Dragocoal / Iron Mimic / Kabupult             |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Dragocoal / Overgyara / Iron Mimic            |    1 |  16.67% | 100.00% |
+| 1    | Crygargonal / Dragocoal / Overgyara / Iron Mimic / Kabupult             |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Dragocoal / Overgyara / Iron Mimic / Kabupult               |    1 |  16.67% | 100.00% |
+| 1    | Rotoghold / Overgyara / Iron Tornado / Vikadrago / Icekrai              |    1 |  16.67% |   0.00% |
+| 1    | Rotoghold / Overgyara / Necrotrik-Dawn-Wings / Iron Tornado / Vikadrago |    1 |  16.67% |   0.00% |
+| 1    | Overgyara / Necrotrik-Dawn-Wings / Iron Tornado / Vikadrago / Icekrai   |    1 |  16.67% |   0.00% |
+| 1    | Rotoghold / Overgyara / Necrotrik-Dawn-Wings / Vikadrago / Icekrai      |    1 |  16.67% |   0.00% |
+| 1    | Rotoghold / Necrotrik-Dawn-Wings / Iron Tornado / Vikadrago / Icekrai   |    1 |  16.67% |   0.00% |
+| 1    | Rotoghold / Overgyara / Necrotrik-Dawn-Wings / Iron Tornado / Icekrai   |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Deliraidon / Aero Wake / Florgerouge / Stargrowth        |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Deliraidon / Aero Wake / Sol Valiant / Florgerouge       |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Deliraidon / Aero Wake / Sol Valiant / Stargrowth        |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Deliraidon / Sol Valiant / Florgerouge / Stargrowth      |    1 |  16.67% |   0.00% |
+| 1    | Deliraidon / Aero Wake / Sol Valiant / Florgerouge / Stargrowth         |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Aero Wake / Sol Valiant / Florgerouge / Stargrowth       |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Rotoghold / Iron Legion / Iron Tornado / Vikadrago        |    1 |  16.67% |   0.00% |
+| 1    | Rotoghold / Varantis / Iron Legion / Iron Tornado / Vikadrago           |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Rotoghold / Varantis / Iron Legion / Vikadrago            |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Varantis / Iron Legion / Iron Tornado / Vikadrago         |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Rotoghold / Varantis / Iron Tornado / Vikadrago           |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Rotoghold / Varantis / Iron Legion / Iron Tornado         |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Rotoghold / Lelecuno-Galar / Cresserace / Sol Valiant / Bouffa-Lu / Tentazor      |    1 |  16.67% | 100.00% |
+| 1    | Baxgeist-Large / Sol Valiant / Vikadrago / Iron Dirge / Revarantis / Amphamence   |    1 |  16.67% | 100.00% |
+| 1    | Floatzera / Crygargonal / Dragocoal / Overgyara / Kabupult / Iron Mimic           |    1 |  16.67% | 100.00% |
+| 1    | Rotoghold / Overgyara / Necrotrik-Dawn-Wings / Iron Tornado / Vikadrago / Icekrai |    1 |  16.67% |   0.00% |
+| 1    | Slither King / Deliraidon / Aero Wake / Sol Valiant / Florgerouge / Stargrowth    |    1 |  16.67% |   0.00% |
+| 1    | Iron Matcha / Rotoghold / Varantis / Iron Legion / Iron Tornado / Vikadrago       |    1 |  16.67% |   0.00% |
