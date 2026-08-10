@@ -1,0 +1,463 @@
++ ---- + ---------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2            | Use  | Usage % |  Win %  |
++ ---- + ---------------------- + ---- + ------- + ------- +
+| 1    | Swalot / Carbink       |    2 |  25.00% |  50.00% |
+| 1    | Meganium / Carbink     |    2 |  25.00% |  50.00% |
+| 1    | Bronzor / Carbink      |    2 |  25.00% |  50.00% |
+| 1    | Swalot / Meganium      |    2 |  25.00% |  50.00% |
+| 1    | Swalot / Bronzor       |    2 |  25.00% |  50.00% |
+| 1    | Meganium / Bronzor     |    2 |  25.00% |  50.00% |
+| 1    | Servine / Dustox       |    2 |  25.00% |  50.00% |
+| 8    | Carbink / Vibrava      |    1 |  12.50% | 100.00% |
+| 8    | Scraggy / Carbink      |    1 |  12.50% | 100.00% |
+| 8    | Swalot / Vibrava       |    1 |  12.50% | 100.00% |
+| 8    | Swalot / Scraggy       |    1 |  12.50% | 100.00% |
+| 8    | Meganium / Vibrava     |    1 |  12.50% | 100.00% |
+| 8    | Bronzor / Vibrava      |    1 |  12.50% | 100.00% |
+| 8    | Scraggy / Vibrava      |    1 |  12.50% | 100.00% |
+| 8    | Meganium / Scraggy     |    1 |  12.50% | 100.00% |
+| 8    | Bronzor / Scraggy      |    1 |  12.50% | 100.00% |
+| 8    | Solrock / Furfrou      |    1 |  12.50% | 100.00% |
+| 8    | Ivysaur / Furfrou      |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Furfrou      |    1 |  12.50% | 100.00% |
+| 8    | Furfrou / Krokorok     |    1 |  12.50% | 100.00% |
+| 8    | Furfrou / Walrein      |    1 |  12.50% | 100.00% |
+| 8    | Solrock / Ivysaur      |    1 |  12.50% | 100.00% |
+| 8    | Solrock / Pignite      |    1 |  12.50% | 100.00% |
+| 8    | Solrock / Krokorok     |    1 |  12.50% | 100.00% |
+| 8    | Solrock / Walrein      |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Ivysaur      |    1 |  12.50% | 100.00% |
+| 8    | Ivysaur / Krokorok     |    1 |  12.50% | 100.00% |
+| 8    | Ivysaur / Walrein      |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Krokorok     |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Walrein      |    1 |  12.50% | 100.00% |
+| 8    | Walrein / Krokorok     |    1 |  12.50% | 100.00% |
+| 8    | Seviper / Kricketune   |    1 |  12.50% | 100.00% |
+| 8    | Kricketune / Sawsbuck  |    1 |  12.50% | 100.00% |
+| 8    | Vanilluxe / Kricketune |    1 |  12.50% | 100.00% |
+| 8    | Kricketune / Frogadier |    1 |  12.50% | 100.00% |
+| 8    | Kricketune / Krokorok  |    1 |  12.50% | 100.00% |
+| 8    | Seviper / Sawsbuck     |    1 |  12.50% | 100.00% |
+| 8    | Vanilluxe / Seviper    |    1 |  12.50% | 100.00% |
+| 8    | Seviper / Frogadier    |    1 |  12.50% | 100.00% |
+| 8    | Seviper / Krokorok     |    1 |  12.50% | 100.00% |
+| 8    | Vanilluxe / Sawsbuck   |    1 |  12.50% | 100.00% |
+| 8    | Frogadier / Sawsbuck   |    1 |  12.50% | 100.00% |
+| 8    | Krokorok / Sawsbuck    |    1 |  12.50% | 100.00% |
+| 8    | Vanilluxe / Frogadier  |    1 |  12.50% | 100.00% |
+| 8    | Vanilluxe / Krokorok   |    1 |  12.50% | 100.00% |
+| 8    | Frogadier / Krokorok   |    1 |  12.50% | 100.00% |
+| 8    | Dustox / Lunatone      |    1 |  12.50% | 100.00% |
+| 8    | Servine / Lunatone     |    1 |  12.50% | 100.00% |
+| 8    | Lunatone / Simipour    |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Lunatone     |    1 |  12.50% | 100.00% |
+| 8    | Persian / Lunatone     |    1 |  12.50% | 100.00% |
+| 8    | Dustox / Simipour      |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Dustox       |    1 |  12.50% | 100.00% |
+| 8    | Persian / Dustox       |    1 |  12.50% | 100.00% |
+| 8    | Servine / Simipour     |    1 |  12.50% | 100.00% |
+| 8    | Servine / Pignite      |    1 |  12.50% | 100.00% |
+| 8    | Servine / Persian      |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Simipour     |    1 |  12.50% | 100.00% |
+| 8    | Persian / Simipour     |    1 |  12.50% | 100.00% |
+| 8    | Pignite / Persian      |    1 |  12.50% | 100.00% |
+| 8    | Meganium / Wartortle   |    1 |  12.50% |   0.00% |
+| 8    | Meganium / Mienfoo     |    1 |  12.50% |   0.00% |
+| 8    | Swalot / Wartortle     |    1 |  12.50% |   0.00% |
+| 8    | Swalot / Mienfoo       |    1 |  12.50% |   0.00% |
+| 8    | Bronzor / Wartortle    |    1 |  12.50% |   0.00% |
+| 8    | Bronzor / Mienfoo      |    1 |  12.50% |   0.00% |
+| 8    | Wartortle / Carbink    |    1 |  12.50% |   0.00% |
+| 8    | Mienfoo / Carbink      |    1 |  12.50% |   0.00% |
+| 8    | Wartortle / Mienfoo    |    1 |  12.50% |   0.00% |
+| 8    | Carbink / Volbeat      |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Volbeat       |    1 |  12.50% |   0.00% |
+| 8    | Ivysaur / Volbeat      |    1 |  12.50% |   0.00% |
+| 8    | Natu / Volbeat         |    1 |  12.50% |   0.00% |
+| 8    | Volbeat / Sawsbuck     |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Carbink       |    1 |  12.50% |   0.00% |
+| 8    | Ivysaur / Carbink      |    1 |  12.50% |   0.00% |
+| 8    | Carbink / Natu         |    1 |  12.50% |   0.00% |
+| 8    | Carbink / Sawsbuck     |    1 |  12.50% |   0.00% |
+| 8    | Ivysaur / Magmar       |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Natu          |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Sawsbuck      |    1 |  12.50% |   0.00% |
+| 8    | Ivysaur / Natu         |    1 |  12.50% |   0.00% |
+| 8    | Ivysaur / Sawsbuck     |    1 |  12.50% |   0.00% |
+| 8    | Natu / Sawsbuck        |    1 |  12.50% |   0.00% |
+| 8    | Trubbish / Marshtomp   |    1 |  12.50% |   0.00% |
+| 8    | Persian / Marshtomp    |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Marshtomp     |    1 |  12.50% |   0.00% |
+| 8    | Vibrava / Marshtomp    |    1 |  12.50% |   0.00% |
+| 8    | Frillish / Marshtomp   |    1 |  12.50% |   0.00% |
+| 8    | Persian / Trubbish     |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Trubbish      |    1 |  12.50% |   0.00% |
+| 8    | Trubbish / Vibrava     |    1 |  12.50% |   0.00% |
+| 8    | Trubbish / Frillish    |    1 |  12.50% |   0.00% |
+| 8    | Persian / Magmar       |    1 |  12.50% |   0.00% |
+| 8    | Persian / Vibrava      |    1 |  12.50% |   0.00% |
+| 8    | Persian / Frillish     |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Vibrava       |    1 |  12.50% |   0.00% |
+| 8    | Magmar / Frillish      |    1 |  12.50% |   0.00% |
+| 8    | Vibrava / Frillish     |    1 |  12.50% |   0.00% |
+| 8    | Carbink / Duosion      |    1 |  12.50% |   0.00% |
+| 8    | Servine / Duosion      |    1 |  12.50% |   0.00% |
+| 8    | Duosion / Krokorok     |    1 |  12.50% |   0.00% |
+| 8    | Duosion / Electabuzz   |    1 |  12.50% |   0.00% |
+| 8    | Dustox / Duosion       |    1 |  12.50% |   0.00% |
+| 8    | Servine / Carbink      |    1 |  12.50% |   0.00% |
+| 8    | Carbink / Krokorok     |    1 |  12.50% |   0.00% |
+| 8    | Carbink / Electabuzz   |    1 |  12.50% |   0.00% |
+| 8    | Carbink / Dustox       |    1 |  12.50% |   0.00% |
+| 8    | Servine / Krokorok     |    1 |  12.50% |   0.00% |
+| 8    | Servine / Electabuzz   |    1 |  12.50% |   0.00% |
+| 8    | Electabuzz / Krokorok  |    1 |  12.50% |   0.00% |
+| 8    | Dustox / Krokorok      |    1 |  12.50% |   0.00% |
+| 8    | Dustox / Electabuzz    |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Swalot / Carbink / Meganium        |    2 |  25.00% |  50.00% |
+| 1    | Swalot / Carbink / Bronzor         |    2 |  25.00% |  50.00% |
+| 1    | Meganium / Carbink / Bronzor       |    2 |  25.00% |  50.00% |
+| 1    | Swalot / Bronzor / Meganium        |    2 |  25.00% |  50.00% |
+| 5    | Swalot / Carbink / Vibrava         |    1 |  12.50% | 100.00% |
+| 5    | Swalot / Scraggy / Carbink         |    1 |  12.50% | 100.00% |
+| 5    | Meganium / Carbink / Vibrava       |    1 |  12.50% | 100.00% |
+| 5    | Bronzor / Carbink / Vibrava        |    1 |  12.50% | 100.00% |
+| 5    | Scraggy / Carbink / Vibrava        |    1 |  12.50% | 100.00% |
+| 5    | Meganium / Scraggy / Carbink       |    1 |  12.50% | 100.00% |
+| 5    | Bronzor / Scraggy / Carbink        |    1 |  12.50% | 100.00% |
+| 5    | Swalot / Vibrava / Meganium        |    1 |  12.50% | 100.00% |
+| 5    | Swalot / Bronzor / Vibrava         |    1 |  12.50% | 100.00% |
+| 5    | Swalot / Scraggy / Vibrava         |    1 |  12.50% | 100.00% |
+| 5    | Swalot / Scraggy / Meganium        |    1 |  12.50% | 100.00% |
+| 5    | Swalot / Scraggy / Bronzor         |    1 |  12.50% | 100.00% |
+| 5    | Meganium / Bronzor / Vibrava       |    1 |  12.50% | 100.00% |
+| 5    | Meganium / Scraggy / Vibrava       |    1 |  12.50% | 100.00% |
+| 5    | Bronzor / Scraggy / Vibrava        |    1 |  12.50% | 100.00% |
+| 5    | Meganium / Scraggy / Bronzor       |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Ivysaur / Furfrou        |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Pignite / Furfrou        |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Furfrou / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Furfrou / Walrein        |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Ivysaur / Furfrou        |    1 |  12.50% | 100.00% |
+| 5    | Ivysaur / Furfrou / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Ivysaur / Furfrou / Walrein        |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Furfrou / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Furfrou / Walrein        |    1 |  12.50% | 100.00% |
+| 5    | Walrein / Furfrou / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Ivysaur / Pignite        |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Ivysaur / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Ivysaur / Walrein        |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Pignite / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Pignite / Walrein        |    1 |  12.50% | 100.00% |
+| 5    | Solrock / Walrein / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Ivysaur / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Ivysaur / Walrein        |    1 |  12.50% | 100.00% |
+| 5    | Ivysaur / Walrein / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Walrein / Krokorok       |    1 |  12.50% | 100.00% |
+| 5    | Seviper / Kricketune / Sawsbuck    |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Seviper / Kricketune   |    1 |  12.50% | 100.00% |
+| 5    | Seviper / Kricketune / Frogadier   |    1 |  12.50% | 100.00% |
+| 5    | Seviper / Kricketune / Krokorok    |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Kricketune / Sawsbuck  |    1 |  12.50% | 100.00% |
+| 5    | Kricketune / Frogadier / Sawsbuck  |    1 |  12.50% | 100.00% |
+| 5    | Krokorok / Kricketune / Sawsbuck   |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Kricketune / Frogadier |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Kricketune / Krokorok  |    1 |  12.50% | 100.00% |
+| 5    | Kricketune / Frogadier / Krokorok  |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Seviper / Sawsbuck     |    1 |  12.50% | 100.00% |
+| 5    | Seviper / Frogadier / Sawsbuck     |    1 |  12.50% | 100.00% |
+| 5    | Krokorok / Seviper / Sawsbuck      |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Seviper / Frogadier    |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Seviper / Krokorok     |    1 |  12.50% | 100.00% |
+| 5    | Seviper / Frogadier / Krokorok     |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Frogadier / Sawsbuck   |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Krokorok / Sawsbuck    |    1 |  12.50% | 100.00% |
+| 5    | Krokorok / Frogadier / Sawsbuck    |    1 |  12.50% | 100.00% |
+| 5    | Vanilluxe / Frogadier / Krokorok   |    1 |  12.50% | 100.00% |
+| 5    | Servine / Dustox / Lunatone        |    1 |  12.50% | 100.00% |
+| 5    | Dustox / Lunatone / Simipour       |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Dustox / Lunatone        |    1 |  12.50% | 100.00% |
+| 5    | Persian / Dustox / Lunatone        |    1 |  12.50% | 100.00% |
+| 5    | Servine / Lunatone / Simipour      |    1 |  12.50% | 100.00% |
+| 5    | Servine / Pignite / Lunatone       |    1 |  12.50% | 100.00% |
+| 5    | Servine / Persian / Lunatone       |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Lunatone / Simipour      |    1 |  12.50% | 100.00% |
+| 5    | Persian / Lunatone / Simipour      |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Persian / Lunatone       |    1 |  12.50% | 100.00% |
+| 5    | Servine / Dustox / Simipour        |    1 |  12.50% | 100.00% |
+| 5    | Servine / Pignite / Dustox         |    1 |  12.50% | 100.00% |
+| 5    | Servine / Persian / Dustox         |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Dustox / Simipour        |    1 |  12.50% | 100.00% |
+| 5    | Persian / Dustox / Simipour        |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Persian / Dustox         |    1 |  12.50% | 100.00% |
+| 5    | Servine / Pignite / Simipour       |    1 |  12.50% | 100.00% |
+| 5    | Servine / Persian / Simipour       |    1 |  12.50% | 100.00% |
+| 5    | Servine / Persian / Pignite        |    1 |  12.50% | 100.00% |
+| 5    | Pignite / Persian / Simipour       |    1 |  12.50% | 100.00% |
+| 5    | Meganium / Wartortle / Swalot      |    1 |  12.50% |   0.00% |
+| 5    | Meganium / Swalot / Mienfoo        |    1 |  12.50% |   0.00% |
+| 5    | Meganium / Wartortle / Bronzor     |    1 |  12.50% |   0.00% |
+| 5    | Meganium / Mienfoo / Bronzor       |    1 |  12.50% |   0.00% |
+| 5    | Meganium / Wartortle / Carbink     |    1 |  12.50% |   0.00% |
+| 5    | Meganium / Mienfoo / Carbink       |    1 |  12.50% |   0.00% |
+| 5    | Meganium / Wartortle / Mienfoo     |    1 |  12.50% |   0.00% |
+| 5    | Swalot / Wartortle / Bronzor       |    1 |  12.50% |   0.00% |
+| 5    | Swalot / Mienfoo / Bronzor         |    1 |  12.50% |   0.00% |
+| 5    | Swalot / Wartortle / Carbink       |    1 |  12.50% |   0.00% |
+| 5    | Swalot / Mienfoo / Carbink         |    1 |  12.50% |   0.00% |
+| 5    | Swalot / Wartortle / Mienfoo       |    1 |  12.50% |   0.00% |
+| 5    | Bronzor / Wartortle / Carbink      |    1 |  12.50% |   0.00% |
+| 5    | Bronzor / Mienfoo / Carbink        |    1 |  12.50% |   0.00% |
+| 5    | Bronzor / Wartortle / Mienfoo      |    1 |  12.50% |   0.00% |
+| 5    | Wartortle / Mienfoo / Carbink      |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Carbink / Volbeat         |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Carbink / Volbeat        |    1 |  12.50% |   0.00% |
+| 5    | Natu / Carbink / Volbeat           |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Volbeat / Sawsbuck       |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Magmar / Volbeat         |    1 |  12.50% |   0.00% |
+| 5    | Natu / Magmar / Volbeat            |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Volbeat / Sawsbuck        |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Natu / Volbeat           |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Volbeat / Sawsbuck       |    1 |  12.50% |   0.00% |
+| 5    | Natu / Volbeat / Sawsbuck          |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Magmar / Carbink         |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Carbink / Natu            |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Carbink / Sawsbuck        |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Carbink / Natu           |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Carbink / Sawsbuck       |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Natu / Sawsbuck          |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Magmar / Natu            |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Magmar / Sawsbuck        |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Natu / Sawsbuck           |    1 |  12.50% |   0.00% |
+| 5    | Ivysaur / Natu / Sawsbuck          |    1 |  12.50% |   0.00% |
+| 5    | Persian / Trubbish / Marshtomp     |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Trubbish / Marshtomp      |    1 |  12.50% |   0.00% |
+| 5    | Trubbish / Vibrava / Marshtomp     |    1 |  12.50% |   0.00% |
+| 5    | Trubbish / Frillish / Marshtomp    |    1 |  12.50% |   0.00% |
+| 5    | Persian / Magmar / Marshtomp       |    1 |  12.50% |   0.00% |
+| 5    | Persian / Vibrava / Marshtomp      |    1 |  12.50% |   0.00% |
+| 5    | Persian / Frillish / Marshtomp     |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Vibrava / Marshtomp       |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Frillish / Marshtomp      |    1 |  12.50% |   0.00% |
+| 5    | Vibrava / Frillish / Marshtomp     |    1 |  12.50% |   0.00% |
+| 5    | Persian / Magmar / Trubbish        |    1 |  12.50% |   0.00% |
+| 5    | Persian / Trubbish / Vibrava       |    1 |  12.50% |   0.00% |
+| 5    | Persian / Trubbish / Frillish      |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Trubbish / Vibrava        |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Trubbish / Frillish       |    1 |  12.50% |   0.00% |
+| 5    | Frillish / Trubbish / Vibrava      |    1 |  12.50% |   0.00% |
+| 5    | Persian / Magmar / Vibrava         |    1 |  12.50% |   0.00% |
+| 5    | Persian / Magmar / Frillish        |    1 |  12.50% |   0.00% |
+| 5    | Persian / Vibrava / Frillish       |    1 |  12.50% |   0.00% |
+| 5    | Magmar / Vibrava / Frillish        |    1 |  12.50% |   0.00% |
+| 5    | Servine / Carbink / Duosion        |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Duosion / Krokorok       |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Duosion / Electabuzz     |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Dustox / Duosion         |    1 |  12.50% |   0.00% |
+| 5    | Servine / Duosion / Krokorok       |    1 |  12.50% |   0.00% |
+| 5    | Servine / Duosion / Electabuzz     |    1 |  12.50% |   0.00% |
+| 5    | Servine / Dustox / Duosion         |    1 |  12.50% |   0.00% |
+| 5    | Electabuzz / Duosion / Krokorok    |    1 |  12.50% |   0.00% |
+| 5    | Dustox / Duosion / Krokorok        |    1 |  12.50% |   0.00% |
+| 5    | Dustox / Duosion / Electabuzz      |    1 |  12.50% |   0.00% |
+| 5    | Servine / Carbink / Krokorok       |    1 |  12.50% |   0.00% |
+| 5    | Servine / Carbink / Electabuzz     |    1 |  12.50% |   0.00% |
+| 5    | Servine / Carbink / Dustox         |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Electabuzz / Krokorok    |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Dustox / Krokorok        |    1 |  12.50% |   0.00% |
+| 5    | Carbink / Dustox / Electabuzz      |    1 |  12.50% |   0.00% |
+| 5    | Servine / Electabuzz / Krokorok    |    1 |  12.50% |   0.00% |
+| 5    | Servine / Dustox / Krokorok        |    1 |  12.50% |   0.00% |
+| 5    | Servine / Dustox / Electabuzz      |    1 |  12.50% |   0.00% |
+| 5    | Electabuzz / Dustox / Krokorok     |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                   | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| 1    | Swalot / Carbink / Bronzor / Meganium         |    2 |  25.00% |  50.00% |
+| 2    | Swalot / Carbink / Vibrava / Meganium         |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Carbink / Bronzor / Vibrava          |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Scraggy / Carbink / Vibrava          |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Scraggy / Carbink / Meganium         |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Scraggy / Carbink / Bronzor          |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Carbink / Bronzor / Vibrava        |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Scraggy / Carbink / Vibrava        |    1 |  12.50% | 100.00% |
+| 2    | Bronzor / Scraggy / Carbink / Vibrava         |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Scraggy / Carbink / Bronzor        |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Bronzor / Vibrava / Meganium         |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Scraggy / Vibrava / Meganium         |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Scraggy / Bronzor / Vibrava          |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Scraggy / Bronzor / Meganium         |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Scraggy / Bronzor / Vibrava        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Ivysaur / Pignite / Furfrou         |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Ivysaur / Furfrou / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Ivysaur / Furfrou / Walrein         |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Pignite / Furfrou / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Pignite / Furfrou / Walrein         |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Walrein / Furfrou / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Ivysaur / Furfrou / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Ivysaur / Furfrou / Walrein         |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Furfrou / Walrein / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Walrein / Furfrou / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Ivysaur / Pignite / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Ivysaur / Pignite / Walrein         |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Ivysaur / Walrein / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Walrein / Pignite / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Ivysaur / Walrein / Krokorok        |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Seviper / Kricketune / Sawsbuck   |    1 |  12.50% | 100.00% |
+| 2    | Seviper / Kricketune / Frogadier / Sawsbuck   |    1 |  12.50% | 100.00% |
+| 2    | Krokorok / Seviper / Kricketune / Sawsbuck    |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Seviper / Kricketune / Frogadier  |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Seviper / Kricketune / Krokorok   |    1 |  12.50% | 100.00% |
+| 2    | Seviper / Kricketune / Frogadier / Krokorok   |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Kricketune / Frogadier / Sawsbuck |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Krokorok / Kricketune / Sawsbuck  |    1 |  12.50% | 100.00% |
+| 2    | Krokorok / Kricketune / Frogadier / Sawsbuck  |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Kricketune / Frogadier / Krokorok |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Seviper / Frogadier / Sawsbuck    |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Seviper / Krokorok / Sawsbuck     |    1 |  12.50% | 100.00% |
+| 2    | Krokorok / Seviper / Frogadier / Sawsbuck     |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Seviper / Frogadier / Krokorok    |    1 |  12.50% | 100.00% |
+| 2    | Vanilluxe / Krokorok / Frogadier / Sawsbuck   |    1 |  12.50% | 100.00% |
+| 2    | Servine / Dustox / Lunatone / Simipour        |    1 |  12.50% | 100.00% |
+| 2    | Servine / Pignite / Dustox / Lunatone         |    1 |  12.50% | 100.00% |
+| 2    | Servine / Persian / Dustox / Lunatone         |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Dustox / Lunatone / Simipour        |    1 |  12.50% | 100.00% |
+| 2    | Persian / Dustox / Lunatone / Simipour        |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Persian / Dustox / Lunatone         |    1 |  12.50% | 100.00% |
+| 2    | Servine / Pignite / Lunatone / Simipour       |    1 |  12.50% | 100.00% |
+| 2    | Servine / Persian / Lunatone / Simipour       |    1 |  12.50% | 100.00% |
+| 2    | Servine / Persian / Pignite / Lunatone        |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Persian / Lunatone / Simipour       |    1 |  12.50% | 100.00% |
+| 2    | Servine / Pignite / Dustox / Simipour         |    1 |  12.50% | 100.00% |
+| 2    | Servine / Persian / Dustox / Simipour         |    1 |  12.50% | 100.00% |
+| 2    | Servine / Persian / Pignite / Dustox          |    1 |  12.50% | 100.00% |
+| 2    | Pignite / Persian / Dustox / Simipour         |    1 |  12.50% | 100.00% |
+| 2    | Servine / Persian / Pignite / Simipour        |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Wartortle / Swalot / Bronzor       |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Swalot / Bronzor / Mienfoo         |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Wartortle / Swalot / Carbink       |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Swalot / Carbink / Mienfoo         |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Wartortle / Swalot / Mienfoo       |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Wartortle / Carbink / Bronzor      |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Mienfoo / Carbink / Bronzor        |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Wartortle / Mienfoo / Bronzor      |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Wartortle / Mienfoo / Carbink      |    1 |  12.50% |   0.00% |
+| 2    | Swalot / Wartortle / Carbink / Bronzor        |    1 |  12.50% |   0.00% |
+| 2    | Swalot / Mienfoo / Carbink / Bronzor          |    1 |  12.50% |   0.00% |
+| 2    | Swalot / Wartortle / Mienfoo / Bronzor        |    1 |  12.50% |   0.00% |
+| 2    | Swalot / Wartortle / Mienfoo / Carbink        |    1 |  12.50% |   0.00% |
+| 2    | Bronzor / Wartortle / Mienfoo / Carbink       |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Magmar / Carbink / Volbeat          |    1 |  12.50% |   0.00% |
+| 2    | Natu / Magmar / Carbink / Volbeat             |    1 |  12.50% |   0.00% |
+| 2    | Magmar / Carbink / Volbeat / Sawsbuck         |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Natu / Carbink / Volbeat            |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Carbink / Volbeat / Sawsbuck        |    1 |  12.50% |   0.00% |
+| 2    | Natu / Carbink / Volbeat / Sawsbuck           |    1 |  12.50% |   0.00% |
+| 2    | Natu / Ivysaur / Magmar / Volbeat             |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Magmar / Volbeat / Sawsbuck         |    1 |  12.50% |   0.00% |
+| 2    | Natu / Magmar / Volbeat / Sawsbuck            |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Natu / Volbeat / Sawsbuck           |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Magmar / Carbink / Natu             |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Magmar / Carbink / Sawsbuck         |    1 |  12.50% |   0.00% |
+| 2    | Magmar / Carbink / Natu / Sawsbuck            |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Carbink / Natu / Sawsbuck           |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Magmar / Natu / Sawsbuck            |    1 |  12.50% |   0.00% |
+| 2    | Persian / Magmar / Trubbish / Marshtomp       |    1 |  12.50% |   0.00% |
+| 2    | Persian / Trubbish / Vibrava / Marshtomp      |    1 |  12.50% |   0.00% |
+| 2    | Persian / Trubbish / Frillish / Marshtomp     |    1 |  12.50% |   0.00% |
+| 2    | Magmar / Trubbish / Vibrava / Marshtomp       |    1 |  12.50% |   0.00% |
+| 2    | Magmar / Trubbish / Frillish / Marshtomp      |    1 |  12.50% |   0.00% |
+| 2    | Frillish / Trubbish / Vibrava / Marshtomp     |    1 |  12.50% |   0.00% |
+| 2    | Persian / Magmar / Vibrava / Marshtomp        |    1 |  12.50% |   0.00% |
+| 2    | Persian / Magmar / Frillish / Marshtomp       |    1 |  12.50% |   0.00% |
+| 2    | Persian / Vibrava / Frillish / Marshtomp      |    1 |  12.50% |   0.00% |
+| 2    | Magmar / Vibrava / Frillish / Marshtomp       |    1 |  12.50% |   0.00% |
+| 2    | Persian / Magmar / Trubbish / Vibrava         |    1 |  12.50% |   0.00% |
+| 2    | Persian / Magmar / Trubbish / Frillish        |    1 |  12.50% |   0.00% |
+| 2    | Persian / Frillish / Trubbish / Vibrava       |    1 |  12.50% |   0.00% |
+| 2    | Frillish / Magmar / Trubbish / Vibrava        |    1 |  12.50% |   0.00% |
+| 2    | Persian / Magmar / Vibrava / Frillish         |    1 |  12.50% |   0.00% |
+| 2    | Servine / Carbink / Duosion / Krokorok        |    1 |  12.50% |   0.00% |
+| 2    | Servine / Carbink / Duosion / Electabuzz      |    1 |  12.50% |   0.00% |
+| 2    | Servine / Carbink / Dustox / Duosion          |    1 |  12.50% |   0.00% |
+| 2    | Carbink / Electabuzz / Duosion / Krokorok     |    1 |  12.50% |   0.00% |
+| 2    | Carbink / Dustox / Duosion / Krokorok         |    1 |  12.50% |   0.00% |
+| 2    | Carbink / Dustox / Duosion / Electabuzz       |    1 |  12.50% |   0.00% |
+| 2    | Servine / Electabuzz / Duosion / Krokorok     |    1 |  12.50% |   0.00% |
+| 2    | Servine / Dustox / Duosion / Krokorok         |    1 |  12.50% |   0.00% |
+| 2    | Servine / Dustox / Duosion / Electabuzz       |    1 |  12.50% |   0.00% |
+| 2    | Electabuzz / Dustox / Duosion / Krokorok      |    1 |  12.50% |   0.00% |
+| 2    | Servine / Carbink / Electabuzz / Krokorok     |    1 |  12.50% |   0.00% |
+| 2    | Servine / Carbink / Dustox / Krokorok         |    1 |  12.50% |   0.00% |
+| 2    | Servine / Carbink / Dustox / Electabuzz       |    1 |  12.50% |   0.00% |
+| 2    | Carbink / Electabuzz / Dustox / Krokorok      |    1 |  12.50% |   0.00% |
+| 2    | Servine / Electabuzz / Dustox / Krokorok      |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                              | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Bronzor / Meganium / Vibrava / Swalot / Carbink          |    1 |  12.50% | 100.00% |
+| 1    | Scraggy / Meganium / Vibrava / Swalot / Carbink          |    1 |  12.50% | 100.00% |
+| 1    | Scraggy / Bronzor / Vibrava / Swalot / Carbink           |    1 |  12.50% | 100.00% |
+| 1    | Scraggy / Bronzor / Meganium / Swalot / Carbink          |    1 |  12.50% | 100.00% |
+| 1    | Meganium / Scraggy / Bronzor / Vibrava / Carbink         |    1 |  12.50% | 100.00% |
+| 1    | Scraggy / Bronzor / Meganium / Vibrava / Swalot          |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Pignite / Ivysaur / Furfrou / Krokorok         |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Walrein / Pignite / Ivysaur / Furfrou          |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Walrein / Ivysaur / Furfrou / Krokorok         |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Walrein / Pignite / Furfrou / Krokorok         |    1 |  12.50% | 100.00% |
+| 1    | Walrein / Pignite / Ivysaur / Furfrou / Krokorok         |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Walrein / Pignite / Ivysaur / Krokorok         |    1 |  12.50% | 100.00% |
+| 1    | Kricketune / Sawsbuck / Seviper / Frogadier / Vanilluxe  |    1 |  12.50% | 100.00% |
+| 1    | Kricketune / Sawsbuck / Seviper / Vanilluxe / Krokorok   |    1 |  12.50% | 100.00% |
+| 1    | Kricketune / Sawsbuck / Seviper / Frogadier / Krokorok   |    1 |  12.50% | 100.00% |
+| 1    | Kricketune / Seviper / Frogadier / Vanilluxe / Krokorok  |    1 |  12.50% | 100.00% |
+| 1    | Kricketune / Sawsbuck / Frogadier / Vanilluxe / Krokorok |    1 |  12.50% | 100.00% |
+| 1    | Sawsbuck / Seviper / Frogadier / Vanilluxe / Krokorok    |    1 |  12.50% | 100.00% |
+| 1    | Dustox / Servine / Pignite / Lunatone / Simipour         |    1 |  12.50% | 100.00% |
+| 1    | Persian / Dustox / Servine / Lunatone / Simipour         |    1 |  12.50% | 100.00% |
+| 1    | Persian / Dustox / Servine / Pignite / Lunatone          |    1 |  12.50% | 100.00% |
+| 1    | Persian / Dustox / Pignite / Lunatone / Simipour         |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Pignite / Lunatone / Simipour        |    1 |  12.50% | 100.00% |
+| 1    | Persian / Dustox / Servine / Pignite / Simipour          |    1 |  12.50% | 100.00% |
+| 1    | Meganium / Bronzor / Wartortle / Swalot / Carbink        |    1 |  12.50% |   0.00% |
+| 1    | Meganium / Bronzor / Swalot / Mienfoo / Carbink          |    1 |  12.50% |   0.00% |
+| 1    | Meganium / Bronzor / Wartortle / Swalot / Mienfoo        |    1 |  12.50% |   0.00% |
+| 1    | Meganium / Wartortle / Swalot / Mienfoo / Carbink        |    1 |  12.50% |   0.00% |
+| 1    | Meganium / Bronzor / Wartortle / Mienfoo / Carbink       |    1 |  12.50% |   0.00% |
+| 1    | Bronzor / Wartortle / Swalot / Mienfoo / Carbink         |    1 |  12.50% |   0.00% |
+| 1    | Magmar / Natu / Ivysaur / Carbink / Volbeat              |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Magmar / Ivysaur / Carbink / Volbeat          |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Magmar / Natu / Carbink / Volbeat             |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Natu / Ivysaur / Carbink / Volbeat            |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Magmar / Natu / Ivysaur / Volbeat             |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Magmar / Natu / Ivysaur / Carbink             |    1 |  12.50% |   0.00% |
+| 1    | Vibrava / Magmar / Marshtomp / Persian / Trubbish        |    1 |  12.50% |   0.00% |
+| 1    | Magmar / Marshtomp / Persian / Trubbish / Frillish       |    1 |  12.50% |   0.00% |
+| 1    | Vibrava / Marshtomp / Persian / Trubbish / Frillish      |    1 |  12.50% |   0.00% |
+| 1    | Vibrava / Magmar / Marshtomp / Trubbish / Frillish       |    1 |  12.50% |   0.00% |
+| 1    | Vibrava / Magmar / Marshtomp / Persian / Frillish        |    1 |  12.50% |   0.00% |
+| 1    | Vibrava / Magmar / Persian / Trubbish / Frillish         |    1 |  12.50% |   0.00% |
+| 1    | Duosion / Electabuzz / Servine / Carbink / Krokorok      |    1 |  12.50% |   0.00% |
+| 1    | Duosion / Dustox / Servine / Carbink / Krokorok          |    1 |  12.50% |   0.00% |
+| 1    | Duosion / Electabuzz / Dustox / Servine / Carbink        |    1 |  12.50% |   0.00% |
+| 1    | Duosion / Electabuzz / Dustox / Carbink / Krokorok       |    1 |  12.50% |   0.00% |
+| 1    | Duosion / Electabuzz / Dustox / Servine / Krokorok       |    1 |  12.50% |   0.00% |
+| 1    | Electabuzz / Dustox / Servine / Carbink / Krokorok       |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Bronzor / Meganium / Scraggy / Vibrava / Swalot / Carbink          |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Walrein / Pignite / Ivysaur / Furfrou / Krokorok         |    1 |  12.50% | 100.00% |
+| 1    | Kricketune / Sawsbuck / Seviper / Frogadier / Vanilluxe / Krokorok |    1 |  12.50% | 100.00% |
+| 1    | Persian / Dustox / Servine / Pignite / Lunatone / Simipour         |    1 |  12.50% | 100.00% |
+| 1    | Meganium / Bronzor / Wartortle / Swalot / Mienfoo / Carbink        |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Magmar / Natu / Ivysaur / Carbink / Volbeat             |    1 |  12.50% |   0.00% |
+| 1    | Vibrava / Magmar / Marshtomp / Persian / Trubbish / Frillish       |    1 |  12.50% |   0.00% |
+| 1    | Duosion / Electabuzz / Dustox / Servine / Carbink / Krokorok       |    1 |  12.50% |   0.00% |
