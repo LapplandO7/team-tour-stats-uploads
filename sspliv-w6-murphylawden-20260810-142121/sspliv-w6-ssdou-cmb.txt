@@ -1,0 +1,349 @@
++ ---- + ----------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2             | Use  | Usage % |  Win %  |
++ ---- + ----------------------- + ---- + ------- + ------- +
+| 1    | Tapu Lele / Urshifu     |    2 |  33.33% |  50.00% |
+| 1    | Urshifu / Genesect      |    2 |  33.33% |  50.00% |
+| 1    | Necrozma / Urshifu      |    2 |  33.33% |  50.00% |
+| 1    | Tapu Lele / Genesect    |    2 |  33.33% |  50.00% |
+| 1    | Necrozma / Tapu Lele    |    2 |  33.33% |  50.00% |
+| 1    | Necrozma / Genesect     |    2 |  33.33% |  50.00% |
+| 1    | Celesteela / Rillaboom  |    2 |  33.33% |   0.00% |
+| 8    | Zeraora / Cinderace     |    1 |  16.67% | 100.00% |
+| 8    | Zeraora / Rillaboom     |    1 |  16.67% | 100.00% |
+| 8    | Zeraora / Torkoal       |    1 |  16.67% | 100.00% |
+| 8    | Diancie / Zeraora       |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Zeraora      |    1 |  16.67% | 100.00% |
+| 8    | Rillaboom / Cinderace   |    1 |  16.67% | 100.00% |
+| 8    | Cinderace / Torkoal     |    1 |  16.67% | 100.00% |
+| 8    | Diancie / Cinderace     |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Cinderace    |    1 |  16.67% | 100.00% |
+| 8    | Rillaboom / Torkoal     |    1 |  16.67% | 100.00% |
+| 8    | Diancie / Rillaboom     |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Rillaboom    |    1 |  16.67% | 100.00% |
+| 8    | Diancie / Torkoal       |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Torkoal      |    1 |  16.67% | 100.00% |
+| 8    | Diancie / Porygon2      |    1 |  16.67% | 100.00% |
+| 8    | Tapu Fini / Porygon2    |    1 |  16.67% | 100.00% |
+| 8    | Tapu Fini / Incineroar  |    1 |  16.67% | 100.00% |
+| 8    | Tapu Fini / Zygarde     |    1 |  16.67% | 100.00% |
+| 8    | Tapu Fini / Mew         |    1 |  16.67% | 100.00% |
+| 8    | Tapu Fini / Lurantis    |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Incineroar   |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Zygarde      |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Mew          |    1 |  16.67% | 100.00% |
+| 8    | Porygon2 / Lurantis     |    1 |  16.67% | 100.00% |
+| 8    | Zygarde / Incineroar    |    1 |  16.67% | 100.00% |
+| 8    | Mew / Incineroar        |    1 |  16.67% | 100.00% |
+| 8    | Lurantis / Incineroar   |    1 |  16.67% | 100.00% |
+| 8    | Mew / Zygarde           |    1 |  16.67% | 100.00% |
+| 8    | Lurantis / Zygarde      |    1 |  16.67% | 100.00% |
+| 8    | Mew / Lurantis          |    1 |  16.67% | 100.00% |
+| 8    | Tapu Lele / Naganadel   |    1 |  16.67% | 100.00% |
+| 8    | Tapu Lele / Pelipper    |    1 |  16.67% | 100.00% |
+| 8    | Necrozma / Naganadel    |    1 |  16.67% | 100.00% |
+| 8    | Necrozma / Pelipper     |    1 |  16.67% | 100.00% |
+| 8    | Genesect / Naganadel    |    1 |  16.67% | 100.00% |
+| 8    | Pelipper / Naganadel    |    1 |  16.67% | 100.00% |
+| 8    | Urshifu / Naganadel     |    1 |  16.67% | 100.00% |
+| 8    | Pelipper / Genesect     |    1 |  16.67% | 100.00% |
+| 8    | Urshifu / Pelipper      |    1 |  16.67% | 100.00% |
+| 8    | Urshifu / Whimsicott    |    1 |  16.67% |   0.00% |
+| 8    | Tapu Lele / Whimsicott  |    1 |  16.67% |   0.00% |
+| 8    | Whimsicott / Genesect   |    1 |  16.67% |   0.00% |
+| 8    | Heatran / Whimsicott    |    1 |  16.67% |   0.00% |
+| 8    | Necrozma / Whimsicott   |    1 |  16.67% |   0.00% |
+| 8    | Heatran / Urshifu       |    1 |  16.67% |   0.00% |
+| 8    | Heatran / Tapu Lele     |    1 |  16.67% |   0.00% |
+| 8    | Heatran / Genesect      |    1 |  16.67% |   0.00% |
+| 8    | Heatran / Necrozma      |    1 |  16.67% |   0.00% |
+| 8    | Toxapex / Dragapult     |    1 |  16.67% |   0.00% |
+| 8    | Dragapult / Incineroar  |    1 |  16.67% |   0.00% |
+| 8    | Dragapult / Rillaboom   |    1 |  16.67% |   0.00% |
+| 8    | Celesteela / Dragapult  |    1 |  16.67% |   0.00% |
+| 8    | Chansey / Dragapult     |    1 |  16.67% |   0.00% |
+| 8    | Toxapex / Incineroar    |    1 |  16.67% |   0.00% |
+| 8    | Toxapex / Rillaboom     |    1 |  16.67% |   0.00% |
+| 8    | Celesteela / Toxapex    |    1 |  16.67% |   0.00% |
+| 8    | Chansey / Toxapex       |    1 |  16.67% |   0.00% |
+| 8    | Rillaboom / Incineroar  |    1 |  16.67% |   0.00% |
+| 8    | Celesteela / Incineroar |    1 |  16.67% |   0.00% |
+| 8    | Chansey / Incineroar    |    1 |  16.67% |   0.00% |
+| 8    | Chansey / Rillaboom     |    1 |  16.67% |   0.00% |
+| 8    | Celesteela / Chansey    |    1 |  16.67% |   0.00% |
+| 8    | Spectrier / Rillaboom   |    1 |  16.67% |   0.00% |
+| 8    | Tyranitar / Spectrier   |    1 |  16.67% |   0.00% |
+| 8    | Spectrier / Dracozolt   |    1 |  16.67% |   0.00% |
+| 8    | Mew / Spectrier         |    1 |  16.67% |   0.00% |
+| 8    | Celesteela / Spectrier  |    1 |  16.67% |   0.00% |
+| 8    | Tyranitar / Rillaboom   |    1 |  16.67% |   0.00% |
+| 8    | Rillaboom / Dracozolt   |    1 |  16.67% |   0.00% |
+| 8    | Mew / Rillaboom         |    1 |  16.67% |   0.00% |
+| 8    | Tyranitar / Dracozolt   |    1 |  16.67% |   0.00% |
+| 8    | Tyranitar / Mew         |    1 |  16.67% |   0.00% |
+| 8    | Tyranitar / Celesteela  |    1 |  16.67% |   0.00% |
+| 8    | Mew / Dracozolt         |    1 |  16.67% |   0.00% |
+| 8    | Celesteela / Dracozolt  |    1 |  16.67% |   0.00% |
+| 8    | Celesteela / Mew        |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| 1    | Tapu Lele / Urshifu / Genesect      |    2 |  33.33% |  50.00% |
+| 1    | Necrozma / Tapu Lele / Urshifu      |    2 |  33.33% |  50.00% |
+| 1    | Necrozma / Urshifu / Genesect       |    2 |  33.33% |  50.00% |
+| 1    | Necrozma / Tapu Lele / Genesect     |    2 |  33.33% |  50.00% |
+| 5    | Zeraora / Rillaboom / Cinderace     |    1 |  16.67% | 100.00% |
+| 5    | Zeraora / Cinderace / Torkoal       |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Zeraora / Cinderace       |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Zeraora / Cinderace      |    1 |  16.67% | 100.00% |
+| 5    | Zeraora / Rillaboom / Torkoal       |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Zeraora / Rillaboom       |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Zeraora / Rillaboom      |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Zeraora / Torkoal         |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Zeraora / Torkoal        |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Zeraora / Porygon2        |    1 |  16.67% | 100.00% |
+| 5    | Rillaboom / Cinderace / Torkoal     |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Rillaboom / Cinderace     |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Rillaboom / Cinderace    |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Cinderace / Torkoal       |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Cinderace / Torkoal      |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Cinderace / Porygon2      |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Rillaboom / Torkoal       |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Rillaboom / Torkoal      |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Rillaboom / Porygon2      |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Porygon2 / Torkoal        |    1 |  16.67% | 100.00% |
+| 5    | Incineroar / Tapu Fini / Porygon2   |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Zygarde / Porygon2      |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Mew / Porygon2          |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Lurantis / Porygon2     |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Zygarde / Incineroar    |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Mew / Incineroar        |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Lurantis / Incineroar   |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Mew / Zygarde           |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Lurantis / Zygarde      |    1 |  16.67% | 100.00% |
+| 5    | Tapu Fini / Mew / Lurantis          |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Zygarde / Incineroar     |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Mew / Incineroar         |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Lurantis / Incineroar    |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Mew / Zygarde            |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Lurantis / Zygarde       |    1 |  16.67% | 100.00% |
+| 5    | Porygon2 / Mew / Lurantis           |    1 |  16.67% | 100.00% |
+| 5    | Zygarde / Mew / Incineroar          |    1 |  16.67% | 100.00% |
+| 5    | Zygarde / Lurantis / Incineroar     |    1 |  16.67% | 100.00% |
+| 5    | Mew / Lurantis / Incineroar         |    1 |  16.67% | 100.00% |
+| 5    | Mew / Lurantis / Zygarde            |    1 |  16.67% | 100.00% |
+| 5    | Necrozma / Tapu Lele / Naganadel    |    1 |  16.67% | 100.00% |
+| 5    | Necrozma / Tapu Lele / Pelipper     |    1 |  16.67% | 100.00% |
+| 5    | Genesect / Tapu Lele / Naganadel    |    1 |  16.67% | 100.00% |
+| 5    | Tapu Lele / Pelipper / Naganadel    |    1 |  16.67% | 100.00% |
+| 5    | Tapu Lele / Urshifu / Naganadel     |    1 |  16.67% | 100.00% |
+| 5    | Tapu Lele / Pelipper / Genesect     |    1 |  16.67% | 100.00% |
+| 5    | Tapu Lele / Urshifu / Pelipper      |    1 |  16.67% | 100.00% |
+| 5    | Necrozma / Genesect / Naganadel     |    1 |  16.67% | 100.00% |
+| 5    | Necrozma / Pelipper / Naganadel     |    1 |  16.67% | 100.00% |
+| 5    | Necrozma / Urshifu / Naganadel      |    1 |  16.67% | 100.00% |
+| 5    | Necrozma / Pelipper / Genesect      |    1 |  16.67% | 100.00% |
+| 5    | Necrozma / Urshifu / Pelipper       |    1 |  16.67% | 100.00% |
+| 5    | Genesect / Pelipper / Naganadel     |    1 |  16.67% | 100.00% |
+| 5    | Genesect / Urshifu / Naganadel      |    1 |  16.67% | 100.00% |
+| 5    | Urshifu / Pelipper / Naganadel      |    1 |  16.67% | 100.00% |
+| 5    | Urshifu / Pelipper / Genesect       |    1 |  16.67% | 100.00% |
+| 5    | Tapu Lele / Urshifu / Whimsicott    |    1 |  16.67% |   0.00% |
+| 5    | Urshifu / Whimsicott / Genesect     |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Urshifu / Whimsicott      |    1 |  16.67% |   0.00% |
+| 5    | Necrozma / Urshifu / Whimsicott     |    1 |  16.67% |   0.00% |
+| 5    | Tapu Lele / Whimsicott / Genesect   |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Tapu Lele / Whimsicott    |    1 |  16.67% |   0.00% |
+| 5    | Necrozma / Tapu Lele / Whimsicott   |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Whimsicott / Genesect     |    1 |  16.67% |   0.00% |
+| 5    | Necrozma / Whimsicott / Genesect    |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Necrozma / Whimsicott     |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Tapu Lele / Urshifu       |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Urshifu / Genesect        |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Urshifu / Necrozma        |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Tapu Lele / Genesect      |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Tapu Lele / Necrozma      |    1 |  16.67% |   0.00% |
+| 5    | Heatran / Necrozma / Genesect       |    1 |  16.67% |   0.00% |
+| 5    | Toxapex / Dragapult / Incineroar    |    1 |  16.67% |   0.00% |
+| 5    | Toxapex / Dragapult / Rillaboom     |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Toxapex / Dragapult    |    1 |  16.67% |   0.00% |
+| 5    | Chansey / Toxapex / Dragapult       |    1 |  16.67% |   0.00% |
+| 5    | Dragapult / Rillaboom / Incineroar  |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Dragapult / Incineroar |    1 |  16.67% |   0.00% |
+| 5    | Chansey / Dragapult / Incineroar    |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Dragapult / Rillaboom  |    1 |  16.67% |   0.00% |
+| 5    | Chansey / Dragapult / Rillaboom     |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Dragapult / Chansey    |    1 |  16.67% |   0.00% |
+| 5    | Toxapex / Rillaboom / Incineroar    |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Toxapex / Incineroar   |    1 |  16.67% |   0.00% |
+| 5    | Chansey / Toxapex / Incineroar      |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Toxapex / Rillaboom    |    1 |  16.67% |   0.00% |
+| 5    | Chansey / Toxapex / Rillaboom       |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Toxapex / Chansey      |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Rillaboom / Incineroar |    1 |  16.67% |   0.00% |
+| 5    | Chansey / Rillaboom / Incineroar    |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Chansey / Incineroar   |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Chansey / Rillaboom    |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Spectrier / Rillaboom   |    1 |  16.67% |   0.00% |
+| 5    | Spectrier / Rillaboom / Dracozolt   |    1 |  16.67% |   0.00% |
+| 5    | Mew / Spectrier / Rillaboom         |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Spectrier / Rillaboom  |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Spectrier / Dracozolt   |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Mew / Spectrier         |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Spectrier / Celesteela  |    1 |  16.67% |   0.00% |
+| 5    | Mew / Spectrier / Dracozolt         |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Spectrier / Dracozolt  |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Mew / Spectrier        |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Rillaboom / Dracozolt   |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Mew / Rillaboom         |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Celesteela / Rillaboom  |    1 |  16.67% |   0.00% |
+| 5    | Mew / Rillaboom / Dracozolt         |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Rillaboom / Dracozolt  |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Mew / Rillaboom        |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Mew / Dracozolt         |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Celesteela / Dracozolt  |    1 |  16.67% |   0.00% |
+| 5    | Tyranitar / Mew / Celesteela        |    1 |  16.67% |   0.00% |
+| 5    | Celesteela / Mew / Dracozolt        |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Necrozma / Tapu Lele / Urshifu / Genesect       |    2 |  33.33% |  50.00% |
+| 2    | Zeraora / Rillaboom / Cinderace / Torkoal       |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Zeraora / Rillaboom / Cinderace       |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Zeraora / Rillaboom / Cinderace      |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Zeraora / Cinderace / Torkoal         |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Zeraora / Cinderace / Torkoal        |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Zeraora / Cinderace / Porygon2        |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Zeraora / Rillaboom / Torkoal         |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Zeraora / Rillaboom / Torkoal        |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Zeraora / Rillaboom / Porygon2        |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Porygon2 / Zeraora / Torkoal          |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Rillaboom / Cinderace / Torkoal       |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Rillaboom / Cinderace / Torkoal      |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Rillaboom / Cinderace / Porygon2      |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Porygon2 / Cinderace / Torkoal        |    1 |  16.67% | 100.00% |
+| 2    | Diancie / Porygon2 / Rillaboom / Torkoal        |    1 |  16.67% | 100.00% |
+| 2    | Incineroar / Tapu Fini / Zygarde / Porygon2     |    1 |  16.67% | 100.00% |
+| 2    | Incineroar / Tapu Fini / Mew / Porygon2         |    1 |  16.67% | 100.00% |
+| 2    | Incineroar / Tapu Fini / Lurantis / Porygon2    |    1 |  16.67% | 100.00% |
+| 2    | Tapu Fini / Zygarde / Mew / Porygon2            |    1 |  16.67% | 100.00% |
+| 2    | Tapu Fini / Zygarde / Lurantis / Porygon2       |    1 |  16.67% | 100.00% |
+| 2    | Tapu Fini / Mew / Lurantis / Porygon2           |    1 |  16.67% | 100.00% |
+| 2    | Tapu Fini / Zygarde / Mew / Incineroar          |    1 |  16.67% | 100.00% |
+| 2    | Tapu Fini / Zygarde / Lurantis / Incineroar     |    1 |  16.67% | 100.00% |
+| 2    | Tapu Fini / Mew / Lurantis / Incineroar         |    1 |  16.67% | 100.00% |
+| 2    | Tapu Fini / Mew / Lurantis / Zygarde            |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Zygarde / Mew / Incineroar           |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Zygarde / Lurantis / Incineroar      |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Mew / Lurantis / Incineroar          |    1 |  16.67% | 100.00% |
+| 2    | Porygon2 / Mew / Lurantis / Zygarde             |    1 |  16.67% | 100.00% |
+| 2    | Zygarde / Mew / Lurantis / Incineroar           |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Genesect / Tapu Lele / Naganadel     |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Tapu Lele / Pelipper / Naganadel     |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Tapu Lele / Urshifu / Naganadel      |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Tapu Lele / Pelipper / Genesect      |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Tapu Lele / Urshifu / Pelipper       |    1 |  16.67% | 100.00% |
+| 2    | Genesect / Tapu Lele / Pelipper / Naganadel     |    1 |  16.67% | 100.00% |
+| 2    | Genesect / Tapu Lele / Urshifu / Naganadel      |    1 |  16.67% | 100.00% |
+| 2    | Tapu Lele / Urshifu / Pelipper / Naganadel      |    1 |  16.67% | 100.00% |
+| 2    | Tapu Lele / Urshifu / Pelipper / Genesect       |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Genesect / Pelipper / Naganadel      |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Genesect / Urshifu / Naganadel       |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Urshifu / Pelipper / Naganadel       |    1 |  16.67% | 100.00% |
+| 2    | Necrozma / Urshifu / Pelipper / Genesect        |    1 |  16.67% | 100.00% |
+| 2    | Genesect / Urshifu / Pelipper / Naganadel       |    1 |  16.67% | 100.00% |
+| 2    | Tapu Lele / Urshifu / Whimsicott / Genesect     |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Tapu Lele / Urshifu / Whimsicott      |    1 |  16.67% |   0.00% |
+| 2    | Necrozma / Tapu Lele / Urshifu / Whimsicott     |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Urshifu / Whimsicott / Genesect       |    1 |  16.67% |   0.00% |
+| 2    | Necrozma / Urshifu / Whimsicott / Genesect      |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Urshifu / Necrozma / Whimsicott       |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Tapu Lele / Whimsicott / Genesect     |    1 |  16.67% |   0.00% |
+| 2    | Necrozma / Tapu Lele / Whimsicott / Genesect    |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Tapu Lele / Necrozma / Whimsicott     |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Necrozma / Whimsicott / Genesect      |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Tapu Lele / Urshifu / Genesect        |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Tapu Lele / Urshifu / Necrozma        |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Urshifu / Necrozma / Genesect         |    1 |  16.67% |   0.00% |
+| 2    | Heatran / Tapu Lele / Necrozma / Genesect       |    1 |  16.67% |   0.00% |
+| 2    | Toxapex / Dragapult / Rillaboom / Incineroar    |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Toxapex / Dragapult / Incineroar   |    1 |  16.67% |   0.00% |
+| 2    | Chansey / Toxapex / Dragapult / Incineroar      |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Toxapex / Dragapult / Rillaboom    |    1 |  16.67% |   0.00% |
+| 2    | Chansey / Toxapex / Dragapult / Rillaboom       |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Toxapex / Dragapult / Chansey      |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Dragapult / Rillaboom / Incineroar |    1 |  16.67% |   0.00% |
+| 2    | Chansey / Dragapult / Rillaboom / Incineroar    |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Dragapult / Chansey / Incineroar   |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Chansey / Dragapult / Rillaboom    |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Toxapex / Rillaboom / Incineroar   |    1 |  16.67% |   0.00% |
+| 2    | Chansey / Toxapex / Rillaboom / Incineroar      |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Toxapex / Chansey / Incineroar     |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Chansey / Toxapex / Rillaboom      |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Chansey / Rillaboom / Incineroar   |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Spectrier / Rillaboom / Dracozolt   |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Mew / Spectrier / Rillaboom         |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Celesteela / Spectrier / Rillaboom  |    1 |  16.67% |   0.00% |
+| 2    | Mew / Spectrier / Rillaboom / Dracozolt         |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Spectrier / Rillaboom / Dracozolt  |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Mew / Spectrier / Rillaboom        |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Mew / Spectrier / Dracozolt         |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Spectrier / Celesteela / Dracozolt  |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Mew / Spectrier / Celesteela        |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Mew / Spectrier / Dracozolt        |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Mew / Rillaboom / Dracozolt         |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Celesteela / Rillaboom / Dracozolt  |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Celesteela / Mew / Rillaboom        |    1 |  16.67% |   0.00% |
+| 2    | Celesteela / Mew / Rillaboom / Dracozolt        |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Mew / Celesteela / Dracozolt        |    1 |  16.67% |   0.00% |
+
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Cinderace / Rillaboom / Zeraora / Torkoal / Diancie        |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Rillaboom / Zeraora / Torkoal / Porygon2       |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Rillaboom / Zeraora / Diancie / Porygon2       |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Zeraora / Torkoal / Diancie / Porygon2         |    1 |  16.67% | 100.00% |
+| 1    | Rillaboom / Zeraora / Torkoal / Diancie / Porygon2         |    1 |  16.67% | 100.00% |
+| 1    | Cinderace / Rillaboom / Torkoal / Diancie / Porygon2       |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Zygarde / Incineroar / Porygon2 / Mew          |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Zygarde / Lurantis / Incineroar / Porygon2     |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Lurantis / Incineroar / Porygon2 / Mew         |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Zygarde / Lurantis / Porygon2 / Mew            |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Zygarde / Lurantis / Incineroar / Mew          |    1 |  16.67% | 100.00% |
+| 1    | Zygarde / Lurantis / Incineroar / Porygon2 / Mew           |    1 |  16.67% | 100.00% |
+| 1    | Tapu Lele / Pelipper / Genesect / Necrozma / Naganadel     |    1 |  16.67% | 100.00% |
+| 1    | Tapu Lele / Genesect / Necrozma / Urshifu / Naganadel      |    1 |  16.67% | 100.00% |
+| 1    | Tapu Lele / Pelipper / Necrozma / Urshifu / Naganadel      |    1 |  16.67% | 100.00% |
+| 1    | Tapu Lele / Pelipper / Genesect / Necrozma / Urshifu       |    1 |  16.67% | 100.00% |
+| 1    | Tapu Lele / Pelipper / Genesect / Urshifu / Naganadel      |    1 |  16.67% | 100.00% |
+| 1    | Pelipper / Genesect / Necrozma / Urshifu / Naganadel       |    1 |  16.67% | 100.00% |
+| 1    | Heatran / Tapu Lele / Whimsicott / Genesect / Urshifu      |    1 |  16.67% |   0.00% |
+| 1    | Tapu Lele / Whimsicott / Genesect / Necrozma / Urshifu     |    1 |  16.67% |   0.00% |
+| 1    | Heatran / Tapu Lele / Whimsicott / Necrozma / Urshifu      |    1 |  16.67% |   0.00% |
+| 1    | Heatran / Whimsicott / Genesect / Necrozma / Urshifu       |    1 |  16.67% |   0.00% |
+| 1    | Heatran / Tapu Lele / Whimsicott / Genesect / Necrozma     |    1 |  16.67% |   0.00% |
+| 1    | Heatran / Tapu Lele / Genesect / Necrozma / Urshifu        |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Toxapex / Dragapult / Rillaboom / Incineroar  |    1 |  16.67% |   0.00% |
+| 1    | Chansey / Toxapex / Dragapult / Rillaboom / Incineroar     |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Chansey / Toxapex / Dragapult / Incineroar    |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Chansey / Toxapex / Dragapult / Rillaboom     |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Chansey / Dragapult / Rillaboom / Incineroar  |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Chansey / Toxapex / Rillaboom / Incineroar    |    1 |  16.67% |   0.00% |
+| 1    | Spectrier / Rillaboom / Tyranitar / Mew / Dracozolt        |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Spectrier / Rillaboom / Tyranitar / Dracozolt |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Spectrier / Rillaboom / Tyranitar / Mew       |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Spectrier / Rillaboom / Mew / Dracozolt       |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Spectrier / Tyranitar / Mew / Dracozolt       |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Rillaboom / Tyranitar / Mew / Dracozolt       |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                         | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Cinderace / Rillaboom / Zeraora / Torkoal / Diancie / Porygon2      |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Zygarde / Lurantis / Incineroar / Porygon2 / Mew        |    1 |  16.67% | 100.00% |
+| 1    | Tapu Lele / Pelipper / Genesect / Necrozma / Urshifu / Naganadel    |    1 |  16.67% | 100.00% |
+| 1    | Heatran / Tapu Lele / Whimsicott / Genesect / Necrozma / Urshifu    |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Chansey / Toxapex / Dragapult / Rillaboom / Incineroar |    1 |  16.67% |   0.00% |
+| 1    | Celesteela / Spectrier / Rillaboom / Tyranitar / Mew / Dracozolt    |    1 |  16.67% |   0.00% |
