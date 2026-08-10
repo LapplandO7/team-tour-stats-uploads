@@ -1,0 +1,351 @@
++ ---- + -------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2          | Use  | Usage % |  Win %  |
++ ---- + -------------------- + ---- + ------- + ------- +
+| 1    | Ivysaur / Mightyena  |    3 |  37.50% | 100.00% |
+| 1    | Mightyena / Seaking  |    3 |  37.50% |  33.33% |
+| 1    | Nosepass / Mightyena |    3 |  37.50% |  33.33% |
+| 4    | Anorith / Mightyena  |    2 |  25.00% | 100.00% |
+| 4    | Mightyena / Meditite |    2 |  25.00% | 100.00% |
+| 4    | Nosepass / Gloom     |    2 |  25.00% |  50.00% |
+| 4    | Mightyena / Gloom    |    2 |  25.00% |  50.00% |
+| 4    | Ivysaur / Snorunt    |    2 |  25.00% |  50.00% |
+| 4    | Mightyena / Grovyle  |    2 |  25.00% |  50.00% |
+| 4    | Ivysaur / Ponyta     |    2 |  25.00% |  50.00% |
+| 4    | Mightyena / Wailmer  |    2 |  25.00% |  50.00% |
+| 4    | Mightyena / Ponyta   |    2 |  25.00% |  50.00% |
+| 13   | Nosepass / Volbeat   |    1 |  12.50% | 100.00% |
+| 13   | Volbeat / Gloom      |    1 |  12.50% | 100.00% |
+| 13   | Mightyena / Volbeat  |    1 |  12.50% | 100.00% |
+| 13   | Anorith / Volbeat    |    1 |  12.50% | 100.00% |
+| 13   | Volbeat / Meditite   |    1 |  12.50% | 100.00% |
+| 13   | Anorith / Nosepass   |    1 |  12.50% | 100.00% |
+| 13   | Nosepass / Meditite  |    1 |  12.50% | 100.00% |
+| 13   | Anorith / Gloom      |    1 |  12.50% | 100.00% |
+| 13   | Meditite / Gloom     |    1 |  12.50% | 100.00% |
+| 13   | Anorith / Meditite   |    1 |  12.50% | 100.00% |
+| 13   | Snorunt / Aipom      |    1 |  12.50% | 100.00% |
+| 13   | Mightyena / Aipom    |    1 |  12.50% | 100.00% |
+| 13   | Ivysaur / Aipom      |    1 |  12.50% | 100.00% |
+| 13   | Mightyena / Snorunt  |    1 |  12.50% | 100.00% |
+| 13   | Meditite / Wailmer   |    1 |  12.50% | 100.00% |
+| 13   | Wailmer / Grovyle    |    1 |  12.50% | 100.00% |
+| 13   | Ivysaur / Wailmer    |    1 |  12.50% | 100.00% |
+| 13   | Meditite / Grovyle   |    1 |  12.50% | 100.00% |
+| 13   | Ivysaur / Meditite   |    1 |  12.50% | 100.00% |
+| 13   | Ivysaur / Grovyle    |    1 |  12.50% | 100.00% |
+| 13   | Ponyta / Seaking     |    1 |  12.50% | 100.00% |
+| 13   | Anorith / Ponyta     |    1 |  12.50% | 100.00% |
+| 13   | Ivysaur / Seaking    |    1 |  12.50% | 100.00% |
+| 13   | Anorith / Ivysaur    |    1 |  12.50% | 100.00% |
+| 13   | Anorith / Seaking    |    1 |  12.50% | 100.00% |
+| 13   | Quilava / Baltoy     |    1 |  12.50% |   0.00% |
+| 13   | Tropius / Quilava    |    1 |  12.50% |   0.00% |
+| 13   | Quilava / Seaking    |    1 |  12.50% |   0.00% |
+| 13   | Quilava / Mightyena  |    1 |  12.50% |   0.00% |
+| 13   | Quilava / Corsola    |    1 |  12.50% |   0.00% |
+| 13   | Tropius / Baltoy     |    1 |  12.50% |   0.00% |
+| 13   | Seaking / Baltoy     |    1 |  12.50% |   0.00% |
+| 13   | Mightyena / Baltoy   |    1 |  12.50% |   0.00% |
+| 13   | Corsola / Baltoy     |    1 |  12.50% |   0.00% |
+| 13   | Tropius / Seaking    |    1 |  12.50% |   0.00% |
+| 13   | Tropius / Mightyena  |    1 |  12.50% |   0.00% |
+| 13   | Tropius / Corsola    |    1 |  12.50% |   0.00% |
+| 13   | Seaking / Corsola    |    1 |  12.50% |   0.00% |
+| 13   | Mightyena / Corsola  |    1 |  12.50% |   0.00% |
+| 13   | Nosepass / Doduo     |    1 |  12.50% |   0.00% |
+| 13   | Mightyena / Doduo    |    1 |  12.50% |   0.00% |
+| 13   | Doduo / Gloom        |    1 |  12.50% |   0.00% |
+| 13   | Seaking / Doduo      |    1 |  12.50% |   0.00% |
+| 13   | Doduo / Grovyle      |    1 |  12.50% |   0.00% |
+| 13   | Nosepass / Seaking   |    1 |  12.50% |   0.00% |
+| 13   | Nosepass / Grovyle   |    1 |  12.50% |   0.00% |
+| 13   | Seaking / Gloom      |    1 |  12.50% |   0.00% |
+| 13   | Grovyle / Gloom      |    1 |  12.50% |   0.00% |
+| 13   | Seaking / Grovyle    |    1 |  12.50% |   0.00% |
+| 13   | Shuppet / Snorunt    |    1 |  12.50% |   0.00% |
+| 13   | Doduo / Snorunt      |    1 |  12.50% |   0.00% |
+| 13   | Corsola / Snorunt    |    1 |  12.50% |   0.00% |
+| 13   | Ponyta / Snorunt     |    1 |  12.50% |   0.00% |
+| 13   | Shuppet / Doduo      |    1 |  12.50% |   0.00% |
+| 13   | Shuppet / Corsola    |    1 |  12.50% |   0.00% |
+| 13   | Ivysaur / Shuppet    |    1 |  12.50% |   0.00% |
+| 13   | Ponyta / Shuppet     |    1 |  12.50% |   0.00% |
+| 13   | Corsola / Doduo      |    1 |  12.50% |   0.00% |
+| 13   | Ivysaur / Doduo      |    1 |  12.50% |   0.00% |
+| 13   | Ponyta / Doduo       |    1 |  12.50% |   0.00% |
+| 13   | Ivysaur / Corsola    |    1 |  12.50% |   0.00% |
+| 13   | Ponyta / Corsola     |    1 |  12.50% |   0.00% |
+| 13   | Castform / Wailmer   |    1 |  12.50% |   0.00% |
+| 13   | Beedrill / Wailmer   |    1 |  12.50% |   0.00% |
+| 13   | Nosepass / Wailmer   |    1 |  12.50% |   0.00% |
+| 13   | Ponyta / Wailmer     |    1 |  12.50% |   0.00% |
+| 13   | Beedrill / Castform  |    1 |  12.50% |   0.00% |
+| 13   | Nosepass / Castform  |    1 |  12.50% |   0.00% |
+| 13   | Castform / Mightyena |    1 |  12.50% |   0.00% |
+| 13   | Castform / Ponyta    |    1 |  12.50% |   0.00% |
+| 13   | Beedrill / Nosepass  |    1 |  12.50% |   0.00% |
+| 13   | Beedrill / Mightyena |    1 |  12.50% |   0.00% |
+| 13   | Beedrill / Ponyta    |    1 |  12.50% |   0.00% |
+| 13   | Nosepass / Ponyta    |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| 1    | Nosepass / Mightyena / Gloom    |    2 |  25.00% |  50.00% |
+| 2    | Nosepass / Volbeat / Gloom      |    1 |  12.50% | 100.00% |
+| 2    | Nosepass / Mightyena / Volbeat  |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Nosepass / Volbeat    |    1 |  12.50% | 100.00% |
+| 2    | Nosepass / Volbeat / Meditite   |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Volbeat / Gloom     |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Volbeat / Gloom       |    1 |  12.50% | 100.00% |
+| 2    | Volbeat / Meditite / Gloom      |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Mightyena / Volbeat   |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Volbeat / Meditite  |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Volbeat / Meditite    |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Nosepass / Gloom      |    1 |  12.50% | 100.00% |
+| 2    | Nosepass / Meditite / Gloom     |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Nosepass / Mightyena  |    1 |  12.50% | 100.00% |
+| 2    | Nosepass / Mightyena / Meditite |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Nosepass / Meditite   |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Mightyena / Gloom     |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Meditite / Gloom    |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Meditite / Gloom      |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Mightyena / Meditite  |    1 |  12.50% | 100.00% |
+| 2    | Snorunt / Mightyena / Aipom     |    1 |  12.50% | 100.00% |
+| 2    | Snorunt / Ivysaur / Aipom       |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Mightyena / Aipom     |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Mightyena / Snorunt   |    1 |  12.50% | 100.00% |
+| 2    | Meditite / Wailmer / Grovyle    |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Meditite / Wailmer  |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Meditite / Wailmer    |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Wailmer / Grovyle   |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Wailmer / Grovyle     |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Mightyena / Wailmer   |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Meditite / Grovyle  |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Meditite / Grovyle    |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Mightyena / Meditite  |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Mightyena / Grovyle   |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Ponyta / Seaking      |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Ponyta / Mightyena    |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Ivysaur / Ponyta      |    1 |  12.50% | 100.00% |
+| 2    | Ponyta / Seaking / Mightyena    |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Ponyta / Seaking      |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Ponyta / Mightyena    |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Mightyena / Seaking   |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Ivysaur / Seaking     |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Ivysaur / Mightyena   |    1 |  12.50% | 100.00% |
+| 2    | Anorith / Mightyena / Seaking   |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Quilava / Baltoy      |    1 |  12.50% |   0.00% |
+| 2    | Quilava / Seaking / Baltoy      |    1 |  12.50% |   0.00% |
+| 2    | Quilava / Mightyena / Baltoy    |    1 |  12.50% |   0.00% |
+| 2    | Quilava / Corsola / Baltoy      |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Quilava / Seaking     |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Quilava / Mightyena   |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Quilava / Corsola     |    1 |  12.50% |   0.00% |
+| 2    | Quilava / Seaking / Mightyena   |    1 |  12.50% |   0.00% |
+| 2    | Quilava / Seaking / Corsola     |    1 |  12.50% |   0.00% |
+| 2    | Quilava / Corsola / Mightyena   |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Seaking / Baltoy      |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Mightyena / Baltoy    |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Corsola / Baltoy      |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Seaking / Baltoy    |    1 |  12.50% |   0.00% |
+| 2    | Seaking / Corsola / Baltoy      |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Corsola / Baltoy    |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Mightyena / Seaking   |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Seaking / Corsola     |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Mightyena / Corsola   |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Seaking / Corsola   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Doduo    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Doduo / Gloom        |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Seaking / Doduo      |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Doduo / Grovyle      |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Doduo / Gloom       |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Seaking / Doduo     |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Doduo / Grovyle     |    1 |  12.50% |   0.00% |
+| 2    | Seaking / Doduo / Gloom         |    1 |  12.50% |   0.00% |
+| 2    | Doduo / Grovyle / Gloom         |    1 |  12.50% |   0.00% |
+| 2    | Seaking / Doduo / Grovyle       |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Seaking  |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Grovyle  |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Seaking / Gloom      |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Grovyle / Gloom      |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Seaking / Grovyle    |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Seaking / Gloom     |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Grovyle / Gloom     |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Seaking / Grovyle   |    1 |  12.50% |   0.00% |
+| 2    | Seaking / Grovyle / Gloom       |    1 |  12.50% |   0.00% |
+| 2    | Doduo / Shuppet / Snorunt       |    1 |  12.50% |   0.00% |
+| 2    | Shuppet / Snorunt / Corsola     |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Shuppet / Snorunt     |    1 |  12.50% |   0.00% |
+| 2    | Ponyta / Shuppet / Snorunt      |    1 |  12.50% |   0.00% |
+| 2    | Doduo / Corsola / Snorunt       |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Doduo / Snorunt       |    1 |  12.50% |   0.00% |
+| 2    | Doduo / Ponyta / Snorunt        |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Corsola / Snorunt     |    1 |  12.50% |   0.00% |
+| 2    | Ponyta / Corsola / Snorunt      |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Ponyta / Snorunt      |    1 |  12.50% |   0.00% |
+| 2    | Shuppet / Doduo / Corsola       |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Shuppet / Doduo       |    1 |  12.50% |   0.00% |
+| 2    | Ponyta / Shuppet / Doduo        |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Shuppet / Corsola     |    1 |  12.50% |   0.00% |
+| 2    | Ponyta / Shuppet / Corsola      |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Ponyta / Shuppet      |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Corsola / Doduo       |    1 |  12.50% |   0.00% |
+| 2    | Ponyta / Corsola / Doduo        |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Ponyta / Doduo        |    1 |  12.50% |   0.00% |
+| 2    | Ivysaur / Ponyta / Corsola      |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Castform / Wailmer   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Castform / Wailmer   |    1 |  12.50% |   0.00% |
+| 2    | Castform / Mightyena / Wailmer  |    1 |  12.50% |   0.00% |
+| 2    | Castform / Ponyta / Wailmer     |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Nosepass / Wailmer   |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Mightyena / Wailmer  |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Ponyta / Wailmer     |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Wailmer  |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Ponyta / Wailmer     |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Ponyta / Wailmer    |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Nosepass / Castform  |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Castform / Mightyena |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Castform / Ponyta    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Castform / Mightyena |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Castform / Ponyta    |    1 |  12.50% |   0.00% |
+| 2    | Castform / Ponyta / Mightyena   |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Nosepass / Mightyena |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Nosepass / Ponyta    |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Mightyena / Ponyta   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Ponyta   |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 4                                | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| 1    | Nosepass / Mightyena / Volbeat / Gloom     |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Nosepass / Volbeat / Gloom       |    1 |  12.50% | 100.00% |
+| 1    | Nosepass / Volbeat / Meditite / Gloom      |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Nosepass / Mightyena / Volbeat   |    1 |  12.50% | 100.00% |
+| 1    | Nosepass / Mightyena / Volbeat / Meditite  |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Nosepass / Volbeat / Meditite    |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Mightyena / Volbeat / Gloom      |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Volbeat / Meditite / Gloom     |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Volbeat / Meditite / Gloom       |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Mightyena / Volbeat / Meditite   |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Nosepass / Mightyena / Gloom     |    1 |  12.50% | 100.00% |
+| 1    | Nosepass / Mightyena / Meditite / Gloom    |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Nosepass / Meditite / Gloom      |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Nosepass / Mightyena / Meditite  |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Mightyena / Meditite / Gloom     |    1 |  12.50% | 100.00% |
+| 1    | Snorunt / Ivysaur / Mightyena / Aipom      |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Meditite / Wailmer / Grovyle   |    1 |  12.50% | 100.00% |
+| 1    | Ivysaur / Meditite / Wailmer / Grovyle     |    1 |  12.50% | 100.00% |
+| 1    | Ivysaur / Mightyena / Meditite / Wailmer   |    1 |  12.50% | 100.00% |
+| 1    | Ivysaur / Mightyena / Wailmer / Grovyle    |    1 |  12.50% | 100.00% |
+| 1    | Ivysaur / Mightyena / Meditite / Grovyle   |    1 |  12.50% | 100.00% |
+| 1    | Ivysaur / Ponyta / Seaking / Mightyena     |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Ivysaur / Ponyta / Seaking       |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Ivysaur / Ponyta / Mightyena     |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Ponyta / Seaking / Mightyena     |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Ivysaur / Mightyena / Seaking    |    1 |  12.50% | 100.00% |
+| 1    | Tropius / Quilava / Seaking / Baltoy       |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Quilava / Mightyena / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Quilava / Corsola / Baltoy       |    1 |  12.50% |   0.00% |
+| 1    | Quilava / Seaking / Mightyena / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Quilava / Seaking / Corsola / Baltoy       |    1 |  12.50% |   0.00% |
+| 1    | Quilava / Corsola / Mightyena / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Quilava / Seaking / Mightyena    |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Quilava / Seaking / Corsola      |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Quilava / Corsola / Mightyena    |    1 |  12.50% |   0.00% |
+| 1    | Quilava / Seaking / Mightyena / Corsola    |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Mightyena / Seaking / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Seaking / Corsola / Baltoy       |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Mightyena / Corsola / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Seaking / Corsola / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Tropius / Mightyena / Seaking / Corsola    |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Doduo / Gloom       |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Seaking / Doduo     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Doduo / Grovyle     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Seaking / Doduo / Gloom         |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Doduo / Grovyle / Gloom         |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Seaking / Doduo / Grovyle       |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Seaking / Doduo / Gloom        |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Doduo / Grovyle / Gloom        |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Seaking / Doduo / Grovyle      |    1 |  12.50% |   0.00% |
+| 1    | Seaking / Doduo / Grovyle / Gloom          |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Seaking / Gloom     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Grovyle / Gloom     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Seaking / Grovyle   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Seaking / Grovyle / Gloom       |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Seaking / Grovyle / Gloom      |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Shuppet / Snorunt / Corsola        |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Doduo / Shuppet / Snorunt        |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Shuppet / Snorunt / Ponyta         |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Shuppet / Snorunt / Corsola      |    1 |  12.50% |   0.00% |
+| 1    | Ponyta / Shuppet / Snorunt / Corsola       |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Ponyta / Shuppet / Snorunt       |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Doduo / Corsola / Snorunt        |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Corsola / Snorunt / Ponyta         |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Doduo / Ponyta / Snorunt         |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Ponyta / Corsola / Snorunt       |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Shuppet / Doduo / Corsola        |    1 |  12.50% |   0.00% |
+| 1    | Ponyta / Shuppet / Doduo / Corsola         |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Ponyta / Shuppet / Doduo         |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Ponyta / Shuppet / Corsola       |    1 |  12.50% |   0.00% |
+| 1    | Ivysaur / Ponyta / Corsola / Doduo         |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Nosepass / Castform / Wailmer   |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Castform / Mightyena / Wailmer  |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Castform / Ponyta / Wailmer     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Mightyena / Wailmer  |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Ponyta / Wailmer     |    1 |  12.50% |   0.00% |
+| 1    | Castform / Ponyta / Mightyena / Wailmer    |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Nosepass / Mightyena / Wailmer  |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Nosepass / Ponyta / Wailmer     |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Mightyena / Ponyta / Wailmer    |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Ponyta / Wailmer    |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Nosepass / Castform / Mightyena |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Nosepass / Castform / Ponyta    |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Castform / Ponyta / Mightyena   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Ponyta / Mightyena   |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Nosepass / Mightyena / Ponyta   |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Nosepass / Anorith / Mightyena / Gloom / Volbeat     |    1 |  12.50% | 100.00% |
+| 1    | Nosepass / Mightyena / Gloom / Volbeat / Meditite    |    1 |  12.50% | 100.00% |
+| 1    | Nosepass / Anorith / Gloom / Volbeat / Meditite      |    1 |  12.50% | 100.00% |
+| 1    | Nosepass / Anorith / Mightyena / Volbeat / Meditite  |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Mightyena / Gloom / Volbeat / Meditite     |    1 |  12.50% | 100.00% |
+| 1    | Nosepass / Anorith / Mightyena / Gloom / Meditite    |    1 |  12.50% | 100.00% |
+| 1    | Grovyle / Mightyena / Ivysaur / Meditite / Wailmer   |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Ponyta / Mightyena / Seaking / Ivysaur     |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Tropius / Quilava / Seaking / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Corsola / Tropius / Quilava / Seaking / Baltoy       |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Corsola / Tropius / Quilava / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Corsola / Quilava / Seaking / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Corsola / Tropius / Quilava / Seaking    |    1 |  12.50% |   0.00% |
+| 1    | Mightyena / Corsola / Tropius / Seaking / Baltoy     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Doduo / Mightyena / Seaking / Gloom       |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Doduo / Grovyle / Mightyena / Gloom       |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Doduo / Grovyle / Mightyena / Seaking     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Doduo / Grovyle / Seaking / Gloom         |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Grovyle / Mightyena / Seaking / Gloom        |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Grovyle / Mightyena / Seaking / Gloom     |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Snorunt / Corsola / Shuppet / Ivysaur        |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Snorunt / Ponyta / Corsola / Shuppet         |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Snorunt / Ponyta / Shuppet / Ivysaur         |    1 |  12.50% |   0.00% |
+| 1    | Snorunt / Ponyta / Corsola / Shuppet / Ivysaur       |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Snorunt / Ponyta / Corsola / Ivysaur         |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Ponyta / Corsola / Shuppet / Ivysaur         |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Beedrill / Mightyena / Castform / Wailmer |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Beedrill / Ponyta / Castform / Wailmer    |    1 |  12.50% |   0.00% |
+| 1    | Beedrill / Ponyta / Mightyena / Castform / Wailmer   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Ponyta / Mightyena / Castform / Wailmer   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Beedrill / Mightyena / Ponyta / Wailmer   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Beedrill / Ponyta / Mightyena / Castform  |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Nosepass / Anorith / Mightyena / Gloom / Volbeat / Meditite   |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Corsola / Tropius / Quilava / Seaking / Baltoy    |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Doduo / Grovyle / Mightyena / Seaking / Gloom      |    1 |  12.50% |   0.00% |
+| 1    | Doduo / Snorunt / Ponyta / Corsola / Shuppet / Ivysaur        |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Beedrill / Mightyena / Ponyta / Castform / Wailmer |    1 |  12.50% |   0.00% |
