@@ -1,0 +1,426 @@
++ ---- + ------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2         | Use  | Usage % |  Win %  |
++ ---- + ------------------- + ---- + ------- + ------- +
+| 1    | Pawniard / Leafeon  |    4 |  50.00% |  25.00% |
+| 2    | Arbok / Simisear    |    3 |  37.50% |  33.33% |
+| 2    | Arbok / Pawniard    |    3 |  37.50% |   0.00% |
+| 2    | Arbok / Leafeon     |    3 |  37.50% |   0.00% |
+| 5    | Persian / Grumpig   |    2 |  25.00% | 100.00% |
+| 5    | Solrock / Grumpig   |    2 |  25.00% | 100.00% |
+| 5    | Persian / Solrock   |    2 |  25.00% | 100.00% |
+| 5    | Emolga / Staryu     |    2 |  25.00% | 100.00% |
+| 5    | Meganium / Solrock  |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Pawniard  |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Leafeon   |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Arbok     |    2 |  25.00% |  50.00% |
+| 5    | Raichu / Pawniard   |    2 |  25.00% |   0.00% |
+| 5    | Raichu / Leafeon    |    2 |  25.00% |   0.00% |
+| 5    | Raichu / Arbok      |    2 |  25.00% |   0.00% |
+| 5    | Pawniard / Bibarel  |    2 |  25.00% |   0.00% |
+| 5    | Arbok / Bibarel     |    2 |  25.00% |   0.00% |
+| 5    | Bibarel / Simisear  |    2 |  25.00% |   0.00% |
+| 5    | Bibarel / Leafeon   |    2 |  25.00% |   0.00% |
+| 5    | Pawniard / Simisear |    2 |  25.00% |   0.00% |
+| 5    | Leafeon / Simisear  |    2 |  25.00% |   0.00% |
+| 22   | Meganium / Grumpig  |    1 |  12.50% | 100.00% |
+| 22   | Meganium / Muk      |    1 |  12.50% | 100.00% |
+| 22   | Meganium / Walrein  |    1 |  12.50% | 100.00% |
+| 22   | Meganium / Persian  |    1 |  12.50% | 100.00% |
+| 22   | Grumpig / Muk       |    1 |  12.50% | 100.00% |
+| 22   | Grumpig / Walrein   |    1 |  12.50% | 100.00% |
+| 22   | Muk / Walrein       |    1 |  12.50% | 100.00% |
+| 22   | Persian / Muk       |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Muk       |    1 |  12.50% | 100.00% |
+| 22   | Persian / Walrein   |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Walrein   |    1 |  12.50% | 100.00% |
+| 22   | Persian / Pawniard  |    1 |  12.50% | 100.00% |
+| 22   | Persian / Mienfoo   |    1 |  12.50% | 100.00% |
+| 22   | Persian / Leafeon   |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Pawniard  |    1 |  12.50% | 100.00% |
+| 22   | Mienfoo / Pawniard  |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Mienfoo   |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Leafeon   |    1 |  12.50% | 100.00% |
+| 22   | Mienfoo / Grumpig   |    1 |  12.50% | 100.00% |
+| 22   | Mienfoo / Leafeon   |    1 |  12.50% | 100.00% |
+| 22   | Shelgon / Lampent   |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Lampent   |    1 |  12.50% | 100.00% |
+| 22   | Emolga / Lampent    |    1 |  12.50% | 100.00% |
+| 22   | Lampent / Staryu    |    1 |  12.50% | 100.00% |
+| 22   | Mothim / Lampent    |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Shelgon   |    1 |  12.50% | 100.00% |
+| 22   | Shelgon / Emolga    |    1 |  12.50% | 100.00% |
+| 22   | Shelgon / Staryu    |    1 |  12.50% | 100.00% |
+| 22   | Mothim / Shelgon    |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Emolga    |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Staryu    |    1 |  12.50% | 100.00% |
+| 22   | Solrock / Mothim    |    1 |  12.50% | 100.00% |
+| 22   | Mothim / Emolga     |    1 |  12.50% | 100.00% |
+| 22   | Mothim / Staryu     |    1 |  12.50% | 100.00% |
+| 22   | Emolga / Lairon     |    1 |  12.50% | 100.00% |
+| 22   | Lairon / Staryu     |    1 |  12.50% | 100.00% |
+| 22   | Grumpig / Lairon    |    1 |  12.50% | 100.00% |
+| 22   | Arbok / Lairon      |    1 |  12.50% | 100.00% |
+| 22   | Lairon / Simisear   |    1 |  12.50% | 100.00% |
+| 22   | Emolga / Grumpig    |    1 |  12.50% | 100.00% |
+| 22   | Emolga / Arbok      |    1 |  12.50% | 100.00% |
+| 22   | Emolga / Simisear   |    1 |  12.50% | 100.00% |
+| 22   | Grumpig / Staryu    |    1 |  12.50% | 100.00% |
+| 22   | Arbok / Staryu      |    1 |  12.50% | 100.00% |
+| 22   | Simisear / Staryu   |    1 |  12.50% | 100.00% |
+| 22   | Grumpig / Simisear  |    1 |  12.50% | 100.00% |
+| 22   | Whiscash / Pawniard |    1 |  12.50% |   0.00% |
+| 22   | Raichu / Whiscash   |    1 |  12.50% |   0.00% |
+| 22   | Raichu / Grumpig    |    1 |  12.50% |   0.00% |
+| 22   | Whiscash / Leafeon  |    1 |  12.50% |   0.00% |
+| 22   | Grumpig / Whiscash  |    1 |  12.50% |   0.00% |
+| 22   | Arbok / Whiscash    |    1 |  12.50% |   0.00% |
+| 22   | Shelmet / Frillish  |    1 |  12.50% |   0.00% |
+| 22   | Solrock / Shelmet   |    1 |  12.50% |   0.00% |
+| 22   | Shelmet / Clefairy  |    1 |  12.50% |   0.00% |
+| 22   | Meganium / Shelmet  |    1 |  12.50% |   0.00% |
+| 22   | Whiscash / Shelmet  |    1 |  12.50% |   0.00% |
+| 22   | Solrock / Frillish  |    1 |  12.50% |   0.00% |
+| 22   | Clefairy / Frillish |    1 |  12.50% |   0.00% |
+| 22   | Meganium / Frillish |    1 |  12.50% |   0.00% |
+| 22   | Whiscash / Frillish |    1 |  12.50% |   0.00% |
+| 22   | Solrock / Clefairy  |    1 |  12.50% |   0.00% |
+| 22   | Solrock / Whiscash  |    1 |  12.50% |   0.00% |
+| 22   | Meganium / Clefairy |    1 |  12.50% |   0.00% |
+| 22   | Whiscash / Clefairy |    1 |  12.50% |   0.00% |
+| 22   | Meganium / Whiscash |    1 |  12.50% |   0.00% |
+| 22   | Mothim / Bibarel    |    1 |  12.50% |   0.00% |
+| 22   | Mothim / Pawniard   |    1 |  12.50% |   0.00% |
+| 22   | Mothim / Arbok      |    1 |  12.50% |   0.00% |
+| 22   | Mothim / Simisear   |    1 |  12.50% |   0.00% |
+| 22   | Mothim / Leafeon    |    1 |  12.50% |   0.00% |
+| 22   | Raichu / Bibarel    |    1 |  12.50% |   0.00% |
+| 22   | Raichu / Simisear   |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| 1    | Arbok / Pawniard / Leafeon     |    3 |  37.50% |   0.00% |
+| 2    | Persian / Grumpig / Solrock    |    2 |  25.00% | 100.00% |
+| 2    | Grumpig / Pawniard / Leafeon   |    2 |  25.00% |  50.00% |
+| 2    | Raichu / Pawniard / Leafeon    |    2 |  25.00% |   0.00% |
+| 2    | Raichu / Arbok / Pawniard      |    2 |  25.00% |   0.00% |
+| 2    | Raichu / Arbok / Leafeon       |    2 |  25.00% |   0.00% |
+| 2    | Pawniard / Arbok / Bibarel     |    2 |  25.00% |   0.00% |
+| 2    | Pawniard / Bibarel / Simisear  |    2 |  25.00% |   0.00% |
+| 2    | Pawniard / Bibarel / Leafeon   |    2 |  25.00% |   0.00% |
+| 2    | Arbok / Bibarel / Simisear     |    2 |  25.00% |   0.00% |
+| 2    | Arbok / Bibarel / Leafeon      |    2 |  25.00% |   0.00% |
+| 2    | Leafeon / Bibarel / Simisear   |    2 |  25.00% |   0.00% |
+| 2    | Arbok / Pawniard / Simisear    |    2 |  25.00% |   0.00% |
+| 2    | Leafeon / Pawniard / Simisear  |    2 |  25.00% |   0.00% |
+| 2    | Arbok / Simisear / Leafeon     |    2 |  25.00% |   0.00% |
+| 16   | Meganium / Grumpig / Muk       |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Grumpig / Walrein   |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Grumpig / Persian   |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Grumpig / Solrock   |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Muk / Walrein       |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Persian / Muk       |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Muk / Solrock       |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Persian / Walrein   |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Solrock / Walrein   |    1 |  12.50% | 100.00% |
+| 16   | Meganium / Persian / Solrock   |    1 |  12.50% | 100.00% |
+| 16   | Grumpig / Muk / Walrein        |    1 |  12.50% | 100.00% |
+| 16   | Persian / Grumpig / Muk        |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Grumpig / Muk        |    1 |  12.50% | 100.00% |
+| 16   | Persian / Grumpig / Walrein    |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Grumpig / Walrein    |    1 |  12.50% | 100.00% |
+| 16   | Persian / Muk / Walrein        |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Muk / Walrein        |    1 |  12.50% | 100.00% |
+| 16   | Persian / Muk / Solrock        |    1 |  12.50% | 100.00% |
+| 16   | Persian / Solrock / Walrein    |    1 |  12.50% | 100.00% |
+| 16   | Persian / Pawniard / Solrock   |    1 |  12.50% | 100.00% |
+| 16   | Persian / Mienfoo / Pawniard   |    1 |  12.50% | 100.00% |
+| 16   | Persian / Grumpig / Pawniard   |    1 |  12.50% | 100.00% |
+| 16   | Persian / Pawniard / Leafeon   |    1 |  12.50% | 100.00% |
+| 16   | Persian / Mienfoo / Solrock    |    1 |  12.50% | 100.00% |
+| 16   | Persian / Leafeon / Solrock    |    1 |  12.50% | 100.00% |
+| 16   | Persian / Mienfoo / Grumpig    |    1 |  12.50% | 100.00% |
+| 16   | Persian / Mienfoo / Leafeon    |    1 |  12.50% | 100.00% |
+| 16   | Persian / Grumpig / Leafeon    |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Mienfoo / Pawniard   |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Grumpig / Pawniard   |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Pawniard / Leafeon   |    1 |  12.50% | 100.00% |
+| 16   | Mienfoo / Pawniard / Grumpig   |    1 |  12.50% | 100.00% |
+| 16   | Mienfoo / Pawniard / Leafeon   |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Mienfoo / Grumpig    |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Mienfoo / Leafeon    |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Grumpig / Leafeon    |    1 |  12.50% | 100.00% |
+| 16   | Mienfoo / Grumpig / Leafeon    |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Shelgon / Lampent    |    1 |  12.50% | 100.00% |
+| 16   | Shelgon / Lampent / Emolga     |    1 |  12.50% | 100.00% |
+| 16   | Shelgon / Lampent / Staryu     |    1 |  12.50% | 100.00% |
+| 16   | Mothim / Shelgon / Lampent     |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Emolga / Lampent     |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Lampent / Staryu     |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Mothim / Lampent     |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Lampent / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Mothim / Emolga / Lampent      |    1 |  12.50% | 100.00% |
+| 16   | Mothim / Lampent / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Shelgon / Emolga     |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Shelgon / Staryu     |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Shelgon / Mothim     |    1 |  12.50% | 100.00% |
+| 16   | Shelgon / Emolga / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Mothim / Shelgon / Emolga      |    1 |  12.50% | 100.00% |
+| 16   | Mothim / Shelgon / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Emolga / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Emolga / Mothim      |    1 |  12.50% | 100.00% |
+| 16   | Solrock / Mothim / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Mothim / Emolga / Staryu       |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Lairon / Staryu       |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Lairon / Grumpig      |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Lairon / Arbok        |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Lairon / Simisear     |    1 |  12.50% | 100.00% |
+| 16   | Grumpig / Lairon / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Arbok / Lairon / Staryu        |    1 |  12.50% | 100.00% |
+| 16   | Simisear / Lairon / Staryu     |    1 |  12.50% | 100.00% |
+| 16   | Grumpig / Lairon / Arbok       |    1 |  12.50% | 100.00% |
+| 16   | Grumpig / Lairon / Simisear    |    1 |  12.50% | 100.00% |
+| 16   | Arbok / Lairon / Simisear      |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Grumpig / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Arbok / Staryu        |    1 |  12.50% | 100.00% |
+| 16   | Simisear / Emolga / Staryu     |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Arbok / Grumpig       |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Grumpig / Simisear    |    1 |  12.50% | 100.00% |
+| 16   | Emolga / Arbok / Simisear      |    1 |  12.50% | 100.00% |
+| 16   | Grumpig / Arbok / Staryu       |    1 |  12.50% | 100.00% |
+| 16   | Simisear / Grumpig / Staryu    |    1 |  12.50% | 100.00% |
+| 16   | Simisear / Arbok / Staryu      |    1 |  12.50% | 100.00% |
+| 16   | Grumpig / Arbok / Simisear     |    1 |  12.50% | 100.00% |
+| 16   | Raichu / Whiscash / Pawniard   |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Grumpig / Pawniard    |    1 |  12.50% |   0.00% |
+| 16   | Whiscash / Pawniard / Leafeon  |    1 |  12.50% |   0.00% |
+| 16   | Grumpig / Whiscash / Pawniard  |    1 |  12.50% |   0.00% |
+| 16   | Arbok / Whiscash / Pawniard    |    1 |  12.50% |   0.00% |
+| 16   | Grumpig / Arbok / Pawniard     |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Whiscash / Leafeon    |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Grumpig / Leafeon     |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Grumpig / Whiscash    |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Arbok / Whiscash      |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Grumpig / Arbok       |    1 |  12.50% |   0.00% |
+| 16   | Grumpig / Whiscash / Leafeon   |    1 |  12.50% |   0.00% |
+| 16   | Arbok / Whiscash / Leafeon     |    1 |  12.50% |   0.00% |
+| 16   | Grumpig / Arbok / Leafeon      |    1 |  12.50% |   0.00% |
+| 16   | Grumpig / Whiscash / Arbok     |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Shelmet / Frillish   |    1 |  12.50% |   0.00% |
+| 16   | Shelmet / Clefairy / Frillish  |    1 |  12.50% |   0.00% |
+| 16   | Meganium / Shelmet / Frillish  |    1 |  12.50% |   0.00% |
+| 16   | Whiscash / Shelmet / Frillish  |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Shelmet / Clefairy   |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Shelmet / Meganium   |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Whiscash / Shelmet   |    1 |  12.50% |   0.00% |
+| 16   | Meganium / Shelmet / Clefairy  |    1 |  12.50% |   0.00% |
+| 16   | Whiscash / Shelmet / Clefairy  |    1 |  12.50% |   0.00% |
+| 16   | Meganium / Whiscash / Shelmet  |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Clefairy / Frillish  |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Frillish / Meganium  |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Whiscash / Frillish  |    1 |  12.50% |   0.00% |
+| 16   | Meganium / Clefairy / Frillish |    1 |  12.50% |   0.00% |
+| 16   | Whiscash / Clefairy / Frillish |    1 |  12.50% |   0.00% |
+| 16   | Meganium / Whiscash / Frillish |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Clefairy / Meganium  |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Whiscash / Clefairy  |    1 |  12.50% |   0.00% |
+| 16   | Solrock / Whiscash / Meganium  |    1 |  12.50% |   0.00% |
+| 16   | Meganium / Whiscash / Clefairy |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Pawniard / Bibarel    |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Arbok / Bibarel       |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Bibarel / Simisear    |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Bibarel / Leafeon     |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Arbok / Pawniard      |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Pawniard / Simisear   |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Pawniard / Leafeon    |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Arbok / Simisear      |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Arbok / Leafeon       |    1 |  12.50% |   0.00% |
+| 16   | Mothim / Leafeon / Simisear    |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Pawniard / Bibarel    |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Bibarel / Leafeon     |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Bibarel / Simisear    |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Arbok / Bibarel       |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Pawniard / Simisear   |    1 |  12.50% |   0.00% |
+| 16   | Simisear / Raichu / Leafeon    |    1 |  12.50% |   0.00% |
+| 16   | Raichu / Arbok / Simisear      |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Raichu / Arbok / Pawniard / Leafeon       |    2 |  25.00% |   0.00% |
+| 1    | Pawniard / Arbok / Bibarel / Simisear     |    2 |  25.00% |   0.00% |
+| 1    | Pawniard / Arbok / Bibarel / Leafeon      |    2 |  25.00% |   0.00% |
+| 1    | Pawniard / Leafeon / Bibarel / Simisear   |    2 |  25.00% |   0.00% |
+| 1    | Arbok / Bibarel / Simisear / Leafeon      |    2 |  25.00% |   0.00% |
+| 1    | Arbok / Pawniard / Simisear / Leafeon     |    2 |  25.00% |   0.00% |
+| 7    | Meganium / Grumpig / Muk / Walrein        |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Grumpig / Muk / Persian        |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Grumpig / Muk / Solrock        |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Grumpig / Persian / Walrein    |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Grumpig / Solrock / Walrein    |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Grumpig / Persian / Solrock    |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Persian / Muk / Walrein        |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Solrock / Muk / Walrein        |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Persian / Muk / Solrock        |    1 |  12.50% | 100.00% |
+| 7    | Meganium / Persian / Solrock / Walrein    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Grumpig / Muk / Walrein         |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Grumpig / Muk / Walrein         |    1 |  12.50% | 100.00% |
+| 7    | Persian / Grumpig / Muk / Solrock         |    1 |  12.50% | 100.00% |
+| 7    | Persian / Grumpig / Solrock / Walrein     |    1 |  12.50% | 100.00% |
+| 7    | Persian / Solrock / Muk / Walrein         |    1 |  12.50% | 100.00% |
+| 7    | Persian / Mienfoo / Pawniard / Solrock    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Grumpig / Pawniard / Solrock    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Pawniard / Leafeon / Solrock    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Mienfoo / Pawniard / Grumpig    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Mienfoo / Pawniard / Leafeon    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Grumpig / Pawniard / Leafeon    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Mienfoo / Grumpig / Solrock     |    1 |  12.50% | 100.00% |
+| 7    | Persian / Mienfoo / Leafeon / Solrock     |    1 |  12.50% | 100.00% |
+| 7    | Persian / Grumpig / Leafeon / Solrock     |    1 |  12.50% | 100.00% |
+| 7    | Persian / Mienfoo / Grumpig / Leafeon     |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Mienfoo / Pawniard / Grumpig    |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Mienfoo / Pawniard / Leafeon    |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Grumpig / Pawniard / Leafeon    |    1 |  12.50% | 100.00% |
+| 7    | Mienfoo / Pawniard / Grumpig / Leafeon    |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Mienfoo / Grumpig / Leafeon     |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Shelgon / Lampent / Emolga      |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Shelgon / Lampent / Staryu      |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Shelgon / Lampent / Mothim      |    1 |  12.50% | 100.00% |
+| 7    | Shelgon / Lampent / Emolga / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Mothim / Shelgon / Lampent / Emolga       |    1 |  12.50% | 100.00% |
+| 7    | Mothim / Shelgon / Lampent / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Emolga / Lampent / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Emolga / Lampent / Mothim       |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Mothim / Lampent / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Mothim / Emolga / Lampent / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Shelgon / Emolga / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Shelgon / Mothim / Emolga       |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Shelgon / Mothim / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Mothim / Shelgon / Emolga / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Solrock / Emolga / Mothim / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Emolga / Lairon / Grumpig / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Emolga / Lairon / Arbok / Staryu          |    1 |  12.50% | 100.00% |
+| 7    | Simisear / Emolga / Lairon / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Emolga / Lairon / Grumpig / Arbok         |    1 |  12.50% | 100.00% |
+| 7    | Emolga / Lairon / Grumpig / Simisear      |    1 |  12.50% | 100.00% |
+| 7    | Emolga / Lairon / Arbok / Simisear        |    1 |  12.50% | 100.00% |
+| 7    | Grumpig / Lairon / Arbok / Staryu         |    1 |  12.50% | 100.00% |
+| 7    | Simisear / Grumpig / Lairon / Staryu      |    1 |  12.50% | 100.00% |
+| 7    | Simisear / Arbok / Lairon / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Grumpig / Lairon / Arbok / Simisear       |    1 |  12.50% | 100.00% |
+| 7    | Emolga / Arbok / Grumpig / Staryu         |    1 |  12.50% | 100.00% |
+| 7    | Simisear / Emolga / Grumpig / Staryu      |    1 |  12.50% | 100.00% |
+| 7    | Simisear / Emolga / Arbok / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Emolga / Arbok / Grumpig / Simisear       |    1 |  12.50% | 100.00% |
+| 7    | Simisear / Grumpig / Arbok / Staryu       |    1 |  12.50% | 100.00% |
+| 7    | Raichu / Whiscash / Pawniard / Leafeon    |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Grumpig / Pawniard / Leafeon     |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Grumpig / Whiscash / Pawniard    |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Arbok / Whiscash / Pawniard      |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Grumpig / Arbok / Pawniard       |    1 |  12.50% |   0.00% |
+| 7    | Grumpig / Whiscash / Pawniard / Leafeon   |    1 |  12.50% |   0.00% |
+| 7    | Arbok / Whiscash / Pawniard / Leafeon     |    1 |  12.50% |   0.00% |
+| 7    | Grumpig / Arbok / Pawniard / Leafeon      |    1 |  12.50% |   0.00% |
+| 7    | Grumpig / Whiscash / Pawniard / Arbok     |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Grumpig / Whiscash / Leafeon     |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Arbok / Whiscash / Leafeon       |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Grumpig / Arbok / Leafeon        |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Grumpig / Whiscash / Arbok       |    1 |  12.50% |   0.00% |
+| 7    | Grumpig / Whiscash / Arbok / Leafeon      |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Shelmet / Clefairy / Frillish   |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Shelmet / Frillish / Meganium   |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Whiscash / Shelmet / Frillish   |    1 |  12.50% |   0.00% |
+| 7    | Meganium / Shelmet / Clefairy / Frillish  |    1 |  12.50% |   0.00% |
+| 7    | Whiscash / Shelmet / Clefairy / Frillish  |    1 |  12.50% |   0.00% |
+| 7    | Meganium / Whiscash / Shelmet / Frillish  |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Shelmet / Clefairy / Meganium   |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Whiscash / Shelmet / Clefairy   |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Whiscash / Shelmet / Meganium   |    1 |  12.50% |   0.00% |
+| 7    | Meganium / Whiscash / Shelmet / Clefairy  |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Clefairy / Frillish / Meganium  |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Whiscash / Clefairy / Frillish  |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Whiscash / Frillish / Meganium  |    1 |  12.50% |   0.00% |
+| 7    | Meganium / Whiscash / Clefairy / Frillish |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Whiscash / Clefairy / Meganium  |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Pawniard / Arbok / Bibarel       |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Pawniard / Bibarel / Simisear    |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Pawniard / Bibarel / Leafeon     |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Arbok / Bibarel / Simisear       |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Arbok / Bibarel / Leafeon        |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Leafeon / Bibarel / Simisear     |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Arbok / Pawniard / Simisear      |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Arbok / Pawniard / Leafeon       |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Leafeon / Pawniard / Simisear    |    1 |  12.50% |   0.00% |
+| 7    | Mothim / Arbok / Simisear / Leafeon       |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Pawniard / Bibarel / Leafeon     |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Pawniard / Bibarel / Simisear    |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Pawniard / Arbok / Bibarel       |    1 |  12.50% |   0.00% |
+| 7    | Simisear / Raichu / Bibarel / Leafeon     |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Arbok / Bibarel / Leafeon        |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Arbok / Bibarel / Simisear       |    1 |  12.50% |   0.00% |
+| 7    | Simisear / Raichu / Pawniard / Leafeon    |    1 |  12.50% |   0.00% |
+| 7    | Raichu / Arbok / Pawniard / Simisear      |    1 |  12.50% |   0.00% |
+| 7    | Simisear / Arbok / Raichu / Leafeon       |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                         | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Leafeon / Pawniard / Bibarel / Simisear / Arbok     |    2 |  25.00% |   0.00% |
+| 2    | Meganium / Grumpig / Muk / Persian / Walrein        |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Solrock / Grumpig / Muk / Walrein        |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Solrock / Grumpig / Muk / Persian        |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Solrock / Grumpig / Persian / Walrein    |    1 |  12.50% | 100.00% |
+| 2    | Meganium / Solrock / Muk / Persian / Walrein        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Grumpig / Muk / Persian / Walrein         |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Grumpig / Pawniard / Persian / Mienfoo    |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Leafeon / Pawniard / Persian / Mienfoo    |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Leafeon / Grumpig / Pawniard / Persian    |    1 |  12.50% | 100.00% |
+| 2    | Leafeon / Grumpig / Pawniard / Persian / Mienfoo    |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Leafeon / Grumpig / Persian / Mienfoo     |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Leafeon / Grumpig / Pawniard / Mienfoo    |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Emolga / Shelgon / Lampent / Staryu       |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Mothim / Emolga / Shelgon / Lampent       |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Mothim / Shelgon / Lampent / Staryu       |    1 |  12.50% | 100.00% |
+| 2    | Mothim / Emolga / Shelgon / Lampent / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Emolga / Mothim / Lampent / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Solrock / Mothim / Emolga / Shelgon / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Emolga / Lairon / Grumpig / Arbok / Staryu          |    1 |  12.50% | 100.00% |
+| 2    | Emolga / Lairon / Grumpig / Simisear / Staryu       |    1 |  12.50% | 100.00% |
+| 2    | Emolga / Lairon / Simisear / Arbok / Staryu         |    1 |  12.50% | 100.00% |
+| 2    | Emolga / Lairon / Grumpig / Simisear / Arbok        |    1 |  12.50% | 100.00% |
+| 2    | Lairon / Grumpig / Simisear / Arbok / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Emolga / Grumpig / Simisear / Arbok / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Raichu / Whiscash / Leafeon / Grumpig / Pawniard    |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Whiscash / Leafeon / Pawniard / Arbok      |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Leafeon / Grumpig / Pawniard / Arbok       |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Whiscash / Grumpig / Pawniard / Arbok      |    1 |  12.50% |   0.00% |
+| 2    | Whiscash / Leafeon / Grumpig / Pawniard / Arbok     |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Whiscash / Leafeon / Grumpig / Arbok       |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Meganium / Shelmet / Clefairy / Frillish  |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Whiscash / Shelmet / Clefairy / Frillish  |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Meganium / Whiscash / Shelmet / Frillish  |    1 |  12.50% |   0.00% |
+| 2    | Meganium / Whiscash / Shelmet / Clefairy / Frillish |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Meganium / Whiscash / Shelmet / Clefairy  |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Meganium / Whiscash / Clefairy / Frillish |    1 |  12.50% |   0.00% |
+| 2    | Mothim / Pawniard / Bibarel / Simisear / Arbok      |    1 |  12.50% |   0.00% |
+| 2    | Mothim / Leafeon / Pawniard / Bibarel / Arbok       |    1 |  12.50% |   0.00% |
+| 2    | Mothim / Leafeon / Pawniard / Bibarel / Simisear    |    1 |  12.50% |   0.00% |
+| 2    | Mothim / Leafeon / Bibarel / Simisear / Arbok       |    1 |  12.50% |   0.00% |
+| 2    | Mothim / Leafeon / Pawniard / Simisear / Arbok      |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Leafeon / Pawniard / Bibarel / Simisear    |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Leafeon / Pawniard / Bibarel / Arbok       |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Pawniard / Bibarel / Simisear / Arbok      |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Leafeon / Bibarel / Simisear / Arbok       |    1 |  12.50% |   0.00% |
+| 2    | Raichu / Leafeon / Pawniard / Simisear / Arbok      |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Meganium / Solrock / Grumpig / Muk / Persian / Walrein        |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Leafeon / Grumpig / Pawniard / Persian / Mienfoo    |    1 |  12.50% | 100.00% |
+| 1    | Solrock / Emolga / Mothim / Shelgon / Lampent / Staryu        |    1 |  12.50% | 100.00% |
+| 1    | Emolga / Lairon / Grumpig / Simisear / Arbok / Staryu         |    1 |  12.50% | 100.00% |
+| 1    | Raichu / Whiscash / Leafeon / Grumpig / Pawniard / Arbok      |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Meganium / Whiscash / Shelmet / Clefairy / Frillish |    1 |  12.50% |   0.00% |
+| 1    | Mothim / Leafeon / Pawniard / Bibarel / Simisear / Arbok      |    1 |  12.50% |   0.00% |
+| 1    | Raichu / Leafeon / Pawniard / Bibarel / Simisear / Arbok      |    1 |  12.50% |   0.00% |
