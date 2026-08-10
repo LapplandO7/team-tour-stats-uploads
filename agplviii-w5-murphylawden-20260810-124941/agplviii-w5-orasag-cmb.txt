@@ -1,0 +1,238 @@
++ ---- + ------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2               | Use  | Usage % |  Win %  |
++ ---- + ------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Xerneas-*      |    7 | 175.00% |  85.71% |
+| 2    | Arceus-* / Rayquaza       |    4 | 100.00% |  50.00% |
+| 3    | Xerneas-*                 |    3 |  75.00% | 100.00% |
+| 3    | Rayquaza / Xerneas-*      |    3 |  75.00% | 100.00% |
+| 3    | Arceus-Ghost / Xerneas-*  |    3 |  75.00% | 100.00% |
+| 3    | Arceus-*                  |    3 |  75.00% |  66.67% |
+| 3    | Arceus-* / Groudon        |    3 |  75.00% |   0.00% |
+| 8    | Tentacruel / Arceus-*     |    2 |  50.00% | 100.00% |
+| 8    | Lugia / Arceus-*          |    2 |  50.00% | 100.00% |
+| 8    | Arceus-* / Clefable       |    2 |  50.00% | 100.00% |
+| 8    | Arceus-* / Giratina       |    2 |  50.00% | 100.00% |
+| 8    | Arceus-* / Yveltal        |    2 |  50.00% |   0.00% |
+| 8    | Arceus-* / Klefki         |    2 |  50.00% |   0.00% |
+| 14   | Lugia / Tentacruel        |    1 |  25.00% | 100.00% |
+| 14   | Tentacruel / Clefable     |    1 |  25.00% | 100.00% |
+| 14   | Tentacruel / Giratina     |    1 |  25.00% | 100.00% |
+| 14   | Tentacruel / Arceus-Steel |    1 |  25.00% | 100.00% |
+| 14   | Lugia / Clefable          |    1 |  25.00% | 100.00% |
+| 14   | Lugia / Giratina          |    1 |  25.00% | 100.00% |
+| 14   | Lugia / Arceus-Steel      |    1 |  25.00% | 100.00% |
+| 14   | Clefable / Giratina       |    1 |  25.00% | 100.00% |
+| 14   | Arceus-Steel / Clefable   |    1 |  25.00% | 100.00% |
+| 14   | Arceus-Steel / Giratina   |    1 |  25.00% | 100.00% |
+| 14   | Arceus-Ghost / Rayquaza   |    1 |  25.00% | 100.00% |
+| 14   | Rayquaza / Yveltal        |    1 |  25.00% |   0.00% |
+| 14   | Rayquaza / Groudon        |    1 |  25.00% |   0.00% |
+| 14   | Rayquaza / Klefki         |    1 |  25.00% |   0.00% |
+| 14   | Rayquaza / Arceus-Ground  |    1 |  25.00% |   0.00% |
+| 14   | Yveltal / Groudon         |    1 |  25.00% |   0.00% |
+| 14   | Klefki / Yveltal          |    1 |  25.00% |   0.00% |
+| 14   | Arceus-Ground / Yveltal   |    1 |  25.00% |   0.00% |
+| 14   | Klefki / Groudon          |    1 |  25.00% |   0.00% |
+| 14   | Arceus-Ground / Groudon   |    1 |  25.00% |   0.00% |
+| 14   | Klefki / Arceus-Ground    |    1 |  25.00% |   0.00% |
+| 14   | Groudon / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 14   | Smeargle / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 14   | Diancie / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 14   | Xerneas-* / Deoxys-Speed  |    1 |  25.00% |   0.00% |
+| 14   | Arceus-* / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 14   | Arceus / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 14   | Smeargle / Groudon        |    1 |  25.00% |   0.00% |
+| 14   | Groudon / Diancie         |    1 |  25.00% |   0.00% |
+| 14   | Groudon / Xerneas-*       |    1 |  25.00% |   0.00% |
+| 14   | Arceus / Groudon          |    1 |  25.00% |   0.00% |
+| 14   | Smeargle / Diancie        |    1 |  25.00% |   0.00% |
+| 14   | Smeargle / Xerneas-*      |    1 |  25.00% |   0.00% |
+| 14   | Arceus-* / Smeargle       |    1 |  25.00% |   0.00% |
+| 14   | Arceus / Smeargle         |    1 |  25.00% |   0.00% |
+| 14   | Xerneas-* / Diancie       |    1 |  25.00% |   0.00% |
+| 14   | Arceus-* / Diancie        |    1 |  25.00% |   0.00% |
+| 14   | Arceus / Diancie          |    1 |  25.00% |   0.00% |
+| 14   | Arceus / Xerneas-*        |    1 |  25.00% |   0.00% |
+
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| 1    | Arceus-* / Xerneas-*                 |    9 | 225.00% | 100.00% |
+| 2    | Arceus-* / Rayquaza / Xerneas-*      |    6 | 150.00% | 100.00% |
+| 3    | Rayquaza / Xerneas-*                 |    3 |  75.00% | 100.00% |
+| 3    | Arceus-Ghost / Xerneas-*             |    3 |  75.00% | 100.00% |
+| 3    | Arceus-Ghost / Rayquaza / Xerneas-*  |    3 |  75.00% | 100.00% |
+| 6    | Lugia / Tentacruel / Arceus-*        |    2 |  50.00% | 100.00% |
+| 6    | Tentacruel / Clefable / Arceus-*     |    2 |  50.00% | 100.00% |
+| 6    | Tentacruel / Arceus-* / Giratina     |    2 |  50.00% | 100.00% |
+| 6    | Lugia / Arceus-* / Clefable          |    2 |  50.00% | 100.00% |
+| 6    | Lugia / Arceus-* / Giratina          |    2 |  50.00% | 100.00% |
+| 6    | Arceus-* / Clefable / Giratina       |    2 |  50.00% | 100.00% |
+| 6    | Arceus-* / Rayquaza                  |    2 |  50.00% |  50.00% |
+| 6    | Arceus-* / Rayquaza / Yveltal        |    2 |  50.00% |   0.00% |
+| 6    | Arceus-* / Rayquaza / Groudon        |    2 |  50.00% |   0.00% |
+| 6    | Arceus-* / Rayquaza / Klefki         |    2 |  50.00% |   0.00% |
+| 6    | Arceus-* / Yveltal / Groudon         |    2 |  50.00% |   0.00% |
+| 6    | Arceus-* / Klefki / Yveltal          |    2 |  50.00% |   0.00% |
+| 6    | Arceus-* / Klefki / Groudon          |    2 |  50.00% |   0.00% |
+| 19   | Lugia / Tentacruel / Clefable        |    1 |  25.00% | 100.00% |
+| 19   | Lugia / Tentacruel / Giratina        |    1 |  25.00% | 100.00% |
+| 19   | Lugia / Tentacruel / Arceus-Steel    |    1 |  25.00% | 100.00% |
+| 19   | Tentacruel / Arceus-*                |    1 |  25.00% | 100.00% |
+| 19   | Tentacruel / Clefable / Giratina     |    1 |  25.00% | 100.00% |
+| 19   | Tentacruel / Arceus-Steel / Clefable |    1 |  25.00% | 100.00% |
+| 19   | Tentacruel / Arceus-Steel / Giratina |    1 |  25.00% | 100.00% |
+| 19   | Lugia / Arceus-*                     |    1 |  25.00% | 100.00% |
+| 19   | Lugia / Clefable / Giratina          |    1 |  25.00% | 100.00% |
+| 19   | Lugia / Arceus-Steel / Clefable      |    1 |  25.00% | 100.00% |
+| 19   | Lugia / Arceus-Steel / Giratina      |    1 |  25.00% | 100.00% |
+| 19   | Arceus-* / Clefable                  |    1 |  25.00% | 100.00% |
+| 19   | Arceus-* / Giratina                  |    1 |  25.00% | 100.00% |
+| 19   | Arceus-Steel / Clefable / Giratina   |    1 |  25.00% | 100.00% |
+| 19   | Xerneas-*                            |    1 |  25.00% | 100.00% |
+| 19   | Arceus-* / Yveltal                   |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Groudon                   |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Klefki                    |    1 |  25.00% |   0.00% |
+| 19   | Rayquaza / Yveltal / Groudon         |    1 |  25.00% |   0.00% |
+| 19   | Rayquaza / Yveltal / Klefki          |    1 |  25.00% |   0.00% |
+| 19   | Rayquaza / Yveltal / Arceus-Ground   |    1 |  25.00% |   0.00% |
+| 19   | Rayquaza / Groudon / Klefki          |    1 |  25.00% |   0.00% |
+| 19   | Rayquaza / Groudon / Arceus-Ground   |    1 |  25.00% |   0.00% |
+| 19   | Rayquaza / Klefki / Arceus-Ground    |    1 |  25.00% |   0.00% |
+| 19   | Klefki / Yveltal / Groudon           |    1 |  25.00% |   0.00% |
+| 19   | Arceus-Ground / Yveltal / Groudon    |    1 |  25.00% |   0.00% |
+| 19   | Klefki / Yveltal / Arceus-Ground     |    1 |  25.00% |   0.00% |
+| 19   | Klefki / Groudon / Arceus-Ground     |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Groudon / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 19   | Groudon / Diancie / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 19   | Groudon / Xerneas-* / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Groudon / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Groudon / Deoxys-Speed      |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Diancie / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Xerneas-* / Deoxys-Speed  |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Smeargle / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Smeargle / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 19   | Xerneas-* / Diancie / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Diancie / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Diancie / Deoxys-Speed      |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Xerneas-* / Deoxys-Speed  |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Xerneas-* / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Groudon / Diancie         |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Groudon / Xerneas-*       |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Arceus-* / Groudon        |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Arceus / Groudon          |    1 |  25.00% |   0.00% |
+| 19   | Groudon / Xerneas-* / Diancie        |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Groudon / Diancie         |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Groudon / Diancie           |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Groudon / Xerneas-*       |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Groudon / Xerneas-*         |    1 |  25.00% |   0.00% |
+| 19   | Smeargle / Xerneas-* / Diancie       |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Smeargle / Diancie        |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Smeargle / Diancie          |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Smeargle / Xerneas-*      |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Smeargle / Xerneas-*        |    1 |  25.00% |   0.00% |
+| 19   | Arceus-* / Xerneas-* / Diancie       |    1 |  25.00% |   0.00% |
+| 19   | Arceus / Xerneas-* / Diancie         |    1 |  25.00% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza / Xerneas-*                 |    9 | 225.00% | 100.00% |
+| 2    | Arceus-* / Xerneas-*                            |    5 | 125.00% | 100.00% |
+| 3    | Arceus-Ghost / Rayquaza / Xerneas-*             |    3 |  75.00% | 100.00% |
+| 4    | Lugia / Tentacruel / Clefable / Arceus-*        |    2 |  50.00% | 100.00% |
+| 4    | Lugia / Tentacruel / Arceus-* / Giratina        |    2 |  50.00% | 100.00% |
+| 4    | Tentacruel / Clefable / Arceus-* / Giratina     |    2 |  50.00% | 100.00% |
+| 4    | Lugia / Arceus-* / Clefable / Giratina          |    2 |  50.00% | 100.00% |
+| 4    | Arceus-* / Rayquaza / Yveltal / Groudon         |    2 |  50.00% |   0.00% |
+| 4    | Arceus-* / Rayquaza / Yveltal / Klefki          |    2 |  50.00% |   0.00% |
+| 4    | Arceus-* / Rayquaza / Groudon / Klefki          |    2 |  50.00% |   0.00% |
+| 4    | Arceus-* / Klefki / Yveltal / Groudon           |    2 |  50.00% |   0.00% |
+| 12   | Lugia / Tentacruel / Arceus-*                   |    1 |  25.00% | 100.00% |
+| 12   | Lugia / Tentacruel / Clefable / Giratina        |    1 |  25.00% | 100.00% |
+| 12   | Lugia / Tentacruel / Arceus-Steel / Clefable    |    1 |  25.00% | 100.00% |
+| 12   | Lugia / Tentacruel / Arceus-Steel / Giratina    |    1 |  25.00% | 100.00% |
+| 12   | Tentacruel / Clefable / Arceus-*                |    1 |  25.00% | 100.00% |
+| 12   | Tentacruel / Arceus-* / Giratina                |    1 |  25.00% | 100.00% |
+| 12   | Tentacruel / Arceus-Steel / Clefable / Giratina |    1 |  25.00% | 100.00% |
+| 12   | Lugia / Arceus-* / Clefable                     |    1 |  25.00% | 100.00% |
+| 12   | Lugia / Arceus-* / Giratina                     |    1 |  25.00% | 100.00% |
+| 12   | Lugia / Arceus-Steel / Clefable / Giratina      |    1 |  25.00% | 100.00% |
+| 12   | Arceus-* / Clefable / Giratina                  |    1 |  25.00% | 100.00% |
+| 12   | Rayquaza / Xerneas-*                            |    1 |  25.00% | 100.00% |
+| 12   | Arceus-Ghost / Xerneas-*                        |    1 |  25.00% | 100.00% |
+| 12   | Arceus-* / Rayquaza / Yveltal                   |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Rayquaza / Groudon                   |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Rayquaza / Klefki                    |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Yveltal / Groudon                    |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Klefki / Yveltal                     |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Klefki / Groudon                     |    1 |  25.00% |   0.00% |
+| 12   | Rayquaza / Yveltal / Klefki / Groudon           |    1 |  25.00% |   0.00% |
+| 12   | Rayquaza / Yveltal / Groudon / Arceus-Ground    |    1 |  25.00% |   0.00% |
+| 12   | Rayquaza / Yveltal / Klefki / Arceus-Ground     |    1 |  25.00% |   0.00% |
+| 12   | Rayquaza / Groudon / Klefki / Arceus-Ground     |    1 |  25.00% |   0.00% |
+| 12   | Klefki / Yveltal / Groudon / Arceus-Ground      |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Groudon / Diancie / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Groudon / Xerneas-* / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Arceus-* / Groudon / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Arceus / Groudon / Deoxys-Speed      |    1 |  25.00% |   0.00% |
+| 12   | Groudon / Xerneas-* / Diancie / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Groudon / Diancie / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 12   | Arceus / Groudon / Diancie / Deoxys-Speed       |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Groudon / Xerneas-* / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 12   | Arceus / Groudon / Xerneas-* / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Xerneas-* / Diancie / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Smeargle / Diancie / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 12   | Arceus / Smeargle / Diancie / Deoxys-Speed      |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Smeargle / Xerneas-* / Deoxys-Speed  |    1 |  25.00% |   0.00% |
+| 12   | Arceus / Smeargle / Xerneas-* / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Xerneas-* / Diancie / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 12   | Arceus / Xerneas-* / Diancie / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Groudon / Xerneas-* / Diancie        |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Arceus-* / Groudon / Diancie         |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Arceus / Groudon / Diancie           |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Arceus-* / Groudon / Xerneas-*       |    1 |  25.00% |   0.00% |
+| 12   | Smeargle / Arceus / Groudon / Xerneas-*         |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Groudon / Xerneas-* / Diancie        |    1 |  25.00% |   0.00% |
+| 12   | Arceus / Groudon / Xerneas-* / Diancie          |    1 |  25.00% |   0.00% |
+| 12   | Arceus-* / Smeargle / Xerneas-* / Diancie       |    1 |  25.00% |   0.00% |
+| 12   | Arceus / Smeargle / Xerneas-* / Diancie         |    1 |  25.00% |   0.00% |
+
++ ---- + -------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                              | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza / Xerneas-*                          |    5 | 125.00% | 100.00% |
+| 2    | Arceus-* / Lugia / Tentacruel / Clefable / Giratina      |    2 |  50.00% | 100.00% |
+| 2    | Arceus-* / Klefki / Groudon / Rayquaza / Yveltal         |    2 |  50.00% |   0.00% |
+| 4    | Lugia / Tentacruel / Clefable / Arceus-*                 |    1 |  25.00% | 100.00% |
+| 4    | Lugia / Tentacruel / Arceus-* / Giratina                 |    1 |  25.00% | 100.00% |
+| 4    | Lugia / Tentacruel / Clefable / Giratina / Arceus-Steel  |    1 |  25.00% | 100.00% |
+| 4    | Tentacruel / Clefable / Arceus-* / Giratina              |    1 |  25.00% | 100.00% |
+| 4    | Lugia / Arceus-* / Clefable / Giratina                   |    1 |  25.00% | 100.00% |
+| 4    | Arceus-Ghost / Rayquaza / Xerneas-*                      |    1 |  25.00% | 100.00% |
+| 4    | Arceus-* / Xerneas-*                                     |    1 |  25.00% | 100.00% |
+| 4    | Arceus-* / Rayquaza / Yveltal / Groudon                  |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Rayquaza / Yveltal / Klefki                   |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Rayquaza / Groudon / Klefki                   |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Klefki / Yveltal / Groudon                    |    1 |  25.00% |   0.00% |
+| 4    | Klefki / Groudon / Arceus-Ground / Rayquaza / Yveltal    |    1 |  25.00% |   0.00% |
+| 4    | Smeargle / Groudon / Xerneas-* / Diancie / Deoxys-Speed  |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Smeargle / Groudon / Diancie / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 4    | Smeargle / Groudon / Diancie / Arceus / Deoxys-Speed     |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Smeargle / Groudon / Xerneas-* / Deoxys-Speed |    1 |  25.00% |   0.00% |
+| 4    | Smeargle / Groudon / Xerneas-* / Arceus / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Groudon / Xerneas-* / Diancie / Deoxys-Speed  |    1 |  25.00% |   0.00% |
+| 4    | Groudon / Xerneas-* / Diancie / Arceus / Deoxys-Speed    |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Smeargle / Xerneas-* / Diancie / Deoxys-Speed |    1 |  25.00% |   0.00% |
+| 4    | Smeargle / Xerneas-* / Diancie / Arceus / Deoxys-Speed   |    1 |  25.00% |   0.00% |
+| 4    | Arceus-* / Smeargle / Groudon / Xerneas-* / Diancie      |    1 |  25.00% |   0.00% |
+| 4    | Smeargle / Groudon / Xerneas-* / Diancie / Arceus        |    1 |  25.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Arceus-* / Lugia / Tentacruel / Clefable / Giratina                |    1 |  25.00% | 100.00% |
+| 1    | Arceus-* / Rayquaza / Xerneas-*                                    |    1 |  25.00% | 100.00% |
+| 1    | Arceus-* / Klefki / Groudon / Rayquaza / Yveltal                   |    1 |  25.00% |   0.00% |
+| 1    | Arceus-* / Smeargle / Groudon / Xerneas-* / Diancie / Deoxys-Speed |    1 |  25.00% |   0.00% |
+| 1    | Smeargle / Groudon / Xerneas-* / Diancie / Arceus / Deoxys-Speed   |    1 |  25.00% |   0.00% |
