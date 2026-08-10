@@ -1,0 +1,462 @@
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| 1    | Silvally / Aerodactyl        |    3 |  37.50% |  66.67% |
+| 2    | Silvally / Decidueye         |    2 |  25.00% | 100.00% |
+| 2    | Decidueye / Aerodactyl       |    2 |  25.00% | 100.00% |
+| 2    | Guzzlord / Stakataka         |    2 |  25.00% | 100.00% |
+| 2    | Mudsdale / Sylveon           |    2 |  25.00% |  50.00% |
+| 2    | Rotom-Mow / Gastrodon        |    2 |  25.00% |  50.00% |
+| 2    | Scrafty / Aerodactyl         |    2 |  25.00% |  50.00% |
+| 2    | Salazzle / Aerodactyl        |    2 |  25.00% |  50.00% |
+| 2    | Scrafty / Salazzle           |    2 |  25.00% |  50.00% |
+| 2    | Escavalier / Rotom-Mow       |    2 |  25.00% |   0.00% |
+| 11   | Decidueye / Heliolisk        |    1 |  12.50% | 100.00% |
+| 11   | Sylveon / Heliolisk          |    1 |  12.50% | 100.00% |
+| 11   | Mudsdale / Heliolisk         |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Heliolisk         |    1 |  12.50% | 100.00% |
+| 11   | Heliolisk / Aerodactyl       |    1 |  12.50% | 100.00% |
+| 11   | Decidueye / Sylveon          |    1 |  12.50% | 100.00% |
+| 11   | Mudsdale / Decidueye         |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Sylveon           |    1 |  12.50% | 100.00% |
+| 11   | Sylveon / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 11   | Mudsdale / Silvally          |    1 |  12.50% | 100.00% |
+| 11   | Mudsdale / Aerodactyl        |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Guzzlord          |    1 |  12.50% | 100.00% |
+| 11   | Guzzlord / Gastrodon         |    1 |  12.50% | 100.00% |
+| 11   | Guzzlord / Vileplume         |    1 |  12.50% | 100.00% |
+| 11   | Guzzlord / Rotom-Mow         |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Stakataka         |    1 |  12.50% | 100.00% |
+| 11   | Stakataka / Gastrodon        |    1 |  12.50% | 100.00% |
+| 11   | Vileplume / Stakataka        |    1 |  12.50% | 100.00% |
+| 11   | Stakataka / Rotom-Mow        |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Gastrodon         |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Vileplume         |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Rotom-Mow         |    1 |  12.50% | 100.00% |
+| 11   | Vileplume / Gastrodon        |    1 |  12.50% | 100.00% |
+| 11   | Vileplume / Rotom-Mow        |    1 |  12.50% | 100.00% |
+| 11   | Guzzlord / Articuno          |    1 |  12.50% | 100.00% |
+| 11   | Stakataka / Articuno         |    1 |  12.50% | 100.00% |
+| 11   | Garbodor / Articuno          |    1 |  12.50% | 100.00% |
+| 11   | Xatu / Articuno              |    1 |  12.50% | 100.00% |
+| 11   | Quagsire / Articuno          |    1 |  12.50% | 100.00% |
+| 11   | Guzzlord / Garbodor          |    1 |  12.50% | 100.00% |
+| 11   | Guzzlord / Xatu              |    1 |  12.50% | 100.00% |
+| 11   | Quagsire / Guzzlord          |    1 |  12.50% | 100.00% |
+| 11   | Garbodor / Stakataka         |    1 |  12.50% | 100.00% |
+| 11   | Xatu / Stakataka             |    1 |  12.50% | 100.00% |
+| 11   | Quagsire / Stakataka         |    1 |  12.50% | 100.00% |
+| 11   | Xatu / Garbodor              |    1 |  12.50% | 100.00% |
+| 11   | Quagsire / Garbodor          |    1 |  12.50% | 100.00% |
+| 11   | Quagsire / Xatu              |    1 |  12.50% | 100.00% |
+| 11   | Froslass / Decidueye         |    1 |  12.50% | 100.00% |
+| 11   | Froslass / Silvally          |    1 |  12.50% | 100.00% |
+| 11   | Froslass / Aerodactyl        |    1 |  12.50% | 100.00% |
+| 11   | Froslass / Scrafty           |    1 |  12.50% | 100.00% |
+| 11   | Froslass / Salazzle          |    1 |  12.50% | 100.00% |
+| 11   | Scrafty / Decidueye          |    1 |  12.50% | 100.00% |
+| 11   | Salazzle / Decidueye         |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Scrafty           |    1 |  12.50% | 100.00% |
+| 11   | Silvally / Salazzle          |    1 |  12.50% | 100.00% |
+| 11   | Dhelmise / Thwackey          |    1 |  12.50% |   0.00% |
+| 11   | Xatu / Thwackey              |    1 |  12.50% |   0.00% |
+| 11   | Diancie / Thwackey           |    1 |  12.50% |   0.00% |
+| 11   | Golurk / Thwackey            |    1 |  12.50% |   0.00% |
+| 11   | Uxie / Thwackey              |    1 |  12.50% |   0.00% |
+| 11   | Dhelmise / Xatu              |    1 |  12.50% |   0.00% |
+| 11   | Diancie / Dhelmise           |    1 |  12.50% |   0.00% |
+| 11   | Dhelmise / Golurk            |    1 |  12.50% |   0.00% |
+| 11   | Uxie / Dhelmise              |    1 |  12.50% |   0.00% |
+| 11   | Diancie / Xatu               |    1 |  12.50% |   0.00% |
+| 11   | Xatu / Golurk                |    1 |  12.50% |   0.00% |
+| 11   | Uxie / Xatu                  |    1 |  12.50% |   0.00% |
+| 11   | Diancie / Golurk             |    1 |  12.50% |   0.00% |
+| 11   | Uxie / Diancie               |    1 |  12.50% |   0.00% |
+| 11   | Uxie / Golurk                |    1 |  12.50% |   0.00% |
+| 11   | Weezing / Snorlax            |    1 |  12.50% |   0.00% |
+| 11   | Mudsdale / Weezing           |    1 |  12.50% |   0.00% |
+| 11   | Weezing / Sylveon            |    1 |  12.50% |   0.00% |
+| 11   | Weezing / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 11   | Weezing / Escavalier         |    1 |  12.50% |   0.00% |
+| 11   | Mudsdale / Snorlax           |    1 |  12.50% |   0.00% |
+| 11   | Sylveon / Snorlax            |    1 |  12.50% |   0.00% |
+| 11   | Snorlax / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 11   | Snorlax / Escavalier         |    1 |  12.50% |   0.00% |
+| 11   | Mudsdale / Rotom-Mow         |    1 |  12.50% |   0.00% |
+| 11   | Mudsdale / Escavalier        |    1 |  12.50% |   0.00% |
+| 11   | Sylveon / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 11   | Sylveon / Escavalier         |    1 |  12.50% |   0.00% |
+| 11   | Silvally / Exeggutor-Alola   |    1 |  12.50% |   0.00% |
+| 11   | Silvally / Copperajah        |    1 |  12.50% |   0.00% |
+| 11   | Silvally / Vaporeon          |    1 |  12.50% |   0.00% |
+| 11   | Silvally / Weezing           |    1 |  12.50% |   0.00% |
+| 11   | Exeggutor-Alola / Aerodactyl |    1 |  12.50% |   0.00% |
+| 11   | Exeggutor-Alola / Copperajah |    1 |  12.50% |   0.00% |
+| 11   | Exeggutor-Alola / Vaporeon   |    1 |  12.50% |   0.00% |
+| 11   | Exeggutor-Alola / Weezing    |    1 |  12.50% |   0.00% |
+| 11   | Copperajah / Aerodactyl      |    1 |  12.50% |   0.00% |
+| 11   | Vaporeon / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 11   | Weezing / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 11   | Copperajah / Vaporeon        |    1 |  12.50% |   0.00% |
+| 11   | Copperajah / Weezing         |    1 |  12.50% |   0.00% |
+| 11   | Weezing / Vaporeon           |    1 |  12.50% |   0.00% |
+| 11   | Scrafty / Escavalier         |    1 |  12.50% |   0.00% |
+| 11   | Scrafty / Gastrodon          |    1 |  12.50% |   0.00% |
+| 11   | Scrafty / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 11   | Escavalier / Aerodactyl      |    1 |  12.50% |   0.00% |
+| 11   | Escavalier / Gastrodon       |    1 |  12.50% |   0.00% |
+| 11   | Salazzle / Escavalier        |    1 |  12.50% |   0.00% |
+| 11   | Gastrodon / Aerodactyl       |    1 |  12.50% |   0.00% |
+| 11   | Rotom-Mow / Aerodactyl       |    1 |  12.50% |   0.00% |
+| 11   | Salazzle / Gastrodon         |    1 |  12.50% |   0.00% |
+| 11   | Salazzle / Rotom-Mow         |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Silvally / Decidueye / Aerodactyl         |    2 |  25.00% | 100.00% |
+| 1    | Scrafty / Salazzle / Aerodactyl           |    2 |  25.00% |  50.00% |
+| 3    | Decidueye / Sylveon / Heliolisk           |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Decidueye / Heliolisk          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Decidueye / Heliolisk          |    1 |  12.50% | 100.00% |
+| 3    | Decidueye / Heliolisk / Aerodactyl        |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Sylveon / Heliolisk            |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Sylveon / Heliolisk            |    1 |  12.50% | 100.00% |
+| 3    | Sylveon / Heliolisk / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Heliolisk / Silvally           |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Heliolisk / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Heliolisk / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Decidueye / Sylveon            |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Decidueye / Sylveon            |    1 |  12.50% | 100.00% |
+| 3    | Decidueye / Sylveon / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Decidueye / Silvally           |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Decidueye / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Sylveon / Silvally             |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Sylveon / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Sylveon / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Silvally / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Guzzlord / Stakataka           |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Stakataka / Gastrodon          |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Vileplume / Stakataka          |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Stakataka / Rotom-Mow          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Guzzlord / Gastrodon           |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Guzzlord / Vileplume           |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Guzzlord / Rotom-Mow           |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Vileplume / Gastrodon          |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Mow / Guzzlord / Gastrodon          |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Vileplume / Rotom-Mow          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Stakataka / Gastrodon          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Vileplume / Stakataka          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Stakataka / Rotom-Mow          |    1 |  12.50% | 100.00% |
+| 3    | Vileplume / Stakataka / Gastrodon         |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Mow / Stakataka / Gastrodon         |    1 |  12.50% | 100.00% |
+| 3    | Vileplume / Stakataka / Rotom-Mow         |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Vileplume / Gastrodon          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Rotom-Mow / Gastrodon          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Vileplume / Rotom-Mow          |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Mow / Vileplume / Gastrodon         |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Stakataka / Articuno           |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Garbodor / Articuno            |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Xatu / Articuno                |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Guzzlord / Articuno            |    1 |  12.50% | 100.00% |
+| 3    | Garbodor / Stakataka / Articuno           |    1 |  12.50% | 100.00% |
+| 3    | Xatu / Stakataka / Articuno               |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Stakataka / Articuno           |    1 |  12.50% | 100.00% |
+| 3    | Xatu / Garbodor / Articuno                |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Garbodor / Articuno            |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Xatu / Articuno                |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Garbodor / Stakataka           |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Stakataka / Xatu               |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Guzzlord / Stakataka           |    1 |  12.50% | 100.00% |
+| 3    | Guzzlord / Garbodor / Xatu                |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Guzzlord / Garbodor            |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Guzzlord / Xatu                |    1 |  12.50% | 100.00% |
+| 3    | Xatu / Garbodor / Stakataka               |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Garbodor / Stakataka           |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Xatu / Stakataka               |    1 |  12.50% | 100.00% |
+| 3    | Quagsire / Xatu / Garbodor                |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Silvally / Decidueye           |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Decidueye / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Scrafty / Decidueye            |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Salazzle / Decidueye           |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Silvally / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Silvally / Scrafty             |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Silvally / Salazzle            |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Scrafty / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Salazzle / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 3    | Froslass / Scrafty / Salazzle             |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Scrafty / Decidueye            |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Salazzle / Decidueye           |    1 |  12.50% | 100.00% |
+| 3    | Scrafty / Decidueye / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 3    | Salazzle / Decidueye / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 3    | Scrafty / Decidueye / Salazzle            |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Scrafty / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Salazzle / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 3    | Silvally / Scrafty / Salazzle             |    1 |  12.50% | 100.00% |
+| 3    | Dhelmise / Thwackey / Xatu                |    1 |  12.50% |   0.00% |
+| 3    | Diancie / Dhelmise / Thwackey             |    1 |  12.50% |   0.00% |
+| 3    | Dhelmise / Golurk / Thwackey              |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Dhelmise / Thwackey                |    1 |  12.50% |   0.00% |
+| 3    | Diancie / Xatu / Thwackey                 |    1 |  12.50% |   0.00% |
+| 3    | Xatu / Golurk / Thwackey                  |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Xatu / Thwackey                    |    1 |  12.50% |   0.00% |
+| 3    | Diancie / Golurk / Thwackey               |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Diancie / Thwackey                 |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Golurk / Thwackey                  |    1 |  12.50% |   0.00% |
+| 3    | Diancie / Dhelmise / Xatu                 |    1 |  12.50% |   0.00% |
+| 3    | Dhelmise / Golurk / Xatu                  |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Dhelmise / Xatu                    |    1 |  12.50% |   0.00% |
+| 3    | Diancie / Dhelmise / Golurk               |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Diancie / Dhelmise                 |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Dhelmise / Golurk                  |    1 |  12.50% |   0.00% |
+| 3    | Diancie / Xatu / Golurk                   |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Diancie / Xatu                     |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Xatu / Golurk                      |    1 |  12.50% |   0.00% |
+| 3    | Uxie / Diancie / Golurk                   |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Weezing / Snorlax              |    1 |  12.50% |   0.00% |
+| 3    | Weezing / Sylveon / Snorlax               |    1 |  12.50% |   0.00% |
+| 3    | Weezing / Snorlax / Rotom-Mow             |    1 |  12.50% |   0.00% |
+| 3    | Weezing / Snorlax / Escavalier            |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Weezing / Sylveon              |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Weezing / Rotom-Mow            |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Weezing / Escavalier           |    1 |  12.50% |   0.00% |
+| 3    | Weezing / Sylveon / Rotom-Mow             |    1 |  12.50% |   0.00% |
+| 3    | Weezing / Sylveon / Escavalier            |    1 |  12.50% |   0.00% |
+| 3    | Weezing / Escavalier / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Sylveon / Snorlax              |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Snorlax / Rotom-Mow            |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Snorlax / Escavalier           |    1 |  12.50% |   0.00% |
+| 3    | Sylveon / Snorlax / Rotom-Mow             |    1 |  12.50% |   0.00% |
+| 3    | Sylveon / Snorlax / Escavalier            |    1 |  12.50% |   0.00% |
+| 3    | Escavalier / Snorlax / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Sylveon / Rotom-Mow            |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Sylveon / Escavalier           |    1 |  12.50% |   0.00% |
+| 3    | Mudsdale / Escavalier / Rotom-Mow         |    1 |  12.50% |   0.00% |
+| 3    | Sylveon / Escavalier / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Exeggutor-Alola / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Copperajah / Exeggutor-Alola   |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Exeggutor-Alola / Vaporeon     |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Weezing / Exeggutor-Alola      |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Copperajah / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Vaporeon / Aerodactyl          |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Weezing / Aerodactyl           |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Copperajah / Vaporeon          |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Copperajah / Weezing           |    1 |  12.50% |   0.00% |
+| 3    | Silvally / Weezing / Vaporeon             |    1 |  12.50% |   0.00% |
+| 3    | Exeggutor-Alola / Copperajah / Aerodactyl |    1 |  12.50% |   0.00% |
+| 3    | Exeggutor-Alola / Vaporeon / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 3    | Exeggutor-Alola / Weezing / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 3    | Exeggutor-Alola / Copperajah / Vaporeon   |    1 |  12.50% |   0.00% |
+| 3    | Exeggutor-Alola / Copperajah / Weezing    |    1 |  12.50% |   0.00% |
+| 3    | Exeggutor-Alola / Weezing / Vaporeon      |    1 |  12.50% |   0.00% |
+| 3    | Copperajah / Vaporeon / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 3    | Copperajah / Weezing / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 3    | Weezing / Vaporeon / Aerodactyl           |    1 |  12.50% |   0.00% |
+| 3    | Copperajah / Weezing / Vaporeon           |    1 |  12.50% |   0.00% |
+| 3    | Scrafty / Escavalier / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 3    | Scrafty / Escavalier / Gastrodon          |    1 |  12.50% |   0.00% |
+| 3    | Scrafty / Escavalier / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 3    | Scrafty / Escavalier / Salazzle           |    1 |  12.50% |   0.00% |
+| 3    | Scrafty / Gastrodon / Aerodactyl          |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Mow / Scrafty / Aerodactyl          |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Mow / Scrafty / Gastrodon           |    1 |  12.50% |   0.00% |
+| 3    | Scrafty / Salazzle / Gastrodon            |    1 |  12.50% |   0.00% |
+| 3    | Scrafty / Salazzle / Rotom-Mow            |    1 |  12.50% |   0.00% |
+| 3    | Gastrodon / Escavalier / Aerodactyl       |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Mow / Escavalier / Aerodactyl       |    1 |  12.50% |   0.00% |
+| 3    | Salazzle / Escavalier / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Mow / Escavalier / Gastrodon        |    1 |  12.50% |   0.00% |
+| 3    | Salazzle / Escavalier / Gastrodon         |    1 |  12.50% |   0.00% |
+| 3    | Salazzle / Escavalier / Rotom-Mow         |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Mow / Gastrodon / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 3    | Salazzle / Gastrodon / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Mow / Salazzle / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Mow / Salazzle / Gastrodon          |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Mudsdale / Decidueye / Sylveon / Heliolisk           |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Decidueye / Sylveon / Heliolisk           |    1 |  12.50% | 100.00% |
+| 1    | Decidueye / Sylveon / Heliolisk / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Heliolisk / Silvally          |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Heliolisk / Aerodactyl        |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Decidueye / Heliolisk / Aerodactyl        |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Sylveon / Heliolisk / Silvally            |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Sylveon / Heliolisk / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Sylveon / Heliolisk / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Heliolisk / Silvally / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Sylveon / Silvally            |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Sylveon / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Decidueye / Sylveon / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Silvally / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Sylveon / Silvally / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Guzzlord / Stakataka / Gastrodon          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Guzzlord / Vileplume / Stakataka          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Guzzlord / Stakataka / Rotom-Mow          |    1 |  12.50% | 100.00% |
+| 1    | Guzzlord / Vileplume / Stakataka / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Mow / Guzzlord / Stakataka / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Guzzlord / Vileplume / Stakataka / Rotom-Mow         |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Guzzlord / Vileplume / Gastrodon          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Guzzlord / Rotom-Mow / Gastrodon          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Guzzlord / Vileplume / Rotom-Mow          |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Mow / Guzzlord / Vileplume / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Vileplume / Stakataka / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Stakataka / Rotom-Mow / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Vileplume / Stakataka / Rotom-Mow         |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Mow / Vileplume / Stakataka / Gastrodon        |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Vileplume / Rotom-Mow / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Guzzlord / Garbodor / Stakataka / Articuno           |    1 |  12.50% | 100.00% |
+| 1    | Xatu / Guzzlord / Stakataka / Articuno               |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Guzzlord / Stakataka / Articuno           |    1 |  12.50% | 100.00% |
+| 1    | Guzzlord / Garbodor / Xatu / Articuno                |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Guzzlord / Garbodor / Articuno            |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Guzzlord / Xatu / Articuno                |    1 |  12.50% | 100.00% |
+| 1    | Xatu / Garbodor / Stakataka / Articuno               |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Garbodor / Stakataka / Articuno           |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Xatu / Stakataka / Articuno               |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Xatu / Garbodor / Articuno                |    1 |  12.50% | 100.00% |
+| 1    | Guzzlord / Garbodor / Stakataka / Xatu               |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Guzzlord / Garbodor / Stakataka           |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Guzzlord / Stakataka / Xatu               |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Guzzlord / Garbodor / Xatu                |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Xatu / Garbodor / Stakataka               |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Silvally / Decidueye / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Silvally / Scrafty / Decidueye            |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Silvally / Salazzle / Decidueye           |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Scrafty / Decidueye / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Salazzle / Decidueye / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Scrafty / Decidueye / Salazzle            |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Silvally / Scrafty / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Silvally / Salazzle / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Silvally / Scrafty / Salazzle             |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Scrafty / Salazzle / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Scrafty / Decidueye / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Salazzle / Decidueye / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Scrafty / Decidueye / Salazzle            |    1 |  12.50% | 100.00% |
+| 1    | Scrafty / Decidueye / Salazzle / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Silvally / Scrafty / Salazzle / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 1    | Diancie / Dhelmise / Thwackey / Xatu                 |    1 |  12.50% |   0.00% |
+| 1    | Dhelmise / Golurk / Thwackey / Xatu                  |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Dhelmise / Thwackey / Xatu                    |    1 |  12.50% |   0.00% |
+| 1    | Diancie / Dhelmise / Golurk / Thwackey               |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Diancie / Dhelmise / Thwackey                 |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Dhelmise / Golurk / Thwackey                  |    1 |  12.50% |   0.00% |
+| 1    | Diancie / Xatu / Golurk / Thwackey                   |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Diancie / Xatu / Thwackey                     |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Xatu / Golurk / Thwackey                      |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Diancie / Golurk / Thwackey                   |    1 |  12.50% |   0.00% |
+| 1    | Diancie / Dhelmise / Golurk / Xatu                   |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Diancie / Dhelmise / Xatu                     |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Dhelmise / Golurk / Xatu                      |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Diancie / Dhelmise / Golurk                   |    1 |  12.50% |   0.00% |
+| 1    | Uxie / Diancie / Xatu / Golurk                       |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Weezing / Sylveon / Snorlax               |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Weezing / Snorlax / Rotom-Mow             |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Weezing / Snorlax / Escavalier            |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Sylveon / Snorlax / Rotom-Mow              |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Sylveon / Snorlax / Escavalier             |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Snorlax / Escavalier / Rotom-Mow           |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Weezing / Sylveon / Rotom-Mow             |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Weezing / Sylveon / Escavalier            |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Weezing / Escavalier / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Sylveon / Escavalier / Rotom-Mow           |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Sylveon / Snorlax / Rotom-Mow             |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Sylveon / Snorlax / Escavalier            |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Escavalier / Snorlax / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 1    | Escavalier / Sylveon / Snorlax / Rotom-Mow           |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Sylveon / Escavalier / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Copperajah / Exeggutor-Alola / Aerodactyl |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Exeggutor-Alola / Vaporeon / Aerodactyl   |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Weezing / Exeggutor-Alola / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Copperajah / Exeggutor-Alola / Vaporeon   |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Copperajah / Weezing / Exeggutor-Alola    |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Weezing / Exeggutor-Alola / Vaporeon      |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Copperajah / Vaporeon / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Copperajah / Weezing / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Weezing / Vaporeon / Aerodactyl           |    1 |  12.50% |   0.00% |
+| 1    | Silvally / Copperajah / Weezing / Vaporeon           |    1 |  12.50% |   0.00% |
+| 1    | Exeggutor-Alola / Copperajah / Vaporeon / Aerodactyl |    1 |  12.50% |   0.00% |
+| 1    | Exeggutor-Alola / Copperajah / Weezing / Aerodactyl  |    1 |  12.50% |   0.00% |
+| 1    | Exeggutor-Alola / Weezing / Vaporeon / Aerodactyl    |    1 |  12.50% |   0.00% |
+| 1    | Exeggutor-Alola / Copperajah / Weezing / Vaporeon    |    1 |  12.50% |   0.00% |
+| 1    | Copperajah / Weezing / Vaporeon / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 1    | Gastrodon / Scrafty / Escavalier / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Scrafty / Escavalier / Aerodactyl        |    1 |  12.50% |   0.00% |
+| 1    | Scrafty / Escavalier / Salazzle / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Scrafty / Escavalier / Gastrodon         |    1 |  12.50% |   0.00% |
+| 1    | Scrafty / Escavalier / Salazzle / Gastrodon          |    1 |  12.50% |   0.00% |
+| 1    | Scrafty / Escavalier / Salazzle / Rotom-Mow          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Scrafty / Gastrodon / Aerodactyl         |    1 |  12.50% |   0.00% |
+| 1    | Scrafty / Gastrodon / Salazzle / Aerodactyl          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Scrafty / Salazzle / Aerodactyl          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Scrafty / Salazzle / Gastrodon           |    1 |  12.50% |   0.00% |
+| 1    | Gastrodon / Escavalier / Rotom-Mow / Aerodactyl      |    1 |  12.50% |   0.00% |
+| 1    | Gastrodon / Salazzle / Escavalier / Aerodactyl       |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Escavalier / Aerodactyl       |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Escavalier / Gastrodon        |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Gastrodon / Aerodactyl        |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Mudsdale / Decidueye / Silvally / Sylveon / Heliolisk           |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Sylveon / Aerodactyl / Heliolisk         |    1 |  12.50% | 100.00% |
+| 1    | Decidueye / Silvally / Sylveon / Aerodactyl / Heliolisk         |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Silvally / Aerodactyl / Heliolisk        |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Silvally / Sylveon / Aerodactyl / Heliolisk          |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Decidueye / Silvally / Sylveon / Aerodactyl          |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Guzzlord / Silvally / Stakataka / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Mow / Guzzlord / Silvally / Stakataka / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Rotom-Mow / Guzzlord / Silvally / Stakataka         |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Rotom-Mow / Guzzlord / Stakataka / Gastrodon        |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Rotom-Mow / Guzzlord / Silvally / Gastrodon         |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Rotom-Mow / Silvally / Stakataka / Gastrodon        |    1 |  12.50% | 100.00% |
+| 1    | Garbodor / Guzzlord / Stakataka / Xatu / Articuno               |    1 |  12.50% | 100.00% |
+| 1    | Garbodor / Quagsire / Guzzlord / Stakataka / Articuno           |    1 |  12.50% | 100.00% |
+| 1    | Quagsire / Guzzlord / Stakataka / Xatu / Articuno               |    1 |  12.50% | 100.00% |
+| 1    | Garbodor / Quagsire / Guzzlord / Xatu / Articuno                |    1 |  12.50% | 100.00% |
+| 1    | Garbodor / Quagsire / Stakataka / Xatu / Articuno               |    1 |  12.50% | 100.00% |
+| 1    | Garbodor / Quagsire / Guzzlord / Stakataka / Xatu               |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Decidueye / Silvally / Aerodactyl / Scrafty          |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Salazzle / Decidueye / Silvally / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Salazzle / Decidueye / Silvally / Scrafty            |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Salazzle / Decidueye / Aerodactyl / Scrafty          |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Salazzle / Silvally / Aerodactyl / Scrafty           |    1 |  12.50% | 100.00% |
+| 1    | Salazzle / Decidueye / Silvally / Aerodactyl / Scrafty          |    1 |  12.50% | 100.00% |
+| 1    | Golurk / Thwackey / Dhelmise / Diancie / Xatu                   |    1 |  12.50% |   0.00% |
+| 1    | Thwackey / Dhelmise / Uxie / Diancie / Xatu                     |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Thwackey / Dhelmise / Uxie / Xatu                      |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Thwackey / Dhelmise / Uxie / Diancie                   |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Thwackey / Uxie / Diancie / Xatu                       |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Dhelmise / Uxie / Diancie / Xatu                       |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Rotom-Mow / Snorlax / Weezing / Sylveon              |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Snorlax / Escavalier / Weezing / Sylveon             |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Rotom-Mow / Snorlax / Escavalier / Weezing           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Snorlax / Escavalier / Weezing / Sylveon            |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Rotom-Mow / Escavalier / Weezing / Sylveon           |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Rotom-Mow / Escavalier / Snorlax / Sylveon           |    1 |  12.50% |   0.00% |
+| 1    | Vaporeon / Exeggutor-Alola / Silvally / Aerodactyl / Copperajah |    1 |  12.50% |   0.00% |
+| 1    | Exeggutor-Alola / Silvally / Weezing / Aerodactyl / Copperajah  |    1 |  12.50% |   0.00% |
+| 1    | Vaporeon / Silvally / Weezing / Aerodactyl / Exeggutor-Alola    |    1 |  12.50% |   0.00% |
+| 1    | Vaporeon / Exeggutor-Alola / Silvally / Weezing / Copperajah    |    1 |  12.50% |   0.00% |
+| 1    | Vaporeon / Silvally / Weezing / Aerodactyl / Copperajah         |    1 |  12.50% |   0.00% |
+| 1    | Vaporeon / Copperajah / Weezing / Aerodactyl / Exeggutor-Alola  |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Escavalier / Aerodactyl / Scrafty / Gastrodon       |    1 |  12.50% |   0.00% |
+| 1    | Salazzle / Escavalier / Aerodactyl / Scrafty / Gastrodon        |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Escavalier / Aerodactyl / Scrafty        |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Escavalier / Scrafty / Gastrodon         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Aerodactyl / Scrafty / Gastrodon         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Escavalier / Aerodactyl / Gastrodon      |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                               | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Mudsdale / Decidueye / Silvally / Sylveon / Aerodactyl / Heliolisk        |    1 |  12.50% | 100.00% |
+| 1    | Vileplume / Rotom-Mow / Guzzlord / Silvally / Stakataka / Gastrodon       |    1 |  12.50% | 100.00% |
+| 1    | Garbodor / Quagsire / Guzzlord / Stakataka / Xatu / Articuno              |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Salazzle / Decidueye / Silvally / Aerodactyl / Scrafty         |    1 |  12.50% | 100.00% |
+| 1    | Golurk / Thwackey / Dhelmise / Uxie / Diancie / Xatu                      |    1 |  12.50% |   0.00% |
+| 1    | Mudsdale / Rotom-Mow / Snorlax / Escavalier / Weezing / Sylveon           |    1 |  12.50% |   0.00% |
+| 1    | Vaporeon / Exeggutor-Alola / Silvally / Weezing / Aerodactyl / Copperajah |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Mow / Salazzle / Escavalier / Aerodactyl / Scrafty / Gastrodon      |    1 |  12.50% |   0.00% |
