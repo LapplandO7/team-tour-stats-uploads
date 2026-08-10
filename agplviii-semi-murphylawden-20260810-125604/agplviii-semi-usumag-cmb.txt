@@ -1,0 +1,160 @@
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza                |    3 | 150.00% |  66.67% |
+| 1    | Arceus-* / Groudon                 |    3 | 150.00% |  66.67% |
+| 3    | Arceus-* / Necrozma-Dusk-Mane      |    2 | 100.00% | 100.00% |
+| 3    | Arceus-* / Ho-Oh                   |    2 | 100.00% | 100.00% |
+| 3    | Rayquaza / Groudon                 |    2 | 100.00% |  50.00% |
+| 6    | Rayquaza / Necrozma-Dusk-Mane      |    1 |  50.00% | 100.00% |
+| 6    | Rayquaza / Ho-Oh                   |    1 |  50.00% | 100.00% |
+| 6    | Rayquaza / Arceus-Ground           |    1 |  50.00% | 100.00% |
+| 6    | Arceus-*                           |    1 |  50.00% | 100.00% |
+| 6    | Necrozma-Dusk-Mane / Ho-Oh         |    1 |  50.00% | 100.00% |
+| 6    | Necrozma-Dusk-Mane / Groudon       |    1 |  50.00% | 100.00% |
+| 6    | Necrozma-Dusk-Mane / Arceus-Ground |    1 |  50.00% | 100.00% |
+| 6    | Groudon / Ho-Oh                    |    1 |  50.00% | 100.00% |
+| 6    | Arceus-Ground / Ho-Oh              |    1 |  50.00% | 100.00% |
+| 6    | Arceus-Ground / Groudon            |    1 |  50.00% | 100.00% |
+| 6    | Rayquaza / Marshadow               |    1 |  50.00% |   0.00% |
+| 6    | Rayquaza / Zygarde                 |    1 |  50.00% |   0.00% |
+| 6    | Rayquaza / Celesteela              |    1 |  50.00% |   0.00% |
+| 6    | Arceus-Fairy / Rayquaza            |    1 |  50.00% |   0.00% |
+| 6    | Zygarde / Marshadow                |    1 |  50.00% |   0.00% |
+| 6    | Groudon / Marshadow                |    1 |  50.00% |   0.00% |
+| 6    | Celesteela / Marshadow             |    1 |  50.00% |   0.00% |
+| 6    | Arceus-* / Marshadow               |    1 |  50.00% |   0.00% |
+| 6    | Arceus-Fairy / Marshadow           |    1 |  50.00% |   0.00% |
+| 6    | Groudon / Zygarde                  |    1 |  50.00% |   0.00% |
+| 6    | Celesteela / Zygarde               |    1 |  50.00% |   0.00% |
+| 6    | Arceus-* / Zygarde                 |    1 |  50.00% |   0.00% |
+| 6    | Arceus-Fairy / Zygarde             |    1 |  50.00% |   0.00% |
+| 6    | Groudon / Celesteela               |    1 |  50.00% |   0.00% |
+| 6    | Arceus-Fairy / Groudon             |    1 |  50.00% |   0.00% |
+| 6    | Arceus-* / Celesteela              |    1 |  50.00% |   0.00% |
+| 6    | Arceus-Fairy / Celesteela          |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                   | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza / Groudon                 |    3 | 150.00% |  66.67% |
+| 2    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane      |    2 | 100.00% | 100.00% |
+| 2    | Arceus-* / Rayquaza / Ho-Oh                   |    2 | 100.00% | 100.00% |
+| 2    | Arceus-* / Necrozma-Dusk-Mane / Ho-Oh         |    2 | 100.00% | 100.00% |
+| 2    | Arceus-* / Necrozma-Dusk-Mane / Groudon       |    2 | 100.00% | 100.00% |
+| 2    | Arceus-* / Groudon / Ho-Oh                    |    2 | 100.00% | 100.00% |
+| 7    | Arceus-* / Rayquaza                           |    1 |  50.00% | 100.00% |
+| 7    | Rayquaza / Necrozma-Dusk-Mane / Ho-Oh         |    1 |  50.00% | 100.00% |
+| 7    | Rayquaza / Necrozma-Dusk-Mane / Groudon       |    1 |  50.00% | 100.00% |
+| 7    | Rayquaza / Necrozma-Dusk-Mane / Arceus-Ground |    1 |  50.00% | 100.00% |
+| 7    | Rayquaza / Groudon / Ho-Oh                    |    1 |  50.00% | 100.00% |
+| 7    | Rayquaza / Arceus-Ground / Ho-Oh              |    1 |  50.00% | 100.00% |
+| 7    | Rayquaza / Groudon / Arceus-Ground            |    1 |  50.00% | 100.00% |
+| 7    | Arceus-* / Necrozma-Dusk-Mane                 |    1 |  50.00% | 100.00% |
+| 7    | Arceus-* / Ho-Oh                              |    1 |  50.00% | 100.00% |
+| 7    | Arceus-* / Groudon                            |    1 |  50.00% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Groudon / Ho-Oh          |    1 |  50.00% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Arceus-Ground / Ho-Oh    |    1 |  50.00% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Groudon / Arceus-Ground  |    1 |  50.00% | 100.00% |
+| 7    | Arceus-Ground / Groudon / Ho-Oh               |    1 |  50.00% | 100.00% |
+| 7    | Rayquaza / Zygarde / Marshadow                |    1 |  50.00% |   0.00% |
+| 7    | Rayquaza / Groudon / Marshadow                |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Rayquaza / Marshadow             |    1 |  50.00% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Marshadow               |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Rayquaza / Marshadow           |    1 |  50.00% |   0.00% |
+| 7    | Rayquaza / Groudon / Zygarde                  |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Rayquaza / Zygarde               |    1 |  50.00% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Zygarde                 |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Rayquaza / Zygarde             |    1 |  50.00% |   0.00% |
+| 7    | Rayquaza / Groudon / Celesteela               |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Rayquaza / Groudon             |    1 |  50.00% |   0.00% |
+| 7    | Arceus-* / Rayquaza / Celesteela              |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Rayquaza / Celesteela          |    1 |  50.00% |   0.00% |
+| 7    | Groudon / Zygarde / Marshadow                 |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Zygarde / Marshadow              |    1 |  50.00% |   0.00% |
+| 7    | Arceus-* / Zygarde / Marshadow                |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Zygarde / Marshadow            |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Groudon / Marshadow              |    1 |  50.00% |   0.00% |
+| 7    | Arceus-* / Groudon / Marshadow                |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Groudon / Marshadow            |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Arceus-* / Marshadow             |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Arceus-Fairy / Marshadow         |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Groudon / Zygarde                |    1 |  50.00% |   0.00% |
+| 7    | Arceus-* / Groudon / Zygarde                  |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Groudon / Zygarde              |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Arceus-* / Zygarde               |    1 |  50.00% |   0.00% |
+| 7    | Celesteela / Arceus-Fairy / Zygarde           |    1 |  50.00% |   0.00% |
+| 7    | Arceus-* / Groudon / Celesteela               |    1 |  50.00% |   0.00% |
+| 7    | Arceus-Fairy / Groudon / Celesteela           |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                             | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Ho-Oh        |    2 | 100.00% | 100.00% |
+| 1    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Groudon      |    2 | 100.00% | 100.00% |
+| 1    | Arceus-* / Rayquaza / Groudon / Ho-Oh                   |    2 | 100.00% | 100.00% |
+| 1    | Arceus-* / Necrozma-Dusk-Mane / Groudon / Ho-Oh         |    2 | 100.00% | 100.00% |
+| 5    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane                |    1 |  50.00% | 100.00% |
+| 5    | Arceus-* / Rayquaza / Ho-Oh                             |    1 |  50.00% | 100.00% |
+| 5    | Arceus-* / Rayquaza / Groudon                           |    1 |  50.00% | 100.00% |
+| 5    | Rayquaza / Necrozma-Dusk-Mane / Groudon / Ho-Oh         |    1 |  50.00% | 100.00% |
+| 5    | Rayquaza / Necrozma-Dusk-Mane / Arceus-Ground / Ho-Oh   |    1 |  50.00% | 100.00% |
+| 5    | Rayquaza / Necrozma-Dusk-Mane / Groudon / Arceus-Ground |    1 |  50.00% | 100.00% |
+| 5    | Rayquaza / Groudon / Arceus-Ground / Ho-Oh              |    1 |  50.00% | 100.00% |
+| 5    | Arceus-* / Necrozma-Dusk-Mane / Ho-Oh                   |    1 |  50.00% | 100.00% |
+| 5    | Arceus-* / Necrozma-Dusk-Mane / Groudon                 |    1 |  50.00% | 100.00% |
+| 5    | Arceus-* / Groudon / Ho-Oh                              |    1 |  50.00% | 100.00% |
+| 5    | Necrozma-Dusk-Mane / Groudon / Arceus-Ground / Ho-Oh    |    1 |  50.00% | 100.00% |
+| 5    | Rayquaza / Groudon / Zygarde / Marshadow                |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Rayquaza / Zygarde / Marshadow             |    1 |  50.00% |   0.00% |
+| 5    | Arceus-* / Rayquaza / Zygarde / Marshadow               |    1 |  50.00% |   0.00% |
+| 5    | Arceus-Fairy / Rayquaza / Zygarde / Marshadow           |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Rayquaza / Groudon / Marshadow             |    1 |  50.00% |   0.00% |
+| 5    | Arceus-* / Rayquaza / Groudon / Marshadow               |    1 |  50.00% |   0.00% |
+| 5    | Arceus-Fairy / Rayquaza / Groudon / Marshadow           |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-* / Rayquaza / Marshadow            |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-Fairy / Rayquaza / Marshadow        |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Rayquaza / Groudon / Zygarde               |    1 |  50.00% |   0.00% |
+| 5    | Arceus-* / Rayquaza / Groudon / Zygarde                 |    1 |  50.00% |   0.00% |
+| 5    | Arceus-Fairy / Rayquaza / Groudon / Zygarde             |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-* / Rayquaza / Zygarde              |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-Fairy / Rayquaza / Zygarde          |    1 |  50.00% |   0.00% |
+| 5    | Arceus-* / Rayquaza / Groudon / Celesteela              |    1 |  50.00% |   0.00% |
+| 5    | Arceus-Fairy / Rayquaza / Groudon / Celesteela          |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Groudon / Zygarde / Marshadow              |    1 |  50.00% |   0.00% |
+| 5    | Arceus-* / Groudon / Zygarde / Marshadow                |    1 |  50.00% |   0.00% |
+| 5    | Arceus-Fairy / Groudon / Zygarde / Marshadow            |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-* / Zygarde / Marshadow             |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-Fairy / Zygarde / Marshadow         |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-* / Groudon / Marshadow             |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-Fairy / Groudon / Marshadow         |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-* / Groudon / Zygarde               |    1 |  50.00% |   0.00% |
+| 5    | Celesteela / Arceus-Fairy / Groudon / Zygarde           |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Necrozma-Dusk-Mane / Groudon / Ho-Oh / Rayquaza      |    2 | 100.00% | 100.00% |
+| 2    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Ho-Oh                |    1 |  50.00% | 100.00% |
+| 2    | Arceus-* / Rayquaza / Necrozma-Dusk-Mane / Groudon              |    1 |  50.00% | 100.00% |
+| 2    | Arceus-* / Rayquaza / Groudon / Ho-Oh                           |    1 |  50.00% | 100.00% |
+| 2    | Necrozma-Dusk-Mane / Groudon / Arceus-Ground / Ho-Oh / Rayquaza |    1 |  50.00% | 100.00% |
+| 2    | Arceus-* / Necrozma-Dusk-Mane / Groudon / Ho-Oh                 |    1 |  50.00% | 100.00% |
+| 2    | Celesteela / Marshadow / Groudon / Zygarde / Rayquaza           |    1 |  50.00% |   0.00% |
+| 2    | Arceus-* / Marshadow / Groudon / Zygarde / Rayquaza             |    1 |  50.00% |   0.00% |
+| 2    | Arceus-Fairy / Marshadow / Groudon / Zygarde / Rayquaza         |    1 |  50.00% |   0.00% |
+| 2    | Arceus-* / Celesteela / Marshadow / Zygarde / Rayquaza          |    1 |  50.00% |   0.00% |
+| 2    | Arceus-Fairy / Celesteela / Marshadow / Zygarde / Rayquaza      |    1 |  50.00% |   0.00% |
+| 2    | Arceus-* / Celesteela / Marshadow / Groudon / Rayquaza          |    1 |  50.00% |   0.00% |
+| 2    | Arceus-Fairy / Celesteela / Marshadow / Groudon / Rayquaza      |    1 |  50.00% |   0.00% |
+| 2    | Arceus-* / Celesteela / Groudon / Zygarde / Rayquaza            |    1 |  50.00% |   0.00% |
+| 2    | Arceus-Fairy / Celesteela / Groudon / Zygarde / Rayquaza        |    1 |  50.00% |   0.00% |
+| 2    | Arceus-* / Celesteela / Marshadow / Groudon / Zygarde           |    1 |  50.00% |   0.00% |
+| 2    | Arceus-Fairy / Celesteela / Marshadow / Groudon / Zygarde       |    1 |  50.00% |   0.00% |
+
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                          | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Arceus-* / Necrozma-Dusk-Mane / Groudon / Ho-Oh / Rayquaza           |    1 |  50.00% | 100.00% |
+| 1    | Arceus-* / Celesteela / Marshadow / Groudon / Zygarde / Rayquaza     |    1 |  50.00% |   0.00% |
+| 1    | Arceus-Fairy / Celesteela / Marshadow / Groudon / Zygarde / Rayquaza |    1 |  50.00% |   0.00% |
