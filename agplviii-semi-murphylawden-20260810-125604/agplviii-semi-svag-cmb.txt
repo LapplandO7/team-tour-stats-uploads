@@ -1,0 +1,233 @@
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 2                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| 1    | Calyrex-Shadow / Koraidon      |    3 |  75.00% |  33.33% |
+| 2    | Zacian-* / Arceus-Ground       |    2 |  50.00% | 100.00% |
+| 2    | Kyogre / Kingambit             |    2 |  50.00% |  50.00% |
+| 2    | Zacian-* / Calyrex-Shadow      |    2 |  50.00% |  50.00% |
+| 2    | Calyrex-Shadow / Arceus        |    2 |  50.00% |  50.00% |
+| 2    | Zacian-* / Koraidon            |    2 |  50.00% |  50.00% |
+| 2    | Arceus / Koraidon              |    2 |  50.00% |  50.00% |
+| 2    | Zacian-* / Arceus              |    2 |  50.00% |  50.00% |
+| 9    | Kyogre / Arceus-Ground         |    1 |  25.00% | 100.00% |
+| 9    | Kyogre / Ho-Oh                 |    1 |  25.00% | 100.00% |
+| 9    | Kyogre / Maushold-Four         |    1 |  25.00% | 100.00% |
+| 9    | Zacian-* / Kyogre              |    1 |  25.00% | 100.00% |
+| 9    | Kingambit / Arceus-Ground      |    1 |  25.00% | 100.00% |
+| 9    | Kingambit / Ho-Oh              |    1 |  25.00% | 100.00% |
+| 9    | Kingambit / Maushold-Four      |    1 |  25.00% | 100.00% |
+| 9    | Zacian-* / Kingambit           |    1 |  25.00% | 100.00% |
+| 9    | Arceus-Ground / Ho-Oh          |    1 |  25.00% | 100.00% |
+| 9    | Arceus-Ground / Maushold-Four  |    1 |  25.00% | 100.00% |
+| 9    | Maushold-Four / Ho-Oh          |    1 |  25.00% | 100.00% |
+| 9    | Zacian-* / Ho-Oh               |    1 |  25.00% | 100.00% |
+| 9    | Zacian-* / Maushold-Four       |    1 |  25.00% | 100.00% |
+| 9    | Ribombee / Calyrex-Shadow      |    1 |  25.00% | 100.00% |
+| 9    | Ribombee / Koraidon            |    1 |  25.00% | 100.00% |
+| 9    | Ribombee / Zacian-*            |    1 |  25.00% | 100.00% |
+| 9    | Ribombee / Arceus-Ground       |    1 |  25.00% | 100.00% |
+| 9    | Ribombee / Arceus              |    1 |  25.00% | 100.00% |
+| 9    | Calyrex-Shadow / Arceus-Ground |    1 |  25.00% | 100.00% |
+| 9    | Arceus-Ground / Koraidon       |    1 |  25.00% | 100.00% |
+| 9    | Arceus-Ground / Arceus         |    1 |  25.00% | 100.00% |
+| 9    | Arceus-Fairy / Koraidon        |    1 |  25.00% |   0.00% |
+| 9    | Kyogre / Koraidon              |    1 |  25.00% |   0.00% |
+| 9    | Kingambit / Koraidon           |    1 |  25.00% |   0.00% |
+| 9    | Ting-Lu / Koraidon             |    1 |  25.00% |   0.00% |
+| 9    | Arceus-Fairy / Calyrex-Shadow  |    1 |  25.00% |   0.00% |
+| 9    | Arceus-Fairy / Kyogre          |    1 |  25.00% |   0.00% |
+| 9    | Arceus-Fairy / Kingambit       |    1 |  25.00% |   0.00% |
+| 9    | Arceus-Fairy / Ting-Lu         |    1 |  25.00% |   0.00% |
+| 9    | Calyrex-Shadow / Kyogre        |    1 |  25.00% |   0.00% |
+| 9    | Calyrex-Shadow / Kingambit     |    1 |  25.00% |   0.00% |
+| 9    | Calyrex-Shadow / Ting-Lu       |    1 |  25.00% |   0.00% |
+| 9    | Kyogre / Ting-Lu               |    1 |  25.00% |   0.00% |
+| 9    | Kingambit / Ting-Lu            |    1 |  25.00% |   0.00% |
+| 9    | Koraidon / Glimmora            |    1 |  25.00% |   0.00% |
+| 9    | Miraidon / Koraidon            |    1 |  25.00% |   0.00% |
+| 9    | Arceus / Glimmora              |    1 |  25.00% |   0.00% |
+| 9    | Miraidon / Arceus              |    1 |  25.00% |   0.00% |
+| 9    | Zacian-* / Glimmora            |    1 |  25.00% |   0.00% |
+| 9    | Zacian-* / Miraidon            |    1 |  25.00% |   0.00% |
+| 9    | Calyrex-Shadow / Glimmora      |    1 |  25.00% |   0.00% |
+| 9    | Miraidon / Glimmora            |    1 |  25.00% |   0.00% |
+| 9    | Miraidon / Calyrex-Shadow      |    1 |  25.00% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Zacian-* / Calyrex-Shadow / Koraidon      |    2 |  50.00% |  50.00% |
+| 1    | Calyrex-Shadow / Arceus / Koraidon        |    2 |  50.00% |  50.00% |
+| 1    | Zacian-* / Calyrex-Shadow / Arceus        |    2 |  50.00% |  50.00% |
+| 1    | Zacian-* / Arceus / Koraidon              |    2 |  50.00% |  50.00% |
+| 5    | Kyogre / Kingambit / Arceus-Ground        |    1 |  25.00% | 100.00% |
+| 5    | Kyogre / Kingambit / Ho-Oh                |    1 |  25.00% | 100.00% |
+| 5    | Kyogre / Kingambit / Maushold-Four        |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Kyogre / Kingambit             |    1 |  25.00% | 100.00% |
+| 5    | Kyogre / Arceus-Ground / Ho-Oh            |    1 |  25.00% | 100.00% |
+| 5    | Kyogre / Arceus-Ground / Maushold-Four    |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Kyogre / Arceus-Ground         |    1 |  25.00% | 100.00% |
+| 5    | Kyogre / Maushold-Four / Ho-Oh            |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Kyogre / Ho-Oh                 |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Kyogre / Maushold-Four         |    1 |  25.00% | 100.00% |
+| 5    | Kingambit / Arceus-Ground / Ho-Oh         |    1 |  25.00% | 100.00% |
+| 5    | Kingambit / Arceus-Ground / Maushold-Four |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Kingambit / Arceus-Ground      |    1 |  25.00% | 100.00% |
+| 5    | Kingambit / Maushold-Four / Ho-Oh         |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Kingambit / Ho-Oh              |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Kingambit / Maushold-Four      |    1 |  25.00% | 100.00% |
+| 5    | Arceus-Ground / Maushold-Four / Ho-Oh     |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Arceus-Ground / Ho-Oh          |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Arceus-Ground / Maushold-Four  |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Maushold-Four / Ho-Oh          |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Calyrex-Shadow / Koraidon      |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Calyrex-Shadow / Zacian-*      |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Calyrex-Shadow / Arceus-Ground |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Calyrex-Shadow / Arceus        |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Zacian-* / Koraidon            |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Arceus-Ground / Koraidon       |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Arceus / Koraidon              |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Arceus-Ground / Zacian-*       |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Arceus / Zacian-*              |    1 |  25.00% | 100.00% |
+| 5    | Ribombee / Arceus-Ground / Arceus         |    1 |  25.00% | 100.00% |
+| 5    | Calyrex-Shadow / Arceus-Ground / Koraidon |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Calyrex-Shadow / Arceus-Ground |    1 |  25.00% | 100.00% |
+| 5    | Calyrex-Shadow / Arceus-Ground / Arceus   |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Arceus-Ground / Koraidon       |    1 |  25.00% | 100.00% |
+| 5    | Arceus-Ground / Arceus / Koraidon         |    1 |  25.00% | 100.00% |
+| 5    | Zacian-* / Arceus-Ground / Arceus         |    1 |  25.00% | 100.00% |
+| 5    | Arceus-Fairy / Calyrex-Shadow / Koraidon  |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Kyogre / Koraidon          |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Kingambit / Koraidon       |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Ting-Lu / Koraidon         |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Koraidon / Kyogre        |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Kingambit / Koraidon     |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Ting-Lu / Koraidon       |    1 |  25.00% |   0.00% |
+| 5    | Kyogre / Kingambit / Koraidon             |    1 |  25.00% |   0.00% |
+| 5    | Kyogre / Ting-Lu / Koraidon               |    1 |  25.00% |   0.00% |
+| 5    | Kingambit / Ting-Lu / Koraidon            |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Calyrex-Shadow / Kyogre    |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Calyrex-Shadow / Kingambit |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu   |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Kyogre / Kingambit         |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Kyogre / Ting-Lu           |    1 |  25.00% |   0.00% |
+| 5    | Arceus-Fairy / Kingambit / Ting-Lu        |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Kingambit / Kyogre       |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Ting-Lu / Kyogre         |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Kingambit / Ting-Lu      |    1 |  25.00% |   0.00% |
+| 5    | Kyogre / Kingambit / Ting-Lu              |    1 |  25.00% |   0.00% |
+| 5    | Arceus / Koraidon / Glimmora              |    1 |  25.00% |   0.00% |
+| 5    | Miraidon / Arceus / Koraidon              |    1 |  25.00% |   0.00% |
+| 5    | Zacian-* / Koraidon / Glimmora            |    1 |  25.00% |   0.00% |
+| 5    | Zacian-* / Miraidon / Koraidon            |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Koraidon / Glimmora      |    1 |  25.00% |   0.00% |
+| 5    | Miraidon / Koraidon / Glimmora            |    1 |  25.00% |   0.00% |
+| 5    | Miraidon / Calyrex-Shadow / Koraidon      |    1 |  25.00% |   0.00% |
+| 5    | Zacian-* / Arceus / Glimmora              |    1 |  25.00% |   0.00% |
+| 5    | Zacian-* / Miraidon / Arceus              |    1 |  25.00% |   0.00% |
+| 5    | Calyrex-Shadow / Arceus / Glimmora        |    1 |  25.00% |   0.00% |
+| 5    | Miraidon / Arceus / Glimmora              |    1 |  25.00% |   0.00% |
+| 5    | Miraidon / Calyrex-Shadow / Arceus        |    1 |  25.00% |   0.00% |
+| 5    | Zacian-* / Calyrex-Shadow / Glimmora      |    1 |  25.00% |   0.00% |
+| 5    | Zacian-* / Miraidon / Glimmora            |    1 |  25.00% |   0.00% |
+| 5    | Zacian-* / Calyrex-Shadow / Miraidon      |    1 |  25.00% |   0.00% |
+| 5    | Miraidon / Calyrex-Shadow / Glimmora      |    1 |  25.00% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Zacian-* / Calyrex-Shadow / Arceus / Koraidon        |    2 |  50.00% |  50.00% |
+| 2    | Kyogre / Kingambit / Ho-Oh / Arceus-Ground           |    1 |  25.00% | 100.00% |
+| 2    | Kyogre / Kingambit / Maushold-Four / Arceus-Ground   |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kyogre / Kingambit / Arceus-Ground        |    1 |  25.00% | 100.00% |
+| 2    | Kyogre / Kingambit / Maushold-Four / Ho-Oh           |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kyogre / Kingambit / Ho-Oh                |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kyogre / Kingambit / Maushold-Four        |    1 |  25.00% | 100.00% |
+| 2    | Kyogre / Arceus-Ground / Maushold-Four / Ho-Oh       |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kyogre / Arceus-Ground / Ho-Oh            |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kyogre / Arceus-Ground / Maushold-Four    |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kyogre / Maushold-Four / Ho-Oh            |    1 |  25.00% | 100.00% |
+| 2    | Kingambit / Arceus-Ground / Maushold-Four / Ho-Oh    |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kingambit / Arceus-Ground / Ho-Oh         |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kingambit / Arceus-Ground / Maushold-Four |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Kingambit / Maushold-Four / Ho-Oh         |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Arceus-Ground / Maushold-Four / Ho-Oh     |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Calyrex-Shadow / Zacian-* / Koraidon      |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Calyrex-Shadow / Arceus-Ground / Koraidon |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Calyrex-Shadow / Arceus / Koraidon        |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Calyrex-Shadow / Arceus-Ground / Zacian-* |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Calyrex-Shadow / Arceus / Zacian-*        |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Calyrex-Shadow / Arceus-Ground / Arceus   |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Arceus-Ground / Zacian-* / Koraidon       |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Arceus / Zacian-* / Koraidon              |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Arceus-Ground / Arceus / Koraidon         |    1 |  25.00% | 100.00% |
+| 2    | Ribombee / Arceus-Ground / Arceus / Zacian-*         |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Calyrex-Shadow / Arceus-Ground / Koraidon |    1 |  25.00% | 100.00% |
+| 2    | Calyrex-Shadow / Arceus-Ground / Arceus / Koraidon   |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Calyrex-Shadow / Arceus-Ground / Arceus   |    1 |  25.00% | 100.00% |
+| 2    | Zacian-* / Arceus-Ground / Arceus / Koraidon         |    1 |  25.00% | 100.00% |
+| 2    | Arceus-Fairy / Calyrex-Shadow / Koraidon / Kyogre    |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Calyrex-Shadow / Kingambit / Koraidon |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Koraidon   |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Kyogre / Kingambit / Koraidon         |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Kyogre / Ting-Lu / Koraidon           |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Kingambit / Ting-Lu / Koraidon        |    1 |  25.00% |   0.00% |
+| 2    | Calyrex-Shadow / Kingambit / Koraidon / Kyogre       |    1 |  25.00% |   0.00% |
+| 2    | Calyrex-Shadow / Ting-Lu / Koraidon / Kyogre         |    1 |  25.00% |   0.00% |
+| 2    | Calyrex-Shadow / Kingambit / Ting-Lu / Koraidon      |    1 |  25.00% |   0.00% |
+| 2    | Kyogre / Kingambit / Ting-Lu / Koraidon              |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Calyrex-Shadow / Kingambit / Kyogre   |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Kyogre     |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Calyrex-Shadow / Kingambit / Ting-Lu  |    1 |  25.00% |   0.00% |
+| 2    | Arceus-Fairy / Kyogre / Kingambit / Ting-Lu          |    1 |  25.00% |   0.00% |
+| 2    | Calyrex-Shadow / Kingambit / Ting-Lu / Kyogre        |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Arceus / Koraidon / Glimmora              |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Miraidon / Arceus / Koraidon              |    1 |  25.00% |   0.00% |
+| 2    | Calyrex-Shadow / Arceus / Koraidon / Glimmora        |    1 |  25.00% |   0.00% |
+| 2    | Miraidon / Arceus / Koraidon / Glimmora              |    1 |  25.00% |   0.00% |
+| 2    | Miraidon / Calyrex-Shadow / Arceus / Koraidon        |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Calyrex-Shadow / Koraidon / Glimmora      |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Miraidon / Koraidon / Glimmora            |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Calyrex-Shadow / Koraidon / Miraidon      |    1 |  25.00% |   0.00% |
+| 2    | Miraidon / Calyrex-Shadow / Koraidon / Glimmora      |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Calyrex-Shadow / Arceus / Glimmora        |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Miraidon / Arceus / Glimmora              |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Calyrex-Shadow / Arceus / Miraidon        |    1 |  25.00% |   0.00% |
+| 2    | Miraidon / Calyrex-Shadow / Arceus / Glimmora        |    1 |  25.00% |   0.00% |
+| 2    | Zacian-* / Calyrex-Shadow / Miraidon / Glimmora      |    1 |  25.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Kingambit / Ho-Oh / Kyogre / Maushold-Four / Arceus-Ground      |    1 |  25.00% | 100.00% |
+| 1    | Kingambit / Ho-Oh / Zacian-* / Kyogre / Arceus-Ground           |    1 |  25.00% | 100.00% |
+| 1    | Kingambit / Zacian-* / Kyogre / Maushold-Four / Arceus-Ground   |    1 |  25.00% | 100.00% |
+| 1    | Kingambit / Ho-Oh / Zacian-* / Kyogre / Maushold-Four           |    1 |  25.00% | 100.00% |
+| 1    | Ho-Oh / Zacian-* / Kyogre / Maushold-Four / Arceus-Ground       |    1 |  25.00% | 100.00% |
+| 1    | Kingambit / Ho-Oh / Zacian-* / Maushold-Four / Arceus-Ground    |    1 |  25.00% | 100.00% |
+| 1    | Calyrex-Shadow / Ribombee / Zacian-* / Koraidon / Arceus-Ground |    1 |  25.00% | 100.00% |
+| 1    | Calyrex-Shadow / Ribombee / Zacian-* / Arceus / Koraidon        |    1 |  25.00% | 100.00% |
+| 1    | Calyrex-Shadow / Ribombee / Arceus / Koraidon / Arceus-Ground   |    1 |  25.00% | 100.00% |
+| 1    | Calyrex-Shadow / Ribombee / Zacian-* / Arceus / Arceus-Ground   |    1 |  25.00% | 100.00% |
+| 1    | Ribombee / Zacian-* / Arceus / Koraidon / Arceus-Ground         |    1 |  25.00% | 100.00% |
+| 1    | Calyrex-Shadow / Zacian-* / Arceus / Koraidon / Arceus-Ground   |    1 |  25.00% | 100.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Kingambit / Kyogre / Koraidon   |    1 |  25.00% |   0.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Kyogre / Ting-Lu / Koraidon     |    1 |  25.00% |   0.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Kingambit / Ting-Lu / Koraidon  |    1 |  25.00% |   0.00% |
+| 1    | Arceus-Fairy / Kingambit / Kyogre / Ting-Lu / Koraidon          |    1 |  25.00% |   0.00% |
+| 1    | Calyrex-Shadow / Kingambit / Kyogre / Ting-Lu / Koraidon        |    1 |  25.00% |   0.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Kingambit / Kyogre / Ting-Lu    |    1 |  25.00% |   0.00% |
+| 1    | Calyrex-Shadow / Zacian-* / Arceus / Koraidon / Glimmora        |    1 |  25.00% |   0.00% |
+| 1    | Zacian-* / Miraidon / Arceus / Koraidon / Glimmora              |    1 |  25.00% |   0.00% |
+| 1    | Calyrex-Shadow / Zacian-* / Miraidon / Arceus / Koraidon        |    1 |  25.00% |   0.00% |
+| 1    | Calyrex-Shadow / Miraidon / Arceus / Koraidon / Glimmora        |    1 |  25.00% |   0.00% |
+| 1    | Calyrex-Shadow / Zacian-* / Miraidon / Koraidon / Glimmora      |    1 |  25.00% |   0.00% |
+| 1    | Calyrex-Shadow / Zacian-* / Miraidon / Arceus / Glimmora        |    1 |  25.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                              | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Kingambit / Ho-Oh / Zacian-* / Kyogre / Maushold-Four / Arceus-Ground    |    1 |  25.00% | 100.00% |
+| 1    | Calyrex-Shadow / Ribombee / Zacian-* / Arceus / Koraidon / Arceus-Ground |    1 |  25.00% | 100.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Kingambit / Kyogre / Ting-Lu / Koraidon  |    1 |  25.00% |   0.00% |
+| 1    | Calyrex-Shadow / Zacian-* / Miraidon / Arceus / Koraidon / Glimmora      |    1 |  25.00% |   0.00% |
