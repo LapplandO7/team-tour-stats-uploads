@@ -1,0 +1,1392 @@
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| 1    | Tyranitar / Excadrill               |    8 |  25.00% |  75.00% |
+| 1    | Toxapex / Corviknight               |    8 |  25.00% |  50.00% |
+| 3    | Tornadus-Therian / Clefable         |    7 |  21.88% |  28.57% |
+| 4    | Tyranitar / Ferrothorn              |    6 |  18.75% |  83.33% |
+| 4    | Excadrill / Ferrothorn              |    6 |  18.75% |  83.33% |
+| 6    | Zapdos / Ferrothorn                 |    5 |  15.62% |  80.00% |
+| 6    | Slowking-Galar / Landorus-Therian   |    5 |  15.62% |  60.00% |
+| 6    | Clefable / Slowking                 |    5 |  15.62% |  40.00% |
+| 6    | Hippowdon / Clefable                |    5 |  15.62% |   0.00% |
+| 10   | Tornadus-Therian / Ferrothorn       |    4 |  12.50% |  75.00% |
+| 10   | Tyranitar / Tornadus-Therian        |    4 |  12.50% |  50.00% |
+| 10   | Excadrill / Tornadus-Therian        |    4 |  12.50% |  50.00% |
+| 10   | Clefable / Dragapult                |    4 |  12.50% |  50.00% |
+| 10   | Clefable / Ferrothorn               |    4 |  12.50% |  50.00% |
+| 10   | Toxapex / Clefable                  |    4 |  12.50% |  50.00% |
+| 10   | Corviknight / Clefable              |    4 |  12.50% |  50.00% |
+| 10   | Toxapex / Slowking                  |    4 |  12.50% |  50.00% |
+| 10   | Corviknight / Slowking              |    4 |  12.50% |  50.00% |
+| 10   | Toxapex / Landorus-Therian          |    4 |  12.50% |  50.00% |
+| 10   | Urshifu / Landorus-Therian          |    4 |  12.50% |  50.00% |
+| 10   | Heatran / Clefable                  |    4 |  12.50% |  25.00% |
+| 10   | Tornadus-Therian / Slowbro          |    4 |  12.50% |  25.00% |
+| 10   | Heatran / Landorus-Therian          |    4 |  12.50% |  25.00% |
+| 10   | Blacephalon / Landorus-Therian      |    4 |  12.50% |  25.00% |
+| 10   | Tornadus-Therian / Slowking         |    4 |  12.50% |   0.00% |
+| 10   | Hippowdon / Tornadus-Therian        |    4 |  12.50% |   0.00% |
+| 27   | Slowking-Galar / Ferrothorn         |    3 |   9.38% | 100.00% |
+| 27   | Clefable / Gastrodon                |    3 |   9.38% | 100.00% |
+| 27   | Tyranitar / Rotom-Wash              |    3 |   9.38% | 100.00% |
+| 27   | Rotom-Wash / Excadrill              |    3 |   9.38% | 100.00% |
+| 27   | Tyranitar / Tapu Lele               |    3 |   9.38% | 100.00% |
+| 27   | Tyranitar / Zapdos                  |    3 |   9.38% | 100.00% |
+| 27   | Excadrill / Zapdos                  |    3 |   9.38% | 100.00% |
+| 27   | Urshifu / Ferrothorn                |    3 |   9.38% | 100.00% |
+| 27   | Dragapult / Ferrothorn              |    3 |   9.38% |  66.67% |
+| 27   | Slowking-Galar / Dragapult          |    3 |   9.38% |  66.67% |
+| 27   | Rotom-Wash / Clefable               |    3 |   9.38% |  66.67% |
+| 27   | Corviknight / Landorus-Therian      |    3 |   9.38% |  66.67% |
+| 27   | Tapu Lele / Landorus-Therian        |    3 |   9.38% |  66.67% |
+| 27   | Tyranitar / Slowbro                 |    3 |   9.38% |  66.67% |
+| 27   | Excadrill / Slowbro                 |    3 |   9.38% |  66.67% |
+| 27   | Ferrothorn / Slowbro                |    3 |   9.38% |  66.67% |
+| 27   | Slowking-Galar / Urshifu            |    3 |   9.38% |  66.67% |
+| 27   | Ferrothorn / Landorus-Therian       |    3 |   9.38% |  66.67% |
+| 27   | Clefable / Dragonite                |    3 |   9.38% |  66.67% |
+| 27   | Tyranitar / Buzzwole                |    3 |   9.38% |  33.33% |
+| 27   | Excadrill / Buzzwole                |    3 |   9.38% |  33.33% |
+| 27   | Slowking-Galar / Clefable           |    3 |   9.38% |  33.33% |
+| 27   | Tornadus-Therian / Landorus-Therian |    3 |   9.38% |  33.33% |
+| 27   | Tornadus-Therian / Corviknight      |    3 |   9.38% |  33.33% |
+| 27   | Dragapult / Landorus-Therian        |    3 |   9.38% |  33.33% |
+| 27   | Slowking-Galar / Weavile            |    3 |   9.38% |  33.33% |
+| 27   | Zapdos / Landorus-Therian           |    3 |   9.38% |  33.33% |
+| 27   | Clefable / Landorus-Therian         |    3 |   9.38% |   0.00% |
+| 27   | Hippowdon / Slowking                |    3 |   9.38% |   0.00% |
+| 27   | Hippowdon / Toxapex                 |    3 |   9.38% |   0.00% |
+| 27   | Hippowdon / Corviknight             |    3 |   9.38% |   0.00% |
+| 27   | Toxapex / Tornadus-Therian          |    3 |   9.38% |   0.00% |
+| 59   | Garchomp / Tornadus-Therian         |    2 |   6.25% | 100.00% |
+| 59   | Tyranitar / Clefable                |    2 |   6.25% | 100.00% |
+| 59   | Rotom-Wash / Ferrothorn             |    2 |   6.25% | 100.00% |
+| 59   | Excadrill / Clefable                |    2 |   6.25% | 100.00% |
+| 59   | Nidoking / Tornadus-Therian         |    2 |   6.25% | 100.00% |
+| 59   | Tapu Fini / Tornadus-Therian        |    2 |   6.25% | 100.00% |
+| 59   | Excadrill / Tapu Lele               |    2 |   6.25% | 100.00% |
+| 59   | Zapdos / Urshifu                    |    2 |   6.25% | 100.00% |
+| 59   | Tapu Lele / Zapdos                  |    2 |   6.25% | 100.00% |
+| 59   | Tapu Lele / Ferrothorn              |    2 |   6.25% | 100.00% |
+| 59   | Slowking / Dragonite                |    2 |   6.25% | 100.00% |
+| 59   | Slowking / Gastrodon                |    2 |   6.25% | 100.00% |
+| 59   | Corviknight / Dragonite             |    2 |   6.25% | 100.00% |
+| 59   | Dragonite / Gastrodon               |    2 |   6.25% | 100.00% |
+| 59   | Toxapex / Dragonite                 |    2 |   6.25% | 100.00% |
+| 59   | Corviknight / Gastrodon             |    2 |   6.25% | 100.00% |
+| 59   | Toxapex / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 59   | Clefable / Tapu Koko                |    2 |   6.25% |  50.00% |
+| 59   | Heatran / Zapdos                    |    2 |   6.25% |  50.00% |
+| 59   | Clefable / Skarmory                 |    2 |   6.25% |  50.00% |
+| 59   | Zapdos / Clefable                   |    2 |   6.25% |  50.00% |
+| 59   | Melmetal / Clefable                 |    2 |   6.25% |  50.00% |
+| 59   | Tapu Koko / Landorus-Therian        |    2 |   6.25% |  50.00% |
+| 59   | Heatran / Toxapex                   |    2 |   6.25% |  50.00% |
+| 59   | Buzzwole / Slowbro                  |    2 |   6.25% |  50.00% |
+| 59   | Ferrothorn / Buzzwole               |    2 |   6.25% |  50.00% |
+| 59   | Urshifu / Dragapult                 |    2 |   6.25% |  50.00% |
+| 59   | Nidoking / Ferrothorn               |    2 |   6.25% |  50.00% |
+| 59   | Blacephalon / Corviknight           |    2 |   6.25% |  50.00% |
+| 59   | Slowking-Galar / Blacephalon        |    2 |   6.25% |  50.00% |
+| 59   | Blacephalon / Weavile               |    2 |   6.25% |  50.00% |
+| 59   | Toxapex / Blacephalon               |    2 |   6.25% |  50.00% |
+| 59   | Slowking-Galar / Corviknight        |    2 |   6.25% |  50.00% |
+| 59   | Corviknight / Weavile               |    2 |   6.25% |  50.00% |
+| 59   | Slowking-Galar / Toxapex            |    2 |   6.25% |  50.00% |
+| 59   | Landorus-Therian / Weavile          |    2 |   6.25% |  50.00% |
+| 59   | Toxapex / Weavile                   |    2 |   6.25% |  50.00% |
+| 59   | Zapdos / Dragapult                  |    2 |   6.25% |  50.00% |
+| 59   | Tapu Lele / Urshifu                 |    2 |   6.25% |  50.00% |
+| 59   | Tornadus-Therian / Buzzwole         |    2 |   6.25% |   0.00% |
+| 59   | Clefable / Slowbro                  |    2 |   6.25% |   0.00% |
+| 59   | Melmetal / Landorus-Therian         |    2 |   6.25% |   0.00% |
+| 59   | Zapdos / Blacephalon                |    2 |   6.25% |   0.00% |
+| 59   | Toxapex / Blissey                   |    2 |   6.25% |   0.00% |
+| 59   | Hippowdon / Rillaboom               |    2 |   6.25% |   0.00% |
+| 59   | Clefable / Rillaboom                |    2 |   6.25% |   0.00% |
+| 59   | Heatran / Tornadus-Therian          |    2 |   6.25% |   0.00% |
+| 59   | Heatran / Rillaboom                 |    2 |   6.25% |   0.00% |
+| 59   | Tornadus-Therian / Rillaboom        |    2 |   6.25% |   0.00% |
+| 59   | Clefable / Weavile                  |    2 |   6.25% |   0.00% |
+| 59   | Landorus-Therian / Rillaboom        |    2 |   6.25% |   0.00% |
+| 110  | Tornadus-Therian / Dragapult        |    1 |   3.12% | 100.00% |
+| 110  | Garchomp / Dragapult                |    1 |   3.12% | 100.00% |
+| 110  | Slowking-Galar / Tornadus-Therian   |    1 |   3.12% | 100.00% |
+| 110  | Garchomp / Ferrothorn               |    1 |   3.12% | 100.00% |
+| 110  | Garchomp / Clefable                 |    1 |   3.12% | 100.00% |
+| 110  | Slowking-Galar / Garchomp           |    1 |   3.12% | 100.00% |
+| 110  | Heatran / Tapu Koko                 |    1 |   3.12% | 100.00% |
+| 110  | Tapu Koko / Gastrodon               |    1 |   3.12% | 100.00% |
+| 110  | Tapu Koko / Skarmory                |    1 |   3.12% | 100.00% |
+| 110  | Zapdos / Tapu Koko                  |    1 |   3.12% | 100.00% |
+| 110  | Heatran / Gastrodon                 |    1 |   3.12% | 100.00% |
+| 110  | Heatran / Skarmory                  |    1 |   3.12% | 100.00% |
+| 110  | Skarmory / Gastrodon                |    1 |   3.12% | 100.00% |
+| 110  | Zapdos / Gastrodon                  |    1 |   3.12% | 100.00% |
+| 110  | Zapdos / Skarmory                   |    1 |   3.12% | 100.00% |
+| 110  | Rotom-Wash / Tornadus-Therian       |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Toxapex                 |    1 |   3.12% | 100.00% |
+| 110  | Tapu Lele / Toxapex                 |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Corviknight             |    1 |   3.12% | 100.00% |
+| 110  | Heatran / Corviknight               |    1 |   3.12% | 100.00% |
+| 110  | Tapu Lele / Corviknight             |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Heatran                 |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Landorus-Therian        |    1 |   3.12% | 100.00% |
+| 110  | Heatran / Tapu Lele                 |    1 |   3.12% | 100.00% |
+| 110  | Nidoking / Slowbro                  |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Nidoking                |    1 |   3.12% | 100.00% |
+| 110  | Nidoking / Excadrill                |    1 |   3.12% | 100.00% |
+| 110  | Arctozolt / Ninetales-Alola         |    1 |   3.12% | 100.00% |
+| 110  | Ninetales-Alola / Corviknight       |    1 |   3.12% | 100.00% |
+| 110  | Tapu Fini / Ninetales-Alola         |    1 |   3.12% | 100.00% |
+| 110  | Ninetales-Alola / Tornadus-Therian  |    1 |   3.12% | 100.00% |
+| 110  | Nidoking / Ninetales-Alola          |    1 |   3.12% | 100.00% |
+| 110  | Arctozolt / Corviknight             |    1 |   3.12% | 100.00% |
+| 110  | Arctozolt / Tapu Fini               |    1 |   3.12% | 100.00% |
+| 110  | Arctozolt / Tornadus-Therian        |    1 |   3.12% | 100.00% |
+| 110  | Arctozolt / Nidoking                |    1 |   3.12% | 100.00% |
+| 110  | Tapu Fini / Corviknight             |    1 |   3.12% | 100.00% |
+| 110  | Nidoking / Corviknight              |    1 |   3.12% | 100.00% |
+| 110  | Tapu Fini / Nidoking                |    1 |   3.12% | 100.00% |
+| 110  | Zapdos / Buzzwole                   |    1 |   3.12% | 100.00% |
+| 110  | Zapdos / Slowbro                    |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Urshifu                 |    1 |   3.12% | 100.00% |
+| 110  | Excadrill / Urshifu                 |    1 |   3.12% | 100.00% |
+| 110  | Rotom-Wash / Zapdos                 |    1 |   3.12% | 100.00% |
+| 110  | Rotom-Wash / Tapu Lele              |    1 |   3.12% | 100.00% |
+| 110  | Urshifu / Tapu Koko                 |    1 |   3.12% | 100.00% |
+| 110  | Ferrothorn / Tapu Koko              |    1 |   3.12% | 100.00% |
+| 110  | Slowking-Galar / Tapu Koko          |    1 |   3.12% | 100.00% |
+| 110  | Tapu Koko / Mandibuzz               |    1 |   3.12% | 100.00% |
+| 110  | Urshifu / Mandibuzz                 |    1 |   3.12% | 100.00% |
+| 110  | Landorus-Therian / Mandibuzz        |    1 |   3.12% | 100.00% |
+| 110  | Ferrothorn / Mandibuzz              |    1 |   3.12% | 100.00% |
+| 110  | Slowking-Galar / Mandibuzz          |    1 |   3.12% | 100.00% |
+| 110  | Slowking-Galar / Zapdos             |    1 |   3.12% | 100.00% |
+| 110  | Tapu Lele / Magnezone               |    1 |   3.12% | 100.00% |
+| 110  | Tapu Lele / Garchomp                |    1 |   3.12% | 100.00% |
+| 110  | Tapu Fini / Tapu Lele               |    1 |   3.12% | 100.00% |
+| 110  | Tapu Lele / Tornadus-Therian        |    1 |   3.12% | 100.00% |
+| 110  | Landorus-Therian / Magnezone        |    1 |   3.12% | 100.00% |
+| 110  | Garchomp / Magnezone                |    1 |   3.12% | 100.00% |
+| 110  | Tapu Fini / Magnezone               |    1 |   3.12% | 100.00% |
+| 110  | Tornadus-Therian / Magnezone        |    1 |   3.12% | 100.00% |
+| 110  | Garchomp / Landorus-Therian         |    1 |   3.12% | 100.00% |
+| 110  | Tapu Fini / Landorus-Therian        |    1 |   3.12% | 100.00% |
+| 110  | Tapu Fini / Garchomp                |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Melmetal                |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Dragapult               |    1 |   3.12% | 100.00% |
+| 110  | Excadrill / Melmetal                |    1 |   3.12% | 100.00% |
+| 110  | Excadrill / Dragapult               |    1 |   3.12% | 100.00% |
+| 110  | Rotom-Wash / Melmetal               |    1 |   3.12% | 100.00% |
+| 110  | Rotom-Wash / Dragapult              |    1 |   3.12% | 100.00% |
+| 110  | Melmetal / Dragapult                |    1 |   3.12% | 100.00% |
+| 110  | Tyranitar / Slowking                |    1 |   3.12% |   0.00% |
+| 110  | Tyranitar / Volcanion               |    1 |   3.12% |   0.00% |
+| 110  | Tornadus-Therian / Volcanion        |    1 |   3.12% |   0.00% |
+| 110  | Excadrill / Slowking                |    1 |   3.12% |   0.00% |
+| 110  | Slowking / Buzzwole                 |    1 |   3.12% |   0.00% |
+| 110  | Slowking / Volcanion                |    1 |   3.12% |   0.00% |
+| 110  | Excadrill / Volcanion               |    1 |   3.12% |   0.00% |
+| 110  | Buzzwole / Volcanion                |    1 |   3.12% |   0.00% |
+| 110  | Landorus-Therian / Slowbro          |    1 |   3.12% |   0.00% |
+| 110  | Melmetal / Slowbro                  |    1 |   3.12% |   0.00% |
+| 110  | Tapu Koko / Slowbro                 |    1 |   3.12% |   0.00% |
+| 110  | Melmetal / Tornadus-Therian         |    1 |   3.12% |   0.00% |
+| 110  | Melmetal / Tapu Koko                |    1 |   3.12% |   0.00% |
+| 110  | Tornadus-Therian / Tapu Koko        |    1 |   3.12% |   0.00% |
+| 110  | Urshifu / Clefable                  |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Urshifu                   |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Dragapult                 |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Slowking-Galar            |    1 |   3.12% |   0.00% |
+| 110  | Blacephalon / Dragapult             |    1 |   3.12% |   0.00% |
+| 110  | Blacephalon / Ferrothorn            |    1 |   3.12% |   0.00% |
+| 110  | Blacephalon / Clefable              |    1 |   3.12% |   0.00% |
+| 110  | Hippowdon / Zeraora                 |    1 |   3.12% |   0.00% |
+| 110  | Hippowdon / Xatu                    |    1 |   3.12% |   0.00% |
+| 110  | Hippowdon / Blissey                 |    1 |   3.12% |   0.00% |
+| 110  | Xatu / Zeraora                      |    1 |   3.12% |   0.00% |
+| 110  | Toxapex / Zeraora                   |    1 |   3.12% |   0.00% |
+| 110  | Corviknight / Zeraora               |    1 |   3.12% |   0.00% |
+| 110  | Zeraora / Blissey                   |    1 |   3.12% |   0.00% |
+| 110  | Xatu / Toxapex                      |    1 |   3.12% |   0.00% |
+| 110  | Xatu / Corviknight                  |    1 |   3.12% |   0.00% |
+| 110  | Xatu / Blissey                      |    1 |   3.12% |   0.00% |
+| 110  | Corviknight / Blissey               |    1 |   3.12% |   0.00% |
+| 110  | Hippowdon / Slowbro                 |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Hippowdon                 |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Slowbro                   |    1 |   3.12% |   0.00% |
+| 110  | Rillaboom / Slowbro                 |    1 |   3.12% |   0.00% |
+| 110  | Scizor / Rillaboom                  |    1 |   3.12% |   0.00% |
+| 110  | Slowking / Rillaboom                |    1 |   3.12% |   0.00% |
+| 110  | Clefable / Scizor                   |    1 |   3.12% |   0.00% |
+| 110  | Slowking / Scizor                   |    1 |   3.12% |   0.00% |
+| 110  | Tornadus-Therian / Scizor           |    1 |   3.12% |   0.00% |
+| 110  | Hippowdon / Scizor                  |    1 |   3.12% |   0.00% |
+| 110  | Nidoking / Weavile                  |    1 |   3.12% |   0.00% |
+| 110  | Nidoking / Dragonite                |    1 |   3.12% |   0.00% |
+| 110  | Nidoking / Clefable                 |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Nidoking                  |    1 |   3.12% |   0.00% |
+| 110  | Dragonite / Weavile                 |    1 |   3.12% |   0.00% |
+| 110  | Ferrothorn / Weavile                |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Weavile                   |    1 |   3.12% |   0.00% |
+| 110  | Ferrothorn / Dragonite              |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Dragonite                 |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Ferrothorn                |    1 |   3.12% |   0.00% |
+| 110  | Melmetal / Urshifu                  |    1 |   3.12% |   0.00% |
+| 110  | Urshifu / Rillaboom                 |    1 |   3.12% |   0.00% |
+| 110  | Moltres-Galar / Urshifu             |    1 |   3.12% |   0.00% |
+| 110  | Melmetal / Rillaboom                |    1 |   3.12% |   0.00% |
+| 110  | Melmetal / Tapu Lele                |    1 |   3.12% |   0.00% |
+| 110  | Moltres-Galar / Melmetal            |    1 |   3.12% |   0.00% |
+| 110  | Tapu Lele / Rillaboom               |    1 |   3.12% |   0.00% |
+| 110  | Moltres-Galar / Rillaboom           |    1 |   3.12% |   0.00% |
+| 110  | Moltres-Galar / Tapu Lele           |    1 |   3.12% |   0.00% |
+| 110  | Moltres-Galar / Landorus-Therian    |    1 |   3.12% |   0.00% |
+| 110  | Rotom-Wash / Skarmory               |    1 |   3.12% |   0.00% |
+| 110  | Rotom-Wash / Slowking-Galar         |    1 |   3.12% |   0.00% |
+| 110  | Rotom-Wash / Hippowdon              |    1 |   3.12% |   0.00% |
+| 110  | Rotom-Wash / Weavile                |    1 |   3.12% |   0.00% |
+| 110  | Slowking-Galar / Skarmory           |    1 |   3.12% |   0.00% |
+| 110  | Hippowdon / Skarmory                |    1 |   3.12% |   0.00% |
+| 110  | Weavile / Skarmory                  |    1 |   3.12% |   0.00% |
+| 110  | Slowking-Galar / Hippowdon          |    1 |   3.12% |   0.00% |
+| 110  | Hippowdon / Weavile                 |    1 |   3.12% |   0.00% |
+| 110  | Tornadus-Therian / Mew              |    1 |   3.12% |   0.00% |
+| 110  | Tornadus-Therian / Blissey          |    1 |   3.12% |   0.00% |
+| 110  | Mew / Landorus-Therian              |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Mew                       |    1 |   3.12% |   0.00% |
+| 110  | Mew / Blissey                       |    1 |   3.12% |   0.00% |
+| 110  | Toxapex / Mew                       |    1 |   3.12% |   0.00% |
+| 110  | Blissey / Landorus-Therian          |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Blissey                   |    1 |   3.12% |   0.00% |
+| 110  | Blacephalon / Kartana               |    1 |   3.12% |   0.00% |
+| 110  | Blacephalon / Rillaboom             |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Blacephalon               |    1 |   3.12% |   0.00% |
+| 110  | Rillaboom / Kartana                 |    1 |   3.12% |   0.00% |
+| 110  | Zapdos / Kartana                    |    1 |   3.12% |   0.00% |
+| 110  | Heatran / Kartana                   |    1 |   3.12% |   0.00% |
+| 110  | Landorus-Therian / Kartana          |    1 |   3.12% |   0.00% |
+| 110  | Zapdos / Rillaboom                  |    1 |   3.12% |   0.00% |
+
++ ---- + ------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                                      | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Tyranitar / Excadrill / Ferrothorn               |    6 |  18.75% |  83.33% |
+| 2    | Tyranitar / Excadrill / Tornadus-Therian         |    4 |  12.50% |  50.00% |
+| 2    | Toxapex / Clefable / Slowking                    |    4 |  12.50% |  50.00% |
+| 2    | Corviknight / Clefable / Slowking                |    4 |  12.50% |  50.00% |
+| 2    | Corviknight / Toxapex / Clefable                 |    4 |  12.50% |  50.00% |
+| 2    | Toxapex / Corviknight / Slowking                 |    4 |  12.50% |  50.00% |
+| 2    | Hippowdon / Tornadus-Therian / Clefable          |    4 |  12.50% |   0.00% |
+| 8    | Tyranitar / Excadrill / Rotom-Wash               |    3 |   9.38% | 100.00% |
+| 8    | Tyranitar / Zapdos / Ferrothorn                  |    3 |   9.38% | 100.00% |
+| 8    | Excadrill / Zapdos / Ferrothorn                  |    3 |   9.38% | 100.00% |
+| 8    | Tyranitar / Excadrill / Zapdos                   |    3 |   9.38% | 100.00% |
+| 8    | Tyranitar / Tornadus-Therian / Ferrothorn        |    3 |   9.38% |  66.67% |
+| 8    | Excadrill / Tornadus-Therian / Ferrothorn        |    3 |   9.38% |  66.67% |
+| 8    | Toxapex / Corviknight / Landorus-Therian         |    3 |   9.38% |  66.67% |
+| 8    | Tyranitar / Excadrill / Slowbro                  |    3 |   9.38% |  66.67% |
+| 8    | Tyranitar / Ferrothorn / Slowbro                 |    3 |   9.38% |  66.67% |
+| 8    | Excadrill / Ferrothorn / Slowbro                 |    3 |   9.38% |  66.67% |
+| 8    | Slowking-Galar / Urshifu / Landorus-Therian      |    3 |   9.38% |  66.67% |
+| 8    | Tyranitar / Excadrill / Buzzwole                 |    3 |   9.38% |  33.33% |
+| 8    | Hippowdon / Clefable / Slowking                  |    3 |   9.38% |   0.00% |
+| 8    | Hippowdon / Tornadus-Therian / Slowking          |    3 |   9.38% |   0.00% |
+| 8    | Hippowdon / Toxapex / Corviknight                |    3 |   9.38% |   0.00% |
+| 8    | Tornadus-Therian / Clefable / Slowking           |    3 |   9.38% |   0.00% |
+| 24   | Slowking-Galar / Dragapult / Ferrothorn          |    2 |   6.25% | 100.00% |
+| 24   | Clefable / Tornadus-Therian / Ferrothorn         |    2 |   6.25% | 100.00% |
+| 24   | Tyranitar / Ferrothorn / Rotom-Wash              |    2 |   6.25% | 100.00% |
+| 24   | Tyranitar / Clefable / Rotom-Wash                |    2 |   6.25% | 100.00% |
+| 24   | Tyranitar / Excadrill / Clefable                 |    2 |   6.25% | 100.00% |
+| 24   | Rotom-Wash / Excadrill / Ferrothorn              |    2 |   6.25% | 100.00% |
+| 24   | Rotom-Wash / Excadrill / Clefable                |    2 |   6.25% | 100.00% |
+| 24   | Tyranitar / Excadrill / Tapu Lele                |    2 |   6.25% | 100.00% |
+| 24   | Tyranitar / Tapu Lele / Zapdos                   |    2 |   6.25% | 100.00% |
+| 24   | Tyranitar / Tapu Lele / Ferrothorn               |    2 |   6.25% | 100.00% |
+| 24   | Excadrill / Tapu Lele / Zapdos                   |    2 |   6.25% | 100.00% |
+| 24   | Excadrill / Tapu Lele / Ferrothorn               |    2 |   6.25% | 100.00% |
+| 24   | Zapdos / Urshifu / Ferrothorn                    |    2 |   6.25% | 100.00% |
+| 24   | Tapu Lele / Ferrothorn / Zapdos                  |    2 |   6.25% | 100.00% |
+| 24   | Clefable / Slowking / Dragonite                  |    2 |   6.25% | 100.00% |
+| 24   | Corviknight / Slowking / Dragonite               |    2 |   6.25% | 100.00% |
+| 24   | Slowking / Dragonite / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 24   | Toxapex / Slowking / Dragonite                   |    2 |   6.25% | 100.00% |
+| 24   | Clefable / Slowking / Gastrodon                  |    2 |   6.25% | 100.00% |
+| 24   | Corviknight / Slowking / Gastrodon               |    2 |   6.25% | 100.00% |
+| 24   | Toxapex / Slowking / Gastrodon                   |    2 |   6.25% | 100.00% |
+| 24   | Corviknight / Clefable / Dragonite               |    2 |   6.25% | 100.00% |
+| 24   | Clefable / Dragonite / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 24   | Toxapex / Clefable / Dragonite                   |    2 |   6.25% | 100.00% |
+| 24   | Corviknight / Dragonite / Gastrodon              |    2 |   6.25% | 100.00% |
+| 24   | Toxapex / Corviknight / Dragonite                |    2 |   6.25% | 100.00% |
+| 24   | Toxapex / Dragonite / Gastrodon                  |    2 |   6.25% | 100.00% |
+| 24   | Corviknight / Clefable / Gastrodon               |    2 |   6.25% | 100.00% |
+| 24   | Toxapex / Clefable / Gastrodon                   |    2 |   6.25% | 100.00% |
+| 24   | Toxapex / Corviknight / Gastrodon                |    2 |   6.25% | 100.00% |
+| 24   | Urshifu / Ferrothorn / Landorus-Therian          |    2 |   6.25% | 100.00% |
+| 24   | Slowking-Galar / Urshifu / Ferrothorn            |    2 |   6.25% | 100.00% |
+| 24   | Slowking-Galar / Ferrothorn / Landorus-Therian   |    2 |   6.25% | 100.00% |
+| 24   | Clefable / Dragapult / Ferrothorn                |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Clefable / Dragapult            |    2 |   6.25% |  50.00% |
+| 24   | Heatran / Toxapex / Landorus-Therian             |    2 |   6.25% |  50.00% |
+| 24   | Tyranitar / Buzzwole / Slowbro                   |    2 |   6.25% |  50.00% |
+| 24   | Tyranitar / Ferrothorn / Buzzwole                |    2 |   6.25% |  50.00% |
+| 24   | Tyranitar / Tornadus-Therian / Slowbro           |    2 |   6.25% |  50.00% |
+| 24   | Excadrill / Buzzwole / Slowbro                   |    2 |   6.25% |  50.00% |
+| 24   | Excadrill / Ferrothorn / Buzzwole                |    2 |   6.25% |  50.00% |
+| 24   | Ferrothorn / Buzzwole / Slowbro                  |    2 |   6.25% |  50.00% |
+| 24   | Excadrill / Tornadus-Therian / Slowbro           |    2 |   6.25% |  50.00% |
+| 24   | Tornadus-Therian / Ferrothorn / Slowbro          |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Urshifu / Dragapult             |    2 |   6.25% |  50.00% |
+| 24   | Urshifu / Dragapult / Landorus-Therian           |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Dragapult / Landorus-Therian    |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Blacephalon / Corviknight       |    2 |   6.25% |  50.00% |
+| 24   | Blacephalon / Corviknight / Weavile              |    2 |   6.25% |  50.00% |
+| 24   | Blacephalon / Corviknight / Landorus-Therian     |    2 |   6.25% |  50.00% |
+| 24   | Toxapex / Blacephalon / Corviknight              |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Blacephalon / Weavile           |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Blacephalon / Landorus-Therian  |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Toxapex / Blacephalon           |    2 |   6.25% |  50.00% |
+| 24   | Blacephalon / Landorus-Therian / Weavile         |    2 |   6.25% |  50.00% |
+| 24   | Toxapex / Blacephalon / Weavile                  |    2 |   6.25% |  50.00% |
+| 24   | Toxapex / Blacephalon / Landorus-Therian         |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Corviknight / Weavile           |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Corviknight / Landorus-Therian  |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Toxapex / Corviknight           |    2 |   6.25% |  50.00% |
+| 24   | Corviknight / Landorus-Therian / Weavile         |    2 |   6.25% |  50.00% |
+| 24   | Toxapex / Corviknight / Weavile                  |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Landorus-Therian / Weavile      |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Toxapex / Weavile               |    2 |   6.25% |  50.00% |
+| 24   | Slowking-Galar / Toxapex / Landorus-Therian      |    2 |   6.25% |  50.00% |
+| 24   | Toxapex / Landorus-Therian / Weavile             |    2 |   6.25% |  50.00% |
+| 24   | Zapdos / Dragapult / Landorus-Therian            |    2 |   6.25% |  50.00% |
+| 24   | Zapdos / Dragapult / Ferrothorn                  |    2 |   6.25% |  50.00% |
+| 24   | Dragapult / Landorus-Therian / Ferrothorn        |    2 |   6.25% |  50.00% |
+| 24   | Zapdos / Ferrothorn / Landorus-Therian           |    2 |   6.25% |  50.00% |
+| 24   | Tyranitar / Tornadus-Therian / Buzzwole          |    2 |   6.25% |   0.00% |
+| 24   | Excadrill / Tornadus-Therian / Buzzwole          |    2 |   6.25% |   0.00% |
+| 24   | Tornadus-Therian / Clefable / Slowbro            |    2 |   6.25% |   0.00% |
+| 24   | Hippowdon / Toxapex / Clefable                   |    2 |   6.25% |   0.00% |
+| 24   | Corviknight / Hippowdon / Clefable               |    2 |   6.25% |   0.00% |
+| 24   | Hippowdon / Toxapex / Slowking                   |    2 |   6.25% |   0.00% |
+| 24   | Hippowdon / Corviknight / Slowking               |    2 |   6.25% |   0.00% |
+| 24   | Hippowdon / Toxapex / Tornadus-Therian           |    2 |   6.25% |   0.00% |
+| 24   | Hippowdon / Tornadus-Therian / Corviknight       |    2 |   6.25% |   0.00% |
+| 24   | Toxapex / Clefable / Tornadus-Therian            |    2 |   6.25% |   0.00% |
+| 24   | Corviknight / Tornadus-Therian / Clefable        |    2 |   6.25% |   0.00% |
+| 24   | Tornadus-Therian / Toxapex / Slowking            |    2 |   6.25% |   0.00% |
+| 24   | Tornadus-Therian / Corviknight / Slowking        |    2 |   6.25% |   0.00% |
+| 24   | Toxapex / Corviknight / Tornadus-Therian         |    2 |   6.25% |   0.00% |
+| 24   | Dragapult / Clefable / Landorus-Therian          |    2 |   6.25% |   0.00% |
+| 24   | Zapdos / Blacephalon / Landorus-Therian          |    2 |   6.25% |   0.00% |
+| 24   | Hippowdon / Clefable / Rillaboom                 |    2 |   6.25% |   0.00% |
+| 24   | Hippowdon / Tornadus-Therian / Rillaboom         |    2 |   6.25% |   0.00% |
+| 24   | Tornadus-Therian / Clefable / Rillaboom          |    2 |   6.25% |   0.00% |
+| 113  | Tornadus-Therian / Dragapult / Ferrothorn        |    1 |   3.12% | 100.00% |
+| 113  | Clefable / Tornadus-Therian / Dragapult          |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Tornadus-Therian / Dragapult    |    1 |   3.12% | 100.00% |
+| 113  | Garchomp / Tornadus-Therian / Dragapult          |    1 |   3.12% | 100.00% |
+| 113  | Garchomp / Dragapult / Ferrothorn                |    1 |   3.12% | 100.00% |
+| 113  | Clefable / Garchomp / Dragapult                  |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Garchomp / Dragapult            |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Tornadus-Therian / Ferrothorn   |    1 |   3.12% | 100.00% |
+| 113  | Garchomp / Tornadus-Therian / Ferrothorn         |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Tornadus-Therian / Clefable     |    1 |   3.12% | 100.00% |
+| 113  | Garchomp / Tornadus-Therian / Clefable           |    1 |   3.12% | 100.00% |
+| 113  | Garchomp / Slowking-Galar / Tornadus-Therian     |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Clefable / Ferrothorn           |    1 |   3.12% | 100.00% |
+| 113  | Clefable / Garchomp / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Garchomp / Ferrothorn           |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Garchomp / Clefable             |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Tapu Koko / Gastrodon                  |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Clefable / Tapu Koko                   |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Tapu Koko / Skarmory                   |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Zapdos / Tapu Koko                     |    1 |   3.12% | 100.00% |
+| 113  | Clefable / Tapu Koko / Gastrodon                 |    1 |   3.12% | 100.00% |
+| 113  | Skarmory / Tapu Koko / Gastrodon                 |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Tapu Koko / Gastrodon                   |    1 |   3.12% | 100.00% |
+| 113  | Clefable / Tapu Koko / Skarmory                  |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Clefable / Tapu Koko                    |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Tapu Koko / Skarmory                    |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Clefable / Gastrodon                   |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Skarmory / Gastrodon                   |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Zapdos / Gastrodon                     |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Clefable / Skarmory                    |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Zapdos / Clefable                      |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Zapdos / Skarmory                      |    1 |   3.12% | 100.00% |
+| 113  | Skarmory / Clefable / Gastrodon                  |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Clefable / Gastrodon                    |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Skarmory / Gastrodon                    |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Clefable / Skarmory                     |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tornadus-Therian / Rotom-Wash        |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Clefable / Ferrothorn                |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tornadus-Therian / Clefable          |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Clefable / Ferrothorn               |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Tornadus-Therian / Ferrothorn       |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Excadrill / Tornadus-Therian        |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Tornadus-Therian / Clefable         |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Clefable / Ferrothorn                |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Tornadus-Therian / Clefable          |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Toxapex / Corviknight                |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Toxapex / Corviknight                  |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Toxapex / Corviknight                |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Toxapex / Heatran                    |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Toxapex / Landorus-Therian           |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tapu Lele / Toxapex                  |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Tapu Lele / Toxapex                    |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Toxapex / Landorus-Therian           |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Corviknight / Heatran                |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Corviknight / Landorus-Therian       |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tapu Lele / Corviknight              |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Corviknight / Landorus-Therian         |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Tapu Lele / Corviknight                |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Corviknight / Landorus-Therian       |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Landorus-Therian / Heatran           |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tapu Lele / Heatran                  |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tapu Lele / Landorus-Therian         |    1 |   3.12% | 100.00% |
+| 113  | Heatran / Tapu Lele / Landorus-Therian           |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Tornadus-Therian / Ferrothorn         |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Tornadus-Therian / Slowbro            |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Nidoking / Tornadus-Therian          |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Tornadus-Therian / Excadrill          |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Ferrothorn / Slowbro                  |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Nidoking / Ferrothorn                |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Ferrothorn / Excadrill                |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Nidoking / Slowbro                   |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Nidoking / Slowbro                   |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Nidoking / Excadrill                 |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Ninetales-Alola / Corviknight        |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Tapu Fini / Ninetales-Alola          |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Ninetales-Alola / Tornadus-Therian   |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Nidoking / Ninetales-Alola           |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Ninetales-Alola / Corviknight        |    1 |   3.12% | 100.00% |
+| 113  | Ninetales-Alola / Tornadus-Therian / Corviknight |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Ninetales-Alola / Corviknight         |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Ninetales-Alola / Tornadus-Therian   |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Ninetales-Alola / Nidoking           |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Ninetales-Alola / Tornadus-Therian    |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Tapu Fini / Corviknight              |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Tornadus-Therian / Corviknight       |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Nidoking / Corviknight               |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Tapu Fini / Tornadus-Therian         |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Tapu Fini / Nidoking                 |    1 |   3.12% | 100.00% |
+| 113  | Arctozolt / Nidoking / Tornadus-Therian          |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tornadus-Therian / Corviknight       |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Corviknight / Nidoking               |    1 |   3.12% | 100.00% |
+| 113  | Nidoking / Tornadus-Therian / Corviknight        |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tornadus-Therian / Nidoking          |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Buzzwole / Slowbro                      |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Ferrothorn / Buzzwole                   |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Zapdos / Buzzwole                    |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Zapdos / Buzzwole                    |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Ferrothorn / Slowbro                    |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Zapdos / Slowbro                     |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Zapdos / Slowbro                     |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Excadrill / Urshifu                  |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tapu Lele / Urshifu                  |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Zapdos / Urshifu                     |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Urshifu / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Tapu Lele / Urshifu                  |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Zapdos / Urshifu                     |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Urshifu / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Urshifu / Zapdos                     |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Urshifu / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Zapdos / Rotom-Wash                  |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tapu Lele / Rotom-Wash               |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Tapu Lele / Zapdos                  |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Zapdos / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Excadrill / Zapdos                  |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Tapu Lele / Ferrothorn              |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Excadrill / Tapu Lele               |    1 |   3.12% | 100.00% |
+| 113  | Landorus-Therian / Urshifu / Tapu Koko           |    1 |   3.12% | 100.00% |
+| 113  | Urshifu / Ferrothorn / Tapu Koko                 |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Urshifu / Tapu Koko             |    1 |   3.12% | 100.00% |
+| 113  | Urshifu / Tapu Koko / Mandibuzz                  |    1 |   3.12% | 100.00% |
+| 113  | Landorus-Therian / Ferrothorn / Tapu Koko        |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Landorus-Therian / Tapu Koko    |    1 |   3.12% | 100.00% |
+| 113  | Landorus-Therian / Tapu Koko / Mandibuzz         |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Ferrothorn / Tapu Koko          |    1 |   3.12% | 100.00% |
+| 113  | Ferrothorn / Tapu Koko / Mandibuzz               |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Tapu Koko / Mandibuzz           |    1 |   3.12% | 100.00% |
+| 113  | Urshifu / Landorus-Therian / Mandibuzz           |    1 |   3.12% | 100.00% |
+| 113  | Urshifu / Ferrothorn / Mandibuzz                 |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Urshifu / Mandibuzz             |    1 |   3.12% | 100.00% |
+| 113  | Ferrothorn / Landorus-Therian / Mandibuzz        |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Landorus-Therian / Mandibuzz    |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Ferrothorn / Mandibuzz          |    1 |   3.12% | 100.00% |
+| 113  | Urshifu / Dragapult / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Zapdos / Dragapult              |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Urshifu / Dragapult                     |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Zapdos / Ferrothorn             |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Zapdos / Landorus-Therian       |    1 |   3.12% | 100.00% |
+| 113  | Zapdos / Urshifu / Landorus-Therian              |    1 |   3.12% | 100.00% |
+| 113  | Slowking-Galar / Zapdos / Urshifu                |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Landorus-Therian / Magnezone         |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Garchomp / Magnezone                 |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tapu Lele / Magnezone                |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Tornadus-Therian / Magnezone         |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Garchomp / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tapu Lele / Landorus-Therian         |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Tornadus-Therian / Landorus-Therian  |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tapu Lele / Garchomp                 |    1 |   3.12% | 100.00% |
+| 113  | Tapu Lele / Garchomp / Tornadus-Therian          |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tapu Lele / Tornadus-Therian         |    1 |   3.12% | 100.00% |
+| 113  | Garchomp / Landorus-Therian / Magnezone          |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Landorus-Therian / Magnezone         |    1 |   3.12% | 100.00% |
+| 113  | Tornadus-Therian / Landorus-Therian / Magnezone  |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Garchomp / Magnezone                 |    1 |   3.12% | 100.00% |
+| 113  | Garchomp / Tornadus-Therian / Magnezone          |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tornadus-Therian / Magnezone         |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Garchomp / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 113  | Tornadus-Therian / Garchomp / Landorus-Therian   |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Tornadus-Therian / Landorus-Therian  |    1 |   3.12% | 100.00% |
+| 113  | Tapu Fini / Garchomp / Tornadus-Therian          |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Excadrill / Melmetal                 |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Excadrill / Dragapult                |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Melmetal / Rotom-Wash                |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Dragapult / Rotom-Wash               |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Melmetal / Clefable                  |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Melmetal / Dragapult                 |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Dragapult / Clefable                 |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Excadrill / Melmetal                |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Excadrill / Dragapult               |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Melmetal / Clefable                  |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Melmetal / Dragapult                 |    1 |   3.12% | 100.00% |
+| 113  | Excadrill / Dragapult / Clefable                 |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Melmetal / Clefable                 |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Melmetal / Dragapult                |    1 |   3.12% | 100.00% |
+| 113  | Rotom-Wash / Dragapult / Clefable                |    1 |   3.12% | 100.00% |
+| 113  | Melmetal / Dragapult / Clefable                  |    1 |   3.12% | 100.00% |
+| 113  | Tyranitar / Tornadus-Therian / Slowking          |    1 |   3.12% |   0.00% |
+| 113  | Tyranitar / Tornadus-Therian / Volcanion         |    1 |   3.12% |   0.00% |
+| 113  | Tyranitar / Excadrill / Slowking                 |    1 |   3.12% |   0.00% |
+| 113  | Tyranitar / Slowking / Buzzwole                  |    1 |   3.12% |   0.00% |
+| 113  | Tyranitar / Slowking / Volcanion                 |    1 |   3.12% |   0.00% |
+| 113  | Tyranitar / Excadrill / Volcanion                |    1 |   3.12% |   0.00% |
+| 113  | Tyranitar / Buzzwole / Volcanion                 |    1 |   3.12% |   0.00% |
+| 113  | Excadrill / Tornadus-Therian / Slowking          |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Slowking / Buzzwole           |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Slowking / Volcanion          |    1 |   3.12% |   0.00% |
+| 113  | Excadrill / Tornadus-Therian / Volcanion         |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Buzzwole / Volcanion          |    1 |   3.12% |   0.00% |
+| 113  | Excadrill / Slowking / Buzzwole                  |    1 |   3.12% |   0.00% |
+| 113  | Excadrill / Slowking / Volcanion                 |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Buzzwole / Volcanion                  |    1 |   3.12% |   0.00% |
+| 113  | Excadrill / Buzzwole / Volcanion                 |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Landorus-Therian / Slowbro            |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Clefable / Slowbro                    |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Tapu Koko / Slowbro                   |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Landorus-Therian / Slowbro            |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Landorus-Therian / Slowbro    |    1 |   3.12% |   0.00% |
+| 113  | Tapu Koko / Landorus-Therian / Slowbro           |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tornadus-Therian / Slowbro            |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tapu Koko / Slowbro                   |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Tapu Koko / Slowbro           |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Clefable / Landorus-Therian           |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Clefable / Landorus-Therian   |    1 |   3.12% |   0.00% |
+| 113  | Tapu Koko / Clefable / Landorus-Therian          |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tornadus-Therian / Clefable           |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Clefable / Tapu Koko                  |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Clefable / Tapu Koko          |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tornadus-Therian / Landorus-Therian   |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tapu Koko / Landorus-Therian          |    1 |   3.12% |   0.00% |
+| 113  | Tapu Koko / Tornadus-Therian / Landorus-Therian  |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tornadus-Therian / Tapu Koko          |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Buzzwole / Slowbro            |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Ferrothorn / Buzzwole         |    1 |   3.12% |   0.00% |
+| 113  | Dragapult / Urshifu / Clefable                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Urshifu / Clefable                     |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Urshifu / Clefable              |    1 |   3.12% |   0.00% |
+| 113  | Urshifu / Clefable / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Dragapult / Clefable                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Slowking-Galar / Clefable              |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Clefable / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Clefable / Landorus-Therian     |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Urshifu / Dragapult                    |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Slowking-Galar / Urshifu               |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Urshifu / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Slowking-Galar / Dragapult             |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Dragapult / Landorus-Therian           |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Slowking-Galar / Landorus-Therian      |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Blacephalon / Dragapult                 |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Zapdos / Dragapult                    |    1 |   3.12% |   0.00% |
+| 113  | Blacephalon / Dragapult / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 113  | Blacephalon / Dragapult / Ferrothorn             |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Blacephalon / Dragapult               |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Clefable / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Blacephalon / Ferrothorn                |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Zapdos / Ferrothorn                   |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Blacephalon / Clefable                  |    1 |   3.12% |   0.00% |
+| 113  | Blacephalon / Ferrothorn / Landorus-Therian      |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Ferrothorn / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 113  | Blacephalon / Clefable / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Blacephalon / Ferrothorn              |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Zeraora / Xatu                       |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Toxapex / Zeraora                    |    1 |   3.12% |   0.00% |
+| 113  | Corviknight / Hippowdon / Zeraora                |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Zeraora / Blissey                    |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Toxapex / Xatu                       |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Corviknight / Xatu                   |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Blissey / Xatu                       |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Toxapex / Blissey                    |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Corviknight / Blissey                |    1 |   3.12% |   0.00% |
+| 113  | Xatu / Toxapex / Zeraora                         |    1 |   3.12% |   0.00% |
+| 113  | Corviknight / Xatu / Zeraora                     |    1 |   3.12% |   0.00% |
+| 113  | Xatu / Zeraora / Blissey                         |    1 |   3.12% |   0.00% |
+| 113  | Corviknight / Toxapex / Zeraora                  |    1 |   3.12% |   0.00% |
+| 113  | Toxapex / Zeraora / Blissey                      |    1 |   3.12% |   0.00% |
+| 113  | Corviknight / Zeraora / Blissey                  |    1 |   3.12% |   0.00% |
+| 113  | Xatu / Toxapex / Corviknight                     |    1 |   3.12% |   0.00% |
+| 113  | Xatu / Toxapex / Blissey                         |    1 |   3.12% |   0.00% |
+| 113  | Xatu / Corviknight / Blissey                     |    1 |   3.12% |   0.00% |
+| 113  | Toxapex / Corviknight / Blissey                  |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Clefable / Slowbro                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Hippowdon / Clefable                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Hippowdon / Slowbro                    |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Tornadus-Therian / Slowbro           |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Rillaboom / Slowbro                  |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Hippowdon / Tornadus-Therian           |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Hippowdon / Rillaboom                  |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Clefable / Slowbro                     |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Rillaboom / Slowbro                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Tornadus-Therian / Clefable            |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Clefable / Rillaboom                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Tornadus-Therian / Slowbro             |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Rillaboom / Slowbro                    |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Rillaboom / Slowbro           |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Tornadus-Therian / Rillaboom           |    1 |   3.12% |   0.00% |
+| 113  | Scizor / Clefable / Rillaboom                    |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Scizor / Rillaboom                    |    1 |   3.12% |   0.00% |
+| 113  | Scizor / Tornadus-Therian / Rillaboom            |    1 |   3.12% |   0.00% |
+| 113  | Scizor / Hippowdon / Rillaboom                   |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Clefable / Rillaboom                  |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Tornadus-Therian / Rillaboom          |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Hippowdon / Rillaboom                 |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Clefable / Scizor                     |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Clefable / Scizor             |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Clefable / Scizor                    |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Tornadus-Therian / Scizor             |    1 |   3.12% |   0.00% |
+| 113  | Slowking / Hippowdon / Scizor                    |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Tornadus-Therian / Scizor            |    1 |   3.12% |   0.00% |
+| 113  | Nidoking / Dragonite / Weavile                   |    1 |   3.12% |   0.00% |
+| 113  | Nidoking / Clefable / Weavile                    |    1 |   3.12% |   0.00% |
+| 113  | Nidoking / Ferrothorn / Weavile                  |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Nidoking / Weavile                     |    1 |   3.12% |   0.00% |
+| 113  | Nidoking / Clefable / Dragonite                  |    1 |   3.12% |   0.00% |
+| 113  | Nidoking / Ferrothorn / Dragonite                |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Nidoking / Dragonite                   |    1 |   3.12% |   0.00% |
+| 113  | Nidoking / Clefable / Ferrothorn                 |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Nidoking / Clefable                    |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Nidoking / Ferrothorn                  |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Dragonite / Weavile                   |    1 |   3.12% |   0.00% |
+| 113  | Ferrothorn / Dragonite / Weavile                 |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Dragonite / Weavile                    |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Ferrothorn / Weavile                  |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Clefable / Weavile                     |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Ferrothorn / Weavile                   |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Dragonite / Ferrothorn                |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Clefable / Dragonite                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Ferrothorn / Dragonite                 |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Clefable / Ferrothorn                  |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Urshifu / Rillaboom                   |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tapu Lele / Urshifu                   |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Melmetal / Urshifu               |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Urshifu / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 113  | Tapu Lele / Urshifu / Rillaboom                  |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Urshifu / Rillaboom              |    1 |   3.12% |   0.00% |
+| 113  | Landorus-Therian / Urshifu / Rillaboom           |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Tapu Lele / Urshifu              |    1 |   3.12% |   0.00% |
+| 113  | Tapu Lele / Urshifu / Landorus-Therian           |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Urshifu / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tapu Lele / Rillaboom                 |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Melmetal / Rillaboom             |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Landorus-Therian / Rillaboom          |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Melmetal / Tapu Lele             |    1 |   3.12% |   0.00% |
+| 113  | Melmetal / Tapu Lele / Landorus-Therian          |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Melmetal / Landorus-Therian      |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Tapu Lele / Rillaboom            |    1 |   3.12% |   0.00% |
+| 113  | Tapu Lele / Landorus-Therian / Rillaboom         |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Landorus-Therian / Rillaboom     |    1 |   3.12% |   0.00% |
+| 113  | Moltres-Galar / Tapu Lele / Landorus-Therian     |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Clefable / Skarmory                 |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Slowking-Galar / Clefable           |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Hippowdon / Clefable                |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Clefable / Weavile                  |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Clefable / Skarmory             |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Clefable / Skarmory                  |    1 |   3.12% |   0.00% |
+| 113  | Clefable / Weavile / Skarmory                    |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Hippowdon / Clefable            |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Clefable / Weavile              |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Clefable / Weavile                   |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Slowking-Galar / Skarmory           |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Hippowdon / Skarmory                |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Weavile / Skarmory                  |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Slowking-Galar / Hippowdon          |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Slowking-Galar / Weavile            |    1 |   3.12% |   0.00% |
+| 113  | Rotom-Wash / Hippowdon / Weavile                 |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Hippowdon / Skarmory            |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Weavile / Skarmory              |    1 |   3.12% |   0.00% |
+| 113  | Hippowdon / Weavile / Skarmory                   |    1 |   3.12% |   0.00% |
+| 113  | Slowking-Galar / Hippowdon / Weavile             |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Landorus-Therian / Mew        |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Tornadus-Therian / Mew                 |    1 |   3.12% |   0.00% |
+| 113  | Tornadus-Therian / Blissey / Mew                 |    1 |   3.12% |   0.00% |
+| 113  | Toxapex / Tornadus-Therian / Mew                 |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Tornadus-Therian / Landorus-Therian    |    1 |   3.12% |   0.00% |
+| 113  | Blissey / Tornadus-Therian / Landorus-Therian    |    1 |   3.12% |   0.00% |
+| 113  | Toxapex / Tornadus-Therian / Landorus-Therian    |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Tornadus-Therian / Blissey             |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Toxapex / Tornadus-Therian             |    1 |   3.12% |   0.00% |
+| 113  | Toxapex / Tornadus-Therian / Blissey             |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Mew / Landorus-Therian                 |    1 |   3.12% |   0.00% |
+| 113  | Blissey / Mew / Landorus-Therian                 |    1 |   3.12% |   0.00% |
+| 113  | Toxapex / Mew / Landorus-Therian                 |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Mew / Blissey                          |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Toxapex / Mew                          |    1 |   3.12% |   0.00% |
+| 113  | Toxapex / Mew / Blissey                          |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Blissey / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 113  | Blissey / Toxapex / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Toxapex / Blissey                      |    1 |   3.12% |   0.00% |
+| 113  | Blacephalon / Rillaboom / Kartana                |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Blacephalon / Kartana                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Blacephalon / Kartana                  |    1 |   3.12% |   0.00% |
+| 113  | Blacephalon / Landorus-Therian / Kartana         |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Blacephalon / Rillaboom                 |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Blacephalon / Rillaboom                |    1 |   3.12% |   0.00% |
+| 113  | Landorus-Therian / Blacephalon / Rillaboom       |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Zapdos / Blacephalon                   |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Blacephalon / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Rillaboom / Kartana                     |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Rillaboom / Kartana                    |    1 |   3.12% |   0.00% |
+| 113  | Landorus-Therian / Rillaboom / Kartana           |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Zapdos / Kartana                       |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Landorus-Therian / Kartana              |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Landorus-Therian / Kartana             |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Zapdos / Rillaboom                     |    1 |   3.12% |   0.00% |
+| 113  | Zapdos / Landorus-Therian / Rillaboom            |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Landorus-Therian / Rillaboom           |    1 |   3.12% |   0.00% |
+| 113  | Heatran / Zapdos / Landorus-Therian              |    1 |   3.12% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Corviknight / Toxapex / Clefable / Slowking                   |    4 |  12.50% |  50.00% |
+| 2    | Tyranitar / Excadrill / Zapdos / Ferrothorn                   |    3 |   9.38% | 100.00% |
+| 2    | Tyranitar / Excadrill / Tornadus-Therian / Ferrothorn         |    3 |   9.38% |  66.67% |
+| 2    | Tyranitar / Excadrill / Ferrothorn / Slowbro                  |    3 |   9.38% |  66.67% |
+| 2    | Hippowdon / Tornadus-Therian / Clefable / Slowking            |    3 |   9.38% |   0.00% |
+| 6    | Tyranitar / Excadrill / Ferrothorn / Rotom-Wash               |    2 |   6.25% | 100.00% |
+| 6    | Tyranitar / Excadrill / Clefable / Rotom-Wash                 |    2 |   6.25% | 100.00% |
+| 6    | Tyranitar / Excadrill / Tapu Lele / Zapdos                    |    2 |   6.25% | 100.00% |
+| 6    | Tyranitar / Excadrill / Tapu Lele / Ferrothorn                |    2 |   6.25% | 100.00% |
+| 6    | Tyranitar / Tapu Lele / Ferrothorn / Zapdos                   |    2 |   6.25% | 100.00% |
+| 6    | Excadrill / Tapu Lele / Ferrothorn / Zapdos                   |    2 |   6.25% | 100.00% |
+| 6    | Corviknight / Clefable / Slowking / Dragonite                 |    2 |   6.25% | 100.00% |
+| 6    | Clefable / Slowking / Dragonite / Gastrodon                   |    2 |   6.25% | 100.00% |
+| 6    | Toxapex / Clefable / Slowking / Dragonite                     |    2 |   6.25% | 100.00% |
+| 6    | Corviknight / Slowking / Dragonite / Gastrodon                |    2 |   6.25% | 100.00% |
+| 6    | Toxapex / Corviknight / Slowking / Dragonite                  |    2 |   6.25% | 100.00% |
+| 6    | Toxapex / Slowking / Dragonite / Gastrodon                    |    2 |   6.25% | 100.00% |
+| 6    | Corviknight / Clefable / Slowking / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 6    | Toxapex / Clefable / Slowking / Gastrodon                     |    2 |   6.25% | 100.00% |
+| 6    | Toxapex / Corviknight / Slowking / Gastrodon                  |    2 |   6.25% | 100.00% |
+| 6    | Corviknight / Clefable / Dragonite / Gastrodon                |    2 |   6.25% | 100.00% |
+| 6    | Corviknight / Toxapex / Clefable / Dragonite                  |    2 |   6.25% | 100.00% |
+| 6    | Toxapex / Clefable / Dragonite / Gastrodon                    |    2 |   6.25% | 100.00% |
+| 6    | Toxapex / Corviknight / Dragonite / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 6    | Corviknight / Toxapex / Clefable / Gastrodon                  |    2 |   6.25% | 100.00% |
+| 6    | Slowking-Galar / Urshifu / Ferrothorn / Landorus-Therian      |    2 |   6.25% | 100.00% |
+| 6    | Tyranitar / Excadrill / Buzzwole / Slowbro                    |    2 |   6.25% |  50.00% |
+| 6    | Tyranitar / Excadrill / Ferrothorn / Buzzwole                 |    2 |   6.25% |  50.00% |
+| 6    | Tyranitar / Ferrothorn / Buzzwole / Slowbro                   |    2 |   6.25% |  50.00% |
+| 6    | Tyranitar / Excadrill / Tornadus-Therian / Slowbro            |    2 |   6.25% |  50.00% |
+| 6    | Tyranitar / Tornadus-Therian / Ferrothorn / Slowbro           |    2 |   6.25% |  50.00% |
+| 6    | Excadrill / Ferrothorn / Buzzwole / Slowbro                   |    2 |   6.25% |  50.00% |
+| 6    | Excadrill / Tornadus-Therian / Ferrothorn / Slowbro           |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Urshifu / Dragapult / Landorus-Therian       |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Blacephalon / Corviknight / Weavile          |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Blacephalon / Corviknight / Landorus-Therian |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Toxapex / Blacephalon / Corviknight          |    2 |   6.25% |  50.00% |
+| 6    | Blacephalon / Corviknight / Landorus-Therian / Weavile        |    2 |   6.25% |  50.00% |
+| 6    | Toxapex / Blacephalon / Corviknight / Weavile                 |    2 |   6.25% |  50.00% |
+| 6    | Toxapex / Blacephalon / Corviknight / Landorus-Therian        |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Blacephalon / Landorus-Therian / Weavile     |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Toxapex / Blacephalon / Weavile              |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Toxapex / Blacephalon / Landorus-Therian     |    2 |   6.25% |  50.00% |
+| 6    | Toxapex / Blacephalon / Landorus-Therian / Weavile            |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Corviknight / Landorus-Therian / Weavile     |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Toxapex / Corviknight / Weavile              |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Toxapex / Corviknight / Landorus-Therian     |    2 |   6.25% |  50.00% |
+| 6    | Toxapex / Corviknight / Landorus-Therian / Weavile            |    2 |   6.25% |  50.00% |
+| 6    | Slowking-Galar / Toxapex / Landorus-Therian / Weavile         |    2 |   6.25% |  50.00% |
+| 6    | Zapdos / Dragapult / Landorus-Therian / Ferrothorn            |    2 |   6.25% |  50.00% |
+| 6    | Tyranitar / Excadrill / Tornadus-Therian / Buzzwole           |    2 |   6.25% |   0.00% |
+| 6    | Hippowdon / Toxapex / Clefable / Slowking                     |    2 |   6.25% |   0.00% |
+| 6    | Corviknight / Hippowdon / Clefable / Slowking                 |    2 |   6.25% |   0.00% |
+| 6    | Corviknight / Hippowdon / Toxapex / Clefable                  |    2 |   6.25% |   0.00% |
+| 6    | Hippowdon / Toxapex / Clefable / Tornadus-Therian             |    2 |   6.25% |   0.00% |
+| 6    | Corviknight / Hippowdon / Tornadus-Therian / Clefable         |    2 |   6.25% |   0.00% |
+| 6    | Hippowdon / Toxapex / Corviknight / Slowking                  |    2 |   6.25% |   0.00% |
+| 6    | Tornadus-Therian / Hippowdon / Toxapex / Slowking             |    2 |   6.25% |   0.00% |
+| 6    | Hippowdon / Tornadus-Therian / Corviknight / Slowking         |    2 |   6.25% |   0.00% |
+| 6    | Hippowdon / Toxapex / Corviknight / Tornadus-Therian          |    2 |   6.25% |   0.00% |
+| 6    | Tornadus-Therian / Toxapex / Clefable / Slowking              |    2 |   6.25% |   0.00% |
+| 6    | Corviknight / Tornadus-Therian / Clefable / Slowking          |    2 |   6.25% |   0.00% |
+| 6    | Corviknight / Toxapex / Clefable / Tornadus-Therian           |    2 |   6.25% |   0.00% |
+| 6    | Tornadus-Therian / Toxapex / Corviknight / Slowking           |    2 |   6.25% |   0.00% |
+| 6    | Hippowdon / Tornadus-Therian / Clefable / Rillaboom           |    2 |   6.25% |   0.00% |
+| 66   | Clefable / Tornadus-Therian / Dragapult / Ferrothorn          |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Tornadus-Therian / Dragapult / Ferrothorn    |    1 |   3.12% | 100.00% |
+| 66   | Garchomp / Tornadus-Therian / Dragapult / Ferrothorn          |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Clefable / Tornadus-Therian / Dragapult      |    1 |   3.12% | 100.00% |
+| 66   | Garchomp / Clefable / Tornadus-Therian / Dragapult            |    1 |   3.12% | 100.00% |
+| 66   | Garchomp / Slowking-Galar / Tornadus-Therian / Dragapult      |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Clefable / Dragapult / Ferrothorn            |    1 |   3.12% | 100.00% |
+| 66   | Clefable / Garchomp / Dragapult / Ferrothorn                  |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Garchomp / Dragapult / Ferrothorn            |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Clefable / Garchomp / Dragapult              |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Clefable / Tornadus-Therian / Ferrothorn     |    1 |   3.12% | 100.00% |
+| 66   | Garchomp / Clefable / Tornadus-Therian / Ferrothorn           |    1 |   3.12% | 100.00% |
+| 66   | Garchomp / Slowking-Galar / Tornadus-Therian / Ferrothorn     |    1 |   3.12% | 100.00% |
+| 66   | Garchomp / Slowking-Galar / Tornadus-Therian / Clefable       |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Clefable / Garchomp / Ferrothorn             |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Clefable / Tapu Koko / Gastrodon                    |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Skarmory / Tapu Koko / Gastrodon                    |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Zapdos / Tapu Koko / Gastrodon                      |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Clefable / Tapu Koko / Skarmory                     |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Zapdos / Clefable / Tapu Koko                       |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Zapdos / Tapu Koko / Skarmory                       |    1 |   3.12% | 100.00% |
+| 66   | Skarmory / Clefable / Tapu Koko / Gastrodon                   |    1 |   3.12% | 100.00% |
+| 66   | Zapdos / Clefable / Tapu Koko / Gastrodon                     |    1 |   3.12% | 100.00% |
+| 66   | Zapdos / Skarmory / Tapu Koko / Gastrodon                     |    1 |   3.12% | 100.00% |
+| 66   | Zapdos / Clefable / Tapu Koko / Skarmory                      |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Skarmory / Clefable / Gastrodon                     |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Zapdos / Clefable / Gastrodon                       |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Zapdos / Skarmory / Gastrodon                       |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Zapdos / Clefable / Skarmory                        |    1 |   3.12% | 100.00% |
+| 66   | Skarmory / Zapdos / Clefable / Gastrodon                      |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Clefable / Ferrothorn / Rotom-Wash                |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tornadus-Therian / Ferrothorn / Rotom-Wash        |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Tornadus-Therian / Rotom-Wash         |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tornadus-Therian / Clefable / Rotom-Wash          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Clefable / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Clefable / Tornadus-Therian / Ferrothorn          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Tornadus-Therian / Clefable           |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Clefable / Ferrothorn                |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Tornadus-Therian / Ferrothorn        |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Clefable / Tornadus-Therian / Ferrothorn         |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Tornadus-Therian / Clefable          |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Clefable / Tornadus-Therian / Ferrothorn          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Toxapex / Corviknight / Heatran                   |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Toxapex / Corviknight / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Toxapex / Corviknight                 |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Toxapex / Corviknight / Landorus-Therian            |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Tapu Lele / Toxapex / Corviknight                   |    1 |   3.12% | 100.00% |
+| 66   | Tapu Lele / Toxapex / Corviknight / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Toxapex / Landorus-Therian / Heatran              |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Toxapex / Heatran                     |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Toxapex / Landorus-Therian            |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Tapu Lele / Toxapex / Landorus-Therian              |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Corviknight / Landorus-Therian / Heatran          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Corviknight / Heatran                 |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Corviknight / Landorus-Therian        |    1 |   3.12% | 100.00% |
+| 66   | Heatran / Tapu Lele / Corviknight / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Landorus-Therian / Heatran            |    1 |   3.12% | 100.00% |
+| 66   | Nidoking / Tornadus-Therian / Ferrothorn / Slowbro            |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Nidoking / Tornadus-Therian / Ferrothorn          |    1 |   3.12% | 100.00% |
+| 66   | Nidoking / Tornadus-Therian / Ferrothorn / Excadrill          |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Nidoking / Tornadus-Therian / Slowbro             |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Nidoking / Tornadus-Therian / Slowbro             |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Nidoking / Tornadus-Therian / Excadrill           |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Nidoking / Ferrothorn / Slowbro                   |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Nidoking / Ferrothorn / Slowbro                   |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Nidoking / Ferrothorn / Excadrill                 |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Nidoking / Excadrill / Slowbro                    |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Tapu Fini / Ninetales-Alola / Corviknight         |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Ninetales-Alola / Tornadus-Therian / Corviknight  |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Nidoking / Ninetales-Alola / Corviknight          |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Tapu Fini / Ninetales-Alola / Tornadus-Therian    |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Tapu Fini / Ninetales-Alola / Nidoking            |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Nidoking / Ninetales-Alola / Tornadus-Therian     |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Ninetales-Alola / Tornadus-Therian / Corviknight  |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Ninetales-Alola / Corviknight / Nidoking          |    1 |   3.12% | 100.00% |
+| 66   | Nidoking / Ninetales-Alola / Tornadus-Therian / Corviknight   |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Ninetales-Alola / Tornadus-Therian / Nidoking     |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Tapu Fini / Tornadus-Therian / Corviknight        |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Tapu Fini / Corviknight / Nidoking                |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Nidoking / Tornadus-Therian / Corviknight         |    1 |   3.12% | 100.00% |
+| 66   | Arctozolt / Tapu Fini / Tornadus-Therian / Nidoking           |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tornadus-Therian / Corviknight / Nidoking         |    1 |   3.12% | 100.00% |
+| 66   | Zapdos / Ferrothorn / Buzzwole / Slowbro                      |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Zapdos / Buzzwole / Slowbro                       |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Zapdos / Buzzwole / Slowbro                       |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Zapdos / Ferrothorn / Buzzwole                    |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Zapdos / Ferrothorn / Buzzwole                    |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Zapdos / Buzzwole                     |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Zapdos / Ferrothorn / Slowbro                     |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Zapdos / Ferrothorn / Slowbro                     |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Zapdos / Slowbro                      |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Tapu Lele / Urshifu                   |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Zapdos / Urshifu                      |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Urshifu / Ferrothorn                  |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Urshifu / Zapdos                      |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Urshifu / Ferrothorn                  |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Zapdos / Urshifu / Ferrothorn                     |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Tapu Lele / Urshifu / Zapdos                      |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Tapu Lele / Urshifu / Ferrothorn                  |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Zapdos / Urshifu / Ferrothorn                     |    1 |   3.12% | 100.00% |
+| 66   | Tapu Lele / Urshifu / Ferrothorn / Zapdos                     |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Zapdos / Rotom-Wash                   |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Zapdos / Ferrothorn / Rotom-Wash                  |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Zapdos / Rotom-Wash                   |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Tapu Lele / Ferrothorn / Rotom-Wash               |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Tapu Lele / Rotom-Wash                |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Tapu Lele / Zapdos / Ferrothorn                  |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Tapu Lele / Zapdos / Excadrill                   |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Zapdos / Ferrothorn                  |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Tapu Lele / Ferrothorn               |    1 |   3.12% | 100.00% |
+| 66   | Landorus-Therian / Urshifu / Ferrothorn / Tapu Koko           |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Landorus-Therian / Urshifu / Tapu Koko       |    1 |   3.12% | 100.00% |
+| 66   | Landorus-Therian / Urshifu / Tapu Koko / Mandibuzz            |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Urshifu / Ferrothorn / Tapu Koko             |    1 |   3.12% | 100.00% |
+| 66   | Urshifu / Ferrothorn / Tapu Koko / Mandibuzz                  |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Urshifu / Tapu Koko / Mandibuzz              |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Landorus-Therian / Ferrothorn / Tapu Koko    |    1 |   3.12% | 100.00% |
+| 66   | Landorus-Therian / Ferrothorn / Tapu Koko / Mandibuzz         |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Landorus-Therian / Tapu Koko / Mandibuzz     |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Ferrothorn / Tapu Koko / Mandibuzz           |    1 |   3.12% | 100.00% |
+| 66   | Urshifu / Ferrothorn / Landorus-Therian / Mandibuzz           |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Urshifu / Landorus-Therian / Mandibuzz       |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Urshifu / Ferrothorn / Mandibuzz             |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Ferrothorn / Landorus-Therian / Mandibuzz    |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Landorus-Therian / Dragapult / Ferrothorn    |    1 |   3.12% | 100.00% |
+| 66   | Landorus-Therian / Urshifu / Dragapult / Ferrothorn           |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Urshifu / Dragapult / Ferrothorn             |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Zapdos / Dragapult / Ferrothorn              |    1 |   3.12% | 100.00% |
+| 66   | Zapdos / Urshifu / Dragapult / Ferrothorn                     |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Zapdos / Dragapult / Landorus-Therian        |    1 |   3.12% | 100.00% |
+| 66   | Zapdos / Urshifu / Dragapult / Landorus-Therian               |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Zapdos / Urshifu / Dragapult                 |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Zapdos / Ferrothorn / Landorus-Therian       |    1 |   3.12% | 100.00% |
+| 66   | Zapdos / Urshifu / Ferrothorn / Landorus-Therian              |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Zapdos / Urshifu / Ferrothorn                |    1 |   3.12% | 100.00% |
+| 66   | Slowking-Galar / Zapdos / Urshifu / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 66   | Tapu Lele / Garchomp / Landorus-Therian / Magnezone           |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tapu Lele / Landorus-Therian / Magnezone          |    1 |   3.12% | 100.00% |
+| 66   | Tapu Lele / Tornadus-Therian / Landorus-Therian / Magnezone   |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tapu Lele / Garchomp / Magnezone                  |    1 |   3.12% | 100.00% |
+| 66   | Tapu Lele / Garchomp / Tornadus-Therian / Magnezone           |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tapu Lele / Tornadus-Therian / Magnezone          |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tapu Lele / Garchomp / Landorus-Therian           |    1 |   3.12% | 100.00% |
+| 66   | Tornadus-Therian / Tapu Lele / Garchomp / Landorus-Therian    |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tapu Lele / Tornadus-Therian / Landorus-Therian   |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tapu Lele / Garchomp / Tornadus-Therian           |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Garchomp / Landorus-Therian / Magnezone           |    1 |   3.12% | 100.00% |
+| 66   | Tornadus-Therian / Garchomp / Landorus-Therian / Magnezone    |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Tornadus-Therian / Landorus-Therian / Magnezone   |    1 |   3.12% | 100.00% |
+| 66   | Tapu Fini / Garchomp / Tornadus-Therian / Magnezone           |    1 |   3.12% | 100.00% |
+| 66   | Tornadus-Therian / Tapu Fini / Garchomp / Landorus-Therian    |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Melmetal / Rotom-Wash                 |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Dragapult / Rotom-Wash                |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Melmetal / Clefable                   |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Melmetal / Dragapult                  |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Dragapult / Clefable                  |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Melmetal / Clefable / Rotom-Wash                  |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Melmetal / Dragapult / Rotom-Wash                 |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Dragapult / Clefable / Rotom-Wash                 |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Melmetal / Dragapult / Clefable                   |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Melmetal / Clefable                  |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Melmetal / Dragapult                 |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Excadrill / Dragapult / Clefable                 |    1 |   3.12% | 100.00% |
+| 66   | Excadrill / Melmetal / Clefable / Dragapult                   |    1 |   3.12% | 100.00% |
+| 66   | Rotom-Wash / Melmetal / Dragapult / Clefable                  |    1 |   3.12% | 100.00% |
+| 66   | Tyranitar / Excadrill / Tornadus-Therian / Slowking           |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Tornadus-Therian / Slowking / Buzzwole            |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Tornadus-Therian / Slowking / Volcanion           |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Excadrill / Tornadus-Therian / Volcanion          |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Tornadus-Therian / Buzzwole / Volcanion           |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Excadrill / Slowking / Buzzwole                   |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Excadrill / Slowking / Volcanion                  |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Slowking / Buzzwole / Volcanion                   |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Excadrill / Buzzwole / Volcanion                  |    1 |   3.12% |   0.00% |
+| 66   | Excadrill / Tornadus-Therian / Slowking / Buzzwole            |    1 |   3.12% |   0.00% |
+| 66   | Excadrill / Tornadus-Therian / Slowking / Volcanion           |    1 |   3.12% |   0.00% |
+| 66   | Tornadus-Therian / Slowking / Buzzwole / Volcanion            |    1 |   3.12% |   0.00% |
+| 66   | Excadrill / Tornadus-Therian / Buzzwole / Volcanion           |    1 |   3.12% |   0.00% |
+| 66   | Excadrill / Slowking / Buzzwole / Volcanion                   |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Clefable / Landorus-Therian / Slowbro              |    1 |   3.12% |   0.00% |
+| 66   | Tornadus-Therian / Clefable / Landorus-Therian / Slowbro      |    1 |   3.12% |   0.00% |
+| 66   | Tapu Koko / Clefable / Landorus-Therian / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tornadus-Therian / Clefable / Slowbro              |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Clefable / Tapu Koko / Slowbro                     |    1 |   3.12% |   0.00% |
+| 66   | Tornadus-Therian / Clefable / Tapu Koko / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tornadus-Therian / Landorus-Therian / Slowbro      |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tapu Koko / Landorus-Therian / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Tapu Koko / Tornadus-Therian / Landorus-Therian / Slowbro     |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tornadus-Therian / Tapu Koko / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tornadus-Therian / Clefable / Landorus-Therian     |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tapu Koko / Clefable / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 66   | Tapu Koko / Tornadus-Therian / Clefable / Landorus-Therian    |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tornadus-Therian / Clefable / Tapu Koko            |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tapu Koko / Tornadus-Therian / Landorus-Therian    |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Tornadus-Therian / Buzzwole / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Tyranitar / Tornadus-Therian / Ferrothorn / Buzzwole          |    1 |   3.12% |   0.00% |
+| 66   | Excadrill / Tornadus-Therian / Buzzwole / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Excadrill / Tornadus-Therian / Ferrothorn / Buzzwole          |    1 |   3.12% |   0.00% |
+| 66   | Tornadus-Therian / Ferrothorn / Buzzwole / Slowbro            |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Dragapult / Urshifu / Clefable                      |    1 |   3.12% |   0.00% |
+| 66   | Dragapult / Slowking-Galar / Urshifu / Clefable               |    1 |   3.12% |   0.00% |
+| 66   | Dragapult / Urshifu / Clefable / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Slowking-Galar / Urshifu / Clefable                 |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Urshifu / Clefable / Landorus-Therian               |    1 |   3.12% |   0.00% |
+| 66   | Slowking-Galar / Urshifu / Clefable / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Dragapult / Slowking-Galar / Clefable               |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Dragapult / Clefable / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 66   | Dragapult / Slowking-Galar / Clefable / Landorus-Therian      |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Slowking-Galar / Clefable / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Slowking-Galar / Urshifu / Dragapult                |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Urshifu / Dragapult / Landorus-Therian              |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Slowking-Galar / Urshifu / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Slowking-Galar / Dragapult / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Blacephalon / Dragapult / Landorus-Therian           |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Zapdos / Dragapult / Landorus-Therian              |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Blacephalon / Dragapult / Ferrothorn                 |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Zapdos / Dragapult / Ferrothorn                    |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Zapdos / Blacephalon / Dragapult                   |    1 |   3.12% |   0.00% |
+| 66   | Blacephalon / Dragapult / Landorus-Therian / Ferrothorn       |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Dragapult / Landorus-Therian / Ferrothorn          |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Blacephalon / Dragapult / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Blacephalon / Dragapult / Ferrothorn               |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Blacephalon / Ferrothorn / Landorus-Therian          |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Zapdos / Ferrothorn / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Blacephalon / Clefable / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Zapdos / Blacephalon / Ferrothorn                  |    1 |   3.12% |   0.00% |
+| 66   | Clefable / Blacephalon / Ferrothorn / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Toxapex / Zeraora / Xatu                          |    1 |   3.12% |   0.00% |
+| 66   | Corviknight / Hippowdon / Zeraora / Xatu                      |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Blissey / Zeraora / Xatu                          |    1 |   3.12% |   0.00% |
+| 66   | Corviknight / Hippowdon / Toxapex / Zeraora                   |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Toxapex / Zeraora / Blissey                       |    1 |   3.12% |   0.00% |
+| 66   | Corviknight / Hippowdon / Zeraora / Blissey                   |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Toxapex / Corviknight / Xatu                      |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Toxapex / Xatu / Blissey                          |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Blissey / Corviknight / Xatu                      |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Toxapex / Corviknight / Blissey                   |    1 |   3.12% |   0.00% |
+| 66   | Corviknight / Xatu / Toxapex / Zeraora                        |    1 |   3.12% |   0.00% |
+| 66   | Xatu / Toxapex / Zeraora / Blissey                            |    1 |   3.12% |   0.00% |
+| 66   | Corviknight / Xatu / Zeraora / Blissey                        |    1 |   3.12% |   0.00% |
+| 66   | Corviknight / Toxapex / Zeraora / Blissey                     |    1 |   3.12% |   0.00% |
+| 66   | Xatu / Toxapex / Corviknight / Blissey                        |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Hippowdon / Clefable / Slowbro                      |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Tornadus-Therian / Clefable / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Clefable / Rillaboom / Slowbro                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Hippowdon / Tornadus-Therian / Clefable             |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Hippowdon / Clefable / Rillaboom                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Hippowdon / Tornadus-Therian / Slowbro              |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Hippowdon / Rillaboom / Slowbro                     |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Tornadus-Therian / Rillaboom / Slowbro            |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Hippowdon / Tornadus-Therian / Rillaboom            |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Tornadus-Therian / Clefable / Slowbro               |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Clefable / Rillaboom / Slowbro                      |    1 |   3.12% |   0.00% |
+| 66   | Tornadus-Therian / Clefable / Rillaboom / Slowbro             |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Tornadus-Therian / Clefable / Rillaboom             |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Tornadus-Therian / Rillaboom / Slowbro              |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Scizor / Clefable / Rillaboom                      |    1 |   3.12% |   0.00% |
+| 66   | Scizor / Tornadus-Therian / Clefable / Rillaboom              |    1 |   3.12% |   0.00% |
+| 66   | Scizor / Hippowdon / Clefable / Rillaboom                     |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Scizor / Tornadus-Therian / Rillaboom              |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Scizor / Hippowdon / Rillaboom                     |    1 |   3.12% |   0.00% |
+| 66   | Scizor / Hippowdon / Tornadus-Therian / Rillaboom             |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Tornadus-Therian / Clefable / Rillaboom            |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Hippowdon / Clefable / Rillaboom                   |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Hippowdon / Tornadus-Therian / Rillaboom           |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Tornadus-Therian / Clefable / Scizor               |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Hippowdon / Clefable / Scizor                      |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Tornadus-Therian / Clefable / Scizor              |    1 |   3.12% |   0.00% |
+| 66   | Slowking / Hippowdon / Tornadus-Therian / Scizor              |    1 |   3.12% |   0.00% |
+| 66   | Nidoking / Clefable / Dragonite / Weavile                     |    1 |   3.12% |   0.00% |
+| 66   | Nidoking / Ferrothorn / Dragonite / Weavile                   |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Nidoking / Dragonite / Weavile                      |    1 |   3.12% |   0.00% |
+| 66   | Nidoking / Clefable / Ferrothorn / Weavile                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Nidoking / Clefable / Weavile                       |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Nidoking / Ferrothorn / Weavile                     |    1 |   3.12% |   0.00% |
+| 66   | Nidoking / Clefable / Dragonite / Ferrothorn                  |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Nidoking / Clefable / Dragonite                     |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Nidoking / Ferrothorn / Dragonite                   |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Nidoking / Clefable / Ferrothorn                    |    1 |   3.12% |   0.00% |
+| 66   | Ferrothorn / Clefable / Dragonite / Weavile                   |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Clefable / Dragonite / Weavile                      |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Ferrothorn / Dragonite / Weavile                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Clefable / Ferrothorn / Weavile                     |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Clefable / Dragonite / Ferrothorn                   |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tapu Lele / Urshifu / Rillaboom                    |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Melmetal / Urshifu / Rillaboom                |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Landorus-Therian / Urshifu / Rillaboom             |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Melmetal / Tapu Lele / Urshifu                |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tapu Lele / Urshifu / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Melmetal / Urshifu / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Tapu Lele / Urshifu / Rillaboom               |    1 |   3.12% |   0.00% |
+| 66   | Tapu Lele / Urshifu / Landorus-Therian / Rillaboom            |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Landorus-Therian / Urshifu / Rillaboom        |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Tapu Lele / Urshifu / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Melmetal / Tapu Lele / Rillaboom              |    1 |   3.12% |   0.00% |
+| 66   | Melmetal / Tapu Lele / Landorus-Therian / Rillaboom           |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Melmetal / Landorus-Therian / Rillaboom       |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Melmetal / Tapu Lele / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 66   | Moltres-Galar / Tapu Lele / Landorus-Therian / Rillaboom      |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Slowking-Galar / Clefable / Skarmory             |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Hippowdon / Clefable / Skarmory                  |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Clefable / Weavile / Skarmory                    |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Slowking-Galar / Hippowdon / Clefable            |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Slowking-Galar / Clefable / Weavile              |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Hippowdon / Clefable / Weavile                   |    1 |   3.12% |   0.00% |
+| 66   | Slowking-Galar / Hippowdon / Clefable / Skarmory              |    1 |   3.12% |   0.00% |
+| 66   | Slowking-Galar / Clefable / Weavile / Skarmory                |    1 |   3.12% |   0.00% |
+| 66   | Hippowdon / Clefable / Weavile / Skarmory                     |    1 |   3.12% |   0.00% |
+| 66   | Slowking-Galar / Hippowdon / Clefable / Weavile               |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Slowking-Galar / Hippowdon / Skarmory            |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Slowking-Galar / Weavile / Skarmory              |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Hippowdon / Weavile / Skarmory                   |    1 |   3.12% |   0.00% |
+| 66   | Rotom-Wash / Slowking-Galar / Hippowdon / Weavile             |    1 |   3.12% |   0.00% |
+| 66   | Slowking-Galar / Hippowdon / Weavile / Skarmory               |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Tornadus-Therian / Landorus-Therian / Mew           |    1 |   3.12% |   0.00% |
+| 66   | Blissey / Tornadus-Therian / Landorus-Therian / Mew           |    1 |   3.12% |   0.00% |
+| 66   | Toxapex / Tornadus-Therian / Landorus-Therian / Mew           |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Tornadus-Therian / Blissey / Mew                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Toxapex / Tornadus-Therian / Mew                    |    1 |   3.12% |   0.00% |
+| 66   | Toxapex / Tornadus-Therian / Blissey / Mew                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Blissey / Tornadus-Therian / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Toxapex / Tornadus-Therian / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 66   | Toxapex / Blissey / Tornadus-Therian / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Toxapex / Tornadus-Therian / Blissey                |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Blissey / Mew / Landorus-Therian                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Toxapex / Mew / Landorus-Therian                    |    1 |   3.12% |   0.00% |
+| 66   | Toxapex / Blissey / Mew / Landorus-Therian                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Toxapex / Mew / Blissey                             |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Blissey / Toxapex / Landorus-Therian                |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Blacephalon / Rillaboom / Kartana                    |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Blacephalon / Rillaboom / Kartana                   |    1 |   3.12% |   0.00% |
+| 66   | Landorus-Therian / Blacephalon / Rillaboom / Kartana          |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Zapdos / Blacephalon / Kartana                      |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Blacephalon / Landorus-Therian / Kartana             |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Blacephalon / Landorus-Therian / Kartana            |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Zapdos / Blacephalon / Rillaboom                    |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Blacephalon / Landorus-Therian / Rillaboom           |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Landorus-Therian / Blacephalon / Rillaboom          |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Zapdos / Blacephalon / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Zapdos / Rillaboom / Kartana                        |    1 |   3.12% |   0.00% |
+| 66   | Zapdos / Landorus-Therian / Rillaboom / Kartana               |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Landorus-Therian / Rillaboom / Kartana              |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Zapdos / Landorus-Therian / Kartana                 |    1 |   3.12% |   0.00% |
+| 66   | Heatran / Zapdos / Landorus-Therian / Rillaboom               |    1 |   3.12% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                              | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Tapu Lele / Tyranitar / Excadrill / Ferrothorn / Zapdos                  |    2 |   6.25% | 100.00% |
+| 1    | Corviknight / Slowking / Dragonite / Clefable / Gastrodon                |    2 |   6.25% | 100.00% |
+| 1    | Toxapex / Corviknight / Slowking / Dragonite / Clefable                  |    2 |   6.25% | 100.00% |
+| 1    | Toxapex / Slowking / Dragonite / Clefable / Gastrodon                    |    2 |   6.25% | 100.00% |
+| 1    | Toxapex / Corviknight / Slowking / Dragonite / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 1    | Toxapex / Corviknight / Slowking / Clefable / Gastrodon                  |    2 |   6.25% | 100.00% |
+| 1    | Toxapex / Corviknight / Dragonite / Clefable / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 1    | Slowbro / Tyranitar / Excadrill / Ferrothorn / Buzzwole                  |    2 |   6.25% |  50.00% |
+| 1    | Slowbro / Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian          |    2 |   6.25% |  50.00% |
+| 1    | Slowking-Galar / Corviknight / Blacephalon / Landorus-Therian / Weavile  |    2 |   6.25% |  50.00% |
+| 1    | Slowking-Galar / Toxapex / Corviknight / Blacephalon / Weavile           |    2 |   6.25% |  50.00% |
+| 1    | Slowking-Galar / Toxapex / Corviknight / Blacephalon / Landorus-Therian  |    2 |   6.25% |  50.00% |
+| 1    | Toxapex / Corviknight / Blacephalon / Landorus-Therian / Weavile         |    2 |   6.25% |  50.00% |
+| 1    | Slowking-Galar / Toxapex / Blacephalon / Landorus-Therian / Weavile      |    2 |   6.25% |  50.00% |
+| 1    | Slowking-Galar / Toxapex / Corviknight / Landorus-Therian / Weavile      |    2 |   6.25% |  50.00% |
+| 1    | Hippowdon / Toxapex / Corviknight / Slowking / Clefable                  |    2 |   6.25% |   0.00% |
+| 1    | Hippowdon / Toxapex / Slowking / Tornadus-Therian / Clefable             |    2 |   6.25% |   0.00% |
+| 1    | Hippowdon / Corviknight / Slowking / Tornadus-Therian / Clefable         |    2 |   6.25% |   0.00% |
+| 1    | Hippowdon / Toxapex / Corviknight / Tornadus-Therian / Clefable          |    2 |   6.25% |   0.00% |
+| 1    | Hippowdon / Toxapex / Corviknight / Slowking / Tornadus-Therian          |    2 |   6.25% |   0.00% |
+| 1    | Toxapex / Corviknight / Slowking / Tornadus-Therian / Clefable           |    2 |   6.25% |   0.00% |
+| 22   | Slowking-Galar / Dragapult / Ferrothorn / Tornadus-Therian / Clefable    |    1 |   3.12% | 100.00% |
+| 22   | Garchomp / Dragapult / Ferrothorn / Tornadus-Therian / Clefable          |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Garchomp / Dragapult / Ferrothorn / Tornadus-Therian    |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Garchomp / Dragapult / Tornadus-Therian / Clefable      |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Garchomp / Dragapult / Ferrothorn / Clefable            |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Garchomp / Ferrothorn / Tornadus-Therian / Clefable     |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Skarmory / Clefable / Tapu Koko / Gastrodon                    |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Zapdos / Clefable / Tapu Koko / Gastrodon                      |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Skarmory / Zapdos / Tapu Koko / Gastrodon                      |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Skarmory / Zapdos / Clefable / Tapu Koko                       |    1 |   3.12% | 100.00% |
+| 22   | Skarmory / Zapdos / Clefable / Tapu Koko / Gastrodon                     |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Skarmory / Zapdos / Clefable / Gastrodon                       |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Tyranitar / Excadrill / Ferrothorn / Clefable               |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian       |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Tyranitar / Ferrothorn / Tornadus-Therian / Clefable        |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Tyranitar / Excadrill / Tornadus-Therian / Clefable         |    1 |   3.12% | 100.00% |
+| 22   | Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian / Clefable         |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Excadrill / Ferrothorn / Tornadus-Therian / Clefable        |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Toxapex / Corviknight / Tyranitar / Landorus-Therian           |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Tapu Lele / Toxapex / Corviknight / Tyranitar                  |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Toxapex / Corviknight / Tyranitar / Landorus-Therian         |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Tapu Lele / Toxapex / Corviknight / Landorus-Therian           |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Tapu Lele / Toxapex / Tyranitar / Landorus-Therian             |    1 |   3.12% | 100.00% |
+| 22   | Heatran / Tapu Lele / Corviknight / Tyranitar / Landorus-Therian         |    1 |   3.12% | 100.00% |
+| 22   | Nidoking / Slowbro / Tyranitar / Ferrothorn / Tornadus-Therian           |    1 |   3.12% | 100.00% |
+| 22   | Nidoking / Slowbro / Excadrill / Ferrothorn / Tornadus-Therian           |    1 |   3.12% | 100.00% |
+| 22   | Nidoking / Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian         |    1 |   3.12% | 100.00% |
+| 22   | Nidoking / Slowbro / Tyranitar / Excadrill / Tornadus-Therian            |    1 |   3.12% | 100.00% |
+| 22   | Nidoking / Slowbro / Tyranitar / Excadrill / Ferrothorn                  |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Arctozolt / Corviknight / Ninetales-Alola / Tornadus-Therian |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Arctozolt / Nidoking / Corviknight / Ninetales-Alola         |    1 |   3.12% | 100.00% |
+| 22   | Arctozolt / Nidoking / Corviknight / Ninetales-Alola / Tornadus-Therian  |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Arctozolt / Nidoking / Ninetales-Alola / Tornadus-Therian    |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Nidoking / Corviknight / Ninetales-Alola / Tornadus-Therian  |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Arctozolt / Nidoking / Corviknight / Tornadus-Therian        |    1 |   3.12% | 100.00% |
+| 22   | Slowbro / Tyranitar / Ferrothorn / Zapdos / Buzzwole                     |    1 |   3.12% | 100.00% |
+| 22   | Slowbro / Excadrill / Ferrothorn / Zapdos / Buzzwole                     |    1 |   3.12% | 100.00% |
+| 22   | Slowbro / Tyranitar / Excadrill / Zapdos / Buzzwole                      |    1 |   3.12% | 100.00% |
+| 22   | Tyranitar / Excadrill / Ferrothorn / Zapdos / Buzzwole                   |    1 |   3.12% | 100.00% |
+| 22   | Slowbro / Tyranitar / Excadrill / Ferrothorn / Zapdos                    |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Tyranitar / Excadrill / Urshifu / Zapdos                     |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Tyranitar / Excadrill / Urshifu / Ferrothorn                 |    1 |   3.12% | 100.00% |
+| 22   | Tyranitar / Excadrill / Urshifu / Ferrothorn / Zapdos                    |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Tyranitar / Urshifu / Ferrothorn / Zapdos                    |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Excadrill / Urshifu / Ferrothorn / Zapdos                    |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Rotom-Wash / Tyranitar / Ferrothorn / Zapdos                 |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Rotom-Wash / Tyranitar / Excadrill / Zapdos                  |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Tyranitar / Excadrill / Ferrothorn / Zapdos                 |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Rotom-Wash / Tyranitar / Excadrill / Ferrothorn              |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Rotom-Wash / Excadrill / Ferrothorn / Zapdos                 |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Tapu Koko / Urshifu / Ferrothorn / Landorus-Therian     |    1 |   3.12% | 100.00% |
+| 22   | Tapu Koko / Urshifu / Ferrothorn / Mandibuzz / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Tapu Koko / Urshifu / Mandibuzz / Landorus-Therian      |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Urshifu / Ferrothorn / Mandibuzz / Tapu Koko            |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Tapu Koko / Ferrothorn / Mandibuzz / Landorus-Therian   |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Urshifu / Ferrothorn / Mandibuzz / Landorus-Therian     |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Dragapult / Urshifu / Ferrothorn / Landorus-Therian     |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Dragapult / Ferrothorn / Zapdos / Landorus-Therian      |    1 |   3.12% | 100.00% |
+| 22   | Dragapult / Urshifu / Ferrothorn / Zapdos / Landorus-Therian             |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Dragapult / Urshifu / Ferrothorn / Zapdos               |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Dragapult / Urshifu / Zapdos / Landorus-Therian         |    1 |   3.12% | 100.00% |
+| 22   | Slowking-Galar / Urshifu / Ferrothorn / Zapdos / Landorus-Therian        |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Tapu Lele / Garchomp / Landorus-Therian / Magnezone          |    1 |   3.12% | 100.00% |
+| 22   | Tapu Lele / Garchomp / Tornadus-Therian / Landorus-Therian / Magnezone   |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Tapu Lele / Tornadus-Therian / Landorus-Therian / Magnezone  |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Tapu Lele / Garchomp / Tornadus-Therian / Magnezone          |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Tapu Lele / Garchomp / Tornadus-Therian / Landorus-Therian   |    1 |   3.12% | 100.00% |
+| 22   | Tapu Fini / Garchomp / Tornadus-Therian / Landorus-Therian / Magnezone   |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Tyranitar / Excadrill / Melmetal / Clefable                 |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Dragapult / Tyranitar / Excadrill / Melmetal                |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Dragapult / Tyranitar / Excadrill / Clefable                |    1 |   3.12% | 100.00% |
+| 22   | Dragapult / Tyranitar / Excadrill / Melmetal / Clefable                  |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Dragapult / Tyranitar / Melmetal / Clefable                 |    1 |   3.12% | 100.00% |
+| 22   | Rotom-Wash / Dragapult / Excadrill / Melmetal / Clefable                 |    1 |   3.12% | 100.00% |
+| 22   | Tyranitar / Excadrill / Slowking / Tornadus-Therian / Buzzwole           |    1 |   3.12% |   0.00% |
+| 22   | Tyranitar / Excadrill / Slowking / Volcanion / Tornadus-Therian          |    1 |   3.12% |   0.00% |
+| 22   | Tyranitar / Slowking / Volcanion / Tornadus-Therian / Buzzwole           |    1 |   3.12% |   0.00% |
+| 22   | Tyranitar / Excadrill / Volcanion / Tornadus-Therian / Buzzwole          |    1 |   3.12% |   0.00% |
+| 22   | Tyranitar / Excadrill / Slowking / Volcanion / Buzzwole                  |    1 |   3.12% |   0.00% |
+| 22   | Excadrill / Slowking / Volcanion / Tornadus-Therian / Buzzwole           |    1 |   3.12% |   0.00% |
+| 22   | Slowbro / Melmetal / Tornadus-Therian / Clefable / Landorus-Therian      |    1 |   3.12% |   0.00% |
+| 22   | Landorus-Therian / Slowbro / Melmetal / Clefable / Tapu Koko             |    1 |   3.12% |   0.00% |
+| 22   | Landorus-Therian / Slowbro / Tornadus-Therian / Clefable / Tapu Koko     |    1 |   3.12% |   0.00% |
+| 22   | Slowbro / Melmetal / Tornadus-Therian / Clefable / Tapu Koko             |    1 |   3.12% |   0.00% |
+| 22   | Landorus-Therian / Slowbro / Melmetal / Tornadus-Therian / Tapu Koko     |    1 |   3.12% |   0.00% |
+| 22   | Landorus-Therian / Melmetal / Tornadus-Therian / Clefable / Tapu Koko    |    1 |   3.12% |   0.00% |
+| 22   | Slowbro / Tyranitar / Excadrill / Tornadus-Therian / Buzzwole            |    1 |   3.12% |   0.00% |
+| 22   | Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian / Buzzwole         |    1 |   3.12% |   0.00% |
+| 22   | Slowbro / Tyranitar / Ferrothorn / Tornadus-Therian / Buzzwole           |    1 |   3.12% |   0.00% |
+| 22   | Slowbro / Excadrill / Ferrothorn / Tornadus-Therian / Buzzwole           |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Slowking-Galar / Dragapult / Urshifu / Clefable                |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Dragapult / Urshifu / Clefable / Landorus-Therian              |    1 |   3.12% |   0.00% |
+| 22   | Slowking-Galar / Dragapult / Urshifu / Clefable / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Slowking-Galar / Urshifu / Clefable / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Slowking-Galar / Dragapult / Clefable / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Slowking-Galar / Dragapult / Urshifu / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 22   | Dragapult / Blacephalon / Ferrothorn / Zapdos / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 22   | Dragapult / Ferrothorn / Zapdos / Clefable / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 22   | Dragapult / Blacephalon / Zapdos / Clefable / Landorus-Therian           |    1 |   3.12% |   0.00% |
+| 22   | Dragapult / Blacephalon / Ferrothorn / Zapdos / Clefable                 |    1 |   3.12% |   0.00% |
+| 22   | Dragapult / Blacephalon / Ferrothorn / Clefable / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 22   | Blacephalon / Ferrothorn / Zapdos / Clefable / Landorus-Therian          |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Toxapex / Corviknight / Zeraora / Xatu                       |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Blissey / Toxapex / Zeraora / Xatu                           |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Blissey / Corviknight / Zeraora / Xatu                       |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Blissey / Toxapex / Corviknight / Zeraora                    |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Blissey / Toxapex / Corviknight / Xatu                       |    1 |   3.12% |   0.00% |
+| 22   | Blissey / Toxapex / Corviknight / Zeraora / Xatu                         |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Hippowdon / Slowbro / Tornadus-Therian / Clefable              |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Hippowdon / Rillaboom / Slowbro / Clefable                     |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Rillaboom / Slowbro / Tornadus-Therian / Clefable            |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Hippowdon / Rillaboom / Tornadus-Therian / Clefable            |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Hippowdon / Rillaboom / Slowbro / Tornadus-Therian             |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Rillaboom / Slowbro / Tornadus-Therian / Clefable              |    1 |   3.12% |   0.00% |
+| 22   | Rillaboom / Slowking / Scizor / Tornadus-Therian / Clefable              |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Rillaboom / Slowking / Scizor / Clefable                     |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Rillaboom / Scizor / Tornadus-Therian / Clefable             |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Rillaboom / Slowking / Scizor / Tornadus-Therian             |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Rillaboom / Slowking / Tornadus-Therian / Clefable           |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Slowking / Scizor / Tornadus-Therian / Clefable              |    1 |   3.12% |   0.00% |
+| 22   | Nidoking / Ferrothorn / Dragonite / Clefable / Weavile                   |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Nidoking / Dragonite / Clefable / Weavile                      |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Nidoking / Ferrothorn / Dragonite / Weavile                    |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Nidoking / Ferrothorn / Clefable / Weavile                     |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Nidoking / Ferrothorn / Dragonite / Clefable                   |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Ferrothorn / Dragonite / Clefable / Weavile                    |    1 |   3.12% |   0.00% |
+| 22   | Tapu Lele / Moltres-Galar / Rillaboom / Melmetal / Urshifu               |    1 |   3.12% |   0.00% |
+| 22   | Tapu Lele / Rillaboom / Melmetal / Urshifu / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 22   | Moltres-Galar / Rillaboom / Melmetal / Urshifu / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 22   | Tapu Lele / Moltres-Galar / Melmetal / Urshifu / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 22   | Tapu Lele / Moltres-Galar / Rillaboom / Urshifu / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 22   | Tapu Lele / Moltres-Galar / Rillaboom / Melmetal / Landorus-Therian      |    1 |   3.12% |   0.00% |
+| 22   | Slowking-Galar / Hippowdon / Rotom-Wash / Skarmory / Clefable            |    1 |   3.12% |   0.00% |
+| 22   | Slowking-Galar / Rotom-Wash / Skarmory / Clefable / Weavile              |    1 |   3.12% |   0.00% |
+| 22   | Hippowdon / Rotom-Wash / Skarmory / Clefable / Weavile                   |    1 |   3.12% |   0.00% |
+| 22   | Slowking-Galar / Hippowdon / Rotom-Wash / Clefable / Weavile             |    1 |   3.12% |   0.00% |
+| 22   | Slowking-Galar / Hippowdon / Skarmory / Clefable / Weavile               |    1 |   3.12% |   0.00% |
+| 22   | Slowking-Galar / Hippowdon / Rotom-Wash / Skarmory / Weavile             |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Blissey / Mew / Tornadus-Therian / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Toxapex / Mew / Tornadus-Therian / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 22   | Blissey / Toxapex / Mew / Tornadus-Therian / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Blissey / Toxapex / Mew / Tornadus-Therian                     |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Blissey / Toxapex / Tornadus-Therian / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Blissey / Toxapex / Mew / Landorus-Therian                     |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Rillaboom / Kartana / Blacephalon / Zapdos                     |    1 |   3.12% |   0.00% |
+| 22   | Rillaboom / Kartana / Blacephalon / Zapdos / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Rillaboom / Kartana / Blacephalon / Landorus-Therian           |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Kartana / Blacephalon / Zapdos / Landorus-Therian              |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Rillaboom / Blacephalon / Zapdos / Landorus-Therian            |    1 |   3.12% |   0.00% |
+| 22   | Heatran / Rillaboom / Kartana / Zapdos / Landorus-Therian                |    1 |   3.12% |   0.00% |
+
++ ---- + ----------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Toxapex / Corviknight / Slowking / Dragonite / Clefable / Gastrodon                 |    2 |   6.25% | 100.00% |
+| 1    | Slowking-Galar / Toxapex / Corviknight / Blacephalon / Landorus-Therian / Weavile   |    2 |   6.25% |  50.00% |
+| 1    | Hippowdon / Toxapex / Corviknight / Slowking / Tornadus-Therian / Clefable          |    2 |   6.25% |   0.00% |
+| 4    | Slowking-Galar / Garchomp / Dragapult / Ferrothorn / Tornadus-Therian / Clefable    |    1 |   3.12% | 100.00% |
+| 4    | Heatran / Skarmory / Zapdos / Clefable / Tapu Koko / Gastrodon                      |    1 |   3.12% | 100.00% |
+| 4    | Rotom-Wash / Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian / Clefable       |    1 |   3.12% | 100.00% |
+| 4    | Heatran / Tapu Lele / Toxapex / Corviknight / Tyranitar / Landorus-Therian          |    1 |   3.12% | 100.00% |
+| 4    | Nidoking / Slowbro / Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian          |    1 |   3.12% | 100.00% |
+| 4    | Tapu Fini / Arctozolt / Nidoking / Corviknight / Ninetales-Alola / Tornadus-Therian |    1 |   3.12% | 100.00% |
+| 4    | Slowbro / Tyranitar / Excadrill / Ferrothorn / Zapdos / Buzzwole                    |    1 |   3.12% | 100.00% |
+| 4    | Tapu Lele / Tyranitar / Excadrill / Urshifu / Ferrothorn / Zapdos                   |    1 |   3.12% | 100.00% |
+| 4    | Tapu Lele / Rotom-Wash / Tyranitar / Excadrill / Ferrothorn / Zapdos                |    1 |   3.12% | 100.00% |
+| 4    | Slowking-Galar / Tapu Koko / Urshifu / Ferrothorn / Mandibuzz / Landorus-Therian    |    1 |   3.12% | 100.00% |
+| 4    | Slowking-Galar / Dragapult / Urshifu / Ferrothorn / Zapdos / Landorus-Therian       |    1 |   3.12% | 100.00% |
+| 4    | Tapu Fini / Tapu Lele / Garchomp / Tornadus-Therian / Landorus-Therian / Magnezone  |    1 |   3.12% | 100.00% |
+| 4    | Rotom-Wash / Dragapult / Tyranitar / Excadrill / Melmetal / Clefable                |    1 |   3.12% | 100.00% |
+| 4    | Tyranitar / Excadrill / Slowking / Volcanion / Tornadus-Therian / Buzzwole          |    1 |   3.12% |   0.00% |
+| 4    | Tapu Koko / Slowbro / Melmetal / Tornadus-Therian / Clefable / Landorus-Therian     |    1 |   3.12% |   0.00% |
+| 4    | Slowbro / Tyranitar / Excadrill / Ferrothorn / Tornadus-Therian / Buzzwole          |    1 |   3.12% |   0.00% |
+| 4    | Heatran / Slowking-Galar / Dragapult / Urshifu / Clefable / Landorus-Therian        |    1 |   3.12% |   0.00% |
+| 4    | Dragapult / Blacephalon / Ferrothorn / Zapdos / Clefable / Landorus-Therian         |    1 |   3.12% |   0.00% |
+| 4    | Hippowdon / Blissey / Toxapex / Corviknight / Zeraora / Xatu                        |    1 |   3.12% |   0.00% |
+| 4    | Heatran / Hippowdon / Rillaboom / Slowbro / Tornadus-Therian / Clefable             |    1 |   3.12% |   0.00% |
+| 4    | Hippowdon / Rillaboom / Slowking / Scizor / Tornadus-Therian / Clefable             |    1 |   3.12% |   0.00% |
+| 4    | Heatran / Nidoking / Ferrothorn / Dragonite / Clefable / Weavile                    |    1 |   3.12% |   0.00% |
+| 4    | Tapu Lele / Moltres-Galar / Rillaboom / Melmetal / Urshifu / Landorus-Therian       |    1 |   3.12% |   0.00% |
+| 4    | Slowking-Galar / Hippowdon / Rotom-Wash / Skarmory / Clefable / Weavile             |    1 |   3.12% |   0.00% |
+| 4    | Heatran / Blissey / Toxapex / Mew / Tornadus-Therian / Landorus-Therian             |    1 |   3.12% |   0.00% |
+| 4    | Heatran / Rillaboom / Kartana / Blacephalon / Zapdos / Landorus-Therian             |    1 |   3.12% |   0.00% |
