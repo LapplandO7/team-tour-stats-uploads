@@ -1,0 +1,351 @@
++ ---- + --------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                 | Use  | Usage % |  Win %  |
++ ---- + --------------------------- + ---- + ------- + ------- +
+| 1    | Centaghoul / Lyvamp         |    3 |  50.00% |  66.67% |
+| 2    | Hearthind / Formaldehydra   |    2 |  33.33% | 100.00% |
+| 2    | Centaghoul / Noirwark       |    2 |  33.33% |  50.00% |
+| 2    | Centaghoul / Strumorthio    |    2 |  33.33% |  50.00% |
+| 2    | Strumorthio / Lyvamp        |    2 |  33.33% |  50.00% |
+| 2    | Centaghoul / Shinobomi      |    2 |  33.33% |  50.00% |
+| 2    | Strumorthio / Siltworm      |    2 |  33.33% |  50.00% |
+| 2    | Centaghoul / Zhuguo         |    2 |  33.33% |   0.00% |
+| 9    | Hearthind / Lianzhao        |    1 |  16.67% | 100.00% |
+| 9    | Lianzhao / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 9    | Centaghoul / Lianzhao       |    1 |  16.67% | 100.00% |
+| 9    | Lyvamp / Lianzhao           |    1 |  16.67% | 100.00% |
+| 9    | Lianzhao / Noirwark         |    1 |  16.67% | 100.00% |
+| 9    | Centaghoul / Hearthind      |    1 |  16.67% | 100.00% |
+| 9    | Hearthind / Lyvamp          |    1 |  16.67% | 100.00% |
+| 9    | Hearthind / Noirwark        |    1 |  16.67% | 100.00% |
+| 9    | Centaghoul / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 9    | Lyvamp / Formaldehydra      |    1 |  16.67% | 100.00% |
+| 9    | Noirwark / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 9    | Lyvamp / Noirwark           |    1 |  16.67% | 100.00% |
+| 9    | Combustoad / Strumorthio    |    1 |  16.67% | 100.00% |
+| 9    | Combustoad / Shinobomi      |    1 |  16.67% | 100.00% |
+| 9    | Combustoad / Lyvamp         |    1 |  16.67% | 100.00% |
+| 9    | Combustoad / Centaghoul     |    1 |  16.67% | 100.00% |
+| 9    | Combustoad / Koiryu         |    1 |  16.67% | 100.00% |
+| 9    | Strumorthio / Shinobomi     |    1 |  16.67% | 100.00% |
+| 9    | Koiryu / Strumorthio        |    1 |  16.67% | 100.00% |
+| 9    | Lyvamp / Shinobomi          |    1 |  16.67% | 100.00% |
+| 9    | Koiryu / Shinobomi          |    1 |  16.67% | 100.00% |
+| 9    | Koiryu / Lyvamp             |    1 |  16.67% | 100.00% |
+| 9    | Centaghoul / Koiryu         |    1 |  16.67% | 100.00% |
+| 9    | Strumorthio / Whalestro     |    1 |  16.67% | 100.00% |
+| 9    | Strumorthio / Formaldehydra |    1 |  16.67% | 100.00% |
+| 9    | Oreamoss / Strumorthio      |    1 |  16.67% | 100.00% |
+| 9    | Hearthind / Strumorthio     |    1 |  16.67% | 100.00% |
+| 9    | Siltworm / Whalestro        |    1 |  16.67% | 100.00% |
+| 9    | Whalestro / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 9    | Oreamoss / Whalestro        |    1 |  16.67% | 100.00% |
+| 9    | Hearthind / Whalestro       |    1 |  16.67% | 100.00% |
+| 9    | Siltworm / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 9    | Oreamoss / Siltworm         |    1 |  16.67% | 100.00% |
+| 9    | Hearthind / Siltworm        |    1 |  16.67% | 100.00% |
+| 9    | Oreamoss / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 9    | Oreamoss / Hearthind        |    1 |  16.67% | 100.00% |
+| 9    | Strumorthio / Taranferno    |    1 |  16.67% |   0.00% |
+| 9    | Strumorthio / Zhuguo        |    1 |  16.67% |   0.00% |
+| 9    | Strumorthio / Hyakutari     |    1 |  16.67% |   0.00% |
+| 9    | Centaghoul / Taranferno     |    1 |  16.67% |   0.00% |
+| 9    | Zhuguo / Taranferno         |    1 |  16.67% |   0.00% |
+| 9    | Lyvamp / Taranferno         |    1 |  16.67% |   0.00% |
+| 9    | Taranferno / Hyakutari      |    1 |  16.67% |   0.00% |
+| 9    | Centaghoul / Hyakutari      |    1 |  16.67% |   0.00% |
+| 9    | Zhuguo / Lyvamp             |    1 |  16.67% |   0.00% |
+| 9    | Zhuguo / Hyakutari          |    1 |  16.67% |   0.00% |
+| 9    | Lyvamp / Hyakutari          |    1 |  16.67% |   0.00% |
+| 9    | Lianzhao / Metarachne       |    1 |  16.67% |   0.00% |
+| 9    | Kaovern / Metarachne        |    1 |  16.67% |   0.00% |
+| 9    | Sascratch / Metarachne      |    1 |  16.67% |   0.00% |
+| 9    | Strumorthio / Metarachne    |    1 |  16.67% |   0.00% |
+| 9    | Siltworm / Metarachne       |    1 |  16.67% |   0.00% |
+| 9    | Kaovern / Lianzhao          |    1 |  16.67% |   0.00% |
+| 9    | Lianzhao / Sascratch        |    1 |  16.67% |   0.00% |
+| 9    | Strumorthio / Lianzhao      |    1 |  16.67% |   0.00% |
+| 9    | Siltworm / Lianzhao         |    1 |  16.67% |   0.00% |
+| 9    | Kaovern / Sascratch         |    1 |  16.67% |   0.00% |
+| 9    | Strumorthio / Kaovern       |    1 |  16.67% |   0.00% |
+| 9    | Siltworm / Kaovern          |    1 |  16.67% |   0.00% |
+| 9    | Strumorthio / Sascratch     |    1 |  16.67% |   0.00% |
+| 9    | Siltworm / Sascratch        |    1 |  16.67% |   0.00% |
+| 9    | Zhuguo / Guttergar          |    1 |  16.67% |   0.00% |
+| 9    | Zhuguo / Shinobomi          |    1 |  16.67% |   0.00% |
+| 9    | Zhuguo / Turvarpega         |    1 |  16.67% |   0.00% |
+| 9    | Zhuguo / Noirwark           |    1 |  16.67% |   0.00% |
+| 9    | Guttergar / Shinobomi       |    1 |  16.67% |   0.00% |
+| 9    | Guttergar / Turvarpega      |    1 |  16.67% |   0.00% |
+| 9    | Guttergar / Noirwark        |    1 |  16.67% |   0.00% |
+| 9    | Centaghoul / Guttergar      |    1 |  16.67% |   0.00% |
+| 9    | Turvarpega / Shinobomi      |    1 |  16.67% |   0.00% |
+| 9    | Noirwark / Shinobomi        |    1 |  16.67% |   0.00% |
+| 9    | Turvarpega / Noirwark       |    1 |  16.67% |   0.00% |
+| 9    | Centaghoul / Turvarpega     |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                             | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------- + ---- + ------- + ------- +
+| 1    | Centaghoul / Strumorthio / Lyvamp       |    2 |  33.33% |  50.00% |
+| 2    | Hearthind / Lianzhao / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Hearthind / Lianzhao       |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Lianzhao / Lyvamp           |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Lianzhao / Noirwark         |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Lianzhao / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 2    | Lyvamp / Lianzhao / Formaldehydra       |    1 |  16.67% | 100.00% |
+| 2    | Noirwark / Lianzhao / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Lyvamp / Lianzhao          |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Lianzhao / Noirwark        |    1 |  16.67% | 100.00% |
+| 2    | Lyvamp / Lianzhao / Noirwark            |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Hearthind / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Lyvamp / Formaldehydra      |    1 |  16.67% | 100.00% |
+| 2    | Noirwark / Hearthind / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Hearthind / Lyvamp         |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Hearthind / Noirwark       |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Lyvamp / Noirwark           |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Lyvamp / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Noirwark / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 2    | Noirwark / Lyvamp / Formaldehydra       |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Lyvamp / Noirwark          |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Strumorthio / Shinobomi    |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Strumorthio / Lyvamp       |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Strumorthio / Centaghoul   |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Strumorthio / Koiryu       |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Lyvamp / Shinobomi         |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Centaghoul / Shinobomi     |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Koiryu / Shinobomi         |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Lyvamp / Centaghoul        |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Koiryu / Lyvamp            |    1 |  16.67% | 100.00% |
+| 2    | Combustoad / Koiryu / Centaghoul        |    1 |  16.67% | 100.00% |
+| 2    | Strumorthio / Lyvamp / Shinobomi        |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Strumorthio / Shinobomi    |    1 |  16.67% | 100.00% |
+| 2    | Koiryu / Strumorthio / Shinobomi        |    1 |  16.67% | 100.00% |
+| 2    | Koiryu / Strumorthio / Lyvamp           |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Strumorthio / Koiryu       |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Lyvamp / Shinobomi         |    1 |  16.67% | 100.00% |
+| 2    | Koiryu / Lyvamp / Shinobomi             |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Koiryu / Shinobomi         |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Koiryu / Lyvamp            |    1 |  16.67% | 100.00% |
+| 2    | Siltworm / Strumorthio / Whalestro      |    1 |  16.67% | 100.00% |
+| 2    | Strumorthio / Whalestro / Formaldehydra |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Strumorthio / Whalestro      |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Strumorthio / Whalestro     |    1 |  16.67% | 100.00% |
+| 2    | Strumorthio / Siltworm / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Strumorthio / Siltworm       |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Strumorthio / Siltworm      |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Strumorthio / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Strumorthio / Formaldehydra |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Strumorthio / Hearthind      |    1 |  16.67% | 100.00% |
+| 2    | Siltworm / Whalestro / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Siltworm / Whalestro         |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Siltworm / Whalestro        |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Whalestro / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Whalestro / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Hearthind / Whalestro        |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Siltworm / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 2    | Hearthind / Siltworm / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Siltworm / Hearthind         |    1 |  16.67% | 100.00% |
+| 2    | Oreamoss / Hearthind / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 2    | Centaghoul / Strumorthio / Taranferno   |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Zhuguo / Taranferno       |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Lyvamp / Taranferno       |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Taranferno / Hyakutari    |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Strumorthio / Zhuguo       |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Strumorthio / Hyakutari    |    1 |  16.67% |   0.00% |
+| 2    | Lyvamp / Strumorthio / Zhuguo           |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Zhuguo / Hyakutari        |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Lyvamp / Hyakutari        |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Zhuguo / Taranferno        |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Lyvamp / Taranferno        |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Taranferno / Hyakutari     |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Lyvamp / Taranferno            |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Taranferno / Hyakutari         |    1 |  16.67% |   0.00% |
+| 2    | Lyvamp / Taranferno / Hyakutari         |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Zhuguo / Lyvamp            |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Zhuguo / Hyakutari         |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Lyvamp / Hyakutari         |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Lyvamp / Hyakutari             |    1 |  16.67% |   0.00% |
+| 2    | Kaovern / Lianzhao / Metarachne         |    1 |  16.67% |   0.00% |
+| 2    | Lianzhao / Sascratch / Metarachne       |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Lianzhao / Metarachne     |    1 |  16.67% |   0.00% |
+| 2    | Siltworm / Lianzhao / Metarachne        |    1 |  16.67% |   0.00% |
+| 2    | Kaovern / Sascratch / Metarachne        |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Kaovern / Metarachne      |    1 |  16.67% |   0.00% |
+| 2    | Siltworm / Kaovern / Metarachne         |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Sascratch / Metarachne    |    1 |  16.67% |   0.00% |
+| 2    | Siltworm / Sascratch / Metarachne       |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Siltworm / Metarachne     |    1 |  16.67% |   0.00% |
+| 2    | Kaovern / Lianzhao / Sascratch          |    1 |  16.67% |   0.00% |
+| 2    | Kaovern / Strumorthio / Lianzhao        |    1 |  16.67% |   0.00% |
+| 2    | Kaovern / Siltworm / Lianzhao           |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Lianzhao / Sascratch      |    1 |  16.67% |   0.00% |
+| 2    | Siltworm / Lianzhao / Sascratch         |    1 |  16.67% |   0.00% |
+| 2    | Siltworm / Strumorthio / Lianzhao       |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Kaovern / Sascratch       |    1 |  16.67% |   0.00% |
+| 2    | Siltworm / Kaovern / Sascratch          |    1 |  16.67% |   0.00% |
+| 2    | Siltworm / Strumorthio / Kaovern        |    1 |  16.67% |   0.00% |
+| 2    | Strumorthio / Siltworm / Sascratch      |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Guttergar / Shinobomi          |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Turvarpega / Guttergar         |    1 |  16.67% |   0.00% |
+| 2    | Noirwark / Zhuguo / Guttergar           |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Zhuguo / Guttergar         |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Turvarpega / Shinobomi         |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Noirwark / Shinobomi           |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Zhuguo / Shinobomi         |    1 |  16.67% |   0.00% |
+| 2    | Zhuguo / Turvarpega / Noirwark          |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Zhuguo / Turvarpega        |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Zhuguo / Noirwark          |    1 |  16.67% |   0.00% |
+| 2    | Guttergar / Turvarpega / Shinobomi      |    1 |  16.67% |   0.00% |
+| 2    | Guttergar / Noirwark / Shinobomi        |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Guttergar / Shinobomi      |    1 |  16.67% |   0.00% |
+| 2    | Guttergar / Turvarpega / Noirwark       |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Guttergar / Turvarpega     |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Guttergar / Noirwark       |    1 |  16.67% |   0.00% |
+| 2    | Turvarpega / Noirwark / Shinobomi       |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Turvarpega / Shinobomi     |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Noirwark / Shinobomi       |    1 |  16.67% |   0.00% |
+| 2    | Centaghoul / Turvarpega / Noirwark      |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                         | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Centaghoul / Hearthind / Lianzhao / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 1    | Hearthind / Lianzhao / Formaldehydra / Lyvamp       |    1 |  16.67% | 100.00% |
+| 1    | Noirwark / Hearthind / Lianzhao / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Hearthind / Lianzhao / Lyvamp          |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Hearthind / Lianzhao / Noirwark        |    1 |  16.67% | 100.00% |
+| 1    | Hearthind / Lianzhao / Noirwark / Lyvamp            |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Lianzhao / Formaldehydra      |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lianzhao / Noirwark / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 1    | Noirwark / Lyvamp / Lianzhao / Formaldehydra        |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Lianzhao / Noirwark           |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Hearthind / Lyvamp / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Hearthind / Noirwark / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 1    | Noirwark / Hearthind / Lyvamp / Formaldehydra       |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Hearthind / Lyvamp / Noirwark          |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Noirwark / Formaldehydra      |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Strumorthio / Lyvamp / Shinobomi       |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Strumorthio / Centaghoul / Shinobomi   |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Strumorthio / Koiryu / Shinobomi       |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Strumorthio / Lyvamp / Centaghoul      |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Strumorthio / Koiryu / Lyvamp          |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Strumorthio / Koiryu / Centaghoul      |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Lyvamp / Centaghoul / Shinobomi        |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Koiryu / Lyvamp / Shinobomi            |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Koiryu / Centaghoul / Shinobomi        |    1 |  16.67% | 100.00% |
+| 1    | Combustoad / Koiryu / Lyvamp / Centaghoul           |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Strumorthio / Lyvamp / Shinobomi       |    1 |  16.67% | 100.00% |
+| 1    | Koiryu / Strumorthio / Lyvamp / Shinobomi           |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Strumorthio / Koiryu / Shinobomi       |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Strumorthio / Koiryu / Lyvamp          |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Koiryu / Lyvamp / Shinobomi            |    1 |  16.67% | 100.00% |
+| 1    | Siltworm / Strumorthio / Whalestro / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 1    | Siltworm / Strumorthio / Whalestro / Oreamoss       |    1 |  16.67% | 100.00% |
+| 1    | Siltworm / Strumorthio / Hearthind / Whalestro      |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Strumorthio / Whalestro / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 1    | Hearthind / Strumorthio / Whalestro / Formaldehydra |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Strumorthio / Hearthind / Whalestro      |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Strumorthio / Siltworm / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 1    | Hearthind / Strumorthio / Siltworm / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Strumorthio / Hearthind / Siltworm       |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Strumorthio / Hearthind / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Siltworm / Whalestro / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 1    | Hearthind / Siltworm / Whalestro / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Siltworm / Hearthind / Whalestro         |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Hearthind / Whalestro / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 1    | Oreamoss / Siltworm / Hearthind / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Strumorthio / Zhuguo / Taranferno      |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Strumorthio / Lyvamp / Taranferno      |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Strumorthio / Taranferno / Hyakutari   |    1 |  16.67% |   0.00% |
+| 1    | Lyvamp / Strumorthio / Zhuguo / Taranferno          |    1 |  16.67% |   0.00% |
+| 1    | Strumorthio / Zhuguo / Taranferno / Hyakutari       |    1 |  16.67% |   0.00% |
+| 1    | Strumorthio / Lyvamp / Taranferno / Hyakutari       |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Lyvamp / Strumorthio / Zhuguo          |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Strumorthio / Zhuguo / Hyakutari       |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Strumorthio / Lyvamp / Hyakutari       |    1 |  16.67% |   0.00% |
+| 1    | Lyvamp / Strumorthio / Zhuguo / Hyakutari           |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Lyvamp / Taranferno           |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Taranferno / Hyakutari        |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Lyvamp / Taranferno / Hyakutari        |    1 |  16.67% |   0.00% |
+| 1    | Zhuguo / Lyvamp / Taranferno / Hyakutari            |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Lyvamp / Hyakutari            |    1 |  16.67% |   0.00% |
+| 1    | Kaovern / Lianzhao / Sascratch / Metarachne         |    1 |  16.67% |   0.00% |
+| 1    | Kaovern / Strumorthio / Lianzhao / Metarachne       |    1 |  16.67% |   0.00% |
+| 1    | Kaovern / Siltworm / Lianzhao / Metarachne          |    1 |  16.67% |   0.00% |
+| 1    | Strumorthio / Lianzhao / Sascratch / Metarachne     |    1 |  16.67% |   0.00% |
+| 1    | Siltworm / Lianzhao / Sascratch / Metarachne        |    1 |  16.67% |   0.00% |
+| 1    | Siltworm / Strumorthio / Lianzhao / Metarachne      |    1 |  16.67% |   0.00% |
+| 1    | Strumorthio / Kaovern / Sascratch / Metarachne      |    1 |  16.67% |   0.00% |
+| 1    | Siltworm / Kaovern / Sascratch / Metarachne         |    1 |  16.67% |   0.00% |
+| 1    | Siltworm / Strumorthio / Kaovern / Metarachne       |    1 |  16.67% |   0.00% |
+| 1    | Strumorthio / Siltworm / Sascratch / Metarachne     |    1 |  16.67% |   0.00% |
+| 1    | Kaovern / Strumorthio / Lianzhao / Sascratch        |    1 |  16.67% |   0.00% |
+| 1    | Kaovern / Siltworm / Lianzhao / Sascratch           |    1 |  16.67% |   0.00% |
+| 1    | Kaovern / Strumorthio / Siltworm / Lianzhao         |    1 |  16.67% |   0.00% |
+| 1    | Siltworm / Strumorthio / Lianzhao / Sascratch       |    1 |  16.67% |   0.00% |
+| 1    | Siltworm / Strumorthio / Kaovern / Sascratch        |    1 |  16.67% |   0.00% |
+| 1    | Zhuguo / Turvarpega / Guttergar / Shinobomi         |    1 |  16.67% |   0.00% |
+| 1    | Noirwark / Zhuguo / Guttergar / Shinobomi           |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Guttergar / Shinobomi         |    1 |  16.67% |   0.00% |
+| 1    | Noirwark / Zhuguo / Turvarpega / Guttergar          |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Turvarpega / Guttergar        |    1 |  16.67% |   0.00% |
+| 1    | Noirwark / Zhuguo / Centaghoul / Guttergar          |    1 |  16.67% |   0.00% |
+| 1    | Zhuguo / Turvarpega / Noirwark / Shinobomi          |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Turvarpega / Shinobomi        |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Noirwark / Shinobomi          |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Zhuguo / Turvarpega / Noirwark         |    1 |  16.67% |   0.00% |
+| 1    | Guttergar / Turvarpega / Noirwark / Shinobomi       |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Guttergar / Turvarpega / Shinobomi     |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Guttergar / Noirwark / Shinobomi       |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Guttergar / Turvarpega / Noirwark      |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Turvarpega / Noirwark / Shinobomi      |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                    | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Centaghoul / Lyvamp / Lianzhao / Hearthind / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lianzhao / Noirwark / Hearthind / Formaldehydra   |    1 |  16.67% | 100.00% |
+| 1    | Lyvamp / Lianzhao / Noirwark / Hearthind / Formaldehydra       |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Lianzhao / Noirwark / Hearthind          |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Lianzhao / Noirwark / Formaldehydra      |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Noirwark / Hearthind / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Shinobomi / Strumorthio / Combustoad     |    1 |  16.67% | 100.00% |
+| 1    | Lyvamp / Shinobomi / Koiryu / Strumorthio / Combustoad         |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Shinobomi / Koiryu / Strumorthio / Combustoad     |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Koiryu / Strumorthio / Combustoad        |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Shinobomi / Koiryu / Combustoad          |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Shinobomi / Koiryu / Strumorthio         |    1 |  16.67% | 100.00% |
+| 1    | Whalestro / Siltworm / Strumorthio / Oreamoss / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 1    | Whalestro / Hearthind / Siltworm / Strumorthio / Formaldehydra |    1 |  16.67% | 100.00% |
+| 1    | Whalestro / Hearthind / Siltworm / Strumorthio / Oreamoss      |    1 |  16.67% | 100.00% |
+| 1    | Whalestro / Hearthind / Strumorthio / Oreamoss / Formaldehydra |    1 |  16.67% | 100.00% |
+| 1    | Hearthind / Strumorthio / Siltworm / Oreamoss / Formaldehydra  |    1 |  16.67% | 100.00% |
+| 1    | Whalestro / Hearthind / Siltworm / Oreamoss / Formaldehydra    |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Taranferno / Strumorthio / Zhuguo        |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Taranferno / Strumorthio / Zhuguo / Hyakutari     |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Lyvamp / Taranferno / Strumorthio / Hyakutari     |    1 |  16.67% |   0.00% |
+| 1    | Lyvamp / Taranferno / Strumorthio / Zhuguo / Hyakutari         |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Lyvamp / Strumorthio / Zhuguo / Hyakutari         |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Lyvamp / Taranferno / Zhuguo / Hyakutari          |    1 |  16.67% |   0.00% |
+| 1    | Lianzhao / Metarachne / Strumorthio / Kaovern / Sascratch      |    1 |  16.67% |   0.00% |
+| 1    | Lianzhao / Metarachne / Siltworm / Kaovern / Sascratch         |    1 |  16.67% |   0.00% |
+| 1    | Lianzhao / Metarachne / Strumorthio / Siltworm / Kaovern       |    1 |  16.67% |   0.00% |
+| 1    | Lianzhao / Metarachne / Siltworm / Strumorthio / Sascratch     |    1 |  16.67% |   0.00% |
+| 1    | Metarachne / Siltworm / Strumorthio / Kaovern / Sascratch      |    1 |  16.67% |   0.00% |
+| 1    | Lianzhao / Strumorthio / Siltworm / Kaovern / Sascratch        |    1 |  16.67% |   0.00% |
+| 1    | Turvarpega / Shinobomi / Noirwark / Guttergar / Zhuguo         |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Turvarpega / Shinobomi / Guttergar / Zhuguo       |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Shinobomi / Noirwark / Guttergar / Zhuguo         |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Turvarpega / Noirwark / Guttergar / Zhuguo        |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Turvarpega / Shinobomi / Noirwark / Zhuguo        |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Turvarpega / Shinobomi / Noirwark / Guttergar     |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                               | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Centaghoul / Lyvamp / Lianzhao / Noirwark / Hearthind / Formaldehydra     |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Shinobomi / Koiryu / Strumorthio / Combustoad       |    1 |  16.67% | 100.00% |
+| 1    | Whalestro / Hearthind / Siltworm / Strumorthio / Oreamoss / Formaldehydra |    1 |  16.67% | 100.00% |
+| 1    | Centaghoul / Lyvamp / Taranferno / Strumorthio / Zhuguo / Hyakutari       |    1 |  16.67% |   0.00% |
+| 1    | Lianzhao / Metarachne / Strumorthio / Siltworm / Kaovern / Sascratch      |    1 |  16.67% |   0.00% |
+| 1    | Centaghoul / Turvarpega / Shinobomi / Noirwark / Guttergar / Zhuguo       |    1 |  16.67% |   0.00% |
