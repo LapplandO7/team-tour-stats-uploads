@@ -1,0 +1,463 @@
++ ---- + ---------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2            | Use  | Usage % |  Win %  |
++ ---- + ---------------------- + ---- + ------- + ------- +
+| 1    | Skuntank / Mesprit     |    3 |  37.50% |  66.67% |
+| 1    | Hariyama / Mesprit     |    3 |  37.50% |  66.67% |
+| 3    | Skuntank / Hariyama    |    2 |  25.00% | 100.00% |
+| 3    | Rotom / Hariyama       |    2 |  25.00% | 100.00% |
+| 3    | Skuntank / Archeops    |    2 |  25.00% | 100.00% |
+| 3    | Skuntank / Hitmonchan  |    2 |  25.00% |  50.00% |
+| 3    | Aurorus / Lanturn      |    2 |  25.00% |   0.00% |
+| 3    | Mesprit / Lanturn      |    2 |  25.00% |   0.00% |
+| 3    | Xatu / Pyroar          |    2 |  25.00% |   0.00% |
+| 10   | Skuntank / Barbaracle  |    1 |  12.50% | 100.00% |
+| 10   | Barbaracle / Hariyama  |    1 |  12.50% | 100.00% |
+| 10   | Barbaracle / Torterra  |    1 |  12.50% | 100.00% |
+| 10   | Mantine / Barbaracle   |    1 |  12.50% | 100.00% |
+| 10   | Barbaracle / Mesprit   |    1 |  12.50% | 100.00% |
+| 10   | Skuntank / Torterra    |    1 |  12.50% | 100.00% |
+| 10   | Skuntank / Mantine     |    1 |  12.50% | 100.00% |
+| 10   | Hariyama / Torterra    |    1 |  12.50% | 100.00% |
+| 10   | Mantine / Hariyama     |    1 |  12.50% | 100.00% |
+| 10   | Mantine / Torterra     |    1 |  12.50% | 100.00% |
+| 10   | Mesprit / Torterra     |    1 |  12.50% | 100.00% |
+| 10   | Mantine / Mesprit      |    1 |  12.50% | 100.00% |
+| 10   | Hariyama / Gastrodon   |    1 |  12.50% | 100.00% |
+| 10   | Archeops / Hariyama    |    1 |  12.50% | 100.00% |
+| 10   | Skuntank / Gastrodon   |    1 |  12.50% | 100.00% |
+| 10   | Skuntank / Rotom       |    1 |  12.50% | 100.00% |
+| 10   | Mesprit / Gastrodon    |    1 |  12.50% | 100.00% |
+| 10   | Rotom / Mesprit        |    1 |  12.50% | 100.00% |
+| 10   | Archeops / Mesprit     |    1 |  12.50% | 100.00% |
+| 10   | Rotom / Gastrodon      |    1 |  12.50% | 100.00% |
+| 10   | Archeops / Gastrodon   |    1 |  12.50% | 100.00% |
+| 10   | Archeops / Rotom       |    1 |  12.50% | 100.00% |
+| 10   | Musharna / Piloswine   |    1 |  12.50% | 100.00% |
+| 10   | Musharna / Archeops    |    1 |  12.50% | 100.00% |
+| 10   | Musharna / Roselia     |    1 |  12.50% | 100.00% |
+| 10   | Musharna / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 10   | Musharna / Skuntank    |    1 |  12.50% | 100.00% |
+| 10   | Piloswine / Archeops   |    1 |  12.50% | 100.00% |
+| 10   | Piloswine / Roselia    |    1 |  12.50% | 100.00% |
+| 10   | Piloswine / Hitmonchan |    1 |  12.50% | 100.00% |
+| 10   | Piloswine / Skuntank   |    1 |  12.50% | 100.00% |
+| 10   | Archeops / Roselia     |    1 |  12.50% | 100.00% |
+| 10   | Archeops / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 10   | Hitmonchan / Roselia   |    1 |  12.50% | 100.00% |
+| 10   | Skuntank / Roselia     |    1 |  12.50% | 100.00% |
+| 10   | Hariyama / Malamar     |    1 |  12.50% | 100.00% |
+| 10   | Hariyama / Pelipper    |    1 |  12.50% | 100.00% |
+| 10   | Steelix / Hariyama     |    1 |  12.50% | 100.00% |
+| 10   | Tangela / Hariyama     |    1 |  12.50% | 100.00% |
+| 10   | Pelipper / Malamar     |    1 |  12.50% | 100.00% |
+| 10   | Rotom / Malamar        |    1 |  12.50% | 100.00% |
+| 10   | Steelix / Malamar      |    1 |  12.50% | 100.00% |
+| 10   | Tangela / Malamar      |    1 |  12.50% | 100.00% |
+| 10   | Rotom / Pelipper       |    1 |  12.50% | 100.00% |
+| 10   | Steelix / Pelipper     |    1 |  12.50% | 100.00% |
+| 10   | Tangela / Pelipper     |    1 |  12.50% | 100.00% |
+| 10   | Steelix / Rotom        |    1 |  12.50% | 100.00% |
+| 10   | Tangela / Rotom        |    1 |  12.50% | 100.00% |
+| 10   | Steelix / Tangela      |    1 |  12.50% | 100.00% |
+| 10   | Audino / Aurorus       |    1 |  12.50% |   0.00% |
+| 10   | Mesprit / Aurorus      |    1 |  12.50% |   0.00% |
+| 10   | Hitmonchan / Aurorus   |    1 |  12.50% |   0.00% |
+| 10   | Skuntank / Aurorus     |    1 |  12.50% |   0.00% |
+| 10   | Audino / Mesprit       |    1 |  12.50% |   0.00% |
+| 10   | Audino / Hitmonchan    |    1 |  12.50% |   0.00% |
+| 10   | Audino / Lanturn       |    1 |  12.50% |   0.00% |
+| 10   | Skuntank / Audino      |    1 |  12.50% |   0.00% |
+| 10   | Hitmonchan / Mesprit   |    1 |  12.50% |   0.00% |
+| 10   | Hitmonchan / Lanturn   |    1 |  12.50% |   0.00% |
+| 10   | Skuntank / Lanturn     |    1 |  12.50% |   0.00% |
+| 10   | Vileplume / Liepard    |    1 |  12.50% |   0.00% |
+| 10   | Hariyama / Liepard     |    1 |  12.50% |   0.00% |
+| 10   | Liepard / Lanturn      |    1 |  12.50% |   0.00% |
+| 10   | Cryogonal / Liepard    |    1 |  12.50% |   0.00% |
+| 10   | Mesprit / Liepard      |    1 |  12.50% |   0.00% |
+| 10   | Vileplume / Hariyama   |    1 |  12.50% |   0.00% |
+| 10   | Vileplume / Lanturn    |    1 |  12.50% |   0.00% |
+| 10   | Cryogonal / Vileplume  |    1 |  12.50% |   0.00% |
+| 10   | Vileplume / Mesprit    |    1 |  12.50% |   0.00% |
+| 10   | Hariyama / Lanturn     |    1 |  12.50% |   0.00% |
+| 10   | Cryogonal / Hariyama   |    1 |  12.50% |   0.00% |
+| 10   | Cryogonal / Lanturn    |    1 |  12.50% |   0.00% |
+| 10   | Cryogonal / Mesprit    |    1 |  12.50% |   0.00% |
+| 10   | Barbaracle / Pyroar    |    1 |  12.50% |   0.00% |
+| 10   | Lilligant / Pyroar     |    1 |  12.50% |   0.00% |
+| 10   | Clefairy / Pyroar      |    1 |  12.50% |   0.00% |
+| 10   | Piloswine / Pyroar     |    1 |  12.50% |   0.00% |
+| 10   | Lilligant / Barbaracle |    1 |  12.50% |   0.00% |
+| 10   | Barbaracle / Clefairy  |    1 |  12.50% |   0.00% |
+| 10   | Piloswine / Barbaracle |    1 |  12.50% |   0.00% |
+| 10   | Xatu / Barbaracle      |    1 |  12.50% |   0.00% |
+| 10   | Lilligant / Clefairy   |    1 |  12.50% |   0.00% |
+| 10   | Piloswine / Lilligant  |    1 |  12.50% |   0.00% |
+| 10   | Lilligant / Xatu       |    1 |  12.50% |   0.00% |
+| 10   | Piloswine / Clefairy   |    1 |  12.50% |   0.00% |
+| 10   | Xatu / Clefairy        |    1 |  12.50% |   0.00% |
+| 10   | Piloswine / Xatu       |    1 |  12.50% |   0.00% |
+| 10   | Weezing / Aurorus      |    1 |  12.50% |   0.00% |
+| 10   | Xatu / Aurorus         |    1 |  12.50% |   0.00% |
+| 10   | Aurorus / Pyroar       |    1 |  12.50% |   0.00% |
+| 10   | Golurk / Aurorus       |    1 |  12.50% |   0.00% |
+| 10   | Weezing / Lanturn      |    1 |  12.50% |   0.00% |
+| 10   | Weezing / Xatu         |    1 |  12.50% |   0.00% |
+| 10   | Weezing / Pyroar       |    1 |  12.50% |   0.00% |
+| 10   | Weezing / Golurk       |    1 |  12.50% |   0.00% |
+| 10   | Xatu / Lanturn         |    1 |  12.50% |   0.00% |
+| 10   | Pyroar / Lanturn       |    1 |  12.50% |   0.00% |
+| 10   | Golurk / Lanturn       |    1 |  12.50% |   0.00% |
+| 10   | Xatu / Golurk          |    1 |  12.50% |   0.00% |
+| 10   | Golurk / Pyroar        |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Skuntank / Hariyama / Mesprit      |    2 |  25.00% | 100.00% |
+| 2    | Skuntank / Barbaracle / Hariyama   |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Barbaracle / Torterra   |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Barbaracle / Mantine    |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Barbaracle / Mesprit    |    1 |  12.50% | 100.00% |
+| 2    | Torterra / Barbaracle / Hariyama   |    1 |  12.50% | 100.00% |
+| 2    | Mantine / Barbaracle / Hariyama    |    1 |  12.50% | 100.00% |
+| 2    | Barbaracle / Mesprit / Hariyama    |    1 |  12.50% | 100.00% |
+| 2    | Mantine / Barbaracle / Torterra    |    1 |  12.50% | 100.00% |
+| 2    | Barbaracle / Mesprit / Torterra    |    1 |  12.50% | 100.00% |
+| 2    | Mantine / Barbaracle / Mesprit     |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Hariyama / Torterra     |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Hariyama / Mantine      |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Mantine / Torterra      |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Mesprit / Torterra      |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Mesprit / Mantine       |    1 |  12.50% | 100.00% |
+| 2    | Mantine / Hariyama / Torterra      |    1 |  12.50% | 100.00% |
+| 2    | Hariyama / Mesprit / Torterra      |    1 |  12.50% | 100.00% |
+| 2    | Mantine / Hariyama / Mesprit       |    1 |  12.50% | 100.00% |
+| 2    | Mantine / Mesprit / Torterra       |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Hariyama / Gastrodon    |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Rotom / Hariyama        |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Hariyama / Archeops     |    1 |  12.50% | 100.00% |
+| 2    | Hariyama / Mesprit / Gastrodon     |    1 |  12.50% | 100.00% |
+| 2    | Rotom / Hariyama / Mesprit         |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Hariyama / Mesprit      |    1 |  12.50% | 100.00% |
+| 2    | Rotom / Hariyama / Gastrodon       |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Hariyama / Gastrodon    |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Rotom / Hariyama        |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Mesprit / Gastrodon     |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Rotom / Mesprit         |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Mesprit / Archeops      |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Rotom / Gastrodon       |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Skuntank / Gastrodon    |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Rotom / Archeops        |    1 |  12.50% | 100.00% |
+| 2    | Rotom / Mesprit / Gastrodon        |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Mesprit / Gastrodon     |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Rotom / Mesprit         |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Rotom / Gastrodon       |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Piloswine / Archeops    |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Piloswine / Roselia     |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Piloswine / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Piloswine / Skuntank    |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Archeops / Roselia      |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Archeops / Hitmonchan   |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Archeops / Skuntank     |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Hitmonchan / Roselia    |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Skuntank / Roselia      |    1 |  12.50% | 100.00% |
+| 2    | Musharna / Skuntank / Hitmonchan   |    1 |  12.50% | 100.00% |
+| 2    | Piloswine / Archeops / Roselia     |    1 |  12.50% | 100.00% |
+| 2    | Piloswine / Archeops / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 2    | Piloswine / Archeops / Skuntank    |    1 |  12.50% | 100.00% |
+| 2    | Piloswine / Hitmonchan / Roselia   |    1 |  12.50% | 100.00% |
+| 2    | Piloswine / Skuntank / Roselia     |    1 |  12.50% | 100.00% |
+| 2    | Piloswine / Skuntank / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Hitmonchan / Roselia    |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Skuntank / Roselia      |    1 |  12.50% | 100.00% |
+| 2    | Archeops / Skuntank / Hitmonchan   |    1 |  12.50% | 100.00% |
+| 2    | Skuntank / Hitmonchan / Roselia    |    1 |  12.50% | 100.00% |
+| 2    | Pelipper / Hariyama / Malamar      |    1 |  12.50% | 100.00% |
+| 2    | Rotom / Hariyama / Malamar         |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Hariyama / Malamar       |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Hariyama / Malamar       |    1 |  12.50% | 100.00% |
+| 2    | Rotom / Hariyama / Pelipper        |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Hariyama / Pelipper      |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Hariyama / Pelipper      |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Rotom / Hariyama         |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Rotom / Hariyama         |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Tangela / Hariyama       |    1 |  12.50% | 100.00% |
+| 2    | Pelipper / Rotom / Malamar         |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Pelipper / Malamar       |    1 |  12.50% | 100.00% |
+| 2    | Pelipper / Tangela / Malamar       |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Rotom / Malamar          |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Rotom / Malamar          |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Tangela / Malamar        |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Rotom / Pelipper         |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Rotom / Pelipper         |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Tangela / Pelipper       |    1 |  12.50% | 100.00% |
+| 2    | Steelix / Tangela / Rotom          |    1 |  12.50% | 100.00% |
+| 2    | Audino / Mesprit / Aurorus         |    1 |  12.50% |   0.00% |
+| 2    | Audino / Hitmonchan / Aurorus      |    1 |  12.50% |   0.00% |
+| 2    | Audino / Aurorus / Lanturn         |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Audino / Aurorus        |    1 |  12.50% |   0.00% |
+| 2    | Mesprit / Aurorus / Hitmonchan     |    1 |  12.50% |   0.00% |
+| 2    | Mesprit / Aurorus / Lanturn        |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Mesprit / Aurorus       |    1 |  12.50% |   0.00% |
+| 2    | Hitmonchan / Aurorus / Lanturn     |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Hitmonchan / Aurorus    |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Aurorus / Lanturn       |    1 |  12.50% |   0.00% |
+| 2    | Audino / Hitmonchan / Mesprit      |    1 |  12.50% |   0.00% |
+| 2    | Audino / Mesprit / Lanturn         |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Audino / Mesprit        |    1 |  12.50% |   0.00% |
+| 2    | Audino / Hitmonchan / Lanturn      |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Audino / Hitmonchan     |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Audino / Lanturn        |    1 |  12.50% |   0.00% |
+| 2    | Hitmonchan / Mesprit / Lanturn     |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Hitmonchan / Mesprit    |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Mesprit / Lanturn       |    1 |  12.50% |   0.00% |
+| 2    | Skuntank / Hitmonchan / Lanturn    |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Hariyama / Liepard     |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Liepard / Lanturn      |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Vileplume / Liepard    |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Mesprit / Liepard      |    1 |  12.50% |   0.00% |
+| 2    | Hariyama / Liepard / Lanturn       |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Hariyama / Liepard     |    1 |  12.50% |   0.00% |
+| 2    | Hariyama / Liepard / Mesprit       |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Liepard / Lanturn      |    1 |  12.50% |   0.00% |
+| 2    | Mesprit / Liepard / Lanturn        |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Mesprit / Liepard      |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Hariyama / Lanturn     |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Vileplume / Hariyama   |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Hariyama / Mesprit     |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Vileplume / Lanturn    |    1 |  12.50% |   0.00% |
+| 2    | Vileplume / Mesprit / Lanturn      |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Vileplume / Mesprit    |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Hariyama / Lanturn     |    1 |  12.50% |   0.00% |
+| 2    | Hariyama / Mesprit / Lanturn       |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Hariyama / Mesprit     |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Mesprit / Lanturn      |    1 |  12.50% |   0.00% |
+| 2    | Lilligant / Barbaracle / Pyroar    |    1 |  12.50% |   0.00% |
+| 2    | Barbaracle / Clefairy / Pyroar     |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Barbaracle / Pyroar    |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Barbaracle / Pyroar         |    1 |  12.50% |   0.00% |
+| 2    | Lilligant / Clefairy / Pyroar      |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Lilligant / Pyroar     |    1 |  12.50% |   0.00% |
+| 2    | Lilligant / Xatu / Pyroar          |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Clefairy / Pyroar      |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Clefairy / Pyroar           |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Xatu / Pyroar          |    1 |  12.50% |   0.00% |
+| 2    | Lilligant / Barbaracle / Clefairy  |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Lilligant / Barbaracle |    1 |  12.50% |   0.00% |
+| 2    | Lilligant / Barbaracle / Xatu      |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Barbaracle / Clefairy  |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Barbaracle / Clefairy       |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Xatu / Barbaracle      |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Lilligant / Clefairy   |    1 |  12.50% |   0.00% |
+| 2    | Lilligant / Clefairy / Xatu        |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Lilligant / Xatu       |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Xatu / Clefairy        |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Aurorus / Lanturn        |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Aurorus / Xatu           |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Aurorus / Pyroar         |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Golurk / Aurorus         |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Aurorus / Lanturn           |    1 |  12.50% |   0.00% |
+| 2    | Pyroar / Aurorus / Lanturn         |    1 |  12.50% |   0.00% |
+| 2    | Golurk / Aurorus / Lanturn         |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Aurorus / Pyroar            |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Golurk / Aurorus            |    1 |  12.50% |   0.00% |
+| 2    | Golurk / Aurorus / Pyroar          |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Xatu / Lanturn           |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Pyroar / Lanturn         |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Golurk / Lanturn         |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Xatu / Pyroar            |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Golurk / Xatu            |    1 |  12.50% |   0.00% |
+| 2    | Weezing / Golurk / Pyroar          |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Pyroar / Lanturn            |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Golurk / Lanturn            |    1 |  12.50% |   0.00% |
+| 2    | Golurk / Pyroar / Lanturn          |    1 |  12.50% |   0.00% |
+| 2    | Xatu / Golurk / Pyroar             |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                   | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| 1    | Torterra / Skuntank / Barbaracle / Hariyama   |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Mantine / Barbaracle / Hariyama    |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Barbaracle / Mesprit / Hariyama    |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Mantine / Barbaracle / Torterra    |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Barbaracle / Mesprit / Torterra    |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Barbaracle / Mesprit / Mantine     |    1 |  12.50% | 100.00% |
+| 1    | Torterra / Mantine / Barbaracle / Hariyama    |    1 |  12.50% | 100.00% |
+| 1    | Torterra / Barbaracle / Mesprit / Hariyama    |    1 |  12.50% | 100.00% |
+| 1    | Mantine / Barbaracle / Mesprit / Hariyama     |    1 |  12.50% | 100.00% |
+| 1    | Mantine / Barbaracle / Mesprit / Torterra     |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Mantine / Hariyama / Torterra      |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Hariyama / Mesprit / Torterra      |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Hariyama / Mesprit / Mantine       |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Mantine / Mesprit / Torterra       |    1 |  12.50% | 100.00% |
+| 1    | Mantine / Hariyama / Mesprit / Torterra       |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Hariyama / Mesprit / Gastrodon     |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Rotom / Hariyama / Mesprit         |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Hariyama / Mesprit / Archeops      |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Rotom / Hariyama / Gastrodon       |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Skuntank / Hariyama / Gastrodon    |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Rotom / Hariyama / Archeops        |    1 |  12.50% | 100.00% |
+| 1    | Rotom / Hariyama / Mesprit / Gastrodon        |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Hariyama / Mesprit / Gastrodon     |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Rotom / Hariyama / Mesprit         |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Rotom / Hariyama / Gastrodon       |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Rotom / Mesprit / Gastrodon        |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Skuntank / Mesprit / Gastrodon     |    1 |  12.50% | 100.00% |
+| 1    | Skuntank / Rotom / Mesprit / Archeops         |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Skuntank / Rotom / Gastrodon       |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Rotom / Mesprit / Gastrodon        |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Piloswine / Archeops / Roselia     |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Piloswine / Archeops / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Piloswine / Archeops / Skuntank    |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Piloswine / Hitmonchan / Roselia   |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Piloswine / Skuntank / Roselia     |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Piloswine / Skuntank / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Hitmonchan / Roselia    |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Skuntank / Roselia      |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Skuntank / Hitmonchan   |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Skuntank / Hitmonchan / Roselia    |    1 |  12.50% | 100.00% |
+| 1    | Piloswine / Archeops / Hitmonchan / Roselia   |    1 |  12.50% | 100.00% |
+| 1    | Piloswine / Archeops / Skuntank / Roselia     |    1 |  12.50% | 100.00% |
+| 1    | Piloswine / Archeops / Skuntank / Hitmonchan  |    1 |  12.50% | 100.00% |
+| 1    | Piloswine / Skuntank / Hitmonchan / Roselia   |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Skuntank / Hitmonchan / Roselia    |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Rotom / Hariyama / Malamar         |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Pelipper / Hariyama / Malamar       |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Hariyama / Tangela / Malamar       |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Rotom / Hariyama / Malamar          |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Rotom / Hariyama / Malamar          |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Tangela / Hariyama / Malamar        |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Rotom / Hariyama / Pelipper         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Rotom / Hariyama / Pelipper         |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Tangela / Hariyama / Pelipper       |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Tangela / Rotom / Hariyama          |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Pelipper / Rotom / Malamar          |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Rotom / Tangela / Malamar          |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Pelipper / Tangela / Malamar        |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Tangela / Rotom / Malamar           |    1 |  12.50% | 100.00% |
+| 1    | Steelix / Tangela / Rotom / Pelipper          |    1 |  12.50% | 100.00% |
+| 1    | Audino / Mesprit / Aurorus / Hitmonchan       |    1 |  12.50% |   0.00% |
+| 1    | Audino / Mesprit / Aurorus / Lanturn          |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Audino / Mesprit / Aurorus         |    1 |  12.50% |   0.00% |
+| 1    | Audino / Hitmonchan / Aurorus / Lanturn       |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Audino / Hitmonchan / Aurorus      |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Audino / Aurorus / Lanturn         |    1 |  12.50% |   0.00% |
+| 1    | Mesprit / Aurorus / Lanturn / Hitmonchan      |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Mesprit / Aurorus / Hitmonchan     |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Mesprit / Aurorus / Lanturn        |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Hitmonchan / Aurorus / Lanturn     |    1 |  12.50% |   0.00% |
+| 1    | Audino / Hitmonchan / Mesprit / Lanturn       |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Audino / Hitmonchan / Mesprit      |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Audino / Mesprit / Lanturn         |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Audino / Hitmonchan / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Skuntank / Hitmonchan / Mesprit / Lanturn     |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Hariyama / Liepard / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Vileplume / Hariyama / Liepard    |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Hariyama / Liepard / Mesprit      |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Vileplume / Liepard / Lanturn     |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Mesprit / Liepard / Lanturn       |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Vileplume / Mesprit / Liepard     |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Hariyama / Liepard / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Mesprit / Hariyama / Liepard / Lanturn        |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Hariyama / Liepard / Mesprit      |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Mesprit / Liepard / Lanturn       |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Vileplume / Hariyama / Lanturn    |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Hariyama / Mesprit / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Vileplume / Hariyama / Mesprit    |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Vileplume / Mesprit / Lanturn     |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Hariyama / Mesprit / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Lilligant / Barbaracle / Clefairy / Pyroar    |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Lilligant / Barbaracle / Pyroar   |    1 |  12.50% |   0.00% |
+| 1    | Lilligant / Barbaracle / Xatu / Pyroar        |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Barbaracle / Clefairy / Pyroar    |    1 |  12.50% |   0.00% |
+| 1    | Xatu / Barbaracle / Clefairy / Pyroar         |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Xatu / Barbaracle / Pyroar        |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Lilligant / Clefairy / Pyroar     |    1 |  12.50% |   0.00% |
+| 1    | Lilligant / Clefairy / Pyroar / Xatu          |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Lilligant / Xatu / Pyroar         |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Xatu / Clefairy / Pyroar          |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Lilligant / Barbaracle / Clefairy |    1 |  12.50% |   0.00% |
+| 1    | Lilligant / Barbaracle / Clefairy / Xatu      |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Lilligant / Barbaracle / Xatu     |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Xatu / Barbaracle / Clefairy      |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Lilligant / Clefairy / Xatu       |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Aurorus / Lanturn / Xatu            |    1 |  12.50% |   0.00% |
+| 1    | Pyroar / Weezing / Aurorus / Lanturn          |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Golurk / Aurorus / Lanturn          |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Aurorus / Pyroar / Xatu             |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Golurk / Aurorus / Xatu             |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Golurk / Aurorus / Pyroar           |    1 |  12.50% |   0.00% |
+| 1    | Pyroar / Xatu / Aurorus / Lanturn             |    1 |  12.50% |   0.00% |
+| 1    | Xatu / Golurk / Aurorus / Lanturn             |    1 |  12.50% |   0.00% |
+| 1    | Pyroar / Golurk / Aurorus / Lanturn           |    1 |  12.50% |   0.00% |
+| 1    | Xatu / Golurk / Aurorus / Pyroar              |    1 |  12.50% |   0.00% |
+| 1    | Pyroar / Weezing / Xatu / Lanturn             |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Golurk / Xatu / Lanturn             |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Golurk / Pyroar / Lanturn           |    1 |  12.50% |   0.00% |
+| 1    | Weezing / Golurk / Xatu / Pyroar              |    1 |  12.50% |   0.00% |
+| 1    | Xatu / Golurk / Pyroar / Lanturn              |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                             | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Barbaracle / Hariyama / Mantine / Skuntank / Torterra   |    1 |  12.50% | 100.00% |
+| 1    | Barbaracle / Mesprit / Hariyama / Skuntank / Torterra   |    1 |  12.50% | 100.00% |
+| 1    | Barbaracle / Mesprit / Hariyama / Mantine / Skuntank    |    1 |  12.50% | 100.00% |
+| 1    | Barbaracle / Mesprit / Mantine / Skuntank / Torterra    |    1 |  12.50% | 100.00% |
+| 1    | Barbaracle / Mesprit / Hariyama / Mantine / Torterra    |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Hariyama / Mantine / Skuntank / Torterra      |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Hariyama / Skuntank / Rotom / Gastrodon       |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Archeops / Hariyama / Skuntank / Gastrodon    |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Archeops / Hariyama / Skuntank / Rotom        |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Hariyama / Skuntank / Rotom / Gastrodon      |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Archeops / Hariyama / Rotom / Gastrodon       |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Archeops / Skuntank / Rotom / Gastrodon       |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Hitmonchan / Roselia / Piloswine  |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Roselia / Piloswine / Skuntank    |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Hitmonchan / Piloswine / Skuntank |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Hitmonchan / Roselia / Piloswine / Skuntank  |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Hitmonchan / Roselia / Skuntank   |    1 |  12.50% | 100.00% |
+| 1    | Archeops / Hitmonchan / Roselia / Piloswine / Skuntank  |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Steelix / Hariyama / Malamar / Rotom         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Pelipper / Hariyama / Malamar / Rotom         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Pelipper / Steelix / Hariyama / Malamar       |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Steelix / Hariyama / Malamar / Rotom          |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Pelipper / Steelix / Hariyama / Rotom         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Pelipper / Steelix / Malamar / Rotom          |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Aurorus / Hitmonchan / Audino / Lanturn       |    1 |  12.50% |   0.00% |
+| 1    | Mesprit / Aurorus / Hitmonchan / Audino / Skuntank      |    1 |  12.50% |   0.00% |
+| 1    | Mesprit / Aurorus / Audino / Skuntank / Lanturn         |    1 |  12.50% |   0.00% |
+| 1    | Aurorus / Hitmonchan / Audino / Skuntank / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Mesprit / Aurorus / Hitmonchan / Skuntank / Lanturn     |    1 |  12.50% |   0.00% |
+| 1    | Mesprit / Hitmonchan / Audino / Skuntank / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Hariyama / Liepard / Cryogonal / Lanturn    |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Mesprit / Hariyama / Liepard / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Mesprit / Hariyama / Liepard / Cryogonal    |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Mesprit / Liepard / Cryogonal / Lanturn     |    1 |  12.50% |   0.00% |
+| 1    | Mesprit / Hariyama / Liepard / Cryogonal / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Mesprit / Hariyama / Cryogonal / Lanturn    |    1 |  12.50% |   0.00% |
+| 1    | Barbaracle / Lilligant / Piloswine / Clefairy / Pyroar  |    1 |  12.50% |   0.00% |
+| 1    | Barbaracle / Lilligant / Clefairy / Pyroar / Xatu       |    1 |  12.50% |   0.00% |
+| 1    | Barbaracle / Lilligant / Piloswine / Pyroar / Xatu      |    1 |  12.50% |   0.00% |
+| 1    | Barbaracle / Piloswine / Clefairy / Pyroar / Xatu       |    1 |  12.50% |   0.00% |
+| 1    | Lilligant / Piloswine / Clefairy / Pyroar / Xatu        |    1 |  12.50% |   0.00% |
+| 1    | Barbaracle / Lilligant / Piloswine / Clefairy / Xatu    |    1 |  12.50% |   0.00% |
+| 1    | Aurorus / Weezing / Pyroar / Xatu / Lanturn             |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Aurorus / Weezing / Xatu / Lanturn             |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Aurorus / Weezing / Pyroar / Lanturn           |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Aurorus / Weezing / Pyroar / Xatu              |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Aurorus / Pyroar / Xatu / Lanturn              |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Weezing / Pyroar / Xatu / Lanturn              |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                       | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Barbaracle / Mesprit / Hariyama / Mantine / Skuntank / Torterra   |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Archeops / Hariyama / Skuntank / Rotom / Gastrodon      |    1 |  12.50% | 100.00% |
+| 1    | Musharna / Archeops / Hitmonchan / Roselia / Piloswine / Skuntank |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Pelipper / Steelix / Hariyama / Malamar / Rotom         |    1 |  12.50% | 100.00% |
+| 1    | Mesprit / Aurorus / Hitmonchan / Audino / Skuntank / Lanturn      |    1 |  12.50% |   0.00% |
+| 1    | Vileplume / Mesprit / Hariyama / Liepard / Cryogonal / Lanturn    |    1 |  12.50% |   0.00% |
+| 1    | Barbaracle / Lilligant / Piloswine / Clefairy / Pyroar / Xatu     |    1 |  12.50% |   0.00% |
+| 1    | Golurk / Aurorus / Weezing / Pyroar / Xatu / Lanturn              |    1 |  12.50% |   0.00% |
