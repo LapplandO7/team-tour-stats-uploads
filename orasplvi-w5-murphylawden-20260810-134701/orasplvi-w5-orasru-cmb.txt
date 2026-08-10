@@ -1,0 +1,343 @@
++ ---- + ---------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2            | Use  | Usage % |  Win %  |
++ ---- + ---------------------- + ---- + ------- + ------- +
+| 1    | Flygon / Venusaur      |    4 |  66.67% |  75.00% |
+| 2    | Flygon / Sneasel       |    3 |  50.00% |  33.33% |
+| 3    | Steelix / Flygon       |    2 |  33.33% | 100.00% |
+| 3    | Steelix / Venusaur     |    2 |  33.33% | 100.00% |
+| 3    | Venusaur / Sneasel     |    2 |  33.33% |  50.00% |
+| 3    | Flygon / Aromatisse    |    2 |  33.33% |  50.00% |
+| 3    | Registeel / Sneasel    |    2 |  33.33% |   0.00% |
+| 3    | Venusaur / Slowking    |    2 |  33.33% |   0.00% |
+| 3    | Registeel / Slowking   |    2 |  33.33% |   0.00% |
+| 3    | Registeel / Venusaur   |    2 |  33.33% |   0.00% |
+| 3    | Flygon / Registeel     |    2 |  33.33% |   0.00% |
+| 12   | Flygon / Magneton      |    1 |  16.67% | 100.00% |
+| 12   | Flygon / Alomomola     |    1 |  16.67% | 100.00% |
+| 12   | Diancie / Flygon       |    1 |  16.67% | 100.00% |
+| 12   | Flygon / Druddigon     |    1 |  16.67% | 100.00% |
+| 12   | Alomomola / Magneton   |    1 |  16.67% | 100.00% |
+| 12   | Diancie / Magneton     |    1 |  16.67% | 100.00% |
+| 12   | Druddigon / Magneton   |    1 |  16.67% | 100.00% |
+| 12   | Venusaur / Magneton    |    1 |  16.67% | 100.00% |
+| 12   | Diancie / Alomomola    |    1 |  16.67% | 100.00% |
+| 12   | Alomomola / Druddigon  |    1 |  16.67% | 100.00% |
+| 12   | Alomomola / Venusaur   |    1 |  16.67% | 100.00% |
+| 12   | Diancie / Druddigon    |    1 |  16.67% | 100.00% |
+| 12   | Diancie / Venusaur     |    1 |  16.67% | 100.00% |
+| 12   | Druddigon / Venusaur   |    1 |  16.67% | 100.00% |
+| 12   | Steelix / Sneasel      |    1 |  16.67% | 100.00% |
+| 12   | Sneasel / Aerodactyl   |    1 |  16.67% | 100.00% |
+| 12   | Gallade / Sneasel      |    1 |  16.67% | 100.00% |
+| 12   | Flygon / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 12   | Gallade / Flygon       |    1 |  16.67% | 100.00% |
+| 12   | Steelix / Aerodactyl   |    1 |  16.67% | 100.00% |
+| 12   | Gallade / Steelix      |    1 |  16.67% | 100.00% |
+| 12   | Gallade / Aerodactyl   |    1 |  16.67% | 100.00% |
+| 12   | Venusaur / Aerodactyl  |    1 |  16.67% | 100.00% |
+| 12   | Gallade / Venusaur     |    1 |  16.67% | 100.00% |
+| 12   | Meloetta / Aromatisse  |    1 |  16.67% | 100.00% |
+| 12   | Meloetta / Steelix     |    1 |  16.67% | 100.00% |
+| 12   | Meloetta / Lanturn     |    1 |  16.67% | 100.00% |
+| 12   | Meloetta / Flygon      |    1 |  16.67% | 100.00% |
+| 12   | Meloetta / Venusaur    |    1 |  16.67% | 100.00% |
+| 12   | Steelix / Aromatisse   |    1 |  16.67% | 100.00% |
+| 12   | Aromatisse / Lanturn   |    1 |  16.67% | 100.00% |
+| 12   | Aromatisse / Venusaur  |    1 |  16.67% | 100.00% |
+| 12   | Steelix / Lanturn      |    1 |  16.67% | 100.00% |
+| 12   | Flygon / Lanturn       |    1 |  16.67% | 100.00% |
+| 12   | Venusaur / Lanturn     |    1 |  16.67% | 100.00% |
+| 12   | Sneasel / Sawk         |    1 |  16.67% |   0.00% |
+| 12   | Slowking / Sneasel     |    1 |  16.67% |   0.00% |
+| 12   | Slowking / Sawk        |    1 |  16.67% |   0.00% |
+| 12   | Venusaur / Sawk        |    1 |  16.67% |   0.00% |
+| 12   | Registeel / Sawk       |    1 |  16.67% |   0.00% |
+| 12   | Flygon / Sawk          |    1 |  16.67% |   0.00% |
+| 12   | Flygon / Slowking      |    1 |  16.67% |   0.00% |
+| 12   | Camerupt / Aromatisse  |    1 |  16.67% |   0.00% |
+| 12   | Aromatisse / Virizion  |    1 |  16.67% |   0.00% |
+| 12   | Aromatisse / Registeel |    1 |  16.67% |   0.00% |
+| 12   | Aromatisse / Sneasel   |    1 |  16.67% |   0.00% |
+| 12   | Flygon / Camerupt      |    1 |  16.67% |   0.00% |
+| 12   | Camerupt / Virizion    |    1 |  16.67% |   0.00% |
+| 12   | Camerupt / Registeel   |    1 |  16.67% |   0.00% |
+| 12   | Camerupt / Sneasel     |    1 |  16.67% |   0.00% |
+| 12   | Flygon / Virizion      |    1 |  16.67% |   0.00% |
+| 12   | Registeel / Virizion   |    1 |  16.67% |   0.00% |
+| 12   | Sneasel / Virizion     |    1 |  16.67% |   0.00% |
+| 12   | Glalie / Jolteon       |    1 |  16.67% |   0.00% |
+| 12   | Jolteon / Registeel    |    1 |  16.67% |   0.00% |
+| 12   | Jolteon / Venusaur     |    1 |  16.67% |   0.00% |
+| 12   | Jolteon / Slowking     |    1 |  16.67% |   0.00% |
+| 12   | Jolteon / Xatu         |    1 |  16.67% |   0.00% |
+| 12   | Glalie / Registeel     |    1 |  16.67% |   0.00% |
+| 12   | Glalie / Venusaur      |    1 |  16.67% |   0.00% |
+| 12   | Glalie / Slowking      |    1 |  16.67% |   0.00% |
+| 12   | Glalie / Xatu          |    1 |  16.67% |   0.00% |
+| 12   | Xatu / Registeel       |    1 |  16.67% |   0.00% |
+| 12   | Xatu / Venusaur        |    1 |  16.67% |   0.00% |
+| 12   | Xatu / Slowking        |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| 1    | Steelix / Flygon / Venusaur       |    2 |  33.33% | 100.00% |
+| 1    | Flygon / Venusaur / Sneasel       |    2 |  33.33% |  50.00% |
+| 1    | Flygon / Registeel / Sneasel      |    2 |  33.33% |   0.00% |
+| 1    | Registeel / Venusaur / Slowking   |    2 |  33.33% |   0.00% |
+| 5    | Flygon / Magneton / Alomomola     |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Flygon / Magneton       |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Druddigon / Magneton     |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Venusaur / Magneton      |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Flygon / Alomomola      |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Druddigon / Alomomola    |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Venusaur / Alomomola     |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Flygon / Druddigon      |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Flygon / Venusaur       |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Druddigon / Venusaur     |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Alomomola / Magneton    |    1 |  16.67% | 100.00% |
+| 5    | Alomomola / Druddigon / Magneton  |    1 |  16.67% | 100.00% |
+| 5    | Alomomola / Venusaur / Magneton   |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Druddigon / Magneton    |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Venusaur / Magneton     |    1 |  16.67% | 100.00% |
+| 5    | Druddigon / Venusaur / Magneton   |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Alomomola / Druddigon   |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Alomomola / Venusaur    |    1 |  16.67% | 100.00% |
+| 5    | Alomomola / Druddigon / Venusaur  |    1 |  16.67% | 100.00% |
+| 5    | Diancie / Druddigon / Venusaur    |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Flygon / Sneasel        |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Sneasel / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Flygon / Sneasel        |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Sneasel / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Steelix / Sneasel       |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Venusaur / Sneasel      |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Sneasel / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 5    | Venusaur / Sneasel / Aerodactyl   |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Venusaur / Sneasel      |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Flygon / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Steelix / Flygon        |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Flygon / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Venusaur / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Flygon / Venusaur       |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Steelix / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Venusaur / Aerodactyl   |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Steelix / Venusaur      |    1 |  16.67% | 100.00% |
+| 5    | Gallade / Venusaur / Aerodactyl   |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Aromatisse / Steelix   |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Aromatisse / Lanturn   |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Flygon / Aromatisse    |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Aromatisse / Venusaur  |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Steelix / Lanturn      |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Flygon / Steelix       |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Steelix / Venusaur     |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Flygon / Lanturn       |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Venusaur / Lanturn     |    1 |  16.67% | 100.00% |
+| 5    | Meloetta / Flygon / Venusaur      |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Aromatisse / Lanturn    |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Flygon / Aromatisse     |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Aromatisse / Venusaur   |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Aromatisse / Lanturn     |    1 |  16.67% | 100.00% |
+| 5    | Aromatisse / Venusaur / Lanturn   |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Aromatisse / Venusaur    |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Flygon / Lanturn        |    1 |  16.67% | 100.00% |
+| 5    | Steelix / Venusaur / Lanturn      |    1 |  16.67% | 100.00% |
+| 5    | Flygon / Venusaur / Lanturn       |    1 |  16.67% | 100.00% |
+| 5    | Slowking / Sneasel / Sawk         |    1 |  16.67% |   0.00% |
+| 5    | Venusaur / Sneasel / Sawk         |    1 |  16.67% |   0.00% |
+| 5    | Registeel / Sneasel / Sawk        |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Sneasel / Sawk           |    1 |  16.67% |   0.00% |
+| 5    | Slowking / Venusaur / Sneasel     |    1 |  16.67% |   0.00% |
+| 5    | Slowking / Registeel / Sneasel    |    1 |  16.67% |   0.00% |
+| 5    | Slowking / Flygon / Sneasel       |    1 |  16.67% |   0.00% |
+| 5    | Registeel / Venusaur / Sneasel    |    1 |  16.67% |   0.00% |
+| 5    | Venusaur / Slowking / Sawk        |    1 |  16.67% |   0.00% |
+| 5    | Registeel / Slowking / Sawk       |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Slowking / Sawk          |    1 |  16.67% |   0.00% |
+| 5    | Registeel / Venusaur / Sawk       |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Venusaur / Sawk          |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Registeel / Sawk         |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Venusaur / Slowking      |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Registeel / Slowking     |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Registeel / Venusaur     |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Camerupt / Aromatisse    |    1 |  16.67% |   0.00% |
+| 5    | Camerupt / Aromatisse / Virizion  |    1 |  16.67% |   0.00% |
+| 5    | Camerupt / Aromatisse / Registeel |    1 |  16.67% |   0.00% |
+| 5    | Camerupt / Aromatisse / Sneasel   |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Aromatisse / Virizion    |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Aromatisse / Registeel   |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Aromatisse / Sneasel     |    1 |  16.67% |   0.00% |
+| 5    | Aromatisse / Registeel / Virizion |    1 |  16.67% |   0.00% |
+| 5    | Aromatisse / Sneasel / Virizion   |    1 |  16.67% |   0.00% |
+| 5    | Aromatisse / Registeel / Sneasel  |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Camerupt / Virizion      |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Camerupt / Registeel     |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Camerupt / Sneasel       |    1 |  16.67% |   0.00% |
+| 5    | Camerupt / Registeel / Virizion   |    1 |  16.67% |   0.00% |
+| 5    | Camerupt / Sneasel / Virizion     |    1 |  16.67% |   0.00% |
+| 5    | Camerupt / Registeel / Sneasel    |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Registeel / Virizion     |    1 |  16.67% |   0.00% |
+| 5    | Flygon / Sneasel / Virizion       |    1 |  16.67% |   0.00% |
+| 5    | Registeel / Sneasel / Virizion    |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Jolteon / Registeel      |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Jolteon / Venusaur       |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Jolteon / Slowking       |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Jolteon / Xatu           |    1 |  16.67% |   0.00% |
+| 5    | Jolteon / Registeel / Venusaur    |    1 |  16.67% |   0.00% |
+| 5    | Jolteon / Registeel / Slowking    |    1 |  16.67% |   0.00% |
+| 5    | Jolteon / Registeel / Xatu        |    1 |  16.67% |   0.00% |
+| 5    | Jolteon / Venusaur / Slowking     |    1 |  16.67% |   0.00% |
+| 5    | Jolteon / Venusaur / Xatu         |    1 |  16.67% |   0.00% |
+| 5    | Jolteon / Slowking / Xatu         |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Registeel / Venusaur     |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Registeel / Slowking     |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Xatu / Registeel         |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Venusaur / Slowking      |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Xatu / Venusaur          |    1 |  16.67% |   0.00% |
+| 5    | Glalie / Xatu / Slowking          |    1 |  16.67% |   0.00% |
+| 5    | Xatu / Registeel / Venusaur       |    1 |  16.67% |   0.00% |
+| 5    | Xatu / Registeel / Slowking       |    1 |  16.67% |   0.00% |
+| 5    | Xatu / Venusaur / Slowking        |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                  | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| 1    | Diancie / Flygon / Magneton / Alomomola      |    1 |  16.67% | 100.00% |
+| 1    | Flygon / Druddigon / Magneton / Alomomola    |    1 |  16.67% | 100.00% |
+| 1    | Flygon / Venusaur / Magneton / Alomomola     |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Flygon / Druddigon / Magneton      |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Flygon / Venusaur / Magneton       |    1 |  16.67% | 100.00% |
+| 1    | Flygon / Druddigon / Venusaur / Magneton     |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Flygon / Druddigon / Alomomola     |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Flygon / Venusaur / Alomomola      |    1 |  16.67% | 100.00% |
+| 1    | Flygon / Druddigon / Venusaur / Alomomola    |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Flygon / Druddigon / Venusaur      |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Alomomola / Druddigon / Magneton   |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Alomomola / Venusaur / Magneton    |    1 |  16.67% | 100.00% |
+| 1    | Alomomola / Druddigon / Venusaur / Magneton  |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Druddigon / Venusaur / Magneton    |    1 |  16.67% | 100.00% |
+| 1    | Diancie / Alomomola / Druddigon / Venusaur   |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Flygon / Sneasel / Aerodactyl      |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Steelix / Flygon / Sneasel         |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Flygon / Venusaur / Sneasel        |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Flygon / Sneasel / Aerodactyl      |    1 |  16.67% | 100.00% |
+| 1    | Flygon / Venusaur / Sneasel / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Flygon / Venusaur / Sneasel        |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Steelix / Sneasel / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Venusaur / Sneasel / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Steelix / Venusaur / Sneasel       |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Venusaur / Sneasel / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Steelix / Flygon / Aerodactyl      |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Flygon / Venusaur / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Steelix / Flygon / Venusaur        |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Flygon / Venusaur / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Steelix / Venusaur / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Aromatisse / Steelix / Lanturn    |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Aromatisse / Steelix     |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Aromatisse / Venusaur / Steelix   |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Aromatisse / Lanturn     |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Aromatisse / Venusaur / Lanturn   |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Aromatisse / Venusaur    |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Steelix / Lanturn        |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Steelix / Venusaur / Lanturn      |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Steelix / Venusaur       |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Venusaur / Lanturn       |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Flygon / Aromatisse / Lanturn      |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Aromatisse / Venusaur / Lanturn    |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Flygon / Aromatisse / Venusaur     |    1 |  16.67% | 100.00% |
+| 1    | Flygon / Aromatisse / Venusaur / Lanturn     |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Flygon / Venusaur / Lanturn        |    1 |  16.67% | 100.00% |
+| 1    | Slowking / Venusaur / Sneasel / Sawk         |    1 |  16.67% |   0.00% |
+| 1    | Slowking / Registeel / Sneasel / Sawk        |    1 |  16.67% |   0.00% |
+| 1    | Slowking / Flygon / Sneasel / Sawk           |    1 |  16.67% |   0.00% |
+| 1    | Registeel / Venusaur / Sneasel / Sawk        |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Venusaur / Sneasel / Sawk           |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Registeel / Sneasel / Sawk          |    1 |  16.67% |   0.00% |
+| 1    | Slowking / Registeel / Venusaur / Sneasel    |    1 |  16.67% |   0.00% |
+| 1    | Slowking / Flygon / Venusaur / Sneasel       |    1 |  16.67% |   0.00% |
+| 1    | Slowking / Flygon / Registeel / Sneasel      |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Registeel / Venusaur / Sneasel      |    1 |  16.67% |   0.00% |
+| 1    | Registeel / Venusaur / Slowking / Sawk       |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Venusaur / Slowking / Sawk          |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Registeel / Slowking / Sawk         |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Registeel / Venusaur / Sawk         |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Registeel / Venusaur / Slowking     |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Camerupt / Aromatisse / Virizion    |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Camerupt / Aromatisse / Registeel   |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Camerupt / Aromatisse / Sneasel     |    1 |  16.67% |   0.00% |
+| 1    | Camerupt / Aromatisse / Registeel / Virizion |    1 |  16.67% |   0.00% |
+| 1    | Camerupt / Aromatisse / Sneasel / Virizion   |    1 |  16.67% |   0.00% |
+| 1    | Camerupt / Aromatisse / Registeel / Sneasel  |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Aromatisse / Registeel / Virizion   |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Aromatisse / Sneasel / Virizion     |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Aromatisse / Registeel / Sneasel    |    1 |  16.67% |   0.00% |
+| 1    | Aromatisse / Registeel / Sneasel / Virizion  |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Camerupt / Registeel / Virizion     |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Camerupt / Sneasel / Virizion       |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Camerupt / Registeel / Sneasel      |    1 |  16.67% |   0.00% |
+| 1    | Camerupt / Registeel / Sneasel / Virizion    |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Registeel / Sneasel / Virizion      |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Jolteon / Registeel / Venusaur      |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Jolteon / Registeel / Slowking      |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Jolteon / Registeel / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Jolteon / Venusaur / Slowking       |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Jolteon / Venusaur / Xatu           |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Jolteon / Slowking / Xatu           |    1 |  16.67% |   0.00% |
+| 1    | Jolteon / Registeel / Venusaur / Slowking    |    1 |  16.67% |   0.00% |
+| 1    | Jolteon / Registeel / Venusaur / Xatu        |    1 |  16.67% |   0.00% |
+| 1    | Jolteon / Registeel / Slowking / Xatu        |    1 |  16.67% |   0.00% |
+| 1    | Jolteon / Venusaur / Slowking / Xatu         |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Registeel / Venusaur / Slowking     |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Xatu / Registeel / Venusaur         |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Xatu / Registeel / Slowking         |    1 |  16.67% |   0.00% |
+| 1    | Glalie / Xatu / Venusaur / Slowking          |    1 |  16.67% |   0.00% |
+| 1    | Xatu / Registeel / Venusaur / Slowking       |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Druddigon / Flygon / Alomomola / Magneton / Diancie    |    1 |  16.67% | 100.00% |
+| 1    | Flygon / Alomomola / Venusaur / Magneton / Diancie     |    1 |  16.67% | 100.00% |
+| 1    | Druddigon / Flygon / Alomomola / Venusaur / Magneton   |    1 |  16.67% | 100.00% |
+| 1    | Druddigon / Flygon / Venusaur / Magneton / Diancie     |    1 |  16.67% | 100.00% |
+| 1    | Druddigon / Flygon / Alomomola / Venusaur / Diancie    |    1 |  16.67% | 100.00% |
+| 1    | Druddigon / Alomomola / Venusaur / Magneton / Diancie  |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Gallade / Steelix / Flygon / Aerodactyl      |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Steelix / Flygon / Venusaur / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Gallade / Steelix / Flygon / Venusaur        |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Gallade / Flygon / Venusaur / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Gallade / Steelix / Venusaur / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Steelix / Flygon / Venusaur / Aerodactyl     |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Steelix / Aromatisse / Lanturn     |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Steelix / Venusaur / Aromatisse / Lanturn   |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Steelix / Venusaur / Aromatisse    |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Venusaur / Aromatisse / Lanturn    |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Steelix / Venusaur / Lanturn       |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Flygon / Venusaur / Aromatisse / Lanturn     |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Venusaur / Sawk / Slowking / Registeel       |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Venusaur / Sawk / Slowking          |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Sawk / Slowking / Registeel         |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Venusaur / Sawk / Registeel         |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Venusaur / Slowking / Registeel     |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Venusaur / Sawk / Slowking / Registeel        |    1 |  16.67% |   0.00% |
+| 1    | Flygon / Virizion / Aromatisse / Camerupt / Registeel  |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Virizion / Aromatisse / Camerupt    |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Aromatisse / Camerupt / Registeel   |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Virizion / Aromatisse / Camerupt / Registeel |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Virizion / Aromatisse / Registeel   |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Virizion / Camerupt / Registeel     |    1 |  16.67% |   0.00% |
+| 1    | Venusaur / Jolteon / Slowking / Glalie / Registeel     |    1 |  16.67% |   0.00% |
+| 1    | Venusaur / Jolteon / Glalie / Xatu / Registeel         |    1 |  16.67% |   0.00% |
+| 1    | Jolteon / Slowking / Glalie / Xatu / Registeel         |    1 |  16.67% |   0.00% |
+| 1    | Venusaur / Jolteon / Slowking / Glalie / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Venusaur / Jolteon / Slowking / Xatu / Registeel       |    1 |  16.67% |   0.00% |
+| 1    | Venusaur / Slowking / Glalie / Xatu / Registeel        |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Druddigon / Flygon / Alomomola / Venusaur / Magneton / Diancie  |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Gallade / Steelix / Flygon / Venusaur / Aerodactyl    |    1 |  16.67% | 100.00% |
+| 1    | Meloetta / Flygon / Steelix / Venusaur / Aromatisse / Lanturn   |    1 |  16.67% | 100.00% |
+| 1    | Sneasel / Flygon / Venusaur / Sawk / Slowking / Registeel       |    1 |  16.67% |   0.00% |
+| 1    | Sneasel / Flygon / Virizion / Aromatisse / Camerupt / Registeel |    1 |  16.67% |   0.00% |
+| 1    | Venusaur / Jolteon / Slowking / Glalie / Xatu / Registeel       |    1 |  16.67% |   0.00% |
