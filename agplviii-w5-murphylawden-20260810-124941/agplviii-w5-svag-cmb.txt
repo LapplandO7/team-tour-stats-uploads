@@ -1,0 +1,654 @@
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| 1    | Calyrex-Shadow / Koraidon       |    7 |  50.00% |  57.14% |
+| 2    | Arceus / Koraidon               |    6 |  42.86% |  83.33% |
+| 3    | Arceus-Ground / Koraidon        |    5 |  35.71% |  80.00% |
+| 3    | Ting-Lu / Koraidon              |    5 |  35.71% |  40.00% |
+| 3    | Ting-Lu / Ho-Oh                 |    5 |  35.71% |  40.00% |
+| 6    | Arceus-Fairy / Koraidon         |    4 |  28.57% |  50.00% |
+| 6    | Koraidon / Ho-Oh                |    4 |  28.57% |  25.00% |
+| 8    | Calyrex-Shadow / Arceus         |    3 |  21.43% | 100.00% |
+| 8    | Miraidon / Arceus               |    3 |  21.43% |  66.67% |
+| 8    | Miraidon / Ho-Oh                |    3 |  21.43% |  66.67% |
+| 8    | Arceus-Ground / Arceus          |    3 |  21.43% |  66.67% |
+| 8    | Ribombee / Koraidon             |    3 |  21.43% |  66.67% |
+| 8    | Ribombee / Calyrex-Shadow       |    3 |  21.43% |  66.67% |
+| 8    | Zacian-* / Koraidon             |    3 |  21.43% |  66.67% |
+| 8    | Arceus-Fairy / Ting-Lu          |    3 |  21.43% |  33.33% |
+| 8    | Arceus-Fairy / Calyrex-Shadow   |    3 |  21.43% |  33.33% |
+| 8    | Miraidon / Koraidon             |    3 |  21.43% |   0.00% |
+| 8    | Chien-Pao                       |    3 |  21.43% |   0.00% |
+| 8    | Chien-Pao / Giratina-Origin     |    3 |  21.43% |   0.00% |
+| 8    | Chien-Pao / Ditto               |    3 |  21.43% |   0.00% |
+| 8    | Chien-Pao / Arceus-Ground       |    3 |  21.43% |   0.00% |
+| 22   | Arceus / Ditto                  |    2 |  14.29% | 100.00% |
+| 22   | Arceus / Ho-Oh                  |    2 |  14.29% | 100.00% |
+| 22   | Miraidon / Ditto                |    2 |  14.29% | 100.00% |
+| 22   | Ditto / Ho-Oh                   |    2 |  14.29% | 100.00% |
+| 22   | Excadrill / Koraidon            |    2 |  14.29% | 100.00% |
+| 22   | Calyrex-Shadow / Arceus-Ground  |    2 |  14.29% | 100.00% |
+| 22   | Ribombee / Arceus               |    2 |  14.29% | 100.00% |
+| 22   | Kyogre / Koraidon               |    2 |  14.29% | 100.00% |
+| 22   | Arceus / Ting-Lu                |    2 |  14.29% | 100.00% |
+| 22   | Kyogre / Ting-Lu                |    2 |  14.29% | 100.00% |
+| 22   | Arceus-Fairy / Arceus           |    2 |  14.29% | 100.00% |
+| 22   | Clodsire / Gliscor              |    2 |  14.29% |  50.00% |
+| 22   | Gliscor / Ho-Oh                 |    2 |  14.29% |  50.00% |
+| 22   | Clodsire / Ho-Oh                |    2 |  14.29% |  50.00% |
+| 22   | Miraidon / Ting-Lu              |    2 |  14.29% |  50.00% |
+| 22   | Koraidon / Glimmora             |    2 |  14.29% |  50.00% |
+| 22   | Arceus-Ground / Glimmora        |    2 |  14.29% |  50.00% |
+| 22   | Arceus / Glimmora               |    2 |  14.29% |  50.00% |
+| 22   | Zacian-* / Arceus-Ground        |    2 |  14.29% |  50.00% |
+| 22   | Zacian-* / Arceus               |    2 |  14.29% |  50.00% |
+| 22   | Calyrex-Shadow / Ting-Lu        |    2 |  14.29% |   0.00% |
+| 22   | Miraidon / Calyrex-Shadow       |    2 |  14.29% |   0.00% |
+| 22   | Koraidon / Hatterene            |    2 |  14.29% |   0.00% |
+| 22   | Chi-Yu / Ho-Oh                  |    2 |  14.29% |   0.00% |
+| 22   | Hatterene / Ho-Oh               |    2 |  14.29% |   0.00% |
+| 47   | Arceus / Gliscor                |    1 |   7.14% | 100.00% |
+| 47   | Ditto / Gliscor                 |    1 |   7.14% | 100.00% |
+| 47   | Miraidon / Gliscor              |    1 |   7.14% | 100.00% |
+| 47   | Arceus / Clodsire               |    1 |   7.14% | 100.00% |
+| 47   | Clodsire / Ditto                |    1 |   7.14% | 100.00% |
+| 47   | Miraidon / Clodsire             |    1 |   7.14% | 100.00% |
+| 47   | Koraidon                        |    1 |   7.14% | 100.00% |
+| 47   | Calyrex-Shadow / Excadrill      |    1 |   7.14% | 100.00% |
+| 47   | Excadrill / Arceus              |    1 |   7.14% | 100.00% |
+| 47   | Excadrill / Arceus-Ground       |    1 |   7.14% | 100.00% |
+| 47   | Ribombee / Glimmora             |    1 |   7.14% | 100.00% |
+| 47   | Calyrex-Shadow / Glimmora       |    1 |   7.14% | 100.00% |
+| 47   | Ribombee / Arceus-Ground        |    1 |   7.14% | 100.00% |
+| 47   | Landorus-Therian / Koraidon     |    1 |   7.14% | 100.00% |
+| 47   | Landorus-Therian / Ting-Lu      |    1 |   7.14% | 100.00% |
+| 47   | Arceus-Fairy / Kyogre           |    1 |   7.14% | 100.00% |
+| 47   | Arceus-Fairy / Landorus-Therian |    1 |   7.14% | 100.00% |
+| 47   | Kyogre / Arceus                 |    1 |   7.14% | 100.00% |
+| 47   | Arceus / Landorus-Therian       |    1 |   7.14% | 100.00% |
+| 47   | Kyogre / Landorus-Therian       |    1 |   7.14% | 100.00% |
+| 47   | Miraidon / Eternatus            |    1 |   7.14% | 100.00% |
+| 47   | Ditto / Eternatus               |    1 |   7.14% | 100.00% |
+| 47   | Eternatus / Ho-Oh               |    1 |   7.14% | 100.00% |
+| 47   | Ting-Lu / Eternatus             |    1 |   7.14% | 100.00% |
+| 47   | Arceus / Eternatus              |    1 |   7.14% | 100.00% |
+| 47   | Ting-Lu / Ditto                 |    1 |   7.14% | 100.00% |
+| 47   | Ribombee / Zacian-*             |    1 |   7.14% | 100.00% |
+| 47   | Ribombee / Arceus-Fairy         |    1 |   7.14% | 100.00% |
+| 47   | Zacian-* / Calyrex-Shadow       |    1 |   7.14% | 100.00% |
+| 47   | Zacian-* / Arceus-Fairy         |    1 |   7.14% | 100.00% |
+| 47   | Zacian-* / Ting-Lu              |    1 |   7.14% | 100.00% |
+| 47   | Zacian-* / Kyogre               |    1 |   7.14% | 100.00% |
+| 47   | Zacian-* / Ho-Oh                |    1 |   7.14% | 100.00% |
+| 47   | Arceus-Ground / Ting-Lu         |    1 |   7.14% | 100.00% |
+| 47   | Kyogre / Arceus-Ground          |    1 |   7.14% | 100.00% |
+| 47   | Arceus-Ground / Ho-Oh           |    1 |   7.14% | 100.00% |
+| 47   | Kyogre / Ho-Oh                  |    1 |   7.14% | 100.00% |
+| 47   | Arceus-Fairy / Ho-Oh            |    1 |   7.14% |   0.00% |
+| 47   | Calyrex-Shadow / Ho-Oh          |    1 |   7.14% |   0.00% |
+| 47   | Arceus-Fairy / Miraidon         |    1 |   7.14% |   0.00% |
+| 47   | Ditto / Giratina-Origin         |    1 |   7.14% |   0.00% |
+| 47   | Arceus-Ground / Giratina-Origin |    1 |   7.14% |   0.00% |
+| 47   | Arceus-Ground / Ditto           |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Muk-Alola           |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Gliscor             |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Skeledirge          |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Clodsire            |    1 |   7.14% |   0.00% |
+| 47   | Muk-Alola / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 47   | Skeledirge / Ho-Oh              |    1 |   7.14% |   0.00% |
+| 47   | Muk-Alola / Gliscor             |    1 |   7.14% |   0.00% |
+| 47   | Muk-Alola / Skeledirge          |    1 |   7.14% |   0.00% |
+| 47   | Muk-Alola / Clodsire            |    1 |   7.14% |   0.00% |
+| 47   | Skeledirge / Gliscor            |    1 |   7.14% |   0.00% |
+| 47   | Skeledirge / Clodsire           |    1 |   7.14% |   0.00% |
+| 47   | Miraidon / Glimmora             |    1 |   7.14% |   0.00% |
+| 47   | Zacian-* / Glimmora             |    1 |   7.14% |   0.00% |
+| 47   | Miraidon / Arceus-Ground        |    1 |   7.14% |   0.00% |
+| 47   | Zacian-* / Miraidon             |    1 |   7.14% |   0.00% |
+| 47   | Ribombee / Volbeat              |    1 |   7.14% |   0.00% |
+| 47   | Volbeat / Hatterene             |    1 |   7.14% |   0.00% |
+| 47   | Miraidon / Volbeat              |    1 |   7.14% |   0.00% |
+| 47   | Volbeat / Koraidon              |    1 |   7.14% |   0.00% |
+| 47   | Calyrex-Shadow / Volbeat        |    1 |   7.14% |   0.00% |
+| 47   | Ribombee / Hatterene            |    1 |   7.14% |   0.00% |
+| 47   | Ribombee / Miraidon             |    1 |   7.14% |   0.00% |
+| 47   | Miraidon / Hatterene            |    1 |   7.14% |   0.00% |
+| 47   | Calyrex-Shadow / Hatterene      |    1 |   7.14% |   0.00% |
+| 47   | Chi-Yu / Koraidon               |    1 |   7.14% |   0.00% |
+| 47   | Chi-Yu / Hatterene              |    1 |   7.14% |   0.00% |
+| 47   | Chi-Yu / Ting-Lu                |    1 |   7.14% |   0.00% |
+| 47   | Ho-Oh                           |    1 |   7.14% |   0.00% |
+| 47   | Ting-Lu / Hatterene             |    1 |   7.14% |   0.00% |
+| 47   | Ting-Lu / Corviknight           |    1 |   7.14% |   0.00% |
+| 47   | Calyrex-Shadow / Corviknight    |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Corviknight         |    1 |   7.14% |   0.00% |
+| 47   | Corviknight / Koraidon          |    1 |   7.14% |   0.00% |
+| 47   | Arceus-Fairy / Corviknight      |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Ting-Lu             |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Calyrex-Shadow      |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Koraidon            |    1 |   7.14% |   0.00% |
+| 47   | Alomomola / Arceus-Fairy        |    1 |   7.14% |   0.00% |
+
++ ---- + ------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                 | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------- + ---- + ------- + ------- +
+| 1    | Calyrex-Shadow / Arceus / Koraidon          |    4 |  28.57% | 100.00% |
+| 1    | Arceus-Ground / Arceus / Koraidon           |    4 |  28.57% |  75.00% |
+| 1    | Ting-Lu / Koraidon / Ho-Oh                  |    4 |  28.57% |  25.00% |
+| 4    | Calyrex-Shadow / Arceus-Ground / Koraidon   |    3 |  21.43% | 100.00% |
+| 4    | Ribombee / Calyrex-Shadow / Koraidon        |    3 |  21.43% |  66.67% |
+| 4    | Arceus-Fairy / Ting-Lu / Koraidon           |    3 |  21.43% |  33.33% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Koraidon    |    3 |  21.43% |  33.33% |
+| 4    | Chien-Pao / Giratina-Origin                 |    3 |  21.43% |   0.00% |
+| 4    | Chien-Pao / Ditto                           |    3 |  21.43% |   0.00% |
+| 4    | Chien-Pao / Arceus-Ground                   |    3 |  21.43% |   0.00% |
+| 4    | Chien-Pao / Ditto / Giratina-Origin         |    3 |  21.43% |   0.00% |
+| 4    | Chien-Pao / Arceus-Ground / Giratina-Origin |    3 |  21.43% |   0.00% |
+| 4    | Chien-Pao / Arceus-Ground / Ditto           |    3 |  21.43% |   0.00% |
+| 14   | Miraidon / Arceus / Ditto                   |    2 |  14.29% | 100.00% |
+| 14   | Arceus / Ditto / Ho-Oh                      |    2 |  14.29% | 100.00% |
+| 14   | Miraidon / Arceus / Ho-Oh                   |    2 |  14.29% | 100.00% |
+| 14   | Miraidon / Ditto / Ho-Oh                    |    2 |  14.29% | 100.00% |
+| 14   | Calyrex-Shadow / Excadrill / Koraidon       |    2 |  14.29% | 100.00% |
+| 14   | Excadrill / Arceus / Koraidon               |    2 |  14.29% | 100.00% |
+| 14   | Excadrill / Arceus-Ground / Koraidon        |    2 |  14.29% | 100.00% |
+| 14   | Calyrex-Shadow / Arceus-Ground / Arceus     |    2 |  14.29% | 100.00% |
+| 14   | Ribombee / Arceus / Koraidon                |    2 |  14.29% | 100.00% |
+| 14   | Ribombee / Calyrex-Shadow / Arceus          |    2 |  14.29% | 100.00% |
+| 14   | Kyogre / Ting-Lu / Koraidon                 |    2 |  14.29% | 100.00% |
+| 14   | Arceus-Fairy / Arceus / Koraidon            |    2 |  14.29% | 100.00% |
+| 14   | Clodsire / Gliscor / Ho-Oh                  |    2 |  14.29% |  50.00% |
+| 14   | Miraidon / Ting-Lu / Ho-Oh                  |    2 |  14.29% |  50.00% |
+| 14   | Arceus-Ground / Koraidon / Glimmora         |    2 |  14.29% |  50.00% |
+| 14   | Arceus / Koraidon / Glimmora                |    2 |  14.29% |  50.00% |
+| 14   | Arceus-Ground / Arceus / Glimmora           |    2 |  14.29% |  50.00% |
+| 14   | Zacian-* / Arceus-Ground / Koraidon         |    2 |  14.29% |  50.00% |
+| 14   | Zacian-* / Arceus / Koraidon                |    2 |  14.29% |  50.00% |
+| 14   | Calyrex-Shadow / Ting-Lu / Koraidon         |    2 |  14.29% |   0.00% |
+| 14   | Miraidon / Calyrex-Shadow / Koraidon        |    2 |  14.29% |   0.00% |
+| 14   | Arceus-Fairy / Calyrex-Shadow / Ting-Lu     |    2 |  14.29% |   0.00% |
+| 14   | Chi-Yu / Koraidon / Ho-Oh                   |    2 |  14.29% |   0.00% |
+| 14   | Hatterene / Koraidon / Ho-Oh                |    2 |  14.29% |   0.00% |
+| 14   | Chi-Yu / Hatterene / Ho-Oh                  |    2 |  14.29% |   0.00% |
+| 14   | Chi-Yu / Ting-Lu / Ho-Oh                    |    2 |  14.29% |   0.00% |
+| 14   | Ting-Lu / Hatterene / Ho-Oh                 |    2 |  14.29% |   0.00% |
+| 41   | Arceus / Ditto / Gliscor                    |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Clodsire / Gliscor                 |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Arceus / Gliscor                 |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Gliscor / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 41   | Clodsire / Ditto / Gliscor                  |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Ditto / Gliscor                  |    1 |   7.14% | 100.00% |
+| 41   | Ditto / Gliscor / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Clodsire / Gliscor               |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Gliscor / Ho-Oh                  |    1 |   7.14% | 100.00% |
+| 41   | Clodsire / Arceus / Ditto                   |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Arceus / Clodsire                |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Clodsire / Ho-Oh                   |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Clodsire / Ditto                 |    1 |   7.14% | 100.00% |
+| 41   | Clodsire / Ditto / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Clodsire / Ho-Oh                 |    1 |   7.14% | 100.00% |
+| 41   | Calyrex-Shadow / Koraidon                   |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Koraidon                           |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Ground / Koraidon                    |    1 |   7.14% | 100.00% |
+| 41   | Excadrill / Koraidon                        |    1 |   7.14% | 100.00% |
+| 41   | Calyrex-Shadow / Excadrill / Arceus         |    1 |   7.14% | 100.00% |
+| 41   | Calyrex-Shadow / Arceus-Ground / Excadrill  |    1 |   7.14% | 100.00% |
+| 41   | Excadrill / Arceus-Ground / Arceus          |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Koraidon / Glimmora              |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Calyrex-Shadow / Glimmora        |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus-Ground / Glimmora         |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus / Glimmora                |    1 |   7.14% | 100.00% |
+| 41   | Calyrex-Shadow / Koraidon / Glimmora        |    1 |   7.14% | 100.00% |
+| 41   | Calyrex-Shadow / Arceus-Ground / Glimmora   |    1 |   7.14% | 100.00% |
+| 41   | Calyrex-Shadow / Arceus / Glimmora          |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus-Ground / Koraidon         |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Calyrex-Shadow / Arceus-Ground   |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus-Ground / Arceus           |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Ting-Lu / Koraidon                 |    1 |   7.14% | 100.00% |
+| 41   | Landorus-Therian / Ting-Lu / Koraidon       |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Kyogre / Koraidon            |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Landorus-Therian / Koraidon  |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Arceus / Koraidon                  |    1 |   7.14% | 100.00% |
+| 41   | Landorus-Therian / Arceus / Koraidon        |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Landorus-Therian / Koraidon        |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Arceus / Ting-Lu             |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Kyogre / Ting-Lu             |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Landorus-Therian / Ting-Lu   |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Arceus / Ting-Lu                   |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Ting-Lu / Landorus-Therian         |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Landorus-Therian / Ting-Lu         |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Kyogre / Arceus              |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Arceus / Landorus-Therian    |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Kyogre / Landorus-Therian    |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Arceus / Landorus-Therian          |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Ditto / Eternatus                |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Eternatus / Ho-Oh                |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Ting-Lu / Eternatus              |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Arceus / Eternatus               |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Ting-Lu / Ditto                  |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Arceus / Ting-Lu                 |    1 |   7.14% | 100.00% |
+| 41   | Ditto / Eternatus / Ho-Oh                   |    1 |   7.14% | 100.00% |
+| 41   | Ditto / Ting-Lu / Eternatus                 |    1 |   7.14% | 100.00% |
+| 41   | Ditto / Arceus / Eternatus                  |    1 |   7.14% | 100.00% |
+| 41   | Ting-Lu / Eternatus / Ho-Oh                 |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Eternatus / Ho-Oh                  |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Ting-Lu / Eternatus                |    1 |   7.14% | 100.00% |
+| 41   | Ting-Lu / Ditto / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Ting-Lu / Ditto                    |    1 |   7.14% | 100.00% |
+| 41   | Arceus / Ting-Lu / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Calyrex-Shadow / Zacian-*        |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Calyrex-Shadow / Arceus-Fairy    |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus / Zacian-*                |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus-Fairy / Arceus            |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus-Fairy / Zacian-*          |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Zacian-* / Koraidon              |    1 |   7.14% | 100.00% |
+| 41   | Ribombee / Arceus-Fairy / Koraidon          |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Calyrex-Shadow / Arceus          |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Fairy / Calyrex-Shadow / Arceus      |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Calyrex-Shadow / Arceus-Fairy    |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Calyrex-Shadow / Koraidon        |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Arceus-Fairy / Arceus            |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Arceus-Fairy / Koraidon          |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Ting-Lu / Koraidon               |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Kyogre / Koraidon                |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Koraidon / Ho-Oh                 |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Ground / Ting-Lu / Koraidon          |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Arceus-Ground / Koraidon           |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Ground / Koraidon / Ho-Oh            |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Koraidon / Ho-Oh                   |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Arceus-Ground / Ting-Lu          |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Kyogre / Arceus-Ground           |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Arceus-Ground / Ho-Oh            |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Kyogre / Ting-Lu                 |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Ting-Lu / Ho-Oh                  |    1 |   7.14% | 100.00% |
+| 41   | Zacian-* / Kyogre / Ho-Oh                   |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Arceus-Ground / Ting-Lu            |    1 |   7.14% | 100.00% |
+| 41   | Arceus-Ground / Ting-Lu / Ho-Oh             |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Arceus-Ground / Ho-Oh              |    1 |   7.14% | 100.00% |
+| 41   | Kyogre / Ting-Lu / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 41   | Miraidon / Koraidon / Ho-Oh                 |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Koraidon / Ho-Oh             |    1 |   7.14% |   0.00% |
+| 41   | Calyrex-Shadow / Koraidon / Ho-Oh           |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Ting-Lu / Koraidon               |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Miraidon / Koraidon          |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Ting-Lu / Ho-Oh              |    1 |   7.14% |   0.00% |
+| 41   | Calyrex-Shadow / Ting-Lu / Ho-Oh            |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Miraidon / Ho-Oh             |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Calyrex-Shadow / Ho-Oh           |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Calyrex-Shadow / Ho-Oh       |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Miraidon / Ting-Lu           |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Calyrex-Shadow / Ting-Lu         |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Miraidon / Calyrex-Shadow    |    1 |   7.14% |   0.00% |
+| 41   | Chien-Pao                                   |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Ground / Ditto / Giratina-Origin     |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Muk-Alola / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Gliscor / Ho-Oh                 |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Skeledirge / Ho-Oh              |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Clodsire / Ho-Oh                |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Gliscor / Muk-Alola             |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Skeledirge / Muk-Alola          |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Clodsire / Muk-Alola            |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Skeledirge / Gliscor            |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Clodsire / Gliscor              |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Skeledirge / Clodsire           |    1 |   7.14% |   0.00% |
+| 41   | Muk-Alola / Gliscor / Ho-Oh                 |    1 |   7.14% |   0.00% |
+| 41   | Muk-Alola / Skeledirge / Ho-Oh              |    1 |   7.14% |   0.00% |
+| 41   | Muk-Alola / Clodsire / Ho-Oh                |    1 |   7.14% |   0.00% |
+| 41   | Skeledirge / Gliscor / Ho-Oh                |    1 |   7.14% |   0.00% |
+| 41   | Skeledirge / Clodsire / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 41   | Muk-Alola / Skeledirge / Gliscor            |    1 |   7.14% |   0.00% |
+| 41   | Muk-Alola / Clodsire / Gliscor              |    1 |   7.14% |   0.00% |
+| 41   | Muk-Alola / Skeledirge / Clodsire           |    1 |   7.14% |   0.00% |
+| 41   | Skeledirge / Clodsire / Gliscor             |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Arceus-Ground / Glimmora         |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Koraidon / Glimmora              |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Miraidon / Glimmora              |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Arceus / Glimmora                |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Arceus-Ground / Glimmora         |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Koraidon / Glimmora              |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Arceus / Glimmora                |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Arceus-Ground / Koraidon         |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Miraidon / Arceus-Ground         |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Arceus-Ground / Arceus           |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Miraidon / Koraidon              |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Arceus / Koraidon                |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Miraidon / Arceus                |    1 |   7.14% |   0.00% |
+| 41   | Zacian-* / Arceus-Ground / Arceus           |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Volbeat / Hatterene              |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Miraidon / Volbeat               |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Volbeat / Koraidon               |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Calyrex-Shadow / Volbeat         |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Volbeat / Hatterene              |    1 |   7.14% |   0.00% |
+| 41   | Volbeat / Koraidon / Hatterene              |    1 |   7.14% |   0.00% |
+| 41   | Calyrex-Shadow / Volbeat / Hatterene        |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Volbeat / Koraidon               |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Calyrex-Shadow / Volbeat         |    1 |   7.14% |   0.00% |
+| 41   | Calyrex-Shadow / Volbeat / Koraidon         |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Miraidon / Hatterene             |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Koraidon / Hatterene             |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Calyrex-Shadow / Hatterene       |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Miraidon / Koraidon              |    1 |   7.14% |   0.00% |
+| 41   | Ribombee / Miraidon / Calyrex-Shadow        |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Koraidon / Hatterene             |    1 |   7.14% |   0.00% |
+| 41   | Miraidon / Calyrex-Shadow / Hatterene       |    1 |   7.14% |   0.00% |
+| 41   | Calyrex-Shadow / Koraidon / Hatterene       |    1 |   7.14% |   0.00% |
+| 41   | Chi-Yu / Koraidon / Hatterene               |    1 |   7.14% |   0.00% |
+| 41   | Chi-Yu / Ting-Lu / Koraidon                 |    1 |   7.14% |   0.00% |
+| 41   | Koraidon / Ho-Oh                            |    1 |   7.14% |   0.00% |
+| 41   | Ting-Lu / Koraidon / Hatterene              |    1 |   7.14% |   0.00% |
+| 41   | Chi-Yu / Ho-Oh                              |    1 |   7.14% |   0.00% |
+| 41   | Chi-Yu / Ting-Lu / Hatterene                |    1 |   7.14% |   0.00% |
+| 41   | Hatterene / Ho-Oh                           |    1 |   7.14% |   0.00% |
+| 41   | Ting-Lu / Ho-Oh                             |    1 |   7.14% |   0.00% |
+| 41   | Ting-Lu / Calyrex-Shadow / Corviknight      |    1 |   7.14% |   0.00% |
+| 41   | Ting-Lu / Corviknight / Alomomola           |    1 |   7.14% |   0.00% |
+| 41   | Ting-Lu / Corviknight / Koraidon            |    1 |   7.14% |   0.00% |
+| 41   | Ting-Lu / Arceus-Fairy / Corviknight        |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Calyrex-Shadow / Corviknight    |    1 |   7.14% |   0.00% |
+| 41   | Calyrex-Shadow / Corviknight / Koraidon     |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Calyrex-Shadow / Corviknight |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Corviknight / Koraidon          |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Arceus-Fairy / Corviknight      |    1 |   7.14% |   0.00% |
+| 41   | Arceus-Fairy / Corviknight / Koraidon       |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Calyrex-Shadow / Ting-Lu        |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Ting-Lu / Koraidon              |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Arceus-Fairy / Ting-Lu          |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Calyrex-Shadow / Koraidon       |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Calyrex-Shadow / Arceus-Fairy   |    1 |   7.14% |   0.00% |
+| 41   | Alomomola / Arceus-Fairy / Koraidon         |    1 |   7.14% |   0.00% |
+
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                             | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Calyrex-Shadow / Arceus-Ground / Arceus / Koraidon      |    3 |  21.43% | 100.00% |
+| 1    | Chien-Pao / Ditto / Giratina-Origin                     |    3 |  21.43% |   0.00% |
+| 1    | Chien-Pao / Arceus-Ground / Giratina-Origin             |    3 |  21.43% |   0.00% |
+| 1    | Chien-Pao / Arceus-Ground / Ditto                       |    3 |  21.43% |   0.00% |
+| 1    | Chien-Pao / Arceus-Ground / Ditto / Giratina-Origin     |    3 |  21.43% |   0.00% |
+| 6    | Miraidon / Arceus / Ditto / Ho-Oh                       |    2 |  14.29% | 100.00% |
+| 6    | Calyrex-Shadow / Excadrill / Arceus / Koraidon          |    2 |  14.29% | 100.00% |
+| 6    | Calyrex-Shadow / Arceus-Ground / Excadrill / Koraidon   |    2 |  14.29% | 100.00% |
+| 6    | Excadrill / Arceus-Ground / Arceus / Koraidon           |    2 |  14.29% | 100.00% |
+| 6    | Ribombee / Calyrex-Shadow / Arceus / Koraidon           |    2 |  14.29% | 100.00% |
+| 6    | Arceus-Ground / Arceus / Koraidon / Glimmora            |    2 |  14.29% |  50.00% |
+| 6    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Koraidon      |    2 |  14.29% |   0.00% |
+| 6    | Chi-Yu / Hatterene / Koraidon / Ho-Oh                   |    2 |  14.29% |   0.00% |
+| 6    | Chi-Yu / Ting-Lu / Koraidon / Ho-Oh                     |    2 |  14.29% |   0.00% |
+| 6    | Ting-Lu / Hatterene / Koraidon / Ho-Oh                  |    2 |  14.29% |   0.00% |
+| 6    | Chi-Yu / Ting-Lu / Hatterene / Ho-Oh                    |    2 |  14.29% |   0.00% |
+| 17   | Clodsire / Arceus / Ditto / Gliscor                     |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Ditto / Gliscor                     |    1 |   7.14% | 100.00% |
+| 17   | Arceus / Ditto / Gliscor / Ho-Oh                        |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Clodsire / Gliscor                  |    1 |   7.14% | 100.00% |
+| 17   | Arceus / Clodsire / Gliscor / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Gliscor / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Clodsire / Ditto / Gliscor                   |    1 |   7.14% | 100.00% |
+| 17   | Clodsire / Ditto / Gliscor / Ho-Oh                      |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Ditto / Gliscor / Ho-Oh                      |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Clodsire / Gliscor / Ho-Oh                   |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Clodsire / Arceus / Ditto                    |    1 |   7.14% | 100.00% |
+| 17   | Clodsire / Arceus / Ditto / Ho-Oh                       |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Clodsire / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Clodsire / Ditto / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 17   | Calyrex-Shadow / Arceus / Koraidon                      |    1 |   7.14% | 100.00% |
+| 17   | Calyrex-Shadow / Arceus-Ground / Koraidon               |    1 |   7.14% | 100.00% |
+| 17   | Calyrex-Shadow / Excadrill / Koraidon                   |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Ground / Arceus / Koraidon                       |    1 |   7.14% | 100.00% |
+| 17   | Excadrill / Arceus / Koraidon                           |    1 |   7.14% | 100.00% |
+| 17   | Excadrill / Arceus-Ground / Koraidon                    |    1 |   7.14% | 100.00% |
+| 17   | Calyrex-Shadow / Arceus-Ground / Arceus / Excadrill     |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Koraidon / Glimmora         |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus-Ground / Koraidon / Glimmora          |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus / Koraidon / Glimmora                 |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Arceus-Ground / Glimmora    |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Arceus / Glimmora           |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus-Ground / Arceus / Glimmora            |    1 |   7.14% | 100.00% |
+| 17   | Calyrex-Shadow / Arceus-Ground / Koraidon / Glimmora    |    1 |   7.14% | 100.00% |
+| 17   | Calyrex-Shadow / Arceus / Koraidon / Glimmora           |    1 |   7.14% | 100.00% |
+| 17   | Calyrex-Shadow / Arceus-Ground / Arceus / Glimmora      |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Arceus-Ground / Koraidon    |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus-Ground / Arceus / Koraidon            |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Arceus-Ground / Arceus      |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Arceus / Ting-Lu / Koraidon              |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Kyogre / Ting-Lu / Koraidon              |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Landorus-Therian / Ting-Lu / Koraidon    |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Arceus / Ting-Lu / Koraidon                    |    1 |   7.14% | 100.00% |
+| 17   | Landorus-Therian / Arceus / Ting-Lu / Koraidon          |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Landorus-Therian / Ting-Lu / Koraidon          |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Kyogre / Arceus / Koraidon               |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Landorus-Therian / Arceus / Koraidon     |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Kyogre / Landorus-Therian / Koraidon     |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Landorus-Therian / Arceus / Koraidon           |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Kyogre / Arceus / Ting-Lu                |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Arceus / Ting-Lu / Landorus-Therian      |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Kyogre / Landorus-Therian / Ting-Lu      |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Arceus / Ting-Lu / Landorus-Therian            |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Kyogre / Arceus / Landorus-Therian       |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Ditto / Eternatus / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Ditto / Ting-Lu / Eternatus                  |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Ditto / Arceus / Eternatus                   |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Ting-Lu / Eternatus / Ho-Oh                  |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Eternatus / Ho-Oh                   |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Ting-Lu / Eternatus                 |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Ting-Lu / Ditto / Ho-Oh                      |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Ting-Lu / Ditto                     |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Arceus / Ting-Lu / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 17   | Ditto / Ting-Lu / Eternatus / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 17   | Ditto / Arceus / Eternatus / Ho-Oh                      |    1 |   7.14% | 100.00% |
+| 17   | Ditto / Arceus / Ting-Lu / Eternatus                    |    1 |   7.14% | 100.00% |
+| 17   | Arceus / Ting-Lu / Eternatus / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 17   | Arceus / Ting-Lu / Ditto / Ho-Oh                        |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Arceus / Zacian-*           |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Arceus / Arceus-Fairy       |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Zacian-* / Arceus-Fairy     |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Zacian-* / Koraidon         |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Calyrex-Shadow / Koraidon / Arceus-Fairy     |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus-Fairy / Arceus / Zacian-*             |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus / Zacian-* / Koraidon                 |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus-Fairy / Arceus / Koraidon             |    1 |   7.14% | 100.00% |
+| 17   | Ribombee / Arceus-Fairy / Zacian-* / Koraidon           |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Calyrex-Shadow / Arceus / Arceus-Fairy       |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Calyrex-Shadow / Arceus / Koraidon           |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Fairy / Calyrex-Shadow / Arceus / Koraidon       |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Calyrex-Shadow / Koraidon / Arceus-Fairy     |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Arceus-Fairy / Arceus / Koraidon             |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Arceus-Ground / Ting-Lu / Koraidon           |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Kyogre / Arceus-Ground / Koraidon            |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Arceus-Ground / Koraidon / Ho-Oh             |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Kyogre / Ting-Lu / Koraidon                  |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Ting-Lu / Koraidon / Ho-Oh                   |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Kyogre / Koraidon / Ho-Oh                    |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Arceus-Ground / Ting-Lu / Koraidon             |    1 |   7.14% | 100.00% |
+| 17   | Arceus-Ground / Ting-Lu / Koraidon / Ho-Oh              |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Arceus-Ground / Koraidon / Ho-Oh               |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Ting-Lu / Koraidon / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Kyogre / Arceus-Ground / Ting-Lu             |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Arceus-Ground / Ting-Lu / Ho-Oh              |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Kyogre / Arceus-Ground / Ho-Oh               |    1 |   7.14% | 100.00% |
+| 17   | Zacian-* / Kyogre / Ting-Lu / Ho-Oh                     |    1 |   7.14% | 100.00% |
+| 17   | Kyogre / Arceus-Ground / Ting-Lu / Ho-Oh                |    1 |   7.14% | 100.00% |
+| 17   | Miraidon / Ting-Lu / Koraidon / Ho-Oh                   |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Ting-Lu / Koraidon / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 17   | Calyrex-Shadow / Ting-Lu / Koraidon / Ho-Oh             |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Miraidon / Koraidon / Ho-Oh              |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Calyrex-Shadow / Koraidon / Ho-Oh            |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Calyrex-Shadow / Koraidon / Ho-Oh        |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Miraidon / Ting-Lu / Koraidon            |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Calyrex-Shadow / Ting-Lu / Koraidon          |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Miraidon / Calyrex-Shadow / Koraidon     |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Miraidon / Ting-Lu / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Calyrex-Shadow / Ting-Lu / Ho-Oh             |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Ho-Oh         |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Miraidon / Calyrex-Shadow / Ho-Oh        |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Miraidon / Calyrex-Shadow / Ting-Lu      |    1 |   7.14% |   0.00% |
+| 17   | Chien-Pao / Giratina-Origin                             |    1 |   7.14% |   0.00% |
+| 17   | Chien-Pao / Ditto                                       |    1 |   7.14% |   0.00% |
+| 17   | Chien-Pao / Arceus-Ground                               |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Muk-Alola / Gliscor / Ho-Oh                 |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Skeledirge / Muk-Alola / Ho-Oh              |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Muk-Alola / Clodsire / Ho-Oh                |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Skeledirge / Gliscor / Ho-Oh                |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Clodsire / Gliscor / Ho-Oh                  |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Skeledirge / Clodsire / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Skeledirge / Gliscor / Muk-Alola            |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Clodsire / Gliscor / Muk-Alola              |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Skeledirge / Clodsire / Muk-Alola           |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Skeledirge / Clodsire / Gliscor             |    1 |   7.14% |   0.00% |
+| 17   | Muk-Alola / Skeledirge / Gliscor / Ho-Oh                |    1 |   7.14% |   0.00% |
+| 17   | Muk-Alola / Clodsire / Gliscor / Ho-Oh                  |    1 |   7.14% |   0.00% |
+| 17   | Muk-Alola / Skeledirge / Clodsire / Ho-Oh               |    1 |   7.14% |   0.00% |
+| 17   | Skeledirge / Clodsire / Gliscor / Ho-Oh                 |    1 |   7.14% |   0.00% |
+| 17   | Muk-Alola / Skeledirge / Clodsire / Gliscor             |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Arceus-Ground / Koraidon / Glimmora          |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Miraidon / Arceus-Ground / Glimmora          |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Arceus-Ground / Arceus / Glimmora            |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Miraidon / Koraidon / Glimmora               |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Arceus / Koraidon / Glimmora                 |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Miraidon / Arceus / Glimmora                 |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Arceus-Ground / Koraidon / Glimmora          |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Arceus-Ground / Arceus / Glimmora            |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Arceus / Koraidon / Glimmora                 |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Miraidon / Arceus-Ground / Koraidon          |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Arceus-Ground / Arceus / Koraidon            |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Miraidon / Arceus-Ground / Arceus            |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Miraidon / Arceus / Koraidon                 |    1 |   7.14% |   0.00% |
+| 17   | Zacian-* / Arceus-Ground / Arceus / Koraidon            |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Miraidon / Volbeat / Hatterene               |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Volbeat / Koraidon / Hatterene               |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Calyrex-Shadow / Volbeat / Hatterene         |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Miraidon / Volbeat / Koraidon                |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Miraidon / Calyrex-Shadow / Volbeat          |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Calyrex-Shadow / Volbeat / Koraidon          |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Volbeat / Koraidon / Hatterene               |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Calyrex-Shadow / Volbeat / Hatterene         |    1 |   7.14% |   0.00% |
+| 17   | Calyrex-Shadow / Volbeat / Koraidon / Hatterene         |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Calyrex-Shadow / Volbeat / Koraidon          |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Miraidon / Koraidon / Hatterene              |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Miraidon / Calyrex-Shadow / Hatterene        |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Calyrex-Shadow / Koraidon / Hatterene        |    1 |   7.14% |   0.00% |
+| 17   | Ribombee / Miraidon / Calyrex-Shadow / Koraidon         |    1 |   7.14% |   0.00% |
+| 17   | Miraidon / Calyrex-Shadow / Koraidon / Hatterene        |    1 |   7.14% |   0.00% |
+| 17   | Chi-Yu / Koraidon / Ho-Oh                               |    1 |   7.14% |   0.00% |
+| 17   | Chi-Yu / Ting-Lu / Koraidon / Hatterene                 |    1 |   7.14% |   0.00% |
+| 17   | Hatterene / Koraidon / Ho-Oh                            |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Koraidon / Ho-Oh                              |    1 |   7.14% |   0.00% |
+| 17   | Chi-Yu / Hatterene / Ho-Oh                              |    1 |   7.14% |   0.00% |
+| 17   | Chi-Yu / Ting-Lu / Ho-Oh                                |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Hatterene / Ho-Oh                             |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Calyrex-Shadow / Corviknight / Alomomola      |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Calyrex-Shadow / Corviknight / Koraidon       |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Calyrex-Shadow / Corviknight / Arceus-Fairy   |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Corviknight / Koraidon / Alomomola            |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Arceus-Fairy / Corviknight / Alomomola        |    1 |   7.14% |   0.00% |
+| 17   | Ting-Lu / Arceus-Fairy / Corviknight / Koraidon         |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Calyrex-Shadow / Corviknight / Koraidon     |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Calyrex-Shadow / Corviknight / Arceus-Fairy |    1 |   7.14% |   0.00% |
+| 17   | Arceus-Fairy / Calyrex-Shadow / Corviknight / Koraidon  |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Arceus-Fairy / Corviknight / Koraidon       |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Calyrex-Shadow / Ting-Lu / Koraidon         |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Calyrex-Shadow / Ting-Lu / Arceus-Fairy     |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Arceus-Fairy / Ting-Lu / Koraidon           |    1 |   7.14% |   0.00% |
+| 17   | Alomomola / Calyrex-Shadow / Koraidon / Arceus-Fairy    |    1 |   7.14% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Chien-Pao / Arceus-Ground / Ditto / Giratina-Origin                |    3 |  21.43% |   0.00% |
+| 2    | Calyrex-Shadow / Excadrill / Arceus / Koraidon / Arceus-Ground     |    2 |  14.29% | 100.00% |
+| 2    | Chi-Yu / Hatterene / Ho-Oh / Ting-Lu / Koraidon                    |    2 |  14.29% |   0.00% |
+| 4    | Miraidon / Arceus / Clodsire / Ditto / Gliscor                     |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Arceus / Clodsire / Ditto / Gliscor                        |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Arceus / Ditto / Gliscor                        |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Arceus / Clodsire / Gliscor                     |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Clodsire / Ditto / Gliscor                      |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Arceus / Clodsire / Ditto                       |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Arceus-Ground / Arceus / Koraidon                 |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Excadrill / Arceus / Koraidon                     |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Arceus-Ground / Excadrill / Koraidon              |    1 |   7.14% | 100.00% |
+| 4    | Excadrill / Arceus-Ground / Arceus / Koraidon                      |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Ribombee / Koraidon / Glimmora / Arceus-Ground    |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Ribombee / Arceus / Koraidon / Glimmora           |    1 |   7.14% | 100.00% |
+| 4    | Ribombee / Arceus / Koraidon / Glimmora / Arceus-Ground            |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Ribombee / Arceus / Glimmora / Arceus-Ground      |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Arceus / Koraidon / Glimmora / Arceus-Ground      |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Ribombee / Arceus / Koraidon / Arceus-Ground      |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Kyogre / Arceus / Ting-Lu / Koraidon                |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Landorus-Therian / Arceus / Ting-Lu / Koraidon      |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Kyogre / Landorus-Therian / Ting-Lu / Koraidon      |    1 |   7.14% | 100.00% |
+| 4    | Kyogre / Landorus-Therian / Arceus / Ting-Lu / Koraidon            |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Kyogre / Landorus-Therian / Arceus / Koraidon       |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Kyogre / Arceus / Ting-Lu / Landorus-Therian        |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Ting-Lu / Ditto / Eternatus                     |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Arceus / Ditto / Eternatus                      |    1 |   7.14% | 100.00% |
+| 4    | Miraidon / Arceus / Ting-Lu / Ditto / Eternatus                    |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Arceus / Ting-Lu / Eternatus                    |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Miraidon / Arceus / Ting-Lu / Ditto                        |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Arceus / Ting-Lu / Ditto / Eternatus                       |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ribombee / Zacian-* / Arceus       |    1 |   7.14% | 100.00% |
+| 4    | Calyrex-Shadow / Ribombee / Zacian-* / Arceus / Koraidon           |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ribombee / Arceus / Koraidon       |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ribombee / Zacian-* / Koraidon     |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Ribombee / Zacian-* / Arceus / Koraidon             |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Zacian-* / Arceus / Koraidon       |    1 |   7.14% | 100.00% |
+| 4    | Zacian-* / Kyogre / Ting-Lu / Koraidon / Arceus-Ground             |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Zacian-* / Ting-Lu / Koraidon / Arceus-Ground              |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Zacian-* / Kyogre / Koraidon / Arceus-Ground               |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Zacian-* / Kyogre / Ting-Lu / Koraidon                     |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Kyogre / Ting-Lu / Koraidon / Arceus-Ground                |    1 |   7.14% | 100.00% |
+| 4    | Ho-Oh / Zacian-* / Kyogre / Ting-Lu / Arceus-Ground                |    1 |   7.14% | 100.00% |
+| 4    | Arceus-Fairy / Ho-Oh / Miraidon / Ting-Lu / Koraidon               |    1 |   7.14% |   0.00% |
+| 4    | Calyrex-Shadow / Ho-Oh / Miraidon / Ting-Lu / Koraidon             |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ho-Oh / Ting-Lu / Koraidon         |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ho-Oh / Miraidon / Koraidon        |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Miraidon / Ting-Lu / Koraidon      |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ho-Oh / Miraidon / Ting-Lu         |    1 |   7.14% |   0.00% |
+| 4    | Chien-Pao / Ditto / Giratina-Origin                                |    1 |   7.14% |   0.00% |
+| 4    | Chien-Pao / Arceus-Ground / Giratina-Origin                        |    1 |   7.14% |   0.00% |
+| 4    | Chien-Pao / Arceus-Ground / Ditto                                  |    1 |   7.14% |   0.00% |
+| 4    | Skeledirge / Ho-Oh / Muk-Alola / Alomomola / Gliscor               |    1 |   7.14% |   0.00% |
+| 4    | Ho-Oh / Muk-Alola / Clodsire / Alomomola / Gliscor                 |    1 |   7.14% |   0.00% |
+| 4    | Skeledirge / Ho-Oh / Muk-Alola / Clodsire / Alomomola              |    1 |   7.14% |   0.00% |
+| 4    | Skeledirge / Ho-Oh / Clodsire / Alomomola / Gliscor                |    1 |   7.14% |   0.00% |
+| 4    | Skeledirge / Muk-Alola / Clodsire / Alomomola / Gliscor            |    1 |   7.14% |   0.00% |
+| 4    | Skeledirge / Ho-Oh / Muk-Alola / Clodsire / Gliscor                |    1 |   7.14% |   0.00% |
+| 4    | Zacian-* / Miraidon / Koraidon / Glimmora / Arceus-Ground          |    1 |   7.14% |   0.00% |
+| 4    | Miraidon / Arceus / Koraidon / Glimmora / Arceus-Ground            |    1 |   7.14% |   0.00% |
+| 4    | Zacian-* / Miraidon / Arceus / Glimmora / Arceus-Ground            |    1 |   7.14% |   0.00% |
+| 4    | Zacian-* / Miraidon / Arceus / Koraidon / Glimmora                 |    1 |   7.14% |   0.00% |
+| 4    | Zacian-* / Arceus / Koraidon / Glimmora / Arceus-Ground            |    1 |   7.14% |   0.00% |
+| 4    | Zacian-* / Miraidon / Arceus / Koraidon / Arceus-Ground            |    1 |   7.14% |   0.00% |
+| 4    | Hatterene / Volbeat / Ribombee / Miraidon / Koraidon               |    1 |   7.14% |   0.00% |
+| 4    | Calyrex-Shadow / Hatterene / Volbeat / Ribombee / Miraidon         |    1 |   7.14% |   0.00% |
+| 4    | Calyrex-Shadow / Hatterene / Volbeat / Ribombee / Koraidon         |    1 |   7.14% |   0.00% |
+| 4    | Calyrex-Shadow / Volbeat / Ribombee / Miraidon / Koraidon          |    1 |   7.14% |   0.00% |
+| 4    | Calyrex-Shadow / Hatterene / Volbeat / Miraidon / Koraidon         |    1 |   7.14% |   0.00% |
+| 4    | Calyrex-Shadow / Hatterene / Ribombee / Miraidon / Koraidon        |    1 |   7.14% |   0.00% |
+| 4    | Chi-Yu / Hatterene / Koraidon / Ho-Oh                              |    1 |   7.14% |   0.00% |
+| 4    | Chi-Yu / Ting-Lu / Koraidon / Ho-Oh                                |    1 |   7.14% |   0.00% |
+| 4    | Ting-Lu / Hatterene / Koraidon / Ho-Oh                             |    1 |   7.14% |   0.00% |
+| 4    | Chi-Yu / Ting-Lu / Hatterene / Ho-Oh                               |    1 |   7.14% |   0.00% |
+| 4    | Calyrex-Shadow / Ting-Lu / Corviknight / Koraidon / Alomomola      |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Corviknight / Alomomola  |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Corviknight / Koraidon   |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Ting-Lu / Corviknight / Koraidon / Alomomola        |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Corviknight / Koraidon / Alomomola |    1 |   7.14% |   0.00% |
+| 4    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Koraidon / Alomomola     |    1 |   7.14% |   0.00% |
+
++ ---- + ---------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Ho-Oh / Miraidon / Arceus / Clodsire / Ditto / Gliscor                       |    1 |   7.14% | 100.00% |
+| 1    | Calyrex-Shadow / Excadrill / Arceus / Koraidon / Arceus-Ground               |    1 |   7.14% | 100.00% |
+| 1    | Calyrex-Shadow / Ribombee / Arceus / Koraidon / Glimmora / Arceus-Ground     |    1 |   7.14% | 100.00% |
+| 1    | Arceus-Fairy / Kyogre / Arceus / Ting-Lu / Koraidon / Landorus-Therian       |    1 |   7.14% | 100.00% |
+| 1    | Ho-Oh / Miraidon / Arceus / Ting-Lu / Ditto / Eternatus                      |    1 |   7.14% | 100.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Ribombee / Zacian-* / Arceus / Koraidon      |    1 |   7.14% | 100.00% |
+| 1    | Ho-Oh / Zacian-* / Kyogre / Ting-Lu / Koraidon / Arceus-Ground               |    1 |   7.14% | 100.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Ho-Oh / Miraidon / Ting-Lu / Koraidon        |    1 |   7.14% |   0.00% |
+| 1    | Chien-Pao / Arceus-Ground / Ditto / Giratina-Origin                          |    1 |   7.14% |   0.00% |
+| 1    | Skeledirge / Ho-Oh / Muk-Alola / Clodsire / Alomomola / Gliscor              |    1 |   7.14% |   0.00% |
+| 1    | Zacian-* / Miraidon / Arceus / Koraidon / Glimmora / Arceus-Ground           |    1 |   7.14% |   0.00% |
+| 1    | Calyrex-Shadow / Hatterene / Volbeat / Ribombee / Miraidon / Koraidon        |    1 |   7.14% |   0.00% |
+| 1    | Chi-Yu / Hatterene / Ho-Oh / Ting-Lu / Koraidon                              |    1 |   7.14% |   0.00% |
+| 1    | Arceus-Fairy / Calyrex-Shadow / Ting-Lu / Corviknight / Koraidon / Alomomola |    1 |   7.14% |   0.00% |
