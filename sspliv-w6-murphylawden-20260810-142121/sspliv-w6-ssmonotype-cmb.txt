@@ -1,0 +1,471 @@
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 2                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| 1    | Nidoking / Landorus-Therian          |    2 |  25.00% |   0.00% |
+| 1    | Mamoswine / Landorus-Therian         |    2 |  25.00% |   0.00% |
+| 1    | Nidoking / Mamoswine                 |    2 |  25.00% |   0.00% |
+| 4    | Blacephalon / Aegislash              |    1 |  12.50% | 100.00% |
+| 4    | Aegislash / Spectrier                |    1 |  12.50% | 100.00% |
+| 4    | Dragapult / Aegislash                |    1 |  12.50% | 100.00% |
+| 4    | Froslass / Aegislash                 |    1 |  12.50% | 100.00% |
+| 4    | Mimikyu / Aegislash                  |    1 |  12.50% | 100.00% |
+| 4    | Blacephalon / Spectrier              |    1 |  12.50% | 100.00% |
+| 4    | Blacephalon / Dragapult              |    1 |  12.50% | 100.00% |
+| 4    | Froslass / Blacephalon               |    1 |  12.50% | 100.00% |
+| 4    | Mimikyu / Blacephalon                |    1 |  12.50% | 100.00% |
+| 4    | Dragapult / Spectrier                |    1 |  12.50% | 100.00% |
+| 4    | Froslass / Spectrier                 |    1 |  12.50% | 100.00% |
+| 4    | Mimikyu / Spectrier                  |    1 |  12.50% | 100.00% |
+| 4    | Froslass / Dragapult                 |    1 |  12.50% | 100.00% |
+| 4    | Mimikyu / Dragapult                  |    1 |  12.50% | 100.00% |
+| 4    | Froslass / Mimikyu                   |    1 |  12.50% | 100.00% |
+| 4    | Jirachi / Melmetal                   |    1 |  12.50% | 100.00% |
+| 4    | Jirachi / Skarmory                   |    1 |  12.50% | 100.00% |
+| 4    | Heatran / Jirachi                    |    1 |  12.50% | 100.00% |
+| 4    | Jirachi / Aegislash                  |    1 |  12.50% | 100.00% |
+| 4    | Jirachi / Excadrill                  |    1 |  12.50% | 100.00% |
+| 4    | Melmetal / Skarmory                  |    1 |  12.50% | 100.00% |
+| 4    | Heatran / Melmetal                   |    1 |  12.50% | 100.00% |
+| 4    | Melmetal / Aegislash                 |    1 |  12.50% | 100.00% |
+| 4    | Melmetal / Excadrill                 |    1 |  12.50% | 100.00% |
+| 4    | Heatran / Skarmory                   |    1 |  12.50% | 100.00% |
+| 4    | Aegislash / Skarmory                 |    1 |  12.50% | 100.00% |
+| 4    | Excadrill / Skarmory                 |    1 |  12.50% | 100.00% |
+| 4    | Heatran / Aegislash                  |    1 |  12.50% | 100.00% |
+| 4    | Heatran / Excadrill                  |    1 |  12.50% | 100.00% |
+| 4    | Excadrill / Aegislash                |    1 |  12.50% | 100.00% |
+| 4    | Celesteela / Landorus-Therian        |    1 |  12.50% | 100.00% |
+| 4    | Landorus-Therian / Dragonite         |    1 |  12.50% | 100.00% |
+| 4    | Moltres-Galar / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 4    | Thundurus-Therian / Landorus-Therian |    1 |  12.50% | 100.00% |
+| 4    | Zapdos-Galar / Landorus-Therian      |    1 |  12.50% | 100.00% |
+| 4    | Celesteela / Dragonite               |    1 |  12.50% | 100.00% |
+| 4    | Celesteela / Moltres-Galar           |    1 |  12.50% | 100.00% |
+| 4    | Celesteela / Thundurus-Therian       |    1 |  12.50% | 100.00% |
+| 4    | Celesteela / Zapdos-Galar            |    1 |  12.50% | 100.00% |
+| 4    | Moltres-Galar / Dragonite            |    1 |  12.50% | 100.00% |
+| 4    | Thundurus-Therian / Dragonite        |    1 |  12.50% | 100.00% |
+| 4    | Zapdos-Galar / Dragonite             |    1 |  12.50% | 100.00% |
+| 4    | Moltres-Galar / Thundurus-Therian    |    1 |  12.50% | 100.00% |
+| 4    | Moltres-Galar / Zapdos-Galar         |    1 |  12.50% | 100.00% |
+| 4    | Zapdos-Galar / Thundurus-Therian     |    1 |  12.50% | 100.00% |
+| 4    | Dragalge / Kyurem                    |    1 |  12.50% | 100.00% |
+| 4    | Hydreigon / Dragalge                 |    1 |  12.50% | 100.00% |
+| 4    | Garchomp / Dragalge                  |    1 |  12.50% | 100.00% |
+| 4    | Dragapult / Dragalge                 |    1 |  12.50% | 100.00% |
+| 4    | Latias / Dragalge                    |    1 |  12.50% | 100.00% |
+| 4    | Hydreigon / Kyurem                   |    1 |  12.50% | 100.00% |
+| 4    | Garchomp / Kyurem                    |    1 |  12.50% | 100.00% |
+| 4    | Dragapult / Kyurem                   |    1 |  12.50% | 100.00% |
+| 4    | Latias / Kyurem                      |    1 |  12.50% | 100.00% |
+| 4    | Garchomp / Hydreigon                 |    1 |  12.50% | 100.00% |
+| 4    | Hydreigon / Dragapult                |    1 |  12.50% | 100.00% |
+| 4    | Latias / Hydreigon                   |    1 |  12.50% | 100.00% |
+| 4    | Garchomp / Dragapult                 |    1 |  12.50% | 100.00% |
+| 4    | Latias / Garchomp                    |    1 |  12.50% | 100.00% |
+| 4    | Latias / Dragapult                   |    1 |  12.50% | 100.00% |
+| 4    | Zeraora / Raichu-Alola               |    1 |  12.50% |   0.00% |
+| 4    | Magnezone / Raichu-Alola             |    1 |  12.50% |   0.00% |
+| 4    | Zapdos / Raichu-Alola                |    1 |  12.50% |   0.00% |
+| 4    | Rotom-Wash / Raichu-Alola            |    1 |  12.50% |   0.00% |
+| 4    | Tapu Koko / Raichu-Alola             |    1 |  12.50% |   0.00% |
+| 4    | Zeraora / Magnezone                  |    1 |  12.50% |   0.00% |
+| 4    | Zapdos / Zeraora                     |    1 |  12.50% |   0.00% |
+| 4    | Rotom-Wash / Zeraora                 |    1 |  12.50% |   0.00% |
+| 4    | Zeraora / Tapu Koko                  |    1 |  12.50% |   0.00% |
+| 4    | Zapdos / Magnezone                   |    1 |  12.50% |   0.00% |
+| 4    | Rotom-Wash / Magnezone               |    1 |  12.50% |   0.00% |
+| 4    | Tapu Koko / Magnezone                |    1 |  12.50% |   0.00% |
+| 4    | Rotom-Wash / Zapdos                  |    1 |  12.50% |   0.00% |
+| 4    | Zapdos / Tapu Koko                   |    1 |  12.50% |   0.00% |
+| 4    | Rotom-Wash / Tapu Koko               |    1 |  12.50% |   0.00% |
+| 4    | Ninetales-Alola / Weavile            |    1 |  12.50% |   0.00% |
+| 4    | Darmanitan-Galar / Weavile           |    1 |  12.50% |   0.00% |
+| 4    | Piloswine / Weavile                  |    1 |  12.50% |   0.00% |
+| 4    | Kyurem / Weavile                     |    1 |  12.50% |   0.00% |
+| 4    | Cloyster / Weavile                   |    1 |  12.50% |   0.00% |
+| 4    | Ninetales-Alola / Darmanitan-Galar   |    1 |  12.50% |   0.00% |
+| 4    | Piloswine / Ninetales-Alola          |    1 |  12.50% |   0.00% |
+| 4    | Ninetales-Alola / Kyurem             |    1 |  12.50% |   0.00% |
+| 4    | Ninetales-Alola / Cloyster           |    1 |  12.50% |   0.00% |
+| 4    | Piloswine / Darmanitan-Galar         |    1 |  12.50% |   0.00% |
+| 4    | Darmanitan-Galar / Kyurem            |    1 |  12.50% |   0.00% |
+| 4    | Cloyster / Darmanitan-Galar          |    1 |  12.50% |   0.00% |
+| 4    | Piloswine / Kyurem                   |    1 |  12.50% |   0.00% |
+| 4    | Piloswine / Cloyster                 |    1 |  12.50% |   0.00% |
+| 4    | Cloyster / Kyurem                    |    1 |  12.50% |   0.00% |
+| 4    | Hippowdon / Landorus-Therian         |    1 |  12.50% |   0.00% |
+| 4    | Excadrill / Landorus-Therian         |    1 |  12.50% |   0.00% |
+| 4    | Landorus-Therian / Seismitoad        |    1 |  12.50% |   0.00% |
+| 4    | Nidoking / Hippowdon                 |    1 |  12.50% |   0.00% |
+| 4    | Nidoking / Excadrill                 |    1 |  12.50% |   0.00% |
+| 4    | Nidoking / Seismitoad                |    1 |  12.50% |   0.00% |
+| 4    | Hippowdon / Mamoswine                |    1 |  12.50% |   0.00% |
+| 4    | Excadrill / Mamoswine                |    1 |  12.50% |   0.00% |
+| 4    | Mamoswine / Seismitoad               |    1 |  12.50% |   0.00% |
+| 4    | Excadrill / Hippowdon                |    1 |  12.50% |   0.00% |
+| 4    | Hippowdon / Seismitoad               |    1 |  12.50% |   0.00% |
+| 4    | Excadrill / Seismitoad               |    1 |  12.50% |   0.00% |
+| 4    | Steelix / Mamoswine                  |    1 |  12.50% |   0.00% |
+| 4    | Mamoswine / Gastrodon                |    1 |  12.50% |   0.00% |
+| 4    | Garchomp / Mamoswine                 |    1 |  12.50% |   0.00% |
+| 4    | Nidoking / Steelix                   |    1 |  12.50% |   0.00% |
+| 4    | Nidoking / Gastrodon                 |    1 |  12.50% |   0.00% |
+| 4    | Nidoking / Garchomp                  |    1 |  12.50% |   0.00% |
+| 4    | Steelix / Landorus-Therian           |    1 |  12.50% |   0.00% |
+| 4    | Steelix / Gastrodon                  |    1 |  12.50% |   0.00% |
+| 4    | Steelix / Garchomp                   |    1 |  12.50% |   0.00% |
+| 4    | Landorus-Therian / Gastrodon         |    1 |  12.50% |   0.00% |
+| 4    | Garchomp / Landorus-Therian          |    1 |  12.50% |   0.00% |
+| 4    | Garchomp / Gastrodon                 |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Nidoking / Mamoswine / Landorus-Therian              |    2 |  25.00% |   0.00% |
+| 2    | Blacephalon / Aegislash / Spectrier                  |    1 |  12.50% | 100.00% |
+| 2    | Dragapult / Blacephalon / Aegislash                  |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Blacephalon / Aegislash                   |    1 |  12.50% | 100.00% |
+| 2    | Mimikyu / Blacephalon / Aegislash                    |    1 |  12.50% | 100.00% |
+| 2    | Dragapult / Aegislash / Spectrier                    |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Aegislash / Spectrier                     |    1 |  12.50% | 100.00% |
+| 2    | Mimikyu / Aegislash / Spectrier                      |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Dragapult / Aegislash                     |    1 |  12.50% | 100.00% |
+| 2    | Mimikyu / Dragapult / Aegislash                      |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Mimikyu / Aegislash                       |    1 |  12.50% | 100.00% |
+| 2    | Dragapult / Blacephalon / Spectrier                  |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Blacephalon / Spectrier                   |    1 |  12.50% | 100.00% |
+| 2    | Mimikyu / Blacephalon / Spectrier                    |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Blacephalon / Dragapult                   |    1 |  12.50% | 100.00% |
+| 2    | Mimikyu / Blacephalon / Dragapult                    |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Blacephalon / Mimikyu                     |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Dragapult / Spectrier                     |    1 |  12.50% | 100.00% |
+| 2    | Mimikyu / Dragapult / Spectrier                      |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Mimikyu / Spectrier                       |    1 |  12.50% | 100.00% |
+| 2    | Froslass / Mimikyu / Dragapult                       |    1 |  12.50% | 100.00% |
+| 2    | Jirachi / Melmetal / Skarmory                        |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Jirachi / Melmetal                         |    1 |  12.50% | 100.00% |
+| 2    | Jirachi / Melmetal / Aegislash                       |    1 |  12.50% | 100.00% |
+| 2    | Jirachi / Melmetal / Excadrill                       |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Jirachi / Skarmory                         |    1 |  12.50% | 100.00% |
+| 2    | Jirachi / Aegislash / Skarmory                       |    1 |  12.50% | 100.00% |
+| 2    | Excadrill / Jirachi / Skarmory                       |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Jirachi / Aegislash                        |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Jirachi / Excadrill                        |    1 |  12.50% | 100.00% |
+| 2    | Jirachi / Aegislash / Excadrill                      |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Melmetal / Skarmory                        |    1 |  12.50% | 100.00% |
+| 2    | Melmetal / Aegislash / Skarmory                      |    1 |  12.50% | 100.00% |
+| 2    | Excadrill / Melmetal / Skarmory                      |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Melmetal / Aegislash                       |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Melmetal / Excadrill                       |    1 |  12.50% | 100.00% |
+| 2    | Melmetal / Aegislash / Excadrill                     |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Aegislash / Skarmory                       |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Excadrill / Skarmory                       |    1 |  12.50% | 100.00% |
+| 2    | Excadrill / Aegislash / Skarmory                     |    1 |  12.50% | 100.00% |
+| 2    | Heatran / Excadrill / Aegislash                      |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Landorus-Therian / Dragonite            |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Moltres-Galar / Landorus-Therian        |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Thundurus-Therian / Landorus-Therian    |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Landorus-Therian / Zapdos-Galar         |    1 |  12.50% | 100.00% |
+| 2    | Moltres-Galar / Landorus-Therian / Dragonite         |    1 |  12.50% | 100.00% |
+| 2    | Thundurus-Therian / Landorus-Therian / Dragonite     |    1 |  12.50% | 100.00% |
+| 2    | Zapdos-Galar / Landorus-Therian / Dragonite          |    1 |  12.50% | 100.00% |
+| 2    | Moltres-Galar / Thundurus-Therian / Landorus-Therian |    1 |  12.50% | 100.00% |
+| 2    | Moltres-Galar / Landorus-Therian / Zapdos-Galar      |    1 |  12.50% | 100.00% |
+| 2    | Zapdos-Galar / Thundurus-Therian / Landorus-Therian  |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Moltres-Galar / Dragonite               |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Thundurus-Therian / Dragonite           |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Dragonite / Zapdos-Galar                |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Thundurus-Therian / Moltres-Galar       |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Moltres-Galar / Zapdos-Galar            |    1 |  12.50% | 100.00% |
+| 2    | Celesteela / Thundurus-Therian / Zapdos-Galar        |    1 |  12.50% | 100.00% |
+| 2    | Moltres-Galar / Thundurus-Therian / Dragonite        |    1 |  12.50% | 100.00% |
+| 2    | Moltres-Galar / Dragonite / Zapdos-Galar             |    1 |  12.50% | 100.00% |
+| 2    | Zapdos-Galar / Thundurus-Therian / Dragonite         |    1 |  12.50% | 100.00% |
+| 2    | Moltres-Galar / Thundurus-Therian / Zapdos-Galar     |    1 |  12.50% | 100.00% |
+| 2    | Hydreigon / Dragalge / Kyurem                        |    1 |  12.50% | 100.00% |
+| 2    | Garchomp / Dragalge / Kyurem                         |    1 |  12.50% | 100.00% |
+| 2    | Dragapult / Dragalge / Kyurem                        |    1 |  12.50% | 100.00% |
+| 2    | Latias / Dragalge / Kyurem                           |    1 |  12.50% | 100.00% |
+| 2    | Garchomp / Hydreigon / Dragalge                      |    1 |  12.50% | 100.00% |
+| 2    | Dragapult / Hydreigon / Dragalge                     |    1 |  12.50% | 100.00% |
+| 2    | Latias / Hydreigon / Dragalge                        |    1 |  12.50% | 100.00% |
+| 2    | Dragapult / Garchomp / Dragalge                      |    1 |  12.50% | 100.00% |
+| 2    | Latias / Garchomp / Dragalge                         |    1 |  12.50% | 100.00% |
+| 2    | Latias / Dragapult / Dragalge                        |    1 |  12.50% | 100.00% |
+| 2    | Garchomp / Hydreigon / Kyurem                        |    1 |  12.50% | 100.00% |
+| 2    | Hydreigon / Dragapult / Kyurem                       |    1 |  12.50% | 100.00% |
+| 2    | Latias / Hydreigon / Kyurem                          |    1 |  12.50% | 100.00% |
+| 2    | Garchomp / Dragapult / Kyurem                        |    1 |  12.50% | 100.00% |
+| 2    | Latias / Garchomp / Kyurem                           |    1 |  12.50% | 100.00% |
+| 2    | Latias / Dragapult / Kyurem                          |    1 |  12.50% | 100.00% |
+| 2    | Garchomp / Hydreigon / Dragapult                     |    1 |  12.50% | 100.00% |
+| 2    | Garchomp / Latias / Hydreigon                        |    1 |  12.50% | 100.00% |
+| 2    | Latias / Hydreigon / Dragapult                       |    1 |  12.50% | 100.00% |
+| 2    | Latias / Garchomp / Dragapult                        |    1 |  12.50% | 100.00% |
+| 2    | Zeraora / Magnezone / Raichu-Alola                   |    1 |  12.50% |   0.00% |
+| 2    | Zapdos / Zeraora / Raichu-Alola                      |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Zeraora / Raichu-Alola                  |    1 |  12.50% |   0.00% |
+| 2    | Zeraora / Tapu Koko / Raichu-Alola                   |    1 |  12.50% |   0.00% |
+| 2    | Zapdos / Magnezone / Raichu-Alola                    |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Magnezone / Raichu-Alola                |    1 |  12.50% |   0.00% |
+| 2    | Magnezone / Tapu Koko / Raichu-Alola                 |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Zapdos / Raichu-Alola                   |    1 |  12.50% |   0.00% |
+| 2    | Zapdos / Tapu Koko / Raichu-Alola                    |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Tapu Koko / Raichu-Alola                |    1 |  12.50% |   0.00% |
+| 2    | Zapdos / Zeraora / Magnezone                         |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Zeraora / Magnezone                     |    1 |  12.50% |   0.00% |
+| 2    | Zeraora / Tapu Koko / Magnezone                      |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Zapdos / Zeraora                        |    1 |  12.50% |   0.00% |
+| 2    | Zapdos / Zeraora / Tapu Koko                         |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Zeraora / Tapu Koko                     |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Zapdos / Magnezone                      |    1 |  12.50% |   0.00% |
+| 2    | Zapdos / Tapu Koko / Magnezone                       |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Tapu Koko / Magnezone                   |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Wash / Zapdos / Tapu Koko                      |    1 |  12.50% |   0.00% |
+| 2    | Ninetales-Alola / Darmanitan-Galar / Weavile         |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Ninetales-Alola / Weavile                |    1 |  12.50% |   0.00% |
+| 2    | Ninetales-Alola / Kyurem / Weavile                   |    1 |  12.50% |   0.00% |
+| 2    | Ninetales-Alola / Cloyster / Weavile                 |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Darmanitan-Galar / Weavile               |    1 |  12.50% |   0.00% |
+| 2    | Darmanitan-Galar / Kyurem / Weavile                  |    1 |  12.50% |   0.00% |
+| 2    | Cloyster / Darmanitan-Galar / Weavile                |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Kyurem / Weavile                         |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Cloyster / Weavile                       |    1 |  12.50% |   0.00% |
+| 2    | Cloyster / Kyurem / Weavile                          |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Ninetales-Alola / Darmanitan-Galar       |    1 |  12.50% |   0.00% |
+| 2    | Ninetales-Alola / Darmanitan-Galar / Kyurem          |    1 |  12.50% |   0.00% |
+| 2    | Cloyster / Ninetales-Alola / Darmanitan-Galar        |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Ninetales-Alola / Kyurem                 |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Ninetales-Alola / Cloyster               |    1 |  12.50% |   0.00% |
+| 2    | Ninetales-Alola / Cloyster / Kyurem                  |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Darmanitan-Galar / Kyurem                |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Cloyster / Darmanitan-Galar              |    1 |  12.50% |   0.00% |
+| 2    | Cloyster / Darmanitan-Galar / Kyurem                 |    1 |  12.50% |   0.00% |
+| 2    | Piloswine / Cloyster / Kyurem                        |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Hippowdon / Landorus-Therian              |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Landorus-Therian / Excadrill              |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Landorus-Therian / Seismitoad             |    1 |  12.50% |   0.00% |
+| 2    | Hippowdon / Mamoswine / Landorus-Therian             |    1 |  12.50% |   0.00% |
+| 2    | Excadrill / Mamoswine / Landorus-Therian             |    1 |  12.50% |   0.00% |
+| 2    | Mamoswine / Landorus-Therian / Seismitoad            |    1 |  12.50% |   0.00% |
+| 2    | Excadrill / Hippowdon / Landorus-Therian             |    1 |  12.50% |   0.00% |
+| 2    | Hippowdon / Landorus-Therian / Seismitoad            |    1 |  12.50% |   0.00% |
+| 2    | Excadrill / Landorus-Therian / Seismitoad            |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Hippowdon / Mamoswine                     |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Mamoswine / Excadrill                     |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Mamoswine / Seismitoad                    |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Hippowdon / Excadrill                     |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Hippowdon / Seismitoad                    |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Seismitoad / Excadrill                    |    1 |  12.50% |   0.00% |
+| 2    | Excadrill / Hippowdon / Mamoswine                    |    1 |  12.50% |   0.00% |
+| 2    | Hippowdon / Mamoswine / Seismitoad                   |    1 |  12.50% |   0.00% |
+| 2    | Excadrill / Mamoswine / Seismitoad                   |    1 |  12.50% |   0.00% |
+| 2    | Excadrill / Hippowdon / Seismitoad                   |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Steelix / Mamoswine                       |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Mamoswine / Gastrodon                     |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Garchomp / Mamoswine                      |    1 |  12.50% |   0.00% |
+| 2    | Steelix / Landorus-Therian / Mamoswine               |    1 |  12.50% |   0.00% |
+| 2    | Steelix / Mamoswine / Gastrodon                      |    1 |  12.50% |   0.00% |
+| 2    | Steelix / Garchomp / Mamoswine                       |    1 |  12.50% |   0.00% |
+| 2    | Landorus-Therian / Mamoswine / Gastrodon             |    1 |  12.50% |   0.00% |
+| 2    | Landorus-Therian / Garchomp / Mamoswine              |    1 |  12.50% |   0.00% |
+| 2    | Garchomp / Mamoswine / Gastrodon                     |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Steelix / Landorus-Therian                |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Steelix / Gastrodon                       |    1 |  12.50% |   0.00% |
+| 2    | Garchomp / Nidoking / Steelix                        |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Landorus-Therian / Gastrodon              |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Garchomp / Landorus-Therian               |    1 |  12.50% |   0.00% |
+| 2    | Nidoking / Garchomp / Gastrodon                      |    1 |  12.50% |   0.00% |
+| 2    | Steelix / Landorus-Therian / Gastrodon               |    1 |  12.50% |   0.00% |
+| 2    | Steelix / Garchomp / Landorus-Therian                |    1 |  12.50% |   0.00% |
+| 2    | Steelix / Garchomp / Gastrodon                       |    1 |  12.50% |   0.00% |
+| 2    | Garchomp / Landorus-Therian / Gastrodon              |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                         | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Dragapult / Blacephalon / Aegislash / Spectrier                     |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Blacephalon / Aegislash / Spectrier                      |    1 |  12.50% | 100.00% |
+| 1    | Mimikyu / Blacephalon / Aegislash / Spectrier                       |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Dragapult / Blacephalon / Aegislash                      |    1 |  12.50% | 100.00% |
+| 1    | Mimikyu / Dragapult / Blacephalon / Aegislash                       |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Blacephalon / Aegislash                        |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Dragapult / Aegislash / Spectrier                        |    1 |  12.50% | 100.00% |
+| 1    | Mimikyu / Dragapult / Aegislash / Spectrier                         |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Aegislash / Spectrier                          |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Dragapult / Mimikyu / Aegislash                          |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Dragapult / Blacephalon / Spectrier                      |    1 |  12.50% | 100.00% |
+| 1    | Mimikyu / Dragapult / Blacephalon / Spectrier                       |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Blacephalon / Spectrier                        |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Blacephalon / Dragapult                        |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Dragapult / Mimikyu / Spectrier                          |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Melmetal / Skarmory                             |    1 |  12.50% | 100.00% |
+| 1    | Jirachi / Melmetal / Aegislash / Skarmory                           |    1 |  12.50% | 100.00% |
+| 1    | Excadrill / Jirachi / Melmetal / Skarmory                           |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Melmetal / Aegislash                            |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Melmetal / Excadrill                            |    1 |  12.50% | 100.00% |
+| 1    | Jirachi / Melmetal / Aegislash / Excadrill                          |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Aegislash / Skarmory                            |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Excadrill / Skarmory                            |    1 |  12.50% | 100.00% |
+| 1    | Excadrill / Jirachi / Aegislash / Skarmory                          |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Aegislash / Excadrill                           |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Melmetal / Aegislash / Skarmory                           |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Melmetal / Excadrill / Skarmory                           |    1 |  12.50% | 100.00% |
+| 1    | Excadrill / Melmetal / Aegislash / Skarmory                         |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Melmetal / Aegislash / Excadrill                          |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Excadrill / Aegislash / Skarmory                          |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Moltres-Galar / Landorus-Therian / Dragonite           |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Thundurus-Therian / Landorus-Therian / Dragonite       |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Zapdos-Galar / Landorus-Therian / Dragonite            |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Thundurus-Therian / Moltres-Galar / Landorus-Therian   |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Moltres-Galar / Landorus-Therian / Zapdos-Galar        |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Thundurus-Therian / Landorus-Therian / Zapdos-Galar    |    1 |  12.50% | 100.00% |
+| 1    | Moltres-Galar / Thundurus-Therian / Landorus-Therian / Dragonite    |    1 |  12.50% | 100.00% |
+| 1    | Moltres-Galar / Zapdos-Galar / Landorus-Therian / Dragonite         |    1 |  12.50% | 100.00% |
+| 1    | Zapdos-Galar / Thundurus-Therian / Landorus-Therian / Dragonite     |    1 |  12.50% | 100.00% |
+| 1    | Moltres-Galar / Thundurus-Therian / Landorus-Therian / Zapdos-Galar |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Thundurus-Therian / Moltres-Galar / Dragonite          |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Moltres-Galar / Dragonite / Zapdos-Galar               |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Thundurus-Therian / Dragonite / Zapdos-Galar           |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Thundurus-Therian / Moltres-Galar / Zapdos-Galar       |    1 |  12.50% | 100.00% |
+| 1    | Moltres-Galar / Thundurus-Therian / Dragonite / Zapdos-Galar        |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Hydreigon / Dragalge / Kyurem                            |    1 |  12.50% | 100.00% |
+| 1    | Dragapult / Hydreigon / Dragalge / Kyurem                           |    1 |  12.50% | 100.00% |
+| 1    | Latias / Hydreigon / Dragalge / Kyurem                              |    1 |  12.50% | 100.00% |
+| 1    | Dragapult / Garchomp / Dragalge / Kyurem                            |    1 |  12.50% | 100.00% |
+| 1    | Latias / Garchomp / Dragalge / Kyurem                               |    1 |  12.50% | 100.00% |
+| 1    | Latias / Dragapult / Dragalge / Kyurem                              |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Dragapult / Hydreigon / Dragalge                         |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Latias / Hydreigon / Dragalge                            |    1 |  12.50% | 100.00% |
+| 1    | Latias / Dragapult / Hydreigon / Dragalge                           |    1 |  12.50% | 100.00% |
+| 1    | Latias / Dragapult / Garchomp / Dragalge                            |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Hydreigon / Dragapult / Kyurem                           |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Latias / Hydreigon / Kyurem                              |    1 |  12.50% | 100.00% |
+| 1    | Latias / Hydreigon / Dragapult / Kyurem                             |    1 |  12.50% | 100.00% |
+| 1    | Latias / Garchomp / Dragapult / Kyurem                              |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Latias / Hydreigon / Dragapult                           |    1 |  12.50% | 100.00% |
+| 1    | Zapdos / Zeraora / Magnezone / Raichu-Alola                         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zeraora / Magnezone / Raichu-Alola                     |    1 |  12.50% |   0.00% |
+| 1    | Zeraora / Tapu Koko / Magnezone / Raichu-Alola                      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zapdos / Zeraora / Raichu-Alola                        |    1 |  12.50% |   0.00% |
+| 1    | Zapdos / Zeraora / Tapu Koko / Raichu-Alola                         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zeraora / Tapu Koko / Raichu-Alola                     |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zapdos / Magnezone / Raichu-Alola                      |    1 |  12.50% |   0.00% |
+| 1    | Zapdos / Magnezone / Tapu Koko / Raichu-Alola                       |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Magnezone / Tapu Koko / Raichu-Alola                   |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zapdos / Tapu Koko / Raichu-Alola                      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zapdos / Zeraora / Magnezone                           |    1 |  12.50% |   0.00% |
+| 1    | Zapdos / Zeraora / Tapu Koko / Magnezone                            |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zeraora / Tapu Koko / Magnezone                        |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zapdos / Zeraora / Tapu Koko                           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zapdos / Tapu Koko / Magnezone                         |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Ninetales-Alola / Darmanitan-Galar / Weavile            |    1 |  12.50% |   0.00% |
+| 1    | Ninetales-Alola / Darmanitan-Galar / Kyurem / Weavile               |    1 |  12.50% |   0.00% |
+| 1    | Cloyster / Ninetales-Alola / Darmanitan-Galar / Weavile             |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Ninetales-Alola / Kyurem / Weavile                      |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Ninetales-Alola / Cloyster / Weavile                    |    1 |  12.50% |   0.00% |
+| 1    | Ninetales-Alola / Cloyster / Kyurem / Weavile                       |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Darmanitan-Galar / Kyurem / Weavile                     |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Cloyster / Darmanitan-Galar / Weavile                   |    1 |  12.50% |   0.00% |
+| 1    | Cloyster / Darmanitan-Galar / Kyurem / Weavile                      |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Cloyster / Kyurem / Weavile                             |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Ninetales-Alola / Darmanitan-Galar / Kyurem             |    1 |  12.50% |   0.00% |
+| 1    | Cloyster / Piloswine / Ninetales-Alola / Darmanitan-Galar           |    1 |  12.50% |   0.00% |
+| 1    | Cloyster / Ninetales-Alola / Darmanitan-Galar / Kyurem              |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Ninetales-Alola / Cloyster / Kyurem                     |    1 |  12.50% |   0.00% |
+| 1    | Piloswine / Cloyster / Darmanitan-Galar / Kyurem                    |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Hippowdon / Mamoswine / Landorus-Therian                 |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Mamoswine / Landorus-Therian / Excadrill                 |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Mamoswine / Landorus-Therian / Seismitoad                |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Hippowdon / Landorus-Therian / Excadrill                 |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Hippowdon / Landorus-Therian / Seismitoad                |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Seismitoad / Landorus-Therian / Excadrill                |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Hippowdon / Mamoswine / Landorus-Therian                |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Mamoswine / Landorus-Therian / Seismitoad               |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Mamoswine / Landorus-Therian / Seismitoad               |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Hippowdon / Landorus-Therian / Seismitoad               |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Hippowdon / Mamoswine / Excadrill                        |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Hippowdon / Mamoswine / Seismitoad                       |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Seismitoad / Mamoswine / Excadrill                       |    1 |  12.50% |   0.00% |
+| 1    | Seismitoad / Nidoking / Hippowdon / Excadrill                       |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Hippowdon / Mamoswine / Seismitoad                      |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Landorus-Therian / Steelix / Mamoswine                   |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Steelix / Mamoswine / Gastrodon                          |    1 |  12.50% |   0.00% |
+| 1    | Garchomp / Nidoking / Steelix / Mamoswine                           |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Landorus-Therian / Mamoswine / Gastrodon                 |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Landorus-Therian / Garchomp / Mamoswine                  |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Garchomp / Mamoswine / Gastrodon                         |    1 |  12.50% |   0.00% |
+| 1    | Steelix / Landorus-Therian / Mamoswine / Gastrodon                  |    1 |  12.50% |   0.00% |
+| 1    | Steelix / Landorus-Therian / Garchomp / Mamoswine                   |    1 |  12.50% |   0.00% |
+| 1    | Steelix / Garchomp / Mamoswine / Gastrodon                          |    1 |  12.50% |   0.00% |
+| 1    | Landorus-Therian / Garchomp / Mamoswine / Gastrodon                 |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Steelix / Landorus-Therian / Gastrodon                   |    1 |  12.50% |   0.00% |
+| 1    | Garchomp / Nidoking / Steelix / Landorus-Therian                    |    1 |  12.50% |   0.00% |
+| 1    | Garchomp / Nidoking / Steelix / Gastrodon                           |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Garchomp / Landorus-Therian / Gastrodon                  |    1 |  12.50% |   0.00% |
+| 1    | Steelix / Garchomp / Landorus-Therian / Gastrodon                   |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                                      | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Froslass / Dragapult / Spectrier / Blacephalon / Aegislash                       |    1 |  12.50% | 100.00% |
+| 1    | Mimikyu / Dragapult / Spectrier / Blacephalon / Aegislash                        |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Spectrier / Blacephalon / Aegislash                         |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Dragapult / Blacephalon / Aegislash                         |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Dragapult / Spectrier / Aegislash                           |    1 |  12.50% | 100.00% |
+| 1    | Froslass / Mimikyu / Dragapult / Spectrier / Blacephalon                         |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Melmetal / Skarmory / Aegislash                              |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Melmetal / Excadrill / Skarmory                              |    1 |  12.50% | 100.00% |
+| 1    | Excadrill / Jirachi / Melmetal / Skarmory / Aegislash                            |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Melmetal / Excadrill / Aegislash                             |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Excadrill / Skarmory / Aegislash                             |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Melmetal / Excadrill / Skarmory / Aegislash                            |    1 |  12.50% | 100.00% |
+| 1    | Celesteela / Moltres-Galar / Dragonite / Thundurus-Therian / Landorus-Therian    |    1 |  12.50% | 100.00% |
+| 1    | Zapdos-Galar / Celesteela / Moltres-Galar / Dragonite / Landorus-Therian         |    1 |  12.50% | 100.00% |
+| 1    | Zapdos-Galar / Celesteela / Dragonite / Thundurus-Therian / Landorus-Therian     |    1 |  12.50% | 100.00% |
+| 1    | Zapdos-Galar / Celesteela / Moltres-Galar / Thundurus-Therian / Landorus-Therian |    1 |  12.50% | 100.00% |
+| 1    | Zapdos-Galar / Moltres-Galar / Dragonite / Thundurus-Therian / Landorus-Therian  |    1 |  12.50% | 100.00% |
+| 1    | Zapdos-Galar / Celesteela / Moltres-Galar / Dragonite / Thundurus-Therian        |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Dragapult / Kyurem / Hydreigon / Dragalge                             |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Kyurem / Latias / Hydreigon / Dragalge                                |    1 |  12.50% | 100.00% |
+| 1    | Dragapult / Kyurem / Latias / Hydreigon / Dragalge                               |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Dragapult / Kyurem / Latias / Dragalge                                |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Dragapult / Latias / Hydreigon / Dragalge                             |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Dragapult / Kyurem / Latias / Hydreigon                               |    1 |  12.50% | 100.00% |
+| 1    | Raichu-Alola / Rotom-Wash / Zeraora / Zapdos / Magnezone                         |    1 |  12.50% |   0.00% |
+| 1    | Raichu-Alola / Zeraora / Zapdos / Tapu Koko / Magnezone                          |    1 |  12.50% |   0.00% |
+| 1    | Raichu-Alola / Rotom-Wash / Zeraora / Tapu Koko / Magnezone                      |    1 |  12.50% |   0.00% |
+| 1    | Raichu-Alola / Rotom-Wash / Zeraora / Zapdos / Tapu Koko                         |    1 |  12.50% |   0.00% |
+| 1    | Raichu-Alola / Rotom-Wash / Zapdos / Tapu Koko / Magnezone                       |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Zeraora / Zapdos / Tapu Koko / Magnezone                            |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan-Galar / Kyurem / Piloswine / Ninetales-Alola / Weavile                |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan-Galar / Piloswine / Cloyster / Ninetales-Alola / Weavile              |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan-Galar / Kyurem / Cloyster / Ninetales-Alola / Weavile                 |    1 |  12.50% |   0.00% |
+| 1    | Kyurem / Piloswine / Cloyster / Ninetales-Alola / Weavile                        |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan-Galar / Kyurem / Piloswine / Cloyster / Weavile                       |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan-Galar / Kyurem / Piloswine / Cloyster / Ninetales-Alola               |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Nidoking / Mamoswine / Excadrill / Landorus-Therian                  |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Nidoking / Mamoswine / Landorus-Therian / Seismitoad                 |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Mamoswine / Excadrill / Landorus-Therian / Seismitoad                 |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Nidoking / Excadrill / Landorus-Therian / Seismitoad                 |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Mamoswine / Excadrill / Landorus-Therian / Seismitoad                |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Nidoking / Mamoswine / Excadrill / Seismitoad                        |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Steelix / Mamoswine / Landorus-Therian / Gastrodon                    |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Steelix / Garchomp / Mamoswine / Landorus-Therian                     |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Steelix / Garchomp / Mamoswine / Gastrodon                            |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Garchomp / Mamoswine / Landorus-Therian / Gastrodon                   |    1 |  12.50% |   0.00% |
+| 1    | Steelix / Garchomp / Mamoswine / Landorus-Therian / Gastrodon                    |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Steelix / Garchomp / Landorus-Therian / Gastrodon                     |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                                  | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Froslass / Mimikyu / Dragapult / Spectrier / Blacephalon / Aegislash                         |    1 |  12.50% | 100.00% |
+| 1    | Heatran / Jirachi / Melmetal / Excadrill / Skarmory / Aegislash                              |    1 |  12.50% | 100.00% |
+| 1    | Zapdos-Galar / Celesteela / Moltres-Galar / Dragonite / Thundurus-Therian / Landorus-Therian |    1 |  12.50% | 100.00% |
+| 1    | Garchomp / Dragapult / Kyurem / Latias / Hydreigon / Dragalge                                |    1 |  12.50% | 100.00% |
+| 1    | Raichu-Alola / Rotom-Wash / Zeraora / Zapdos / Tapu Koko / Magnezone                         |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan-Galar / Kyurem / Piloswine / Cloyster / Ninetales-Alola / Weavile                 |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Nidoking / Mamoswine / Excadrill / Landorus-Therian / Seismitoad                 |    1 |  12.50% |   0.00% |
+| 1    | Nidoking / Steelix / Garchomp / Mamoswine / Landorus-Therian / Gastrodon                     |    1 |  12.50% |   0.00% |
