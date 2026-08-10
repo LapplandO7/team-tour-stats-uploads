@@ -1,0 +1,122 @@
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 2                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| 1    | Necrozma-Dusk-Mane / Ho-Oh     |    2 | 100.00% |  50.00% |
+| 1    | Yveltal / Ho-Oh                |    2 | 100.00% |  50.00% |
+| 1    | Kyogre / Ho-Oh                 |    2 | 100.00% |  50.00% |
+| 1    | Necrozma-Dusk-Mane / Yveltal   |    2 | 100.00% |  50.00% |
+| 1    | Kyogre / Necrozma-Dusk-Mane    |    2 | 100.00% |  50.00% |
+| 1    | Kyogre / Yveltal               |    2 | 100.00% |  50.00% |
+| 7    | Marshadow / Ho-Oh              |    1 |  50.00% | 100.00% |
+| 7    | Kyogre / Marshadow             |    1 |  50.00% | 100.00% |
+| 7    | Yveltal / Marshadow            |    1 |  50.00% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Marshadow |    1 |  50.00% | 100.00% |
+| 7    | Xerneas-* / Marshadow          |    1 |  50.00% | 100.00% |
+| 7    | Xerneas-* / Ho-Oh              |    1 |  50.00% | 100.00% |
+| 7    | Kyogre / Xerneas-*             |    1 |  50.00% | 100.00% |
+| 7    | Yveltal / Xerneas-*            |    1 |  50.00% | 100.00% |
+| 7    | Necrozma-Dusk-Mane / Xerneas-* |    1 |  50.00% | 100.00% |
+| 7    | Eternatus / Ho-Oh              |    1 |  50.00% |   0.00% |
+| 7    | Groudon / Ho-Oh                |    1 |  50.00% |   0.00% |
+| 7    | Necrozma-Dusk-Mane / Eternatus |    1 |  50.00% |   0.00% |
+| 7    | Necrozma-Dusk-Mane / Groudon   |    1 |  50.00% |   0.00% |
+| 7    | Yveltal / Eternatus            |    1 |  50.00% |   0.00% |
+| 7    | Yveltal / Groudon              |    1 |  50.00% |   0.00% |
+| 7    | Kyogre / Eternatus             |    1 |  50.00% |   0.00% |
+| 7    | Groudon / Eternatus            |    1 |  50.00% |   0.00% |
+| 7    | Kyogre / Groudon               |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                                | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| 1    | Necrozma-Dusk-Mane / Yveltal / Ho-Oh       |    2 | 100.00% |  50.00% |
+| 1    | Kyogre / Necrozma-Dusk-Mane / Ho-Oh        |    2 | 100.00% |  50.00% |
+| 1    | Kyogre / Yveltal / Ho-Oh                   |    2 | 100.00% |  50.00% |
+| 1    | Kyogre / Necrozma-Dusk-Mane / Yveltal      |    2 | 100.00% |  50.00% |
+| 5    | Kyogre / Marshadow / Ho-Oh                 |    1 |  50.00% | 100.00% |
+| 5    | Yveltal / Marshadow / Ho-Oh                |    1 |  50.00% | 100.00% |
+| 5    | Necrozma-Dusk-Mane / Marshadow / Ho-Oh     |    1 |  50.00% | 100.00% |
+| 5    | Xerneas-* / Marshadow / Ho-Oh              |    1 |  50.00% | 100.00% |
+| 5    | Kyogre / Yveltal / Marshadow               |    1 |  50.00% | 100.00% |
+| 5    | Kyogre / Necrozma-Dusk-Mane / Marshadow    |    1 |  50.00% | 100.00% |
+| 5    | Kyogre / Xerneas-* / Marshadow             |    1 |  50.00% | 100.00% |
+| 5    | Necrozma-Dusk-Mane / Yveltal / Marshadow   |    1 |  50.00% | 100.00% |
+| 5    | Yveltal / Xerneas-* / Marshadow            |    1 |  50.00% | 100.00% |
+| 5    | Necrozma-Dusk-Mane / Xerneas-* / Marshadow |    1 |  50.00% | 100.00% |
+| 5    | Kyogre / Xerneas-* / Ho-Oh                 |    1 |  50.00% | 100.00% |
+| 5    | Yveltal / Xerneas-* / Ho-Oh                |    1 |  50.00% | 100.00% |
+| 5    | Necrozma-Dusk-Mane / Xerneas-* / Ho-Oh     |    1 |  50.00% | 100.00% |
+| 5    | Kyogre / Yveltal / Xerneas-*               |    1 |  50.00% | 100.00% |
+| 5    | Kyogre / Necrozma-Dusk-Mane / Xerneas-*    |    1 |  50.00% | 100.00% |
+| 5    | Necrozma-Dusk-Mane / Yveltal / Xerneas-*   |    1 |  50.00% | 100.00% |
+| 5    | Necrozma-Dusk-Mane / Eternatus / Ho-Oh     |    1 |  50.00% |   0.00% |
+| 5    | Necrozma-Dusk-Mane / Groudon / Ho-Oh       |    1 |  50.00% |   0.00% |
+| 5    | Yveltal / Eternatus / Ho-Oh                |    1 |  50.00% |   0.00% |
+| 5    | Yveltal / Groudon / Ho-Oh                  |    1 |  50.00% |   0.00% |
+| 5    | Kyogre / Eternatus / Ho-Oh                 |    1 |  50.00% |   0.00% |
+| 5    | Groudon / Eternatus / Ho-Oh                |    1 |  50.00% |   0.00% |
+| 5    | Kyogre / Groudon / Ho-Oh                   |    1 |  50.00% |   0.00% |
+| 5    | Necrozma-Dusk-Mane / Yveltal / Eternatus   |    1 |  50.00% |   0.00% |
+| 5    | Necrozma-Dusk-Mane / Yveltal / Groudon     |    1 |  50.00% |   0.00% |
+| 5    | Kyogre / Necrozma-Dusk-Mane / Eternatus    |    1 |  50.00% |   0.00% |
+| 5    | Necrozma-Dusk-Mane / Groudon / Eternatus   |    1 |  50.00% |   0.00% |
+| 5    | Kyogre / Necrozma-Dusk-Mane / Groudon      |    1 |  50.00% |   0.00% |
+| 5    | Kyogre / Yveltal / Eternatus               |    1 |  50.00% |   0.00% |
+| 5    | Groudon / Yveltal / Eternatus              |    1 |  50.00% |   0.00% |
+| 5    | Kyogre / Yveltal / Groudon                 |    1 |  50.00% |   0.00% |
+| 5    | Kyogre / Groudon / Eternatus               |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Kyogre / Necrozma-Dusk-Mane / Yveltal / Ho-Oh        |    2 | 100.00% |  50.00% |
+| 2    | Kyogre / Yveltal / Marshadow / Ho-Oh                 |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Marshadow / Ho-Oh      |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Xerneas-* / Marshadow / Ho-Oh               |    1 |  50.00% | 100.00% |
+| 2    | Necrozma-Dusk-Mane / Yveltal / Marshadow / Ho-Oh     |    1 |  50.00% | 100.00% |
+| 2    | Yveltal / Xerneas-* / Marshadow / Ho-Oh              |    1 |  50.00% | 100.00% |
+| 2    | Necrozma-Dusk-Mane / Xerneas-* / Marshadow / Ho-Oh   |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Yveltal / Marshadow    |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Yveltal / Xerneas-* / Marshadow             |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Xerneas-* / Marshadow  |    1 |  50.00% | 100.00% |
+| 2    | Necrozma-Dusk-Mane / Yveltal / Xerneas-* / Marshadow |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Yveltal / Xerneas-* / Ho-Oh                 |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Xerneas-* / Ho-Oh      |    1 |  50.00% | 100.00% |
+| 2    | Necrozma-Dusk-Mane / Yveltal / Xerneas-* / Ho-Oh     |    1 |  50.00% | 100.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Yveltal / Xerneas-*    |    1 |  50.00% | 100.00% |
+| 2    | Necrozma-Dusk-Mane / Yveltal / Eternatus / Ho-Oh     |    1 |  50.00% |   0.00% |
+| 2    | Necrozma-Dusk-Mane / Yveltal / Groudon / Ho-Oh       |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Eternatus / Ho-Oh      |    1 |  50.00% |   0.00% |
+| 2    | Necrozma-Dusk-Mane / Groudon / Eternatus / Ho-Oh     |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Groudon / Ho-Oh        |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Yveltal / Eternatus / Ho-Oh                 |    1 |  50.00% |   0.00% |
+| 2    | Groudon / Yveltal / Eternatus / Ho-Oh                |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Yveltal / Groudon / Ho-Oh                   |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Groudon / Eternatus / Ho-Oh                 |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Yveltal / Eternatus    |    1 |  50.00% |   0.00% |
+| 2    | Necrozma-Dusk-Mane / Yveltal / Eternatus / Groudon   |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Yveltal / Groudon      |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Necrozma-Dusk-Mane / Groudon / Eternatus    |    1 |  50.00% |   0.00% |
+| 2    | Kyogre / Groudon / Yveltal / Eternatus               |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Necrozma-Dusk-Mane / Marshadow / Ho-Oh / Kyogre / Yveltal     |    1 |  50.00% | 100.00% |
+| 1    | Marshadow / Xerneas-* / Ho-Oh / Kyogre / Yveltal              |    1 |  50.00% | 100.00% |
+| 1    | Necrozma-Dusk-Mane / Marshadow / Xerneas-* / Ho-Oh / Kyogre   |    1 |  50.00% | 100.00% |
+| 1    | Necrozma-Dusk-Mane / Marshadow / Xerneas-* / Ho-Oh / Yveltal  |    1 |  50.00% | 100.00% |
+| 1    | Necrozma-Dusk-Mane / Marshadow / Xerneas-* / Kyogre / Yveltal |    1 |  50.00% | 100.00% |
+| 1    | Necrozma-Dusk-Mane / Xerneas-* / Ho-Oh / Kyogre / Yveltal     |    1 |  50.00% | 100.00% |
+| 1    | Necrozma-Dusk-Mane / Ho-Oh / Kyogre / Yveltal / Eternatus     |    1 |  50.00% |   0.00% |
+| 1    | Necrozma-Dusk-Mane / Groudon / Ho-Oh / Yveltal / Eternatus    |    1 |  50.00% |   0.00% |
+| 1    | Necrozma-Dusk-Mane / Groudon / Ho-Oh / Kyogre / Yveltal       |    1 |  50.00% |   0.00% |
+| 1    | Necrozma-Dusk-Mane / Groudon / Ho-Oh / Kyogre / Eternatus     |    1 |  50.00% |   0.00% |
+| 1    | Groudon / Ho-Oh / Kyogre / Yveltal / Eternatus                |    1 |  50.00% |   0.00% |
+| 1    | Necrozma-Dusk-Mane / Groudon / Kyogre / Yveltal / Eternatus   |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Necrozma-Dusk-Mane / Marshadow / Xerneas-* / Ho-Oh / Kyogre / Yveltal |    1 |  50.00% | 100.00% |
+| 1    | Necrozma-Dusk-Mane / Groudon / Ho-Oh / Kyogre / Yveltal / Eternatus   |    1 |  50.00% |   0.00% |
