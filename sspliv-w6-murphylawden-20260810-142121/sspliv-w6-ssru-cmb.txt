@@ -1,0 +1,357 @@
++ ---- + ------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2               | Use  | Usage % |  Win %  |
++ ---- + ------------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Raikou           |    3 |  50.00% |  66.67% |
+| 2    | Bronzong / Nidoqueen      |    2 |  33.33% | 100.00% |
+| 2    | Noivern / Nidoqueen       |    2 |  33.33% |  50.00% |
+| 4    | Crobat / Steelix          |    1 |  16.67% | 100.00% |
+| 4    | Steelix / Incineroar      |    1 |  16.67% | 100.00% |
+| 4    | Steelix / Arctovish       |    1 |  16.67% | 100.00% |
+| 4    | Steelix / Raikou          |    1 |  16.67% | 100.00% |
+| 4    | Steelix / Reuniclus       |    1 |  16.67% | 100.00% |
+| 4    | Crobat / Incineroar       |    1 |  16.67% | 100.00% |
+| 4    | Crobat / Arctovish        |    1 |  16.67% | 100.00% |
+| 4    | Crobat / Reuniclus        |    1 |  16.67% | 100.00% |
+| 4    | Arctovish / Incineroar    |    1 |  16.67% | 100.00% |
+| 4    | Raikou / Incineroar       |    1 |  16.67% | 100.00% |
+| 4    | Reuniclus / Incineroar    |    1 |  16.67% | 100.00% |
+| 4    | Arctovish / Raikou        |    1 |  16.67% | 100.00% |
+| 4    | Arctovish / Reuniclus     |    1 |  16.67% | 100.00% |
+| 4    | Raikou / Reuniclus        |    1 |  16.67% | 100.00% |
+| 4    | Pangoro / Nidoqueen       |    1 |  16.67% | 100.00% |
+| 4    | Raikou / Nidoqueen        |    1 |  16.67% | 100.00% |
+| 4    | Celebi / Nidoqueen        |    1 |  16.67% | 100.00% |
+| 4    | Crobat / Nidoqueen        |    1 |  16.67% | 100.00% |
+| 4    | Pangoro / Raikou          |    1 |  16.67% | 100.00% |
+| 4    | Pangoro / Celebi          |    1 |  16.67% | 100.00% |
+| 4    | Bronzong / Pangoro        |    1 |  16.67% | 100.00% |
+| 4    | Crobat / Pangoro          |    1 |  16.67% | 100.00% |
+| 4    | Celebi / Raikou           |    1 |  16.67% | 100.00% |
+| 4    | Bronzong / Raikou         |    1 |  16.67% | 100.00% |
+| 4    | Bronzong / Celebi         |    1 |  16.67% | 100.00% |
+| 4    | Crobat / Celebi           |    1 |  16.67% | 100.00% |
+| 4    | Crobat / Bronzong         |    1 |  16.67% | 100.00% |
+| 4    | Noivern / Incineroar      |    1 |  16.67% | 100.00% |
+| 4    | Xurkitree / Noivern       |    1 |  16.67% | 100.00% |
+| 4    | Bronzong / Noivern        |    1 |  16.67% | 100.00% |
+| 4    | Mimikyu / Noivern         |    1 |  16.67% | 100.00% |
+| 4    | Xurkitree / Incineroar    |    1 |  16.67% | 100.00% |
+| 4    | Nidoqueen / Incineroar    |    1 |  16.67% | 100.00% |
+| 4    | Bronzong / Incineroar     |    1 |  16.67% | 100.00% |
+| 4    | Mimikyu / Incineroar      |    1 |  16.67% | 100.00% |
+| 4    | Xurkitree / Nidoqueen     |    1 |  16.67% | 100.00% |
+| 4    | Bronzong / Xurkitree      |    1 |  16.67% | 100.00% |
+| 4    | Mimikyu / Xurkitree       |    1 |  16.67% | 100.00% |
+| 4    | Mimikyu / Nidoqueen       |    1 |  16.67% | 100.00% |
+| 4    | Mimikyu / Bronzong        |    1 |  16.67% | 100.00% |
+| 4    | Tsareena / Sharpedo       |    1 |  16.67% |   0.00% |
+| 4    | Tsareena / Raikou         |    1 |  16.67% |   0.00% |
+| 4    | Crobat / Tsareena         |    1 |  16.67% |   0.00% |
+| 4    | Tsareena / Registeel      |    1 |  16.67% |   0.00% |
+| 4    | Tsareena / Gastrodon      |    1 |  16.67% |   0.00% |
+| 4    | Sharpedo / Raikou         |    1 |  16.67% |   0.00% |
+| 4    | Crobat / Sharpedo         |    1 |  16.67% |   0.00% |
+| 4    | Sharpedo / Registeel      |    1 |  16.67% |   0.00% |
+| 4    | Sharpedo / Gastrodon      |    1 |  16.67% |   0.00% |
+| 4    | Registeel / Raikou        |    1 |  16.67% |   0.00% |
+| 4    | Raikou / Gastrodon        |    1 |  16.67% |   0.00% |
+| 4    | Crobat / Registeel        |    1 |  16.67% |   0.00% |
+| 4    | Crobat / Gastrodon        |    1 |  16.67% |   0.00% |
+| 4    | Registeel / Gastrodon     |    1 |  16.67% |   0.00% |
+| 4    | Umbreon / Suicune         |    1 |  16.67% |   0.00% |
+| 4    | Weezing-Galar / Suicune   |    1 |  16.67% |   0.00% |
+| 4    | Suicune / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 4    | Metagross / Suicune       |    1 |  16.67% |   0.00% |
+| 4    | Noivern / Suicune         |    1 |  16.67% |   0.00% |
+| 4    | Weezing-Galar / Umbreon   |    1 |  16.67% |   0.00% |
+| 4    | Umbreon / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 4    | Umbreon / Metagross       |    1 |  16.67% |   0.00% |
+| 4    | Noivern / Umbreon         |    1 |  16.67% |   0.00% |
+| 4    | Weezing-Galar / Nidoqueen |    1 |  16.67% |   0.00% |
+| 4    | Weezing-Galar / Metagross |    1 |  16.67% |   0.00% |
+| 4    | Weezing-Galar / Noivern   |    1 |  16.67% |   0.00% |
+| 4    | Metagross / Nidoqueen     |    1 |  16.67% |   0.00% |
+| 4    | Noivern / Metagross       |    1 |  16.67% |   0.00% |
+| 4    | Gardevoir / Ninetales     |    1 |  16.67% |   0.00% |
+| 4    | Ninetales / Shiftry       |    1 |  16.67% |   0.00% |
+| 4    | Charizard / Ninetales     |    1 |  16.67% |   0.00% |
+| 4    | Ninetales / Xatu          |    1 |  16.67% |   0.00% |
+| 4    | Steelix / Ninetales       |    1 |  16.67% |   0.00% |
+| 4    | Gardevoir / Shiftry       |    1 |  16.67% |   0.00% |
+| 4    | Gardevoir / Charizard     |    1 |  16.67% |   0.00% |
+| 4    | Gardevoir / Xatu          |    1 |  16.67% |   0.00% |
+| 4    | Gardevoir / Steelix       |    1 |  16.67% |   0.00% |
+| 4    | Charizard / Shiftry       |    1 |  16.67% |   0.00% |
+| 4    | Xatu / Shiftry            |    1 |  16.67% |   0.00% |
+| 4    | Steelix / Shiftry         |    1 |  16.67% |   0.00% |
+| 4    | Charizard / Xatu          |    1 |  16.67% |   0.00% |
+| 4    | Steelix / Charizard       |    1 |  16.67% |   0.00% |
+| 4    | Steelix / Xatu            |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                           | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Steelix / Incineroar         |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Arctovish          |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Raikou             |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Reuniclus          |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Arctovish / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Raikou / Incineroar         |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Reuniclus / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Arctovish / Raikou          |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Arctovish / Reuniclus       |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Raikou / Reuniclus          |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Arctovish / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Raikou / Incineroar          |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Reuniclus / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Arctovish / Raikou           |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Arctovish / Reuniclus        |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Raikou / Reuniclus           |    1 |  16.67% | 100.00% |
+| 1    | Arctovish / Raikou / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Arctovish / Reuniclus / Incineroar    |    1 |  16.67% | 100.00% |
+| 1    | Raikou / Reuniclus / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Arctovish / Raikou / Reuniclus        |    1 |  16.67% | 100.00% |
+| 1    | Pangoro / Raikou / Nidoqueen          |    1 |  16.67% | 100.00% |
+| 1    | Pangoro / Celebi / Nidoqueen          |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Pangoro / Nidoqueen        |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Pangoro / Nidoqueen          |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Raikou / Nidoqueen           |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Raikou / Nidoqueen         |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Raikou / Nidoqueen           |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Celebi / Nidoqueen         |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Celebi / Nidoqueen           |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Nidoqueen         |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Pangoro / Raikou             |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Pangoro / Raikou           |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Pangoro / Raikou             |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Pangoro / Celebi           |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Pangoro / Celebi             |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Pangoro           |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Bronzong / Raikou            |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Crobat / Raikou              |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Raikou            |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Celebi            |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Noivern / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Noivern / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Noivern / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Noivern / Incineroar        |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Noivern / Nidoqueen       |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Xurkitree / Noivern        |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Xurkitree / Noivern         |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Noivern / Nidoqueen        |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Noivern / Nidoqueen         |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Noivern          |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Xurkitree / Incineroar    |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Xurkitree / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Xurkitree / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Bronzong / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Mimikyu / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Xurkitree / Nidoqueen      |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Xurkitree / Nidoqueen       |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Xurkitree        |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Nidoqueen        |    1 |  16.67% | 100.00% |
+| 1    | Tsareena / Sharpedo / Raikou          |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Sharpedo          |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Registeel       |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Gastrodon       |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Raikou            |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Registeel / Raikou         |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Raikou / Gastrodon         |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Registeel         |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Gastrodon         |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Registeel / Gastrodon      |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Sharpedo / Raikou            |    1 |  16.67% |   0.00% |
+| 1    | Sharpedo / Registeel / Raikou         |    1 |  16.67% |   0.00% |
+| 1    | Sharpedo / Raikou / Gastrodon         |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Sharpedo / Registeel         |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Sharpedo / Gastrodon         |    1 |  16.67% |   0.00% |
+| 1    | Sharpedo / Registeel / Gastrodon      |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Registeel / Raikou           |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Raikou / Gastrodon           |    1 |  16.67% |   0.00% |
+| 1    | Registeel / Raikou / Gastrodon        |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Registeel / Gastrodon        |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Suicune     |    1 |  16.67% |   0.00% |
+| 1    | Umbreon / Suicune / Nidoqueen         |    1 |  16.67% |   0.00% |
+| 1    | Metagross / Umbreon / Suicune         |    1 |  16.67% |   0.00% |
+| 1    | Noivern / Umbreon / Suicune           |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Suicune / Nidoqueen   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Metagross / Suicune   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Noivern / Suicune     |    1 |  16.67% |   0.00% |
+| 1    | Metagross / Suicune / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 1    | Noivern / Suicune / Nidoqueen         |    1 |  16.67% |   0.00% |
+| 1    | Metagross / Noivern / Suicune         |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Nidoqueen   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Metagross   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Noivern     |    1 |  16.67% |   0.00% |
+| 1    | Umbreon / Metagross / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 1    | Noivern / Umbreon / Nidoqueen         |    1 |  16.67% |   0.00% |
+| 1    | Noivern / Umbreon / Metagross         |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Metagross / Nidoqueen |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Noivern / Nidoqueen   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Noivern / Metagross   |    1 |  16.67% |   0.00% |
+| 1    | Noivern / Metagross / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Ninetales / Shiftry       |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Charizard / Ninetales     |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Ninetales / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Ninetales       |    1 |  16.67% |   0.00% |
+| 1    | Charizard / Ninetales / Shiftry       |    1 |  16.67% |   0.00% |
+| 1    | Ninetales / Shiftry / Xatu            |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Ninetales / Shiftry         |    1 |  16.67% |   0.00% |
+| 1    | Charizard / Ninetales / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Charizard / Ninetales / Steelix       |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Ninetales / Xatu            |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Charizard / Shiftry       |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Xatu / Shiftry            |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Shiftry         |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Charizard / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Charizard       |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Xatu            |    1 |  16.67% |   0.00% |
+| 1    | Charizard / Shiftry / Xatu            |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Charizard / Shiftry         |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Xatu / Shiftry              |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Charizard / Xatu            |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Steelix / Arctovish / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Raikou / Incineroar          |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Reuniclus / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Arctovish / Raikou           |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Arctovish / Reuniclus        |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Steelix / Raikou / Reuniclus           |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Arctovish / Raikou / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Arctovish / Reuniclus / Incineroar    |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Raikou / Reuniclus / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Steelix / Arctovish / Raikou / Reuniclus        |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Arctovish / Raikou / Incineroar        |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Arctovish / Reuniclus / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Raikou / Reuniclus / Incineroar        |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Arctovish / Raikou / Reuniclus         |    1 |  16.67% | 100.00% |
+| 1    | Arctovish / Raikou / Reuniclus / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Pangoro / Raikou / Nidoqueen           |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Pangoro / Raikou / Nidoqueen         |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Pangoro / Raikou / Nidoqueen           |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Pangoro / Celebi / Nidoqueen         |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Pangoro / Celebi / Nidoqueen           |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Pangoro / Nidoqueen         |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Bronzong / Raikou / Nidoqueen          |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Crobat / Raikou / Nidoqueen            |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Raikou / Nidoqueen          |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Celebi / Nidoqueen          |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Bronzong / Pangoro / Raikou            |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Pangoro / Raikou / Crobat              |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Pangoro / Raikou            |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Pangoro / Celebi            |    1 |  16.67% | 100.00% |
+| 1    | Celebi / Bronzong / Crobat / Raikou             |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Xurkitree / Noivern / Incineroar    |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Xurkitree / Noivern / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Xurkitree / Noivern / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Bronzong / Noivern / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Noivern / Mimikyu / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Noivern / Incineroar       |    1 |  16.67% | 100.00% |
+| 1    | Bronzong / Xurkitree / Noivern / Nidoqueen      |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Xurkitree / Noivern / Nidoqueen       |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Xurkitree / Noivern        |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Noivern / Nidoqueen        |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Bronzong / Xurkitree / Incineroar   |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Xurkitree / Mimikyu / Incineroar    |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Xurkitree / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Bronzong / Mimikyu / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Mimikyu / Bronzong / Xurkitree / Nidoqueen      |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Tsareena / Sharpedo / Raikou           |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Registeel / Raikou        |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Raikou / Gastrodon        |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Sharpedo / Registeel        |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Sharpedo / Gastrodon        |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Registeel / Gastrodon     |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Registeel / Raikou          |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Raikou / Gastrodon          |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Registeel / Raikou / Gastrodon       |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Tsareena / Registeel / Gastrodon       |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Sharpedo / Registeel / Raikou          |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Sharpedo / Raikou / Gastrodon          |    1 |  16.67% |   0.00% |
+| 1    | Sharpedo / Registeel / Raikou / Gastrodon       |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Sharpedo / Registeel / Gastrodon       |    1 |  16.67% |   0.00% |
+| 1    | Crobat / Registeel / Raikou / Gastrodon         |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Suicune / Nidoqueen   |    1 |  16.67% |   0.00% |
+| 1    | Metagross / Weezing-Galar / Umbreon / Suicune   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Suicune / Noivern     |    1 |  16.67% |   0.00% |
+| 1    | Metagross / Umbreon / Suicune / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 1    | Noivern / Umbreon / Suicune / Nidoqueen         |    1 |  16.67% |   0.00% |
+| 1    | Metagross / Umbreon / Suicune / Noivern         |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Metagross / Suicune / Nidoqueen |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Noivern / Suicune / Nidoqueen   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Metagross / Suicune / Noivern   |    1 |  16.67% |   0.00% |
+| 1    | Metagross / Noivern / Suicune / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Metagross / Nidoqueen |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Noivern / Nidoqueen   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Metagross / Noivern   |    1 |  16.67% |   0.00% |
+| 1    | Noivern / Umbreon / Metagross / Nidoqueen       |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Noivern / Metagross / Nidoqueen |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Charizard / Ninetales / Shiftry     |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Ninetales / Shiftry / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Ninetales / Shiftry       |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Charizard / Ninetales / Xatu        |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Charizard / Ninetales / Steelix     |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Ninetales / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Charizard / Ninetales / Shiftry / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Charizard / Ninetales / Steelix / Shiftry       |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Ninetales / Shiftry / Xatu            |    1 |  16.67% |   0.00% |
+| 1    | Charizard / Ninetales / Steelix / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Charizard / Shiftry / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Charizard / Shiftry       |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Xatu / Shiftry            |    1 |  16.67% |   0.00% |
+| 1    | Gardevoir / Steelix / Charizard / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Charizard / Shiftry / Xatu            |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                               | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Steelix / Arctovish / Raikou / Incineroar        |    1 |  16.67% | 100.00% |
+| 1    | Reuniclus / Crobat / Steelix / Arctovish / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Reuniclus / Crobat / Steelix / Raikou / Incineroar        |    1 |  16.67% | 100.00% |
+| 1    | Reuniclus / Crobat / Steelix / Arctovish / Raikou         |    1 |  16.67% | 100.00% |
+| 1    | Reuniclus / Steelix / Arctovish / Raikou / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Reuniclus / Crobat / Arctovish / Raikou / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Bronzong / Celebi / Raikou / Pangoro          |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Crobat / Celebi / Raikou / Pangoro            |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Crobat / Bronzong / Raikou / Pangoro          |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Crobat / Bronzong / Celebi / Pangoro          |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Crobat / Bronzong / Celebi / Raikou           |    1 |  16.67% | 100.00% |
+| 1    | Crobat / Bronzong / Celebi / Raikou / Pangoro             |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Nidoqueen / Bronzong / Noivern / Incineroar   |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Nidoqueen / Mimikyu / Noivern / Incineroar    |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Mimikyu / Bronzong / Noivern / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Mimikyu / Bronzong / Noivern / Incineroar     |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Nidoqueen / Mimikyu / Bronzong / Noivern      |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Nidoqueen / Mimikyu / Bronzong / Incineroar   |    1 |  16.67% | 100.00% |
+| 1    | Tsareena / Sharpedo / Crobat / Raikou / Registeel         |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Crobat / Raikou / Gastrodon         |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Raikou / Registeel / Gastrodon      |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Sharpedo / Crobat / Registeel / Gastrodon      |    1 |  16.67% |   0.00% |
+| 1    | Tsareena / Crobat / Raikou / Registeel / Gastrodon        |    1 |  16.67% |   0.00% |
+| 1    | Sharpedo / Crobat / Raikou / Registeel / Gastrodon        |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Nidoqueen / Umbreon / Metagross / Suicune |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Nidoqueen / Umbreon / Noivern / Suicune   |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Umbreon / Noivern / Metagross / Suicune   |    1 |  16.67% |   0.00% |
+| 1    | Nidoqueen / Umbreon / Noivern / Metagross / Suicune       |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Nidoqueen / Noivern / Metagross / Suicune |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Nidoqueen / Umbreon / Noivern / Metagross |    1 |  16.67% |   0.00% |
+| 1    | Shiftry / Gardevoir / Charizard / Ninetales / Xatu        |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Shiftry / Gardevoir / Charizard / Ninetales     |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Shiftry / Gardevoir / Ninetales / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Gardevoir / Charizard / Ninetales / Xatu        |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Shiftry / Charizard / Ninetales / Xatu          |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Shiftry / Gardevoir / Charizard / Xatu          |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                         | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Reuniclus / Crobat / Steelix / Arctovish / Raikou / Incineroar      |    1 |  16.67% | 100.00% |
+| 1    | Nidoqueen / Crobat / Bronzong / Celebi / Raikou / Pangoro           |    1 |  16.67% | 100.00% |
+| 1    | Xurkitree / Nidoqueen / Mimikyu / Bronzong / Noivern / Incineroar   |    1 |  16.67% | 100.00% |
+| 1    | Tsareena / Sharpedo / Crobat / Raikou / Registeel / Gastrodon       |    1 |  16.67% |   0.00% |
+| 1    | Weezing-Galar / Nidoqueen / Umbreon / Noivern / Metagross / Suicune |    1 |  16.67% |   0.00% |
+| 1    | Steelix / Shiftry / Gardevoir / Charizard / Ninetales / Xatu        |    1 |  16.67% |   0.00% |
