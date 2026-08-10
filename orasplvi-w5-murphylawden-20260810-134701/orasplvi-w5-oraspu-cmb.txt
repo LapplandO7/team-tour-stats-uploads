@@ -1,0 +1,474 @@
++ ---- + ----------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2             | Use  | Usage % |  Win %  |
++ ---- + ----------------------- + ---- + ------- + ------- +
+| 1    | Floatzel / Tangela      |    2 |  25.00% |  50.00% |
+| 2    | Electrode / Leafeon     |    1 |  12.50% | 100.00% |
+| 2    | Glaceon / Leafeon       |    1 |  12.50% | 100.00% |
+| 2    | Golem / Leafeon         |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Leafeon      |    1 |  12.50% | 100.00% |
+| 2    | Pelipper / Leafeon      |    1 |  12.50% | 100.00% |
+| 2    | Glaceon / Electrode     |    1 |  12.50% | 100.00% |
+| 2    | Golem / Electrode       |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Electrode    |    1 |  12.50% | 100.00% |
+| 2    | Electrode / Pelipper    |    1 |  12.50% | 100.00% |
+| 2    | Glaceon / Golem         |    1 |  12.50% | 100.00% |
+| 2    | Glaceon / Pawniard      |    1 |  12.50% | 100.00% |
+| 2    | Glaceon / Pelipper      |    1 |  12.50% | 100.00% |
+| 2    | Golem / Pawniard        |    1 |  12.50% | 100.00% |
+| 2    | Golem / Pelipper        |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Pelipper     |    1 |  12.50% | 100.00% |
+| 2    | Golem / Kadabra         |    1 |  12.50% | 100.00% |
+| 2    | Mawile / Kadabra        |    1 |  12.50% | 100.00% |
+| 2    | Altaria / Kadabra       |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Kadabra      |    1 |  12.50% | 100.00% |
+| 2    | Rotom-Frost / Kadabra   |    1 |  12.50% | 100.00% |
+| 2    | Golem / Mawile          |    1 |  12.50% | 100.00% |
+| 2    | Golem / Altaria         |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Golem        |    1 |  12.50% | 100.00% |
+| 2    | Golem / Rotom-Frost     |    1 |  12.50% | 100.00% |
+| 2    | Altaria / Mawile        |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Mawile       |    1 |  12.50% | 100.00% |
+| 2    | Rotom-Frost / Mawile    |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Altaria      |    1 |  12.50% | 100.00% |
+| 2    | Rotom-Frost / Altaria   |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Rotom-Frost  |    1 |  12.50% | 100.00% |
+| 2    | Chatot / Combusken      |    1 |  12.50% | 100.00% |
+| 2    | Chatot / Bronzor        |    1 |  12.50% | 100.00% |
+| 2    | Chatot / Rotom-Frost    |    1 |  12.50% | 100.00% |
+| 2    | Chatot / Arbok          |    1 |  12.50% | 100.00% |
+| 2    | Chatot / Vibrava        |    1 |  12.50% | 100.00% |
+| 2    | Combusken / Bronzor     |    1 |  12.50% | 100.00% |
+| 2    | Combusken / Rotom-Frost |    1 |  12.50% | 100.00% |
+| 2    | Combusken / Arbok       |    1 |  12.50% | 100.00% |
+| 2    | Combusken / Vibrava     |    1 |  12.50% | 100.00% |
+| 2    | Bronzor / Rotom-Frost   |    1 |  12.50% | 100.00% |
+| 2    | Bronzor / Arbok         |    1 |  12.50% | 100.00% |
+| 2    | Bronzor / Vibrava       |    1 |  12.50% | 100.00% |
+| 2    | Rotom-Frost / Arbok     |    1 |  12.50% | 100.00% |
+| 2    | Rotom-Frost / Vibrava   |    1 |  12.50% | 100.00% |
+| 2    | Arbok / Vibrava         |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Drifblim      |    1 |  12.50% | 100.00% |
+| 2    | Drifblim / Ursaring     |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Drifblim     |    1 |  12.50% | 100.00% |
+| 2    | Camerupt / Drifblim     |    1 |  12.50% | 100.00% |
+| 2    | Drifblim / Rampardos    |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Ursaring      |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Camerupt      |    1 |  12.50% | 100.00% |
+| 2    | Tangela / Rampardos     |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Ursaring     |    1 |  12.50% | 100.00% |
+| 2    | Camerupt / Ursaring     |    1 |  12.50% | 100.00% |
+| 2    | Rampardos / Ursaring    |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Camerupt     |    1 |  12.50% | 100.00% |
+| 2    | Floatzel / Rampardos    |    1 |  12.50% | 100.00% |
+| 2    | Camerupt / Rampardos    |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Lumineon     |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Stunfisk     |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Muk          |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Simisear     |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Fan / Pawniard    |    1 |  12.50% |   0.00% |
+| 2    | Lumineon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 2    | Muk / Lumineon          |    1 |  12.50% |   0.00% |
+| 2    | Lumineon / Simisear     |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Fan / Lumineon    |    1 |  12.50% |   0.00% |
+| 2    | Muk / Stunfisk          |    1 |  12.50% |   0.00% |
+| 2    | Simisear / Stunfisk     |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Fan / Stunfisk    |    1 |  12.50% |   0.00% |
+| 2    | Muk / Simisear          |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Fan / Muk         |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Fan / Simisear    |    1 |  12.50% |   0.00% |
+| 2    | Monferno / Armaldo      |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Frost / Monferno  |    1 |  12.50% |   0.00% |
+| 2    | Monferno / Stunfisk     |    1 |  12.50% |   0.00% |
+| 2    | Monferno / Gorebyss     |    1 |  12.50% |   0.00% |
+| 2    | Dodrio / Monferno       |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Frost / Armaldo   |    1 |  12.50% |   0.00% |
+| 2    | Armaldo / Stunfisk      |    1 |  12.50% |   0.00% |
+| 2    | Gorebyss / Armaldo      |    1 |  12.50% |   0.00% |
+| 2    | Dodrio / Armaldo        |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Frost / Stunfisk  |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Frost / Gorebyss  |    1 |  12.50% |   0.00% |
+| 2    | Rotom-Frost / Dodrio    |    1 |  12.50% |   0.00% |
+| 2    | Gorebyss / Stunfisk     |    1 |  12.50% |   0.00% |
+| 2    | Dodrio / Stunfisk       |    1 |  12.50% |   0.00% |
+| 2    | Dodrio / Gorebyss       |    1 |  12.50% |   0.00% |
+| 2    | Bouffalant / Frogadier  |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Frogadier   |    1 |  12.50% |   0.00% |
+| 2    | Frogadier / Stunfisk    |    1 |  12.50% |   0.00% |
+| 2    | Misdreavus / Frogadier  |    1 |  12.50% |   0.00% |
+| 2    | Frogadier / Leafeon     |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Bouffalant  |    1 |  12.50% |   0.00% |
+| 2    | Bouffalant / Stunfisk   |    1 |  12.50% |   0.00% |
+| 2    | Misdreavus / Bouffalant |    1 |  12.50% |   0.00% |
+| 2    | Bouffalant / Leafeon    |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Stunfisk    |    1 |  12.50% |   0.00% |
+| 2    | Misdreavus / Cryogonal  |    1 |  12.50% |   0.00% |
+| 2    | Cryogonal / Leafeon     |    1 |  12.50% |   0.00% |
+| 2    | Misdreavus / Stunfisk   |    1 |  12.50% |   0.00% |
+| 2    | Leafeon / Stunfisk      |    1 |  12.50% |   0.00% |
+| 2    | Misdreavus / Leafeon    |    1 |  12.50% |   0.00% |
+| 2    | Tangela / Beheeyem      |    1 |  12.50% |   0.00% |
+| 2    | Tangela / Chinchou      |    1 |  12.50% |   0.00% |
+| 2    | Bouffalant / Tangela    |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Tangela       |    1 |  12.50% |   0.00% |
+| 2    | Floatzel / Beheeyem     |    1 |  12.50% |   0.00% |
+| 2    | Floatzel / Chinchou     |    1 |  12.50% |   0.00% |
+| 2    | Floatzel / Bouffalant   |    1 |  12.50% |   0.00% |
+| 2    | Floatzel / Solrock      |    1 |  12.50% |   0.00% |
+| 2    | Beheeyem / Chinchou     |    1 |  12.50% |   0.00% |
+| 2    | Bouffalant / Beheeyem   |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Beheeyem      |    1 |  12.50% |   0.00% |
+| 2    | Bouffalant / Chinchou   |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Chinchou      |    1 |  12.50% |   0.00% |
+| 2    | Solrock / Bouffalant    |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| 1    | Glaceon / Electrode / Leafeon       |    1 |  12.50% | 100.00% |
+| 1    | Golem / Electrode / Leafeon         |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Electrode / Leafeon      |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Electrode / Leafeon      |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Golem / Leafeon           |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Leafeon        |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pelipper / Leafeon        |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pawniard / Leafeon          |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pelipper / Leafeon          |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Pawniard / Leafeon       |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Golem / Electrode         |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Electrode      |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Electrode / Pelipper      |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pawniard / Electrode        |    1 |  12.50% | 100.00% |
+| 1    | Golem / Electrode / Pelipper        |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Electrode / Pelipper     |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Golem          |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Golem / Pelipper          |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Pelipper       |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pawniard / Pelipper         |    1 |  12.50% | 100.00% |
+| 1    | Golem / Mawile / Kadabra            |    1 |  12.50% | 100.00% |
+| 1    | Golem / Altaria / Kadabra           |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Kadabra          |    1 |  12.50% | 100.00% |
+| 1    | Golem / Rotom-Frost / Kadabra       |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Mawile / Kadabra          |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Mawile / Kadabra         |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Mawile / Kadabra      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Altaria / Kadabra        |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Altaria / Kadabra     |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rotom-Frost / Kadabra    |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Golem / Mawile            |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Mawile           |    1 |  12.50% | 100.00% |
+| 1    | Golem / Rotom-Frost / Mawile        |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Altaria          |    1 |  12.50% | 100.00% |
+| 1    | Golem / Rotom-Frost / Altaria       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Rotom-Frost      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Altaria / Mawile         |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Rotom-Frost / Mawile      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rotom-Frost / Mawile     |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rotom-Frost / Altaria    |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Bronzor        |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Rotom-Frost    |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Arbok          |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Vibrava        |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Rotom-Frost / Bronzor      |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Arbok / Bronzor            |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Bronzor / Vibrava          |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Rotom-Frost / Arbok        |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Rotom-Frost / Vibrava      |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Arbok / Vibrava            |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Rotom-Frost / Bronzor   |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Arbok / Bronzor         |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Bronzor / Vibrava       |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Rotom-Frost / Arbok     |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Rotom-Frost / Vibrava   |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Arbok / Vibrava         |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Arbok       |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Vibrava     |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Arbok / Vibrava           |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Arbok / Vibrava       |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Ursaring       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Drifblim       |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Rampardos      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Drifblim / Ursaring      |    1 |  12.50% | 100.00% |
+| 1    | Camerupt / Drifblim / Ursaring      |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Drifblim / Ursaring     |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Camerupt / Drifblim      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Drifblim / Rampardos     |    1 |  12.50% | 100.00% |
+| 1    | Camerupt / Drifblim / Rampardos     |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Ursaring       |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Ursaring / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Tangela / Ursaring      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Rampardos      |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Tangela / Camerupt      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Camerupt / Ursaring      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rampardos / Ursaring     |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Camerupt / Ursaring     |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Camerupt / Rampardos     |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Lumineon / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Muk / Pawniard / Lumineon           |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Lumineon / Simisear      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Lumineon     |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Muk / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Simisear / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Muk / Simisear           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Muk          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Simisear     |    1 |  12.50% |   0.00% |
+| 1    | Muk / Lumineon / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Lumineon / Simisear / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Lumineon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Muk / Lumineon / Simisear           |    1 |  12.50% |   0.00% |
+| 1    | Muk / Rotom-Fan / Lumineon          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Lumineon / Simisear     |    1 |  12.50% |   0.00% |
+| 1    | Muk / Simisear / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Muk / Stunfisk          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Simisear / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Muk / Simisear          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Monferno / Armaldo    |    1 |  12.50% |   0.00% |
+| 1    | Monferno / Armaldo / Stunfisk       |    1 |  12.50% |   0.00% |
+| 1    | Monferno / Gorebyss / Armaldo       |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Monferno / Armaldo         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Monferno / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Monferno / Gorebyss   |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno     |    1 |  12.50% |   0.00% |
+| 1    | Monferno / Gorebyss / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Monferno / Stunfisk        |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Monferno / Gorebyss        |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Armaldo / Stunfisk    |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Gorebyss / Armaldo    |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Armaldo      |    1 |  12.50% |   0.00% |
+| 1    | Gorebyss / Armaldo / Stunfisk       |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Armaldo / Stunfisk         |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Gorebyss / Armaldo         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Gorebyss / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Gorebyss     |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Gorebyss / Stunfisk        |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Bouffalant / Frogadier  |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Frogadier / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Bouffalant / Frogadier |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Frogadier / Leafeon    |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Frogadier / Stunfisk    |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Frogadier  |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Frogadier / Leafeon     |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Frogadier / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Leafeon / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Frogadier / Leafeon    |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Bouffalant / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Bouffalant |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Bouffalant / Leafeon    |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Bouffalant / Stunfisk  |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Leafeon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Bouffalant / Leafeon   |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Leafeon / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Leafeon    |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Leafeon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Tangela / Beheeyem       |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Tangela / Chinchou       |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Tangela     |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Tangela / Solrock        |    1 |  12.50% |   0.00% |
+| 1    | Tangela / Beheeyem / Chinchou       |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Tangela / Beheeyem     |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Beheeyem        |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Tangela / Chinchou     |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Chinchou        |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Bouffalant / Tangela      |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Beheeyem / Chinchou      |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Beheeyem    |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Beheeyem / Solrock       |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Chinchou    |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Chinchou / Solrock       |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Solrock     |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Beheeyem / Chinchou    |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Beheeyem / Chinchou       |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Bouffalant / Beheeyem     |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Bouffalant / Chinchou     |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Glaceon / Golem / Electrode / Leafeon           |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Electrode / Leafeon        |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pelipper / Electrode / Leafeon        |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pawniard / Electrode / Leafeon          |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pelipper / Electrode / Leafeon          |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Pawniard / Electrode / Leafeon       |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Golem / Leafeon            |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pelipper / Golem / Leafeon            |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pelipper / Pawniard / Leafeon         |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pelipper / Pawniard / Leafeon           |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Golem / Electrode          |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Golem / Electrode / Pelipper          |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Electrode / Pelipper       |    1 |  12.50% | 100.00% |
+| 1    | Golem / Pawniard / Electrode / Pelipper         |    1 |  12.50% | 100.00% |
+| 1    | Glaceon / Pawniard / Golem / Pelipper           |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Golem / Mawile / Kadabra              |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Mawile / Kadabra             |    1 |  12.50% | 100.00% |
+| 1    | Golem / Rotom-Frost / Mawile / Kadabra          |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Altaria / Kadabra            |    1 |  12.50% | 100.00% |
+| 1    | Golem / Rotom-Frost / Altaria / Kadabra         |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Rotom-Frost / Kadabra        |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Altaria / Mawile / Kadabra           |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Rotom-Frost / Mawile / Kadabra        |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rotom-Frost / Mawile / Kadabra       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rotom-Frost / Altaria / Kadabra      |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Golem / Mawile / Floatzel             |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Golem / Rotom-Frost / Mawile          |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Rotom-Frost / Mawile         |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Golem / Rotom-Frost / Altaria        |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Altaria / Rotom-Frost / Mawile       |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Rotom-Frost / Bronzor      |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Arbok / Bronzor            |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Bronzor / Vibrava          |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Rotom-Frost / Arbok        |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Rotom-Frost / Vibrava      |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Combusken / Arbok / Vibrava            |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Rotom-Frost / Arbok / Bronzor          |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Rotom-Frost / Bronzor / Vibrava        |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Arbok / Bronzor / Vibrava              |    1 |  12.50% | 100.00% |
+| 1    | Chatot / Rotom-Frost / Arbok / Vibrava          |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Rotom-Frost / Arbok / Bronzor       |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Rotom-Frost / Bronzor / Vibrava     |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Arbok / Bronzor / Vibrava           |    1 |  12.50% | 100.00% |
+| 1    | Combusken / Rotom-Frost / Arbok / Vibrava       |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Arbok / Vibrava         |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Drifblim / Ursaring        |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Ursaring / Camerupt        |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Tangela / Drifblim / Ursaring       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Drifblim / Camerupt        |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Drifblim / Rampardos       |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Tangela / Drifblim / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Camerupt / Drifblim / Ursaring       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rampardos / Drifblim / Ursaring      |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Camerupt / Drifblim / Ursaring      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Camerupt / Drifblim / Rampardos      |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Tangela / Ursaring / Camerupt        |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rampardos / Tangela / Ursaring       |    1 |  12.50% | 100.00% |
+| 1    | Rampardos / Tangela / Ursaring / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rampardos / Tangela / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Floatzel / Rampardos / Camerupt / Ursaring      |    1 |  12.50% | 100.00% |
+| 1    | Muk / Pawniard / Lumineon / Stunfisk            |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Lumineon / Simisear / Stunfisk       |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Lumineon / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Muk / Pawniard / Lumineon / Simisear            |    1 |  12.50% |   0.00% |
+| 1    | Muk / Rotom-Fan / Pawniard / Lumineon           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Lumineon / Simisear      |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Muk / Simisear / Stunfisk            |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Muk / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Simisear / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Pawniard / Muk / Simisear           |    1 |  12.50% |   0.00% |
+| 1    | Muk / Lumineon / Simisear / Stunfisk            |    1 |  12.50% |   0.00% |
+| 1    | Muk / Rotom-Fan / Lumineon / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Lumineon / Simisear / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Muk / Rotom-Fan / Lumineon / Simisear           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Fan / Muk / Simisear / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Monferno / Armaldo / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Monferno / Gorebyss / Armaldo     |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno / Armaldo       |    1 |  12.50% |   0.00% |
+| 1    | Monferno / Gorebyss / Armaldo / Stunfisk        |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Monferno / Armaldo / Stunfisk          |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Monferno / Gorebyss / Armaldo          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Monferno / Gorebyss / Stunfisk    |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno / Gorebyss      |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Monferno / Gorebyss / Stunfisk         |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Gorebyss / Armaldo / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Armaldo / Stunfisk       |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Gorebyss / Armaldo       |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Gorebyss / Armaldo / Stunfisk          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Gorebyss / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Bouffalant / Frogadier / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Bouffalant / Frogadier |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Bouffalant / Frogadier / Leafeon    |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Bouffalant / Frogadier / Stunfisk  |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Frogadier / Leafeon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Bouffalant / Frogadier / Leafeon   |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Frogadier / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Frogadier / Leafeon / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Frogadier / Leafeon    |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Frogadier / Leafeon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Bouffalant / Stunfisk  |    1 |  12.50% |   0.00% |
+| 1    | Cryogonal / Bouffalant / Leafeon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Bouffalant / Leafeon   |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Bouffalant / Leafeon / Stunfisk    |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Cryogonal / Leafeon / Stunfisk     |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Tangela / Beheeyem / Chinchou        |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Tangela / Beheeyem      |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Tangela / Beheeyem / Solrock         |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Tangela / Chinchou      |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Tangela / Chinchou / Solrock         |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Tangela / Solrock       |    1 |  12.50% |   0.00% |
+| 1    | Bouffalant / Tangela / Beheeyem / Chinchou      |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Beheeyem / Chinchou         |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Bouffalant / Tangela / Beheeyem       |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Bouffalant / Tangela / Chinchou       |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Beheeyem / Chinchou     |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Beheeyem / Chinchou / Solrock        |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Beheeyem / Solrock      |    1 |  12.50% |   0.00% |
+| 1    | Floatzel / Bouffalant / Chinchou / Solrock      |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Bouffalant / Beheeyem / Chinchou      |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Electrode / Leafeon / Glaceon / Pawniard / Golem           |    1 |  12.50% | 100.00% |
+| 1    | Electrode / Pelipper / Leafeon / Glaceon / Golem           |    1 |  12.50% | 100.00% |
+| 1    | Electrode / Pelipper / Leafeon / Glaceon / Pawniard        |    1 |  12.50% | 100.00% |
+| 1    | Electrode / Pelipper / Leafeon / Pawniard / Golem          |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Leafeon / Glaceon / Pawniard / Golem            |    1 |  12.50% | 100.00% |
+| 1    | Electrode / Pelipper / Glaceon / Pawniard / Golem          |    1 |  12.50% | 100.00% |
+| 1    | Altaria / Mawile / Floatzel / Golem / Kadabra              |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Altaria / Mawile / Golem / Kadabra           |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Mawile / Floatzel / Golem / Kadabra          |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Altaria / Floatzel / Golem / Kadabra         |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Altaria / Mawile / Floatzel / Kadabra        |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Altaria / Mawile / Floatzel / Golem          |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Chatot / Arbok / Combusken         |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Vibrava / Chatot / Combusken       |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Vibrava / Chatot / Arbok / Combusken             |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Vibrava / Chatot / Arbok / Combusken         |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Vibrava / Chatot / Arbok           |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Vibrava / Arbok / Combusken        |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Ursaring / Floatzel / Camerupt        |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Rampardos / Ursaring / Floatzel       |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Rampardos / Ursaring / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Rampardos / Floatzel / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Drifblim / Rampardos / Ursaring / Floatzel / Camerupt      |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Rampardos / Ursaring / Floatzel / Camerupt       |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Muk / Simisear / Lumineon / Stunfisk            |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Muk / Rotom-Fan / Lumineon / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Simisear / Rotom-Fan / Lumineon / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Muk / Simisear / Rotom-Fan / Lumineon           |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Muk / Simisear / Rotom-Fan / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Muk / Simisear / Rotom-Fan / Lumineon / Stunfisk           |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Monferno / Gorebyss / Stunfisk / Armaldo     |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno / Stunfisk / Armaldo       |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno / Gorebyss / Armaldo       |    1 |  12.50% |   0.00% |
+| 1    | Dodrio / Monferno / Gorebyss / Stunfisk / Armaldo          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno / Gorebyss / Stunfisk      |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Gorebyss / Stunfisk / Armaldo       |    1 |  12.50% |   0.00% |
+| 1    | Misdreavus / Bouffalant / Frogadier / Stunfisk / Cryogonal |    1 |  12.50% |   0.00% |
+| 1    | Leafeon / Bouffalant / Frogadier / Stunfisk / Cryogonal    |    1 |  12.50% |   0.00% |
+| 1    | Leafeon / Misdreavus / Bouffalant / Frogadier / Cryogonal  |    1 |  12.50% |   0.00% |
+| 1    | Leafeon / Misdreavus / Bouffalant / Frogadier / Stunfisk   |    1 |  12.50% |   0.00% |
+| 1    | Leafeon / Misdreavus / Frogadier / Stunfisk / Cryogonal    |    1 |  12.50% |   0.00% |
+| 1    | Leafeon / Misdreavus / Bouffalant / Stunfisk / Cryogonal   |    1 |  12.50% |   0.00% |
+| 1    | Tangela / Beheeyem / Bouffalant / Chinchou / Floatzel      |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Beheeyem / Chinchou / Floatzel         |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Beheeyem / Bouffalant / Floatzel       |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Bouffalant / Chinchou / Floatzel       |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Beheeyem / Bouffalant / Chinchou       |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Beheeyem / Bouffalant / Chinchou / Floatzel      |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                          | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Electrode / Leafeon / Pelipper / Glaceon / Pawniard / Golem          |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Frost / Altaria / Mawile / Floatzel / Golem / Kadabra          |    1 |  12.50% | 100.00% |
+| 1    | Bronzor / Rotom-Frost / Vibrava / Chatot / Arbok / Combusken         |    1 |  12.50% | 100.00% |
+| 1    | Tangela / Drifblim / Ursaring / Rampardos / Floatzel / Camerupt      |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Muk / Simisear / Rotom-Fan / Lumineon / Stunfisk          |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Frost / Dodrio / Monferno / Gorebyss / Stunfisk / Armaldo      |    1 |  12.50% |   0.00% |
+| 1    | Leafeon / Misdreavus / Bouffalant / Frogadier / Stunfisk / Cryogonal |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Tangela / Beheeyem / Bouffalant / Chinchou / Floatzel      |    1 |  12.50% |   0.00% |
