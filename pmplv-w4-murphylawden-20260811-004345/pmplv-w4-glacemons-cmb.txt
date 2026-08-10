@@ -1,0 +1,359 @@
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| 1    | Tyranitar / Landorus-Therian        |    2 |  33.33% |  50.00% |
+| 1    | Landorus-Therian / Golisopod        |    2 |  33.33% |  50.00% |
+| 3    | Espeon / Aegislash                  |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Therian / Espeon           |    1 |  16.67% | 100.00% |
+| 3    | Espeon / Golisopod                  |    1 |  16.67% | 100.00% |
+| 3    | Tyranitar / Espeon                  |    1 |  16.67% | 100.00% |
+| 3    | Meowscarada / Espeon                |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Therian / Aegislash        |    1 |  16.67% | 100.00% |
+| 3    | Aegislash / Golisopod               |    1 |  16.67% | 100.00% |
+| 3    | Tyranitar / Aegislash               |    1 |  16.67% | 100.00% |
+| 3    | Meowscarada / Aegislash             |    1 |  16.67% | 100.00% |
+| 3    | Meowscarada / Landorus-Therian      |    1 |  16.67% | 100.00% |
+| 3    | Tyranitar / Golisopod               |    1 |  16.67% | 100.00% |
+| 3    | Meowscarada / Golisopod             |    1 |  16.67% | 100.00% |
+| 3    | Meowscarada / Tyranitar             |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Therian / Magearna         |    1 |  16.67% | 100.00% |
+| 3    | Tapu Fini / Magearna                |    1 |  16.67% | 100.00% |
+| 3    | Absol / Magearna                    |    1 |  16.67% | 100.00% |
+| 3    | Melmetal / Magearna                 |    1 |  16.67% | 100.00% |
+| 3    | Tornadus-Therian / Magearna         |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Therian / Tapu Fini        |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Therian / Absol            |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Therian / Melmetal         |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Therian / Tornadus-Therian |    1 |  16.67% | 100.00% |
+| 3    | Absol / Tapu Fini                   |    1 |  16.67% | 100.00% |
+| 3    | Tapu Fini / Melmetal                |    1 |  16.67% | 100.00% |
+| 3    | Tapu Fini / Tornadus-Therian        |    1 |  16.67% | 100.00% |
+| 3    | Absol / Melmetal                    |    1 |  16.67% | 100.00% |
+| 3    | Absol / Tornadus-Therian            |    1 |  16.67% | 100.00% |
+| 3    | Tornadus-Therian / Melmetal         |    1 |  16.67% | 100.00% |
+| 3    | Escavalier / Runerigus              |    1 |  16.67% | 100.00% |
+| 3    | Escavalier / Sylveon                |    1 |  16.67% | 100.00% |
+| 3    | Escavalier / Tapu Koko              |    1 |  16.67% | 100.00% |
+| 3    | Escavalier / Lopunny                |    1 |  16.67% | 100.00% |
+| 3    | Escavalier / Skarmory               |    1 |  16.67% | 100.00% |
+| 3    | Sylveon / Runerigus                 |    1 |  16.67% | 100.00% |
+| 3    | Tapu Koko / Runerigus               |    1 |  16.67% | 100.00% |
+| 3    | Lopunny / Runerigus                 |    1 |  16.67% | 100.00% |
+| 3    | Skarmory / Runerigus                |    1 |  16.67% | 100.00% |
+| 3    | Tapu Koko / Sylveon                 |    1 |  16.67% | 100.00% |
+| 3    | Lopunny / Sylveon                   |    1 |  16.67% | 100.00% |
+| 3    | Skarmory / Sylveon                  |    1 |  16.67% | 100.00% |
+| 3    | Tapu Koko / Lopunny                 |    1 |  16.67% | 100.00% |
+| 3    | Tapu Koko / Skarmory                |    1 |  16.67% | 100.00% |
+| 3    | Lopunny / Skarmory                  |    1 |  16.67% | 100.00% |
+| 3    | Raging Bolt / Tapu Bulu             |    1 |  16.67% |   0.00% |
+| 3    | Raging Bolt / Landorus-Therian      |    1 |  16.67% |   0.00% |
+| 3    | Raging Bolt / Mesprit               |    1 |  16.67% |   0.00% |
+| 3    | Raging Bolt / Iron Crown            |    1 |  16.67% |   0.00% |
+| 3    | Raging Bolt / Tyranitar             |    1 |  16.67% |   0.00% |
+| 3    | Landorus-Therian / Tapu Bulu        |    1 |  16.67% |   0.00% |
+| 3    | Mesprit / Tapu Bulu                 |    1 |  16.67% |   0.00% |
+| 3    | Iron Crown / Tapu Bulu              |    1 |  16.67% |   0.00% |
+| 3    | Tyranitar / Tapu Bulu               |    1 |  16.67% |   0.00% |
+| 3    | Landorus-Therian / Mesprit          |    1 |  16.67% |   0.00% |
+| 3    | Iron Crown / Landorus-Therian       |    1 |  16.67% |   0.00% |
+| 3    | Iron Crown / Mesprit                |    1 |  16.67% |   0.00% |
+| 3    | Tyranitar / Mesprit                 |    1 |  16.67% |   0.00% |
+| 3    | Iron Crown / Tyranitar              |    1 |  16.67% |   0.00% |
+| 3    | Escavalier / Tapu Fini              |    1 |  16.67% |   0.00% |
+| 3    | Zapdos / Tapu Fini                  |    1 |  16.67% |   0.00% |
+| 3    | Slowking-Galar / Tapu Fini          |    1 |  16.67% |   0.00% |
+| 3    | Tapu Fini / Great Tusk              |    1 |  16.67% |   0.00% |
+| 3    | Sceptile / Tapu Fini                |    1 |  16.67% |   0.00% |
+| 3    | Escavalier / Zapdos                 |    1 |  16.67% |   0.00% |
+| 3    | Escavalier / Slowking-Galar         |    1 |  16.67% |   0.00% |
+| 3    | Escavalier / Great Tusk             |    1 |  16.67% |   0.00% |
+| 3    | Escavalier / Sceptile               |    1 |  16.67% |   0.00% |
+| 3    | Slowking-Galar / Zapdos             |    1 |  16.67% |   0.00% |
+| 3    | Zapdos / Great Tusk                 |    1 |  16.67% |   0.00% |
+| 3    | Zapdos / Sceptile                   |    1 |  16.67% |   0.00% |
+| 3    | Slowking-Galar / Great Tusk         |    1 |  16.67% |   0.00% |
+| 3    | Slowking-Galar / Sceptile           |    1 |  16.67% |   0.00% |
+| 3    | Sceptile / Great Tusk               |    1 |  16.67% |   0.00% |
+| 3    | Glaceon / Golisopod                 |    1 |  16.67% |   0.00% |
+| 3    | Glaceon / Zamazenta-*               |    1 |  16.67% |   0.00% |
+| 3    | Glaceon / Diancie                   |    1 |  16.67% |   0.00% |
+| 3    | Glaceon / Landorus-Therian          |    1 |  16.67% |   0.00% |
+| 3    | Glaceon / Slowking-Galar            |    1 |  16.67% |   0.00% |
+| 3    | Zamazenta-* / Golisopod             |    1 |  16.67% |   0.00% |
+| 3    | Diancie / Golisopod                 |    1 |  16.67% |   0.00% |
+| 3    | Slowking-Galar / Golisopod          |    1 |  16.67% |   0.00% |
+| 3    | Diancie / Zamazenta-*               |    1 |  16.67% |   0.00% |
+| 3    | Landorus-Therian / Zamazenta-*      |    1 |  16.67% |   0.00% |
+| 3    | Zamazenta-* / Slowking-Galar        |    1 |  16.67% |   0.00% |
+| 3    | Landorus-Therian / Diancie          |    1 |  16.67% |   0.00% |
+| 3    | Diancie / Slowking-Galar            |    1 |  16.67% |   0.00% |
+| 3    | Landorus-Therian / Slowking-Galar   |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Landorus-Therian / Espeon / Aegislash           |    1 |  16.67% | 100.00% |
+| 1    | Espeon / Aegislash / Golisopod                  |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Espeon / Aegislash                  |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Espeon / Aegislash                |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Espeon / Golisopod           |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Espeon / Tyranitar           |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Landorus-Therian / Espeon         |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Espeon / Golisopod                  |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Espeon / Golisopod                |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Espeon                |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Aegislash / Golisopod        |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Landorus-Therian / Aegislash        |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Landorus-Therian / Aegislash      |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Aegislash / Golisopod               |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Aegislash / Golisopod             |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Aegislash             |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Landorus-Therian / Golisopod        |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Landorus-Therian / Golisopod      |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Landorus-Therian      |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Golisopod             |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tapu Fini / Magearna         |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Magearna             |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Melmetal / Magearna          |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Magearna  |    1 |  16.67% | 100.00% |
+| 1    | Absol / Tapu Fini / Magearna                    |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Melmetal / Magearna                 |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Magearna / Tornadus-Therian         |    1 |  16.67% | 100.00% |
+| 1    | Absol / Melmetal / Magearna                     |    1 |  16.67% | 100.00% |
+| 1    | Absol / Magearna / Tornadus-Therian             |    1 |  16.67% | 100.00% |
+| 1    | Tornadus-Therian / Melmetal / Magearna          |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Tapu Fini            |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tapu Fini / Melmetal         |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tapu Fini / Tornadus-Therian |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Melmetal             |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Tornadus-Therian     |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Melmetal  |    1 |  16.67% | 100.00% |
+| 1    | Absol / Tapu Fini / Melmetal                    |    1 |  16.67% | 100.00% |
+| 1    | Absol / Tapu Fini / Tornadus-Therian            |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Melmetal / Tornadus-Therian         |    1 |  16.67% | 100.00% |
+| 1    | Absol / Melmetal / Tornadus-Therian             |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Sylveon / Runerigus                |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Tapu Koko / Runerigus              |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Lopunny / Runerigus                |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Runerigus               |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Tapu Koko / Sylveon                |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Sylveon / Lopunny                  |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Sylveon                 |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Tapu Koko / Lopunny                |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Tapu Koko               |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Lopunny                 |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Sylveon / Runerigus                 |    1 |  16.67% | 100.00% |
+| 1    | Lopunny / Sylveon / Runerigus                   |    1 |  16.67% | 100.00% |
+| 1    | Skarmory / Sylveon / Runerigus                  |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Lopunny / Runerigus                 |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Skarmory / Runerigus                |    1 |  16.67% | 100.00% |
+| 1    | Lopunny / Skarmory / Runerigus                  |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Sylveon / Lopunny                   |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Skarmory / Sylveon                  |    1 |  16.67% | 100.00% |
+| 1    | Lopunny / Skarmory / Sylveon                    |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Skarmory / Lopunny                  |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Landorus-Therian / Tapu Bulu      |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Mesprit / Tapu Bulu               |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Tapu Bulu            |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Tyranitar / Tapu Bulu             |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Landorus-Therian / Mesprit        |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Landorus-Therian     |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Tyranitar / Landorus-Therian      |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Mesprit              |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Tyranitar / Mesprit               |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Tyranitar            |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Mesprit / Tapu Bulu          |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Tapu Bulu       |    1 |  16.67% |   0.00% |
+| 1    | Tyranitar / Landorus-Therian / Tapu Bulu        |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Mesprit / Tapu Bulu                |    1 |  16.67% |   0.00% |
+| 1    | Tyranitar / Mesprit / Tapu Bulu                 |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Tyranitar / Tapu Bulu              |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Mesprit         |    1 |  16.67% |   0.00% |
+| 1    | Tyranitar / Landorus-Therian / Mesprit          |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Tyranitar       |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Tyranitar / Mesprit                |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Zapdos / Tapu Fini                 |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Tapu Fini         |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Tapu Fini / Great Tusk             |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Sceptile / Tapu Fini               |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Zapdos / Tapu Fini             |    1 |  16.67% |   0.00% |
+| 1    | Zapdos / Tapu Fini / Great Tusk                 |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Zapdos / Tapu Fini                   |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Tapu Fini / Great Tusk         |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Slowking-Galar / Tapu Fini           |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Tapu Fini / Great Tusk               |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Zapdos            |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Zapdos / Great Tusk                |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Zapdos / Sceptile                  |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Great Tusk        |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Sceptile          |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Sceptile / Great Tusk              |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Zapdos / Great Tusk            |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Zapdos / Sceptile              |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Zapdos / Great Tusk                  |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Slowking-Galar / Great Tusk          |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Zamazenta-* / Golisopod               |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Diancie / Golisopod                   |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Landorus-Therian / Golisopod          |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Slowking-Galar / Golisopod            |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Glaceon / Zamazenta-*                 |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Zamazenta-* / Landorus-Therian        |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Zamazenta-* / Slowking-Galar          |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Diancie / Landorus-Therian            |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Diancie / Slowking-Galar              |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Landorus-Therian / Slowking-Galar     |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Zamazenta-* / Golisopod               |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Zamazenta-* / Golisopod      |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Slowking-Galar / Golisopod        |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Diancie / Golisopod          |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Slowking-Galar / Golisopod            |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Slowking-Galar / Golisopod   |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Landorus-Therian / Zamazenta-*        |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Zamazenta-* / Slowking-Galar          |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Zamazenta-* / Slowking-Galar |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Diancie / Slowking-Galar     |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                 | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Landorus-Therian / Espeon / Aegislash / Golisopod           |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Espeon / Aegislash / Tyranitar           |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Landorus-Therian / Espeon / Aegislash         |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Espeon / Aegislash / Golisopod                  |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Espeon / Aegislash / Golisopod                |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Espeon / Aegislash                |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Espeon / Tyranitar / Golisopod           |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Landorus-Therian / Espeon / Golisopod         |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Landorus-Therian / Espeon / Tyranitar         |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Espeon / Golisopod                |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Landorus-Therian / Aegislash / Golisopod        |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Landorus-Therian / Aegislash / Golisopod      |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Landorus-Therian / Aegislash      |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Aegislash / Golisopod             |    1 |  16.67% | 100.00% |
+| 1    | Meowscarada / Tyranitar / Landorus-Therian / Golisopod      |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Tapu Fini / Magearna             |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tapu Fini / Melmetal / Magearna          |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tapu Fini / Magearna / Tornadus-Therian  |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Melmetal / Magearna              |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Magearna / Tornadus-Therian      |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Melmetal / Magearna   |    1 |  16.67% | 100.00% |
+| 1    | Absol / Tapu Fini / Melmetal / Magearna                     |    1 |  16.67% | 100.00% |
+| 1    | Absol / Tapu Fini / Magearna / Tornadus-Therian             |    1 |  16.67% | 100.00% |
+| 1    | Tapu Fini / Melmetal / Magearna / Tornadus-Therian          |    1 |  16.67% | 100.00% |
+| 1    | Absol / Melmetal / Magearna / Tornadus-Therian              |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Tapu Fini / Melmetal             |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Tapu Fini / Tornadus-Therian     |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tapu Fini / Melmetal / Tornadus-Therian  |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Absol / Melmetal / Tornadus-Therian      |    1 |  16.67% | 100.00% |
+| 1    | Absol / Tapu Fini / Melmetal / Tornadus-Therian             |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Tapu Koko / Sylveon / Runerigus                |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Lopunny / Sylveon / Runerigus                  |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Sylveon / Runerigus                 |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Tapu Koko / Lopunny / Runerigus                |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Tapu Koko / Runerigus               |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Lopunny / Runerigus                 |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Tapu Koko / Sylveon / Lopunny                  |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Tapu Koko / Sylveon                 |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Sylveon / Lopunny                   |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Skarmory / Tapu Koko / Lopunny                 |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Lopunny / Sylveon / Runerigus                   |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Skarmory / Sylveon / Runerigus                  |    1 |  16.67% | 100.00% |
+| 1    | Lopunny / Skarmory / Sylveon / Runerigus                    |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Skarmory / Lopunny / Runerigus                  |    1 |  16.67% | 100.00% |
+| 1    | Tapu Koko / Skarmory / Sylveon / Lopunny                    |    1 |  16.67% | 100.00% |
+| 1    | Raging Bolt / Landorus-Therian / Mesprit / Tapu Bulu        |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Landorus-Therian / Tapu Bulu     |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Tyranitar / Landorus-Therian / Tapu Bulu      |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Mesprit / Tapu Bulu              |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Tyranitar / Mesprit / Tapu Bulu               |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Tyranitar / Tapu Bulu            |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Landorus-Therian / Mesprit       |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Tyranitar / Landorus-Therian / Mesprit        |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Landorus-Therian / Tyranitar     |    1 |  16.67% |   0.00% |
+| 1    | Raging Bolt / Iron Crown / Tyranitar / Mesprit              |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Mesprit / Tapu Bulu         |    1 |  16.67% |   0.00% |
+| 1    | Tyranitar / Landorus-Therian / Mesprit / Tapu Bulu          |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Tyranitar / Tapu Bulu       |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Tyranitar / Mesprit / Tapu Bulu                |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Mesprit / Tyranitar         |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Zapdos / Tapu Fini            |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Zapdos / Tapu Fini / Great Tusk                |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Zapdos / Tapu Fini / Sceptile                  |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Tapu Fini / Great Tusk        |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Sceptile / Tapu Fini          |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Sceptile / Tapu Fini / Great Tusk              |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Zapdos / Tapu Fini / Great Tusk            |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Slowking-Galar / Zapdos / Tapu Fini              |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Zapdos / Tapu Fini / Great Tusk                  |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Slowking-Galar / Tapu Fini / Great Tusk          |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Zapdos / Great Tusk           |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Zapdos / Sceptile             |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Zapdos / Great Tusk / Sceptile                 |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Sceptile / Great Tusk         |    1 |  16.67% |   0.00% |
+| 1    | Sceptile / Slowking-Galar / Zapdos / Great Tusk             |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Glaceon / Zamazenta-* / Golisopod                 |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Zamazenta-* / Landorus-Therian / Golisopod        |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Zamazenta-* / Slowking-Galar / Golisopod          |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Diancie / Landorus-Therian / Golisopod            |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Diancie / Slowking-Galar / Golisopod              |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Landorus-Therian / Slowking-Galar / Golisopod     |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Glaceon / Zamazenta-* / Landorus-Therian          |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Glaceon / Zamazenta-* / Slowking-Galar            |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Zamazenta-* / Slowking-Galar / Landorus-Therian   |    1 |  16.67% |   0.00% |
+| 1    | Glaceon / Diancie / Slowking-Galar / Landorus-Therian       |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Landorus-Therian / Zamazenta-* / Golisopod        |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Zamazenta-* / Slowking-Galar / Golisopod          |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Zamazenta-* / Slowking-Galar / Golisopod |    1 |  16.67% |   0.00% |
+| 1    | Landorus-Therian / Diancie / Slowking-Galar / Golisopod     |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Landorus-Therian / Zamazenta-* / Slowking-Galar   |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Landorus-Therian / Tyranitar / Espeon / Aegislash / Golisopod         |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Espeon / Aegislash / Golisopod / Meowscarada       |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tyranitar / Espeon / Aegislash / Meowscarada       |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Espeon / Aegislash / Golisopod / Meowscarada              |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tyranitar / Espeon / Golisopod / Meowscarada       |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Landorus-Therian / Aegislash / Golisopod / Meowscarada    |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Melmetal / Tapu Fini / Absol / Magearna            |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Tapu Fini / Absol / Magearna    |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Melmetal / Tapu Fini / Magearna |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Melmetal / Absol / Magearna     |    1 |  16.67% | 100.00% |
+| 1    | Tornadus-Therian / Melmetal / Tapu Fini / Absol / Magearna            |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Melmetal / Tapu Fini / Absol    |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Sylveon / Tapu Koko / Runerigus / Lopunny                |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Sylveon / Tapu Koko / Skarmory / Runerigus               |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Sylveon / Skarmory / Runerigus / Lopunny                 |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Tapu Koko / Skarmory / Runerigus / Lopunny               |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Sylveon / Tapu Koko / Skarmory / Lopunny                 |    1 |  16.67% | 100.00% |
+| 1    | Sylveon / Tapu Koko / Skarmory / Runerigus / Lopunny                  |    1 |  16.67% | 100.00% |
+| 1    | Iron Crown / Landorus-Therian / Mesprit / Raging Bolt / Tapu Bulu     |    1 |  16.67% |   0.00% |
+| 1    | Tyranitar / Landorus-Therian / Mesprit / Raging Bolt / Tapu Bulu      |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Tyranitar / Raging Bolt / Tapu Bulu   |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Tyranitar / Mesprit / Raging Bolt / Tapu Bulu            |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Tyranitar / Mesprit / Raging Bolt     |    1 |  16.67% |   0.00% |
+| 1    | Iron Crown / Landorus-Therian / Tyranitar / Mesprit / Tapu Bulu       |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Great Tusk / Zapdos / Tapu Fini         |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Zapdos / Tapu Fini / Sceptile           |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Great Tusk / Zapdos / Tapu Fini / Sceptile               |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Great Tusk / Sceptile / Tapu Fini       |    1 |  16.67% |   0.00% |
+| 1    | Slowking-Galar / Great Tusk / Zapdos / Sceptile / Tapu Fini           |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Great Tusk / Zapdos / Sceptile          |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Zamazenta-* / Landorus-Therian / Golisopod / Glaceon        |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Zamazenta-* / Slowking-Galar / Golisopod / Glaceon          |    1 |  16.67% |   0.00% |
+| 1    | Zamazenta-* / Slowking-Galar / Landorus-Therian / Golisopod / Glaceon |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Slowking-Galar / Landorus-Therian / Golisopod / Glaceon     |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Zamazenta-* / Slowking-Galar / Landorus-Therian / Glaceon   |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Landorus-Therian / Zamazenta-* / Slowking-Galar / Golisopod |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Landorus-Therian / Tyranitar / Espeon / Aegislash / Golisopod / Meowscarada     |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Therian / Tornadus-Therian / Melmetal / Tapu Fini / Absol / Magearna   |    1 |  16.67% | 100.00% |
+| 1    | Escavalier / Sylveon / Tapu Koko / Skarmory / Runerigus / Lopunny               |    1 |  16.67% | 100.00% |
+| 1    | Iron Crown / Landorus-Therian / Tyranitar / Mesprit / Raging Bolt / Tapu Bulu   |    1 |  16.67% |   0.00% |
+| 1    | Escavalier / Slowking-Galar / Great Tusk / Zapdos / Tapu Fini / Sceptile        |    1 |  16.67% |   0.00% |
+| 1    | Diancie / Zamazenta-* / Landorus-Therian / Slowking-Galar / Golisopod / Glaceon |    1 |  16.67% |   0.00% |
