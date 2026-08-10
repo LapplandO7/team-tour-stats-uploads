@@ -1,0 +1,271 @@
++ ---- + -------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                | Use  | Usage % |  Win %  |
++ ---- + -------------------------- + ---- + ------- + ------- +
+| 1    | Persian / Probopass        |    3 |  50.00% |  66.67% |
+| 2    | Persian / Golbat           |    2 |  33.33% | 100.00% |
+| 2    | Persian / Phione           |    2 |  33.33% | 100.00% |
+| 2    | Persian / Fearow           |    2 |  33.33% | 100.00% |
+| 2    | Persian / Ivysaur          |    2 |  33.33% | 100.00% |
+| 2    | Probopass / Golbat         |    2 |  33.33% | 100.00% |
+| 2    | Probopass / Phione         |    2 |  33.33% | 100.00% |
+| 2    | Fearow / Probopass         |    2 |  33.33% | 100.00% |
+| 2    | Ivysaur / Probopass        |    2 |  33.33% | 100.00% |
+| 2    | Golbat / Phione            |    2 |  33.33% | 100.00% |
+| 2    | Fearow / Golbat            |    2 |  33.33% | 100.00% |
+| 2    | Ivysaur / Golbat           |    2 |  33.33% | 100.00% |
+| 2    | Fearow / Phione            |    2 |  33.33% | 100.00% |
+| 2    | Ivysaur / Phione           |    2 |  33.33% | 100.00% |
+| 2    | Ivysaur / Fearow           |    2 |  33.33% | 100.00% |
+| 2    | Persian / Pelipper         |    2 |  33.33% |   0.00% |
+| 17   | Wailord / Bastiodon        |    1 |  16.67% | 100.00% |
+| 17   | Bastiodon / Budew          |    1 |  16.67% | 100.00% |
+| 17   | Kecleon / Bastiodon        |    1 |  16.67% | 100.00% |
+| 17   | Seadra / Bastiodon         |    1 |  16.67% | 100.00% |
+| 17   | Wailord / Budew            |    1 |  16.67% | 100.00% |
+| 17   | Wailord / Kecleon          |    1 |  16.67% | 100.00% |
+| 17   | Wailord / Seadra           |    1 |  16.67% | 100.00% |
+| 17   | Kecleon / Budew            |    1 |  16.67% | 100.00% |
+| 17   | Seadra / Budew             |    1 |  16.67% | 100.00% |
+| 17   | Kecleon / Seadra           |    1 |  16.67% | 100.00% |
+| 17   | Probopass / Flareon        |    1 |  16.67% |   0.00% |
+| 17   | Flareon / Cherrim          |    1 |  16.67% |   0.00% |
+| 17   | Seviper / Flareon          |    1 |  16.67% |   0.00% |
+| 17   | Flareon / Pelipper         |    1 |  16.67% |   0.00% |
+| 17   | Persian / Flareon          |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Cherrim        |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Seviper        |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Pelipper       |    1 |  16.67% |   0.00% |
+| 17   | Seviper / Cherrim          |    1 |  16.67% |   0.00% |
+| 17   | Pelipper / Cherrim         |    1 |  16.67% |   0.00% |
+| 17   | Persian / Cherrim          |    1 |  16.67% |   0.00% |
+| 17   | Seviper / Pelipper         |    1 |  16.67% |   0.00% |
+| 17   | Persian / Seviper          |    1 |  16.67% |   0.00% |
+| 17   | Combusken / Wormadam-Trash |    1 |  16.67% |   0.00% |
+| 17   | Combusken / Pelipper       |    1 |  16.67% |   0.00% |
+| 17   | Combusken / Persian        |    1 |  16.67% |   0.00% |
+| 17   | Combusken / Carnivine      |    1 |  16.67% |   0.00% |
+| 17   | Combusken / Raticate       |    1 |  16.67% |   0.00% |
+| 17   | Wormadam-Trash / Pelipper  |    1 |  16.67% |   0.00% |
+| 17   | Wormadam-Trash / Persian   |    1 |  16.67% |   0.00% |
+| 17   | Wormadam-Trash / Carnivine |    1 |  16.67% |   0.00% |
+| 17   | Wormadam-Trash / Raticate  |    1 |  16.67% |   0.00% |
+| 17   | Carnivine / Pelipper       |    1 |  16.67% |   0.00% |
+| 17   | Raticate / Pelipper        |    1 |  16.67% |   0.00% |
+| 17   | Persian / Carnivine        |    1 |  16.67% |   0.00% |
+| 17   | Persian / Raticate         |    1 |  16.67% |   0.00% |
+| 17   | Raticate / Carnivine       |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Granbull       |    1 |  16.67% |   0.00% |
+| 17   | Whiscash / Granbull        |    1 |  16.67% |   0.00% |
+| 17   | Granbull / Luxray          |    1 |  16.67% |   0.00% |
+| 17   | Dunsparce / Granbull       |    1 |  16.67% |   0.00% |
+| 17   | Lunatone / Granbull        |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Whiscash       |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Luxray         |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Dunsparce      |    1 |  16.67% |   0.00% |
+| 17   | Probopass / Lunatone       |    1 |  16.67% |   0.00% |
+| 17   | Whiscash / Luxray          |    1 |  16.67% |   0.00% |
+| 17   | Whiscash / Dunsparce       |    1 |  16.67% |   0.00% |
+| 17   | Whiscash / Lunatone        |    1 |  16.67% |   0.00% |
+| 17   | Dunsparce / Luxray         |    1 |  16.67% |   0.00% |
+| 17   | Lunatone / Luxray          |    1 |  16.67% |   0.00% |
+| 17   | Dunsparce / Lunatone       |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                            | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| 1    | Persian / Probopass / Golbat           |    2 |  33.33% | 100.00% |
+| 1    | Persian / Probopass / Phione           |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Probopass           |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Probopass          |    2 |  33.33% | 100.00% |
+| 1    | Persian / Golbat / Phione              |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Golbat              |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Golbat             |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Phione              |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Phione             |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Fearow             |    2 |  33.33% | 100.00% |
+| 1    | Probopass / Golbat / Phione            |    2 |  33.33% | 100.00% |
+| 1    | Fearow / Probopass / Golbat            |    2 |  33.33% | 100.00% |
+| 1    | Ivysaur / Probopass / Golbat           |    2 |  33.33% | 100.00% |
+| 1    | Fearow / Probopass / Phione            |    2 |  33.33% | 100.00% |
+| 1    | Ivysaur / Probopass / Phione           |    2 |  33.33% | 100.00% |
+| 1    | Fearow / Probopass / Ivysaur           |    2 |  33.33% | 100.00% |
+| 1    | Fearow / Golbat / Phione               |    2 |  33.33% | 100.00% |
+| 1    | Ivysaur / Golbat / Phione              |    2 |  33.33% | 100.00% |
+| 1    | Ivysaur / Fearow / Golbat              |    2 |  33.33% | 100.00% |
+| 1    | Ivysaur / Fearow / Phione              |    2 |  33.33% | 100.00% |
+| 21   | Wailord / Bastiodon / Budew            |    1 |  16.67% | 100.00% |
+| 21   | Wailord / Kecleon / Bastiodon          |    1 |  16.67% | 100.00% |
+| 21   | Wailord / Seadra / Bastiodon           |    1 |  16.67% | 100.00% |
+| 21   | Kecleon / Bastiodon / Budew            |    1 |  16.67% | 100.00% |
+| 21   | Seadra / Bastiodon / Budew             |    1 |  16.67% | 100.00% |
+| 21   | Kecleon / Bastiodon / Seadra           |    1 |  16.67% | 100.00% |
+| 21   | Wailord / Kecleon / Budew              |    1 |  16.67% | 100.00% |
+| 21   | Wailord / Seadra / Budew               |    1 |  16.67% | 100.00% |
+| 21   | Wailord / Kecleon / Seadra             |    1 |  16.67% | 100.00% |
+| 21   | Kecleon / Seadra / Budew               |    1 |  16.67% | 100.00% |
+| 21   | Probopass / Flareon / Cherrim          |    1 |  16.67% |   0.00% |
+| 21   | Seviper / Probopass / Flareon          |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Flareon / Pelipper         |    1 |  16.67% |   0.00% |
+| 21   | Persian / Probopass / Flareon          |    1 |  16.67% |   0.00% |
+| 21   | Seviper / Flareon / Cherrim            |    1 |  16.67% |   0.00% |
+| 21   | Pelipper / Flareon / Cherrim           |    1 |  16.67% |   0.00% |
+| 21   | Persian / Flareon / Cherrim            |    1 |  16.67% |   0.00% |
+| 21   | Seviper / Flareon / Pelipper           |    1 |  16.67% |   0.00% |
+| 21   | Persian / Seviper / Flareon            |    1 |  16.67% |   0.00% |
+| 21   | Persian / Flareon / Pelipper           |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Seviper / Cherrim          |    1 |  16.67% |   0.00% |
+| 21   | Pelipper / Probopass / Cherrim         |    1 |  16.67% |   0.00% |
+| 21   | Persian / Probopass / Cherrim          |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Seviper / Pelipper         |    1 |  16.67% |   0.00% |
+| 21   | Persian / Probopass / Seviper          |    1 |  16.67% |   0.00% |
+| 21   | Persian / Probopass / Pelipper         |    1 |  16.67% |   0.00% |
+| 21   | Pelipper / Seviper / Cherrim           |    1 |  16.67% |   0.00% |
+| 21   | Persian / Seviper / Cherrim            |    1 |  16.67% |   0.00% |
+| 21   | Persian / Pelipper / Cherrim           |    1 |  16.67% |   0.00% |
+| 21   | Persian / Seviper / Pelipper           |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Wormadam-Trash / Pelipper  |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Persian / Wormadam-Trash   |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Wormadam-Trash / Carnivine |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Raticate / Wormadam-Trash  |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Persian / Pelipper         |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Carnivine / Pelipper       |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Raticate / Pelipper        |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Persian / Carnivine        |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Persian / Raticate         |    1 |  16.67% |   0.00% |
+| 21   | Combusken / Raticate / Carnivine       |    1 |  16.67% |   0.00% |
+| 21   | Wormadam-Trash / Persian / Pelipper    |    1 |  16.67% |   0.00% |
+| 21   | Wormadam-Trash / Carnivine / Pelipper  |    1 |  16.67% |   0.00% |
+| 21   | Wormadam-Trash / Raticate / Pelipper   |    1 |  16.67% |   0.00% |
+| 21   | Wormadam-Trash / Persian / Carnivine   |    1 |  16.67% |   0.00% |
+| 21   | Wormadam-Trash / Persian / Raticate    |    1 |  16.67% |   0.00% |
+| 21   | Wormadam-Trash / Raticate / Carnivine  |    1 |  16.67% |   0.00% |
+| 21   | Persian / Carnivine / Pelipper         |    1 |  16.67% |   0.00% |
+| 21   | Persian / Raticate / Pelipper          |    1 |  16.67% |   0.00% |
+| 21   | Raticate / Carnivine / Pelipper        |    1 |  16.67% |   0.00% |
+| 21   | Persian / Raticate / Carnivine         |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Whiscash / Granbull        |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Granbull / Luxray          |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Dunsparce / Granbull       |    1 |  16.67% |   0.00% |
+| 21   | Lunatone / Probopass / Granbull        |    1 |  16.67% |   0.00% |
+| 21   | Whiscash / Granbull / Luxray           |    1 |  16.67% |   0.00% |
+| 21   | Whiscash / Dunsparce / Granbull        |    1 |  16.67% |   0.00% |
+| 21   | Lunatone / Whiscash / Granbull         |    1 |  16.67% |   0.00% |
+| 21   | Dunsparce / Granbull / Luxray          |    1 |  16.67% |   0.00% |
+| 21   | Lunatone / Granbull / Luxray           |    1 |  16.67% |   0.00% |
+| 21   | Lunatone / Dunsparce / Granbull        |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Whiscash / Luxray          |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Whiscash / Dunsparce       |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Whiscash / Lunatone        |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Dunsparce / Luxray         |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Lunatone / Luxray          |    1 |  16.67% |   0.00% |
+| 21   | Probopass / Dunsparce / Lunatone       |    1 |  16.67% |   0.00% |
+| 21   | Whiscash / Dunsparce / Luxray          |    1 |  16.67% |   0.00% |
+| 21   | Whiscash / Lunatone / Luxray           |    1 |  16.67% |   0.00% |
+| 21   | Whiscash / Dunsparce / Lunatone        |    1 |  16.67% |   0.00% |
+| 21   | Dunsparce / Lunatone / Luxray          |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                       | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Persian / Probopass / Golbat / Phione             |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Probopass / Golbat             |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Probopass / Golbat            |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Probopass / Phione             |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Probopass / Phione            |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Probopass / Ivysaur            |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Golbat / Phione                |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Golbat / Phione               |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Fearow / Golbat               |    2 |  33.33% | 100.00% |
+| 1    | Persian / Ivysaur / Fearow / Phione               |    2 |  33.33% | 100.00% |
+| 1    | Fearow / Probopass / Golbat / Phione              |    2 |  33.33% | 100.00% |
+| 1    | Ivysaur / Probopass / Golbat / Phione             |    2 |  33.33% | 100.00% |
+| 1    | Fearow / Probopass / Ivysaur / Golbat             |    2 |  33.33% | 100.00% |
+| 1    | Fearow / Probopass / Ivysaur / Phione             |    2 |  33.33% | 100.00% |
+| 1    | Ivysaur / Fearow / Golbat / Phione                |    2 |  33.33% | 100.00% |
+| 16   | Wailord / Kecleon / Bastiodon / Budew             |    1 |  16.67% | 100.00% |
+| 16   | Wailord / Seadra / Bastiodon / Budew              |    1 |  16.67% | 100.00% |
+| 16   | Wailord / Kecleon / Bastiodon / Seadra            |    1 |  16.67% | 100.00% |
+| 16   | Kecleon / Bastiodon / Budew / Seadra              |    1 |  16.67% | 100.00% |
+| 16   | Wailord / Kecleon / Seadra / Budew                |    1 |  16.67% | 100.00% |
+| 16   | Seviper / Probopass / Flareon / Cherrim           |    1 |  16.67% |   0.00% |
+| 16   | Pelipper / Probopass / Flareon / Cherrim          |    1 |  16.67% |   0.00% |
+| 16   | Persian / Probopass / Flareon / Cherrim           |    1 |  16.67% |   0.00% |
+| 16   | Seviper / Probopass / Flareon / Pelipper          |    1 |  16.67% |   0.00% |
+| 16   | Persian / Seviper / Probopass / Flareon           |    1 |  16.67% |   0.00% |
+| 16   | Persian / Probopass / Flareon / Pelipper          |    1 |  16.67% |   0.00% |
+| 16   | Pelipper / Seviper / Flareon / Cherrim            |    1 |  16.67% |   0.00% |
+| 16   | Persian / Seviper / Flareon / Cherrim             |    1 |  16.67% |   0.00% |
+| 16   | Persian / Pelipper / Flareon / Cherrim            |    1 |  16.67% |   0.00% |
+| 16   | Persian / Seviper / Flareon / Pelipper            |    1 |  16.67% |   0.00% |
+| 16   | Pelipper / Probopass / Seviper / Cherrim          |    1 |  16.67% |   0.00% |
+| 16   | Persian / Probopass / Seviper / Cherrim           |    1 |  16.67% |   0.00% |
+| 16   | Pelipper / Probopass / Cherrim / Persian          |    1 |  16.67% |   0.00% |
+| 16   | Persian / Probopass / Seviper / Pelipper          |    1 |  16.67% |   0.00% |
+| 16   | Pelipper / Seviper / Cherrim / Persian            |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Persian / Wormadam-Trash / Pelipper   |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Wormadam-Trash / Carnivine / Pelipper |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Raticate / Wormadam-Trash / Pelipper  |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Persian / Wormadam-Trash / Carnivine  |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Raticate / Persian / Wormadam-Trash   |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Raticate / Wormadam-Trash / Carnivine |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Persian / Carnivine / Pelipper        |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Persian / Raticate / Pelipper         |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Raticate / Carnivine / Pelipper       |    1 |  16.67% |   0.00% |
+| 16   | Combusken / Persian / Raticate / Carnivine        |    1 |  16.67% |   0.00% |
+| 16   | Wormadam-Trash / Persian / Carnivine / Pelipper   |    1 |  16.67% |   0.00% |
+| 16   | Wormadam-Trash / Persian / Raticate / Pelipper    |    1 |  16.67% |   0.00% |
+| 16   | Wormadam-Trash / Raticate / Carnivine / Pelipper  |    1 |  16.67% |   0.00% |
+| 16   | Wormadam-Trash / Persian / Raticate / Carnivine   |    1 |  16.67% |   0.00% |
+| 16   | Persian / Raticate / Carnivine / Pelipper         |    1 |  16.67% |   0.00% |
+| 16   | Probopass / Whiscash / Granbull / Luxray          |    1 |  16.67% |   0.00% |
+| 16   | Probopass / Whiscash / Dunsparce / Granbull       |    1 |  16.67% |   0.00% |
+| 16   | Lunatone / Probopass / Whiscash / Granbull        |    1 |  16.67% |   0.00% |
+| 16   | Probopass / Dunsparce / Granbull / Luxray         |    1 |  16.67% |   0.00% |
+| 16   | Lunatone / Probopass / Granbull / Luxray          |    1 |  16.67% |   0.00% |
+| 16   | Lunatone / Probopass / Dunsparce / Granbull       |    1 |  16.67% |   0.00% |
+| 16   | Whiscash / Dunsparce / Granbull / Luxray          |    1 |  16.67% |   0.00% |
+| 16   | Lunatone / Whiscash / Granbull / Luxray           |    1 |  16.67% |   0.00% |
+| 16   | Lunatone / Whiscash / Dunsparce / Granbull        |    1 |  16.67% |   0.00% |
+| 16   | Lunatone / Dunsparce / Granbull / Luxray          |    1 |  16.67% |   0.00% |
+| 16   | Probopass / Whiscash / Dunsparce / Luxray         |    1 |  16.67% |   0.00% |
+| 16   | Probopass / Whiscash / Lunatone / Luxray          |    1 |  16.67% |   0.00% |
+| 16   | Probopass / Whiscash / Dunsparce / Lunatone       |    1 |  16.67% |   0.00% |
+| 16   | Probopass / Dunsparce / Lunatone / Luxray         |    1 |  16.67% |   0.00% |
+| 16   | Whiscash / Dunsparce / Lunatone / Luxray          |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Probopass / Persian / Fearow / Phione / Golbat               |    2 |  33.33% | 100.00% |
+| 1    | Probopass / Persian / Phione / Ivysaur / Golbat              |    2 |  33.33% | 100.00% |
+| 1    | Probopass / Persian / Fearow / Ivysaur / Golbat              |    2 |  33.33% | 100.00% |
+| 1    | Probopass / Persian / Fearow / Phione / Ivysaur              |    2 |  33.33% | 100.00% |
+| 1    | Persian / Fearow / Phione / Ivysaur / Golbat                 |    2 |  33.33% | 100.00% |
+| 1    | Probopass / Fearow / Phione / Ivysaur / Golbat               |    2 |  33.33% | 100.00% |
+| 7    | Seadra / Bastiodon / Budew / Wailord / Kecleon               |    1 |  16.67% | 100.00% |
+| 7    | Pelipper / Seviper / Probopass / Cherrim / Flareon           |    1 |  16.67% |   0.00% |
+| 7    | Seviper / Probopass / Persian / Cherrim / Flareon            |    1 |  16.67% |   0.00% |
+| 7    | Pelipper / Probopass / Persian / Cherrim / Flareon           |    1 |  16.67% |   0.00% |
+| 7    | Pelipper / Seviper / Probopass / Persian / Flareon           |    1 |  16.67% |   0.00% |
+| 7    | Pelipper / Seviper / Persian / Cherrim / Flareon             |    1 |  16.67% |   0.00% |
+| 7    | Pelipper / Probopass / Seviper / Persian / Cherrim           |    1 |  16.67% |   0.00% |
+| 7    | Wormadam-Trash / Pelipper / Persian / Combusken / Carnivine  |    1 |  16.67% |   0.00% |
+| 7    | Raticate / Wormadam-Trash / Pelipper / Persian / Combusken   |    1 |  16.67% |   0.00% |
+| 7    | Raticate / Wormadam-Trash / Pelipper / Combusken / Carnivine |    1 |  16.67% |   0.00% |
+| 7    | Raticate / Wormadam-Trash / Persian / Combusken / Carnivine  |    1 |  16.67% |   0.00% |
+| 7    | Raticate / Pelipper / Persian / Combusken / Carnivine        |    1 |  16.67% |   0.00% |
+| 7    | Raticate / Pelipper / Persian / Wormadam-Trash / Carnivine   |    1 |  16.67% |   0.00% |
+| 7    | Whiscash / Granbull / Probopass / Luxray / Dunsparce         |    1 |  16.67% |   0.00% |
+| 7    | Whiscash / Granbull / Probopass / Luxray / Lunatone          |    1 |  16.67% |   0.00% |
+| 7    | Whiscash / Granbull / Probopass / Dunsparce / Lunatone       |    1 |  16.67% |   0.00% |
+| 7    | Granbull / Probopass / Luxray / Dunsparce / Lunatone         |    1 |  16.67% |   0.00% |
+| 7    | Whiscash / Granbull / Luxray / Dunsparce / Lunatone          |    1 |  16.67% |   0.00% |
+| 7    | Whiscash / Probopass / Luxray / Dunsparce / Lunatone         |    1 |  16.67% |   0.00% |
+
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                            | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Probopass / Persian / Fearow / Phione / Ivysaur / Golbat               |    2 |  33.33% | 100.00% |
+| 2    | Pelipper / Seviper / Probopass / Persian / Cherrim / Flareon           |    1 |  16.67% |   0.00% |
+| 2    | Raticate / Wormadam-Trash / Pelipper / Persian / Combusken / Carnivine |    1 |  16.67% |   0.00% |
+| 2    | Whiscash / Granbull / Probopass / Luxray / Dunsparce / Lunatone        |    1 |  16.67% |   0.00% |
