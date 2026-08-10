@@ -1,0 +1,465 @@
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| 1    | Cobalion / Diggersby              |    2 |  25.00% | 100.00% |
+| 1    | Rotom-Wash / Cobalion             |    2 |  25.00% | 100.00% |
+| 1    | Rotom-Wash / Diggersby            |    2 |  25.00% | 100.00% |
+| 1    | Rotom-Wash / Amoonguss            |    2 |  25.00% |  50.00% |
+| 1    | Hippowdon / Mandibuzz             |    2 |  25.00% |  50.00% |
+| 1    | Hippowdon / Amoonguss             |    2 |  25.00% |  50.00% |
+| 1    | Rotom-Wash / Mandibuzz            |    2 |  25.00% |  50.00% |
+| 1    | Amoonguss / Mandibuzz             |    2 |  25.00% |  50.00% |
+| 9    | Amoonguss / Reuniclus             |    1 |  12.50% | 100.00% |
+| 9    | Salamence / Reuniclus             |    1 |  12.50% | 100.00% |
+| 9    | Cobalion / Reuniclus              |    1 |  12.50% | 100.00% |
+| 9    | Diggersby / Reuniclus             |    1 |  12.50% | 100.00% |
+| 9    | Rotom-Wash / Reuniclus            |    1 |  12.50% | 100.00% |
+| 9    | Amoonguss / Salamence             |    1 |  12.50% | 100.00% |
+| 9    | Cobalion / Amoonguss              |    1 |  12.50% | 100.00% |
+| 9    | Diggersby / Amoonguss             |    1 |  12.50% | 100.00% |
+| 9    | Cobalion / Salamence              |    1 |  12.50% | 100.00% |
+| 9    | Diggersby / Salamence             |    1 |  12.50% | 100.00% |
+| 9    | Rotom-Wash / Salamence            |    1 |  12.50% | 100.00% |
+| 9    | Rotom-Wash / Tapu Bulu            |    1 |  12.50% | 100.00% |
+| 9    | Rotom-Wash / Nidoqueen            |    1 |  12.50% | 100.00% |
+| 9    | Tapu Bulu / Mandibuzz             |    1 |  12.50% | 100.00% |
+| 9    | Tapu Bulu / Nidoqueen             |    1 |  12.50% | 100.00% |
+| 9    | Tapu Bulu / Cobalion              |    1 |  12.50% | 100.00% |
+| 9    | Tapu Bulu / Diggersby             |    1 |  12.50% | 100.00% |
+| 9    | Mandibuzz / Nidoqueen             |    1 |  12.50% | 100.00% |
+| 9    | Cobalion / Mandibuzz              |    1 |  12.50% | 100.00% |
+| 9    | Diggersby / Mandibuzz             |    1 |  12.50% | 100.00% |
+| 9    | Cobalion / Nidoqueen              |    1 |  12.50% | 100.00% |
+| 9    | Diggersby / Nidoqueen             |    1 |  12.50% | 100.00% |
+| 9    | Chansey / Zygarde-10%             |    1 |  12.50% | 100.00% |
+| 9    | Thundurus-Therian / Zygarde-10%   |    1 |  12.50% | 100.00% |
+| 9    | Slowbro-Galar / Zygarde-10%       |    1 |  12.50% | 100.00% |
+| 9    | Zygarde-10% / Salamence           |    1 |  12.50% | 100.00% |
+| 9    | Zygarde-10% / Scizor              |    1 |  12.50% | 100.00% |
+| 9    | Chansey / Thundurus-Therian       |    1 |  12.50% | 100.00% |
+| 9    | Chansey / Slowbro-Galar           |    1 |  12.50% | 100.00% |
+| 9    | Chansey / Salamence               |    1 |  12.50% | 100.00% |
+| 9    | Chansey / Scizor                  |    1 |  12.50% | 100.00% |
+| 9    | Slowbro-Galar / Thundurus-Therian |    1 |  12.50% | 100.00% |
+| 9    | Thundurus-Therian / Salamence     |    1 |  12.50% | 100.00% |
+| 9    | Thundurus-Therian / Scizor        |    1 |  12.50% | 100.00% |
+| 9    | Slowbro-Galar / Salamence         |    1 |  12.50% | 100.00% |
+| 9    | Slowbro-Galar / Scizor            |    1 |  12.50% | 100.00% |
+| 9    | Scizor / Salamence                |    1 |  12.50% | 100.00% |
+| 9    | Keldeo / Scizor                   |    1 |  12.50% | 100.00% |
+| 9    | Raikou / Scizor                   |    1 |  12.50% | 100.00% |
+| 9    | Amoonguss / Scizor                |    1 |  12.50% | 100.00% |
+| 9    | Scizor / Mandibuzz                |    1 |  12.50% | 100.00% |
+| 9    | Hippowdon / Scizor                |    1 |  12.50% | 100.00% |
+| 9    | Keldeo / Raikou                   |    1 |  12.50% | 100.00% |
+| 9    | Keldeo / Amoonguss                |    1 |  12.50% | 100.00% |
+| 9    | Keldeo / Mandibuzz                |    1 |  12.50% | 100.00% |
+| 9    | Hippowdon / Keldeo                |    1 |  12.50% | 100.00% |
+| 9    | Amoonguss / Raikou                |    1 |  12.50% | 100.00% |
+| 9    | Raikou / Mandibuzz                |    1 |  12.50% | 100.00% |
+| 9    | Hippowdon / Raikou                |    1 |  12.50% | 100.00% |
+| 9    | Crobat / Reuniclus                |    1 |  12.50% |   0.00% |
+| 9    | Excadrill / Reuniclus             |    1 |  12.50% |   0.00% |
+| 9    | Hydreigon / Reuniclus             |    1 |  12.50% |   0.00% |
+| 9    | Moltres / Reuniclus               |    1 |  12.50% |   0.00% |
+| 9    | Celesteela / Reuniclus            |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Excadrill                |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Hydreigon                |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Moltres                  |    1 |  12.50% |   0.00% |
+| 9    | Crobat / Celesteela               |    1 |  12.50% |   0.00% |
+| 9    | Excadrill / Hydreigon             |    1 |  12.50% |   0.00% |
+| 9    | Excadrill / Moltres               |    1 |  12.50% |   0.00% |
+| 9    | Celesteela / Excadrill            |    1 |  12.50% |   0.00% |
+| 9    | Moltres / Hydreigon               |    1 |  12.50% |   0.00% |
+| 9    | Celesteela / Hydreigon            |    1 |  12.50% |   0.00% |
+| 9    | Celesteela / Moltres              |    1 |  12.50% |   0.00% |
+| 9    | Rotom-Wash / Hippowdon            |    1 |  12.50% |   0.00% |
+| 9    | Excadrill / Hippowdon             |    1 |  12.50% |   0.00% |
+| 9    | Hippowdon / Suicune               |    1 |  12.50% |   0.00% |
+| 9    | Rotom-Wash / Excadrill            |    1 |  12.50% |   0.00% |
+| 9    | Rotom-Wash / Suicune              |    1 |  12.50% |   0.00% |
+| 9    | Excadrill / Mandibuzz             |    1 |  12.50% |   0.00% |
+| 9    | Suicune / Mandibuzz               |    1 |  12.50% |   0.00% |
+| 9    | Excadrill / Amoonguss             |    1 |  12.50% |   0.00% |
+| 9    | Amoonguss / Suicune               |    1 |  12.50% |   0.00% |
+| 9    | Excadrill / Suicune               |    1 |  12.50% |   0.00% |
+| 9    | Venusaur / Hatterene              |    1 |  12.50% |   0.00% |
+| 9    | Venusaur / Darmanitan             |    1 |  12.50% |   0.00% |
+| 9    | Venusaur / Rhyperior              |    1 |  12.50% |   0.00% |
+| 9    | Hydreigon / Venusaur              |    1 |  12.50% |   0.00% |
+| 9    | Ninetales / Venusaur              |    1 |  12.50% |   0.00% |
+| 9    | Darmanitan / Hatterene            |    1 |  12.50% |   0.00% |
+| 9    | Rhyperior / Hatterene             |    1 |  12.50% |   0.00% |
+| 9    | Hydreigon / Hatterene             |    1 |  12.50% |   0.00% |
+| 9    | Ninetales / Hatterene             |    1 |  12.50% |   0.00% |
+| 9    | Rhyperior / Darmanitan            |    1 |  12.50% |   0.00% |
+| 9    | Hydreigon / Darmanitan            |    1 |  12.50% |   0.00% |
+| 9    | Ninetales / Darmanitan            |    1 |  12.50% |   0.00% |
+| 9    | Hydreigon / Rhyperior             |    1 |  12.50% |   0.00% |
+| 9    | Ninetales / Rhyperior             |    1 |  12.50% |   0.00% |
+| 9    | Ninetales / Hydreigon             |    1 |  12.50% |   0.00% |
+| 9    | Froslass / Cobalion               |    1 |  12.50% |   0.00% |
+| 9    | Froslass / Gyarados               |    1 |  12.50% |   0.00% |
+| 9    | Froslass / Keldeo                 |    1 |  12.50% |   0.00% |
+| 9    | Froslass / Necrozma               |    1 |  12.50% |   0.00% |
+| 9    | Froslass / Zygarde-10%            |    1 |  12.50% |   0.00% |
+| 9    | Gyarados / Cobalion               |    1 |  12.50% |   0.00% |
+| 9    | Keldeo / Cobalion                 |    1 |  12.50% |   0.00% |
+| 9    | Necrozma / Cobalion               |    1 |  12.50% |   0.00% |
+| 9    | Cobalion / Zygarde-10%            |    1 |  12.50% |   0.00% |
+| 9    | Gyarados / Keldeo                 |    1 |  12.50% |   0.00% |
+| 9    | Necrozma / Gyarados               |    1 |  12.50% |   0.00% |
+| 9    | Gyarados / Zygarde-10%            |    1 |  12.50% |   0.00% |
+| 9    | Necrozma / Keldeo                 |    1 |  12.50% |   0.00% |
+| 9    | Keldeo / Zygarde-10%              |    1 |  12.50% |   0.00% |
+| 9    | Necrozma / Zygarde-10%            |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Rotom-Wash / Cobalion / Diggersby               |    2 |  25.00% | 100.00% |
+| 1    | Hippowdon / Amoonguss / Mandibuzz               |    2 |  25.00% |  50.00% |
+| 3    | Salamence / Amoonguss / Reuniclus               |    1 |  12.50% | 100.00% |
+| 3    | Cobalion / Amoonguss / Reuniclus                |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Amoonguss / Reuniclus               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Amoonguss / Reuniclus              |    1 |  12.50% | 100.00% |
+| 3    | Cobalion / Salamence / Reuniclus                |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Salamence / Reuniclus               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Salamence / Reuniclus              |    1 |  12.50% | 100.00% |
+| 3    | Cobalion / Diggersby / Reuniclus                |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Cobalion / Reuniclus               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Diggersby / Reuniclus              |    1 |  12.50% | 100.00% |
+| 3    | Cobalion / Amoonguss / Salamence                |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Amoonguss / Salamence               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Amoonguss / Salamence              |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Cobalion / Amoonguss                |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Cobalion / Amoonguss               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Diggersby / Amoonguss              |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Cobalion / Salamence                |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Cobalion / Salamence               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Diggersby / Salamence              |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Tapu Bulu / Mandibuzz              |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Tapu Bulu / Nidoqueen              |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Tapu Bulu / Cobalion               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Tapu Bulu / Diggersby              |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Mandibuzz / Nidoqueen              |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Cobalion / Mandibuzz               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Diggersby / Mandibuzz              |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Cobalion / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 3    | Rotom-Wash / Diggersby / Nidoqueen              |    1 |  12.50% | 100.00% |
+| 3    | Tapu Bulu / Mandibuzz / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 3    | Tapu Bulu / Cobalion / Mandibuzz                |    1 |  12.50% | 100.00% |
+| 3    | Tapu Bulu / Diggersby / Mandibuzz               |    1 |  12.50% | 100.00% |
+| 3    | Tapu Bulu / Cobalion / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 3    | Tapu Bulu / Diggersby / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 3    | Tapu Bulu / Cobalion / Diggersby                |    1 |  12.50% | 100.00% |
+| 3    | Cobalion / Mandibuzz / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Mandibuzz / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 3    | Cobalion / Diggersby / Mandibuzz                |    1 |  12.50% | 100.00% |
+| 3    | Cobalion / Diggersby / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Thundurus-Therian / Zygarde-10%       |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Slowbro-Galar / Zygarde-10%           |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Zygarde-10% / Salamence               |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Zygarde-10% / Scizor                  |    1 |  12.50% | 100.00% |
+| 3    | Slowbro-Galar / Thundurus-Therian / Zygarde-10% |    1 |  12.50% | 100.00% |
+| 3    | Thundurus-Therian / Zygarde-10% / Salamence     |    1 |  12.50% | 100.00% |
+| 3    | Thundurus-Therian / Zygarde-10% / Scizor        |    1 |  12.50% | 100.00% |
+| 3    | Slowbro-Galar / Zygarde-10% / Salamence         |    1 |  12.50% | 100.00% |
+| 3    | Slowbro-Galar / Zygarde-10% / Scizor            |    1 |  12.50% | 100.00% |
+| 3    | Scizor / Zygarde-10% / Salamence                |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Slowbro-Galar / Thundurus-Therian     |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Thundurus-Therian / Salamence         |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Thundurus-Therian / Scizor            |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Slowbro-Galar / Salamence             |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Slowbro-Galar / Scizor                |    1 |  12.50% | 100.00% |
+| 3    | Chansey / Scizor / Salamence                    |    1 |  12.50% | 100.00% |
+| 3    | Slowbro-Galar / Thundurus-Therian / Salamence   |    1 |  12.50% | 100.00% |
+| 3    | Slowbro-Galar / Thundurus-Therian / Scizor      |    1 |  12.50% | 100.00% |
+| 3    | Scizor / Thundurus-Therian / Salamence          |    1 |  12.50% | 100.00% |
+| 3    | Slowbro-Galar / Salamence / Scizor              |    1 |  12.50% | 100.00% |
+| 3    | Raikou / Keldeo / Scizor                        |    1 |  12.50% | 100.00% |
+| 3    | Amoonguss / Keldeo / Scizor                     |    1 |  12.50% | 100.00% |
+| 3    | Keldeo / Scizor / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Keldeo / Scizor                     |    1 |  12.50% | 100.00% |
+| 3    | Amoonguss / Raikou / Scizor                     |    1 |  12.50% | 100.00% |
+| 3    | Raikou / Scizor / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Raikou / Scizor                     |    1 |  12.50% | 100.00% |
+| 3    | Amoonguss / Scizor / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Amoonguss / Scizor                  |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Scizor / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 3    | Amoonguss / Keldeo / Raikou                     |    1 |  12.50% | 100.00% |
+| 3    | Keldeo / Raikou / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Keldeo / Raikou                     |    1 |  12.50% | 100.00% |
+| 3    | Keldeo / Amoonguss / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Keldeo / Amoonguss                  |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Keldeo / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 3    | Amoonguss / Raikou / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Amoonguss / Raikou                  |    1 |  12.50% | 100.00% |
+| 3    | Hippowdon / Raikou / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 3    | Crobat / Excadrill / Reuniclus                  |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Hydreigon / Reuniclus                  |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Moltres / Reuniclus                    |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Celesteela / Reuniclus                 |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Hydreigon / Reuniclus               |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Moltres / Reuniclus                 |    1 |  12.50% |   0.00% |
+| 3    | Celesteela / Excadrill / Reuniclus              |    1 |  12.50% |   0.00% |
+| 3    | Moltres / Hydreigon / Reuniclus                 |    1 |  12.50% |   0.00% |
+| 3    | Celesteela / Hydreigon / Reuniclus              |    1 |  12.50% |   0.00% |
+| 3    | Celesteela / Moltres / Reuniclus                |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Excadrill / Hydreigon                  |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Excadrill / Moltres                    |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Excadrill / Celesteela                 |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Moltres / Hydreigon                    |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Hydreigon / Celesteela                 |    1 |  12.50% |   0.00% |
+| 3    | Crobat / Moltres / Celesteela                   |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Hydreigon / Moltres                 |    1 |  12.50% |   0.00% |
+| 3    | Celesteela / Excadrill / Hydreigon              |    1 |  12.50% |   0.00% |
+| 3    | Celesteela / Excadrill / Moltres                |    1 |  12.50% |   0.00% |
+| 3    | Celesteela / Moltres / Hydreigon                |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Hippowdon / Mandibuzz              |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Hippowdon / Amoonguss              |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Excadrill / Hippowdon              |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Hippowdon / Suicune                |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Hippowdon / Mandibuzz               |    1 |  12.50% |   0.00% |
+| 3    | Hippowdon / Suicune / Mandibuzz                 |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Hippowdon / Amoonguss               |    1 |  12.50% |   0.00% |
+| 3    | Hippowdon / Amoonguss / Suicune                 |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Hippowdon / Suicune                 |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Amoonguss / Mandibuzz              |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Excadrill / Mandibuzz              |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Suicune / Mandibuzz                |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Excadrill / Amoonguss              |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Amoonguss / Suicune                |    1 |  12.50% |   0.00% |
+| 3    | Rotom-Wash / Excadrill / Suicune                |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Amoonguss / Mandibuzz               |    1 |  12.50% |   0.00% |
+| 3    | Suicune / Amoonguss / Mandibuzz                 |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Suicune / Mandibuzz                 |    1 |  12.50% |   0.00% |
+| 3    | Excadrill / Amoonguss / Suicune                 |    1 |  12.50% |   0.00% |
+| 3    | Venusaur / Darmanitan / Hatterene               |    1 |  12.50% |   0.00% |
+| 3    | Rhyperior / Venusaur / Hatterene                |    1 |  12.50% |   0.00% |
+| 3    | Hydreigon / Venusaur / Hatterene                |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Venusaur / Hatterene                |    1 |  12.50% |   0.00% |
+| 3    | Rhyperior / Venusaur / Darmanitan               |    1 |  12.50% |   0.00% |
+| 3    | Hydreigon / Venusaur / Darmanitan               |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Venusaur / Darmanitan               |    1 |  12.50% |   0.00% |
+| 3    | Hydreigon / Venusaur / Rhyperior                |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Venusaur / Rhyperior                |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Hydreigon / Venusaur                |    1 |  12.50% |   0.00% |
+| 3    | Rhyperior / Darmanitan / Hatterene              |    1 |  12.50% |   0.00% |
+| 3    | Hydreigon / Darmanitan / Hatterene              |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Darmanitan / Hatterene              |    1 |  12.50% |   0.00% |
+| 3    | Rhyperior / Hydreigon / Hatterene               |    1 |  12.50% |   0.00% |
+| 3    | Rhyperior / Ninetales / Hatterene               |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Hydreigon / Hatterene               |    1 |  12.50% |   0.00% |
+| 3    | Rhyperior / Hydreigon / Darmanitan              |    1 |  12.50% |   0.00% |
+| 3    | Rhyperior / Ninetales / Darmanitan              |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Hydreigon / Darmanitan              |    1 |  12.50% |   0.00% |
+| 3    | Ninetales / Hydreigon / Rhyperior               |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Gyarados / Cobalion                  |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Keldeo / Cobalion                    |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Cobalion / Necrozma                  |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Cobalion / Zygarde-10%               |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Gyarados / Keldeo                    |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Gyarados / Necrozma                  |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Gyarados / Zygarde-10%               |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Keldeo / Necrozma                    |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Keldeo / Zygarde-10%                 |    1 |  12.50% |   0.00% |
+| 3    | Froslass / Zygarde-10% / Necrozma               |    1 |  12.50% |   0.00% |
+| 3    | Gyarados / Keldeo / Cobalion                    |    1 |  12.50% |   0.00% |
+| 3    | Necrozma / Gyarados / Cobalion                  |    1 |  12.50% |   0.00% |
+| 3    | Gyarados / Cobalion / Zygarde-10%               |    1 |  12.50% |   0.00% |
+| 3    | Necrozma / Keldeo / Cobalion                    |    1 |  12.50% |   0.00% |
+| 3    | Keldeo / Cobalion / Zygarde-10%                 |    1 |  12.50% |   0.00% |
+| 3    | Necrozma / Cobalion / Zygarde-10%               |    1 |  12.50% |   0.00% |
+| 3    | Necrozma / Gyarados / Keldeo                    |    1 |  12.50% |   0.00% |
+| 3    | Gyarados / Keldeo / Zygarde-10%                 |    1 |  12.50% |   0.00% |
+| 3    | Necrozma / Gyarados / Zygarde-10%               |    1 |  12.50% |   0.00% |
+| 3    | Necrozma / Keldeo / Zygarde-10%                 |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                 | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Salamence / Cobalion / Amoonguss / Reuniclus                |    1 |  12.50% | 100.00% |
+| 1    | Salamence / Diggersby / Amoonguss / Reuniclus               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Salamence / Amoonguss / Reuniclus              |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Cobalion / Amoonguss / Reuniclus                |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Cobalion / Amoonguss / Reuniclus               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Diggersby / Amoonguss / Reuniclus              |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Cobalion / Salamence / Reuniclus                |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Cobalion / Salamence / Reuniclus               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Diggersby / Salamence / Reuniclus              |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Cobalion / Diggersby / Reuniclus               |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Cobalion / Amoonguss / Salamence                |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Cobalion / Amoonguss / Salamence               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Diggersby / Amoonguss / Salamence              |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Cobalion / Amoonguss / Rotom-Wash               |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Cobalion / Salamence / Rotom-Wash               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Tapu Bulu / Mandibuzz / Nidoqueen              |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Tapu Bulu / Cobalion / Mandibuzz               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Tapu Bulu / Diggersby / Mandibuzz              |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Tapu Bulu / Cobalion / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Tapu Bulu / Diggersby / Nidoqueen              |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Tapu Bulu / Cobalion / Diggersby               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Cobalion / Mandibuzz / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Diggersby / Mandibuzz / Nidoqueen              |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Cobalion / Diggersby / Mandibuzz               |    1 |  12.50% | 100.00% |
+| 1    | Rotom-Wash / Cobalion / Diggersby / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Cobalion / Mandibuzz / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Diggersby / Mandibuzz / Nidoqueen               |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Cobalion / Diggersby / Mandibuzz                |    1 |  12.50% | 100.00% |
+| 1    | Tapu Bulu / Cobalion / Diggersby / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 1    | Cobalion / Diggersby / Mandibuzz / Nidoqueen                |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Slowbro-Galar / Thundurus-Therian / Zygarde-10%   |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Thundurus-Therian / Zygarde-10% / Salamence       |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Thundurus-Therian / Zygarde-10% / Scizor          |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Slowbro-Galar / Zygarde-10% / Salamence           |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Slowbro-Galar / Zygarde-10% / Scizor              |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Scizor / Zygarde-10% / Salamence                  |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Thundurus-Therian / Zygarde-10% / Salamence |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Thundurus-Therian / Zygarde-10% / Scizor    |    1 |  12.50% | 100.00% |
+| 1    | Scizor / Thundurus-Therian / Zygarde-10% / Salamence        |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Zygarde-10% / Salamence / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Slowbro-Galar / Thundurus-Therian / Salamence     |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Slowbro-Galar / Thundurus-Therian / Scizor        |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Scizor / Thundurus-Therian / Salamence            |    1 |  12.50% | 100.00% |
+| 1    | Chansey / Slowbro-Galar / Salamence / Scizor                |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Thundurus-Therian / Salamence / Scizor      |    1 |  12.50% | 100.00% |
+| 1    | Raikou / Amoonguss / Keldeo / Scizor                        |    1 |  12.50% | 100.00% |
+| 1    | Raikou / Keldeo / Scizor / Mandibuzz                        |    1 |  12.50% | 100.00% |
+| 1    | Raikou / Hippowdon / Keldeo / Scizor                        |    1 |  12.50% | 100.00% |
+| 1    | Amoonguss / Keldeo / Scizor / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Amoonguss / Keldeo / Scizor                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Scizor / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 1    | Amoonguss / Raikou / Scizor / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Amoonguss / Raikou / Scizor                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Raikou / Scizor / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Amoonguss / Scizor / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 1    | Amoonguss / Keldeo / Raikou / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Amoonguss / Keldeo / Raikou                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Raikou / Mandibuzz                     |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Amoonguss / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Amoonguss / Raikou / Mandibuzz                  |    1 |  12.50% | 100.00% |
+| 1    | Crobat / Excadrill / Hydreigon / Reuniclus                  |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Excadrill / Moltres / Reuniclus                    |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Excadrill / Celesteela / Reuniclus                 |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Moltres / Hydreigon / Reuniclus                    |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Hydreigon / Celesteela / Reuniclus                 |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Moltres / Celesteela / Reuniclus                   |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Hydreigon / Reuniclus / Moltres                 |    1 |  12.50% |   0.00% |
+| 1    | Celesteela / Excadrill / Hydreigon / Reuniclus              |    1 |  12.50% |   0.00% |
+| 1    | Celesteela / Excadrill / Moltres / Reuniclus                |    1 |  12.50% |   0.00% |
+| 1    | Celesteela / Moltres / Hydreigon / Reuniclus                |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Excadrill / Hydreigon / Moltres                    |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Excadrill / Hydreigon / Celesteela                 |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Excadrill / Moltres / Celesteela                   |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Moltres / Hydreigon / Celesteela                   |    1 |  12.50% |   0.00% |
+| 1    | Celesteela / Excadrill / Hydreigon / Moltres                |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Hippowdon / Amoonguss / Mandibuzz              |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Excadrill / Hippowdon / Mandibuzz              |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Hippowdon / Suicune / Mandibuzz                |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Excadrill / Hippowdon / Amoonguss              |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Hippowdon / Amoonguss / Suicune                |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Excadrill / Hippowdon / Suicune                |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Hippowdon / Amoonguss / Mandibuzz               |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Suicune / Amoonguss / Mandibuzz                 |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Hippowdon / Suicune / Mandibuzz                 |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Hippowdon / Amoonguss / Suicune                 |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Excadrill / Amoonguss / Mandibuzz              |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Suicune / Amoonguss / Mandibuzz                |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Excadrill / Suicune / Mandibuzz                |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Excadrill / Amoonguss / Suicune                |    1 |  12.50% |   0.00% |
+| 1    | Excadrill / Suicune / Amoonguss / Mandibuzz                 |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Venusaur / Darmanitan / Hatterene               |    1 |  12.50% |   0.00% |
+| 1    | Hydreigon / Venusaur / Darmanitan / Hatterene               |    1 |  12.50% |   0.00% |
+| 1    | Ninetales / Venusaur / Darmanitan / Hatterene               |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Hydreigon / Venusaur / Hatterene                |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Venusaur / Ninetales / Hatterene                |    1 |  12.50% |   0.00% |
+| 1    | Ninetales / Hydreigon / Venusaur / Hatterene                |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Hydreigon / Venusaur / Darmanitan               |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Venusaur / Ninetales / Darmanitan               |    1 |  12.50% |   0.00% |
+| 1    | Ninetales / Hydreigon / Venusaur / Darmanitan               |    1 |  12.50% |   0.00% |
+| 1    | Ninetales / Hydreigon / Venusaur / Rhyperior                |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Hydreigon / Darmanitan / Hatterene              |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Ninetales / Darmanitan / Hatterene              |    1 |  12.50% |   0.00% |
+| 1    | Ninetales / Hydreigon / Darmanitan / Hatterene              |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Hydreigon / Ninetales / Hatterene               |    1 |  12.50% |   0.00% |
+| 1    | Rhyperior / Hydreigon / Ninetales / Darmanitan              |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Gyarados / Keldeo / Cobalion                     |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Gyarados / Cobalion / Necrozma                   |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Gyarados / Cobalion / Zygarde-10%                |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Keldeo / Cobalion / Necrozma                     |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Keldeo / Cobalion / Zygarde-10%                  |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Cobalion / Necrozma / Zygarde-10%                |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Gyarados / Keldeo / Necrozma                     |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Gyarados / Keldeo / Zygarde-10%                  |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Gyarados / Zygarde-10% / Necrozma                |    1 |  12.50% |   0.00% |
+| 1    | Froslass / Keldeo / Zygarde-10% / Necrozma                  |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Gyarados / Keldeo / Cobalion                     |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Keldeo / Cobalion / Zygarde-10%                  |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Gyarados / Cobalion / Zygarde-10%                |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Keldeo / Cobalion / Zygarde-10%                  |    1 |  12.50% |   0.00% |
+| 1    | Necrozma / Gyarados / Keldeo / Zygarde-10%                  |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Diggersby / Salamence / Reuniclus / Cobalion / Amoonguss              |    1 |  12.50% | 100.00% |
+| 1    | Salamence / Reuniclus / Rotom-Wash / Cobalion / Amoonguss             |    1 |  12.50% | 100.00% |
+| 1    | Salamence / Diggersby / Reuniclus / Rotom-Wash / Amoonguss            |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Reuniclus / Rotom-Wash / Cobalion / Amoonguss             |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Salamence / Reuniclus / Rotom-Wash / Cobalion             |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Salamence / Rotom-Wash / Cobalion / Amoonguss             |    1 |  12.50% | 100.00% |
+| 1    | Nidoqueen / Rotom-Wash / Cobalion / Mandibuzz / Tapu Bulu             |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Nidoqueen / Rotom-Wash / Mandibuzz / Tapu Bulu            |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Rotom-Wash / Cobalion / Mandibuzz / Tapu Bulu             |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Nidoqueen / Rotom-Wash / Cobalion / Tapu Bulu             |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Nidoqueen / Rotom-Wash / Cobalion / Mandibuzz             |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Nidoqueen / Cobalion / Mandibuzz / Tapu Bulu              |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Zygarde-10% / Salamence / Chansey / Thundurus-Therian |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Zygarde-10% / Chansey / Scizor / Thundurus-Therian    |    1 |  12.50% | 100.00% |
+| 1    | Zygarde-10% / Salamence / Chansey / Scizor / Thundurus-Therian        |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Zygarde-10% / Salamence / Chansey / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Zygarde-10% / Salamence / Scizor / Thundurus-Therian  |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Salamence / Chansey / Scizor / Thundurus-Therian      |    1 |  12.50% | 100.00% |
+| 1    | Keldeo / Raikou / Scizor / Mandibuzz / Amoonguss                      |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Raikou / Scizor / Amoonguss                      |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Raikou / Scizor / Mandibuzz                      |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Scizor / Mandibuzz / Amoonguss                   |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Raikou / Scizor / Mandibuzz / Amoonguss                   |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Raikou / Mandibuzz / Amoonguss                   |    1 |  12.50% | 100.00% |
+| 1    | Reuniclus / Crobat / Excadrill / Hydreigon / Moltres                  |    1 |  12.50% |   0.00% |
+| 1    | Reuniclus / Crobat / Celesteela / Excadrill / Hydreigon               |    1 |  12.50% |   0.00% |
+| 1    | Reuniclus / Crobat / Celesteela / Excadrill / Moltres                 |    1 |  12.50% |   0.00% |
+| 1    | Reuniclus / Crobat / Celesteela / Moltres / Hydreigon                 |    1 |  12.50% |   0.00% |
+| 1    | Reuniclus / Celesteela / Excadrill / Hydreigon / Moltres              |    1 |  12.50% |   0.00% |
+| 1    | Crobat / Celesteela / Excadrill / Hydreigon / Moltres                 |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Rotom-Wash / Excadrill / Mandibuzz / Amoonguss            |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Rotom-Wash / Suicune / Mandibuzz / Amoonguss              |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Rotom-Wash / Excadrill / Suicune / Mandibuzz              |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Rotom-Wash / Excadrill / Suicune / Amoonguss              |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Excadrill / Suicune / Mandibuzz / Amoonguss               |    1 |  12.50% |   0.00% |
+| 1    | Rotom-Wash / Excadrill / Suicune / Mandibuzz / Amoonguss              |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan / Venusaur / Hatterene / Hydreigon / Rhyperior             |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan / Venusaur / Hatterene / Ninetales / Rhyperior             |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan / Venusaur / Hatterene / Ninetales / Hydreigon             |    1 |  12.50% |   0.00% |
+| 1    | Venusaur / Hatterene / Ninetales / Hydreigon / Rhyperior              |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan / Venusaur / Ninetales / Hydreigon / Rhyperior             |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan / Hatterene / Ninetales / Hydreigon / Rhyperior            |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Froslass / Keldeo / Necrozma / Cobalion                    |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Zygarde-10% / Froslass / Keldeo / Cobalion                 |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Zygarde-10% / Froslass / Necrozma / Cobalion               |    1 |  12.50% |   0.00% |
+| 1    | Zygarde-10% / Froslass / Keldeo / Necrozma / Cobalion                 |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Zygarde-10% / Froslass / Keldeo / Necrozma                 |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Zygarde-10% / Keldeo / Necrozma / Cobalion                 |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Diggersby / Salamence / Reuniclus / Rotom-Wash / Cobalion / Amoonguss          |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Nidoqueen / Rotom-Wash / Cobalion / Mandibuzz / Tapu Bulu          |    1 |  12.50% | 100.00% |
+| 1    | Slowbro-Galar / Zygarde-10% / Salamence / Chansey / Scizor / Thundurus-Therian |    1 |  12.50% | 100.00% |
+| 1    | Hippowdon / Keldeo / Raikou / Scizor / Mandibuzz / Amoonguss                   |    1 |  12.50% | 100.00% |
+| 1    | Reuniclus / Crobat / Celesteela / Excadrill / Hydreigon / Moltres              |    1 |  12.50% |   0.00% |
+| 1    | Hippowdon / Rotom-Wash / Excadrill / Suicune / Mandibuzz / Amoonguss           |    1 |  12.50% |   0.00% |
+| 1    | Darmanitan / Venusaur / Hatterene / Ninetales / Hydreigon / Rhyperior          |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Zygarde-10% / Froslass / Keldeo / Necrozma / Cobalion               |    1 |  12.50% |   0.00% |
