@@ -1,0 +1,359 @@
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                           | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| 1    | Eleffigy / Armaldo                    |    2 |  33.33% | 100.00% |
+| 1    | Kabutops / Thundurus-Estival          |    2 |  33.33% |   0.00% |
+| 3    | Thundurus-Estival / Servachne         |    1 |  16.67% | 100.00% |
+| 3    | Nymphamane / Servachne                |    1 |  16.67% | 100.00% |
+| 3    | Tyrantrum / Servachne                 |    1 |  16.67% | 100.00% |
+| 3    | Pesbasil / Servachne                  |    1 |  16.67% | 100.00% |
+| 3    | Servachne / Woolefant                 |    1 |  16.67% | 100.00% |
+| 3    | Nymphamane / Thundurus-Estival        |    1 |  16.67% | 100.00% |
+| 3    | Tyrantrum / Thundurus-Estival         |    1 |  16.67% | 100.00% |
+| 3    | Pesbasil / Thundurus-Estival          |    1 |  16.67% | 100.00% |
+| 3    | Thundurus-Estival / Woolefant         |    1 |  16.67% | 100.00% |
+| 3    | Tyrantrum / Nymphamane                |    1 |  16.67% | 100.00% |
+| 3    | Pesbasil / Nymphamane                 |    1 |  16.67% | 100.00% |
+| 3    | Nymphamane / Woolefant                |    1 |  16.67% | 100.00% |
+| 3    | Tyrantrum / Pesbasil                  |    1 |  16.67% | 100.00% |
+| 3    | Tyrantrum / Woolefant                 |    1 |  16.67% | 100.00% |
+| 3    | Pesbasil / Woolefant                  |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Tornadus-Hibernal          |    1 |  16.67% | 100.00% |
+| 3    | Enamorus-Genbu / Eleffigy             |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Carracosta                 |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Nymphamane                 |    1 |  16.67% | 100.00% |
+| 3    | Enamorus-Genbu / Tornadus-Hibernal    |    1 |  16.67% | 100.00% |
+| 3    | Carracosta / Tornadus-Hibernal        |    1 |  16.67% | 100.00% |
+| 3    | Nymphamane / Tornadus-Hibernal        |    1 |  16.67% | 100.00% |
+| 3    | Armaldo / Tornadus-Hibernal           |    1 |  16.67% | 100.00% |
+| 3    | Enamorus-Genbu / Carracosta           |    1 |  16.67% | 100.00% |
+| 3    | Enamorus-Genbu / Nymphamane           |    1 |  16.67% | 100.00% |
+| 3    | Enamorus-Genbu / Armaldo              |    1 |  16.67% | 100.00% |
+| 3    | Nymphamane / Carracosta               |    1 |  16.67% | 100.00% |
+| 3    | Armaldo / Carracosta                  |    1 |  16.67% | 100.00% |
+| 3    | Nymphamane / Armaldo                  |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Conkeldurr-Conch           |    1 |  16.67% | 100.00% |
+| 3    | Magnestone / Conkeldurr-Conch         |    1 |  16.67% | 100.00% |
+| 3    | Aerodactyl / Conkeldurr-Conch         |    1 |  16.67% | 100.00% |
+| 3    | Conkeldurr-Conch / Armaldo            |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Hourglass / Conkeldurr-Conch |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Magnestone                 |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Aerodactyl                 |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Landorus-Hourglass         |    1 |  16.67% | 100.00% |
+| 3    | Aerodactyl / Magnestone               |    1 |  16.67% | 100.00% |
+| 3    | Magnestone / Armaldo                  |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Hourglass / Magnestone       |    1 |  16.67% | 100.00% |
+| 3    | Aerodactyl / Armaldo                  |    1 |  16.67% | 100.00% |
+| 3    | Aerodactyl / Landorus-Hourglass       |    1 |  16.67% | 100.00% |
+| 3    | Landorus-Hourglass / Armaldo          |    1 |  16.67% | 100.00% |
+| 3    | Eleffigy / Sigilyph-Ancient           |    1 |  16.67% |   0.00% |
+| 3    | Eleffigy / Hemlophosaur               |    1 |  16.67% |   0.00% |
+| 3    | Eleffigy / Alticombat                 |    1 |  16.67% |   0.00% |
+| 3    | Eleffigy / Venopleura                 |    1 |  16.67% |   0.00% |
+| 3    | Eleffigy / Rampardos                  |    1 |  16.67% |   0.00% |
+| 3    | Sigilyph-Ancient / Hemlophosaur       |    1 |  16.67% |   0.00% |
+| 3    | Alticombat / Sigilyph-Ancient         |    1 |  16.67% |   0.00% |
+| 3    | Sigilyph-Ancient / Venopleura         |    1 |  16.67% |   0.00% |
+| 3    | Rampardos / Sigilyph-Ancient          |    1 |  16.67% |   0.00% |
+| 3    | Alticombat / Hemlophosaur             |    1 |  16.67% |   0.00% |
+| 3    | Venopleura / Hemlophosaur             |    1 |  16.67% |   0.00% |
+| 3    | Rampardos / Hemlophosaur              |    1 |  16.67% |   0.00% |
+| 3    | Alticombat / Venopleura               |    1 |  16.67% |   0.00% |
+| 3    | Rampardos / Alticombat                |    1 |  16.67% |   0.00% |
+| 3    | Rampardos / Venopleura                |    1 |  16.67% |   0.00% |
+| 3    | Brawlutra / Thundurus-Estival         |    1 |  16.67% |   0.00% |
+| 3    | Swishivish / Thundurus-Estival        |    1 |  16.67% |   0.00% |
+| 3    | Espathra-Nasir / Thundurus-Estival    |    1 |  16.67% |   0.00% |
+| 3    | Thundurus-Estival / Chimeragon        |    1 |  16.67% |   0.00% |
+| 3    | Swishivish / Brawlutra                |    1 |  16.67% |   0.00% |
+| 3    | Brawlutra / Espathra-Nasir            |    1 |  16.67% |   0.00% |
+| 3    | Brawlutra / Kabutops                  |    1 |  16.67% |   0.00% |
+| 3    | Brawlutra / Chimeragon                |    1 |  16.67% |   0.00% |
+| 3    | Swishivish / Espathra-Nasir           |    1 |  16.67% |   0.00% |
+| 3    | Swishivish / Kabutops                 |    1 |  16.67% |   0.00% |
+| 3    | Swishivish / Chimeragon               |    1 |  16.67% |   0.00% |
+| 3    | Kabutops / Espathra-Nasir             |    1 |  16.67% |   0.00% |
+| 3    | Espathra-Nasir / Chimeragon           |    1 |  16.67% |   0.00% |
+| 3    | Kabutops / Chimeragon                 |    1 |  16.67% |   0.00% |
+| 3    | Letherium / Stratusaur                |    1 |  16.67% |   0.00% |
+| 3    | Drednaw-Abyss / Stratusaur            |    1 |  16.67% |   0.00% |
+| 3    | Stratusaur / Thundurus-Estival        |    1 |  16.67% |   0.00% |
+| 3    | Stratusaur / Kabutops                 |    1 |  16.67% |   0.00% |
+| 3    | Stratusaur / Armaldo                  |    1 |  16.67% |   0.00% |
+| 3    | Letherium / Drednaw-Abyss             |    1 |  16.67% |   0.00% |
+| 3    | Letherium / Thundurus-Estival         |    1 |  16.67% |   0.00% |
+| 3    | Letherium / Kabutops                  |    1 |  16.67% |   0.00% |
+| 3    | Letherium / Armaldo                   |    1 |  16.67% |   0.00% |
+| 3    | Drednaw-Abyss / Thundurus-Estival     |    1 |  16.67% |   0.00% |
+| 3    | Drednaw-Abyss / Kabutops              |    1 |  16.67% |   0.00% |
+| 3    | Drednaw-Abyss / Armaldo               |    1 |  16.67% |   0.00% |
+| 3    | Thundurus-Estival / Armaldo           |    1 |  16.67% |   0.00% |
+| 3    | Kabutops / Armaldo                    |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                        | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Thundurus-Estival / Nymphamane / Servachne         |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Tyrantrum / Servachne          |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Pesbasil / Servachne           |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Servachne / Woolefant          |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Nymphamane / Servachne                 |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Nymphamane / Servachne                  |    1 |  16.67% | 100.00% |
+| 1    | Nymphamane / Servachne / Woolefant                 |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Servachne                   |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Servachne / Woolefant                  |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Servachne / Woolefant                   |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Nymphamane / Thundurus-Estival         |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Nymphamane / Thundurus-Estival          |    1 |  16.67% | 100.00% |
+| 1    | Nymphamane / Thundurus-Estival / Woolefant         |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Thundurus-Estival           |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Thundurus-Estival / Woolefant          |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Thundurus-Estival / Woolefant           |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Nymphamane                  |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Nymphamane / Woolefant                 |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Nymphamane / Woolefant                  |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Woolefant                   |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Tornadus-Hibernal      |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Carracosta / Tornadus-Hibernal          |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Nymphamane / Tornadus-Hibernal          |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Armaldo / Tornadus-Hibernal             |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Carracosta             |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Nymphamane             |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Armaldo                |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Nymphamane / Carracosta                 |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Armaldo / Carracosta                    |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Nymphamane / Armaldo                    |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Carracosta / Tornadus-Hibernal    |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Nymphamane / Tornadus-Hibernal    |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Armaldo / Tornadus-Hibernal       |    1 |  16.67% | 100.00% |
+| 1    | Carracosta / Nymphamane / Tornadus-Hibernal        |    1 |  16.67% | 100.00% |
+| 1    | Carracosta / Armaldo / Tornadus-Hibernal           |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Nymphamane / Tornadus-Hibernal           |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Nymphamane / Carracosta           |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Armaldo / Carracosta              |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Nymphamane / Armaldo              |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Nymphamane / Carracosta                  |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Magnestone / Conkeldurr-Conch           |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Conkeldurr-Conch           |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Conkeldurr-Conch / Armaldo              |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Landorus-Hourglass / Conkeldurr-Conch   |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Magnestone / Conkeldurr-Conch         |    1 |  16.67% | 100.00% |
+| 1    | Magnestone / Conkeldurr-Conch / Armaldo            |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Hourglass / Magnestone / Conkeldurr-Conch |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Conkeldurr-Conch / Armaldo            |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Conkeldurr-Conch / Landorus-Hourglass |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Hourglass / Conkeldurr-Conch / Armaldo    |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Magnestone                 |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Magnestone / Armaldo                    |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Landorus-Hourglass / Magnestone         |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Armaldo                    |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Landorus-Hourglass         |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Landorus-Hourglass / Armaldo            |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Magnestone / Armaldo                  |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Magnestone / Landorus-Hourglass       |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Hourglass / Magnestone / Armaldo          |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Landorus-Hourglass / Armaldo          |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Sigilyph-Ancient / Hemlophosaur         |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Alticombat / Sigilyph-Ancient           |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Sigilyph-Ancient / Venopleura           |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Sigilyph-Ancient            |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Alticombat / Hemlophosaur               |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Venopleura / Hemlophosaur               |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Rampardos / Hemlophosaur                |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Alticombat / Venopleura                 |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Alticombat                  |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Venopleura                  |    1 |  16.67% |   0.00% |
+| 1    | Alticombat / Sigilyph-Ancient / Hemlophosaur       |    1 |  16.67% |   0.00% |
+| 1    | Sigilyph-Ancient / Hemlophosaur / Venopleura       |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Sigilyph-Ancient / Hemlophosaur        |    1 |  16.67% |   0.00% |
+| 1    | Alticombat / Sigilyph-Ancient / Venopleura         |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Alticombat / Sigilyph-Ancient          |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Sigilyph-Ancient / Venopleura          |    1 |  16.67% |   0.00% |
+| 1    | Alticombat / Hemlophosaur / Venopleura             |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Alticombat / Hemlophosaur              |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Venopleura / Hemlophosaur              |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Alticombat / Venopleura                |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Brawlutra / Thundurus-Estival         |    1 |  16.67% |   0.00% |
+| 1    | Espathra-Nasir / Brawlutra / Thundurus-Estival     |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Brawlutra / Thundurus-Estival           |    1 |  16.67% |   0.00% |
+| 1    | Brawlutra / Thundurus-Estival / Chimeragon         |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Espathra-Nasir / Thundurus-Estival    |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Thundurus-Estival          |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Thundurus-Estival / Chimeragon        |    1 |  16.67% |   0.00% |
+| 1    | Espathra-Nasir / Kabutops / Thundurus-Estival      |    1 |  16.67% |   0.00% |
+| 1    | Espathra-Nasir / Thundurus-Estival / Chimeragon    |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Thundurus-Estival / Chimeragon          |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Brawlutra / Espathra-Nasir            |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Brawlutra / Kabutops                  |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Brawlutra / Chimeragon                |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Brawlutra / Espathra-Nasir              |    1 |  16.67% |   0.00% |
+| 1    | Brawlutra / Espathra-Nasir / Chimeragon            |    1 |  16.67% |   0.00% |
+| 1    | Brawlutra / Kabutops / Chimeragon                  |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Espathra-Nasir             |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Espathra-Nasir / Chimeragon           |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Chimeragon                 |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Espathra-Nasir / Chimeragon             |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Stratusaur             |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Stratusaur / Thundurus-Estival         |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Stratusaur / Kabutops                  |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Stratusaur / Armaldo                   |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Stratusaur / Thundurus-Estival     |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Stratusaur / Kabutops              |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Stratusaur / Armaldo               |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Stratusaur / Thundurus-Estival          |    1 |  16.67% |   0.00% |
+| 1    | Stratusaur / Thundurus-Estival / Armaldo           |    1 |  16.67% |   0.00% |
+| 1    | Stratusaur / Kabutops / Armaldo                    |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Thundurus-Estival      |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Kabutops               |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Armaldo                |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Kabutops / Thundurus-Estival           |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Thundurus-Estival / Armaldo            |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Kabutops / Armaldo                     |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Kabutops / Thundurus-Estival       |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Thundurus-Estival / Armaldo        |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Kabutops / Armaldo                 |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Thundurus-Estival / Armaldo             |    1 |  16.67% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Thundurus-Estival / Tyrantrum / Nymphamane / Servachne          |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Pesbasil / Nymphamane / Servachne           |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Nymphamane / Servachne / Woolefant          |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Tyrantrum / Pesbasil / Servachne            |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Tyrantrum / Servachne / Woolefant           |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Pesbasil / Servachne / Woolefant            |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Nymphamane / Servachne                   |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Nymphamane / Servachne / Woolefant                  |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Nymphamane / Servachne / Woolefant                   |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Servachne / Woolefant                    |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Nymphamane / Thundurus-Estival           |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Nymphamane / Thundurus-Estival / Woolefant          |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Nymphamane / Thundurus-Estival / Woolefant           |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Thundurus-Estival / Woolefant            |    1 |  16.67% | 100.00% |
+| 1    | Tyrantrum / Pesbasil / Nymphamane / Woolefant                   |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Carracosta / Tornadus-Hibernal      |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Nymphamane / Tornadus-Hibernal      |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Armaldo / Tornadus-Hibernal         |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Carracosta / Nymphamane / Tornadus-Hibernal          |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Carracosta / Armaldo / Tornadus-Hibernal             |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Armaldo / Nymphamane / Tornadus-Hibernal             |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Nymphamane / Carracosta             |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Armaldo / Carracosta                |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Eleffigy / Nymphamane / Armaldo                |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Armaldo / Nymphamane / Carracosta                    |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Carracosta / Nymphamane / Tornadus-Hibernal    |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Carracosta / Armaldo / Tornadus-Hibernal       |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Armaldo / Nymphamane / Tornadus-Hibernal       |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Carracosta / Nymphamane / Tornadus-Hibernal           |    1 |  16.67% | 100.00% |
+| 1    | Enamorus-Genbu / Armaldo / Nymphamane / Carracosta              |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Magnestone / Conkeldurr-Conch           |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Magnestone / Conkeldurr-Conch / Armaldo              |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Landorus-Hourglass / Magnestone / Conkeldurr-Conch   |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Conkeldurr-Conch / Armaldo              |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Conkeldurr-Conch / Landorus-Hourglass   |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Landorus-Hourglass / Conkeldurr-Conch / Armaldo      |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Magnestone / Conkeldurr-Conch / Armaldo            |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Magnestone / Conkeldurr-Conch / Landorus-Hourglass |    1 |  16.67% | 100.00% |
+| 1    | Landorus-Hourglass / Magnestone / Conkeldurr-Conch / Armaldo    |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Conkeldurr-Conch / Landorus-Hourglass / Armaldo    |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Magnestone / Armaldo                    |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Magnestone / Landorus-Hourglass         |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Landorus-Hourglass / Magnestone / Armaldo            |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Aerodactyl / Landorus-Hourglass / Armaldo            |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Magnestone / Landorus-Hourglass / Armaldo          |    1 |  16.67% | 100.00% |
+| 1    | Eleffigy / Alticombat / Sigilyph-Ancient / Hemlophosaur         |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Sigilyph-Ancient / Hemlophosaur / Venopleura         |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Sigilyph-Ancient / Hemlophosaur          |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Alticombat / Sigilyph-Ancient / Venopleura           |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Alticombat / Sigilyph-Ancient            |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Sigilyph-Ancient / Venopleura            |    1 |  16.67% |   0.00% |
+| 1    | Eleffigy / Alticombat / Hemlophosaur / Venopleura               |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Alticombat / Hemlophosaur                |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Venopleura / Hemlophosaur                |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Eleffigy / Alticombat / Venopleura                  |    1 |  16.67% |   0.00% |
+| 1    | Alticombat / Sigilyph-Ancient / Hemlophosaur / Venopleura       |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Alticombat / Sigilyph-Ancient / Hemlophosaur        |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Sigilyph-Ancient / Hemlophosaur / Venopleura        |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Alticombat / Sigilyph-Ancient / Venopleura          |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Alticombat / Hemlophosaur / Venopleura              |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Espathra-Nasir / Brawlutra / Thundurus-Estival     |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Brawlutra / Thundurus-Estival           |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Brawlutra / Thundurus-Estival / Chimeragon         |    1 |  16.67% |   0.00% |
+| 1    | Espathra-Nasir / Kabutops / Brawlutra / Thundurus-Estival       |    1 |  16.67% |   0.00% |
+| 1    | Espathra-Nasir / Brawlutra / Thundurus-Estival / Chimeragon     |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Brawlutra / Thundurus-Estival / Chimeragon           |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Espathra-Nasir / Thundurus-Estival      |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Espathra-Nasir / Thundurus-Estival / Chimeragon    |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Thundurus-Estival / Chimeragon          |    1 |  16.67% |   0.00% |
+| 1    | Espathra-Nasir / Kabutops / Thundurus-Estival / Chimeragon      |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Brawlutra / Espathra-Nasir              |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Brawlutra / Espathra-Nasir / Chimeragon            |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Brawlutra / Kabutops / Chimeragon                  |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Brawlutra / Espathra-Nasir / Chimeragon              |    1 |  16.67% |   0.00% |
+| 1    | Swishivish / Kabutops / Espathra-Nasir / Chimeragon             |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Stratusaur / Thundurus-Estival      |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Stratusaur / Kabutops               |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Stratusaur / Armaldo                |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Kabutops / Stratusaur / Thundurus-Estival           |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Stratusaur / Thundurus-Estival / Armaldo            |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Stratusaur / Kabutops / Armaldo                     |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Kabutops / Stratusaur / Thundurus-Estival       |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Stratusaur / Thundurus-Estival / Armaldo        |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Stratusaur / Kabutops / Armaldo                 |    1 |  16.67% |   0.00% |
+| 1    | Kabutops / Stratusaur / Thundurus-Estival / Armaldo             |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Kabutops / Thundurus-Estival        |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Thundurus-Estival / Armaldo         |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Kabutops / Armaldo                  |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Kabutops / Thundurus-Estival / Armaldo              |    1 |  16.67% |   0.00% |
+| 1    | Drednaw-Abyss / Kabutops / Thundurus-Estival / Armaldo          |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                                | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Pesbasil / Thundurus-Estival / Servachne / Tyrantrum / Nymphamane          |    1 |  16.67% | 100.00% |
+| 1    | Thundurus-Estival / Servachne / Woolefant / Tyrantrum / Nymphamane         |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Thundurus-Estival / Servachne / Woolefant / Nymphamane          |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Thundurus-Estival / Servachne / Woolefant / Tyrantrum           |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Servachne / Woolefant / Tyrantrum / Nymphamane                  |    1 |  16.67% | 100.00% |
+| 1    | Pesbasil / Thundurus-Estival / Woolefant / Tyrantrum / Nymphamane          |    1 |  16.67% | 100.00% |
+| 1    | Tornadus-Hibernal / Enamorus-Genbu / Carracosta / Eleffigy / Nymphamane    |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Enamorus-Genbu / Tornadus-Hibernal / Carracosta / Eleffigy       |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Enamorus-Genbu / Tornadus-Hibernal / Eleffigy / Nymphamane       |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Tornadus-Hibernal / Carracosta / Eleffigy / Nymphamane           |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Enamorus-Genbu / Carracosta / Eleffigy / Nymphamane              |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Enamorus-Genbu / Tornadus-Hibernal / Carracosta / Nymphamane     |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Armaldo / Eleffigy / Magnestone / Conkeldurr-Conch            |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Eleffigy / Landorus-Hourglass / Magnestone / Conkeldurr-Conch |    1 |  16.67% | 100.00% |
+| 1    | Armaldo / Eleffigy / Landorus-Hourglass / Magnestone / Conkeldurr-Conch    |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Armaldo / Eleffigy / Landorus-Hourglass / Conkeldurr-Conch    |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Armaldo / Landorus-Hourglass / Magnestone / Conkeldurr-Conch  |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Armaldo / Eleffigy / Landorus-Hourglass / Magnestone          |    1 |  16.67% | 100.00% |
+| 1    | Venopleura / Sigilyph-Ancient / Hemlophosaur / Eleffigy / Alticombat       |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Sigilyph-Ancient / Hemlophosaur / Eleffigy / Alticombat        |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Venopleura / Sigilyph-Ancient / Hemlophosaur / Eleffigy        |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Venopleura / Sigilyph-Ancient / Eleffigy / Alticombat          |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Venopleura / Hemlophosaur / Eleffigy / Alticombat              |    1 |  16.67% |   0.00% |
+| 1    | Rampardos / Venopleura / Sigilyph-Ancient / Hemlophosaur / Alticombat      |    1 |  16.67% |   0.00% |
+| 1    | Thundurus-Estival / Swishivish / Brawlutra / Espathra-Nasir / Kabutops     |    1 |  16.67% |   0.00% |
+| 1    | Thundurus-Estival / Chimeragon / Swishivish / Brawlutra / Espathra-Nasir   |    1 |  16.67% |   0.00% |
+| 1    | Thundurus-Estival / Chimeragon / Swishivish / Brawlutra / Kabutops         |    1 |  16.67% |   0.00% |
+| 1    | Thundurus-Estival / Chimeragon / Brawlutra / Espathra-Nasir / Kabutops     |    1 |  16.67% |   0.00% |
+| 1    | Thundurus-Estival / Chimeragon / Swishivish / Espathra-Nasir / Kabutops    |    1 |  16.67% |   0.00% |
+| 1    | Chimeragon / Swishivish / Brawlutra / Espathra-Nasir / Kabutops            |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Thundurus-Estival / Drednaw-Abyss / Stratusaur / Kabutops      |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Thundurus-Estival / Drednaw-Abyss / Stratusaur / Armaldo       |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Drednaw-Abyss / Stratusaur / Armaldo / Kabutops                |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Thundurus-Estival / Stratusaur / Armaldo / Kabutops            |    1 |  16.67% |   0.00% |
+| 1    | Thundurus-Estival / Drednaw-Abyss / Stratusaur / Armaldo / Kabutops        |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Thundurus-Estival / Drednaw-Abyss / Armaldo / Kabutops         |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Pesbasil / Thundurus-Estival / Servachne / Woolefant / Tyrantrum / Nymphamane        |    1 |  16.67% | 100.00% |
+| 1    | Tornadus-Hibernal / Enamorus-Genbu / Armaldo / Carracosta / Eleffigy / Nymphamane    |    1 |  16.67% | 100.00% |
+| 1    | Aerodactyl / Armaldo / Eleffigy / Landorus-Hourglass / Magnestone / Conkeldurr-Conch |    1 |  16.67% | 100.00% |
+| 1    | Venopleura / Rampardos / Sigilyph-Ancient / Hemlophosaur / Eleffigy / Alticombat     |    1 |  16.67% |   0.00% |
+| 1    | Thundurus-Estival / Chimeragon / Swishivish / Brawlutra / Espathra-Nasir / Kabutops  |    1 |  16.67% |   0.00% |
+| 1    | Letherium / Thundurus-Estival / Drednaw-Abyss / Stratusaur / Armaldo / Kabutops      |    1 |  16.67% |   0.00% |
