@@ -1,0 +1,333 @@
++ ---- + ------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2               | Use  | Usage % |  Win %  |
++ ---- + ------------------------- + ---- + ------- + ------- +
+| 1    | Scizor / Garchomp         |    3 |  50.00% |  33.33% |
+| 2    | Latias / Garchomp         |    2 |  33.33% |  50.00% |
+| 2    | Talonflame / Garchomp     |    2 |  33.33% |  50.00% |
+| 2    | Kyurem-Black / Garchomp   |    2 |  33.33% |  50.00% |
+| 2    | Talonflame / Latias       |    2 |  33.33% |  50.00% |
+| 2    | Kyurem-Black / Latias     |    2 |  33.33% |  50.00% |
+| 2    | Scizor / Latias           |    2 |  33.33% |  50.00% |
+| 2    | Talonflame / Kyurem-Black |    2 |  33.33% |  50.00% |
+| 2    | Scizor / Talonflame       |    2 |  33.33% |  50.00% |
+| 2    | Scizor / Kyurem-Black     |    2 |  33.33% |  50.00% |
+| 2    | Zapdos / Keldeo           |    2 |  33.33% |   0.00% |
+| 12   | Garchomp / Sharpedo       |    1 |  16.67% | 100.00% |
+| 12   | Latias / Sharpedo         |    1 |  16.67% | 100.00% |
+| 12   | Talonflame / Sharpedo     |    1 |  16.67% | 100.00% |
+| 12   | Kyurem-Black / Sharpedo   |    1 |  16.67% | 100.00% |
+| 12   | Scizor / Sharpedo         |    1 |  16.67% | 100.00% |
+| 12   | Gliscor / Weavile         |    1 |  16.67% | 100.00% |
+| 12   | Slowbro / Weavile         |    1 |  16.67% | 100.00% |
+| 12   | Ferrothorn / Weavile      |    1 |  16.67% | 100.00% |
+| 12   | Chansey / Weavile         |    1 |  16.67% | 100.00% |
+| 12   | Zapdos / Weavile          |    1 |  16.67% | 100.00% |
+| 12   | Slowbro / Gliscor         |    1 |  16.67% | 100.00% |
+| 12   | Ferrothorn / Gliscor      |    1 |  16.67% | 100.00% |
+| 12   | Gliscor / Chansey         |    1 |  16.67% | 100.00% |
+| 12   | Zapdos / Gliscor          |    1 |  16.67% | 100.00% |
+| 12   | Slowbro / Ferrothorn      |    1 |  16.67% | 100.00% |
+| 12   | Slowbro / Chansey         |    1 |  16.67% | 100.00% |
+| 12   | Slowbro / Zapdos          |    1 |  16.67% | 100.00% |
+| 12   | Ferrothorn / Chansey      |    1 |  16.67% | 100.00% |
+| 12   | Zapdos / Ferrothorn       |    1 |  16.67% | 100.00% |
+| 12   | Zapdos / Chansey          |    1 |  16.67% | 100.00% |
+| 12   | Gyarados / Azelf          |    1 |  16.67% | 100.00% |
+| 12   | Bisharp / Azelf           |    1 |  16.67% | 100.00% |
+| 12   | Excadrill / Azelf         |    1 |  16.67% | 100.00% |
+| 12   | Azelf / Dragonite         |    1 |  16.67% | 100.00% |
+| 12   | Azelf / Manaphy           |    1 |  16.67% | 100.00% |
+| 12   | Gyarados / Bisharp        |    1 |  16.67% | 100.00% |
+| 12   | Gyarados / Excadrill      |    1 |  16.67% | 100.00% |
+| 12   | Gyarados / Dragonite      |    1 |  16.67% | 100.00% |
+| 12   | Gyarados / Manaphy        |    1 |  16.67% | 100.00% |
+| 12   | Bisharp / Excadrill       |    1 |  16.67% | 100.00% |
+| 12   | Bisharp / Dragonite       |    1 |  16.67% | 100.00% |
+| 12   | Bisharp / Manaphy         |    1 |  16.67% | 100.00% |
+| 12   | Excadrill / Dragonite     |    1 |  16.67% | 100.00% |
+| 12   | Excadrill / Manaphy       |    1 |  16.67% | 100.00% |
+| 12   | Dragonite / Manaphy       |    1 |  16.67% | 100.00% |
+| 12   | Tyranitar / Alakazam      |    1 |  16.67% |   0.00% |
+| 12   | Alakazam / Excadrill      |    1 |  16.67% |   0.00% |
+| 12   | Alakazam / Keldeo         |    1 |  16.67% |   0.00% |
+| 12   | Alakazam / Zapdos         |    1 |  16.67% |   0.00% |
+| 12   | Alakazam / Tangrowth      |    1 |  16.67% |   0.00% |
+| 12   | Tyranitar / Excadrill     |    1 |  16.67% |   0.00% |
+| 12   | Tyranitar / Keldeo        |    1 |  16.67% |   0.00% |
+| 12   | Tyranitar / Zapdos        |    1 |  16.67% |   0.00% |
+| 12   | Tyranitar / Tangrowth     |    1 |  16.67% |   0.00% |
+| 12   | Excadrill / Keldeo        |    1 |  16.67% |   0.00% |
+| 12   | Zapdos / Excadrill        |    1 |  16.67% |   0.00% |
+| 12   | Excadrill / Tangrowth     |    1 |  16.67% |   0.00% |
+| 12   | Tangrowth / Keldeo        |    1 |  16.67% |   0.00% |
+| 12   | Zapdos / Tangrowth        |    1 |  16.67% |   0.00% |
+| 12   | Scizor / Keldeo           |    1 |  16.67% |   0.00% |
+| 12   | Gardevoir / Keldeo        |    1 |  16.67% |   0.00% |
+| 12   | Garchomp / Keldeo         |    1 |  16.67% |   0.00% |
+| 12   | Volcanion / Keldeo        |    1 |  16.67% |   0.00% |
+| 12   | Gardevoir / Scizor        |    1 |  16.67% |   0.00% |
+| 12   | Scizor / Zapdos           |    1 |  16.67% |   0.00% |
+| 12   | Scizor / Volcanion        |    1 |  16.67% |   0.00% |
+| 12   | Gardevoir / Garchomp      |    1 |  16.67% |   0.00% |
+| 12   | Gardevoir / Zapdos        |    1 |  16.67% |   0.00% |
+| 12   | Gardevoir / Volcanion     |    1 |  16.67% |   0.00% |
+| 12   | Zapdos / Garchomp         |    1 |  16.67% |   0.00% |
+| 12   | Garchomp / Volcanion      |    1 |  16.67% |   0.00% |
+| 12   | Zapdos / Volcanion        |    1 |  16.67% |   0.00% |
+| 12   | Gyarados / Garchomp       |    1 |  16.67% |   0.00% |
+| 12   | Gyarados / Latias         |    1 |  16.67% |   0.00% |
+| 12   | Gyarados / Talonflame     |    1 |  16.67% |   0.00% |
+| 12   | Gyarados / Kyurem-Black   |    1 |  16.67% |   0.00% |
+| 12   | Scizor / Gyarados         |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| 1    | Talonflame / Latias / Garchomp       |    2 |  33.33% |  50.00% |
+| 1    | Kyurem-Black / Latias / Garchomp     |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Latias / Garchomp           |    2 |  33.33% |  50.00% |
+| 1    | Talonflame / Garchomp / Kyurem-Black |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Talonflame / Garchomp       |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Kyurem-Black / Garchomp     |    2 |  33.33% |  50.00% |
+| 1    | Talonflame / Latias / Kyurem-Black   |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Talonflame / Latias         |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Kyurem-Black / Latias       |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Talonflame / Kyurem-Black   |    2 |  33.33% |  50.00% |
+| 11   | Garchomp / Latias / Sharpedo         |    1 |  16.67% | 100.00% |
+| 11   | Talonflame / Garchomp / Sharpedo     |    1 |  16.67% | 100.00% |
+| 11   | Garchomp / Sharpedo / Kyurem-Black   |    1 |  16.67% | 100.00% |
+| 11   | Scizor / Garchomp / Sharpedo         |    1 |  16.67% | 100.00% |
+| 11   | Talonflame / Latias / Sharpedo       |    1 |  16.67% | 100.00% |
+| 11   | Kyurem-Black / Latias / Sharpedo     |    1 |  16.67% | 100.00% |
+| 11   | Scizor / Latias / Sharpedo           |    1 |  16.67% | 100.00% |
+| 11   | Talonflame / Sharpedo / Kyurem-Black |    1 |  16.67% | 100.00% |
+| 11   | Scizor / Talonflame / Sharpedo       |    1 |  16.67% | 100.00% |
+| 11   | Scizor / Kyurem-Black / Sharpedo     |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Gliscor / Weavile          |    1 |  16.67% | 100.00% |
+| 11   | Ferrothorn / Gliscor / Weavile       |    1 |  16.67% | 100.00% |
+| 11   | Gliscor / Chansey / Weavile          |    1 |  16.67% | 100.00% |
+| 11   | Zapdos / Gliscor / Weavile           |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Ferrothorn / Weavile       |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Chansey / Weavile          |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Zapdos / Weavile           |    1 |  16.67% | 100.00% |
+| 11   | Ferrothorn / Chansey / Weavile       |    1 |  16.67% | 100.00% |
+| 11   | Zapdos / Ferrothorn / Weavile        |    1 |  16.67% | 100.00% |
+| 11   | Zapdos / Chansey / Weavile           |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Ferrothorn / Gliscor       |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Gliscor / Chansey          |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Zapdos / Gliscor           |    1 |  16.67% | 100.00% |
+| 11   | Ferrothorn / Gliscor / Chansey       |    1 |  16.67% | 100.00% |
+| 11   | Zapdos / Ferrothorn / Gliscor        |    1 |  16.67% | 100.00% |
+| 11   | Zapdos / Gliscor / Chansey           |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Ferrothorn / Chansey       |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Zapdos / Ferrothorn        |    1 |  16.67% | 100.00% |
+| 11   | Slowbro / Zapdos / Chansey           |    1 |  16.67% | 100.00% |
+| 11   | Zapdos / Ferrothorn / Chansey        |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Bisharp / Azelf           |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Excadrill / Azelf         |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Azelf / Dragonite         |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Azelf / Manaphy           |    1 |  16.67% | 100.00% |
+| 11   | Bisharp / Azelf / Excadrill          |    1 |  16.67% | 100.00% |
+| 11   | Bisharp / Azelf / Dragonite          |    1 |  16.67% | 100.00% |
+| 11   | Bisharp / Azelf / Manaphy            |    1 |  16.67% | 100.00% |
+| 11   | Excadrill / Azelf / Dragonite        |    1 |  16.67% | 100.00% |
+| 11   | Excadrill / Azelf / Manaphy          |    1 |  16.67% | 100.00% |
+| 11   | Azelf / Manaphy / Dragonite          |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Bisharp / Excadrill       |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Bisharp / Dragonite       |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Bisharp / Manaphy         |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Excadrill / Dragonite     |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Excadrill / Manaphy       |    1 |  16.67% | 100.00% |
+| 11   | Gyarados / Dragonite / Manaphy       |    1 |  16.67% | 100.00% |
+| 11   | Bisharp / Dragonite / Excadrill      |    1 |  16.67% | 100.00% |
+| 11   | Bisharp / Manaphy / Excadrill        |    1 |  16.67% | 100.00% |
+| 11   | Bisharp / Dragonite / Manaphy        |    1 |  16.67% | 100.00% |
+| 11   | Excadrill / Dragonite / Manaphy      |    1 |  16.67% | 100.00% |
+| 11   | Tyranitar / Alakazam / Excadrill     |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Alakazam / Keldeo        |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Alakazam / Zapdos        |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Alakazam / Tangrowth     |    1 |  16.67% |   0.00% |
+| 11   | Alakazam / Excadrill / Keldeo        |    1 |  16.67% |   0.00% |
+| 11   | Alakazam / Excadrill / Zapdos        |    1 |  16.67% |   0.00% |
+| 11   | Alakazam / Excadrill / Tangrowth     |    1 |  16.67% |   0.00% |
+| 11   | Alakazam / Zapdos / Keldeo           |    1 |  16.67% |   0.00% |
+| 11   | Alakazam / Tangrowth / Keldeo        |    1 |  16.67% |   0.00% |
+| 11   | Alakazam / Zapdos / Tangrowth        |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Excadrill / Keldeo       |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Excadrill / Zapdos       |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Excadrill / Tangrowth    |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Zapdos / Keldeo          |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Tangrowth / Keldeo       |    1 |  16.67% |   0.00% |
+| 11   | Tyranitar / Zapdos / Tangrowth       |    1 |  16.67% |   0.00% |
+| 11   | Zapdos / Excadrill / Keldeo          |    1 |  16.67% |   0.00% |
+| 11   | Excadrill / Tangrowth / Keldeo       |    1 |  16.67% |   0.00% |
+| 11   | Zapdos / Excadrill / Tangrowth       |    1 |  16.67% |   0.00% |
+| 11   | Zapdos / Tangrowth / Keldeo          |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Scizor / Keldeo          |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Garchomp / Keldeo           |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Zapdos / Keldeo             |    1 |  16.67% |   0.00% |
+| 11   | Volcanion / Scizor / Keldeo          |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Garchomp / Keldeo        |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Zapdos / Keldeo          |    1 |  16.67% |   0.00% |
+| 11   | Volcanion / Gardevoir / Keldeo       |    1 |  16.67% |   0.00% |
+| 11   | Zapdos / Garchomp / Keldeo           |    1 |  16.67% |   0.00% |
+| 11   | Volcanion / Garchomp / Keldeo        |    1 |  16.67% |   0.00% |
+| 11   | Volcanion / Zapdos / Keldeo          |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Scizor / Garchomp        |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Scizor / Zapdos          |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Scizor / Volcanion       |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Zapdos / Garchomp           |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Garchomp / Volcanion        |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Zapdos / Volcanion          |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Zapdos / Garchomp        |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Garchomp / Volcanion     |    1 |  16.67% |   0.00% |
+| 11   | Gardevoir / Zapdos / Volcanion       |    1 |  16.67% |   0.00% |
+| 11   | Zapdos / Garchomp / Volcanion        |    1 |  16.67% |   0.00% |
+| 11   | Gyarados / Latias / Garchomp         |    1 |  16.67% |   0.00% |
+| 11   | Gyarados / Talonflame / Garchomp     |    1 |  16.67% |   0.00% |
+| 11   | Gyarados / Kyurem-Black / Garchomp   |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Gyarados / Garchomp         |    1 |  16.67% |   0.00% |
+| 11   | Gyarados / Talonflame / Latias       |    1 |  16.67% |   0.00% |
+| 11   | Gyarados / Kyurem-Black / Latias     |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Gyarados / Latias           |    1 |  16.67% |   0.00% |
+| 11   | Gyarados / Talonflame / Kyurem-Black |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Gyarados / Talonflame       |    1 |  16.67% |   0.00% |
+| 11   | Scizor / Gyarados / Kyurem-Black     |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Talonflame / Latias / Garchomp / Kyurem-Black   |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Talonflame / Latias / Garchomp         |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Kyurem-Black / Latias / Garchomp       |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Talonflame / Garchomp / Kyurem-Black   |    2 |  33.33% |  50.00% |
+| 1    | Scizor / Talonflame / Latias / Kyurem-Black     |    2 |  33.33% |  50.00% |
+| 6    | Talonflame / Garchomp / Latias / Sharpedo       |    1 |  16.67% | 100.00% |
+| 6    | Garchomp / Latias / Sharpedo / Kyurem-Black     |    1 |  16.67% | 100.00% |
+| 6    | Scizor / Garchomp / Latias / Sharpedo           |    1 |  16.67% | 100.00% |
+| 6    | Talonflame / Garchomp / Sharpedo / Kyurem-Black |    1 |  16.67% | 100.00% |
+| 6    | Talonflame / Scizor / Garchomp / Sharpedo       |    1 |  16.67% | 100.00% |
+| 6    | Scizor / Garchomp / Sharpedo / Kyurem-Black     |    1 |  16.67% | 100.00% |
+| 6    | Talonflame / Latias / Sharpedo / Kyurem-Black   |    1 |  16.67% | 100.00% |
+| 6    | Scizor / Talonflame / Latias / Sharpedo         |    1 |  16.67% | 100.00% |
+| 6    | Scizor / Kyurem-Black / Latias / Sharpedo       |    1 |  16.67% | 100.00% |
+| 6    | Scizor / Talonflame / Sharpedo / Kyurem-Black   |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Ferrothorn / Gliscor / Weavile        |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Gliscor / Chansey / Weavile           |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Zapdos / Gliscor / Weavile            |    1 |  16.67% | 100.00% |
+| 6    | Ferrothorn / Gliscor / Chansey / Weavile        |    1 |  16.67% | 100.00% |
+| 6    | Zapdos / Ferrothorn / Gliscor / Weavile         |    1 |  16.67% | 100.00% |
+| 6    | Zapdos / Gliscor / Chansey / Weavile            |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Ferrothorn / Chansey / Weavile        |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Zapdos / Ferrothorn / Weavile         |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Zapdos / Chansey / Weavile            |    1 |  16.67% | 100.00% |
+| 6    | Zapdos / Ferrothorn / Chansey / Weavile         |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Ferrothorn / Gliscor / Chansey        |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Zapdos / Ferrothorn / Gliscor         |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Zapdos / Gliscor / Chansey            |    1 |  16.67% | 100.00% |
+| 6    | Zapdos / Ferrothorn / Gliscor / Chansey         |    1 |  16.67% | 100.00% |
+| 6    | Slowbro / Zapdos / Ferrothorn / Chansey         |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Bisharp / Azelf / Excadrill          |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Bisharp / Azelf / Dragonite          |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Bisharp / Azelf / Manaphy            |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Excadrill / Azelf / Dragonite        |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Excadrill / Azelf / Manaphy          |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Azelf / Manaphy / Dragonite          |    1 |  16.67% | 100.00% |
+| 6    | Bisharp / Azelf / Excadrill / Dragonite         |    1 |  16.67% | 100.00% |
+| 6    | Bisharp / Azelf / Manaphy / Excadrill           |    1 |  16.67% | 100.00% |
+| 6    | Bisharp / Azelf / Manaphy / Dragonite           |    1 |  16.67% | 100.00% |
+| 6    | Excadrill / Azelf / Manaphy / Dragonite         |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Bisharp / Dragonite / Excadrill      |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Bisharp / Manaphy / Excadrill        |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Bisharp / Dragonite / Manaphy        |    1 |  16.67% | 100.00% |
+| 6    | Gyarados / Excadrill / Dragonite / Manaphy      |    1 |  16.67% | 100.00% |
+| 6    | Bisharp / Dragonite / Manaphy / Excadrill       |    1 |  16.67% | 100.00% |
+| 6    | Tyranitar / Alakazam / Excadrill / Keldeo       |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Alakazam / Excadrill / Zapdos       |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Alakazam / Excadrill / Tangrowth    |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Alakazam / Zapdos / Keldeo          |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Alakazam / Tangrowth / Keldeo       |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Alakazam / Zapdos / Tangrowth       |    1 |  16.67% |   0.00% |
+| 6    | Alakazam / Excadrill / Zapdos / Keldeo          |    1 |  16.67% |   0.00% |
+| 6    | Alakazam / Excadrill / Tangrowth / Keldeo       |    1 |  16.67% |   0.00% |
+| 6    | Alakazam / Excadrill / Tangrowth / Zapdos       |    1 |  16.67% |   0.00% |
+| 6    | Alakazam / Zapdos / Tangrowth / Keldeo          |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Excadrill / Zapdos / Keldeo         |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Excadrill / Tangrowth / Keldeo      |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Excadrill / Tangrowth / Zapdos      |    1 |  16.67% |   0.00% |
+| 6    | Tyranitar / Zapdos / Tangrowth / Keldeo         |    1 |  16.67% |   0.00% |
+| 6    | Zapdos / Excadrill / Tangrowth / Keldeo         |    1 |  16.67% |   0.00% |
+| 6    | Gardevoir / Scizor / Garchomp / Keldeo          |    1 |  16.67% |   0.00% |
+| 6    | Gardevoir / Scizor / Zapdos / Keldeo            |    1 |  16.67% |   0.00% |
+| 6    | Volcanion / Gardevoir / Scizor / Keldeo         |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Zapdos / Garchomp / Keldeo             |    1 |  16.67% |   0.00% |
+| 6    | Volcanion / Scizor / Garchomp / Keldeo          |    1 |  16.67% |   0.00% |
+| 6    | Volcanion / Scizor / Zapdos / Keldeo            |    1 |  16.67% |   0.00% |
+| 6    | Gardevoir / Zapdos / Garchomp / Keldeo          |    1 |  16.67% |   0.00% |
+| 6    | Volcanion / Gardevoir / Garchomp / Keldeo       |    1 |  16.67% |   0.00% |
+| 6    | Volcanion / Gardevoir / Zapdos / Keldeo         |    1 |  16.67% |   0.00% |
+| 6    | Volcanion / Zapdos / Garchomp / Keldeo          |    1 |  16.67% |   0.00% |
+| 6    | Gardevoir / Scizor / Zapdos / Garchomp          |    1 |  16.67% |   0.00% |
+| 6    | Gardevoir / Scizor / Garchomp / Volcanion       |    1 |  16.67% |   0.00% |
+| 6    | Gardevoir / Scizor / Zapdos / Volcanion         |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Zapdos / Garchomp / Volcanion          |    1 |  16.67% |   0.00% |
+| 6    | Gardevoir / Zapdos / Garchomp / Volcanion       |    1 |  16.67% |   0.00% |
+| 6    | Gyarados / Talonflame / Latias / Garchomp       |    1 |  16.67% |   0.00% |
+| 6    | Gyarados / Kyurem-Black / Latias / Garchomp     |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Gyarados / Latias / Garchomp           |    1 |  16.67% |   0.00% |
+| 6    | Gyarados / Talonflame / Garchomp / Kyurem-Black |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Gyarados / Talonflame / Garchomp       |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Gyarados / Kyurem-Black / Garchomp     |    1 |  16.67% |   0.00% |
+| 6    | Gyarados / Talonflame / Latias / Kyurem-Black   |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Gyarados / Talonflame / Latias         |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Gyarados / Kyurem-Black / Latias       |    1 |  16.67% |   0.00% |
+| 6    | Scizor / Gyarados / Talonflame / Kyurem-Black   |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                              | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Kyurem-Black / Latias / Talonflame / Scizor / Garchomp   |    2 |  33.33% |  50.00% |
+| 2    | Kyurem-Black / Latias / Talonflame / Sharpedo / Garchomp |    1 |  16.67% | 100.00% |
+| 2    | Latias / Talonflame / Sharpedo / Scizor / Garchomp       |    1 |  16.67% | 100.00% |
+| 2    | Kyurem-Black / Latias / Sharpedo / Scizor / Garchomp     |    1 |  16.67% | 100.00% |
+| 2    | Kyurem-Black / Talonflame / Sharpedo / Scizor / Garchomp |    1 |  16.67% | 100.00% |
+| 2    | Kyurem-Black / Latias / Talonflame / Scizor / Sharpedo   |    1 |  16.67% | 100.00% |
+| 2    | Chansey / Slowbro / Ferrothorn / Gliscor / Weavile       |    1 |  16.67% | 100.00% |
+| 2    | Zapdos / Slowbro / Ferrothorn / Gliscor / Weavile        |    1 |  16.67% | 100.00% |
+| 2    | Zapdos / Chansey / Slowbro / Gliscor / Weavile           |    1 |  16.67% | 100.00% |
+| 2    | Zapdos / Chansey / Ferrothorn / Gliscor / Weavile        |    1 |  16.67% | 100.00% |
+| 2    | Zapdos / Chansey / Slowbro / Ferrothorn / Weavile        |    1 |  16.67% | 100.00% |
+| 2    | Zapdos / Chansey / Slowbro / Ferrothorn / Gliscor        |    1 |  16.67% | 100.00% |
+| 2    | Gyarados / Azelf / Bisharp / Dragonite / Excadrill       |    1 |  16.67% | 100.00% |
+| 2    | Gyarados / Azelf / Manaphy / Bisharp / Excadrill         |    1 |  16.67% | 100.00% |
+| 2    | Gyarados / Azelf / Manaphy / Bisharp / Dragonite         |    1 |  16.67% | 100.00% |
+| 2    | Gyarados / Azelf / Manaphy / Dragonite / Excadrill       |    1 |  16.67% | 100.00% |
+| 2    | Azelf / Manaphy / Bisharp / Dragonite / Excadrill        |    1 |  16.67% | 100.00% |
+| 2    | Gyarados / Manaphy / Bisharp / Dragonite / Excadrill     |    1 |  16.67% | 100.00% |
+| 2    | Tyranitar / Zapdos / Keldeo / Alakazam / Excadrill       |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Keldeo / Alakazam / Tangrowth / Excadrill    |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Zapdos / Alakazam / Tangrowth / Excadrill    |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Zapdos / Keldeo / Alakazam / Tangrowth       |    1 |  16.67% |   0.00% |
+| 2    | Zapdos / Keldeo / Alakazam / Tangrowth / Excadrill       |    1 |  16.67% |   0.00% |
+| 2    | Tyranitar / Zapdos / Keldeo / Tangrowth / Excadrill      |    1 |  16.67% |   0.00% |
+| 2    | Gardevoir / Zapdos / Keldeo / Scizor / Garchomp          |    1 |  16.67% |   0.00% |
+| 2    | Volcanion / Gardevoir / Keldeo / Scizor / Garchomp       |    1 |  16.67% |   0.00% |
+| 2    | Volcanion / Gardevoir / Zapdos / Keldeo / Scizor         |    1 |  16.67% |   0.00% |
+| 2    | Volcanion / Zapdos / Keldeo / Scizor / Garchomp          |    1 |  16.67% |   0.00% |
+| 2    | Volcanion / Gardevoir / Zapdos / Keldeo / Garchomp       |    1 |  16.67% |   0.00% |
+| 2    | Volcanion / Gardevoir / Zapdos / Scizor / Garchomp       |    1 |  16.67% |   0.00% |
+| 2    | Gyarados / Kyurem-Black / Latias / Talonflame / Garchomp |    1 |  16.67% |   0.00% |
+| 2    | Gyarados / Latias / Talonflame / Scizor / Garchomp       |    1 |  16.67% |   0.00% |
+| 2    | Gyarados / Kyurem-Black / Latias / Scizor / Garchomp     |    1 |  16.67% |   0.00% |
+| 2    | Gyarados / Kyurem-Black / Talonflame / Scizor / Garchomp |    1 |  16.67% |   0.00% |
+| 2    | Gyarados / Kyurem-Black / Latias / Talonflame / Scizor   |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                       | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Kyurem-Black / Latias / Talonflame / Sharpedo / Scizor / Garchomp |    1 |  16.67% | 100.00% |
+| 1    | Zapdos / Chansey / Slowbro / Ferrothorn / Gliscor / Weavile       |    1 |  16.67% | 100.00% |
+| 1    | Gyarados / Azelf / Manaphy / Bisharp / Dragonite / Excadrill      |    1 |  16.67% | 100.00% |
+| 1    | Tyranitar / Zapdos / Keldeo / Alakazam / Tangrowth / Excadrill    |    1 |  16.67% |   0.00% |
+| 1    | Volcanion / Gardevoir / Zapdos / Keldeo / Scizor / Garchomp       |    1 |  16.67% |   0.00% |
+| 1    | Gyarados / Kyurem-Black / Latias / Talonflame / Scizor / Garchomp |    1 |  16.67% |   0.00% |
