@@ -1,0 +1,359 @@
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                           | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------- + ---- + ------- + ------- +
+| 1    | Furumo / Chinchou                     |    2 |  33.33% |  50.00% |
+| 1    | Grimace / Metapod                     |    2 |  33.33% |  50.00% |
+| 3    | Iron Clown / Charjabug                |    1 |  16.67% | 100.00% |
+| 3    | Charjabug / Chinchou                  |    1 |  16.67% | 100.00% |
+| 3    | Charjabug / Iron Boulder              |    1 |  16.67% | 100.00% |
+| 3    | Charjabug / Silcoon                   |    1 |  16.67% | 100.00% |
+| 3    | Furumo / Charjabug                    |    1 |  16.67% | 100.00% |
+| 3    | Iron Clown / Chinchou                 |    1 |  16.67% | 100.00% |
+| 3    | Iron Clown / Iron Boulder             |    1 |  16.67% | 100.00% |
+| 3    | Iron Clown / Silcoon                  |    1 |  16.67% | 100.00% |
+| 3    | Furumo / Iron Clown                   |    1 |  16.67% | 100.00% |
+| 3    | Chinchou / Iron Boulder               |    1 |  16.67% | 100.00% |
+| 3    | Chinchou / Silcoon                    |    1 |  16.67% | 100.00% |
+| 3    | Silcoon / Iron Boulder                |    1 |  16.67% | 100.00% |
+| 3    | Furumo / Iron Boulder                 |    1 |  16.67% | 100.00% |
+| 3    | Furumo / Silcoon                      |    1 |  16.67% | 100.00% |
+| 3    | Glaceon / Nihilego                    |    1 |  16.67% | 100.00% |
+| 3    | Glaceon / Pidown                      |    1 |  16.67% | 100.00% |
+| 3    | Glaceon / Metapod                     |    1 |  16.67% | 100.00% |
+| 3    | Glaceon / Moltres                     |    1 |  16.67% | 100.00% |
+| 3    | Glaceon / Celesteela                  |    1 |  16.67% | 100.00% |
+| 3    | Nihilego / Pidown                     |    1 |  16.67% | 100.00% |
+| 3    | Metapod / Nihilego                    |    1 |  16.67% | 100.00% |
+| 3    | Nihilego / Moltres                    |    1 |  16.67% | 100.00% |
+| 3    | Celesteela / Nihilego                 |    1 |  16.67% | 100.00% |
+| 3    | Metapod / Pidown                      |    1 |  16.67% | 100.00% |
+| 3    | Pidown / Moltres                      |    1 |  16.67% | 100.00% |
+| 3    | Celesteela / Pidown                   |    1 |  16.67% | 100.00% |
+| 3    | Metapod / Moltres                     |    1 |  16.67% | 100.00% |
+| 3    | Celesteela / Metapod                  |    1 |  16.67% | 100.00% |
+| 3    | Celesteela / Moltres                  |    1 |  16.67% | 100.00% |
+| 3    | Crabominable / Metapod                |    1 |  16.67% | 100.00% |
+| 3    | Crabominable / Zestii                 |    1 |  16.67% | 100.00% |
+| 3    | Crabominable / Kingler                |    1 |  16.67% | 100.00% |
+| 3    | Crabominable / Grimace                |    1 |  16.67% | 100.00% |
+| 3    | Crabominable / Lickilord              |    1 |  16.67% | 100.00% |
+| 3    | Zestii / Metapod                      |    1 |  16.67% | 100.00% |
+| 3    | Kingler / Metapod                     |    1 |  16.67% | 100.00% |
+| 3    | Lickilord / Metapod                   |    1 |  16.67% | 100.00% |
+| 3    | Kingler / Zestii                      |    1 |  16.67% | 100.00% |
+| 3    | Zestii / Grimace                      |    1 |  16.67% | 100.00% |
+| 3    | Zestii / Lickilord                    |    1 |  16.67% | 100.00% |
+| 3    | Kingler / Grimace                     |    1 |  16.67% | 100.00% |
+| 3    | Kingler / Lickilord                   |    1 |  16.67% | 100.00% |
+| 3    | Grimace / Lickilord                   |    1 |  16.67% | 100.00% |
+| 3    | Chinchou / Apple's Newest Emoji       |    1 |  16.67% |   0.00% |
+| 3    | Silvally / Chinchou                   |    1 |  16.67% |   0.00% |
+| 3    | Chinchou / Metapod                    |    1 |  16.67% |   0.00% |
+| 3    | Chinchou / Nedontrol                  |    1 |  16.67% |   0.00% |
+| 3    | Silvally / Apple's Newest Emoji       |    1 |  16.67% |   0.00% |
+| 3    | Apple's Newest Emoji / Metapod        |    1 |  16.67% |   0.00% |
+| 3    | Nedontrol / Apple's Newest Emoji      |    1 |  16.67% |   0.00% |
+| 3    | Furumo / Apple's Newest Emoji         |    1 |  16.67% |   0.00% |
+| 3    | Silvally / Metapod                    |    1 |  16.67% |   0.00% |
+| 3    | Silvally / Nedontrol                  |    1 |  16.67% |   0.00% |
+| 3    | Silvally / Furumo                     |    1 |  16.67% |   0.00% |
+| 3    | Nedontrol / Metapod                   |    1 |  16.67% |   0.00% |
+| 3    | Furumo / Metapod                      |    1 |  16.67% |   0.00% |
+| 3    | Furumo / Nedontrol                    |    1 |  16.67% |   0.00% |
+| 3    | Lemon Fish / Kyogre                   |    1 |  16.67% |   0.00% |
+| 3    | Kyogre / awesome possum               |    1 |  16.67% |   0.00% |
+| 3    | Kyogre / Zacian-Crowned               |    1 |  16.67% |   0.00% |
+| 3    | palpitoad is so cool / Kyogre         |    1 |  16.67% |   0.00% |
+| 3    | Kyogre / Moltres                      |    1 |  16.67% |   0.00% |
+| 3    | Lemon Fish / awesome possum           |    1 |  16.67% |   0.00% |
+| 3    | Lemon Fish / Zacian-Crowned           |    1 |  16.67% |   0.00% |
+| 3    | Lemon Fish / palpitoad is so cool     |    1 |  16.67% |   0.00% |
+| 3    | Lemon Fish / Moltres                  |    1 |  16.67% |   0.00% |
+| 3    | awesome possum / Zacian-Crowned       |    1 |  16.67% |   0.00% |
+| 3    | palpitoad is so cool / awesome possum |    1 |  16.67% |   0.00% |
+| 3    | awesome possum / Moltres              |    1 |  16.67% |   0.00% |
+| 3    | palpitoad is so cool / Zacian-Crowned |    1 |  16.67% |   0.00% |
+| 3    | Zacian-Crowned / Moltres              |    1 |  16.67% |   0.00% |
+| 3    | palpitoad is so cool / Moltres        |    1 |  16.67% |   0.00% |
+| 3    | Grimace / fat fuck                    |    1 |  16.67% |   0.00% |
+| 3    | fat fuck / Hydralemon                 |    1 |  16.67% |   0.00% |
+| 3    | fat fuck / Archeops                   |    1 |  16.67% |   0.00% |
+| 3    | Metapod / fat fuck                    |    1 |  16.67% |   0.00% |
+| 3    | fat fuck / Kurayami                   |    1 |  16.67% |   0.00% |
+| 3    | Grimace / Hydralemon                  |    1 |  16.67% |   0.00% |
+| 3    | Grimace / Archeops                    |    1 |  16.67% |   0.00% |
+| 3    | Grimace / Kurayami                    |    1 |  16.67% |   0.00% |
+| 3    | Hydralemon / Archeops                 |    1 |  16.67% |   0.00% |
+| 3    | Metapod / Hydralemon                  |    1 |  16.67% |   0.00% |
+| 3    | Kurayami / Hydralemon                 |    1 |  16.67% |   0.00% |
+| 3    | Metapod / Archeops                    |    1 |  16.67% |   0.00% |
+| 3    | Kurayami / Archeops                   |    1 |  16.67% |   0.00% |
+| 3    | Metapod / Kurayami                    |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Iron Clown / Charjabug / Chinchou                      |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Charjabug / Iron Boulder                  |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Charjabug / Silcoon                       |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Charjabug                        |    1 |  16.67% | 100.00% |
+| 1    | Iron Boulder / Charjabug / Chinchou                    |    1 |  16.67% | 100.00% |
+| 1    | Charjabug / Silcoon / Chinchou                         |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Charjabug / Chinchou                          |    1 |  16.67% | 100.00% |
+| 1    | Charjabug / Silcoon / Iron Boulder                     |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Charjabug / Iron Boulder                      |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Charjabug / Silcoon                           |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Chinchou / Iron Boulder                   |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Chinchou / Silcoon                        |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Chinchou                         |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Silcoon / Iron Boulder                    |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Iron Boulder                     |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Silcoon                          |    1 |  16.67% | 100.00% |
+| 1    | Chinchou / Silcoon / Iron Boulder                      |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Chinchou / Iron Boulder                       |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Chinchou / Silcoon                            |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Silcoon / Iron Boulder                        |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Nihilego / Pidown                            |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Nihilego / Metapod                           |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Nihilego / Moltres                           |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Nihilego                        |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Metapod / Pidown                             |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Pidown / Moltres                             |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Pidown                          |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Metapod / Moltres                            |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Metapod                         |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Moltres                         |    1 |  16.67% | 100.00% |
+| 1    | Metapod / Nihilego / Pidown                            |    1 |  16.67% | 100.00% |
+| 1    | Nihilego / Pidown / Moltres                            |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Nihilego / Pidown                         |    1 |  16.67% | 100.00% |
+| 1    | Metapod / Nihilego / Moltres                           |    1 |  16.67% | 100.00% |
+| 1    | Metapod / Celesteela / Nihilego                        |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Nihilego / Moltres                        |    1 |  16.67% | 100.00% |
+| 1    | Metapod / Pidown / Moltres                             |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Metapod / Pidown                          |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Pidown / Moltres                          |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Metapod / Moltres                         |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Zestii / Metapod                        |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Metapod                       |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Grimace / Metapod                       |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Crabominable / Metapod                     |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Zestii                        |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Zestii / Grimace                        |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Zestii / Lickilord                      |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Grimace                       |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Lickilord                     |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Grimace / Lickilord                     |    1 |  16.67% | 100.00% |
+| 1    | Kingler / Zestii / Metapod                             |    1 |  16.67% | 100.00% |
+| 1    | Zestii / Metapod / Grimace                             |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Zestii / Metapod                           |    1 |  16.67% | 100.00% |
+| 1    | Kingler / Grimace / Metapod                            |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Kingler / Metapod                          |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Grimace / Metapod                          |    1 |  16.67% | 100.00% |
+| 1    | Kingler / Zestii / Grimace                             |    1 |  16.67% | 100.00% |
+| 1    | Kingler / Zestii / Lickilord                           |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Zestii / Grimace                           |    1 |  16.67% | 100.00% |
+| 1    | Kingler / Grimace / Lickilord                          |    1 |  16.67% | 100.00% |
+| 1    | Silvally / Chinchou / Apple's Newest Emoji             |    1 |  16.67% |   0.00% |
+| 1    | Chinchou / Apple's Newest Emoji / Metapod              |    1 |  16.67% |   0.00% |
+| 1    | Nedontrol / Chinchou / Apple's Newest Emoji            |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Apple's Newest Emoji               |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Metapod                          |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Nedontrol                        |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Furumo                           |    1 |  16.67% |   0.00% |
+| 1    | Chinchou / Nedontrol / Metapod                         |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Metapod                            |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Nedontrol                          |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Apple's Newest Emoji / Metapod              |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Apple's Newest Emoji / Nedontrol            |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Apple's Newest Emoji / Furumo               |    1 |  16.67% |   0.00% |
+| 1    | Nedontrol / Apple's Newest Emoji / Metapod             |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Apple's Newest Emoji / Metapod                |    1 |  16.67% |   0.00% |
+| 1    | Nedontrol / Apple's Newest Emoji / Furumo              |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Nedontrol / Metapod                         |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Furumo / Metapod                            |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Nedontrol / Furumo                          |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Nedontrol / Metapod                           |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / awesome possum                   |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / Zacian-Crowned                   |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / palpitoad is so cool             |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / Moltres                          |    1 |  16.67% |   0.00% |
+| 1    | Kyogre / awesome possum / Zacian-Crowned               |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Kyogre / awesome possum         |    1 |  16.67% |   0.00% |
+| 1    | Kyogre / awesome possum / Moltres                      |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Kyogre / Zacian-Crowned         |    1 |  16.67% |   0.00% |
+| 1    | Kyogre / Zacian-Crowned / Moltres                      |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Kyogre / Moltres                |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / awesome possum / Zacian-Crowned           |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / awesome possum / palpitoad is so cool     |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / awesome possum / Moltres                  |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Zacian-Crowned / palpitoad is so cool     |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Zacian-Crowned / Moltres                  |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / palpitoad is so cool / Moltres            |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / awesome possum / Zacian-Crowned |    1 |  16.67% |   0.00% |
+| 1    | awesome possum / Zacian-Crowned / Moltres              |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / awesome possum / Moltres        |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Zacian-Crowned / Moltres        |    1 |  16.67% |   0.00% |
+| 1    | Grimace / fat fuck / Hydralemon                        |    1 |  16.67% |   0.00% |
+| 1    | Grimace / fat fuck / Archeops                          |    1 |  16.67% |   0.00% |
+| 1    | Metapod / Grimace / fat fuck                           |    1 |  16.67% |   0.00% |
+| 1    | Grimace / fat fuck / Kurayami                          |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Hydralemon / Archeops                       |    1 |  16.67% |   0.00% |
+| 1    | Metapod / fat fuck / Hydralemon                        |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Hydralemon / Kurayami                       |    1 |  16.67% |   0.00% |
+| 1    | Metapod / fat fuck / Archeops                          |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Kurayami / Archeops                         |    1 |  16.67% |   0.00% |
+| 1    | Metapod / fat fuck / Kurayami                          |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Hydralemon / Archeops                        |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Metapod / Hydralemon                         |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Kurayami / Hydralemon                        |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Metapod / Archeops                           |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Kurayami / Archeops                          |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Metapod / Kurayami                           |    1 |  16.67% |   0.00% |
+| 1    | Metapod / Hydralemon / Archeops                        |    1 |  16.67% |   0.00% |
+| 1    | Kurayami / Hydralemon / Archeops                       |    1 |  16.67% |   0.00% |
+| 1    | Metapod / Hydralemon / Kurayami                        |    1 |  16.67% |   0.00% |
+| 1    | Metapod / Kurayami / Archeops                          |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                         | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Iron Boulder / Iron Clown / Charjabug / Chinchou                    |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Charjabug / Silcoon / Chinchou                         |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Charjabug / Chinchou                          |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Charjabug / Silcoon / Iron Boulder                     |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Charjabug / Iron Boulder                      |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Charjabug / Silcoon                           |    1 |  16.67% | 100.00% |
+| 1    | Iron Boulder / Charjabug / Silcoon / Chinchou                       |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Boulder / Charjabug / Chinchou                        |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Charjabug / Silcoon / Chinchou                             |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Charjabug / Silcoon / Iron Boulder                         |    1 |  16.67% | 100.00% |
+| 1    | Iron Clown / Chinchou / Silcoon / Iron Boulder                      |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Chinchou / Iron Boulder                       |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Chinchou / Silcoon                            |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Silcoon / Iron Boulder                        |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Chinchou / Silcoon / Iron Boulder                          |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Metapod / Nihilego / Pidown                               |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Nihilego / Pidown / Moltres                               |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Nihilego / Pidown                            |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Nihilego / Metapod / Moltres                              |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Nihilego / Metapod                           |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Nihilego / Moltres                           |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Metapod / Pidown / Moltres                                |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Metapod / Pidown                             |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Pidown / Moltres                             |    1 |  16.67% | 100.00% |
+| 1    | Glaceon / Celesteela / Metapod / Moltres                            |    1 |  16.67% | 100.00% |
+| 1    | Metapod / Nihilego / Pidown / Moltres                               |    1 |  16.67% | 100.00% |
+| 1    | Metapod / Celesteela / Nihilego / Pidown                            |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Nihilego / Pidown / Moltres                            |    1 |  16.67% | 100.00% |
+| 1    | Metapod / Celesteela / Nihilego / Moltres                           |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Metapod / Pidown / Moltres                             |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Zestii / Metapod                           |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Zestii / Metapod / Grimace                           |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Crabominable / Zestii / Metapod                         |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Grimace / Metapod                          |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Crabominable / Kingler / Metapod                        |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Crabominable / Grimace / Metapod                        |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Zestii / Grimace                           |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Zestii / Lickilord                         |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Crabominable / Zestii / Grimace                         |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Grimace / Lickilord                        |    1 |  16.67% | 100.00% |
+| 1    | Kingler / Zestii / Metapod / Grimace                                |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Kingler / Zestii / Metapod                              |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Zestii / Metapod / Grimace                              |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Kingler / Grimace / Metapod                             |    1 |  16.67% | 100.00% |
+| 1    | Lickilord / Kingler / Zestii / Grimace                              |    1 |  16.67% | 100.00% |
+| 1    | Silvally / Chinchou / Apple's Newest Emoji / Metapod                |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Apple's Newest Emoji / Nedontrol              |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Apple's Newest Emoji / Furumo                 |    1 |  16.67% |   0.00% |
+| 1    | Nedontrol / Chinchou / Apple's Newest Emoji / Metapod               |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Apple's Newest Emoji / Metapod                  |    1 |  16.67% |   0.00% |
+| 1    | Nedontrol / Chinchou / Apple's Newest Emoji / Furumo                |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Nedontrol / Metapod                           |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Furumo / Metapod                              |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Chinchou / Nedontrol / Furumo                            |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Nedontrol / Metapod                             |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Apple's Newest Emoji / Metapod / Nedontrol               |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Apple's Newest Emoji / Metapod / Furumo                  |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Apple's Newest Emoji / Nedontrol / Furumo                |    1 |  16.67% |   0.00% |
+| 1    | Nedontrol / Apple's Newest Emoji / Metapod / Furumo                 |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Nedontrol / Metapod / Furumo                             |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / awesome possum / Zacian-Crowned               |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / awesome possum / palpitoad is so cool         |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / awesome possum / Moltres                      |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / Zacian-Crowned / palpitoad is so cool         |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / Zacian-Crowned / Moltres                      |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Kyogre / palpitoad is so cool / Moltres                |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Kyogre / awesome possum / Zacian-Crowned     |    1 |  16.67% |   0.00% |
+| 1    | Kyogre / awesome possum / Zacian-Crowned / Moltres                  |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Kyogre / awesome possum / Moltres            |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Kyogre / Zacian-Crowned / Moltres            |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / awesome possum / Zacian-Crowned / palpitoad is so cool |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / awesome possum / Zacian-Crowned / Moltres              |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / awesome possum / palpitoad is so cool / Moltres        |    1 |  16.67% |   0.00% |
+| 1    | Lemon Fish / Zacian-Crowned / Moltres / palpitoad is so cool        |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / awesome possum / Zacian-Crowned / Moltres    |    1 |  16.67% |   0.00% |
+| 1    | Grimace / fat fuck / Hydralemon / Archeops                          |    1 |  16.67% |   0.00% |
+| 1    | Metapod / Grimace / fat fuck / Hydralemon                           |    1 |  16.67% |   0.00% |
+| 1    | Grimace / fat fuck / Hydralemon / Kurayami                          |    1 |  16.67% |   0.00% |
+| 1    | Metapod / Grimace / fat fuck / Archeops                             |    1 |  16.67% |   0.00% |
+| 1    | Grimace / fat fuck / Kurayami / Archeops                            |    1 |  16.67% |   0.00% |
+| 1    | Metapod / Grimace / fat fuck / Kurayami                             |    1 |  16.67% |   0.00% |
+| 1    | Metapod / fat fuck / Hydralemon / Archeops                          |    1 |  16.67% |   0.00% |
+| 1    | Kurayami / fat fuck / Hydralemon / Archeops                         |    1 |  16.67% |   0.00% |
+| 1    | Metapod / fat fuck / Hydralemon / Kurayami                          |    1 |  16.67% |   0.00% |
+| 1    | Metapod / fat fuck / Kurayami / Archeops                            |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Metapod / Hydralemon / Archeops                           |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Kurayami / Hydralemon / Archeops                          |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Metapod / Hydralemon / Kurayami                           |    1 |  16.67% |   0.00% |
+| 1    | Grimace / Metapod / Kurayami / Archeops                             |    1 |  16.67% |   0.00% |
+| 1    | Kurayami / Metapod / Hydralemon / Archeops                          |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                                   | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Iron Boulder / Iron Clown / Chinchou / Charjabug / Silcoon                    |    1 |  16.67% | 100.00% |
+| 1    | Iron Boulder / Furumo / Iron Clown / Chinchou / Charjabug                     |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Iron Clown / Chinchou / Charjabug / Silcoon                          |    1 |  16.67% | 100.00% |
+| 1    | Iron Boulder / Furumo / Iron Clown / Charjabug / Silcoon                      |    1 |  16.67% | 100.00% |
+| 1    | Iron Boulder / Furumo / Chinchou / Charjabug / Silcoon                        |    1 |  16.67% | 100.00% |
+| 1    | Iron Boulder / Furumo / Iron Clown / Chinchou / Silcoon                       |    1 |  16.67% | 100.00% |
+| 1    | Pidown / Metapod / Nihilego / Moltres / Glaceon                               |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Pidown / Metapod / Nihilego / Glaceon                            |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Pidown / Nihilego / Moltres / Glaceon                            |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Nihilego / Metapod / Moltres / Glaceon                           |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Pidown / Metapod / Moltres / Glaceon                             |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Pidown / Metapod / Nihilego / Moltres                            |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Grimace / Metapod / Zestii                           |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Lickilord / Metapod / Zestii                         |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Grimace / Lickilord / Metapod / Zestii                         |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Grimace / Lickilord / Metapod                        |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Grimace / Lickilord / Zestii                         |    1 |  16.67% | 100.00% |
+| 1    | Kingler / Grimace / Lickilord / Metapod / Zestii                              |    1 |  16.67% | 100.00% |
+| 1    | Chinchou / Apple's Newest Emoji / Silvally / Metapod / Nedontrol              |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Apple's Newest Emoji / Silvally / Metapod                 |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Apple's Newest Emoji / Silvally / Nedontrol               |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Apple's Newest Emoji / Metapod / Nedontrol                |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Chinchou / Silvally / Metapod / Nedontrol                            |    1 |  16.67% |   0.00% |
+| 1    | Furumo / Apple's Newest Emoji / Silvally / Metapod / Nedontrol                |    1 |  16.67% |   0.00% |
+| 1    | Zacian-Crowned / palpitoad is so cool / Kyogre / awesome possum / Lemon Fish  |    1 |  16.67% |   0.00% |
+| 1    | Zacian-Crowned / Kyogre / awesome possum / Moltres / Lemon Fish               |    1 |  16.67% |   0.00% |
+| 1    | palpitoad is so cool / Kyogre / awesome possum / Moltres / Lemon Fish         |    1 |  16.67% |   0.00% |
+| 1    | Zacian-Crowned / palpitoad is so cool / Kyogre / Moltres / Lemon Fish         |    1 |  16.67% |   0.00% |
+| 1    | Zacian-Crowned / palpitoad is so cool / Kyogre / awesome possum / Moltres     |    1 |  16.67% |   0.00% |
+| 1    | Zacian-Crowned / palpitoad is so cool / awesome possum / Moltres / Lemon Fish |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Hydralemon / Grimace / Metapod / Archeops                          |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Hydralemon / Kurayami / Grimace / Archeops                         |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Hydralemon / Kurayami / Grimace / Metapod                          |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Kurayami / Grimace / Metapod / Archeops                            |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Hydralemon / Kurayami / Metapod / Archeops                         |    1 |  16.67% |   0.00% |
+| 1    | Hydralemon / Kurayami / Grimace / Metapod / Archeops                          |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                            | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Iron Boulder / Furumo / Iron Clown / Chinchou / Charjabug / Silcoon                    |    1 |  16.67% | 100.00% |
+| 1    | Celesteela / Pidown / Metapod / Nihilego / Moltres / Glaceon                           |    1 |  16.67% | 100.00% |
+| 1    | Crabominable / Kingler / Grimace / Metapod / Lickilord / Zestii                        |    1 |  16.67% | 100.00% |
+| 1    | Furumo / Chinchou / Apple's Newest Emoji / Silvally / Metapod / Nedontrol              |    1 |  16.67% |   0.00% |
+| 1    | Zacian-Crowned / palpitoad is so cool / Kyogre / awesome possum / Moltres / Lemon Fish |    1 |  16.67% |   0.00% |
+| 1    | fat fuck / Hydralemon / Kurayami / Grimace / Metapod / Archeops                        |    1 |  16.67% |   0.00% |
