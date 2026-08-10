@@ -1,0 +1,442 @@
++ ---- + ---------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2            | Use  | Usage % |  Win %  |
++ ---- + ---------------------- + ---- + ------- + ------- +
+| 1    | Pawniard / Foongus     |    3 |  37.50% |  33.33% |
+| 1    | Onix / Mienfoo         |    3 |  37.50% |  33.33% |
+| 1    | Gothita / Mienfoo      |    3 |  37.50% |   0.00% |
+| 4    | Spritzee / Fletchling  |    2 |  25.00% | 100.00% |
+| 4    | Pawniard / Gastly      |    2 |  25.00% | 100.00% |
+| 4    | Abra / Foongus         |    2 |  25.00% |  50.00% |
+| 4    | Abra / Onix            |    2 |  25.00% |  50.00% |
+| 4    | Abra / Pawniard        |    2 |  25.00% |  50.00% |
+| 4    | Onix / Foongus         |    2 |  25.00% |  50.00% |
+| 4    | Onix / Pawniard        |    2 |  25.00% |  50.00% |
+| 4    | Ferroseed / Fletchling |    2 |  25.00% |  50.00% |
+| 4    | Mienfoo / Fletchling   |    2 |  25.00% |  50.00% |
+| 4    | Mienfoo / Ferroseed    |    2 |  25.00% |  50.00% |
+| 4    | Fletchling / Chinchou  |    2 |  25.00% |  50.00% |
+| 4    | Omanyte / Timburr      |    2 |  25.00% |  50.00% |
+| 4    | Timburr / Foongus      |    2 |  25.00% |  50.00% |
+| 4    | Pawniard / Timburr     |    2 |  25.00% |  50.00% |
+| 4    | Mienfoo / Foongus      |    2 |  25.00% |   0.00% |
+| 4    | Mienfoo / Pawniard     |    2 |  25.00% |   0.00% |
+| 4    | Gothita / Snubbull     |    2 |  25.00% |   0.00% |
+| 4    | Mienfoo / Snubbull     |    2 |  25.00% |   0.00% |
+| 22   | Frillish / Fletchling  |    1 |  12.50% | 100.00% |
+| 22   | Onix / Fletchling      |    1 |  12.50% | 100.00% |
+| 22   | Ferroseed / Frillish   |    1 |  12.50% | 100.00% |
+| 22   | Onix / Frillish        |    1 |  12.50% | 100.00% |
+| 22   | Mienfoo / Frillish     |    1 |  12.50% | 100.00% |
+| 22   | Spritzee / Frillish    |    1 |  12.50% | 100.00% |
+| 22   | Onix / Ferroseed       |    1 |  12.50% | 100.00% |
+| 22   | Spritzee / Ferroseed   |    1 |  12.50% | 100.00% |
+| 22   | Onix / Spritzee        |    1 |  12.50% | 100.00% |
+| 22   | Mienfoo / Spritzee     |    1 |  12.50% | 100.00% |
+| 22   | Pawniard / Trubbish    |    1 |  12.50% | 100.00% |
+| 22   | Pawniard / Diglett     |    1 |  12.50% | 100.00% |
+| 22   | Pawniard / Chinchou    |    1 |  12.50% | 100.00% |
+| 22   | Pawniard / Fletchling  |    1 |  12.50% | 100.00% |
+| 22   | Trubbish / Gastly      |    1 |  12.50% | 100.00% |
+| 22   | Gastly / Diglett       |    1 |  12.50% | 100.00% |
+| 22   | Chinchou / Gastly      |    1 |  12.50% | 100.00% |
+| 22   | Fletchling / Gastly    |    1 |  12.50% | 100.00% |
+| 22   | Trubbish / Diglett     |    1 |  12.50% | 100.00% |
+| 22   | Trubbish / Chinchou    |    1 |  12.50% | 100.00% |
+| 22   | Trubbish / Fletchling  |    1 |  12.50% | 100.00% |
+| 22   | Chinchou / Diglett     |    1 |  12.50% | 100.00% |
+| 22   | Fletchling / Diglett   |    1 |  12.50% | 100.00% |
+| 22   | Timburr / Fletchling   |    1 |  12.50% | 100.00% |
+| 22   | Porygon / Timburr      |    1 |  12.50% | 100.00% |
+| 22   | Stunky / Timburr       |    1 |  12.50% | 100.00% |
+| 22   | Spritzee / Timburr     |    1 |  12.50% | 100.00% |
+| 22   | Porygon / Fletchling   |    1 |  12.50% | 100.00% |
+| 22   | Stunky / Fletchling    |    1 |  12.50% | 100.00% |
+| 22   | Omanyte / Fletchling   |    1 |  12.50% | 100.00% |
+| 22   | Stunky / Porygon       |    1 |  12.50% | 100.00% |
+| 22   | Porygon / Spritzee     |    1 |  12.50% | 100.00% |
+| 22   | Omanyte / Porygon      |    1 |  12.50% | 100.00% |
+| 22   | Stunky / Spritzee      |    1 |  12.50% | 100.00% |
+| 22   | Omanyte / Stunky       |    1 |  12.50% | 100.00% |
+| 22   | Omanyte / Spritzee     |    1 |  12.50% | 100.00% |
+| 22   | Gastly / Foongus       |    1 |  12.50% | 100.00% |
+| 22   | Timburr / Gastly       |    1 |  12.50% | 100.00% |
+| 22   | Onix / Gastly          |    1 |  12.50% | 100.00% |
+| 22   | Abra / Gastly          |    1 |  12.50% | 100.00% |
+| 22   | Onix / Timburr         |    1 |  12.50% | 100.00% |
+| 22   | Abra / Timburr         |    1 |  12.50% | 100.00% |
+| 22   | Abra / Mienfoo         |    1 |  12.50% |   0.00% |
+| 22   | Abra / Porygon         |    1 |  12.50% |   0.00% |
+| 22   | Porygon / Foongus      |    1 |  12.50% |   0.00% |
+| 22   | Onix / Porygon         |    1 |  12.50% |   0.00% |
+| 22   | Mienfoo / Porygon      |    1 |  12.50% |   0.00% |
+| 22   | Porygon / Pawniard     |    1 |  12.50% |   0.00% |
+| 22   | Vulpix / Bellsprout    |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Vulpix       |    1 |  12.50% |   0.00% |
+| 22   | Snubbull / Vulpix      |    1 |  12.50% |   0.00% |
+| 22   | Mienfoo / Vulpix       |    1 |  12.50% |   0.00% |
+| 22   | Onix / Vulpix          |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Bellsprout   |    1 |  12.50% |   0.00% |
+| 22   | Snubbull / Bellsprout  |    1 |  12.50% |   0.00% |
+| 22   | Mienfoo / Bellsprout   |    1 |  12.50% |   0.00% |
+| 22   | Onix / Bellsprout      |    1 |  12.50% |   0.00% |
+| 22   | Onix / Gothita         |    1 |  12.50% |   0.00% |
+| 22   | Onix / Snubbull        |    1 |  12.50% |   0.00% |
+| 22   | Mienfoo / Timburr      |    1 |  12.50% |   0.00% |
+| 22   | Omanyte / Mienfoo      |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Timburr      |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Foongus      |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Pawniard     |    1 |  12.50% |   0.00% |
+| 22   | Omanyte / Gothita      |    1 |  12.50% |   0.00% |
+| 22   | Omanyte / Foongus      |    1 |  12.50% |   0.00% |
+| 22   | Omanyte / Pawniard     |    1 |  12.50% |   0.00% |
+| 22   | Snubbull / Fletchling  |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Fletchling   |    1 |  12.50% |   0.00% |
+| 22   | Mienfoo / Chinchou     |    1 |  12.50% |   0.00% |
+| 22   | Snubbull / Ferroseed   |    1 |  12.50% |   0.00% |
+| 22   | Ferroseed / Chinchou   |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Ferroseed    |    1 |  12.50% |   0.00% |
+| 22   | Snubbull / Chinchou    |    1 |  12.50% |   0.00% |
+| 22   | Gothita / Chinchou     |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------- + ---- + ------- + ------- +
+| 1    | Abra / Onix / Foongus             |    2 |  25.00% |  50.00% |
+| 1    | Abra / Pawniard / Foongus         |    2 |  25.00% |  50.00% |
+| 1    | Abra / Onix / Pawniard            |    2 |  25.00% |  50.00% |
+| 1    | Onix / Pawniard / Foongus         |    2 |  25.00% |  50.00% |
+| 1    | Mienfoo / Ferroseed / Fletchling  |    2 |  25.00% |  50.00% |
+| 1    | Pawniard / Timburr / Foongus      |    2 |  25.00% |  50.00% |
+| 1    | Mienfoo / Pawniard / Foongus      |    2 |  25.00% |   0.00% |
+| 1    | Gothita / Snubbull / Mienfoo      |    2 |  25.00% |   0.00% |
+| 9    | Frillish / Ferroseed / Fletchling |    1 |  12.50% | 100.00% |
+| 9    | Onix / Frillish / Fletchling      |    1 |  12.50% | 100.00% |
+| 9    | Frillish / Fletchling / Mienfoo   |    1 |  12.50% | 100.00% |
+| 9    | Frillish / Spritzee / Fletchling  |    1 |  12.50% | 100.00% |
+| 9    | Onix / Ferroseed / Fletchling     |    1 |  12.50% | 100.00% |
+| 9    | Spritzee / Ferroseed / Fletchling |    1 |  12.50% | 100.00% |
+| 9    | Onix / Fletchling / Mienfoo       |    1 |  12.50% | 100.00% |
+| 9    | Onix / Spritzee / Fletchling      |    1 |  12.50% | 100.00% |
+| 9    | Mienfoo / Spritzee / Fletchling   |    1 |  12.50% | 100.00% |
+| 9    | Onix / Ferroseed / Frillish       |    1 |  12.50% | 100.00% |
+| 9    | Mienfoo / Ferroseed / Frillish    |    1 |  12.50% | 100.00% |
+| 9    | Spritzee / Ferroseed / Frillish   |    1 |  12.50% | 100.00% |
+| 9    | Onix / Frillish / Mienfoo         |    1 |  12.50% | 100.00% |
+| 9    | Onix / Spritzee / Frillish        |    1 |  12.50% | 100.00% |
+| 9    | Mienfoo / Spritzee / Frillish     |    1 |  12.50% | 100.00% |
+| 9    | Onix / Ferroseed / Mienfoo        |    1 |  12.50% | 100.00% |
+| 9    | Onix / Spritzee / Ferroseed       |    1 |  12.50% | 100.00% |
+| 9    | Mienfoo / Spritzee / Ferroseed    |    1 |  12.50% | 100.00% |
+| 9    | Onix / Spritzee / Mienfoo         |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Trubbish / Gastly      |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Gastly / Diglett       |    1 |  12.50% | 100.00% |
+| 9    | Chinchou / Pawniard / Gastly      |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Gastly / Fletchling    |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Trubbish / Diglett     |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Trubbish / Chinchou    |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Trubbish / Fletchling  |    1 |  12.50% | 100.00% |
+| 9    | Chinchou / Pawniard / Diglett     |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Diglett / Fletchling   |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Chinchou / Fletchling  |    1 |  12.50% | 100.00% |
+| 9    | Trubbish / Gastly / Diglett       |    1 |  12.50% | 100.00% |
+| 9    | Chinchou / Trubbish / Gastly      |    1 |  12.50% | 100.00% |
+| 9    | Fletchling / Trubbish / Gastly    |    1 |  12.50% | 100.00% |
+| 9    | Chinchou / Gastly / Diglett       |    1 |  12.50% | 100.00% |
+| 9    | Fletchling / Gastly / Diglett     |    1 |  12.50% | 100.00% |
+| 9    | Chinchou / Fletchling / Gastly    |    1 |  12.50% | 100.00% |
+| 9    | Chinchou / Trubbish / Diglett     |    1 |  12.50% | 100.00% |
+| 9    | Fletchling / Trubbish / Diglett   |    1 |  12.50% | 100.00% |
+| 9    | Fletchling / Trubbish / Chinchou  |    1 |  12.50% | 100.00% |
+| 9    | Chinchou / Fletchling / Diglett   |    1 |  12.50% | 100.00% |
+| 9    | Porygon / Timburr / Fletchling    |    1 |  12.50% | 100.00% |
+| 9    | Stunky / Timburr / Fletchling     |    1 |  12.50% | 100.00% |
+| 9    | Spritzee / Timburr / Fletchling   |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Timburr / Fletchling    |    1 |  12.50% | 100.00% |
+| 9    | Stunky / Porygon / Timburr        |    1 |  12.50% | 100.00% |
+| 9    | Porygon / Timburr / Spritzee      |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Porygon / Timburr       |    1 |  12.50% | 100.00% |
+| 9    | Stunky / Spritzee / Timburr       |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Stunky / Timburr        |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Spritzee / Timburr      |    1 |  12.50% | 100.00% |
+| 9    | Stunky / Porygon / Fletchling     |    1 |  12.50% | 100.00% |
+| 9    | Spritzee / Porygon / Fletchling   |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Porygon / Fletchling    |    1 |  12.50% | 100.00% |
+| 9    | Stunky / Spritzee / Fletchling    |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Stunky / Fletchling     |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Spritzee / Fletchling   |    1 |  12.50% | 100.00% |
+| 9    | Stunky / Porygon / Spritzee       |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Stunky / Porygon        |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Porygon / Spritzee      |    1 |  12.50% | 100.00% |
+| 9    | Omanyte / Stunky / Spritzee       |    1 |  12.50% | 100.00% |
+| 9    | Timburr / Gastly / Foongus        |    1 |  12.50% | 100.00% |
+| 9    | Onix / Gastly / Foongus           |    1 |  12.50% | 100.00% |
+| 9    | Abra / Gastly / Foongus           |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Gastly / Foongus       |    1 |  12.50% | 100.00% |
+| 9    | Onix / Timburr / Gastly           |    1 |  12.50% | 100.00% |
+| 9    | Abra / Timburr / Gastly           |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Timburr / Gastly       |    1 |  12.50% | 100.00% |
+| 9    | Abra / Onix / Gastly              |    1 |  12.50% | 100.00% |
+| 9    | Onix / Pawniard / Gastly          |    1 |  12.50% | 100.00% |
+| 9    | Abra / Pawniard / Gastly          |    1 |  12.50% | 100.00% |
+| 9    | Onix / Timburr / Foongus          |    1 |  12.50% | 100.00% |
+| 9    | Abra / Timburr / Foongus          |    1 |  12.50% | 100.00% |
+| 9    | Abra / Onix / Timburr             |    1 |  12.50% | 100.00% |
+| 9    | Pawniard / Onix / Timburr         |    1 |  12.50% | 100.00% |
+| 9    | Abra / Pawniard / Timburr         |    1 |  12.50% | 100.00% |
+| 9    | Abra / Mienfoo / Foongus          |    1 |  12.50% |   0.00% |
+| 9    | Abra / Porygon / Foongus          |    1 |  12.50% |   0.00% |
+| 9    | Abra / Onix / Mienfoo             |    1 |  12.50% |   0.00% |
+| 9    | Abra / Onix / Porygon             |    1 |  12.50% |   0.00% |
+| 9    | Abra / Mienfoo / Porygon          |    1 |  12.50% |   0.00% |
+| 9    | Abra / Mienfoo / Pawniard         |    1 |  12.50% |   0.00% |
+| 9    | Abra / Porygon / Pawniard         |    1 |  12.50% |   0.00% |
+| 9    | Onix / Foongus / Mienfoo          |    1 |  12.50% |   0.00% |
+| 9    | Onix / Porygon / Foongus          |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Porygon / Foongus       |    1 |  12.50% |   0.00% |
+| 9    | Porygon / Pawniard / Foongus      |    1 |  12.50% |   0.00% |
+| 9    | Onix / Porygon / Mienfoo          |    1 |  12.50% |   0.00% |
+| 9    | Onix / Pawniard / Mienfoo         |    1 |  12.50% |   0.00% |
+| 9    | Onix / Porygon / Pawniard         |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Porygon / Pawniard      |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Vulpix / Bellsprout     |    1 |  12.50% |   0.00% |
+| 9    | Snubbull / Vulpix / Bellsprout    |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Vulpix / Bellsprout     |    1 |  12.50% |   0.00% |
+| 9    | Onix / Vulpix / Bellsprout        |    1 |  12.50% |   0.00% |
+| 9    | Snubbull / Gothita / Vulpix       |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Vulpix / Mienfoo        |    1 |  12.50% |   0.00% |
+| 9    | Onix / Gothita / Vulpix           |    1 |  12.50% |   0.00% |
+| 9    | Snubbull / Vulpix / Mienfoo       |    1 |  12.50% |   0.00% |
+| 9    | Onix / Snubbull / Vulpix          |    1 |  12.50% |   0.00% |
+| 9    | Onix / Mienfoo / Vulpix           |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Snubbull / Bellsprout   |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Bellsprout / Mienfoo    |    1 |  12.50% |   0.00% |
+| 9    | Onix / Gothita / Bellsprout       |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Snubbull / Bellsprout   |    1 |  12.50% |   0.00% |
+| 9    | Onix / Snubbull / Bellsprout      |    1 |  12.50% |   0.00% |
+| 9    | Onix / Mienfoo / Bellsprout       |    1 |  12.50% |   0.00% |
+| 9    | Onix / Gothita / Snubbull         |    1 |  12.50% |   0.00% |
+| 9    | Onix / Gothita / Mienfoo          |    1 |  12.50% |   0.00% |
+| 9    | Onix / Mienfoo / Snubbull         |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Timburr / Gothita       |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Timburr / Foongus       |    1 |  12.50% |   0.00% |
+| 9    | Pawniard / Mienfoo / Timburr      |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Mienfoo / Timburr       |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Foongus / Gothita       |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Pawniard / Gothita      |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Mienfoo / Gothita       |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Mienfoo / Foongus       |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Mienfoo / Pawniard      |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Timburr / Foongus       |    1 |  12.50% |   0.00% |
+| 9    | Pawniard / Gothita / Timburr      |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Gothita / Timburr       |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Timburr / Foongus       |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Pawniard / Timburr      |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Pawniard / Foongus      |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Gothita / Foongus       |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Gothita / Pawniard      |    1 |  12.50% |   0.00% |
+| 9    | Omanyte / Pawniard / Foongus      |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Snubbull / Fletchling   |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Chinchou / Fletchling   |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Fletchling / Gothita    |    1 |  12.50% |   0.00% |
+| 9    | Snubbull / Ferroseed / Fletchling |    1 |  12.50% |   0.00% |
+| 9    | Chinchou / Ferroseed / Fletchling |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Ferroseed / Fletchling  |    1 |  12.50% |   0.00% |
+| 9    | Chinchou / Snubbull / Fletchling  |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Snubbull / Fletchling   |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Chinchou / Fletchling   |    1 |  12.50% |   0.00% |
+| 9    | Snubbull / Mienfoo / Ferroseed    |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Ferroseed / Chinchou    |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Ferroseed / Gothita     |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Snubbull / Chinchou     |    1 |  12.50% |   0.00% |
+| 9    | Mienfoo / Chinchou / Gothita      |    1 |  12.50% |   0.00% |
+| 9    | Snubbull / Ferroseed / Chinchou   |    1 |  12.50% |   0.00% |
+| 9    | Snubbull / Ferroseed / Gothita    |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Ferroseed / Chinchou    |    1 |  12.50% |   0.00% |
+| 9    | Gothita / Snubbull / Chinchou     |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                  | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| 1    | Abra / Onix / Pawniard / Foongus             |    2 |  25.00% |  50.00% |
+| 2    | Onix / Frillish / Ferroseed / Fletchling     |    1 |  12.50% | 100.00% |
+| 2    | Frillish / Ferroseed / Fletchling / Mienfoo  |    1 |  12.50% | 100.00% |
+| 2    | Frillish / Spritzee / Ferroseed / Fletchling |    1 |  12.50% | 100.00% |
+| 2    | Onix / Frillish / Fletchling / Mienfoo       |    1 |  12.50% | 100.00% |
+| 2    | Onix / Frillish / Spritzee / Fletchling      |    1 |  12.50% | 100.00% |
+| 2    | Frillish / Spritzee / Fletchling / Mienfoo   |    1 |  12.50% | 100.00% |
+| 2    | Onix / Ferroseed / Fletchling / Mienfoo      |    1 |  12.50% | 100.00% |
+| 2    | Onix / Spritzee / Ferroseed / Fletchling     |    1 |  12.50% | 100.00% |
+| 2    | Mienfoo / Spritzee / Ferroseed / Fletchling  |    1 |  12.50% | 100.00% |
+| 2    | Onix / Spritzee / Fletchling / Mienfoo       |    1 |  12.50% | 100.00% |
+| 2    | Onix / Ferroseed / Frillish / Mienfoo        |    1 |  12.50% | 100.00% |
+| 2    | Onix / Spritzee / Ferroseed / Frillish       |    1 |  12.50% | 100.00% |
+| 2    | Mienfoo / Spritzee / Ferroseed / Frillish    |    1 |  12.50% | 100.00% |
+| 2    | Onix / Spritzee / Frillish / Mienfoo         |    1 |  12.50% | 100.00% |
+| 2    | Onix / Spritzee / Ferroseed / Mienfoo        |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Trubbish / Gastly / Diglett       |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Pawniard / Trubbish / Gastly      |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Trubbish / Gastly / Fletchling    |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Pawniard / Gastly / Diglett       |    1 |  12.50% | 100.00% |
+| 2    | Fletchling / Pawniard / Gastly / Diglett     |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Pawniard / Gastly / Fletchling    |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Pawniard / Trubbish / Diglett     |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Trubbish / Diglett / Fletchling   |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Trubbish / Chinchou / Fletchling  |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Pawniard / Diglett / Fletchling   |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Trubbish / Gastly / Diglett       |    1 |  12.50% | 100.00% |
+| 2    | Fletchling / Trubbish / Gastly / Diglett     |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Fletchling / Trubbish / Gastly    |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Fletchling / Gastly / Diglett     |    1 |  12.50% | 100.00% |
+| 2    | Chinchou / Fletchling / Trubbish / Diglett   |    1 |  12.50% | 100.00% |
+| 2    | Stunky / Porygon / Timburr / Fletchling      |    1 |  12.50% | 100.00% |
+| 2    | Spritzee / Porygon / Timburr / Fletchling    |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Porygon / Timburr / Fletchling     |    1 |  12.50% | 100.00% |
+| 2    | Stunky / Spritzee / Timburr / Fletchling     |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Stunky / Timburr / Fletchling      |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Spritzee / Timburr / Fletchling    |    1 |  12.50% | 100.00% |
+| 2    | Stunky / Porygon / Timburr / Spritzee        |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Stunky / Porygon / Timburr         |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Porygon / Timburr / Spritzee       |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Stunky / Spritzee / Timburr        |    1 |  12.50% | 100.00% |
+| 2    | Stunky / Porygon / Spritzee / Fletchling     |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Stunky / Porygon / Fletchling      |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Spritzee / Porygon / Fletchling    |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Stunky / Spritzee / Fletchling     |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Stunky / Porygon / Spritzee        |    1 |  12.50% | 100.00% |
+| 2    | Onix / Timburr / Gastly / Foongus            |    1 |  12.50% | 100.00% |
+| 2    | Abra / Timburr / Gastly / Foongus            |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Timburr / Gastly / Foongus        |    1 |  12.50% | 100.00% |
+| 2    | Abra / Onix / Gastly / Foongus               |    1 |  12.50% | 100.00% |
+| 2    | Onix / Pawniard / Gastly / Foongus           |    1 |  12.50% | 100.00% |
+| 2    | Abra / Pawniard / Gastly / Foongus           |    1 |  12.50% | 100.00% |
+| 2    | Abra / Onix / Timburr / Gastly               |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Onix / Timburr / Gastly           |    1 |  12.50% | 100.00% |
+| 2    | Abra / Pawniard / Timburr / Gastly           |    1 |  12.50% | 100.00% |
+| 2    | Abra / Onix / Pawniard / Gastly              |    1 |  12.50% | 100.00% |
+| 2    | Abra / Onix / Timburr / Foongus              |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Onix / Timburr / Foongus          |    1 |  12.50% | 100.00% |
+| 2    | Abra / Pawniard / Timburr / Foongus          |    1 |  12.50% | 100.00% |
+| 2    | Abra / Onix / Timburr / Pawniard             |    1 |  12.50% | 100.00% |
+| 2    | Abra / Onix / Foongus / Mienfoo              |    1 |  12.50% |   0.00% |
+| 2    | Abra / Onix / Porygon / Foongus              |    1 |  12.50% |   0.00% |
+| 2    | Abra / Mienfoo / Porygon / Foongus           |    1 |  12.50% |   0.00% |
+| 2    | Abra / Mienfoo / Pawniard / Foongus          |    1 |  12.50% |   0.00% |
+| 2    | Abra / Porygon / Pawniard / Foongus          |    1 |  12.50% |   0.00% |
+| 2    | Abra / Onix / Porygon / Mienfoo              |    1 |  12.50% |   0.00% |
+| 2    | Abra / Onix / Pawniard / Mienfoo             |    1 |  12.50% |   0.00% |
+| 2    | Abra / Onix / Porygon / Pawniard             |    1 |  12.50% |   0.00% |
+| 2    | Abra / Mienfoo / Porygon / Pawniard          |    1 |  12.50% |   0.00% |
+| 2    | Onix / Porygon / Foongus / Mienfoo           |    1 |  12.50% |   0.00% |
+| 2    | Onix / Pawniard / Foongus / Mienfoo          |    1 |  12.50% |   0.00% |
+| 2    | Onix / Porygon / Pawniard / Foongus          |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Porygon / Pawniard / Foongus       |    1 |  12.50% |   0.00% |
+| 2    | Onix / Porygon / Pawniard / Mienfoo          |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Gothita / Vulpix / Bellsprout     |    1 |  12.50% |   0.00% |
+| 2    | Gothita / Vulpix / Bellsprout / Mienfoo      |    1 |  12.50% |   0.00% |
+| 2    | Onix / Gothita / Vulpix / Bellsprout         |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Vulpix / Bellsprout / Mienfoo     |    1 |  12.50% |   0.00% |
+| 2    | Onix / Snubbull / Vulpix / Bellsprout        |    1 |  12.50% |   0.00% |
+| 2    | Onix / Mienfoo / Vulpix / Bellsprout         |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Gothita / Vulpix / Mienfoo        |    1 |  12.50% |   0.00% |
+| 2    | Onix / Snubbull / Gothita / Vulpix           |    1 |  12.50% |   0.00% |
+| 2    | Onix / Gothita / Vulpix / Mienfoo            |    1 |  12.50% |   0.00% |
+| 2    | Onix / Snubbull / Vulpix / Mienfoo           |    1 |  12.50% |   0.00% |
+| 2    | Gothita / Snubbull / Bellsprout / Mienfoo    |    1 |  12.50% |   0.00% |
+| 2    | Onix / Gothita / Snubbull / Bellsprout       |    1 |  12.50% |   0.00% |
+| 2    | Onix / Gothita / Bellsprout / Mienfoo        |    1 |  12.50% |   0.00% |
+| 2    | Onix / Mienfoo / Snubbull / Bellsprout       |    1 |  12.50% |   0.00% |
+| 2    | Onix / Gothita / Snubbull / Mienfoo          |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Timburr / Foongus / Gothita        |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Mienfoo / Timburr / Gothita       |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Mienfoo / Timburr / Gothita        |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Mienfoo / Timburr / Foongus       |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Mienfoo / Timburr / Foongus        |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Pawniard / Mienfoo / Timburr       |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Pawniard / Foongus / Gothita       |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Mienfoo / Foongus / Gothita        |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Mienfoo / Pawniard / Gothita       |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Mienfoo / Pawniard / Foongus       |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Gothita / Timburr / Foongus       |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Gothita / Timburr / Foongus        |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Pawniard / Gothita / Timburr       |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Pawniard / Timburr / Foongus       |    1 |  12.50% |   0.00% |
+| 2    | Omanyte / Gothita / Pawniard / Foongus       |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Mienfoo / Ferroseed / Fletchling  |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Chinchou / Ferroseed / Fletchling  |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Ferroseed / Fletchling / Gothita   |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Chinchou / Snubbull / Fletchling   |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Snubbull / Fletchling / Gothita    |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Chinchou / Fletchling / Gothita    |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Chinchou / Ferroseed / Fletchling |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Ferroseed / Fletchling / Gothita  |    1 |  12.50% |   0.00% |
+| 2    | Gothita / Chinchou / Ferroseed / Fletchling  |    1 |  12.50% |   0.00% |
+| 2    | Gothita / Chinchou / Snubbull / Fletchling   |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Mienfoo / Ferroseed / Chinchou    |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Mienfoo / Ferroseed / Gothita     |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Ferroseed / Chinchou / Gothita     |    1 |  12.50% |   0.00% |
+| 2    | Mienfoo / Snubbull / Chinchou / Gothita      |    1 |  12.50% |   0.00% |
+| 2    | Snubbull / Ferroseed / Chinchou / Gothita    |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Mienfoo / Fletchling / Ferroseed / Onix / Frillish     |    1 |  12.50% | 100.00% |
+| 1    | Fletchling / Ferroseed / Onix / Spritzee / Frillish    |    1 |  12.50% | 100.00% |
+| 1    | Fletchling / Ferroseed / Mienfoo / Spritzee / Frillish |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Fletchling / Onix / Spritzee / Frillish      |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Fletchling / Ferroseed / Onix / Spritzee     |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Ferroseed / Onix / Spritzee / Frillish       |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Trubbish / Chinchou / Gastly / Diglett      |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Fletchling / Trubbish / Gastly / Diglett    |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Fletchling / Trubbish / Chinchou / Gastly   |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Fletchling / Chinchou / Gastly / Diglett    |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Fletchling / Trubbish / Chinchou / Diglett  |    1 |  12.50% | 100.00% |
+| 1    | Fletchling / Trubbish / Chinchou / Gastly / Diglett    |    1 |  12.50% | 100.00% |
+| 1    | Stunky / Spritzee / Fletchling / Timburr / Porygon     |    1 |  12.50% | 100.00% |
+| 1    | Stunky / Fletchling / Omanyte / Timburr / Porygon      |    1 |  12.50% | 100.00% |
+| 1    | Porygon / Fletchling / Omanyte / Timburr / Spritzee    |    1 |  12.50% | 100.00% |
+| 1    | Stunky / Fletchling / Omanyte / Timburr / Spritzee     |    1 |  12.50% | 100.00% |
+| 1    | Stunky / Spritzee / Omanyte / Timburr / Porygon        |    1 |  12.50% | 100.00% |
+| 1    | Stunky / Spritzee / Fletchling / Omanyte / Porygon     |    1 |  12.50% | 100.00% |
+| 1    | Abra / Timburr / Foongus / Onix / Gastly               |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Timburr / Foongus / Onix / Gastly           |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Abra / Timburr / Foongus / Gastly           |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Abra / Foongus / Onix / Gastly              |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Abra / Timburr / Onix / Gastly              |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Abra / Timburr / Foongus / Onix             |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Abra / Foongus / Onix / Porygon              |    1 |  12.50% |   0.00% |
+| 1    | Mienfoo / Pawniard / Abra / Foongus / Onix             |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Abra / Foongus / Onix / Porygon             |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Abra / Foongus / Mienfoo / Porygon          |    1 |  12.50% |   0.00% |
+| 1    | Mienfoo / Pawniard / Abra / Onix / Porygon             |    1 |  12.50% |   0.00% |
+| 1    | Mienfoo / Pawniard / Foongus / Onix / Porygon          |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Gothita / Bellsprout / Mienfoo / Vulpix     |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Gothita / Bellsprout / Onix / Vulpix        |    1 |  12.50% |   0.00% |
+| 1    | Mienfoo / Gothita / Bellsprout / Onix / Vulpix         |    1 |  12.50% |   0.00% |
+| 1    | Mienfoo / Snubbull / Bellsprout / Onix / Vulpix        |    1 |  12.50% |   0.00% |
+| 1    | Mienfoo / Snubbull / Gothita / Onix / Vulpix           |    1 |  12.50% |   0.00% |
+| 1    | Mienfoo / Snubbull / Gothita / Bellsprout / Onix       |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Gothita / Timburr / Foongus / Mienfoo       |    1 |  12.50% |   0.00% |
+| 1    | Omanyte / Gothita / Timburr / Foongus / Mienfoo        |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Omanyte / Gothita / Timburr / Mienfoo       |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Omanyte / Timburr / Foongus / Mienfoo       |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Omanyte / Gothita / Foongus / Mienfoo       |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Omanyte / Gothita / Timburr / Foongus       |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Fletchling / Ferroseed / Chinchou / Mienfoo |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Fletchling / Gothita / Ferroseed / Mienfoo  |    1 |  12.50% |   0.00% |
+| 1    | Fletchling / Gothita / Ferroseed / Chinchou / Mienfoo  |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Fletchling / Gothita / Chinchou / Mienfoo   |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Fletchling / Gothita / Ferroseed / Chinchou |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Gothita / Ferroseed / Chinchou / Mienfoo    |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                      | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Mienfoo / Fletchling / Ferroseed / Onix / Spritzee / Frillish    |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Fletchling / Trubbish / Chinchou / Gastly / Diglett   |    1 |  12.50% | 100.00% |
+| 1    | Stunky / Spritzee / Fletchling / Omanyte / Timburr / Porygon     |    1 |  12.50% | 100.00% |
+| 1    | Pawniard / Abra / Timburr / Foongus / Onix / Gastly              |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Pawniard / Abra / Foongus / Onix / Porygon             |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Gothita / Bellsprout / Onix / Mienfoo / Vulpix        |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Omanyte / Gothita / Timburr / Foongus / Mienfoo       |    1 |  12.50% |   0.00% |
+| 1    | Snubbull / Fletchling / Gothita / Ferroseed / Chinchou / Mienfoo |    1 |  12.50% |   0.00% |
