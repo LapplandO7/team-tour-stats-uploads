@@ -1,0 +1,353 @@
++ ---- + -------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                | Use  | Usage % |  Win %  |
++ ---- + -------------------------- + ---- + ------- + ------- +
+| 1    | Eldegoss / Ribombee        |    2 |  33.33% | 100.00% |
+| 1    | Wishiwashi / Thievul       |    2 |  33.33% |  50.00% |
+| 1    | Silvally / Archeops        |    2 |  33.33% |  50.00% |
+| 1    | Archeops / Thievul         |    2 |  33.33% |  50.00% |
+| 1    | Silvally / Thievul         |    2 |  33.33% |  50.00% |
+| 1    | Sandslash / Ribombee       |    2 |  33.33% |  50.00% |
+| 1    | Gigalith / Ribombee        |    2 |  33.33% |  50.00% |
+| 8    | Eldegoss / Lanturn         |    1 |  16.67% | 100.00% |
+| 8    | Eldegoss / Sandaconda      |    1 |  16.67% | 100.00% |
+| 8    | Eldegoss / Perrserker      |    1 |  16.67% | 100.00% |
+| 8    | Eldegoss / Gallade         |    1 |  16.67% | 100.00% |
+| 8    | Sandaconda / Lanturn       |    1 |  16.67% | 100.00% |
+| 8    | Perrserker / Lanturn       |    1 |  16.67% | 100.00% |
+| 8    | Gallade / Lanturn          |    1 |  16.67% | 100.00% |
+| 8    | Ribombee / Lanturn         |    1 |  16.67% | 100.00% |
+| 8    | Sandaconda / Perrserker    |    1 |  16.67% | 100.00% |
+| 8    | Gallade / Sandaconda       |    1 |  16.67% | 100.00% |
+| 8    | Sandaconda / Ribombee      |    1 |  16.67% | 100.00% |
+| 8    | Gallade / Perrserker       |    1 |  16.67% | 100.00% |
+| 8    | Ribombee / Perrserker      |    1 |  16.67% | 100.00% |
+| 8    | Gallade / Ribombee         |    1 |  16.67% | 100.00% |
+| 8    | Wishiwashi / Archeops      |    1 |  16.67% | 100.00% |
+| 8    | Sandslash / Archeops       |    1 |  16.67% | 100.00% |
+| 8    | Archeops / Ribombee        |    1 |  16.67% | 100.00% |
+| 8    | Wishiwashi / Silvally      |    1 |  16.67% | 100.00% |
+| 8    | Silvally / Sandslash       |    1 |  16.67% | 100.00% |
+| 8    | Silvally / Ribombee        |    1 |  16.67% | 100.00% |
+| 8    | Wishiwashi / Sandslash     |    1 |  16.67% | 100.00% |
+| 8    | Wishiwashi / Ribombee      |    1 |  16.67% | 100.00% |
+| 8    | Sandslash / Thievul        |    1 |  16.67% | 100.00% |
+| 8    | Thievul / Ribombee         |    1 |  16.67% | 100.00% |
+| 8    | Eldegoss / Audino          |    1 |  16.67% | 100.00% |
+| 8    | Eldegoss / Centiskorch     |    1 |  16.67% | 100.00% |
+| 8    | Eldegoss / Gigalith        |    1 |  16.67% | 100.00% |
+| 8    | Eldegoss / Doublade        |    1 |  16.67% | 100.00% |
+| 8    | Centiskorch / Audino       |    1 |  16.67% | 100.00% |
+| 8    | Gigalith / Audino          |    1 |  16.67% | 100.00% |
+| 8    | Doublade / Audino          |    1 |  16.67% | 100.00% |
+| 8    | Audino / Ribombee          |    1 |  16.67% | 100.00% |
+| 8    | Centiskorch / Gigalith     |    1 |  16.67% | 100.00% |
+| 8    | Centiskorch / Doublade     |    1 |  16.67% | 100.00% |
+| 8    | Centiskorch / Ribombee     |    1 |  16.67% | 100.00% |
+| 8    | Doublade / Gigalith        |    1 |  16.67% | 100.00% |
+| 8    | Doublade / Ribombee        |    1 |  16.67% | 100.00% |
+| 8    | Thievul / Aggron           |    1 |  16.67% |   0.00% |
+| 8    | Thievul / Whimsicott       |    1 |  16.67% |   0.00% |
+| 8    | Weezing / Thievul          |    1 |  16.67% |   0.00% |
+| 8    | Ninjask / Thievul          |    1 |  16.67% |   0.00% |
+| 8    | Wishiwashi / Aggron        |    1 |  16.67% |   0.00% |
+| 8    | Wishiwashi / Whimsicott    |    1 |  16.67% |   0.00% |
+| 8    | Wishiwashi / Weezing       |    1 |  16.67% |   0.00% |
+| 8    | Wishiwashi / Ninjask       |    1 |  16.67% |   0.00% |
+| 8    | Aggron / Whimsicott        |    1 |  16.67% |   0.00% |
+| 8    | Weezing / Aggron           |    1 |  16.67% |   0.00% |
+| 8    | Ninjask / Aggron           |    1 |  16.67% |   0.00% |
+| 8    | Weezing / Whimsicott       |    1 |  16.67% |   0.00% |
+| 8    | Ninjask / Whimsicott       |    1 |  16.67% |   0.00% |
+| 8    | Weezing / Ninjask          |    1 |  16.67% |   0.00% |
+| 8    | Qwilfish / Ribombee        |    1 |  16.67% |   0.00% |
+| 8    | Qwilfish / Gigalith        |    1 |  16.67% |   0.00% |
+| 8    | Qwilfish / Sandslash       |    1 |  16.67% |   0.00% |
+| 8    | Qwilfish / Ferroseed       |    1 |  16.67% |   0.00% |
+| 8    | Qwilfish / Articuno-Galar  |    1 |  16.67% |   0.00% |
+| 8    | Ferroseed / Ribombee       |    1 |  16.67% |   0.00% |
+| 8    | Articuno-Galar / Ribombee  |    1 |  16.67% |   0.00% |
+| 8    | Sandslash / Gigalith       |    1 |  16.67% |   0.00% |
+| 8    | Gigalith / Ferroseed       |    1 |  16.67% |   0.00% |
+| 8    | Gigalith / Articuno-Galar  |    1 |  16.67% |   0.00% |
+| 8    | Sandslash / Ferroseed      |    1 |  16.67% |   0.00% |
+| 8    | Sandslash / Articuno-Galar |    1 |  16.67% |   0.00% |
+| 8    | Ferroseed / Articuno-Galar |    1 |  16.67% |   0.00% |
+| 8    | Archeops / Aurorus         |    1 |  16.67% |   0.00% |
+| 8    | Thwackey / Aurorus         |    1 |  16.67% |   0.00% |
+| 8    | Thievul / Aurorus          |    1 |  16.67% |   0.00% |
+| 8    | Gallade / Aurorus          |    1 |  16.67% |   0.00% |
+| 8    | Silvally / Aurorus         |    1 |  16.67% |   0.00% |
+| 8    | Archeops / Thwackey        |    1 |  16.67% |   0.00% |
+| 8    | Gallade / Archeops         |    1 |  16.67% |   0.00% |
+| 8    | Thwackey / Thievul         |    1 |  16.67% |   0.00% |
+| 8    | Gallade / Thwackey         |    1 |  16.67% |   0.00% |
+| 8    | Silvally / Thwackey        |    1 |  16.67% |   0.00% |
+| 8    | Gallade / Thievul          |    1 |  16.67% |   0.00% |
+| 8    | Gallade / Silvally         |    1 |  16.67% |   0.00% |
+
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                            | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| 1    | Silvally / Archeops / Thievul          |    2 |  33.33% |  50.00% |
+| 2    | Eldegoss / Sandaconda / Lanturn        |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Perrserker / Lanturn        |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Gallade / Lanturn           |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Ribombee / Lanturn          |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Sandaconda / Perrserker     |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Sandaconda / Gallade        |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Sandaconda / Ribombee       |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Gallade / Perrserker        |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Ribombee / Perrserker       |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Gallade / Ribombee          |    1 |  16.67% | 100.00% |
+| 2    | Perrserker / Sandaconda / Lanturn      |    1 |  16.67% | 100.00% |
+| 2    | Gallade / Sandaconda / Lanturn         |    1 |  16.67% | 100.00% |
+| 2    | Sandaconda / Ribombee / Lanturn        |    1 |  16.67% | 100.00% |
+| 2    | Perrserker / Gallade / Lanturn         |    1 |  16.67% | 100.00% |
+| 2    | Perrserker / Ribombee / Lanturn        |    1 |  16.67% | 100.00% |
+| 2    | Gallade / Ribombee / Lanturn           |    1 |  16.67% | 100.00% |
+| 2    | Gallade / Sandaconda / Perrserker      |    1 |  16.67% | 100.00% |
+| 2    | Sandaconda / Ribombee / Perrserker     |    1 |  16.67% | 100.00% |
+| 2    | Gallade / Sandaconda / Ribombee        |    1 |  16.67% | 100.00% |
+| 2    | Gallade / Ribombee / Perrserker        |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Silvally / Archeops       |    1 |  16.67% | 100.00% |
+| 2    | Silvally / Archeops / Sandslash        |    1 |  16.67% | 100.00% |
+| 2    | Silvally / Archeops / Ribombee         |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Sandslash / Archeops      |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Archeops / Ribombee       |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Archeops / Thievul        |    1 |  16.67% | 100.00% |
+| 2    | Sandslash / Archeops / Ribombee        |    1 |  16.67% | 100.00% |
+| 2    | Sandslash / Archeops / Thievul         |    1 |  16.67% | 100.00% |
+| 2    | Archeops / Thievul / Ribombee          |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Silvally / Sandslash      |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Silvally / Ribombee       |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Silvally / Thievul        |    1 |  16.67% | 100.00% |
+| 2    | Silvally / Ribombee / Sandslash        |    1 |  16.67% | 100.00% |
+| 2    | Silvally / Thievul / Sandslash         |    1 |  16.67% | 100.00% |
+| 2    | Silvally / Thievul / Ribombee          |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Sandslash / Ribombee      |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Sandslash / Thievul       |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Thievul / Ribombee        |    1 |  16.67% | 100.00% |
+| 2    | Sandslash / Thievul / Ribombee         |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Centiskorch / Audino        |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Gigalith / Audino           |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Doublade / Audino           |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Audino / Ribombee           |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Centiskorch / Gigalith      |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Centiskorch / Doublade      |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Centiskorch / Ribombee      |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Doublade / Gigalith         |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Gigalith / Ribombee         |    1 |  16.67% | 100.00% |
+| 2    | Eldegoss / Doublade / Ribombee         |    1 |  16.67% | 100.00% |
+| 2    | Centiskorch / Audino / Gigalith        |    1 |  16.67% | 100.00% |
+| 2    | Centiskorch / Audino / Doublade        |    1 |  16.67% | 100.00% |
+| 2    | Centiskorch / Audino / Ribombee        |    1 |  16.67% | 100.00% |
+| 2    | Gigalith / Audino / Doublade           |    1 |  16.67% | 100.00% |
+| 2    | Gigalith / Audino / Ribombee           |    1 |  16.67% | 100.00% |
+| 2    | Doublade / Audino / Ribombee           |    1 |  16.67% | 100.00% |
+| 2    | Centiskorch / Gigalith / Doublade      |    1 |  16.67% | 100.00% |
+| 2    | Centiskorch / Gigalith / Ribombee      |    1 |  16.67% | 100.00% |
+| 2    | Centiskorch / Ribombee / Doublade      |    1 |  16.67% | 100.00% |
+| 2    | Doublade / Gigalith / Ribombee         |    1 |  16.67% | 100.00% |
+| 2    | Wishiwashi / Thievul / Aggron          |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Thievul / Whimsicott      |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Weezing / Thievul         |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Ninjask / Thievul         |    1 |  16.67% |   0.00% |
+| 2    | Thievul / Aggron / Whimsicott          |    1 |  16.67% |   0.00% |
+| 2    | Weezing / Thievul / Aggron             |    1 |  16.67% |   0.00% |
+| 2    | Ninjask / Thievul / Aggron             |    1 |  16.67% |   0.00% |
+| 2    | Weezing / Thievul / Whimsicott         |    1 |  16.67% |   0.00% |
+| 2    | Ninjask / Thievul / Whimsicott         |    1 |  16.67% |   0.00% |
+| 2    | Weezing / Ninjask / Thievul            |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Aggron / Whimsicott       |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Weezing / Aggron          |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Ninjask / Aggron          |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Weezing / Whimsicott      |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Ninjask / Whimsicott      |    1 |  16.67% |   0.00% |
+| 2    | Wishiwashi / Weezing / Ninjask         |    1 |  16.67% |   0.00% |
+| 2    | Weezing / Aggron / Whimsicott          |    1 |  16.67% |   0.00% |
+| 2    | Ninjask / Aggron / Whimsicott          |    1 |  16.67% |   0.00% |
+| 2    | Weezing / Ninjask / Aggron             |    1 |  16.67% |   0.00% |
+| 2    | Weezing / Ninjask / Whimsicott         |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Gigalith / Ribombee         |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Ribombee / Sandslash        |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Ferroseed / Ribombee        |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Articuno-Galar / Ribombee   |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Gigalith / Sandslash        |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Gigalith / Ferroseed        |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Gigalith / Articuno-Galar   |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Ferroseed / Sandslash       |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Articuno-Galar / Sandslash  |    1 |  16.67% |   0.00% |
+| 2    | Qwilfish / Ferroseed / Articuno-Galar  |    1 |  16.67% |   0.00% |
+| 2    | Sandslash / Gigalith / Ribombee        |    1 |  16.67% |   0.00% |
+| 2    | Gigalith / Ferroseed / Ribombee        |    1 |  16.67% |   0.00% |
+| 2    | Gigalith / Articuno-Galar / Ribombee   |    1 |  16.67% |   0.00% |
+| 2    | Sandslash / Ferroseed / Ribombee       |    1 |  16.67% |   0.00% |
+| 2    | Sandslash / Articuno-Galar / Ribombee  |    1 |  16.67% |   0.00% |
+| 2    | Articuno-Galar / Ferroseed / Ribombee  |    1 |  16.67% |   0.00% |
+| 2    | Sandslash / Gigalith / Ferroseed       |    1 |  16.67% |   0.00% |
+| 2    | Sandslash / Gigalith / Articuno-Galar  |    1 |  16.67% |   0.00% |
+| 2    | Gigalith / Ferroseed / Articuno-Galar  |    1 |  16.67% |   0.00% |
+| 2    | Sandslash / Ferroseed / Articuno-Galar |    1 |  16.67% |   0.00% |
+| 2    | Archeops / Thwackey / Aurorus          |    1 |  16.67% |   0.00% |
+| 2    | Archeops / Thievul / Aurorus           |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Archeops / Aurorus           |    1 |  16.67% |   0.00% |
+| 2    | Silvally / Archeops / Aurorus          |    1 |  16.67% |   0.00% |
+| 2    | Thwackey / Aurorus / Thievul           |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Thwackey / Aurorus           |    1 |  16.67% |   0.00% |
+| 2    | Silvally / Thwackey / Aurorus          |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Thievul / Aurorus            |    1 |  16.67% |   0.00% |
+| 2    | Silvally / Thievul / Aurorus           |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Silvally / Aurorus           |    1 |  16.67% |   0.00% |
+| 2    | Archeops / Thwackey / Thievul          |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Archeops / Thwackey          |    1 |  16.67% |   0.00% |
+| 2    | Silvally / Archeops / Thwackey         |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Archeops / Thievul           |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Silvally / Archeops          |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Thwackey / Thievul           |    1 |  16.67% |   0.00% |
+| 2    | Silvally / Thwackey / Thievul          |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Silvally / Thwackey          |    1 |  16.67% |   0.00% |
+| 2    | Gallade / Silvally / Thievul           |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                       | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Eldegoss / Sandaconda / Perrserker / Lanturn      |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Sandaconda / Gallade / Lanturn         |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Sandaconda / Ribombee / Lanturn        |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Gallade / Perrserker / Lanturn         |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Ribombee / Perrserker / Lanturn        |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Gallade / Ribombee / Lanturn           |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Sandaconda / Gallade / Perrserker      |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Sandaconda / Ribombee / Perrserker     |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Sandaconda / Gallade / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Gallade / Ribombee / Perrserker        |    1 |  16.67% | 100.00% |
+| 1    | Perrserker / Sandaconda / Gallade / Lanturn       |    1 |  16.67% | 100.00% |
+| 1    | Perrserker / Sandaconda / Ribombee / Lanturn      |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Sandaconda / Ribombee / Lanturn         |    1 |  16.67% | 100.00% |
+| 1    | Perrserker / Gallade / Ribombee / Lanturn         |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Sandaconda / Ribombee / Perrserker      |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Silvally / Archeops / Sandslash      |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Silvally / Archeops / Ribombee       |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Silvally / Archeops / Thievul        |    1 |  16.67% | 100.00% |
+| 1    | Silvally / Archeops / Ribombee / Sandslash        |    1 |  16.67% | 100.00% |
+| 1    | Silvally / Archeops / Thievul / Sandslash         |    1 |  16.67% | 100.00% |
+| 1    | Silvally / Archeops / Thievul / Ribombee          |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Sandslash / Archeops / Ribombee      |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Sandslash / Archeops / Thievul       |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Archeops / Thievul / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Sandslash / Archeops / Thievul / Ribombee         |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Silvally / Ribombee / Sandslash      |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Silvally / Thievul / Sandslash       |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Silvally / Thievul / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Silvally / Ribombee / Thievul / Sandslash         |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Sandslash / Thievul / Ribombee       |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Centiskorch / Audino / Gigalith        |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Centiskorch / Audino / Doublade        |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Centiskorch / Audino / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Gigalith / Audino / Doublade           |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Gigalith / Audino / Ribombee           |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Doublade / Audino / Ribombee           |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Centiskorch / Gigalith / Doublade      |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Centiskorch / Gigalith / Ribombee      |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Centiskorch / Ribombee / Doublade      |    1 |  16.67% | 100.00% |
+| 1    | Eldegoss / Doublade / Gigalith / Ribombee         |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Audino / Doublade / Gigalith        |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Audino / Ribombee / Gigalith        |    1 |  16.67% | 100.00% |
+| 1    | Ribombee / Centiskorch / Audino / Doublade        |    1 |  16.67% | 100.00% |
+| 1    | Ribombee / Gigalith / Audino / Doublade           |    1 |  16.67% | 100.00% |
+| 1    | Ribombee / Centiskorch / Gigalith / Doublade      |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Thievul / Aggron / Whimsicott        |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Weezing / Thievul / Aggron           |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Ninjask / Thievul / Aggron           |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Weezing / Thievul / Whimsicott       |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Ninjask / Thievul / Whimsicott       |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Weezing / Ninjask / Thievul          |    1 |  16.67% |   0.00% |
+| 1    | Weezing / Thievul / Aggron / Whimsicott           |    1 |  16.67% |   0.00% |
+| 1    | Ninjask / Thievul / Aggron / Whimsicott           |    1 |  16.67% |   0.00% |
+| 1    | Weezing / Ninjask / Thievul / Aggron              |    1 |  16.67% |   0.00% |
+| 1    | Weezing / Ninjask / Thievul / Whimsicott          |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Weezing / Aggron / Whimsicott        |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Ninjask / Aggron / Whimsicott        |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Weezing / Ninjask / Aggron           |    1 |  16.67% |   0.00% |
+| 1    | Wishiwashi / Weezing / Ninjask / Whimsicott       |    1 |  16.67% |   0.00% |
+| 1    | Weezing / Ninjask / Aggron / Whimsicott           |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Gigalith / Ribombee / Sandslash        |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Gigalith / Ferroseed / Ribombee        |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Gigalith / Articuno-Galar / Ribombee   |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Ferroseed / Ribombee / Sandslash       |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Articuno-Galar / Ribombee / Sandslash  |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Articuno-Galar / Ferroseed / Ribombee  |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Gigalith / Ferroseed / Sandslash       |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Gigalith / Articuno-Galar / Sandslash  |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Gigalith / Ferroseed / Articuno-Galar  |    1 |  16.67% |   0.00% |
+| 1    | Qwilfish / Articuno-Galar / Ferroseed / Sandslash |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Ferroseed / Ribombee       |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Articuno-Galar / Ribombee  |    1 |  16.67% |   0.00% |
+| 1    | Articuno-Galar / Gigalith / Ferroseed / Ribombee  |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Articuno-Galar / Ferroseed / Ribombee |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Ferroseed / Articuno-Galar |    1 |  16.67% |   0.00% |
+| 1    | Archeops / Thwackey / Aurorus / Thievul           |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Archeops / Thwackey / Aurorus           |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Archeops / Thwackey / Aurorus          |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Archeops / Thievul / Aurorus            |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Archeops / Thievul / Aurorus           |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Silvally / Archeops / Aurorus           |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Thwackey / Aurorus / Thievul            |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Thwackey / Aurorus / Thievul           |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Silvally / Thwackey / Aurorus           |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Silvally / Thievul / Aurorus            |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Archeops / Thwackey / Thievul           |    1 |  16.67% |   0.00% |
+| 1    | Silvally / Archeops / Thwackey / Thievul          |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Silvally / Archeops / Thwackey          |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Silvally / Archeops / Thievul           |    1 |  16.67% |   0.00% |
+| 1    | Gallade / Silvally / Thwackey / Thievul           |    1 |  16.67% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Gallade / Perrserker / Sandaconda / Eldegoss / Lanturn       |    1 |  16.67% | 100.00% |
+| 1    | Perrserker / Sandaconda / Eldegoss / Ribombee / Lanturn      |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Sandaconda / Eldegoss / Ribombee / Lanturn         |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Perrserker / Eldegoss / Ribombee / Lanturn         |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Perrserker / Sandaconda / Eldegoss / Ribombee      |    1 |  16.67% | 100.00% |
+| 1    | Gallade / Perrserker / Sandaconda / Ribombee / Lanturn       |    1 |  16.67% | 100.00% |
+| 1    | Wishiwashi / Sandslash / Archeops / Silvally / Ribombee      |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Wishiwashi / Sandslash / Archeops / Silvally       |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Wishiwashi / Archeops / Silvally / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Sandslash / Archeops / Silvally / Ribombee         |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Wishiwashi / Sandslash / Archeops / Ribombee       |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Wishiwashi / Sandslash / Silvally / Ribombee       |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Doublade / Gigalith / Audino / Eldegoss        |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Gigalith / Audino / Eldegoss / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Doublade / Audino / Eldegoss / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Doublade / Gigalith / Audino / Eldegoss / Ribombee           |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Gigalith / Doublade / Eldegoss / Ribombee      |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Doublade / Gigalith / Audino / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Whimsicott / Wishiwashi / Aggron / Weezing         |    1 |  16.67% |   0.00% |
+| 1    | Thievul / Whimsicott / Wishiwashi / Ninjask / Aggron         |    1 |  16.67% |   0.00% |
+| 1    | Thievul / Wishiwashi / Ninjask / Aggron / Weezing            |    1 |  16.67% |   0.00% |
+| 1    | Thievul / Whimsicott / Wishiwashi / Ninjask / Weezing        |    1 |  16.67% |   0.00% |
+| 1    | Thievul / Whimsicott / Ninjask / Aggron / Weezing            |    1 |  16.67% |   0.00% |
+| 1    | Whimsicott / Wishiwashi / Ninjask / Aggron / Weezing         |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Qwilfish / Ferroseed / Ribombee       |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Articuno-Galar / Qwilfish / Ribombee  |    1 |  16.67% |   0.00% |
+| 1    | Gigalith / Articuno-Galar / Qwilfish / Ferroseed / Ribombee  |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Articuno-Galar / Qwilfish / Ferroseed / Ribombee |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Articuno-Galar / Qwilfish / Ferroseed |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Articuno-Galar / Ferroseed / Ribombee |    1 |  16.67% |   0.00% |
+| 1    | Thwackey / Aurorus / Thievul / Gallade / Archeops            |    1 |  16.67% |   0.00% |
+| 1    | Thwackey / Aurorus / Thievul / Archeops / Silvally           |    1 |  16.67% |   0.00% |
+| 1    | Thwackey / Aurorus / Gallade / Archeops / Silvally           |    1 |  16.67% |   0.00% |
+| 1    | Thievul / Aurorus / Gallade / Archeops / Silvally            |    1 |  16.67% |   0.00% |
+| 1    | Thwackey / Aurorus / Thievul / Gallade / Silvally            |    1 |  16.67% |   0.00% |
+| 1    | Thwackey / Thievul / Gallade / Archeops / Silvally           |    1 |  16.67% |   0.00% |
+
++ ---- + ----------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                             | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Gallade / Perrserker / Sandaconda / Eldegoss / Ribombee / Lanturn       |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Wishiwashi / Sandslash / Archeops / Silvally / Ribombee       |    1 |  16.67% | 100.00% |
+| 1    | Centiskorch / Doublade / Gigalith / Audino / Eldegoss / Ribombee        |    1 |  16.67% | 100.00% |
+| 1    | Thievul / Whimsicott / Wishiwashi / Ninjask / Aggron / Weezing          |    1 |  16.67% |   0.00% |
+| 1    | Sandslash / Gigalith / Articuno-Galar / Qwilfish / Ferroseed / Ribombee |    1 |  16.67% |   0.00% |
+| 1    | Thwackey / Aurorus / Thievul / Gallade / Archeops / Silvally            |    1 |  16.67% |   0.00% |
