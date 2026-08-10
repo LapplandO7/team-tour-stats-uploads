@@ -1,0 +1,409 @@
++ ---- + -------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2          | Use  | Usage % |  Win %  |
++ ---- + -------------------- + ---- + ------- + ------- +
+| 1    | Vullaby / Mienfoo    |    7 |  87.50% |  42.86% |
+| 2    | Vullaby / Koffing    |    3 |  37.50% | 100.00% |
+| 2    | Vullaby / Porygon    |    3 |  37.50% |  33.33% |
+| 2    | Mienfoo / Pawniard   |    3 |  37.50% |  33.33% |
+| 2    | Vullaby / Pawniard   |    3 |  37.50% |  33.33% |
+| 2    | Mienfoo / Diglett    |    3 |  37.50% |  33.33% |
+| 2    | Mienfoo / Mareanie   |    3 |  37.50% |  33.33% |
+| 2    | Vullaby / Diglett    |    3 |  37.50% |  33.33% |
+| 2    | Diglett / Mareanie   |    3 |  37.50% |  33.33% |
+| 2    | Vullaby / Mareanie   |    3 |  37.50% |  33.33% |
+| 11   | Mienfoo / Koffing    |    2 |  25.00% | 100.00% |
+| 11   | Omanyte / Mienfoo    |    2 |  25.00% | 100.00% |
+| 11   | Vullaby / Omanyte    |    2 |  25.00% | 100.00% |
+| 11   | Omanyte / Koffing    |    2 |  25.00% | 100.00% |
+| 11   | Vullaby / Staryu     |    2 |  25.00% |  50.00% |
+| 11   | Vullaby / Ferroseed  |    2 |  25.00% |  50.00% |
+| 11   | Mienfoo / Ferroseed  |    2 |  25.00% |  50.00% |
+| 11   | Vullaby / Mudbray    |    2 |  25.00% |  50.00% |
+| 11   | Mudbray / Mienfoo    |    2 |  25.00% |  50.00% |
+| 11   | Pawniard / Diglett   |    2 |  25.00% |  50.00% |
+| 11   | Pawniard / Mareanie  |    2 |  25.00% |  50.00% |
+| 11   | Mienfoo / Porygon    |    2 |  25.00% |   0.00% |
+| 23   | Onix / Staryu        |    1 |  12.50% | 100.00% |
+| 23   | Onix / Grookey       |    1 |  12.50% | 100.00% |
+| 23   | Onix / Porygon       |    1 |  12.50% | 100.00% |
+| 23   | Onix / Koffing       |    1 |  12.50% | 100.00% |
+| 23   | Vullaby / Onix       |    1 |  12.50% | 100.00% |
+| 23   | Staryu / Grookey     |    1 |  12.50% | 100.00% |
+| 23   | Porygon / Staryu     |    1 |  12.50% | 100.00% |
+| 23   | Koffing / Staryu     |    1 |  12.50% | 100.00% |
+| 23   | Porygon / Grookey    |    1 |  12.50% | 100.00% |
+| 23   | Koffing / Grookey    |    1 |  12.50% | 100.00% |
+| 23   | Vullaby / Grookey    |    1 |  12.50% | 100.00% |
+| 23   | Porygon / Koffing    |    1 |  12.50% | 100.00% |
+| 23   | Mienfoo / Vulpix     |    1 |  12.50% | 100.00% |
+| 23   | Vulpix / Diglett     |    1 |  12.50% | 100.00% |
+| 23   | Vullaby / Vulpix     |    1 |  12.50% | 100.00% |
+| 23   | Vulpix / Mareanie    |    1 |  12.50% | 100.00% |
+| 23   | Pawniard / Vulpix    |    1 |  12.50% | 100.00% |
+| 23   | Mienfoo / Carvanha   |    1 |  12.50% | 100.00% |
+| 23   | Vullaby / Carvanha   |    1 |  12.50% | 100.00% |
+| 23   | Ferroseed / Koffing  |    1 |  12.50% | 100.00% |
+| 23   | Koffing / Carvanha   |    1 |  12.50% | 100.00% |
+| 23   | Omanyte / Ferroseed  |    1 |  12.50% | 100.00% |
+| 23   | Ferroseed / Carvanha |    1 |  12.50% | 100.00% |
+| 23   | Omanyte / Carvanha   |    1 |  12.50% | 100.00% |
+| 23   | Abra / Mienfoo       |    1 |  12.50% | 100.00% |
+| 23   | Vullaby / Abra       |    1 |  12.50% | 100.00% |
+| 23   | Mudbray / Omanyte    |    1 |  12.50% | 100.00% |
+| 23   | Mudbray / Koffing    |    1 |  12.50% | 100.00% |
+| 23   | Mudbray / Abra       |    1 |  12.50% | 100.00% |
+| 23   | Omanyte / Abra       |    1 |  12.50% | 100.00% |
+| 23   | Abra / Koffing       |    1 |  12.50% | 100.00% |
+| 23   | Ferroseed / Staryu   |    1 |  12.50% |   0.00% |
+| 23   | Larvesta / Staryu    |    1 |  12.50% |   0.00% |
+| 23   | Mienfoo / Staryu     |    1 |  12.50% |   0.00% |
+| 23   | Mudbray / Staryu     |    1 |  12.50% |   0.00% |
+| 23   | Larvesta / Ferroseed |    1 |  12.50% |   0.00% |
+| 23   | Mudbray / Ferroseed  |    1 |  12.50% |   0.00% |
+| 23   | Vullaby / Larvesta   |    1 |  12.50% |   0.00% |
+| 23   | Larvesta / Mienfoo   |    1 |  12.50% |   0.00% |
+| 23   | Larvesta / Mudbray   |    1 |  12.50% |   0.00% |
+| 23   | Mienfoo / Foongus    |    1 |  12.50% |   0.00% |
+| 23   | Mienfoo / Trapinch   |    1 |  12.50% |   0.00% |
+| 23   | Porygon / Pawniard   |    1 |  12.50% |   0.00% |
+| 23   | Porygon / Foongus    |    1 |  12.50% |   0.00% |
+| 23   | Porygon / Trapinch   |    1 |  12.50% |   0.00% |
+| 23   | Vullaby / Foongus    |    1 |  12.50% |   0.00% |
+| 23   | Vullaby / Trapinch   |    1 |  12.50% |   0.00% |
+| 23   | Pawniard / Foongus   |    1 |  12.50% |   0.00% |
+| 23   | Pawniard / Trapinch  |    1 |  12.50% |   0.00% |
+| 23   | Trapinch / Foongus   |    1 |  12.50% |   0.00% |
+| 23   | Mienfoo / Spritzee   |    1 |  12.50% |   0.00% |
+| 23   | Vullaby / Spritzee   |    1 |  12.50% |   0.00% |
+| 23   | Spritzee / Diglett   |    1 |  12.50% |   0.00% |
+| 23   | Spritzee / Pawniard  |    1 |  12.50% |   0.00% |
+| 23   | Spritzee / Mareanie  |    1 |  12.50% |   0.00% |
+| 23   | Ponyta / Porygon     |    1 |  12.50% |   0.00% |
+| 23   | Ponyta / Diglett     |    1 |  12.50% |   0.00% |
+| 23   | Ponyta / Mienfoo     |    1 |  12.50% |   0.00% |
+| 23   | Ponyta / Mareanie    |    1 |  12.50% |   0.00% |
+| 23   | Vullaby / Ponyta     |    1 |  12.50% |   0.00% |
+| 23   | Porygon / Diglett    |    1 |  12.50% |   0.00% |
+| 23   | Porygon / Mareanie   |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------ + ---- + ------- + ------- +
+| 1    | Vullaby / Mienfoo / Pawniard   |    3 |  37.50% |  33.33% |
+| 1    | Vullaby / Mienfoo / Diglett    |    3 |  37.50% |  33.33% |
+| 1    | Mienfoo / Diglett / Mareanie   |    3 |  37.50% |  33.33% |
+| 1    | Vullaby / Mienfoo / Mareanie   |    3 |  37.50% |  33.33% |
+| 1    | Vullaby / Diglett / Mareanie   |    3 |  37.50% |  33.33% |
+| 6    | Vullaby / Mienfoo / Koffing    |    2 |  25.00% | 100.00% |
+| 6    | Vullaby / Mienfoo / Omanyte    |    2 |  25.00% | 100.00% |
+| 6    | Omanyte / Mienfoo / Koffing    |    2 |  25.00% | 100.00% |
+| 6    | Vullaby / Koffing / Omanyte    |    2 |  25.00% | 100.00% |
+| 6    | Vullaby / Mienfoo / Ferroseed  |    2 |  25.00% |  50.00% |
+| 6    | Vullaby / Mienfoo / Mudbray    |    2 |  25.00% |  50.00% |
+| 6    | Mienfoo / Pawniard / Diglett   |    2 |  25.00% |  50.00% |
+| 6    | Mienfoo / Pawniard / Mareanie  |    2 |  25.00% |  50.00% |
+| 6    | Vullaby / Pawniard / Diglett   |    2 |  25.00% |  50.00% |
+| 6    | Pawniard / Diglett / Mareanie  |    2 |  25.00% |  50.00% |
+| 6    | Vullaby / Pawniard / Mareanie  |    2 |  25.00% |  50.00% |
+| 6    | Vullaby / Mienfoo / Porygon    |    2 |  25.00% |   0.00% |
+| 18   | Onix / Staryu / Grookey        |    1 |  12.50% | 100.00% |
+| 18   | Onix / Porygon / Staryu        |    1 |  12.50% | 100.00% |
+| 18   | Onix / Koffing / Staryu        |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Onix / Staryu        |    1 |  12.50% | 100.00% |
+| 18   | Onix / Porygon / Grookey       |    1 |  12.50% | 100.00% |
+| 18   | Onix / Koffing / Grookey       |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Onix / Grookey       |    1 |  12.50% | 100.00% |
+| 18   | Onix / Porygon / Koffing       |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Onix / Porygon       |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Onix / Koffing       |    1 |  12.50% | 100.00% |
+| 18   | Porygon / Staryu / Grookey     |    1 |  12.50% | 100.00% |
+| 18   | Koffing / Staryu / Grookey     |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Staryu / Grookey     |    1 |  12.50% | 100.00% |
+| 18   | Porygon / Koffing / Staryu     |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Porygon / Staryu     |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Koffing / Staryu     |    1 |  12.50% | 100.00% |
+| 18   | Porygon / Koffing / Grookey    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Porygon / Grookey    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Koffing / Grookey    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Porygon / Koffing    |    1 |  12.50% | 100.00% |
+| 18   | Mienfoo / Vulpix / Diglett     |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Mienfoo / Vulpix     |    1 |  12.50% | 100.00% |
+| 18   | Mienfoo / Vulpix / Mareanie    |    1 |  12.50% | 100.00% |
+| 18   | Pawniard / Mienfoo / Vulpix    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Vulpix / Diglett     |    1 |  12.50% | 100.00% |
+| 18   | Vulpix / Diglett / Mareanie    |    1 |  12.50% | 100.00% |
+| 18   | Pawniard / Vulpix / Diglett    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Vulpix / Mareanie    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Pawniard / Vulpix    |    1 |  12.50% | 100.00% |
+| 18   | Pawniard / Vulpix / Mareanie   |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Mienfoo / Carvanha   |    1 |  12.50% | 100.00% |
+| 18   | Mienfoo / Koffing / Ferroseed  |    1 |  12.50% | 100.00% |
+| 18   | Mienfoo / Koffing / Carvanha   |    1 |  12.50% | 100.00% |
+| 18   | Omanyte / Mienfoo / Ferroseed  |    1 |  12.50% | 100.00% |
+| 18   | Mienfoo / Ferroseed / Carvanha |    1 |  12.50% | 100.00% |
+| 18   | Omanyte / Mienfoo / Carvanha   |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Ferroseed / Koffing  |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Koffing / Carvanha   |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Ferroseed / Omanyte  |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Ferroseed / Carvanha |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Omanyte / Carvanha   |    1 |  12.50% | 100.00% |
+| 18   | Omanyte / Ferroseed / Koffing  |    1 |  12.50% | 100.00% |
+| 18   | Ferroseed / Koffing / Carvanha |    1 |  12.50% | 100.00% |
+| 18   | Omanyte / Koffing / Carvanha   |    1 |  12.50% | 100.00% |
+| 18   | Omanyte / Ferroseed / Carvanha |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Abra / Mienfoo       |    1 |  12.50% | 100.00% |
+| 18   | Mudbray / Mienfoo / Omanyte    |    1 |  12.50% | 100.00% |
+| 18   | Mudbray / Mienfoo / Koffing    |    1 |  12.50% | 100.00% |
+| 18   | Mudbray / Abra / Mienfoo       |    1 |  12.50% | 100.00% |
+| 18   | Omanyte / Abra / Mienfoo       |    1 |  12.50% | 100.00% |
+| 18   | Abra / Mienfoo / Koffing       |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Omanyte / Mudbray    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Koffing / Mudbray    |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Abra / Mudbray       |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Abra / Omanyte       |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Abra / Koffing       |    1 |  12.50% | 100.00% |
+| 18   | Mudbray / Koffing / Omanyte    |    1 |  12.50% | 100.00% |
+| 18   | Mudbray / Abra / Omanyte       |    1 |  12.50% | 100.00% |
+| 18   | Mudbray / Abra / Koffing       |    1 |  12.50% | 100.00% |
+| 18   | Omanyte / Abra / Koffing       |    1 |  12.50% | 100.00% |
+| 18   | Vullaby / Ferroseed / Staryu   |    1 |  12.50% |   0.00% |
+| 18   | Larvesta / Ferroseed / Staryu  |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Ferroseed / Staryu   |    1 |  12.50% |   0.00% |
+| 18   | Mudbray / Ferroseed / Staryu   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Larvesta / Staryu    |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Mienfoo / Staryu     |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Staryu / Mudbray     |    1 |  12.50% |   0.00% |
+| 18   | Larvesta / Mienfoo / Staryu    |    1 |  12.50% |   0.00% |
+| 18   | Larvesta / Staryu / Mudbray    |    1 |  12.50% |   0.00% |
+| 18   | Mudbray / Mienfoo / Staryu     |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Larvesta / Ferroseed |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Ferroseed / Mudbray  |    1 |  12.50% |   0.00% |
+| 18   | Larvesta / Mienfoo / Ferroseed |    1 |  12.50% |   0.00% |
+| 18   | Larvesta / Ferroseed / Mudbray |    1 |  12.50% |   0.00% |
+| 18   | Mudbray / Mienfoo / Ferroseed  |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Larvesta / Mienfoo   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Larvesta / Mudbray   |    1 |  12.50% |   0.00% |
+| 18   | Larvesta / Mienfoo / Mudbray   |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Porygon / Pawniard   |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Porygon / Foongus    |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Porygon / Trapinch   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Mienfoo / Foongus    |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Mienfoo / Trapinch   |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Pawniard / Foongus   |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Pawniard / Trapinch  |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Trapinch / Foongus   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Porygon / Pawniard   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Porygon / Foongus    |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Porygon / Trapinch   |    1 |  12.50% |   0.00% |
+| 18   | Porygon / Pawniard / Foongus   |    1 |  12.50% |   0.00% |
+| 18   | Porygon / Pawniard / Trapinch  |    1 |  12.50% |   0.00% |
+| 18   | Porygon / Trapinch / Foongus   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Pawniard / Foongus   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Pawniard / Trapinch  |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Trapinch / Foongus   |    1 |  12.50% |   0.00% |
+| 18   | Pawniard / Trapinch / Foongus  |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Mienfoo / Spritzee   |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Spritzee / Diglett   |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Spritzee / Pawniard  |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Spritzee / Mareanie  |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Spritzee / Diglett   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Spritzee / Pawniard  |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Spritzee / Mareanie  |    1 |  12.50% |   0.00% |
+| 18   | Spritzee / Pawniard / Diglett  |    1 |  12.50% |   0.00% |
+| 18   | Spritzee / Diglett / Mareanie  |    1 |  12.50% |   0.00% |
+| 18   | Spritzee / Pawniard / Mareanie |    1 |  12.50% |   0.00% |
+| 18   | Ponyta / Porygon / Diglett     |    1 |  12.50% |   0.00% |
+| 18   | Ponyta / Porygon / Mienfoo     |    1 |  12.50% |   0.00% |
+| 18   | Ponyta / Porygon / Mareanie    |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Ponyta / Porygon     |    1 |  12.50% |   0.00% |
+| 18   | Ponyta / Diglett / Mienfoo     |    1 |  12.50% |   0.00% |
+| 18   | Ponyta / Diglett / Mareanie    |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Ponyta / Diglett     |    1 |  12.50% |   0.00% |
+| 18   | Mareanie / Ponyta / Mienfoo    |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Ponyta / Mienfoo     |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Ponyta / Mareanie    |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Porygon / Diglett    |    1 |  12.50% |   0.00% |
+| 18   | Porygon / Diglett / Mareanie   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Porygon / Diglett    |    1 |  12.50% |   0.00% |
+| 18   | Mienfoo / Porygon / Mareanie   |    1 |  12.50% |   0.00% |
+| 18   | Vullaby / Porygon / Mareanie   |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                              | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| 1    | Vullaby / Mienfoo / Diglett / Mareanie   |    3 |  37.50% |  33.33% |
+| 2    | Vullaby / Mienfoo / Koffing / Omanyte    |    2 |  25.00% | 100.00% |
+| 2    | Vullaby / Mienfoo / Pawniard / Diglett   |    2 |  25.00% |  50.00% |
+| 2    | Mienfoo / Pawniard / Diglett / Mareanie  |    2 |  25.00% |  50.00% |
+| 2    | Vullaby / Mienfoo / Pawniard / Mareanie  |    2 |  25.00% |  50.00% |
+| 2    | Vullaby / Pawniard / Diglett / Mareanie  |    2 |  25.00% |  50.00% |
+| 7    | Onix / Porygon / Staryu / Grookey        |    1 |  12.50% | 100.00% |
+| 7    | Onix / Koffing / Staryu / Grookey        |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Onix / Staryu / Grookey        |    1 |  12.50% | 100.00% |
+| 7    | Onix / Porygon / Koffing / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Onix / Porygon / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Onix / Koffing / Staryu        |    1 |  12.50% | 100.00% |
+| 7    | Onix / Porygon / Koffing / Grookey       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Onix / Porygon / Grookey       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Onix / Koffing / Grookey       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Onix / Porygon / Koffing       |    1 |  12.50% | 100.00% |
+| 7    | Porygon / Koffing / Staryu / Grookey     |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Porygon / Staryu / Grookey     |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Koffing / Staryu / Grookey     |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Porygon / Koffing / Staryu     |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Porygon / Koffing / Grookey    |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Vulpix / Diglett     |    1 |  12.50% | 100.00% |
+| 7    | Mienfoo / Vulpix / Diglett / Mareanie    |    1 |  12.50% | 100.00% |
+| 7    | Pawniard / Mienfoo / Vulpix / Diglett    |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Vulpix / Mareanie    |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Pawniard / Mienfoo / Vulpix    |    1 |  12.50% | 100.00% |
+| 7    | Pawniard / Mienfoo / Vulpix / Mareanie   |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Vulpix / Diglett / Mareanie    |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Pawniard / Vulpix / Diglett    |    1 |  12.50% | 100.00% |
+| 7    | Pawniard / Vulpix / Diglett / Mareanie   |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Pawniard / Vulpix / Mareanie   |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Koffing / Ferroseed  |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Koffing / Carvanha   |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Ferroseed / Omanyte  |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Ferroseed / Carvanha |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Omanyte / Carvanha   |    1 |  12.50% | 100.00% |
+| 7    | Omanyte / Mienfoo / Koffing / Ferroseed  |    1 |  12.50% | 100.00% |
+| 7    | Mienfoo / Koffing / Ferroseed / Carvanha |    1 |  12.50% | 100.00% |
+| 7    | Omanyte / Mienfoo / Koffing / Carvanha   |    1 |  12.50% | 100.00% |
+| 7    | Omanyte / Mienfoo / Ferroseed / Carvanha |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Ferroseed / Koffing / Omanyte  |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Ferroseed / Koffing / Carvanha |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Koffing / Omanyte / Carvanha   |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Ferroseed / Omanyte / Carvanha |    1 |  12.50% | 100.00% |
+| 7    | Omanyte / Ferroseed / Koffing / Carvanha |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Omanyte / Mudbray    |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Mienfoo / Koffing / Mudbray    |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Abra / Mienfoo / Mudbray       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Abra / Mienfoo / Omanyte       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Abra / Mienfoo / Koffing       |    1 |  12.50% | 100.00% |
+| 7    | Mudbray / Mienfoo / Koffing / Omanyte    |    1 |  12.50% | 100.00% |
+| 7    | Mudbray / Abra / Mienfoo / Omanyte       |    1 |  12.50% | 100.00% |
+| 7    | Mudbray / Abra / Mienfoo / Koffing       |    1 |  12.50% | 100.00% |
+| 7    | Omanyte / Abra / Mienfoo / Koffing       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Koffing / Omanyte / Mudbray    |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Abra / Omanyte / Mudbray       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Abra / Koffing / Mudbray       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Abra / Koffing / Omanyte       |    1 |  12.50% | 100.00% |
+| 7    | Mudbray / Abra / Koffing / Omanyte       |    1 |  12.50% | 100.00% |
+| 7    | Vullaby / Larvesta / Ferroseed / Staryu  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Ferroseed / Staryu   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Ferroseed / Staryu / Mudbray   |    1 |  12.50% |   0.00% |
+| 7    | Larvesta / Mienfoo / Ferroseed / Staryu  |    1 |  12.50% |   0.00% |
+| 7    | Larvesta / Ferroseed / Staryu / Mudbray  |    1 |  12.50% |   0.00% |
+| 7    | Mudbray / Mienfoo / Ferroseed / Staryu   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Larvesta / Mienfoo / Staryu    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Larvesta / Staryu / Mudbray    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Staryu / Mudbray     |    1 |  12.50% |   0.00% |
+| 7    | Larvesta / Mienfoo / Staryu / Mudbray    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Larvesta / Mienfoo / Ferroseed |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Larvesta / Ferroseed / Mudbray |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Ferroseed / Mudbray  |    1 |  12.50% |   0.00% |
+| 7    | Larvesta / Mienfoo / Ferroseed / Mudbray |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Larvesta / Mienfoo / Mudbray   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Porygon / Pawniard   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Porygon / Foongus    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Porygon / Trapinch   |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Porygon / Pawniard / Foongus   |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Porygon / Pawniard / Trapinch  |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Porygon / Trapinch / Foongus   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Pawniard / Foongus   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Pawniard / Trapinch  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Trapinch / Foongus   |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Pawniard / Trapinch / Foongus  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Porygon / Pawniard / Foongus   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Porygon / Pawniard / Trapinch  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Porygon / Trapinch / Foongus   |    1 |  12.50% |   0.00% |
+| 7    | Porygon / Pawniard / Trapinch / Foongus  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Pawniard / Trapinch / Foongus  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Spritzee / Diglett   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Spritzee / Pawniard  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Spritzee / Mareanie  |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Spritzee / Pawniard / Diglett  |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Spritzee / Diglett / Mareanie  |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Spritzee / Pawniard / Mareanie |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Spritzee / Pawniard / Diglett  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Spritzee / Diglett / Mareanie  |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Spritzee / Pawniard / Mareanie |    1 |  12.50% |   0.00% |
+| 7    | Spritzee / Pawniard / Diglett / Mareanie |    1 |  12.50% |   0.00% |
+| 7    | Ponyta / Porygon / Diglett / Mienfoo     |    1 |  12.50% |   0.00% |
+| 7    | Ponyta / Porygon / Diglett / Mareanie    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Ponyta / Porygon / Diglett     |    1 |  12.50% |   0.00% |
+| 7    | Mareanie / Ponyta / Porygon / Mienfoo    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Ponyta / Porygon / Mienfoo     |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Ponyta / Porygon / Mareanie    |    1 |  12.50% |   0.00% |
+| 7    | Mareanie / Ponyta / Diglett / Mienfoo    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Ponyta / Diglett / Mienfoo     |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Ponyta / Diglett / Mareanie    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mareanie / Ponyta / Mienfoo    |    1 |  12.50% |   0.00% |
+| 7    | Mienfoo / Porygon / Diglett / Mareanie   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Porygon / Diglett    |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Porygon / Diglett / Mareanie   |    1 |  12.50% |   0.00% |
+| 7    | Vullaby / Mienfoo / Porygon / Mareanie   |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                        | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Mareanie / Pawniard / Vullaby / Mienfoo / Diglett  |    2 |  25.00% |  50.00% |
+| 2    | Grookey / Koffing / Onix / Porygon / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Grookey / Vullaby / Onix / Porygon / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Grookey / Koffing / Vullaby / Onix / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Koffing / Vullaby / Onix / Porygon / Staryu        |    1 |  12.50% | 100.00% |
+| 2    | Grookey / Koffing / Vullaby / Onix / Porygon       |    1 |  12.50% | 100.00% |
+| 2    | Grookey / Koffing / Vullaby / Porygon / Staryu     |    1 |  12.50% | 100.00% |
+| 2    | Mareanie / Vullaby / Mienfoo / Vulpix / Diglett    |    1 |  12.50% | 100.00% |
+| 2    | Pawniard / Vullaby / Mienfoo / Vulpix / Diglett    |    1 |  12.50% | 100.00% |
+| 2    | Mareanie / Pawniard / Mienfoo / Vulpix / Diglett   |    1 |  12.50% | 100.00% |
+| 2    | Mareanie / Pawniard / Vullaby / Mienfoo / Vulpix   |    1 |  12.50% | 100.00% |
+| 2    | Mareanie / Pawniard / Vullaby / Vulpix / Diglett   |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Koffing / Ferroseed / Vullaby / Mienfoo  |    1 |  12.50% | 100.00% |
+| 2    | Koffing / Ferroseed / Carvanha / Vullaby / Mienfoo |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Koffing / Carvanha / Vullaby / Mienfoo   |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Ferroseed / Carvanha / Vullaby / Mienfoo |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Koffing / Ferroseed / Carvanha / Mienfoo |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Ferroseed / Koffing / Carvanha / Vullaby |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Mudbray / Koffing / Vullaby / Mienfoo    |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Abra / Mudbray / Vullaby / Mienfoo       |    1 |  12.50% | 100.00% |
+| 2    | Mudbray / Abra / Koffing / Vullaby / Mienfoo       |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Abra / Koffing / Vullaby / Mienfoo       |    1 |  12.50% | 100.00% |
+| 2    | Mudbray / Abra / Omanyte / Koffing / Mienfoo       |    1 |  12.50% | 100.00% |
+| 2    | Omanyte / Abra / Mudbray / Koffing / Vullaby       |    1 |  12.50% | 100.00% |
+| 2    | Larvesta / Ferroseed / Vullaby / Mienfoo / Staryu  |    1 |  12.50% |   0.00% |
+| 2    | Larvesta / Mudbray / Ferroseed / Vullaby / Staryu  |    1 |  12.50% |   0.00% |
+| 2    | Mudbray / Ferroseed / Vullaby / Mienfoo / Staryu   |    1 |  12.50% |   0.00% |
+| 2    | Larvesta / Mudbray / Ferroseed / Mienfoo / Staryu  |    1 |  12.50% |   0.00% |
+| 2    | Larvesta / Mudbray / Vullaby / Mienfoo / Staryu    |    1 |  12.50% |   0.00% |
+| 2    | Larvesta / Mudbray / Ferroseed / Vullaby / Mienfoo |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Foongus / Vullaby / Mienfoo / Porygon   |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Trapinch / Vullaby / Mienfoo / Porygon  |    1 |  12.50% |   0.00% |
+| 2    | Trapinch / Foongus / Vullaby / Mienfoo / Porygon   |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Trapinch / Foongus / Mienfoo / Porygon  |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Trapinch / Foongus / Vullaby / Mienfoo  |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Trapinch / Foongus / Vullaby / Porygon  |    1 |  12.50% |   0.00% |
+| 2    | Pawniard / Vullaby / Mienfoo / Spritzee / Diglett  |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Vullaby / Mienfoo / Spritzee / Diglett  |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Pawniard / Vullaby / Mienfoo / Spritzee |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Pawniard / Mienfoo / Spritzee / Diglett |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Pawniard / Vullaby / Spritzee / Diglett |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Ponyta / Mienfoo / Porygon / Diglett    |    1 |  12.50% |   0.00% |
+| 2    | Ponyta / Vullaby / Mienfoo / Porygon / Diglett     |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Ponyta / Vullaby / Porygon / Diglett    |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Ponyta / Vullaby / Mienfoo / Porygon    |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Ponyta / Vullaby / Mienfoo / Diglett    |    1 |  12.50% |   0.00% |
+| 2    | Mareanie / Vullaby / Mienfoo / Porygon / Diglett   |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Grookey / Koffing / Vullaby / Onix / Porygon / Staryu        |    1 |  12.50% | 100.00% |
+| 1    | Mareanie / Pawniard / Vullaby / Mienfoo / Vulpix / Diglett   |    1 |  12.50% | 100.00% |
+| 1    | Omanyte / Koffing / Ferroseed / Carvanha / Vullaby / Mienfoo |    1 |  12.50% | 100.00% |
+| 1    | Omanyte / Mudbray / Abra / Koffing / Vullaby / Mienfoo       |    1 |  12.50% | 100.00% |
+| 1    | Larvesta / Mudbray / Ferroseed / Vullaby / Mienfoo / Staryu  |    1 |  12.50% |   0.00% |
+| 1    | Pawniard / Trapinch / Foongus / Vullaby / Mienfoo / Porygon  |    1 |  12.50% |   0.00% |
+| 1    | Mareanie / Pawniard / Vullaby / Mienfoo / Spritzee / Diglett |    1 |  12.50% |   0.00% |
+| 1    | Mareanie / Ponyta / Vullaby / Mienfoo / Porygon / Diglett    |    1 |  12.50% |   0.00% |
