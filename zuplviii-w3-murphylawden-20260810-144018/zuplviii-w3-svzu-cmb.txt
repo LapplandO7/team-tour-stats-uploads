@@ -1,0 +1,1516 @@
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Skuntank / Mesprit                 |   10 |  31.25% |  70.00% |
+| 2    | Mesprit / Passimian                |    9 |  28.12% |  44.44% |
+| 3    | Mesprit / Pyroar                   |    7 |  21.88% |  57.14% |
+| 4    | Skuntank / Pyroar                  |    6 |  18.75% |  66.67% |
+| 4    | Toxicroak / Eelektross             |    6 |  18.75% |  66.67% |
+| 4    | Venusaur / Mesprit                 |    6 |  18.75% |  50.00% |
+| 4    | Skuntank / Passimian               |    6 |  18.75% |  50.00% |
+| 4    | Venusaur / Passimian               |    6 |  18.75% |  50.00% |
+| 4    | Whiscash / Venusaur                |    6 |  18.75% |  33.33% |
+| 4    | Skuntank / Venusaur                |    6 |  18.75% |  33.33% |
+| 11   | Pyroar / Passimian                 |    5 |  15.62% |  80.00% |
+| 11   | Whiscash / Pyroar                  |    5 |  15.62% |  60.00% |
+| 11   | Venusaur / Pyroar                  |    5 |  15.62% |  40.00% |
+| 11   | Toxicroak / Mesprit                |    5 |  15.62% |  40.00% |
+| 15   | Skuntank / Eelektross              |    4 |  12.50% | 100.00% |
+| 15   | Whiscash / Passimian               |    4 |  12.50% |  75.00% |
+| 15   | Mesprit / Whimsicott               |    4 |  12.50% |  75.00% |
+| 15   | Mesprit / Eelektross               |    4 |  12.50% |  75.00% |
+| 15   | Toxicroak / Pyroar                 |    4 |  12.50% |  75.00% |
+| 15   | Pyroar / Eelektross                |    4 |  12.50% |  75.00% |
+| 15   | Froslass / Skuntank                |    4 |  12.50% |  50.00% |
+| 15   | Sandslash / Mesprit                |    4 |  12.50% |  50.00% |
+| 15   | Skuntank / Whiscash                |    4 |  12.50% |  25.00% |
+| 15   | Clawitzer / Mesprit                |    4 |  12.50% |  25.00% |
+| 15   | Clawitzer / Venusaur               |    4 |  12.50% |  25.00% |
+| 26   | Skuntank / Whimsicott              |    3 |   9.38% | 100.00% |
+| 26   | Toxicroak / Skuntank               |    3 |   9.38% | 100.00% |
+| 26   | Froslass / Pyroar                  |    3 |   9.38% | 100.00% |
+| 26   | Froslass / Eelektross              |    3 |   9.38% | 100.00% |
+| 26   | Pyroar / Whimsicott                |    3 |   9.38% | 100.00% |
+| 26   | Whimsicott / Eelektross            |    3 |   9.38% | 100.00% |
+| 26   | Regirock / Pyroar                  |    3 |   9.38% |  66.67% |
+| 26   | Camerupt / Skuntank                |    3 |   9.38% |  66.67% |
+| 26   | Camerupt / Swanna                  |    3 |   9.38% |  66.67% |
+| 26   | Whiscash / Mesprit                 |    3 |   9.38% |  66.67% |
+| 26   | Camerupt / Venusaur                |    3 |   9.38% |  66.67% |
+| 26   | Toxicroak / Venusaur               |    3 |   9.38% |  66.67% |
+| 26   | Toxicroak / Whimsicott             |    3 |   9.38% |  66.67% |
+| 26   | Camerupt / Mesprit                 |    3 |   9.38% |  33.33% |
+| 26   | Sandslash / Passimian              |    3 |   9.38% |  33.33% |
+| 26   | Froslass / Venusaur                |    3 |   9.38% |  33.33% |
+| 26   | Toxicroak / Spiritomb              |    3 |   9.38% |  33.33% |
+| 26   | Toxicroak / Sandslash              |    3 |   9.38% |  33.33% |
+| 26   | Sandslash / Eelektross             |    3 |   9.38% |  33.33% |
+| 26   | Skuntank / Clawitzer               |    3 |   9.38% |  33.33% |
+| 26   | Clawitzer / Passimian              |    3 |   9.38% |   0.00% |
+| 26   | Sandslash / Clawitzer              |    3 |   9.38% |   0.00% |
+| 48   | Skuntank / Swanna                  |    2 |   6.25% | 100.00% |
+| 48   | Skuntank / Hitmontop               |    2 |   6.25% | 100.00% |
+| 48   | Sandslash / Skuntank               |    2 |   6.25% | 100.00% |
+| 48   | Froslass / Regirock                |    2 |   6.25% | 100.00% |
+| 48   | Froslass / Toxicroak               |    2 |   6.25% | 100.00% |
+| 48   | Froslass / Whimsicott              |    2 |   6.25% | 100.00% |
+| 48   | Toxicroak / Regirock               |    2 |   6.25% | 100.00% |
+| 48   | Regirock / Whimsicott              |    2 |   6.25% | 100.00% |
+| 48   | Regirock / Eelektross              |    2 |   6.25% | 100.00% |
+| 48   | Toxicroak / Swanna                 |    2 |   6.25% | 100.00% |
+| 48   | Skuntank / Sandaconda              |    2 |   6.25% | 100.00% |
+| 48   | Venusaur / Sneasel                 |    2 |   6.25% |  50.00% |
+| 48   | Froslass / Camerupt                |    2 |   6.25% |  50.00% |
+| 48   | Camerupt / Passimian               |    2 |   6.25% |  50.00% |
+| 48   | Froslass / Whiscash                |    2 |   6.25% |  50.00% |
+| 48   | Cryogonal / Whiscash               |    2 |   6.25% |  50.00% |
+| 48   | Cryogonal / Venusaur               |    2 |   6.25% |  50.00% |
+| 48   | Camerupt / Whimsicott              |    2 |   6.25% |  50.00% |
+| 48   | Spiritomb / Mesprit                |    2 |   6.25% |  50.00% |
+| 48   | Sandslash / Pyroar                 |    2 |   6.25% |  50.00% |
+| 48   | Toxicroak / Clawitzer              |    2 |   6.25% |  50.00% |
+| 48   | Clawitzer / Eelektross             |    2 |   6.25% |  50.00% |
+| 48   | Toxicroak / Camerupt               |    2 |   6.25% |  50.00% |
+| 48   | Sandslash / Venusaur               |    2 |   6.25% |   0.00% |
+| 48   | Sandslash / Ursaring               |    2 |   6.25% |   0.00% |
+| 48   | Toxicroak / Abomasnow              |    2 |   6.25% |   0.00% |
+| 48   | Jolteon / Abomasnow                |    2 |   6.25% |   0.00% |
+| 48   | Abomasnow / Mesprit                |    2 |   6.25% |   0.00% |
+| 48   | Jolteon / Spiritomb                |    2 |   6.25% |   0.00% |
+| 48   | Toxicroak / Jolteon                |    2 |   6.25% |   0.00% |
+| 48   | Jolteon / Mesprit                  |    2 |   6.25% |   0.00% |
+| 79   | Klawf / Camerupt                   |    1 |   3.12% | 100.00% |
+| 79   | Klawf / Dipplin                    |    1 |   3.12% | 100.00% |
+| 79   | Klawf / Skuntank                   |    1 |   3.12% | 100.00% |
+| 79   | Klawf / Swanna                     |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Klawf                   |    1 |   3.12% | 100.00% |
+| 79   | Camerupt / Dipplin                 |    1 |   3.12% | 100.00% |
+| 79   | Skuntank / Dipplin                 |    1 |   3.12% | 100.00% |
+| 79   | Dipplin / Swanna                   |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Dipplin                 |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Swanna                  |    1 |   3.12% | 100.00% |
+| 79   | Arboliva / Sceptile                |    1 |   3.12% | 100.00% |
+| 79   | Arboliva / Veluza                  |    1 |   3.12% | 100.00% |
+| 79   | Bastiodon / Arboliva               |    1 |   3.12% | 100.00% |
+| 79   | Farigiraf / Arboliva               |    1 |   3.12% | 100.00% |
+| 79   | Drifblim / Arboliva                |    1 |   3.12% | 100.00% |
+| 79   | Veluza / Sceptile                  |    1 |   3.12% | 100.00% |
+| 79   | Bastiodon / Sceptile               |    1 |   3.12% | 100.00% |
+| 79   | Farigiraf / Sceptile               |    1 |   3.12% | 100.00% |
+| 79   | Drifblim / Sceptile                |    1 |   3.12% | 100.00% |
+| 79   | Bastiodon / Veluza                 |    1 |   3.12% | 100.00% |
+| 79   | Farigiraf / Veluza                 |    1 |   3.12% | 100.00% |
+| 79   | Drifblim / Veluza                  |    1 |   3.12% | 100.00% |
+| 79   | Farigiraf / Bastiodon              |    1 |   3.12% | 100.00% |
+| 79   | Bastiodon / Drifblim               |    1 |   3.12% | 100.00% |
+| 79   | Farigiraf / Drifblim               |    1 |   3.12% | 100.00% |
+| 79   | Leafeon / Passimian                |    1 |   3.12% | 100.00% |
+| 79   | Mesprit / Leafeon                  |    1 |   3.12% | 100.00% |
+| 79   | Skuntank / Leafeon                 |    1 |   3.12% | 100.00% |
+| 79   | Pyroar / Leafeon                   |    1 |   3.12% | 100.00% |
+| 79   | Whiscash / Leafeon                 |    1 |   3.12% | 100.00% |
+| 79   | Vikavolt / Mesprit                 |    1 |   3.12% | 100.00% |
+| 79   | Muk / Mesprit                      |    1 |   3.12% | 100.00% |
+| 79   | Hitmontop / Mesprit                |    1 |   3.12% | 100.00% |
+| 79   | Vikavolt / Skuntank                |    1 |   3.12% | 100.00% |
+| 79   | Vikavolt / Muk                     |    1 |   3.12% | 100.00% |
+| 79   | Vikavolt / Whimsicott              |    1 |   3.12% | 100.00% |
+| 79   | Vikavolt / Hitmontop               |    1 |   3.12% | 100.00% |
+| 79   | Skuntank / Muk                     |    1 |   3.12% | 100.00% |
+| 79   | Muk / Whimsicott                   |    1 |   3.12% | 100.00% |
+| 79   | Hitmontop / Muk                    |    1 |   3.12% | 100.00% |
+| 79   | Hitmontop / Whimsicott             |    1 |   3.12% | 100.00% |
+| 79   | Cryogonal / Pyroar                 |    1 |   3.12% | 100.00% |
+| 79   | Dodrio / Pyroar                    |    1 |   3.12% | 100.00% |
+| 79   | Cryogonal / Passimian              |    1 |   3.12% | 100.00% |
+| 79   | Cryogonal / Dodrio                 |    1 |   3.12% | 100.00% |
+| 79   | Dodrio / Passimian                 |    1 |   3.12% | 100.00% |
+| 79   | Whiscash / Dodrio                  |    1 |   3.12% | 100.00% |
+| 79   | Dodrio / Venusaur                  |    1 |   3.12% | 100.00% |
+| 79   | Whimsicott / Passimian             |    1 |   3.12% | 100.00% |
+| 79   | Venusaur / Whimsicott              |    1 |   3.12% | 100.00% |
+| 79   | Sandslash / Samurott               |    1 |   3.12% | 100.00% |
+| 79   | Samurott / Mesprit                 |    1 |   3.12% | 100.00% |
+| 79   | Skuntank / Samurott                |    1 |   3.12% | 100.00% |
+| 79   | Samurott / Pyroar                  |    1 |   3.12% | 100.00% |
+| 79   | Samurott / Passimian               |    1 |   3.12% | 100.00% |
+| 79   | Venusaur / Eelektross              |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Mesprit                 |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Passimian               |    1 |   3.12% | 100.00% |
+| 79   | Toxicroak / Naclstack              |    1 |   3.12% | 100.00% |
+| 79   | Toxicroak / Sandaconda             |    1 |   3.12% | 100.00% |
+| 79   | Naclstack / Pyroar                 |    1 |   3.12% | 100.00% |
+| 79   | Swanna / Pyroar                    |    1 |   3.12% | 100.00% |
+| 79   | Sandaconda / Pyroar                |    1 |   3.12% | 100.00% |
+| 79   | Naclstack / Skuntank               |    1 |   3.12% | 100.00% |
+| 79   | Naclstack / Swanna                 |    1 |   3.12% | 100.00% |
+| 79   | Naclstack / Sandaconda             |    1 |   3.12% | 100.00% |
+| 79   | Sandaconda / Swanna                |    1 |   3.12% | 100.00% |
+| 79   | Eelektross / Sceptile              |    1 |   3.12% | 100.00% |
+| 79   | Sandaconda / Eelektross            |    1 |   3.12% | 100.00% |
+| 79   | Hitmontop / Eelektross             |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Sceptile                |    1 |   3.12% | 100.00% |
+| 79   | Sandaconda / Sceptile              |    1 |   3.12% | 100.00% |
+| 79   | Hitmontop / Sceptile               |    1 |   3.12% | 100.00% |
+| 79   | Skuntank / Sceptile                |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Sandaconda              |    1 |   3.12% | 100.00% |
+| 79   | Froslass / Hitmontop               |    1 |   3.12% | 100.00% |
+| 79   | Hitmontop / Sandaconda             |    1 |   3.12% | 100.00% |
+| 79   | Camerupt / Rotom                   |    1 |   3.12% | 100.00% |
+| 79   | Camerupt / Sneasel                 |    1 |   3.12% | 100.00% |
+| 79   | Venusaur / Swanna                  |    1 |   3.12% | 100.00% |
+| 79   | Rotom / Swanna                     |    1 |   3.12% | 100.00% |
+| 79   | Sneasel / Swanna                   |    1 |   3.12% | 100.00% |
+| 79   | Rotom / Venusaur                   |    1 |   3.12% | 100.00% |
+| 79   | Toxicroak / Rotom                  |    1 |   3.12% | 100.00% |
+| 79   | Toxicroak / Sneasel                |    1 |   3.12% | 100.00% |
+| 79   | Rotom / Sneasel                    |    1 |   3.12% | 100.00% |
+| 79   | Spiritomb / Eelektross             |    1 |   3.12% | 100.00% |
+| 79   | Skuntank / Spiritomb               |    1 |   3.12% | 100.00% |
+| 79   | Sandslash / Spiritomb              |    1 |   3.12% | 100.00% |
+| 79   | Basculin-Blue-Striped / Skuntank   |    1 |   3.12% | 100.00% |
+| 79   | Basculin-Blue-Striped / Whimsicott |    1 |   3.12% | 100.00% |
+| 79   | Basculin-Blue-Striped / Eelektross |    1 |   3.12% | 100.00% |
+| 79   | Basculin-Blue-Striped / Mesprit    |    1 |   3.12% | 100.00% |
+| 79   | Basculin-Blue-Striped / Pyroar     |    1 |   3.12% | 100.00% |
+| 79   | Sneasel / Pyroar                   |    1 |   3.12% |   0.00% |
+| 79   | Regirock / Venusaur                |    1 |   3.12% |   0.00% |
+| 79   | Whiscash / Sneasel                 |    1 |   3.12% |   0.00% |
+| 79   | Regirock / Whiscash                |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Sneasel                 |    1 |   3.12% |   0.00% |
+| 79   | Regirock / Sneasel                 |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Regirock                |    1 |   3.12% |   0.00% |
+| 79   | Lycanroc / Venusaur                |    1 |   3.12% |   0.00% |
+| 79   | Venusaur / Crabominable            |    1 |   3.12% |   0.00% |
+| 79   | Exeggutor-Alola / Venusaur         |    1 |   3.12% |   0.00% |
+| 79   | Lycanroc / Crabominable            |    1 |   3.12% |   0.00% |
+| 79   | Lycanroc / Exeggutor-Alola         |    1 |   3.12% |   0.00% |
+| 79   | Lycanroc / Mesprit                 |    1 |   3.12% |   0.00% |
+| 79   | Lycanroc / Pyroar                  |    1 |   3.12% |   0.00% |
+| 79   | Exeggutor-Alola / Crabominable     |    1 |   3.12% |   0.00% |
+| 79   | Mesprit / Crabominable             |    1 |   3.12% |   0.00% |
+| 79   | Crabominable / Pyroar              |    1 |   3.12% |   0.00% |
+| 79   | Exeggutor-Alola / Mesprit          |    1 |   3.12% |   0.00% |
+| 79   | Exeggutor-Alola / Pyroar           |    1 |   3.12% |   0.00% |
+| 79   | Mismagius / Mesprit                |    1 |   3.12% |   0.00% |
+| 79   | Brute Bonnet / Mesprit             |    1 |   3.12% |   0.00% |
+| 79   | Mesprit / Swanna                   |    1 |   3.12% |   0.00% |
+| 79   | Brute Bonnet / Mismagius           |    1 |   3.12% |   0.00% |
+| 79   | Mismagius / Passimian              |    1 |   3.12% |   0.00% |
+| 79   | Camerupt / Mismagius               |    1 |   3.12% |   0.00% |
+| 79   | Mismagius / Swanna                 |    1 |   3.12% |   0.00% |
+| 79   | Brute Bonnet / Passimian           |    1 |   3.12% |   0.00% |
+| 79   | Camerupt / Brute Bonnet            |    1 |   3.12% |   0.00% |
+| 79   | Brute Bonnet / Swanna              |    1 |   3.12% |   0.00% |
+| 79   | Swanna / Passimian                 |    1 |   3.12% |   0.00% |
+| 79   | Ursaring / Passimian               |    1 |   3.12% |   0.00% |
+| 79   | Ursaring / Mesprit                 |    1 |   3.12% |   0.00% |
+| 79   | Clawitzer / Ursaring               |    1 |   3.12% |   0.00% |
+| 79   | Ursaring / Venusaur                |    1 |   3.12% |   0.00% |
+| 79   | Whiscash / Greedent                |    1 |   3.12% |   0.00% |
+| 79   | Froslass / Greedent                |    1 |   3.12% |   0.00% |
+| 79   | Greedent / Venusaur                |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Greedent                |    1 |   3.12% |   0.00% |
+| 79   | Greedent / Raichu-Alola            |    1 |   3.12% |   0.00% |
+| 79   | Whiscash / Raichu-Alola            |    1 |   3.12% |   0.00% |
+| 79   | Froslass / Raichu-Alola            |    1 |   3.12% |   0.00% |
+| 79   | Venusaur / Raichu-Alola            |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Raichu-Alola            |    1 |   3.12% |   0.00% |
+| 79   | Beartic / Abomasnow                |    1 |   3.12% |   0.00% |
+| 79   | Beartic / Spiritomb                |    1 |   3.12% |   0.00% |
+| 79   | Beartic / Toxicroak                |    1 |   3.12% |   0.00% |
+| 79   | Beartic / Jolteon                  |    1 |   3.12% |   0.00% |
+| 79   | Beartic / Mesprit                  |    1 |   3.12% |   0.00% |
+| 79   | Abomasnow / Spiritomb              |    1 |   3.12% |   0.00% |
+| 79   | Houndoom / Abomasnow               |    1 |   3.12% |   0.00% |
+| 79   | Mismagius / Abomasnow              |    1 |   3.12% |   0.00% |
+| 79   | Sandslash / Abomasnow              |    1 |   3.12% |   0.00% |
+| 79   | Abomasnow / Eelektross             |    1 |   3.12% |   0.00% |
+| 79   | Toxicroak / Houndoom               |    1 |   3.12% |   0.00% |
+| 79   | Toxicroak / Mismagius              |    1 |   3.12% |   0.00% |
+| 79   | Houndoom / Mismagius               |    1 |   3.12% |   0.00% |
+| 79   | Houndoom / Sandslash               |    1 |   3.12% |   0.00% |
+| 79   | Houndoom / Eelektross              |    1 |   3.12% |   0.00% |
+| 79   | Sandslash / Mismagius              |    1 |   3.12% |   0.00% |
+| 79   | Mismagius / Eelektross             |    1 |   3.12% |   0.00% |
+| 79   | Jolteon / Whimsicott               |    1 |   3.12% |   0.00% |
+| 79   | Sandslash / Whimsicott             |    1 |   3.12% |   0.00% |
+| 79   | Ursaring / Whimsicott              |    1 |   3.12% |   0.00% |
+| 79   | Weezing / Whimsicott               |    1 |   3.12% |   0.00% |
+| 79   | Whimsicott / Sableye               |    1 |   3.12% |   0.00% |
+| 79   | Sandslash / Jolteon                |    1 |   3.12% |   0.00% |
+| 79   | Jolteon / Ursaring                 |    1 |   3.12% |   0.00% |
+| 79   | Weezing / Jolteon                  |    1 |   3.12% |   0.00% |
+| 79   | Jolteon / Sableye                  |    1 |   3.12% |   0.00% |
+| 79   | Sandslash / Weezing                |    1 |   3.12% |   0.00% |
+| 79   | Sandslash / Sableye                |    1 |   3.12% |   0.00% |
+| 79   | Weezing / Ursaring                 |    1 |   3.12% |   0.00% |
+| 79   | Ursaring / Sableye                 |    1 |   3.12% |   0.00% |
+| 79   | Weezing / Sableye                  |    1 |   3.12% |   0.00% |
+| 79   | Toxicroak / Whiscash               |    1 |   3.12% |   0.00% |
+| 79   | Toxicroak / Cryogonal              |    1 |   3.12% |   0.00% |
+| 79   | Venusaur / Spiritomb               |    1 |   3.12% |   0.00% |
+| 79   | Jolteon / Venusaur                 |    1 |   3.12% |   0.00% |
+| 79   | Whiscash / Spiritomb               |    1 |   3.12% |   0.00% |
+| 79   | Cryogonal / Spiritomb              |    1 |   3.12% |   0.00% |
+| 79   | Jolteon / Whiscash                 |    1 |   3.12% |   0.00% |
+| 79   | Cryogonal / Jolteon                |    1 |   3.12% |   0.00% |
+| 79   | Clawitzer / Pyroar                 |    1 |   3.12% |   0.00% |
+| 79   | Froslass / Rampardos               |    1 |   3.12% |   0.00% |
+| 79   | Froslass / Clawitzer               |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Rampardos               |    1 |   3.12% |   0.00% |
+| 79   | Camerupt / Rampardos               |    1 |   3.12% |   0.00% |
+| 79   | Rampardos / Venusaur               |    1 |   3.12% |   0.00% |
+| 79   | Clawitzer / Rampardos              |    1 |   3.12% |   0.00% |
+| 79   | Camerupt / Clawitzer               |    1 |   3.12% |   0.00% |
+| 79   | Toxicroak / Mabosstiff             |    1 |   3.12% |   0.00% |
+| 79   | Toxicroak / Orthworm               |    1 |   3.12% |   0.00% |
+| 79   | Whimsicott / Mabosstiff            |    1 |   3.12% |   0.00% |
+| 79   | Camerupt / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 79   | Orthworm / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 79   | Mesprit / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 79   | Orthworm / Whimsicott              |    1 |   3.12% |   0.00% |
+| 79   | Camerupt / Orthworm                |    1 |   3.12% |   0.00% |
+| 79   | Mesprit / Orthworm                 |    1 |   3.12% |   0.00% |
+| 79   | Mesprit / Toedscruel               |    1 |   3.12% |   0.00% |
+| 79   | Ninetales / Mesprit                |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Toedscruel              |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Ninetales               |    1 |   3.12% |   0.00% |
+| 79   | Clawitzer / Toedscruel             |    1 |   3.12% |   0.00% |
+| 79   | Toedscruel / Passimian             |    1 |   3.12% |   0.00% |
+| 79   | Ninetales / Toedscruel             |    1 |   3.12% |   0.00% |
+| 79   | Ninetales / Clawitzer              |    1 |   3.12% |   0.00% |
+| 79   | Ninetales / Passimian              |    1 |   3.12% |   0.00% |
+| 79   | Vikavolt / Venusaur                |    1 |   3.12% |   0.00% |
+| 79   | Venusaur / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 79   | Vikavolt / Clawitzer               |    1 |   3.12% |   0.00% |
+| 79   | Clawitzer / Mabosstiff             |    1 |   3.12% |   0.00% |
+| 79   | Vikavolt / Passimian               |    1 |   3.12% |   0.00% |
+| 79   | Mabosstiff / Passimian             |    1 |   3.12% |   0.00% |
+| 79   | Vikavolt / Sandslash               |    1 |   3.12% |   0.00% |
+| 79   | Vikavolt / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 79   | Sandslash / Mabosstiff             |    1 |   3.12% |   0.00% |
+| 79   | Abomasnow / Passimian              |    1 |   3.12% |   0.00% |
+| 79   | Jolteon / Passimian                |    1 |   3.12% |   0.00% |
+| 79   | Magmortar / Passimian              |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Abomasnow               |    1 |   3.12% |   0.00% |
+| 79   | Skuntank / Jolteon                 |    1 |   3.12% |   0.00% |
+| 79   | Magmortar / Skuntank               |    1 |   3.12% |   0.00% |
+| 79   | Magmortar / Abomasnow              |    1 |   3.12% |   0.00% |
+| 79   | Magmortar / Mesprit                |    1 |   3.12% |   0.00% |
+| 79   | Magmortar / Jolteon                |    1 |   3.12% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Skuntank / Mesprit / Passimian                  |    6 |  18.75% |  50.00% |
+| 2    | Mesprit / Pyroar / Passimian                    |    4 |  12.50% |  75.00% |
+| 2    | Whiscash / Pyroar / Passimian                   |    4 |  12.50% |  75.00% |
+| 2    | Skuntank / Mesprit / Pyroar                     |    4 |  12.50% |  75.00% |
+| 2    | Whiscash / Venusaur / Pyroar                    |    4 |  12.50% |  50.00% |
+| 2    | Venusaur / Mesprit / Passimian                  |    4 |  12.50% |  50.00% |
+| 7    | Skuntank / Mesprit / Whimsicott                 |    3 |   9.38% | 100.00% |
+| 7    | Skuntank / Mesprit / Eelektross                 |    3 |   9.38% | 100.00% |
+| 7    | Eelektross / Pyroar / Whimsicott                |    3 |   9.38% | 100.00% |
+| 7    | Whiscash / Mesprit / Passimian                  |    3 |   9.38% |  66.67% |
+| 7    | Skuntank / Pyroar / Passimian                   |    3 |   9.38% |  66.67% |
+| 7    | Whiscash / Mesprit / Pyroar                     |    3 |   9.38% |  66.67% |
+| 7    | Venusaur / Pyroar / Passimian                   |    3 |   9.38% |  66.67% |
+| 7    | Whiscash / Venusaur / Passimian                 |    3 |   9.38% |  66.67% |
+| 7    | Skuntank / Venusaur / Mesprit                   |    3 |   9.38% |  66.67% |
+| 7    | Toxicroak / Mesprit / Eelektross                |    3 |   9.38% |  66.67% |
+| 7    | Toxicroak / Pyroar / Eelektross                 |    3 |   9.38% |  66.67% |
+| 7    | Skuntank / Whiscash / Pyroar                    |    3 |   9.38% |  33.33% |
+| 7    | Venusaur / Mesprit / Pyroar                     |    3 |   9.38% |  33.33% |
+| 7    | Toxicroak / Sandslash / Eelektross              |    3 |   9.38% |  33.33% |
+| 7    | Skuntank / Whiscash / Venusaur                  |    3 |   9.38% |   0.00% |
+| 22   | Sandslash / Skuntank / Mesprit                  |    2 |   6.25% | 100.00% |
+| 22   | Toxicroak / Skuntank / Mesprit                  |    2 |   6.25% | 100.00% |
+| 22   | Toxicroak / Skuntank / Eelektross               |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Regirock / Pyroar                    |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Toxicroak / Pyroar                   |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Pyroar / Whimsicott                  |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Pyroar / Eelektross                  |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Regirock / Toxicroak                 |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Regirock / Whimsicott                |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Regirock / Eelektross                |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Toxicroak / Whimsicott               |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Toxicroak / Eelektross               |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Whimsicott / Eelektross              |    2 |   6.25% | 100.00% |
+| 22   | Toxicroak / Regirock / Pyroar                   |    2 |   6.25% | 100.00% |
+| 22   | Regirock / Pyroar / Whimsicott                  |    2 |   6.25% | 100.00% |
+| 22   | Regirock / Pyroar / Eelektross                  |    2 |   6.25% | 100.00% |
+| 22   | Toxicroak / Pyroar / Whimsicott                 |    2 |   6.25% | 100.00% |
+| 22   | Toxicroak / Regirock / Whimsicott               |    2 |   6.25% | 100.00% |
+| 22   | Toxicroak / Regirock / Eelektross               |    2 |   6.25% | 100.00% |
+| 22   | Regirock / Whimsicott / Eelektross              |    2 |   6.25% | 100.00% |
+| 22   | Toxicroak / Whimsicott / Eelektross             |    2 |   6.25% | 100.00% |
+| 22   | Froslass / Camerupt / Skuntank                  |    2 |   6.25% |  50.00% |
+| 22   | Camerupt / Mesprit / Passimian                  |    2 |   6.25% |  50.00% |
+| 22   | Skuntank / Whiscash / Passimian                 |    2 |   6.25% |  50.00% |
+| 22   | Skuntank / Whiscash / Mesprit                   |    2 |   6.25% |  50.00% |
+| 22   | Sandslash / Mesprit / Passimian                 |    2 |   6.25% |  50.00% |
+| 22   | Clawitzer / Venusaur / Mesprit                  |    2 |   6.25% |  50.00% |
+| 22   | Froslass / Whiscash / Venusaur                  |    2 |   6.25% |  50.00% |
+| 22   | Cryogonal / Whiscash / Venusaur                 |    2 |   6.25% |  50.00% |
+| 22   | Camerupt / Mesprit / Whimsicott                 |    2 |   6.25% |  50.00% |
+| 22   | Skuntank / Venusaur / Passimian                 |    2 |   6.25% |  50.00% |
+| 22   | Skuntank / Venusaur / Camerupt                  |    2 |   6.25% |  50.00% |
+| 22   | Toxicroak / Spiritomb / Mesprit                 |    2 |   6.25% |  50.00% |
+| 22   | Sandslash / Mesprit / Pyroar                    |    2 |   6.25% |  50.00% |
+| 22   | Skuntank / Clawitzer / Venusaur                 |    2 |   6.25% |  50.00% |
+| 22   | Skuntank / Clawitzer / Mesprit                  |    2 |   6.25% |  50.00% |
+| 22   | Toxicroak / Clawitzer / Mesprit                 |    2 |   6.25% |  50.00% |
+| 22   | Toxicroak / Clawitzer / Eelektross              |    2 |   6.25% |  50.00% |
+| 22   | Clawitzer / Mesprit / Eelektross                |    2 |   6.25% |  50.00% |
+| 22   | Whiscash / Venusaur / Mesprit                   |    2 |   6.25% |  50.00% |
+| 22   | Pyroar / Mesprit / Eelektross                   |    2 |   6.25% |  50.00% |
+| 22   | Sandslash / Mesprit / Eelektross                |    2 |   6.25% |  50.00% |
+| 22   | Toxicroak / Sandslash / Mesprit                 |    2 |   6.25% |  50.00% |
+| 22   | Skuntank / Venusaur / Pyroar                    |    2 |   6.25% |   0.00% |
+| 22   | Clawitzer / Mesprit / Passimian                 |    2 |   6.25% |   0.00% |
+| 22   | Clawitzer / Venusaur / Passimian                |    2 |   6.25% |   0.00% |
+| 22   | Sandslash / Clawitzer / Passimian               |    2 |   6.25% |   0.00% |
+| 22   | Sandslash / Venusaur / Passimian                |    2 |   6.25% |   0.00% |
+| 22   | Sandslash / Clawitzer / Mesprit                 |    2 |   6.25% |   0.00% |
+| 22   | Sandslash / Clawitzer / Venusaur                |    2 |   6.25% |   0.00% |
+| 22   | Froslass / Skuntank / Venusaur                  |    2 |   6.25% |   0.00% |
+| 22   | Jolteon / Abomasnow / Mesprit                   |    2 |   6.25% |   0.00% |
+| 22   | Toxicroak / Jolteon / Spiritomb                 |    2 |   6.25% |   0.00% |
+| 75   | Klawf / Camerupt / Dipplin                      |    1 |   3.12% | 100.00% |
+| 75   | Klawf / Camerupt / Skuntank                     |    1 |   3.12% | 100.00% |
+| 75   | Klawf / Camerupt / Swanna                       |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Klawf / Camerupt                     |    1 |   3.12% | 100.00% |
+| 75   | Klawf / Skuntank / Dipplin                      |    1 |   3.12% | 100.00% |
+| 75   | Klawf / Dipplin / Swanna                        |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Klawf / Dipplin                      |    1 |   3.12% | 100.00% |
+| 75   | Klawf / Skuntank / Swanna                       |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Klawf / Skuntank                     |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Klawf / Swanna                       |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Skuntank / Dipplin                   |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Dipplin / Swanna                     |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Camerupt / Dipplin                   |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Skuntank / Swanna                    |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Camerupt / Swanna                    |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Dipplin / Swanna                     |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Skuntank / Dipplin                   |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Dipplin / Swanna                     |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Skuntank / Swanna                    |    1 |   3.12% | 100.00% |
+| 75   | Arboliva / Veluza / Sceptile                    |    1 |   3.12% | 100.00% |
+| 75   | Bastiodon / Arboliva / Sceptile                 |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Arboliva / Sceptile                 |    1 |   3.12% | 100.00% |
+| 75   | Drifblim / Arboliva / Sceptile                  |    1 |   3.12% | 100.00% |
+| 75   | Bastiodon / Arboliva / Veluza                   |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Arboliva / Veluza                   |    1 |   3.12% | 100.00% |
+| 75   | Drifblim / Arboliva / Veluza                    |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Bastiodon / Arboliva                |    1 |   3.12% | 100.00% |
+| 75   | Bastiodon / Drifblim / Arboliva                 |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Drifblim / Arboliva                 |    1 |   3.12% | 100.00% |
+| 75   | Bastiodon / Veluza / Sceptile                   |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Veluza / Sceptile                   |    1 |   3.12% | 100.00% |
+| 75   | Drifblim / Veluza / Sceptile                    |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Bastiodon / Sceptile                |    1 |   3.12% | 100.00% |
+| 75   | Bastiodon / Drifblim / Sceptile                 |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Drifblim / Sceptile                 |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Bastiodon / Veluza                  |    1 |   3.12% | 100.00% |
+| 75   | Bastiodon / Drifblim / Veluza                   |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Drifblim / Veluza                   |    1 |   3.12% | 100.00% |
+| 75   | Farigiraf / Bastiodon / Drifblim                |    1 |   3.12% | 100.00% |
+| 75   | Mesprit / Leafeon / Passimian                   |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Leafeon / Passimian                  |    1 |   3.12% | 100.00% |
+| 75   | Pyroar / Leafeon / Passimian                    |    1 |   3.12% | 100.00% |
+| 75   | Whiscash / Leafeon / Passimian                  |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Mesprit / Leafeon                    |    1 |   3.12% | 100.00% |
+| 75   | Pyroar / Mesprit / Leafeon                      |    1 |   3.12% | 100.00% |
+| 75   | Whiscash / Mesprit / Leafeon                    |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Pyroar / Leafeon                     |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Whiscash / Leafeon                   |    1 |   3.12% | 100.00% |
+| 75   | Whiscash / Pyroar / Leafeon                     |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Skuntank / Mesprit                   |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Mesprit / Muk                        |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Mesprit / Whimsicott                 |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Hitmontop / Mesprit                  |    1 |   3.12% | 100.00% |
+| 75   | Muk / Skuntank / Mesprit                        |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Mesprit / Hitmontop                  |    1 |   3.12% | 100.00% |
+| 75   | Muk / Mesprit / Whimsicott                      |    1 |   3.12% | 100.00% |
+| 75   | Muk / Hitmontop / Mesprit                       |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Mesprit / Whimsicott                |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Skuntank / Muk                       |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Skuntank / Whimsicott                |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Skuntank / Hitmontop                 |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Muk / Whimsicott                     |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Hitmontop / Muk                      |    1 |   3.12% | 100.00% |
+| 75   | Vikavolt / Hitmontop / Whimsicott               |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Muk / Whimsicott                     |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Muk / Hitmontop                      |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Whimsicott / Hitmontop               |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Muk / Whimsicott                    |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Pyroar / Passimian                  |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Dodrio / Pyroar                     |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Whiscash / Pyroar                   |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Venusaur / Pyroar                   |    1 |   3.12% | 100.00% |
+| 75   | Dodrio / Pyroar / Passimian                     |    1 |   3.12% | 100.00% |
+| 75   | Whiscash / Dodrio / Pyroar                      |    1 |   3.12% | 100.00% |
+| 75   | Dodrio / Venusaur / Pyroar                      |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Dodrio / Passimian                  |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Whiscash / Passimian                |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Venusaur / Passimian                |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Dodrio / Whiscash                   |    1 |   3.12% | 100.00% |
+| 75   | Cryogonal / Dodrio / Venusaur                   |    1 |   3.12% | 100.00% |
+| 75   | Whiscash / Dodrio / Passimian                   |    1 |   3.12% | 100.00% |
+| 75   | Dodrio / Venusaur / Passimian                   |    1 |   3.12% | 100.00% |
+| 75   | Whiscash / Dodrio / Venusaur                    |    1 |   3.12% | 100.00% |
+| 75   | Venusaur / Whimsicott / Passimian               |    1 |   3.12% | 100.00% |
+| 75   | Mesprit / Whimsicott / Passimian                |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Whimsicott / Passimian               |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Whimsicott / Passimian               |    1 |   3.12% | 100.00% |
+| 75   | Venusaur / Mesprit / Whimsicott                 |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Venusaur / Whimsicott                |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Venusaur / Whimsicott                |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Camerupt / Whimsicott                |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Venusaur / Passimian                 |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Camerupt / Passimian                 |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Venusaur / Mesprit                   |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Camerupt / Mesprit                   |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Samurott / Mesprit                  |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Skuntank / Samurott                 |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Skuntank / Pyroar                   |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Skuntank / Passimian                |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Samurott / Pyroar                   |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Samurott / Passimian                |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Pyroar / Passimian                  |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Samurott / Mesprit                   |    1 |   3.12% | 100.00% |
+| 75   | Samurott / Mesprit / Pyroar                     |    1 |   3.12% | 100.00% |
+| 75   | Samurott / Mesprit / Passimian                  |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Samurott / Pyroar                    |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Samurott / Passimian                 |    1 |   3.12% | 100.00% |
+| 75   | Samurott / Pyroar / Passimian                   |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Clawitzer / Venusaur                |    1 |   3.12% | 100.00% |
+| 75   | Clawitzer / Venusaur / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Skuntank / Venusaur                 |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Venusaur / Eelektross                |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Venusaur / Mesprit                  |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Venusaur / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Venusaur / Mesprit / Eelektross                 |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Skuntank / Clawitzer                |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Clawitzer / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Mesprit / Passimian                  |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Mesprit / Pyroar                     |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Venusaur / Mesprit                   |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Whiscash / Mesprit                   |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Pyroar / Passimian                   |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Venusaur / Passimian                 |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Whiscash / Passimian                 |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Venusaur / Pyroar                    |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Whiscash / Pyroar                    |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Naclstack / Pyroar                  |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Skuntank / Pyroar                   |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Swanna / Pyroar                     |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Sandaconda / Pyroar                 |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Naclstack / Skuntank                |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Naclstack / Swanna                  |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Naclstack / Sandaconda              |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Skuntank / Swanna                   |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Skuntank / Sandaconda               |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Sandaconda / Swanna                 |    1 |   3.12% | 100.00% |
+| 75   | Naclstack / Skuntank / Pyroar                   |    1 |   3.12% | 100.00% |
+| 75   | Naclstack / Pyroar / Swanna                     |    1 |   3.12% | 100.00% |
+| 75   | Naclstack / Sandaconda / Pyroar                 |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Pyroar / Swanna                      |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Sandaconda / Pyroar                  |    1 |   3.12% | 100.00% |
+| 75   | Swanna / Sandaconda / Pyroar                    |    1 |   3.12% | 100.00% |
+| 75   | Naclstack / Skuntank / Swanna                   |    1 |   3.12% | 100.00% |
+| 75   | Naclstack / Skuntank / Sandaconda               |    1 |   3.12% | 100.00% |
+| 75   | Naclstack / Sandaconda / Swanna                 |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Sandaconda / Swanna                  |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Eelektross / Sceptile                |    1 |   3.12% | 100.00% |
+| 75   | Sandaconda / Eelektross / Sceptile              |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Eelektross / Sceptile               |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Eelektross / Sceptile                |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Sandaconda / Eelektross              |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Hitmontop / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Skuntank / Eelektross                |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Sandaconda / Eelektross             |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Sandaconda / Eelektross              |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Skuntank / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Sandaconda / Sceptile                |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Hitmontop / Sceptile                 |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Skuntank / Sceptile                  |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Sandaconda / Sceptile               |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Sandaconda / Sceptile                |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Skuntank / Sceptile                 |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Hitmontop / Sandaconda               |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Skuntank / Sandaconda                |    1 |   3.12% | 100.00% |
+| 75   | Froslass / Hitmontop / Skuntank                 |    1 |   3.12% | 100.00% |
+| 75   | Hitmontop / Sandaconda / Skuntank               |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Venusaur / Swanna                    |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Camerupt / Swanna                   |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Rotom / Swanna                       |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Sneasel / Swanna                     |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Camerupt / Venusaur                 |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Rotom / Venusaur                     |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Venusaur / Sneasel                   |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Camerupt / Rotom                    |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Camerupt / Sneasel                  |    1 |   3.12% | 100.00% |
+| 75   | Camerupt / Rotom / Sneasel                      |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Venusaur / Swanna                   |    1 |   3.12% | 100.00% |
+| 75   | Rotom / Venusaur / Swanna                       |    1 |   3.12% | 100.00% |
+| 75   | Venusaur / Sneasel / Swanna                     |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Rotom / Swanna                      |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Sneasel / Swanna                    |    1 |   3.12% | 100.00% |
+| 75   | Rotom / Sneasel / Swanna                        |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Rotom / Venusaur                    |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Venusaur / Sneasel                  |    1 |   3.12% | 100.00% |
+| 75   | Rotom / Venusaur / Sneasel                      |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Rotom / Sneasel                     |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Spiritomb / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Spiritomb / Mesprit / Eelektross                |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Spiritomb / Eelektross              |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Spiritomb / Eelektross              |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Spiritomb / Mesprit                  |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Skuntank / Spiritomb                |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Skuntank / Spiritomb                |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Spiritomb / Mesprit                 |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Sandslash / Spiritomb               |    1 |   3.12% | 100.00% |
+| 75   | Sandslash / Skuntank / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Toxicroak / Sandslash / Skuntank                |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Whimsicott / Eelektross              |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Skuntank / Whimsicott   |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Pyroar / Whimsicott                  |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Skuntank / Eelektross   |    1 |   3.12% | 100.00% |
+| 75   | Skuntank / Pyroar / Eelektross                  |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Skuntank / Mesprit      |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Skuntank / Pyroar       |    1 |   3.12% | 100.00% |
+| 75   | Mesprit / Whimsicott / Eelektross               |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Whimsicott / Eelektross |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Mesprit / Whimsicott    |    1 |   3.12% | 100.00% |
+| 75   | Pyroar / Mesprit / Whimsicott                   |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Pyroar / Whimsicott     |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Mesprit / Eelektross    |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Pyroar / Eelektross     |    1 |   3.12% | 100.00% |
+| 75   | Basculin-Blue-Striped / Mesprit / Pyroar        |    1 |   3.12% | 100.00% |
+| 75   | Venusaur / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 75   | Regirock / Venusaur / Pyroar                    |    1 |   3.12% |   0.00% |
+| 75   | Whiscash / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 75   | Regirock / Whiscash / Pyroar                    |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 75   | Regirock / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 75   | Regirock / Skuntank / Pyroar                    |    1 |   3.12% |   0.00% |
+| 75   | Whiscash / Venusaur / Sneasel                   |    1 |   3.12% |   0.00% |
+| 75   | Regirock / Whiscash / Venusaur                  |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Venusaur / Sneasel                   |    1 |   3.12% |   0.00% |
+| 75   | Regirock / Venusaur / Sneasel                   |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Venusaur / Regirock                  |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Whiscash / Sneasel                   |    1 |   3.12% |   0.00% |
+| 75   | Regirock / Whiscash / Sneasel                   |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Whiscash / Regirock                  |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Sneasel / Regirock                   |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Venusaur / Crabominable              |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Venusaur / Exeggutor-Alola           |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Venusaur / Mesprit                   |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Venusaur / Pyroar                    |    1 |   3.12% |   0.00% |
+| 75   | Exeggutor-Alola / Venusaur / Crabominable       |    1 |   3.12% |   0.00% |
+| 75   | Venusaur / Crabominable / Mesprit               |    1 |   3.12% |   0.00% |
+| 75   | Venusaur / Crabominable / Pyroar                |    1 |   3.12% |   0.00% |
+| 75   | Exeggutor-Alola / Venusaur / Mesprit            |    1 |   3.12% |   0.00% |
+| 75   | Exeggutor-Alola / Venusaur / Pyroar             |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Exeggutor-Alola / Crabominable       |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Mesprit / Crabominable               |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Crabominable / Pyroar                |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Mesprit / Exeggutor-Alola            |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Exeggutor-Alola / Pyroar             |    1 |   3.12% |   0.00% |
+| 75   | Lycanroc / Mesprit / Pyroar                     |    1 |   3.12% |   0.00% |
+| 75   | Exeggutor-Alola / Mesprit / Crabominable        |    1 |   3.12% |   0.00% |
+| 75   | Exeggutor-Alola / Crabominable / Pyroar         |    1 |   3.12% |   0.00% |
+| 75   | Mesprit / Crabominable / Pyroar                 |    1 |   3.12% |   0.00% |
+| 75   | Exeggutor-Alola / Mesprit / Pyroar              |    1 |   3.12% |   0.00% |
+| 75   | Brute Bonnet / Mismagius / Mesprit              |    1 |   3.12% |   0.00% |
+| 75   | Mismagius / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Mismagius / Mesprit                  |    1 |   3.12% |   0.00% |
+| 75   | Mismagius / Mesprit / Swanna                    |    1 |   3.12% |   0.00% |
+| 75   | Brute Bonnet / Mesprit / Passimian              |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Brute Bonnet / Mesprit               |    1 |   3.12% |   0.00% |
+| 75   | Brute Bonnet / Mesprit / Swanna                 |    1 |   3.12% |   0.00% |
+| 75   | Mesprit / Swanna / Passimian                    |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Mesprit / Swanna                     |    1 |   3.12% |   0.00% |
+| 75   | Brute Bonnet / Mismagius / Passimian            |    1 |   3.12% |   0.00% |
+| 75   | Brute Bonnet / Camerupt / Mismagius             |    1 |   3.12% |   0.00% |
+| 75   | Brute Bonnet / Mismagius / Swanna               |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Mismagius / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Mismagius / Swanna / Passimian                  |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Mismagius / Swanna                   |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Brute Bonnet / Passimian             |    1 |   3.12% |   0.00% |
+| 75   | Brute Bonnet / Swanna / Passimian               |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Brute Bonnet / Swanna                |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Swanna / Passimian                   |    1 |   3.12% |   0.00% |
+| 75   | Ursaring / Mesprit / Passimian                  |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Ursaring / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Ursaring / Venusaur / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Ursaring / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Ursaring / Mesprit                  |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Venusaur / Mesprit                  |    1 |   3.12% |   0.00% |
+| 75   | Ursaring / Venusaur / Mesprit                   |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Ursaring / Mesprit                  |    1 |   3.12% |   0.00% |
+| 75   | Ursaring / Clawitzer / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Clawitzer / Ursaring                |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Venusaur / Ursaring                 |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Whiscash / Greedent                  |    1 |   3.12% |   0.00% |
+| 75   | Whiscash / Greedent / Venusaur                  |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Whiscash / Greedent                  |    1 |   3.12% |   0.00% |
+| 75   | Whiscash / Greedent / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Greedent / Venusaur                  |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Skuntank / Greedent                  |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Greedent / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Greedent / Venusaur                  |    1 |   3.12% |   0.00% |
+| 75   | Raichu-Alola / Greedent / Venusaur              |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Greedent / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Skuntank / Whiscash                  |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Whiscash / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Whiscash / Venusaur / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Whiscash / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Venusaur / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Skuntank / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Venusaur / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Abomasnow / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Abomasnow / Toxicroak                 |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Jolteon / Abomasnow                   |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Abomasnow / Mesprit                   |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Spiritomb / Toxicroak                 |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Jolteon / Spiritomb                   |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Spiritomb / Mesprit                   |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Jolteon / Toxicroak                   |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Mesprit / Toxicroak                   |    1 |   3.12% |   0.00% |
+| 75   | Beartic / Jolteon / Mesprit                     |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Abomasnow / Spiritomb               |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Abomasnow / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 75   | Abomasnow / Mesprit / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Jolteon / Abomasnow                 |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Abomasnow / Mesprit                 |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Spiritomb / Mesprit                   |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Jolteon / Mesprit                   |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Houndoom / Abomasnow                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Mismagius / Abomasnow               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Sandslash / Abomasnow               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Abomasnow / Eelektross              |    1 |   3.12% |   0.00% |
+| 75   | Mismagius / Houndoom / Abomasnow                |    1 |   3.12% |   0.00% |
+| 75   | Houndoom / Abomasnow / Sandslash                |    1 |   3.12% |   0.00% |
+| 75   | Houndoom / Abomasnow / Eelektross               |    1 |   3.12% |   0.00% |
+| 75   | Mismagius / Sandslash / Abomasnow               |    1 |   3.12% |   0.00% |
+| 75   | Mismagius / Abomasnow / Eelektross              |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Abomasnow / Eelektross              |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Houndoom / Mismagius                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Houndoom / Sandslash                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Houndoom / Eelektross               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Sandslash / Mismagius               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Mismagius / Eelektross              |    1 |   3.12% |   0.00% |
+| 75   | Houndoom / Mismagius / Sandslash                |    1 |   3.12% |   0.00% |
+| 75   | Houndoom / Mismagius / Eelektross               |    1 |   3.12% |   0.00% |
+| 75   | Houndoom / Sandslash / Eelektross               |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Mismagius / Eelektross              |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Jolteon / Whimsicott                |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Ursaring / Whimsicott                 |    1 |   3.12% |   0.00% |
+| 75   | Weezing / Jolteon / Whimsicott                  |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Whimsicott / Sableye                  |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Ursaring / Whimsicott               |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Weezing / Whimsicott                |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Whimsicott / Sableye                |    1 |   3.12% |   0.00% |
+| 75   | Weezing / Ursaring / Whimsicott                 |    1 |   3.12% |   0.00% |
+| 75   | Ursaring / Whimsicott / Sableye                 |    1 |   3.12% |   0.00% |
+| 75   | Weezing / Whimsicott / Sableye                  |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Jolteon / Ursaring                  |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Jolteon / Weezing                   |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Jolteon / Sableye                   |    1 |   3.12% |   0.00% |
+| 75   | Weezing / Jolteon / Ursaring                    |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Ursaring / Sableye                    |    1 |   3.12% |   0.00% |
+| 75   | Weezing / Jolteon / Sableye                     |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Weezing / Ursaring                  |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Ursaring / Sableye                  |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Weezing / Sableye                   |    1 |   3.12% |   0.00% |
+| 75   | Weezing / Ursaring / Sableye                    |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Venusaur / Spiritomb                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Jolteon / Venusaur                  |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Whiscash / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Cryogonal / Venusaur                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Whiscash / Spiritomb                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Cryogonal / Spiritomb               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Jolteon / Whiscash                  |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Cryogonal / Jolteon                 |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Cryogonal / Whiscash                |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Venusaur / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 75   | Whiscash / Venusaur / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 75   | Cryogonal / Venusaur / Spiritomb                |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Whiscash / Venusaur                   |    1 |   3.12% |   0.00% |
+| 75   | Cryogonal / Jolteon / Venusaur                  |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Whiscash / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 75   | Cryogonal / Jolteon / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 75   | Cryogonal / Whiscash / Spiritomb                |    1 |   3.12% |   0.00% |
+| 75   | Cryogonal / Jolteon / Whiscash                  |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Pyroar / Eelektross                 |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Clawitzer / Eelektross              |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Clawitzer / Pyroar                  |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Sandslash / Clawitzer               |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Mesprit / Pyroar                    |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Clawitzer / Pyroar                  |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Pyroar / Eelektross                 |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Mesprit / Pyroar                    |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Sandslash / Pyroar                  |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Skuntank / Rampardos                 |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Camerupt / Rampardos                 |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Rampardos / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Clawitzer / Rampardos                |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Skuntank / Clawitzer                 |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Camerupt / Venusaur                  |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Camerupt / Clawitzer                 |    1 |   3.12% |   0.00% |
+| 75   | Froslass / Clawitzer / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Rampardos / Camerupt                 |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Rampardos / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Clawitzer / Rampardos                |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Rampardos / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Clawitzer / Rampardos                |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Rampardos / Venusaur                |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Clawitzer / Camerupt                 |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Clawitzer / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Whimsicott / Mabosstiff             |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Camerupt / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Orthworm / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Mesprit / Mabosstiff                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Camerupt / Whimsicott               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Orthworm / Whimsicott               |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Mesprit / Whimsicott                |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Camerupt / Orthworm                 |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Camerupt / Mesprit                  |    1 |   3.12% |   0.00% |
+| 75   | Toxicroak / Mesprit / Orthworm                  |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Whimsicott / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 75   | Orthworm / Whimsicott / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 75   | Mesprit / Whimsicott / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Orthworm / Mabosstiff                |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Mesprit / Mabosstiff                 |    1 |   3.12% |   0.00% |
+| 75   | Mesprit / Orthworm / Mabosstiff                 |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Orthworm / Whimsicott                |    1 |   3.12% |   0.00% |
+| 75   | Mesprit / Orthworm / Whimsicott                 |    1 |   3.12% |   0.00% |
+| 75   | Camerupt / Mesprit / Orthworm                   |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Mesprit / Toedscruel                 |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Mesprit / Ninetales                  |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Mesprit / Toedscruel                |    1 |   3.12% |   0.00% |
+| 75   | Mesprit / Toedscruel / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Ninetales / Mesprit / Toedscruel                |    1 |   3.12% |   0.00% |
+| 75   | Ninetales / Clawitzer / Mesprit                 |    1 |   3.12% |   0.00% |
+| 75   | Ninetales / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Clawitzer / Toedscruel               |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Toedscruel / Passimian               |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Toedscruel / Ninetales               |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Clawitzer / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Clawitzer / Ninetales                |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Ninetales / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Toedscruel / Passimian              |    1 |   3.12% |   0.00% |
+| 75   | Ninetales / Clawitzer / Toedscruel              |    1 |   3.12% |   0.00% |
+| 75   | Ninetales / Toedscruel / Passimian              |    1 |   3.12% |   0.00% |
+| 75   | Ninetales / Clawitzer / Passimian               |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Clawitzer / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Venusaur / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Venusaur / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Venusaur / Mabosstiff / Passimian               |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Sandslash / Venusaur                 |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Venusaur / Mabosstiff                |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Venusaur / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Clawitzer / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Clawitzer / Mabosstiff / Passimian              |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Sandslash / Clawitzer                |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Clawitzer / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Clawitzer / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Sandslash / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Mabosstiff / Passimian               |    1 |   3.12% |   0.00% |
+| 75   | Sandslash / Mabosstiff / Passimian              |    1 |   3.12% |   0.00% |
+| 75   | Vikavolt / Sandslash / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Abomasnow / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Jolteon / Passimian                  |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Skuntank / Passimian                |    1 |   3.12% |   0.00% |
+| 75   | Abomasnow / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Abomasnow / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Abomasnow / Passimian               |    1 |   3.12% |   0.00% |
+| 75   | Jolteon / Mesprit / Passimian                   |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Jolteon / Passimian                 |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Abomasnow / Mesprit                  |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Abomasnow / Jolteon                  |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Skuntank / Abomasnow                |    1 |   3.12% |   0.00% |
+| 75   | Skuntank / Mesprit / Jolteon                    |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Skuntank / Mesprit                  |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Skuntank / Jolteon                  |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Abomasnow / Mesprit                 |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Jolteon / Abomasnow                 |    1 |   3.12% |   0.00% |
+| 75   | Magmortar / Jolteon / Mesprit                   |    1 |   3.12% |   0.00% |
+
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Skuntank / Mesprit / Pyroar / Passimian                    |    3 |   9.38% |  66.67% |
+| 1    | Whiscash / Mesprit / Pyroar / Passimian                    |    3 |   9.38% |  66.67% |
+| 1    | Whiscash / Venusaur / Pyroar / Passimian                   |    3 |   9.38% |  66.67% |
+| 4    | Toxicroak / Skuntank / Mesprit / Eelektross                |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Regirock / Toxicroak / Pyroar                   |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Regirock / Pyroar / Whimsicott                  |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Regirock / Pyroar / Eelektross                  |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Toxicroak / Pyroar / Whimsicott                 |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Toxicroak / Pyroar / Eelektross                 |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Eelektross / Pyroar / Whimsicott                |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Regirock / Toxicroak / Whimsicott               |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Regirock / Toxicroak / Eelektross               |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Regirock / Whimsicott / Eelektross              |    2 |   6.25% | 100.00% |
+| 4    | Froslass / Toxicroak / Whimsicott / Eelektross             |    2 |   6.25% | 100.00% |
+| 4    | Toxicroak / Regirock / Pyroar / Whimsicott                 |    2 |   6.25% | 100.00% |
+| 4    | Toxicroak / Regirock / Pyroar / Eelektross                 |    2 |   6.25% | 100.00% |
+| 4    | Eelektross / Regirock / Pyroar / Whimsicott                |    2 |   6.25% | 100.00% |
+| 4    | Toxicroak / Eelektross / Pyroar / Whimsicott               |    2 |   6.25% | 100.00% |
+| 4    | Toxicroak / Regirock / Whimsicott / Eelektross             |    2 |   6.25% | 100.00% |
+| 4    | Skuntank / Whiscash / Mesprit / Passimian                  |    2 |   6.25% |  50.00% |
+| 4    | Skuntank / Whiscash / Pyroar / Passimian                   |    2 |   6.25% |  50.00% |
+| 4    | Skuntank / Whiscash / Mesprit / Pyroar                     |    2 |   6.25% |  50.00% |
+| 4    | Skuntank / Venusaur / Mesprit / Passimian                  |    2 |   6.25% |  50.00% |
+| 4    | Toxicroak / Clawitzer / Mesprit / Eelektross               |    2 |   6.25% |  50.00% |
+| 4    | Venusaur / Mesprit / Pyroar / Passimian                    |    2 |   6.25% |  50.00% |
+| 4    | Whiscash / Venusaur / Mesprit / Passimian                  |    2 |   6.25% |  50.00% |
+| 4    | Whiscash / Venusaur / Mesprit / Pyroar                     |    2 |   6.25% |  50.00% |
+| 4    | Toxicroak / Sandslash / Mesprit / Eelektross               |    2 |   6.25% |  50.00% |
+| 4    | Skuntank / Whiscash / Venusaur / Pyroar                    |    2 |   6.25% |   0.00% |
+| 4    | Sandslash / Clawitzer / Venusaur / Passimian               |    2 |   6.25% |   0.00% |
+| 31   | Klawf / Camerupt / Skuntank / Dipplin                      |    1 |   3.12% | 100.00% |
+| 31   | Klawf / Camerupt / Dipplin / Swanna                        |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Klawf / Camerupt / Dipplin                      |    1 |   3.12% | 100.00% |
+| 31   | Klawf / Camerupt / Skuntank / Swanna                       |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Klawf / Camerupt / Skuntank                     |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Klawf / Camerupt / Swanna                       |    1 |   3.12% | 100.00% |
+| 31   | Klawf / Skuntank / Dipplin / Swanna                        |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Klawf / Skuntank / Dipplin                      |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Klawf / Dipplin / Swanna                        |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Klawf / Skuntank / Swanna                       |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Skuntank / Dipplin / Swanna                     |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Camerupt / Skuntank / Dipplin                   |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Camerupt / Dipplin / Swanna                     |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Camerupt / Skuntank / Swanna                    |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Skuntank / Dipplin / Swanna                     |    1 |   3.12% | 100.00% |
+| 31   | Bastiodon / Arboliva / Veluza / Sceptile                   |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Arboliva / Veluza / Sceptile                   |    1 |   3.12% | 100.00% |
+| 31   | Drifblim / Arboliva / Veluza / Sceptile                    |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Bastiodon / Arboliva / Sceptile                |    1 |   3.12% | 100.00% |
+| 31   | Bastiodon / Drifblim / Arboliva / Sceptile                 |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Drifblim / Arboliva / Sceptile                 |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Bastiodon / Arboliva / Veluza                  |    1 |   3.12% | 100.00% |
+| 31   | Bastiodon / Drifblim / Arboliva / Veluza                   |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Drifblim / Arboliva / Veluza                   |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Bastiodon / Drifblim / Arboliva                |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Bastiodon / Veluza / Sceptile                  |    1 |   3.12% | 100.00% |
+| 31   | Bastiodon / Drifblim / Veluza / Sceptile                   |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Drifblim / Veluza / Sceptile                   |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Bastiodon / Drifblim / Sceptile                |    1 |   3.12% | 100.00% |
+| 31   | Farigiraf / Bastiodon / Drifblim / Veluza                  |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Mesprit / Leafeon / Passimian                   |    1 |   3.12% | 100.00% |
+| 31   | Pyroar / Mesprit / Leafeon / Passimian                     |    1 |   3.12% | 100.00% |
+| 31   | Whiscash / Mesprit / Leafeon / Passimian                   |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Pyroar / Leafeon / Passimian                    |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Whiscash / Leafeon / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Whiscash / Pyroar / Leafeon / Passimian                    |    1 |   3.12% | 100.00% |
+| 31   | Pyroar / Skuntank / Mesprit / Leafeon                      |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Whiscash / Mesprit / Leafeon                    |    1 |   3.12% | 100.00% |
+| 31   | Pyroar / Whiscash / Mesprit / Leafeon                      |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Whiscash / Pyroar / Leafeon                     |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Skuntank / Mesprit / Muk                        |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Skuntank / Mesprit / Whimsicott                 |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Skuntank / Mesprit / Hitmontop                  |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Mesprit / Muk / Whimsicott                      |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Hitmontop / Mesprit / Muk                       |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Hitmontop / Mesprit / Whimsicott                |    1 |   3.12% | 100.00% |
+| 31   | Muk / Skuntank / Mesprit / Whimsicott                      |    1 |   3.12% | 100.00% |
+| 31   | Muk / Skuntank / Mesprit / Hitmontop                       |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Mesprit / Whimsicott / Hitmontop                |    1 |   3.12% | 100.00% |
+| 31   | Muk / Hitmontop / Mesprit / Whimsicott                     |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Skuntank / Muk / Whimsicott                     |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Skuntank / Muk / Hitmontop                      |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Skuntank / Whimsicott / Hitmontop               |    1 |   3.12% | 100.00% |
+| 31   | Vikavolt / Hitmontop / Muk / Whimsicott                    |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Muk / Whimsicott / Hitmontop                    |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Dodrio / Pyroar / Passimian                    |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Whiscash / Pyroar / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Venusaur / Pyroar / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Whiscash / Dodrio / Pyroar                     |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Dodrio / Venusaur / Pyroar                     |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Whiscash / Venusaur / Pyroar                   |    1 |   3.12% | 100.00% |
+| 31   | Whiscash / Dodrio / Pyroar / Passimian                     |    1 |   3.12% | 100.00% |
+| 31   | Dodrio / Venusaur / Pyroar / Passimian                     |    1 |   3.12% | 100.00% |
+| 31   | Whiscash / Dodrio / Venusaur / Pyroar                      |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Dodrio / Whiscash / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Dodrio / Venusaur / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Whiscash / Venusaur / Passimian                |    1 |   3.12% | 100.00% |
+| 31   | Cryogonal / Dodrio / Venusaur / Whiscash                   |    1 |   3.12% | 100.00% |
+| 31   | Whiscash / Dodrio / Venusaur / Passimian                   |    1 |   3.12% | 100.00% |
+| 31   | Venusaur / Mesprit / Whimsicott / Passimian                |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Venusaur / Whimsicott / Passimian               |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Venusaur / Whimsicott / Passimian               |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Mesprit / Whimsicott / Passimian                |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Mesprit / Whimsicott / Passimian                |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Camerupt / Whimsicott / Passimian               |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Venusaur / Mesprit / Whimsicott                 |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Venusaur / Mesprit / Whimsicott                 |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Venusaur / Camerupt / Whimsicott                |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Camerupt / Mesprit / Whimsicott                 |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Venusaur / Mesprit / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Venusaur / Camerupt / Passimian                 |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Camerupt / Mesprit / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Venusaur / Mesprit / Camerupt                   |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Samurott / Mesprit                  |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Mesprit / Pyroar                    |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Mesprit / Passimian                 |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Samurott / Mesprit / Pyroar                    |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Samurott / Mesprit / Passimian                 |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Mesprit / Pyroar / Passimian                   |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Samurott / Pyroar                   |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Samurott / Passimian                |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Pyroar / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Samurott / Pyroar / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Samurott / Mesprit / Pyroar                     |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Samurott / Mesprit / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Samurott / Mesprit / Pyroar / Passimian                    |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Samurott / Pyroar / Passimian                   |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Clawitzer / Venusaur                |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Clawitzer / Venusaur / Mesprit                  |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Clawitzer / Venusaur / Eelektross               |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Clawitzer / Venusaur / Mesprit                 |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Clawitzer / Venusaur / Eelektross              |    1 |   3.12% | 100.00% |
+| 31   | Clawitzer / Venusaur / Mesprit / Eelektross                |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Venusaur / Mesprit                  |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Venusaur / Eelektross               |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Venusaur / Mesprit / Eelektross                 |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Venusaur / Mesprit / Eelektross                |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Clawitzer / Mesprit                 |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Clawitzer / Eelektross              |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Clawitzer / Mesprit / Eelektross                |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Mesprit / Pyroar / Passimian                    |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Venusaur / Mesprit / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Whiscash / Mesprit / Passimian                  |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Venusaur / Mesprit / Pyroar                     |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Whiscash / Mesprit / Pyroar                     |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Whiscash / Venusaur / Mesprit                   |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Venusaur / Pyroar / Passimian                   |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Whiscash / Pyroar / Passimian                   |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Whiscash / Venusaur / Passimian                 |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Whiscash / Venusaur / Pyroar                    |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Naclstack / Skuntank / Pyroar                  |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Naclstack / Pyroar / Swanna                    |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Naclstack / Sandaconda / Pyroar                |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Pyroar / Swanna                     |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Sandaconda / Pyroar                 |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Swanna / Sandaconda / Pyroar                   |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Naclstack / Skuntank / Swanna                  |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Naclstack / Skuntank / Sandaconda              |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Naclstack / Sandaconda / Swanna                |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Sandaconda / Swanna                 |    1 |   3.12% | 100.00% |
+| 31   | Naclstack / Skuntank / Pyroar / Swanna                     |    1 |   3.12% | 100.00% |
+| 31   | Naclstack / Skuntank / Sandaconda / Pyroar                 |    1 |   3.12% | 100.00% |
+| 31   | Naclstack / Sandaconda / Pyroar / Swanna                   |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Sandaconda / Pyroar / Swanna                    |    1 |   3.12% | 100.00% |
+| 31   | Naclstack / Skuntank / Sandaconda / Swanna                 |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Sandaconda / Eelektross / Sceptile              |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Hitmontop / Eelektross / Sceptile               |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Skuntank / Eelektross / Sceptile                |    1 |   3.12% | 100.00% |
+| 31   | Hitmontop / Sandaconda / Eelektross / Sceptile             |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Sandaconda / Eelektross / Sceptile              |    1 |   3.12% | 100.00% |
+| 31   | Hitmontop / Skuntank / Eelektross / Sceptile               |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Hitmontop / Sandaconda / Eelektross             |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Skuntank / Sandaconda / Eelektross              |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Hitmontop / Skuntank / Eelektross               |    1 |   3.12% | 100.00% |
+| 31   | Hitmontop / Sandaconda / Skuntank / Eelektross             |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Hitmontop / Sandaconda / Sceptile               |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Skuntank / Sandaconda / Sceptile                |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Hitmontop / Skuntank / Sceptile                 |    1 |   3.12% | 100.00% |
+| 31   | Hitmontop / Sandaconda / Skuntank / Sceptile               |    1 |   3.12% | 100.00% |
+| 31   | Froslass / Hitmontop / Sandaconda / Skuntank               |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Camerupt / Venusaur / Swanna                   |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Rotom / Venusaur / Swanna                       |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Venusaur / Sneasel / Swanna                     |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Camerupt / Rotom / Swanna                      |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Camerupt / Sneasel / Swanna                    |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Rotom / Sneasel / Swanna                        |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Camerupt / Rotom / Venusaur                    |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Camerupt / Venusaur / Sneasel                  |    1 |   3.12% | 100.00% |
+| 31   | Camerupt / Rotom / Venusaur / Sneasel                      |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Camerupt / Rotom / Sneasel                     |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Rotom / Venusaur / Swanna                      |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Venusaur / Sneasel / Swanna                    |    1 |   3.12% | 100.00% |
+| 31   | Rotom / Venusaur / Sneasel / Swanna                        |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Rotom / Sneasel / Swanna                       |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Rotom / Venusaur / Sneasel                     |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Spiritomb / Mesprit / Eelektross                |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Spiritomb / Eelektross              |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Spiritomb / Eelektross              |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Spiritomb / Mesprit / Eelektross               |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Spiritomb / Mesprit / Eelektross               |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Sandslash / Spiritomb / Eelektross             |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Spiritomb / Mesprit                 |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Skuntank / Spiritomb / Mesprit                 |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Sandslash / Skuntank / Spiritomb               |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Sandslash / Spiritomb / Mesprit                |    1 |   3.12% | 100.00% |
+| 31   | Sandslash / Skuntank / Mesprit / Eelektross                |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Sandslash / Skuntank / Eelektross              |    1 |   3.12% | 100.00% |
+| 31   | Toxicroak / Sandslash / Skuntank / Mesprit                 |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Mesprit / Whimsicott / Eelektross               |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Skuntank / Whimsicott / Eelektross |    1 |   3.12% | 100.00% |
+| 31   | Skuntank / Pyroar / Whimsicott / Eelektross                |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Skuntank / Mesprit / Whimsicott    |    1 |   3.12% | 100.00% |
+| 31   | Pyroar / Skuntank / Mesprit / Whimsicott                   |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Skuntank / Pyroar / Whimsicott     |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Skuntank / Mesprit / Eelektross    |    1 |   3.12% | 100.00% |
+| 31   | Pyroar / Skuntank / Mesprit / Eelektross                   |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Skuntank / Pyroar / Eelektross     |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Skuntank / Mesprit / Pyroar        |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Mesprit / Whimsicott / Eelektross  |    1 |   3.12% | 100.00% |
+| 31   | Pyroar / Mesprit / Whimsicott / Eelektross                 |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Pyroar / Whimsicott / Eelektross   |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Pyroar / Mesprit / Whimsicott      |    1 |   3.12% | 100.00% |
+| 31   | Basculin-Blue-Striped / Pyroar / Mesprit / Eelektross      |    1 |   3.12% | 100.00% |
+| 31   | Whiscash / Venusaur / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Regirock / Whiscash / Venusaur / Pyroar                    |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Venusaur / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Regirock / Venusaur / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Regirock / Skuntank / Venusaur / Pyroar                    |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Regirock / Whiscash / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Regirock / Skuntank / Whiscash / Pyroar                    |    1 |   3.12% |   0.00% |
+| 31   | Regirock / Skuntank / Sneasel / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Venusaur / Sneasel                   |    1 |   3.12% |   0.00% |
+| 31   | Regirock / Whiscash / Venusaur / Sneasel                   |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Venusaur / Regirock                  |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Venusaur / Sneasel / Regirock                   |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Sneasel / Regirock                   |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Exeggutor-Alola / Venusaur / Crabominable       |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Venusaur / Crabominable / Mesprit               |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Venusaur / Crabominable / Pyroar                |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Venusaur / Exeggutor-Alola / Mesprit            |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Venusaur / Exeggutor-Alola / Pyroar             |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Venusaur / Mesprit / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Exeggutor-Alola / Venusaur / Crabominable / Mesprit        |    1 |   3.12% |   0.00% |
+| 31   | Exeggutor-Alola / Venusaur / Crabominable / Pyroar         |    1 |   3.12% |   0.00% |
+| 31   | Pyroar / Venusaur / Crabominable / Mesprit                 |    1 |   3.12% |   0.00% |
+| 31   | Exeggutor-Alola / Venusaur / Mesprit / Pyroar              |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Exeggutor-Alola / Mesprit / Crabominable        |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Exeggutor-Alola / Crabominable / Pyroar         |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Mesprit / Crabominable / Pyroar                 |    1 |   3.12% |   0.00% |
+| 31   | Lycanroc / Mesprit / Exeggutor-Alola / Pyroar              |    1 |   3.12% |   0.00% |
+| 31   | Exeggutor-Alola / Mesprit / Crabominable / Pyroar          |    1 |   3.12% |   0.00% |
+| 31   | Brute Bonnet / Mismagius / Mesprit / Passimian             |    1 |   3.12% |   0.00% |
+| 31   | Brute Bonnet / Camerupt / Mismagius / Mesprit              |    1 |   3.12% |   0.00% |
+| 31   | Brute Bonnet / Mismagius / Mesprit / Swanna                |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Mismagius / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Mismagius / Mesprit / Swanna / Passimian                   |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Mismagius / Mesprit / Swanna                    |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Brute Bonnet / Mesprit / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Brute Bonnet / Mesprit / Swanna / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Brute Bonnet / Mesprit / Swanna                 |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Mesprit / Swanna / Passimian                    |    1 |   3.12% |   0.00% |
+| 31   | Brute Bonnet / Camerupt / Mismagius / Passimian            |    1 |   3.12% |   0.00% |
+| 31   | Brute Bonnet / Mismagius / Swanna / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Brute Bonnet / Camerupt / Mismagius / Swanna               |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Mismagius / Swanna / Passimian                  |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Brute Bonnet / Swanna / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Clawitzer / Venusaur / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Mesprit / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Clawitzer / Ursaring / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Venusaur / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Ursaring / Venusaur / Mesprit / Passimian                  |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Ursaring / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Ursaring / Clawitzer / Venusaur / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Ursaring / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Ursaring / Sandslash / Venusaur / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Venusaur / Mesprit                 |    1 |   3.12% |   0.00% |
+| 31   | Ursaring / Clawitzer / Venusaur / Mesprit                  |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Ursaring / Mesprit                 |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Venusaur / Mesprit / Ursaring                  |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Venusaur / Ursaring                |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Whiscash / Greedent / Venusaur                  |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Whiscash / Greedent                  |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Whiscash / Greedent / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Greedent / Venusaur                  |    1 |   3.12% |   0.00% |
+| 31   | Raichu-Alola / Whiscash / Greedent / Venusaur              |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Greedent / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Greedent / Venusaur                  |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Raichu-Alola / Greedent / Venusaur              |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Greedent / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 31   | Raichu-Alola / Skuntank / Greedent / Venusaur              |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Whiscash / Venusaur                  |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Whiscash / Venusaur / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Whiscash / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Venusaur / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Venusaur / Raichu-Alola              |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Abomasnow / Toxicroak / Spiritomb                |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Jolteon / Abomasnow / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Abomasnow / Mesprit / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Jolteon / Abomasnow / Toxicroak                  |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Abomasnow / Toxicroak / Mesprit                  |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Jolteon / Abomasnow / Mesprit                    |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Jolteon / Spiritomb / Toxicroak                  |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Spiritomb / Toxicroak / Mesprit                  |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Jolteon / Spiritomb / Mesprit                    |    1 |   3.12% |   0.00% |
+| 31   | Beartic / Jolteon / Mesprit / Toxicroak                    |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Jolteon / Abomasnow / Spiritomb                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Abomasnow / Mesprit / Spiritomb                |    1 |   3.12% |   0.00% |
+| 31   | Jolteon / Abomasnow / Mesprit / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Jolteon / Abomasnow / Mesprit                  |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Jolteon / Spiritomb / Mesprit                  |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Houndoom / Mismagius / Abomasnow               |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Houndoom / Abomasnow / Sandslash               |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Houndoom / Abomasnow / Eelektross              |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Mismagius / Abomasnow              |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Mismagius / Abomasnow / Eelektross             |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Abomasnow / Eelektross             |    1 |   3.12% |   0.00% |
+| 31   | Mismagius / Houndoom / Abomasnow / Sandslash               |    1 |   3.12% |   0.00% |
+| 31   | Mismagius / Houndoom / Abomasnow / Eelektross              |    1 |   3.12% |   0.00% |
+| 31   | Houndoom / Abomasnow / Sandslash / Eelektross              |    1 |   3.12% |   0.00% |
+| 31   | Mismagius / Sandslash / Abomasnow / Eelektross             |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Houndoom / Mismagius / Sandslash               |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Houndoom / Mismagius / Eelektross              |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Houndoom / Sandslash / Eelektross              |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Mismagius / Eelektross             |    1 |   3.12% |   0.00% |
+| 31   | Houndoom / Mismagius / Sandslash / Eelektross              |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Jolteon / Ursaring / Whimsicott                |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Jolteon / Weezing / Whimsicott                 |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Jolteon / Whimsicott / Sableye                 |    1 |   3.12% |   0.00% |
+| 31   | Weezing / Jolteon / Ursaring / Whimsicott                  |    1 |   3.12% |   0.00% |
+| 31   | Jolteon / Ursaring / Whimsicott / Sableye                  |    1 |   3.12% |   0.00% |
+| 31   | Weezing / Jolteon / Whimsicott / Sableye                   |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Weezing / Ursaring / Whimsicott                |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Ursaring / Whimsicott / Sableye                |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Weezing / Whimsicott / Sableye                 |    1 |   3.12% |   0.00% |
+| 31   | Weezing / Ursaring / Whimsicott / Sableye                  |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Jolteon / Weezing / Ursaring                   |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Jolteon / Ursaring / Sableye                   |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Jolteon / Weezing / Sableye                    |    1 |   3.12% |   0.00% |
+| 31   | Weezing / Jolteon / Ursaring / Sableye                     |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Weezing / Ursaring / Sableye                   |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Jolteon / Venusaur / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Whiscash / Venusaur / Spiritomb                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Cryogonal / Venusaur / Spiritomb               |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Jolteon / Whiscash / Venusaur                  |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Cryogonal / Jolteon / Venusaur                 |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Cryogonal / Whiscash / Venusaur                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Jolteon / Whiscash / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Cryogonal / Jolteon / Spiritomb                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Cryogonal / Whiscash / Spiritomb               |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Cryogonal / Jolteon / Whiscash                 |    1 |   3.12% |   0.00% |
+| 31   | Jolteon / Whiscash / Venusaur / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 31   | Cryogonal / Jolteon / Venusaur / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 31   | Cryogonal / Whiscash / Venusaur / Spiritomb                |    1 |   3.12% |   0.00% |
+| 31   | Cryogonal / Jolteon / Whiscash / Venusaur                  |    1 |   3.12% |   0.00% |
+| 31   | Cryogonal / Jolteon / Whiscash / Spiritomb                 |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Clawitzer / Pyroar / Eelektross                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Clawitzer / Eelektross             |    1 |   3.12% |   0.00% |
+| 31   | Pyroar / Clawitzer / Mesprit / Eelektross                  |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Mesprit / Eelektross               |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Pyroar / Eelektross                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Clawitzer / Mesprit / Pyroar                   |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Clawitzer / Mesprit                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Clawitzer / Pyroar                 |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Mesprit / Pyroar                   |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Pyroar / Mesprit / Eelektross                  |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Pyroar / Eelektross                |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Pyroar / Mesprit / Eelektross                  |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Sandslash / Mesprit / Pyroar                   |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Rampardos / Camerupt                 |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Rampardos / Venusaur                 |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Clawitzer / Rampardos                |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Camerupt / Rampardos / Venusaur                 |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Camerupt / Clawitzer / Rampardos                |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Clawitzer / Rampardos / Venusaur                |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Camerupt / Venusaur                  |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Clawitzer / Camerupt                 |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Skuntank / Clawitzer / Venusaur                 |    1 |   3.12% |   0.00% |
+| 31   | Froslass / Camerupt / Clawitzer / Venusaur                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Rampardos / Camerupt / Venusaur                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Rampardos / Camerupt                |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Rampardos / Venusaur                |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Clawitzer / Rampardos / Venusaur                |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Camerupt / Venusaur                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Venusaur / Pyroar / Passimian                   |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Venusaur / Mesprit / Pyroar                     |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Venusaur / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Whiscash / Venusaur / Mesprit                   |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Camerupt / Whimsicott / Mabosstiff             |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Orthworm / Whimsicott / Mabosstiff             |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Mesprit / Whimsicott / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Camerupt / Orthworm / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Camerupt / Mesprit / Mabosstiff                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Mesprit / Orthworm / Mabosstiff                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Camerupt / Orthworm / Whimsicott               |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Camerupt / Mesprit / Whimsicott                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Mesprit / Orthworm / Whimsicott                |    1 |   3.12% |   0.00% |
+| 31   | Toxicroak / Camerupt / Mesprit / Orthworm                  |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Orthworm / Whimsicott / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Mesprit / Whimsicott / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 31   | Mesprit / Orthworm / Whimsicott / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Mesprit / Orthworm / Mabosstiff                 |    1 |   3.12% |   0.00% |
+| 31   | Camerupt / Mesprit / Orthworm / Whimsicott                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Mesprit / Toedscruel                |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Mesprit / Toedscruel / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Mesprit / Toedscruel / Ninetales                |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Mesprit / Ninetales                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Mesprit / Ninetales / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Clawitzer / Mesprit / Toedscruel / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Ninetales / Clawitzer / Mesprit / Toedscruel               |    1 |   3.12% |   0.00% |
+| 31   | Ninetales / Mesprit / Toedscruel / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Ninetales / Clawitzer / Mesprit / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Toedscruel / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Toedscruel / Ninetales              |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Toedscruel / Ninetales / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Clawitzer / Ninetales / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Ninetales / Clawitzer / Toedscruel / Passimian             |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Clawitzer / Venusaur / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Clawitzer / Venusaur / Mabosstiff / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Sandslash / Clawitzer / Venusaur                |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Clawitzer / Venusaur / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Venusaur / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Sandslash / Venusaur / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Venusaur / Mabosstiff / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Venusaur / Mabosstiff / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Sandslash / Venusaur / Mabosstiff               |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Sandslash / Clawitzer / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Clawitzer / Mabosstiff / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Sandslash / Clawitzer / Mabosstiff / Passimian             |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Sandslash / Clawitzer / Mabosstiff              |    1 |   3.12% |   0.00% |
+| 31   | Vikavolt / Sandslash / Mabosstiff / Passimian              |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Abomasnow / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Abomasnow / Jolteon / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Skuntank / Abomasnow / Passimian               |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Mesprit / Jolteon / Passimian                   |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Skuntank / Mesprit / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Skuntank / Jolteon / Passimian                 |    1 |   3.12% |   0.00% |
+| 31   | Jolteon / Abomasnow / Mesprit / Passimian                  |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Abomasnow / Mesprit / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Jolteon / Abomasnow / Passimian                |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Jolteon / Mesprit / Passimian                  |    1 |   3.12% |   0.00% |
+| 31   | Skuntank / Abomasnow / Mesprit / Jolteon                   |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Skuntank / Abomasnow / Mesprit                 |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Skuntank / Abomasnow / Jolteon                 |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Skuntank / Mesprit / Jolteon                   |    1 |   3.12% |   0.00% |
+| 31   | Magmortar / Jolteon / Abomasnow / Mesprit                  |    1 |   3.12% |   0.00% |
+
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                          | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Whimsicott / Froslass / Regirock / Pyroar / Toxicroak                |    2 |   6.25% | 100.00% |
+| 1    | Froslass / Eelektross / Regirock / Pyroar / Toxicroak                |    2 |   6.25% | 100.00% |
+| 1    | Whimsicott / Froslass / Eelektross / Regirock / Pyroar               |    2 |   6.25% | 100.00% |
+| 1    | Whimsicott / Froslass / Eelektross / Pyroar / Toxicroak              |    2 |   6.25% | 100.00% |
+| 1    | Whimsicott / Froslass / Eelektross / Regirock / Toxicroak            |    2 |   6.25% | 100.00% |
+| 1    | Whimsicott / Eelektross / Regirock / Pyroar / Toxicroak              |    2 |   6.25% | 100.00% |
+| 1    | Whiscash / Mesprit / Passimian / Pyroar / Skuntank                   |    2 |   6.25% |  50.00% |
+| 1    | Whiscash / Mesprit / Venusaur / Passimian / Pyroar                   |    2 |   6.25% |  50.00% |
+| 9    | Klawf / Skuntank / Dipplin / Swanna / Camerupt                       |    1 |   3.12% | 100.00% |
+| 9    | Klawf / Skuntank / Froslass / Dipplin / Camerupt                     |    1 |   3.12% | 100.00% |
+| 9    | Klawf / Froslass / Dipplin / Swanna / Camerupt                       |    1 |   3.12% | 100.00% |
+| 9    | Klawf / Skuntank / Froslass / Swanna / Camerupt                      |    1 |   3.12% | 100.00% |
+| 9    | Klawf / Froslass / Dipplin / Swanna / Skuntank                       |    1 |   3.12% | 100.00% |
+| 9    | Skuntank / Froslass / Dipplin / Swanna / Camerupt                    |    1 |   3.12% | 100.00% |
+| 9    | Bastiodon / Arboliva / Sceptile / Farigiraf / Veluza                 |    1 |   3.12% | 100.00% |
+| 9    | Bastiodon / Arboliva / Drifblim / Sceptile / Veluza                  |    1 |   3.12% | 100.00% |
+| 9    | Arboliva / Drifblim / Sceptile / Farigiraf / Veluza                  |    1 |   3.12% | 100.00% |
+| 9    | Bastiodon / Arboliva / Drifblim / Sceptile / Farigiraf               |    1 |   3.12% | 100.00% |
+| 9    | Bastiodon / Arboliva / Drifblim / Farigiraf / Veluza                 |    1 |   3.12% | 100.00% |
+| 9    | Bastiodon / Drifblim / Sceptile / Farigiraf / Veluza                 |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Leafeon / Passimian / Pyroar / Skuntank                    |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Mesprit / Leafeon / Passimian / Skuntank                  |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Mesprit / Leafeon / Passimian / Pyroar                    |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Leafeon / Passimian / Pyroar / Skuntank                   |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Mesprit / Leafeon / Pyroar / Skuntank                     |    1 |   3.12% | 100.00% |
+| 9    | Vikavolt / Mesprit / Whimsicott / Muk / Skuntank                     |    1 |   3.12% | 100.00% |
+| 9    | Vikavolt / Mesprit / Hitmontop / Muk / Skuntank                      |    1 |   3.12% | 100.00% |
+| 9    | Vikavolt / Mesprit / Whimsicott / Hitmontop / Skuntank               |    1 |   3.12% | 100.00% |
+| 9    | Vikavolt / Mesprit / Whimsicott / Hitmontop / Muk                    |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Hitmontop / Muk / Skuntank                    |    1 |   3.12% | 100.00% |
+| 9    | Vikavolt / Whimsicott / Hitmontop / Muk / Skuntank                   |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Dodrio / Passimian / Pyroar / Cryogonal                   |    1 |   3.12% | 100.00% |
+| 9    | Dodrio / Venusaur / Passimian / Pyroar / Cryogonal                   |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Venusaur / Passimian / Pyroar / Cryogonal                 |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Dodrio / Venusaur / Pyroar / Cryogonal                    |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Dodrio / Venusaur / Passimian / Pyroar                    |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Dodrio / Venusaur / Passimian / Cryogonal                 |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Venusaur / Passimian / Skuntank               |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Venusaur / Passimian / Camerupt               |    1 |   3.12% | 100.00% |
+| 9    | Whimsicott / Venusaur / Passimian / Skuntank / Camerupt              |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Passimian / Skuntank / Camerupt               |    1 |   3.12% | 100.00% |
+| 9    | Skuntank / Mesprit / Whimsicott / Venusaur / Camerupt                |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Venusaur / Passimian / Skuntank / Camerupt                 |    1 |   3.12% | 100.00% |
+| 9    | Samurott / Mesprit / Sandslash / Pyroar / Skuntank                   |    1 |   3.12% | 100.00% |
+| 9    | Samurott / Mesprit / Sandslash / Passimian / Skuntank                |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Sandslash / Passimian / Pyroar / Skuntank                  |    1 |   3.12% | 100.00% |
+| 9    | Samurott / Mesprit / Sandslash / Passimian / Pyroar                  |    1 |   3.12% | 100.00% |
+| 9    | Samurott / Sandslash / Passimian / Pyroar / Skuntank                 |    1 |   3.12% | 100.00% |
+| 9    | Samurott / Mesprit / Passimian / Pyroar / Skuntank                   |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Venusaur / Toxicroak / Skuntank / Clawitzer                |    1 |   3.12% | 100.00% |
+| 9    | Venusaur / Eelektross / Toxicroak / Skuntank / Clawitzer             |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Venusaur / Eelektross / Skuntank / Clawitzer               |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Venusaur / Eelektross / Toxicroak / Clawitzer              |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Venusaur / Eelektross / Toxicroak / Skuntank               |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Eelektross / Toxicroak / Skuntank / Clawitzer              |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Froslass / Venusaur / Passimian / Pyroar                   |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Mesprit / Froslass / Passimian / Pyroar                   |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Mesprit / Froslass / Venusaur / Passimian                 |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Mesprit / Froslass / Venusaur / Pyroar                    |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Froslass / Venusaur / Passimian / Pyroar                  |    1 |   3.12% | 100.00% |
+| 9    | Skuntank / Swanna / Pyroar / Toxicroak / Naclstack                   |    1 |   3.12% | 100.00% |
+| 9    | Skuntank / Sandaconda / Pyroar / Toxicroak / Naclstack               |    1 |   3.12% | 100.00% |
+| 9    | Swanna / Sandaconda / Pyroar / Toxicroak / Naclstack                 |    1 |   3.12% | 100.00% |
+| 9    | Swanna / Sandaconda / Pyroar / Toxicroak / Skuntank                  |    1 |   3.12% | 100.00% |
+| 9    | Skuntank / Swanna / Sandaconda / Toxicroak / Naclstack               |    1 |   3.12% | 100.00% |
+| 9    | Skuntank / Swanna / Sandaconda / Pyroar / Naclstack                  |    1 |   3.12% | 100.00% |
+| 9    | Froslass / Hitmontop / Eelektross / Sandaconda / Sceptile            |    1 |   3.12% | 100.00% |
+| 9    | Froslass / Eelektross / Sandaconda / Sceptile / Skuntank             |    1 |   3.12% | 100.00% |
+| 9    | Froslass / Hitmontop / Eelektross / Sceptile / Skuntank              |    1 |   3.12% | 100.00% |
+| 9    | Hitmontop / Eelektross / Sandaconda / Sceptile / Skuntank            |    1 |   3.12% | 100.00% |
+| 9    | Froslass / Hitmontop / Eelektross / Sandaconda / Skuntank            |    1 |   3.12% | 100.00% |
+| 9    | Froslass / Hitmontop / Sandaconda / Sceptile / Skuntank              |    1 |   3.12% | 100.00% |
+| 9    | Venusaur / Swanna / Toxicroak / Camerupt / Rotom                     |    1 |   3.12% | 100.00% |
+| 9    | Sneasel / Venusaur / Swanna / Toxicroak / Camerupt                   |    1 |   3.12% | 100.00% |
+| 9    | Sneasel / Venusaur / Swanna / Camerupt / Rotom                       |    1 |   3.12% | 100.00% |
+| 9    | Sneasel / Swanna / Toxicroak / Camerupt / Rotom                      |    1 |   3.12% | 100.00% |
+| 9    | Sneasel / Venusaur / Toxicroak / Camerupt / Rotom                    |    1 |   3.12% | 100.00% |
+| 9    | Sneasel / Venusaur / Swanna / Toxicroak / Rotom                      |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Sandslash / Eelektross / Skuntank / Spiritomb              |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Eelektross / Toxicroak / Skuntank / Spiritomb              |    1 |   3.12% | 100.00% |
+| 9    | Sandslash / Eelektross / Toxicroak / Skuntank / Spiritomb            |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Sandslash / Eelektross / Toxicroak / Spiritomb             |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Sandslash / Toxicroak / Skuntank / Spiritomb               |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Sandslash / Eelektross / Toxicroak / Skuntank              |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Eelektross / Basculin-Blue-Striped / Skuntank |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Eelektross / Pyroar / Skuntank                |    1 |   3.12% | 100.00% |
+| 9    | Whimsicott / Eelektross / Pyroar / Basculin-Blue-Striped / Skuntank  |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Pyroar / Basculin-Blue-Striped / Skuntank     |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Eelektross / Pyroar / Basculin-Blue-Striped / Skuntank     |    1 |   3.12% | 100.00% |
+| 9    | Mesprit / Whimsicott / Eelektross / Pyroar / Basculin-Blue-Striped   |    1 |   3.12% | 100.00% |
+| 9    | Whiscash / Sneasel / Venusaur / Pyroar / Skuntank                    |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Sneasel / Venusaur / Regirock / Pyroar                    |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Venusaur / Regirock / Pyroar / Skuntank                   |    1 |   3.12% |   0.00% |
+| 9    | Sneasel / Venusaur / Regirock / Pyroar / Skuntank                    |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Sneasel / Regirock / Pyroar / Skuntank                    |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Sneasel / Venusaur / Regirock / Skuntank                  |    1 |   3.12% |   0.00% |
+| 9    | Crabominable / Mesprit / Lycanroc / Venusaur / Exeggutor-Alola       |    1 |   3.12% |   0.00% |
+| 9    | Crabominable / Lycanroc / Venusaur / Pyroar / Exeggutor-Alola        |    1 |   3.12% |   0.00% |
+| 9    | Crabominable / Mesprit / Lycanroc / Venusaur / Pyroar                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Lycanroc / Venusaur / Pyroar / Exeggutor-Alola             |    1 |   3.12% |   0.00% |
+| 9    | Crabominable / Mesprit / Venusaur / Pyroar / Exeggutor-Alola         |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Crabominable / Lycanroc / Pyroar / Exeggutor-Alola         |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Mismagius / Passimian / Brute Bonnet / Camerupt            |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Mismagius / Swanna / Passimian / Brute Bonnet              |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Mismagius / Swanna / Brute Bonnet / Camerupt               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Mismagius / Swanna / Passimian / Camerupt                  |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Swanna / Passimian / Brute Bonnet / Camerupt               |    1 |   3.12% |   0.00% |
+| 9    | Mismagius / Swanna / Passimian / Brute Bonnet / Camerupt             |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Venusaur / Passimian / Clawitzer               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Venusaur / Passimian / Ursaring / Clawitzer                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Passimian / Ursaring / Clawitzer               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Venusaur / Passimian / Ursaring                |    1 |   3.12% |   0.00% |
+| 9    | Sandslash / Venusaur / Passimian / Ursaring / Clawitzer              |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Venusaur / Ursaring / Clawitzer                |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Froslass / Greedent / Venusaur / Skuntank                 |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Raichu-Alola / Froslass / Greedent / Venusaur             |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Raichu-Alola / Froslass / Greedent / Skuntank             |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Raichu-Alola / Greedent / Venusaur / Skuntank             |    1 |   3.12% |   0.00% |
+| 9    | Raichu-Alola / Froslass / Greedent / Venusaur / Skuntank             |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Raichu-Alola / Froslass / Venusaur / Skuntank             |    1 |   3.12% |   0.00% |
+| 9    | Beartic / Jolteon / Abomasnow / Toxicroak / Spiritomb                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Beartic / Abomasnow / Toxicroak / Spiritomb                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Beartic / Jolteon / Abomasnow / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Beartic / Jolteon / Abomasnow / Toxicroak                  |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Beartic / Jolteon / Toxicroak / Spiritomb                  |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Jolteon / Abomasnow / Toxicroak / Spiritomb                |    1 |   3.12% |   0.00% |
+| 9    | Houndoom / Sandslash / Mismagius / Abomasnow / Toxicroak             |    1 |   3.12% |   0.00% |
+| 9    | Houndoom / Mismagius / Eelektross / Abomasnow / Toxicroak            |    1 |   3.12% |   0.00% |
+| 9    | Houndoom / Sandslash / Eelektross / Abomasnow / Toxicroak            |    1 |   3.12% |   0.00% |
+| 9    | Sandslash / Mismagius / Eelektross / Abomasnow / Toxicroak           |    1 |   3.12% |   0.00% |
+| 9    | Houndoom / Sandslash / Mismagius / Eelektross / Abomasnow            |    1 |   3.12% |   0.00% |
+| 9    | Houndoom / Sandslash / Mismagius / Eelektross / Toxicroak            |    1 |   3.12% |   0.00% |
+| 9    | Whimsicott / Sandslash / Jolteon / Weezing / Ursaring                |    1 |   3.12% |   0.00% |
+| 9    | Whimsicott / Sandslash / Sableye / Jolteon / Ursaring                |    1 |   3.12% |   0.00% |
+| 9    | Whimsicott / Sandslash / Sableye / Jolteon / Weezing                 |    1 |   3.12% |   0.00% |
+| 9    | Whimsicott / Sableye / Weezing / Jolteon / Ursaring                  |    1 |   3.12% |   0.00% |
+| 9    | Whimsicott / Sandslash / Sableye / Weezing / Ursaring                |    1 |   3.12% |   0.00% |
+| 9    | Sandslash / Sableye / Jolteon / Weezing / Ursaring                   |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Venusaur / Jolteon / Toxicroak / Spiritomb                |    1 |   3.12% |   0.00% |
+| 9    | Venusaur / Jolteon / Toxicroak / Cryogonal / Spiritomb               |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Venusaur / Toxicroak / Cryogonal / Spiritomb              |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Venusaur / Jolteon / Toxicroak / Cryogonal                |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Jolteon / Toxicroak / Cryogonal / Spiritomb               |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Venusaur / Jolteon / Cryogonal / Spiritomb                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Eelektross / Pyroar / Toxicroak / Clawitzer                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Eelektross / Toxicroak / Clawitzer             |    1 |   3.12% |   0.00% |
+| 9    | Sandslash / Eelektross / Pyroar / Toxicroak / Clawitzer              |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Eelektross / Pyroar / Clawitzer                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Pyroar / Toxicroak / Clawitzer                 |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Sandslash / Eelektross / Pyroar / Toxicroak                |    1 |   3.12% |   0.00% |
+| 9    | Froslass / Venusaur / Rampardos / Skuntank / Camerupt                |    1 |   3.12% |   0.00% |
+| 9    | Froslass / Rampardos / Skuntank / Clawitzer / Camerupt               |    1 |   3.12% |   0.00% |
+| 9    | Froslass / Venusaur / Rampardos / Skuntank / Clawitzer               |    1 |   3.12% |   0.00% |
+| 9    | Froslass / Venusaur / Rampardos / Camerupt / Clawitzer               |    1 |   3.12% |   0.00% |
+| 9    | Froslass / Venusaur / Skuntank / Clawitzer / Camerupt                |    1 |   3.12% |   0.00% |
+| 9    | Venusaur / Rampardos / Skuntank / Clawitzer / Camerupt               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Venusaur / Passimian / Pyroar / Skuntank                   |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Venusaur / Passimian / Pyroar / Skuntank                  |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Mesprit / Venusaur / Pyroar / Skuntank                    |    1 |   3.12% |   0.00% |
+| 9    | Whiscash / Mesprit / Venusaur / Passimian / Skuntank                 |    1 |   3.12% |   0.00% |
+| 9    | Whimsicott / Orthworm / Mabosstiff / Toxicroak / Camerupt            |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Whimsicott / Mabosstiff / Toxicroak / Camerupt             |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Whimsicott / Orthworm / Mabosstiff / Toxicroak             |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Orthworm / Mabosstiff / Toxicroak / Camerupt               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Whimsicott / Orthworm / Toxicroak / Camerupt               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Whimsicott / Orthworm / Mabosstiff / Camerupt              |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Toedscruel / Passimian / Skuntank / Clawitzer              |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Toedscruel / Ninetales / Skuntank / Clawitzer              |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Toedscruel / Passimian / Ninetales / Skuntank              |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Passimian / Ninetales / Skuntank / Clawitzer               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Toedscruel / Passimian / Ninetales / Clawitzer             |    1 |   3.12% |   0.00% |
+| 9    | Toedscruel / Passimian / Ninetales / Skuntank / Clawitzer            |    1 |   3.12% |   0.00% |
+| 9    | Vikavolt / Sandslash / Venusaur / Passimian / Clawitzer              |    1 |   3.12% |   0.00% |
+| 9    | Vikavolt / Venusaur / Passimian / Mabosstiff / Clawitzer             |    1 |   3.12% |   0.00% |
+| 9    | Sandslash / Venusaur / Passimian / Mabosstiff / Clawitzer            |    1 |   3.12% |   0.00% |
+| 9    | Vikavolt / Sandslash / Venusaur / Mabosstiff / Clawitzer             |    1 |   3.12% |   0.00% |
+| 9    | Vikavolt / Sandslash / Venusaur / Passimian / Mabosstiff             |    1 |   3.12% |   0.00% |
+| 9    | Vikavolt / Sandslash / Passimian / Mabosstiff / Clawitzer            |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Passimian / Jolteon / Abomasnow / Skuntank                 |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Magmortar / Passimian / Abomasnow / Skuntank               |    1 |   3.12% |   0.00% |
+| 9    | Magmortar / Passimian / Jolteon / Abomasnow / Skuntank               |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Magmortar / Passimian / Jolteon / Skuntank                 |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Magmortar / Passimian / Jolteon / Abomasnow                |    1 |   3.12% |   0.00% |
+| 9    | Mesprit / Magmortar / Jolteon / Abomasnow / Skuntank                 |    1 |   3.12% |   0.00% |
+
++ ---- + ----------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                   | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Whimsicott / Froslass / Eelektross / Regirock / Pyroar / Toxicroak            |    2 |   6.25% | 100.00% |
+| 2    | Klawf / Skuntank / Froslass / Dipplin / Swanna / Camerupt                     |    1 |   3.12% | 100.00% |
+| 2    | Bastiodon / Arboliva / Drifblim / Sceptile / Farigiraf / Veluza               |    1 |   3.12% | 100.00% |
+| 2    | Whiscash / Mesprit / Leafeon / Passimian / Pyroar / Skuntank                  |    1 |   3.12% | 100.00% |
+| 2    | Vikavolt / Mesprit / Whimsicott / Hitmontop / Muk / Skuntank                  |    1 |   3.12% | 100.00% |
+| 2    | Whiscash / Dodrio / Venusaur / Passimian / Pyroar / Cryogonal                 |    1 |   3.12% | 100.00% |
+| 2    | Mesprit / Whimsicott / Venusaur / Passimian / Skuntank / Camerupt             |    1 |   3.12% | 100.00% |
+| 2    | Samurott / Mesprit / Sandslash / Passimian / Pyroar / Skuntank                |    1 |   3.12% | 100.00% |
+| 2    | Mesprit / Venusaur / Eelektross / Toxicroak / Skuntank / Clawitzer            |    1 |   3.12% | 100.00% |
+| 2    | Whiscash / Mesprit / Froslass / Venusaur / Passimian / Pyroar                 |    1 |   3.12% | 100.00% |
+| 2    | Skuntank / Swanna / Sandaconda / Pyroar / Toxicroak / Naclstack               |    1 |   3.12% | 100.00% |
+| 2    | Froslass / Hitmontop / Eelektross / Sandaconda / Sceptile / Skuntank          |    1 |   3.12% | 100.00% |
+| 2    | Sneasel / Venusaur / Swanna / Toxicroak / Camerupt / Rotom                    |    1 |   3.12% | 100.00% |
+| 2    | Mesprit / Sandslash / Eelektross / Toxicroak / Skuntank / Spiritomb           |    1 |   3.12% | 100.00% |
+| 2    | Mesprit / Whimsicott / Eelektross / Pyroar / Basculin-Blue-Striped / Skuntank |    1 |   3.12% | 100.00% |
+| 2    | Whiscash / Sneasel / Venusaur / Regirock / Pyroar / Skuntank                  |    1 |   3.12% |   0.00% |
+| 2    | Crabominable / Mesprit / Lycanroc / Venusaur / Pyroar / Exeggutor-Alola       |    1 |   3.12% |   0.00% |
+| 2    | Mesprit / Mismagius / Swanna / Passimian / Brute Bonnet / Camerupt            |    1 |   3.12% |   0.00% |
+| 2    | Mesprit / Sandslash / Venusaur / Passimian / Ursaring / Clawitzer             |    1 |   3.12% |   0.00% |
+| 2    | Whiscash / Raichu-Alola / Froslass / Greedent / Venusaur / Skuntank           |    1 |   3.12% |   0.00% |
+| 2    | Mesprit / Beartic / Jolteon / Abomasnow / Toxicroak / Spiritomb               |    1 |   3.12% |   0.00% |
+| 2    | Houndoom / Sandslash / Mismagius / Eelektross / Abomasnow / Toxicroak         |    1 |   3.12% |   0.00% |
+| 2    | Whimsicott / Sandslash / Sableye / Jolteon / Weezing / Ursaring               |    1 |   3.12% |   0.00% |
+| 2    | Whiscash / Venusaur / Jolteon / Toxicroak / Cryogonal / Spiritomb             |    1 |   3.12% |   0.00% |
+| 2    | Mesprit / Sandslash / Eelektross / Pyroar / Toxicroak / Clawitzer             |    1 |   3.12% |   0.00% |
+| 2    | Froslass / Venusaur / Rampardos / Skuntank / Clawitzer / Camerupt             |    1 |   3.12% |   0.00% |
+| 2    | Whiscash / Mesprit / Venusaur / Passimian / Pyroar / Skuntank                 |    1 |   3.12% |   0.00% |
+| 2    | Mesprit / Whimsicott / Orthworm / Mabosstiff / Toxicroak / Camerupt           |    1 |   3.12% |   0.00% |
+| 2    | Mesprit / Toedscruel / Passimian / Ninetales / Skuntank / Clawitzer           |    1 |   3.12% |   0.00% |
+| 2    | Vikavolt / Sandslash / Venusaur / Passimian / Mabosstiff / Clawitzer          |    1 |   3.12% |   0.00% |
+| 2    | Mesprit / Magmortar / Passimian / Jolteon / Abomasnow / Skuntank              |    1 |   3.12% |   0.00% |
