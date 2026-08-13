@@ -1,0 +1,133 @@
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| 1    | Swampert / Dudunsparce-*     |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Dudunsparce-*    |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Dudunsparce-*    |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Dudunsparce-* |    1 |  50.00% | 100.00% |
+| 1    | Munkidori / Dudunsparce-*    |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert         |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Swampert         |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Swampert      |    1 |  50.00% | 100.00% |
+| 1    | Swampert / Munkidori         |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Staraptor        |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Brambleghast     |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Munkidori        |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Brambleghast     |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Munkidori        |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Munkidori     |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Basculegion   |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Houndstone     |    1 |  50.00% |   0.00% |
+| 1    | Golurk / Basculegion         |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Hoopa          |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Basculegion      |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Houndstone    |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Golurk        |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Hoopa         |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb     |    1 |  50.00% |   0.00% |
+| 1    | Golurk / Houndstone          |    1 |  50.00% |   0.00% |
+| 1    | Hoopa / Houndstone           |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Houndstone       |    1 |  50.00% |   0.00% |
+| 1    | Golurk / Hoopa               |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk           |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Hoopa            |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                              | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| 1    | Duraludon / Swampert / Dudunsparce-*     |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Swampert / Dudunsparce-*     |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Swampert / Dudunsparce-*  |    1 |  50.00% | 100.00% |
+| 1    | Swampert / Munkidori / Dudunsparce-*     |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Dudunsparce-* / Staraptor    |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Brambleghast / Dudunsparce-* |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Munkidori / Dudunsparce-*    |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Brambleghast / Dudunsparce-* |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Munkidori / Dudunsparce-*    |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Munkidori / Dudunsparce-* |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Staraptor         |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Brambleghast      |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Munkidori         |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Swampert / Brambleghast      |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Swampert / Munkidori         |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Swampert / Munkidori      |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Brambleghast / Staraptor     |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Munkidori / Staraptor        |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Munkidori / Brambleghast     |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Munkidori / Brambleghast     |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Basculegion / Houndstone  |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Golurk / Basculegion      |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Basculegion / Hoopa       |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Basculegion   |    1 |  50.00% |   0.00% |
+| 1    | Golurk / Basculegion / Houndstone        |    1 |  50.00% |   0.00% |
+| 1    | Hoopa / Basculegion / Houndstone         |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Basculegion / Houndstone     |    1 |  50.00% |   0.00% |
+| 1    | Golurk / Basculegion / Hoopa             |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Basculegion         |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Basculegion / Hoopa          |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Golurk / Houndstone       |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Hoopa / Houndstone        |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Houndstone    |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Golurk / Hoopa            |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Golurk        |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Hoopa         |    1 |  50.00% |   0.00% |
+| 1    | Golurk / Hoopa / Houndstone              |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Houndstone          |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Hoopa / Houndstone           |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Hoopa               |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Duraludon / Swampert / Dudunsparce-* / Staraptor     |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Brambleghast / Dudunsparce-*  |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Munkidori / Dudunsparce-*     |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Swampert / Brambleghast / Dudunsparce-*  |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Swampert / Munkidori / Dudunsparce-*     |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Swampert / Munkidori / Dudunsparce-*  |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Brambleghast / Dudunsparce-* / Staraptor |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Munkidori / Dudunsparce-* / Staraptor    |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Munkidori / Brambleghast / Dudunsparce-* |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Munkidori / Brambleghast / Dudunsparce-* |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Brambleghast / Staraptor      |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Munkidori / Staraptor         |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Munkidori / Brambleghast      |    1 |  50.00% | 100.00% |
+| 1    | Staraptor / Swampert / Munkidori / Brambleghast      |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Munkidori / Brambleghast / Staraptor     |    1 |  50.00% | 100.00% |
+| 1    | Brambleghast / Golurk / Basculegion / Houndstone     |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Hoopa / Basculegion / Houndstone      |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Basculegion / Houndstone  |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Golurk / Basculegion / Hoopa          |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Golurk / Basculegion      |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Basculegion / Hoopa       |    1 |  50.00% |   0.00% |
+| 1    | Hoopa / Golurk / Basculegion / Houndstone            |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Basculegion / Houndstone        |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Hoopa / Basculegion / Houndstone         |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Basculegion / Hoopa             |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Golurk / Hoopa / Houndstone           |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Golurk / Houndstone       |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Hoopa / Houndstone        |    1 |  50.00% |   0.00% |
+| 1    | Brambleghast / Spiritomb / Golurk / Hoopa            |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Hoopa / Houndstone              |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                      | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Duraludon / Swampert / Brambleghast / Dudunsparce-* / Staraptor  |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Munkidori / Dudunsparce-* / Staraptor     |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Brambleghast / Munkidori / Dudunsparce-*  |    1 |  50.00% | 100.00% |
+| 1    | Swampert / Brambleghast / Munkidori / Dudunsparce-* / Staraptor  |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Brambleghast / Munkidori / Dudunsparce-* / Staraptor |    1 |  50.00% | 100.00% |
+| 1    | Duraludon / Swampert / Brambleghast / Munkidori / Staraptor      |    1 |  50.00% | 100.00% |
+| 1    | Golurk / Basculegion / Brambleghast / Hoopa / Houndstone         |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Basculegion / Brambleghast / Houndstone     |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Basculegion / Brambleghast / Hoopa / Houndstone      |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Basculegion / Brambleghast / Hoopa          |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Basculegion / Hoopa / Houndstone            |    1 |  50.00% |   0.00% |
+| 1    | Spiritomb / Golurk / Brambleghast / Hoopa / Houndstone           |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                 | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Duraludon / Swampert / Brambleghast / Munkidori / Dudunsparce-* / Staraptor |    1 |  50.00% | 100.00% |
+| 1    | Spiritomb / Golurk / Basculegion / Brambleghast / Hoopa / Houndstone        |    1 |  50.00% |   0.00% |
