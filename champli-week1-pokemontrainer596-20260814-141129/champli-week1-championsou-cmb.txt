@@ -1,0 +1,132 @@
++ ---- + -------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                      | Use  | Usage % |  Win %  |
++ ---- + -------------------------------- + ---- + ------- + ------- +
+| 1    | Garchomp / Samurott-Hisui        |    2 | 100.00% |  50.00% |
+| 2    | Corviknight / Floette-Eternal    |    1 |  50.00% | 100.00% |
+| 2    | Floette-Eternal / Samurott-Hisui |    1 |  50.00% | 100.00% |
+| 2    | Skeledirge / Floette-Eternal     |    1 |  50.00% | 100.00% |
+| 2    | Floette-Eternal / Garchomp       |    1 |  50.00% | 100.00% |
+| 2    | Sneasler / Floette-Eternal       |    1 |  50.00% | 100.00% |
+| 2    | Corviknight / Samurott-Hisui     |    1 |  50.00% | 100.00% |
+| 2    | Corviknight / Skeledirge         |    1 |  50.00% | 100.00% |
+| 2    | Corviknight / Garchomp           |    1 |  50.00% | 100.00% |
+| 2    | Sneasler / Corviknight           |    1 |  50.00% | 100.00% |
+| 2    | Skeledirge / Samurott-Hisui      |    1 |  50.00% | 100.00% |
+| 2    | Sneasler / Samurott-Hisui        |    1 |  50.00% | 100.00% |
+| 2    | Skeledirge / Garchomp            |    1 |  50.00% | 100.00% |
+| 2    | Sneasler / Skeledirge            |    1 |  50.00% | 100.00% |
+| 2    | Sneasler / Garchomp              |    1 |  50.00% | 100.00% |
+| 2    | Glimmora / Ceruledge             |    1 |  50.00% |   0.00% |
+| 2    | Glimmora / Rotom-Wash            |    1 |  50.00% |   0.00% |
+| 2    | Glimmora / Samurott-Hisui        |    1 |  50.00% |   0.00% |
+| 2    | Glimmora / Garchomp              |    1 |  50.00% |   0.00% |
+| 2    | Glimmora / Kingambit             |    1 |  50.00% |   0.00% |
+| 2    | Rotom-Wash / Ceruledge           |    1 |  50.00% |   0.00% |
+| 2    | Ceruledge / Samurott-Hisui       |    1 |  50.00% |   0.00% |
+| 2    | Ceruledge / Garchomp             |    1 |  50.00% |   0.00% |
+| 2    | Ceruledge / Kingambit            |    1 |  50.00% |   0.00% |
+| 2    | Rotom-Wash / Samurott-Hisui      |    1 |  50.00% |   0.00% |
+| 2    | Rotom-Wash / Garchomp            |    1 |  50.00% |   0.00% |
+| 2    | Rotom-Wash / Kingambit           |    1 |  50.00% |   0.00% |
+| 2    | Kingambit / Samurott-Hisui       |    1 |  50.00% |   0.00% |
+| 2    | Kingambit / Garchomp             |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                    | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| 1    | Corviknight / Floette-Eternal / Samurott-Hisui |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Skeledirge / Floette-Eternal     |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Floette-Eternal / Garchomp       |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Floette-Eternal       |    1 |  50.00% | 100.00% |
+| 1    | Skeledirge / Floette-Eternal / Samurott-Hisui  |    1 |  50.00% | 100.00% |
+| 1    | Floette-Eternal / Garchomp / Samurott-Hisui    |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Floette-Eternal / Samurott-Hisui    |    1 |  50.00% | 100.00% |
+| 1    | Skeledirge / Floette-Eternal / Garchomp        |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Skeledirge / Floette-Eternal        |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Floette-Eternal / Garchomp          |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Skeledirge / Samurott-Hisui      |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Garchomp / Samurott-Hisui        |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Samurott-Hisui        |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Skeledirge / Garchomp            |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Skeledirge            |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Garchomp              |    1 |  50.00% | 100.00% |
+| 1    | Skeledirge / Garchomp / Samurott-Hisui         |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Skeledirge / Samurott-Hisui         |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Garchomp / Samurott-Hisui           |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Skeledirge / Garchomp               |    1 |  50.00% | 100.00% |
+| 1    | Glimmora / Ceruledge / Rotom-Wash              |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Garchomp                |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Kingambit               |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Rotom-Wash / Samurott-Hisui         |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Rotom-Wash / Garchomp               |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Kingambit / Rotom-Wash              |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Garchomp / Samurott-Hisui           |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Kingambit / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Kingambit / Garchomp                |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Ceruledge / Samurott-Hisui        |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Ceruledge / Garchomp              |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Ceruledge / Kingambit             |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Garchomp / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Kingambit / Samurott-Hisui         |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Kingambit / Garchomp               |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Garchomp / Samurott-Hisui         |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Kingambit / Samurott-Hisui        |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Kingambit / Garchomp              |    1 |  50.00% |   0.00% |
+| 1    | Kingambit / Garchomp / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                 | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Corviknight / Skeledirge / Floette-Eternal / Samurott-Hisui |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Floette-Eternal / Garchomp / Samurott-Hisui   |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Floette-Eternal / Samurott-Hisui   |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Skeledirge / Floette-Eternal / Garchomp       |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Skeledirge / Floette-Eternal       |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Floette-Eternal / Garchomp         |    1 |  50.00% | 100.00% |
+| 1    | Skeledirge / Floette-Eternal / Garchomp / Samurott-Hisui    |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Skeledirge / Floette-Eternal / Samurott-Hisui    |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Floette-Eternal / Garchomp / Samurott-Hisui      |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Skeledirge / Floette-Eternal / Garchomp          |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Skeledirge / Garchomp / Samurott-Hisui        |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Skeledirge / Samurott-Hisui        |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Garchomp / Samurott-Hisui          |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Skeledirge / Garchomp              |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Skeledirge / Garchomp / Samurott-Hisui           |    1 |  50.00% | 100.00% |
+| 1    | Glimmora / Ceruledge / Rotom-Wash / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Rotom-Wash / Garchomp                |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Kingambit / Rotom-Wash               |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Garchomp / Samurott-Hisui            |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Kingambit / Samurott-Hisui           |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Ceruledge / Kingambit / Garchomp                 |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Rotom-Wash / Garchomp / Samurott-Hisui           |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Kingambit / Rotom-Wash / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Kingambit / Rotom-Wash / Garchomp                |    1 |  50.00% |   0.00% |
+| 1    | Glimmora / Kingambit / Garchomp / Samurott-Hisui            |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Ceruledge / Garchomp / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Ceruledge / Kingambit / Samurott-Hisui         |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Ceruledge / Kingambit / Garchomp               |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Kingambit / Garchomp / Samurott-Hisui           |    1 |  50.00% |   0.00% |
+| 1    | Rotom-Wash / Kingambit / Garchomp / Samurott-Hisui          |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                            | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Corviknight / Samurott-Hisui / Garchomp / Floette-Eternal / Skeledirge |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Samurott-Hisui / Floette-Eternal / Skeledirge |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Samurott-Hisui / Garchomp / Floette-Eternal   |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Garchomp / Floette-Eternal / Skeledirge       |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Samurott-Hisui / Garchomp / Floette-Eternal / Skeledirge    |    1 |  50.00% | 100.00% |
+| 1    | Sneasler / Corviknight / Samurott-Hisui / Garchomp / Skeledirge        |    1 |  50.00% | 100.00% |
+| 1    | Ceruledge / Samurott-Hisui / Garchomp / Rotom-Wash / Glimmora          |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Samurott-Hisui / Kingambit / Rotom-Wash / Glimmora         |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Kingambit / Garchomp / Rotom-Wash / Glimmora               |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Samurott-Hisui / Kingambit / Garchomp / Glimmora           |    1 |  50.00% |   0.00% |
+| 1    | Samurott-Hisui / Kingambit / Garchomp / Rotom-Wash / Glimmora          |    1 |  50.00% |   0.00% |
+| 1    | Ceruledge / Samurott-Hisui / Kingambit / Garchomp / Rotom-Wash         |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                       | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Sneasler / Corviknight / Samurott-Hisui / Garchomp / Floette-Eternal / Skeledirge |    1 |  50.00% | 100.00% |
+| 1    | Ceruledge / Samurott-Hisui / Kingambit / Garchomp / Rotom-Wash / Glimmora         |    1 |  50.00% |   0.00% |
