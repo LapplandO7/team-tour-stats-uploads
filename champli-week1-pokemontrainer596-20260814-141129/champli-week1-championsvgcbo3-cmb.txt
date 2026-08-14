@@ -1,0 +1,133 @@
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| 1    | Floette-Eternal / Garchomp   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Floette-Eternal |    1 |  50.00% | 100.00% |
+| 1    | Mimikyu / Floette-Eternal    |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Floette-Eternal |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Floette-Eternal   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Garchomp        |    1 |  50.00% | 100.00% |
+| 1    | Mimikyu / Garchomp           |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Garchomp        |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Garchomp          |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Mimikyu         |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Archaludon      |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados        |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Mimikyu         |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Mimikyu           |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Archaludon        |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Raichu         |    1 |  50.00% |   0.00% |
+| 1    | Raichu / Garchomp            |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Raichu           |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Raichu         |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Raichu             |    1 |  50.00% |   0.00% |
+| 1    | Corviknight / Garchomp       |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Corviknight      |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Corviknight    |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Corviknight        |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Garchomp         |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Garchomp       |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Garchomp           |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada      |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox          |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Delphox        |    1 |  50.00% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Rotom-Wash / Floette-Eternal / Garchomp   |    1 |  50.00% | 100.00% |
+| 1    | Mimikyu / Floette-Eternal / Garchomp      |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Floette-Eternal / Garchomp   |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Floette-Eternal / Garchomp     |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Mimikyu / Floette-Eternal    |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Archaludon / Floette-Eternal |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Floette-Eternal   |    1 |  50.00% | 100.00% |
+| 1    | Mimikyu / Floette-Eternal / Archaludon    |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Mimikyu / Floette-Eternal      |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Archaludon / Floette-Eternal   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Mimikyu / Garchomp           |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Archaludon / Garchomp        |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Garchomp          |    1 |  50.00% | 100.00% |
+| 1    | Mimikyu / Garchomp / Archaludon           |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Mimikyu / Garchomp             |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Archaludon / Garchomp          |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Archaludon / Mimikyu         |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Mimikyu           |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Archaludon        |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Archaludon / Mimikyu           |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Raichu / Garchomp           |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Corviknight / Raichu          |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Corviknight / Raichu        |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Corviknight / Raichu            |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Raichu / Garchomp             |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Raichu / Garchomp           |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Raichu / Garchomp               |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Raichu          |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Raichu              |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Raichu / Delphox            |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Corviknight / Garchomp        |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Corviknight / Garchomp      |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Corviknight / Garchomp          |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Corviknight     |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Corviknight         |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Corviknight / Delphox       |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Garchomp        |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Garchomp            |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Delphox / Garchomp          |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Delphox         |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Rotom-Wash / Mimikyu / Floette-Eternal / Garchomp    |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Archaludon / Floette-Eternal / Garchomp |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Floette-Eternal / Garchomp   |    1 |  50.00% | 100.00% |
+| 1    | Mimikyu / Floette-Eternal / Garchomp / Archaludon    |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Mimikyu / Floette-Eternal / Garchomp      |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Archaludon / Floette-Eternal / Garchomp   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Mimikyu / Floette-Eternal / Archaludon  |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Mimikyu / Floette-Eternal    |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Archaludon / Floette-Eternal |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Mimikyu / Floette-Eternal / Archaludon    |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Mimikyu / Garchomp / Archaludon         |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Mimikyu / Garchomp           |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Archaludon / Garchomp        |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Mimikyu / Garchomp / Archaludon           |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Gyarados / Archaludon / Mimikyu         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Corviknight / Raichu / Garchomp          |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Corviknight / Raichu / Garchomp        |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Corviknight / Raichu / Garchomp            |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Corviknight / Raichu       |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Corviknight / Raichu           |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Corviknight / Raichu / Delphox         |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Raichu / Garchomp          |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Raichu / Garchomp              |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Delphox / Raichu / Garchomp            |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Raichu / Delphox           |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Corviknight / Garchomp     |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Corviknight / Garchomp         |    1 |  50.00% |   0.00% |
+| 1    | Meowscarada / Corviknight / Garchomp / Delphox       |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Corviknight / Delphox      |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Meowscarada / Delphox / Garchomp         |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Archaludon / Mimikyu / Garchomp / Rotom-Wash / Floette-Eternal  |    1 |  50.00% | 100.00% |
+| 1    | Gyarados / Mimikyu / Garchomp / Rotom-Wash / Floette-Eternal    |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Gyarados / Garchomp / Rotom-Wash / Floette-Eternal |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Gyarados / Mimikyu / Garchomp / Floette-Eternal    |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Gyarados / Mimikyu / Rotom-Wash / Floette-Eternal  |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Gyarados / Mimikyu / Garchomp / Rotom-Wash         |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Garchomp / Primarina / Meowscarada / Raichu       |    1 |  50.00% |   0.00% |
+| 1    | Corviknight / Delphox / Garchomp / Primarina / Raichu           |    1 |  50.00% |   0.00% |
+| 1    | Corviknight / Delphox / Garchomp / Meowscarada / Raichu         |    1 |  50.00% |   0.00% |
+| 1    | Corviknight / Delphox / Primarina / Meowscarada / Raichu        |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Garchomp / Primarina / Meowscarada / Raichu           |    1 |  50.00% |   0.00% |
+| 1    | Corviknight / Delphox / Garchomp / Primarina / Meowscarada      |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                               | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Archaludon / Mimikyu / Garchomp / Gyarados / Rotom-Wash / Floette-Eternal |    1 |  50.00% | 100.00% |
+| 1    | Corviknight / Delphox / Garchomp / Primarina / Meowscarada / Raichu       |    1 |  50.00% |   0.00% |
