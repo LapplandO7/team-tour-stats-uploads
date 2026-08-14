@@ -1,0 +1,133 @@
++ ---- + ------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 2              | Use  | Usage % |  Win %  |
++ ---- + ------------------------ + ---- + ------- + ------- +
+| 1    | Mimikyu / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Raichu / Metagross       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Mimikyu      |    1 |  50.00% | 100.00% |
+| 1    | Raichu / Mimikyu         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Mimikyu      |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Mimikyu      |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Raichu       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon    |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Hydreigon    |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Raichu       |    1 |  50.00% | 100.00% |
+| 1    | Raichu / Hydreigon       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hydreigon    |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Delphox      |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Kingambit      |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Lopunny        |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion    |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Kingambit    |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Lopunny      |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Basculegion  |    1 |  50.00% |   0.00% |
+| 1    | Kingambit / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Lopunny / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Archaludon |    1 |  50.00% |   0.00% |
+| 1    | Kingambit / Lopunny      |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Kingambit  |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Lopunny    |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| 1    | Hippowdon / Mimikyu / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Raichu / Mimikyu / Metagross         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Mimikyu / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Mimikyu / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Raichu / Metagross       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Hippowdon / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Raichu / Metagross       |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Raichu / Metagross       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hydreigon / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Mimikyu / Raichu         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Mimikyu      |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Mimikyu / Hydreigon      |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Raichu / Mimikyu         |    1 |  50.00% | 100.00% |
+| 1    | Raichu / Mimikyu / Hydreigon         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hydreigon / Mimikyu      |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Raichu       |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Raichu / Hydreigon       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Hydreigon    |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Raichu / Hydreigon       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Delphox / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Kingambit      |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Lopunny        |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Basculegion    |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Kingambit / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Lopunny / Archaludon       |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Kingambit / Lopunny        |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion / Kingambit    |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion / Lopunny      |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Kingambit / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Lopunny / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Basculegion / Archaludon |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Kingambit / Lopunny      |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Basculegion / Kingambit  |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Basculegion / Lopunny    |    1 |  50.00% |   0.00% |
+| 1    | Kingambit / Lopunny / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Kingambit / Archaludon |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Lopunny / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Kingambit / Lopunny    |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 4                                      | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Hippowdon / Mimikyu / Raichu / Metagross         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Mimikyu / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Hippowdon / Mimikyu / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Raichu / Mimikyu / Metagross         |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Raichu / Mimikyu / Metagross         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hydreigon / Mimikyu / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Raichu / Metagross       |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Hippowdon / Raichu / Metagross       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hydreigon / Hippowdon / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hydreigon / Raichu / Metagross       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Mimikyu / Raichu         |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Mimikyu / Raichu / Hydreigon         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Mimikyu / Hydreigon      |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Raichu / Mimikyu / Hydreigon         |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Hippowdon / Raichu / Hydreigon       |    1 |  50.00% | 100.00% |
+| 1    | Primarina / Delphox / Kingambit / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Lopunny / Archaludon       |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Basculegion / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Kingambit / Lopunny        |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Basculegion / Kingambit    |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Delphox / Basculegion / Lopunny      |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Kingambit / Lopunny / Archaludon       |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion / Kingambit / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion / Lopunny / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion / Kingambit / Lopunny      |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Kingambit / Lopunny / Archaludon     |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Basculegion / Kingambit / Archaludon |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Basculegion / Lopunny / Archaludon   |    1 |  50.00% |   0.00% |
+| 1    | Primarina / Basculegion / Kingambit / Lopunny    |    1 |  50.00% |   0.00% |
+| 1    | Basculegion / Kingambit / Lopunny / Archaludon   |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Hippowdon / Mimikyu / Metagross / Primarina / Raichu       |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Hydreigon / Mimikyu / Metagross / Raichu       |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Hydreigon / Mimikyu / Metagross / Primarina    |    1 |  50.00% | 100.00% |
+| 1    | Hydreigon / Mimikyu / Metagross / Primarina / Raichu       |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Hydreigon / Metagross / Primarina / Raichu     |    1 |  50.00% | 100.00% |
+| 1    | Hippowdon / Hydreigon / Mimikyu / Primarina / Raichu       |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Delphox / Kingambit / Lopunny / Primarina     |    1 |  50.00% |   0.00% |
+| 1    | Archaludon / Delphox / Basculegion / Kingambit / Primarina |    1 |  50.00% |   0.00% |
+| 1    | Archaludon / Delphox / Basculegion / Lopunny / Primarina   |    1 |  50.00% |   0.00% |
+| 1    | Delphox / Basculegion / Kingambit / Lopunny / Primarina    |    1 |  50.00% |   0.00% |
+| 1    | Archaludon / Delphox / Basculegion / Kingambit / Lopunny   |    1 |  50.00% |   0.00% |
+| 1    | Archaludon / Basculegion / Kingambit / Lopunny / Primarina |    1 |  50.00% |   0.00% |
+
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                          | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Hippowdon / Hydreigon / Mimikyu / Metagross / Primarina / Raichu     |    1 |  50.00% | 100.00% |
+| 1    | Archaludon / Delphox / Basculegion / Kingambit / Lopunny / Primarina |    1 |  50.00% |   0.00% |
