@@ -1,0 +1,512 @@
++ ---- + ----------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                   | Use  | Usage % |  Win %  |
++ ---- + ----------------------------- + ---- + ------- + ------- +
+| 1    | Charizard / Garchomp          |   13 |  38.24% |  53.85% |
+| 2    | Incineroar / Garchomp         |   10 |  29.41% |  50.00% |
+| 2    | Sneasler / Incineroar         |   10 |  29.41% |  50.00% |
+| 4    | Floette-Eternal / Whimsicott  |    9 |  26.47% |  66.67% |
+| 4    | Garchomp / Whimsicott         |    9 |  26.47% |  66.67% |
+| 4    | Basculegion / Whimsicott      |    9 |  26.47% |  66.67% |
+| 4    | Floette-Eternal / Garchomp    |    9 |  26.47% |  66.67% |
+| 4    | Floette-Eternal / Basculegion |    9 |  26.47% |  66.67% |
+| 4    | Garchomp / Basculegion        |    9 |  26.47% |  66.67% |
+| 4    | Kingambit / Charizard         |    9 |  26.47% |  55.56% |
+| 4    | Dragonite / Sneasler          |    9 |  26.47% |  44.44% |
+| 4    | Sneasler / Kingambit          |    9 |  26.47% |  33.33% |
+| 13   | Charizard / Toxapex           |    8 |  23.53% |  50.00% |
+| 13   | Floette-Eternal / Kingambit   |    8 |  23.53% |  50.00% |
+| 13   | Kingambit / Basculegion       |    8 |  23.53% |  50.00% |
+| 16   | Incineroar / Venusaur         |    7 |  20.59% |  42.86% |
+| 16   | Charizard / Venusaur          |    7 |  20.59% |  42.86% |
+| 16   | Venusaur / Garchomp           |    7 |  20.59% |  42.86% |
+| 16   | Venusaur / Sylveon            |    7 |  20.59% |  42.86% |
+| 16   | Incineroar / Charizard        |    7 |  20.59% |  42.86% |
+| 16   | Incineroar / Sylveon          |    7 |  20.59% |  42.86% |
+| 16   | Charizard / Sylveon           |    7 |  20.59% |  42.86% |
+| 16   | Sylveon / Garchomp            |    7 |  20.59% |  42.86% |
+| 24   | Charizard / Whimsicott        |    6 |  17.65% |  66.67% |
+| 24   | Kingambit / Whimsicott        |    6 |  17.65% |  66.67% |
+| 24   | Charizard / Floette-Eternal   |    6 |  17.65% |  66.67% |
+| 24   | Charizard / Basculegion       |    6 |  17.65% |  66.67% |
+| 24   | Kingambit / Garchomp          |    6 |  17.65% |  66.67% |
+| 24   | Gengar / Swampert             |    6 |  17.65% |  50.00% |
+| 24   | Incineroar / Swampert         |    6 |  17.65% |  50.00% |
+| 24   | Ninetales-Alola / Swampert    |    6 |  17.65% |  50.00% |
+| 24   | Sneasler / Swampert           |    6 |  17.65% |  50.00% |
+| 24   | Dragonite / Swampert          |    6 |  17.65% |  50.00% |
+| 24   | Gengar / Incineroar           |    6 |  17.65% |  50.00% |
+| 24   | Gengar / Ninetales-Alola      |    6 |  17.65% |  50.00% |
+| 24   | Gengar / Sneasler             |    6 |  17.65% |  50.00% |
+| 24   | Gengar / Dragonite            |    6 |  17.65% |  50.00% |
+| 24   | Ninetales-Alola / Incineroar  |    6 |  17.65% |  50.00% |
+| 24   | Dragonite / Incineroar        |    6 |  17.65% |  50.00% |
+| 24   | Ninetales-Alola / Sneasler    |    6 |  17.65% |  50.00% |
+| 24   | Ninetales-Alola / Dragonite   |    6 |  17.65% |  50.00% |
+| 42   | Venusaur / Toxapex            |    5 |  14.71% |  60.00% |
+| 42   | Incineroar / Toxapex          |    5 |  14.71% |  60.00% |
+| 42   | Garchomp / Toxapex            |    5 |  14.71% |  60.00% |
+| 42   | Sylveon / Toxapex             |    5 |  14.71% |  60.00% |
+| 42   | Incineroar / Floette-Eternal  |    5 |  14.71% |  40.00% |
+| 42   | Froslass / Sneasler           |    5 |  14.71% |  20.00% |
+| 42   | Froslass / Kingambit          |    5 |  14.71% |  20.00% |
+| 49   | Incineroar / Kingambit        |    4 |  11.76% |  50.00% |
+| 49   | Sinistcha / Kingambit         |    4 |  11.76% |  50.00% |
+| 49   | Kingambit / Delphox           |    4 |  11.76% |  50.00% |
+| 49   | Sinistcha / Incineroar        |    4 |  11.76% |  50.00% |
+| 49   | Incineroar / Delphox          |    4 |  11.76% |  50.00% |
+| 49   | Sinistcha / Delphox           |    4 |  11.76% |  50.00% |
+| 49   | Sinistcha / Sneasler          |    4 |  11.76% |  50.00% |
+| 49   | Sneasler / Delphox            |    4 |  11.76% |  50.00% |
+| 57   | Staraptor / Arcanine-Hisui    |    3 |   8.82% |  66.67% |
+| 57   | Staraptor / Kingambit         |    3 |   8.82% |  66.67% |
+| 57   | Raichu / Staraptor            |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Staraptor         |    3 |   8.82% |  66.67% |
+| 57   | Staraptor / Sylveon           |    3 |   8.82% |  66.67% |
+| 57   | Kingambit / Arcanine-Hisui    |    3 |   8.82% |  66.67% |
+| 57   | Raichu / Arcanine-Hisui       |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Arcanine-Hisui    |    3 |   8.82% |  66.67% |
+| 57   | Sylveon / Arcanine-Hisui      |    3 |   8.82% |  66.67% |
+| 57   | Raichu / Kingambit            |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Kingambit         |    3 |   8.82% |  66.67% |
+| 57   | Kingambit / Sylveon           |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Raichu            |    3 |   8.82% |  66.67% |
+| 57   | Raichu / Sylveon              |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Sylveon           |    3 |   8.82% |  66.67% |
+| 57   | Incineroar / Whimsicott       |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Whimsicott        |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Incineroar        |    3 |   8.82% |  66.67% |
+| 57   | Incineroar / Basculegion      |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Floette-Eternal   |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Garchomp          |    3 |   8.82% |  66.67% |
+| 57   | Farigiraf / Basculegion       |    3 |   8.82% |  66.67% |
+| 57   | Froslass / Dragonite          |    3 |   8.82% |  33.33% |
+| 57   | Froslass / Toxapex            |    3 |   8.82% |  33.33% |
+| 57   | Froslass / Charizard          |    3 |   8.82% |  33.33% |
+| 57   | Dragonite / Toxapex           |    3 |   8.82% |  33.33% |
+| 57   | Dragonite / Charizard         |    3 |   8.82% |  33.33% |
+| 57   | Dragonite / Kingambit         |    3 |   8.82% |  33.33% |
+| 57   | Sneasler / Toxapex            |    3 |   8.82% |  33.33% |
+| 57   | Kingambit / Toxapex           |    3 |   8.82% |  33.33% |
+| 57   | Sneasler / Charizard          |    3 |   8.82% |  33.33% |
+| 88   | Sneasler / Blastoise          |    2 |   5.88% | 100.00% |
+| 88   | Blastoise / Kingambit         |    2 |   5.88% | 100.00% |
+| 88   | Incineroar / Blastoise        |    2 |   5.88% | 100.00% |
+| 88   | Blastoise / Delphox           |    2 |   5.88% | 100.00% |
+| 88   | Sinistcha / Blastoise         |    2 |   5.88% | 100.00% |
+| 88   | Sinistcha / Floette-Eternal   |    2 |   5.88% |   0.00% |
+| 88   | Floette-Eternal / Delphox     |    2 |   5.88% |   0.00% |
+| 88   | Sneasler / Floette-Eternal    |    2 |   5.88% |   0.00% |
+| 88   | Scovillain / Froslass         |    2 |   5.88% |   0.00% |
+| 88   | Lycanroc-Dusk / Froslass      |    2 |   5.88% |   0.00% |
+| 88   | Froslass / Basculegion        |    2 |   5.88% |   0.00% |
+| 88   | Lycanroc-Dusk / Scovillain    |    2 |   5.88% |   0.00% |
+| 88   | Scovillain / Kingambit        |    2 |   5.88% |   0.00% |
+| 88   | Scovillain / Sneasler         |    2 |   5.88% |   0.00% |
+| 88   | Scovillain / Basculegion      |    2 |   5.88% |   0.00% |
+| 88   | Lycanroc-Dusk / Kingambit     |    2 |   5.88% |   0.00% |
+| 88   | Lycanroc-Dusk / Sneasler      |    2 |   5.88% |   0.00% |
+| 88   | Lycanroc-Dusk / Basculegion   |    2 |   5.88% |   0.00% |
+| 88   | Sneasler / Basculegion        |    2 |   5.88% |   0.00% |
+| 88   | Aerodactyl / Venusaur         |    2 |   5.88% |   0.00% |
+| 88   | Aerodactyl / Charizard        |    2 |   5.88% |   0.00% |
+| 88   | Aerodactyl / Garchomp         |    2 |   5.88% |   0.00% |
+| 88   | Aerodactyl / Incineroar       |    2 |   5.88% |   0.00% |
+| 88   | Aerodactyl / Sylveon          |    2 |   5.88% |   0.00% |
+
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                                | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| 1    | Floette-Eternal / Garchomp / Whimsicott    |    9 |  26.47% |  66.67% |
+| 1    | Floette-Eternal / Basculegion / Whimsicott |    9 |  26.47% |  66.67% |
+| 1    | Basculegion / Garchomp / Whimsicott        |    9 |  26.47% |  66.67% |
+| 1    | Floette-Eternal / Garchomp / Basculegion   |    9 |  26.47% |  66.67% |
+| 5    | Incineroar / Charizard / Venusaur          |    7 |  20.59% |  42.86% |
+| 5    | Incineroar / Venusaur / Garchomp           |    7 |  20.59% |  42.86% |
+| 5    | Incineroar / Venusaur / Sylveon            |    7 |  20.59% |  42.86% |
+| 5    | Charizard / Venusaur / Garchomp            |    7 |  20.59% |  42.86% |
+| 5    | Charizard / Venusaur / Sylveon             |    7 |  20.59% |  42.86% |
+| 5    | Sylveon / Venusaur / Garchomp              |    7 |  20.59% |  42.86% |
+| 5    | Incineroar / Charizard / Garchomp          |    7 |  20.59% |  42.86% |
+| 5    | Incineroar / Charizard / Sylveon           |    7 |  20.59% |  42.86% |
+| 5    | Sylveon / Incineroar / Garchomp            |    7 |  20.59% |  42.86% |
+| 5    | Sylveon / Charizard / Garchomp             |    7 |  20.59% |  42.86% |
+| 15   | Charizard / Floette-Eternal / Whimsicott   |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Floette-Eternal / Whimsicott   |    6 |  17.65% |  66.67% |
+| 15   | Charizard / Garchomp / Whimsicott          |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Charizard / Whimsicott         |    6 |  17.65% |  66.67% |
+| 15   | Charizard / Basculegion / Whimsicott       |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Garchomp / Whimsicott          |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Basculegion / Whimsicott       |    6 |  17.65% |  66.67% |
+| 15   | Charizard / Floette-Eternal / Garchomp     |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Charizard / Floette-Eternal    |    6 |  17.65% |  66.67% |
+| 15   | Charizard / Floette-Eternal / Basculegion  |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Floette-Eternal / Garchomp     |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Floette-Eternal / Basculegion  |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Charizard / Garchomp           |    6 |  17.65% |  66.67% |
+| 15   | Charizard / Garchomp / Basculegion         |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Charizard / Basculegion        |    6 |  17.65% |  66.67% |
+| 15   | Kingambit / Garchomp / Basculegion         |    6 |  17.65% |  66.67% |
+| 15   | Gengar / Incineroar / Swampert             |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Swampert / Ninetales-Alola        |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Sneasler / Swampert               |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Swampert / Dragonite              |    6 |  17.65% |  50.00% |
+| 15   | Ninetales-Alola / Incineroar / Swampert    |    6 |  17.65% |  50.00% |
+| 15   | Sneasler / Incineroar / Swampert           |    6 |  17.65% |  50.00% |
+| 15   | Dragonite / Incineroar / Swampert          |    6 |  17.65% |  50.00% |
+| 15   | Ninetales-Alola / Sneasler / Swampert      |    6 |  17.65% |  50.00% |
+| 15   | Ninetales-Alola / Swampert / Dragonite     |    6 |  17.65% |  50.00% |
+| 15   | Dragonite / Sneasler / Swampert            |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Incineroar / Ninetales-Alola      |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Incineroar / Sneasler             |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Incineroar / Dragonite            |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Sneasler / Ninetales-Alola        |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Ninetales-Alola / Dragonite       |    6 |  17.65% |  50.00% |
+| 15   | Gengar / Sneasler / Dragonite              |    6 |  17.65% |  50.00% |
+| 15   | Ninetales-Alola / Incineroar / Sneasler    |    6 |  17.65% |  50.00% |
+| 15   | Ninetales-Alola / Incineroar / Dragonite   |    6 |  17.65% |  50.00% |
+| 15   | Sneasler / Incineroar / Dragonite          |    6 |  17.65% |  50.00% |
+| 15   | Ninetales-Alola / Sneasler / Dragonite     |    6 |  17.65% |  50.00% |
+| 51   | Incineroar / Venusaur / Toxapex            |    5 |  14.71% |  60.00% |
+| 51   | Charizard / Venusaur / Toxapex             |    5 |  14.71% |  60.00% |
+| 51   | Venusaur / Garchomp / Toxapex              |    5 |  14.71% |  60.00% |
+| 51   | Venusaur / Sylveon / Toxapex               |    5 |  14.71% |  60.00% |
+| 51   | Incineroar / Charizard / Toxapex           |    5 |  14.71% |  60.00% |
+| 51   | Incineroar / Garchomp / Toxapex            |    5 |  14.71% |  60.00% |
+| 51   | Incineroar / Sylveon / Toxapex             |    5 |  14.71% |  60.00% |
+| 51   | Charizard / Garchomp / Toxapex             |    5 |  14.71% |  60.00% |
+| 51   | Charizard / Sylveon / Toxapex              |    5 |  14.71% |  60.00% |
+| 51   | Sylveon / Garchomp / Toxapex               |    5 |  14.71% |  60.00% |
+| 51   | Froslass / Sneasler / Kingambit            |    5 |  14.71% |  20.00% |
+| 62   | Sinistcha / Incineroar / Kingambit         |    4 |  11.76% |  50.00% |
+| 62   | Incineroar / Kingambit / Delphox           |    4 |  11.76% |  50.00% |
+| 62   | Sneasler / Incineroar / Kingambit          |    4 |  11.76% |  50.00% |
+| 62   | Sinistcha / Kingambit / Delphox            |    4 |  11.76% |  50.00% |
+| 62   | Sinistcha / Sneasler / Kingambit           |    4 |  11.76% |  50.00% |
+| 62   | Sneasler / Kingambit / Delphox             |    4 |  11.76% |  50.00% |
+| 62   | Sinistcha / Incineroar / Delphox           |    4 |  11.76% |  50.00% |
+| 62   | Sinistcha / Sneasler / Incineroar          |    4 |  11.76% |  50.00% |
+| 62   | Sneasler / Incineroar / Delphox            |    4 |  11.76% |  50.00% |
+| 62   | Sinistcha / Sneasler / Delphox             |    4 |  11.76% |  50.00% |
+| 72   | Staraptor / Kingambit / Arcanine-Hisui     |    3 |   8.82% |  66.67% |
+| 72   | Raichu / Staraptor / Arcanine-Hisui        |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Staraptor / Arcanine-Hisui     |    3 |   8.82% |  66.67% |
+| 72   | Staraptor / Sylveon / Arcanine-Hisui       |    3 |   8.82% |  66.67% |
+| 72   | Raichu / Staraptor / Kingambit             |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Staraptor / Kingambit          |    3 |   8.82% |  66.67% |
+| 72   | Staraptor / Kingambit / Sylveon            |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Raichu / Staraptor             |    3 |   8.82% |  66.67% |
+| 72   | Raichu / Staraptor / Sylveon               |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Staraptor / Sylveon            |    3 |   8.82% |  66.67% |
+| 72   | Raichu / Kingambit / Arcanine-Hisui        |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Kingambit / Arcanine-Hisui     |    3 |   8.82% |  66.67% |
+| 72   | Kingambit / Sylveon / Arcanine-Hisui       |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Raichu / Arcanine-Hisui        |    3 |   8.82% |  66.67% |
+| 72   | Raichu / Sylveon / Arcanine-Hisui          |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Sylveon / Arcanine-Hisui       |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Raichu / Kingambit             |    3 |   8.82% |  66.67% |
+| 72   | Raichu / Kingambit / Sylveon               |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Kingambit / Sylveon            |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Raichu / Sylveon               |    3 |   8.82% |  66.67% |
+| 72   | Incineroar / Floette-Eternal / Whimsicott  |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Incineroar / Whimsicott        |    3 |   8.82% |  66.67% |
+| 72   | Incineroar / Garchomp / Whimsicott         |    3 |   8.82% |  66.67% |
+| 72   | Incineroar / Basculegion / Whimsicott      |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Floette-Eternal / Whimsicott   |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Garchomp / Whimsicott          |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Basculegion / Whimsicott       |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Incineroar / Floette-Eternal   |    3 |   8.82% |  66.67% |
+| 72   | Incineroar / Floette-Eternal / Garchomp    |    3 |   8.82% |  66.67% |
+| 72   | Incineroar / Floette-Eternal / Basculegion |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Incineroar / Garchomp          |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Incineroar / Basculegion       |    3 |   8.82% |  66.67% |
+| 72   | Incineroar / Garchomp / Basculegion        |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Floette-Eternal / Garchomp     |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Floette-Eternal / Basculegion  |    3 |   8.82% |  66.67% |
+| 72   | Farigiraf / Garchomp / Basculegion         |    3 |   8.82% |  66.67% |
+| 72   | Froslass / Toxapex / Dragonite             |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Sneasler / Dragonite            |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Charizard / Dragonite           |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Kingambit / Dragonite           |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Sneasler / Toxapex              |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Charizard / Toxapex             |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Kingambit / Toxapex             |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Sneasler / Charizard            |    3 |   8.82% |  33.33% |
+| 72   | Froslass / Kingambit / Charizard           |    3 |   8.82% |  33.33% |
+| 72   | Dragonite / Sneasler / Toxapex             |    3 |   8.82% |  33.33% |
+| 72   | Dragonite / Charizard / Toxapex            |    3 |   8.82% |  33.33% |
+| 72   | Dragonite / Kingambit / Toxapex            |    3 |   8.82% |  33.33% |
+| 72   | Dragonite / Sneasler / Charizard           |    3 |   8.82% |  33.33% |
+| 72   | Dragonite / Sneasler / Kingambit           |    3 |   8.82% |  33.33% |
+| 72   | Dragonite / Kingambit / Charizard          |    3 |   8.82% |  33.33% |
+| 72   | Sneasler / Charizard / Toxapex             |    3 |   8.82% |  33.33% |
+| 72   | Sneasler / Kingambit / Toxapex             |    3 |   8.82% |  33.33% |
+| 72   | Kingambit / Charizard / Toxapex            |    3 |   8.82% |  33.33% |
+| 72   | Kingambit / Sneasler / Charizard           |    3 |   8.82% |  33.33% |
+| 127  | Kingambit / Sneasler / Blastoise           |    2 |   5.88% | 100.00% |
+| 127  | Incineroar / Sneasler / Blastoise          |    2 |   5.88% | 100.00% |
+| 127  | Sneasler / Blastoise / Delphox             |    2 |   5.88% | 100.00% |
+| 127  | Sinistcha / Sneasler / Blastoise           |    2 |   5.88% | 100.00% |
+| 127  | Incineroar / Blastoise / Kingambit         |    2 |   5.88% | 100.00% |
+| 127  | Blastoise / Kingambit / Delphox            |    2 |   5.88% | 100.00% |
+| 127  | Sinistcha / Blastoise / Kingambit          |    2 |   5.88% | 100.00% |
+| 127  | Incineroar / Blastoise / Delphox           |    2 |   5.88% | 100.00% |
+| 127  | Incineroar / Sinistcha / Blastoise         |    2 |   5.88% | 100.00% |
+| 127  | Sinistcha / Blastoise / Delphox            |    2 |   5.88% | 100.00% |
+| 127  | Floette-Eternal / Incineroar / Kingambit   |    2 |   5.88% |   0.00% |
+| 127  | Floette-Eternal / Sinistcha / Kingambit    |    2 |   5.88% |   0.00% |
+| 127  | Floette-Eternal / Kingambit / Delphox      |    2 |   5.88% |   0.00% |
+| 127  | Floette-Eternal / Sneasler / Kingambit     |    2 |   5.88% |   0.00% |
+| 127  | Sinistcha / Incineroar / Floette-Eternal   |    2 |   5.88% |   0.00% |
+| 127  | Incineroar / Floette-Eternal / Delphox     |    2 |   5.88% |   0.00% |
+| 127  | Sneasler / Incineroar / Floette-Eternal    |    2 |   5.88% |   0.00% |
+| 127  | Sinistcha / Floette-Eternal / Delphox      |    2 |   5.88% |   0.00% |
+| 127  | Sinistcha / Sneasler / Floette-Eternal     |    2 |   5.88% |   0.00% |
+| 127  | Sneasler / Floette-Eternal / Delphox       |    2 |   5.88% |   0.00% |
+| 127  | Scovillain / Froslass / Lycanroc-Dusk      |    2 |   5.88% |   0.00% |
+| 127  | Scovillain / Froslass / Kingambit          |    2 |   5.88% |   0.00% |
+| 127  | Scovillain / Froslass / Sneasler           |    2 |   5.88% |   0.00% |
+| 127  | Scovillain / Froslass / Basculegion        |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Froslass / Kingambit       |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Froslass / Sneasler        |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Froslass / Basculegion     |    2 |   5.88% |   0.00% |
+| 127  | Froslass / Kingambit / Basculegion         |    2 |   5.88% |   0.00% |
+| 127  | Froslass / Sneasler / Basculegion          |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Scovillain / Kingambit     |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Scovillain / Sneasler      |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Scovillain / Basculegion   |    2 |   5.88% |   0.00% |
+| 127  | Scovillain / Sneasler / Kingambit          |    2 |   5.88% |   0.00% |
+| 127  | Scovillain / Kingambit / Basculegion       |    2 |   5.88% |   0.00% |
+| 127  | Scovillain / Sneasler / Basculegion        |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Sneasler / Kingambit       |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Kingambit / Basculegion    |    2 |   5.88% |   0.00% |
+| 127  | Lycanroc-Dusk / Sneasler / Basculegion     |    2 |   5.88% |   0.00% |
+| 127  | Sneasler / Kingambit / Basculegion         |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Charizard / Venusaur          |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Venusaur / Garchomp           |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Incineroar / Venusaur         |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Venusaur / Sylveon            |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Charizard / Garchomp          |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Incineroar / Charizard        |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Charizard / Sylveon           |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Incineroar / Garchomp         |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Sylveon / Garchomp            |    2 |   5.88% |   0.00% |
+| 127  | Aerodactyl / Incineroar / Sylveon          |    2 |   5.88% |   0.00% |
+
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                             | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Basculegion / Floette-Eternal / Garchomp / Whimsicott   |    9 |  26.47% |  66.67% |
+| 2    | Incineroar / Charizard / Venusaur / Garchomp            |    7 |  20.59% |  42.86% |
+| 2    | Incineroar / Charizard / Venusaur / Sylveon             |    7 |  20.59% |  42.86% |
+| 2    | Sylveon / Incineroar / Venusaur / Garchomp              |    7 |  20.59% |  42.86% |
+| 2    | Sylveon / Charizard / Venusaur / Garchomp               |    7 |  20.59% |  42.86% |
+| 2    | Sylveon / Incineroar / Charizard / Garchomp             |    7 |  20.59% |  42.86% |
+| 7    | Charizard / Floette-Eternal / Garchomp / Whimsicott     |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Charizard / Floette-Eternal / Whimsicott    |    6 |  17.65% |  66.67% |
+| 7    | Charizard / Floette-Eternal / Basculegion / Whimsicott  |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Floette-Eternal / Garchomp / Whimsicott     |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Floette-Eternal / Basculegion / Whimsicott  |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Charizard / Garchomp / Whimsicott           |    6 |  17.65% |  66.67% |
+| 7    | Basculegion / Charizard / Garchomp / Whimsicott         |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Charizard / Basculegion / Whimsicott        |    6 |  17.65% |  66.67% |
+| 7    | Basculegion / Kingambit / Garchomp / Whimsicott         |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Charizard / Floette-Eternal / Garchomp      |    6 |  17.65% |  66.67% |
+| 7    | Charizard / Floette-Eternal / Garchomp / Basculegion    |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Charizard / Floette-Eternal / Basculegion   |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Floette-Eternal / Garchomp / Basculegion    |    6 |  17.65% |  66.67% |
+| 7    | Kingambit / Charizard / Garchomp / Basculegion          |    6 |  17.65% |  66.67% |
+| 7    | Gengar / Incineroar / Swampert / Ninetales-Alola        |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Incineroar / Swampert / Sneasler               |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Incineroar / Swampert / Dragonite              |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Sneasler / Swampert / Ninetales-Alola          |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Swampert / Ninetales-Alola / Dragonite         |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Sneasler / Swampert / Dragonite                |    6 |  17.65% |  50.00% |
+| 7    | Ninetales-Alola / Incineroar / Swampert / Sneasler      |    6 |  17.65% |  50.00% |
+| 7    | Ninetales-Alola / Incineroar / Swampert / Dragonite     |    6 |  17.65% |  50.00% |
+| 7    | Sneasler / Incineroar / Swampert / Dragonite            |    6 |  17.65% |  50.00% |
+| 7    | Ninetales-Alola / Sneasler / Swampert / Dragonite       |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Incineroar / Sneasler / Ninetales-Alola        |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Incineroar / Ninetales-Alola / Dragonite       |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Incineroar / Sneasler / Dragonite              |    6 |  17.65% |  50.00% |
+| 7    | Gengar / Sneasler / Ninetales-Alola / Dragonite         |    6 |  17.65% |  50.00% |
+| 7    | Ninetales-Alola / Incineroar / Sneasler / Dragonite     |    6 |  17.65% |  50.00% |
+| 36   | Incineroar / Charizard / Venusaur / Toxapex             |    5 |  14.71% |  60.00% |
+| 36   | Incineroar / Venusaur / Garchomp / Toxapex              |    5 |  14.71% |  60.00% |
+| 36   | Incineroar / Venusaur / Sylveon / Toxapex               |    5 |  14.71% |  60.00% |
+| 36   | Charizard / Venusaur / Garchomp / Toxapex               |    5 |  14.71% |  60.00% |
+| 36   | Charizard / Venusaur / Sylveon / Toxapex                |    5 |  14.71% |  60.00% |
+| 36   | Sylveon / Venusaur / Garchomp / Toxapex                 |    5 |  14.71% |  60.00% |
+| 36   | Incineroar / Charizard / Garchomp / Toxapex             |    5 |  14.71% |  60.00% |
+| 36   | Incineroar / Charizard / Sylveon / Toxapex              |    5 |  14.71% |  60.00% |
+| 36   | Sylveon / Incineroar / Garchomp / Toxapex               |    5 |  14.71% |  60.00% |
+| 36   | Sylveon / Charizard / Garchomp / Toxapex                |    5 |  14.71% |  60.00% |
+| 46   | Sinistcha / Incineroar / Kingambit / Delphox            |    4 |  11.76% |  50.00% |
+| 46   | Sinistcha / Sneasler / Incineroar / Kingambit           |    4 |  11.76% |  50.00% |
+| 46   | Sneasler / Incineroar / Kingambit / Delphox             |    4 |  11.76% |  50.00% |
+| 46   | Sinistcha / Sneasler / Kingambit / Delphox              |    4 |  11.76% |  50.00% |
+| 46   | Sinistcha / Sneasler / Incineroar / Delphox             |    4 |  11.76% |  50.00% |
+| 51   | Raichu / Staraptor / Kingambit / Arcanine-Hisui         |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Staraptor / Kingambit / Arcanine-Hisui      |    3 |   8.82% |  66.67% |
+| 51   | Staraptor / Kingambit / Sylveon / Arcanine-Hisui        |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Raichu / Staraptor / Arcanine-Hisui         |    3 |   8.82% |  66.67% |
+| 51   | Raichu / Staraptor / Sylveon / Arcanine-Hisui           |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Staraptor / Sylveon / Arcanine-Hisui        |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Raichu / Staraptor / Kingambit              |    3 |   8.82% |  66.67% |
+| 51   | Raichu / Staraptor / Kingambit / Sylveon                |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Staraptor / Kingambit / Sylveon             |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Raichu / Staraptor / Sylveon                |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Raichu / Kingambit / Arcanine-Hisui         |    3 |   8.82% |  66.67% |
+| 51   | Raichu / Kingambit / Sylveon / Arcanine-Hisui           |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Kingambit / Sylveon / Arcanine-Hisui        |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Raichu / Sylveon / Arcanine-Hisui           |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Raichu / Kingambit / Sylveon                |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Incineroar / Floette-Eternal / Whimsicott   |    3 |   8.82% |  66.67% |
+| 51   | Incineroar / Floette-Eternal / Garchomp / Whimsicott    |    3 |   8.82% |  66.67% |
+| 51   | Incineroar / Floette-Eternal / Basculegion / Whimsicott |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Incineroar / Garchomp / Whimsicott          |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Incineroar / Basculegion / Whimsicott       |    3 |   8.82% |  66.67% |
+| 51   | Incineroar / Basculegion / Garchomp / Whimsicott        |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Floette-Eternal / Garchomp / Whimsicott     |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Floette-Eternal / Basculegion / Whimsicott  |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Basculegion / Garchomp / Whimsicott         |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Incineroar / Floette-Eternal / Garchomp     |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Incineroar / Floette-Eternal / Basculegion  |    3 |   8.82% |  66.67% |
+| 51   | Incineroar / Floette-Eternal / Garchomp / Basculegion   |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Incineroar / Garchomp / Basculegion         |    3 |   8.82% |  66.67% |
+| 51   | Farigiraf / Floette-Eternal / Garchomp / Basculegion    |    3 |   8.82% |  66.67% |
+| 51   | Froslass / Sneasler / Toxapex / Dragonite               |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Charizard / Toxapex / Dragonite              |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Kingambit / Toxapex / Dragonite              |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Sneasler / Charizard / Dragonite             |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Sneasler / Kingambit / Dragonite             |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Kingambit / Charizard / Dragonite            |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Sneasler / Charizard / Toxapex               |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Sneasler / Kingambit / Toxapex               |    3 |   8.82% |  33.33% |
+| 51   | Froslass / Kingambit / Charizard / Toxapex              |    3 |   8.82% |  33.33% |
+| 51   | Kingambit / Froslass / Sneasler / Charizard             |    3 |   8.82% |  33.33% |
+| 51   | Dragonite / Sneasler / Charizard / Toxapex              |    3 |   8.82% |  33.33% |
+| 51   | Dragonite / Sneasler / Kingambit / Toxapex              |    3 |   8.82% |  33.33% |
+| 51   | Dragonite / Kingambit / Charizard / Toxapex             |    3 |   8.82% |  33.33% |
+| 51   | Kingambit / Dragonite / Sneasler / Charizard            |    3 |   8.82% |  33.33% |
+| 51   | Kingambit / Sneasler / Charizard / Toxapex              |    3 |   8.82% |  33.33% |
+| 95   | Kingambit / Sneasler / Blastoise / Incineroar           |    2 |   5.88% | 100.00% |
+| 95   | Kingambit / Sneasler / Blastoise / Delphox              |    2 |   5.88% | 100.00% |
+| 95   | Kingambit / Sinistcha / Sneasler / Blastoise            |    2 |   5.88% | 100.00% |
+| 95   | Incineroar / Sneasler / Blastoise / Delphox             |    2 |   5.88% | 100.00% |
+| 95   | Incineroar / Sinistcha / Sneasler / Blastoise           |    2 |   5.88% | 100.00% |
+| 95   | Sinistcha / Sneasler / Blastoise / Delphox              |    2 |   5.88% | 100.00% |
+| 95   | Incineroar / Blastoise / Kingambit / Delphox            |    2 |   5.88% | 100.00% |
+| 95   | Incineroar / Sinistcha / Blastoise / Kingambit          |    2 |   5.88% | 100.00% |
+| 95   | Sinistcha / Blastoise / Kingambit / Delphox             |    2 |   5.88% | 100.00% |
+| 95   | Incineroar / Sinistcha / Blastoise / Delphox            |    2 |   5.88% | 100.00% |
+| 95   | Floette-Eternal / Sinistcha / Incineroar / Kingambit    |    2 |   5.88% |   0.00% |
+| 95   | Floette-Eternal / Incineroar / Kingambit / Delphox      |    2 |   5.88% |   0.00% |
+| 95   | Floette-Eternal / Sneasler / Incineroar / Kingambit     |    2 |   5.88% |   0.00% |
+| 95   | Floette-Eternal / Sinistcha / Kingambit / Delphox       |    2 |   5.88% |   0.00% |
+| 95   | Floette-Eternal / Sinistcha / Sneasler / Kingambit      |    2 |   5.88% |   0.00% |
+| 95   | Floette-Eternal / Sneasler / Kingambit / Delphox        |    2 |   5.88% |   0.00% |
+| 95   | Sinistcha / Incineroar / Floette-Eternal / Delphox      |    2 |   5.88% |   0.00% |
+| 95   | Sinistcha / Sneasler / Incineroar / Floette-Eternal     |    2 |   5.88% |   0.00% |
+| 95   | Sneasler / Incineroar / Floette-Eternal / Delphox       |    2 |   5.88% |   0.00% |
+| 95   | Sinistcha / Sneasler / Floette-Eternal / Delphox        |    2 |   5.88% |   0.00% |
+| 95   | Scovillain / Froslass / Kingambit / Lycanroc-Dusk       |    2 |   5.88% |   0.00% |
+| 95   | Scovillain / Froslass / Sneasler / Lycanroc-Dusk        |    2 |   5.88% |   0.00% |
+| 95   | Scovillain / Froslass / Lycanroc-Dusk / Basculegion     |    2 |   5.88% |   0.00% |
+| 95   | Scovillain / Froslass / Sneasler / Kingambit            |    2 |   5.88% |   0.00% |
+| 95   | Scovillain / Froslass / Kingambit / Basculegion         |    2 |   5.88% |   0.00% |
+| 95   | Scovillain / Froslass / Sneasler / Basculegion          |    2 |   5.88% |   0.00% |
+| 95   | Lycanroc-Dusk / Froslass / Sneasler / Kingambit         |    2 |   5.88% |   0.00% |
+| 95   | Lycanroc-Dusk / Froslass / Kingambit / Basculegion      |    2 |   5.88% |   0.00% |
+| 95   | Lycanroc-Dusk / Froslass / Sneasler / Basculegion       |    2 |   5.88% |   0.00% |
+| 95   | Froslass / Sneasler / Kingambit / Basculegion           |    2 |   5.88% |   0.00% |
+| 95   | Lycanroc-Dusk / Scovillain / Sneasler / Kingambit       |    2 |   5.88% |   0.00% |
+| 95   | Lycanroc-Dusk / Scovillain / Kingambit / Basculegion    |    2 |   5.88% |   0.00% |
+| 95   | Lycanroc-Dusk / Scovillain / Sneasler / Basculegion     |    2 |   5.88% |   0.00% |
+| 95   | Scovillain / Sneasler / Kingambit / Basculegion         |    2 |   5.88% |   0.00% |
+| 95   | Lycanroc-Dusk / Sneasler / Kingambit / Basculegion      |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Charizard / Venusaur / Garchomp            |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Incineroar / Charizard / Venusaur          |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Charizard / Venusaur / Sylveon             |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Incineroar / Venusaur / Garchomp           |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Sylveon / Venusaur / Garchomp              |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Incineroar / Venusaur / Sylveon            |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Incineroar / Charizard / Garchomp          |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Sylveon / Charizard / Garchomp             |    2 |   5.88% |   0.00% |
+| 95   | Aerodactyl / Incineroar / Charizard / Sylveon           |    2 |   5.88% |   0.00% |
+| 95   | Sylveon / Aerodactyl / Incineroar / Garchomp            |    2 |   5.88% |   0.00% |
+
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                         | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Sylveon / Garchomp / Incineroar / Venusaur / Charizard              |    7 |  20.59% |  42.86% |
+| 2    | Garchomp / Whimsicott / Kingambit / Floette-Eternal / Charizard     |    6 |  17.65% |  66.67% |
+| 2    | Garchomp / Basculegion / Whimsicott / Floette-Eternal / Charizard   |    6 |  17.65% |  66.67% |
+| 2    | Basculegion / Whimsicott / Kingambit / Floette-Eternal / Charizard  |    6 |  17.65% |  66.67% |
+| 2    | Garchomp / Basculegion / Whimsicott / Kingambit / Floette-Eternal   |    6 |  17.65% |  66.67% |
+| 2    | Garchomp / Basculegion / Whimsicott / Kingambit / Charizard         |    6 |  17.65% |  66.67% |
+| 2    | Garchomp / Basculegion / Kingambit / Floette-Eternal / Charizard    |    6 |  17.65% |  66.67% |
+| 2    | Ninetales-Alola / Swampert / Incineroar / Gengar / Sneasler         |    6 |  17.65% |  50.00% |
+| 2    | Ninetales-Alola / Swampert / Incineroar / Dragonite / Gengar        |    6 |  17.65% |  50.00% |
+| 2    | Swampert / Incineroar / Dragonite / Gengar / Sneasler               |    6 |  17.65% |  50.00% |
+| 2    | Ninetales-Alola / Swampert / Dragonite / Gengar / Sneasler          |    6 |  17.65% |  50.00% |
+| 2    | Ninetales-Alola / Swampert / Incineroar / Dragonite / Sneasler      |    6 |  17.65% |  50.00% |
+| 2    | Ninetales-Alola / Incineroar / Dragonite / Gengar / Sneasler        |    6 |  17.65% |  50.00% |
+| 14   | Garchomp / Incineroar / Venusaur / Toxapex / Charizard              |    5 |  14.71% |  60.00% |
+| 14   | Sylveon / Incineroar / Venusaur / Toxapex / Charizard               |    5 |  14.71% |  60.00% |
+| 14   | Sylveon / Garchomp / Incineroar / Venusaur / Toxapex                |    5 |  14.71% |  60.00% |
+| 14   | Sylveon / Garchomp / Venusaur / Toxapex / Charizard                 |    5 |  14.71% |  60.00% |
+| 14   | Sylveon / Garchomp / Incineroar / Toxapex / Charizard               |    5 |  14.71% |  60.00% |
+| 19   | Sinistcha / Incineroar / Kingambit / Delphox / Sneasler             |    4 |  11.76% |  50.00% |
+| 20   | Farigiraf / Raichu / Staraptor / Kingambit / Arcanine-Hisui         |    3 |   8.82% |  66.67% |
+| 20   | Sylveon / Raichu / Staraptor / Kingambit / Arcanine-Hisui           |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Sylveon / Staraptor / Kingambit / Arcanine-Hisui        |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Sylveon / Raichu / Staraptor / Arcanine-Hisui           |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Sylveon / Raichu / Staraptor / Kingambit                |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Sylveon / Raichu / Kingambit / Arcanine-Hisui           |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Garchomp / Incineroar / Whimsicott / Floette-Eternal    |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Incineroar / Basculegion / Whimsicott / Floette-Eternal |    3 |   8.82% |  66.67% |
+| 20   | Garchomp / Incineroar / Basculegion / Whimsicott / Floette-Eternal  |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Garchomp / Incineroar / Basculegion / Whimsicott        |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Garchomp / Basculegion / Whimsicott / Floette-Eternal   |    3 |   8.82% |  66.67% |
+| 20   | Farigiraf / Garchomp / Incineroar / Basculegion / Floette-Eternal   |    3 |   8.82% |  66.67% |
+| 20   | Toxapex / Dragonite / Froslass / Sneasler / Charizard               |    3 |   8.82% |  33.33% |
+| 20   | Toxapex / Dragonite / Kingambit / Froslass / Sneasler               |    3 |   8.82% |  33.33% |
+| 20   | Toxapex / Dragonite / Kingambit / Froslass / Charizard              |    3 |   8.82% |  33.33% |
+| 20   | Dragonite / Kingambit / Froslass / Sneasler / Charizard             |    3 |   8.82% |  33.33% |
+| 20   | Toxapex / Kingambit / Froslass / Sneasler / Charizard               |    3 |   8.82% |  33.33% |
+| 20   | Toxapex / Dragonite / Kingambit / Sneasler / Charizard              |    3 |   8.82% |  33.33% |
+| 38   | Blastoise / Incineroar / Kingambit / Delphox / Sneasler             |    2 |   5.88% | 100.00% |
+| 38   | Sinistcha / Blastoise / Incineroar / Kingambit / Sneasler           |    2 |   5.88% | 100.00% |
+| 38   | Sinistcha / Blastoise / Kingambit / Delphox / Sneasler              |    2 |   5.88% | 100.00% |
+| 38   | Sinistcha / Blastoise / Incineroar / Delphox / Sneasler             |    2 |   5.88% | 100.00% |
+| 38   | Sinistcha / Blastoise / Incineroar / Kingambit / Delphox            |    2 |   5.88% | 100.00% |
+| 38   | Sinistcha / Incineroar / Floette-Eternal / Kingambit / Delphox      |    2 |   5.88% |   0.00% |
+| 38   | Sinistcha / Incineroar / Floette-Eternal / Kingambit / Sneasler     |    2 |   5.88% |   0.00% |
+| 38   | Incineroar / Floette-Eternal / Kingambit / Delphox / Sneasler       |    2 |   5.88% |   0.00% |
+| 38   | Sinistcha / Floette-Eternal / Kingambit / Delphox / Sneasler        |    2 |   5.88% |   0.00% |
+| 38   | Sinistcha / Incineroar / Floette-Eternal / Delphox / Sneasler       |    2 |   5.88% |   0.00% |
+| 38   | Froslass / Lycanroc-Dusk / Kingambit / Scovillain / Sneasler        |    2 |   5.88% |   0.00% |
+| 38   | Froslass / Lycanroc-Dusk / Basculegion / Kingambit / Scovillain     |    2 |   5.88% |   0.00% |
+| 38   | Froslass / Lycanroc-Dusk / Basculegion / Scovillain / Sneasler      |    2 |   5.88% |   0.00% |
+| 38   | Froslass / Basculegion / Kingambit / Scovillain / Sneasler          |    2 |   5.88% |   0.00% |
+| 38   | Lycanroc-Dusk / Basculegion / Kingambit / Froslass / Sneasler       |    2 |   5.88% |   0.00% |
+| 38   | Lycanroc-Dusk / Basculegion / Kingambit / Scovillain / Sneasler     |    2 |   5.88% |   0.00% |
+| 38   | Garchomp / Incineroar / Venusaur / Aerodactyl / Charizard           |    2 |   5.88% |   0.00% |
+| 38   | Sylveon / Garchomp / Venusaur / Aerodactyl / Charizard              |    2 |   5.88% |   0.00% |
+| 38   | Sylveon / Incineroar / Venusaur / Aerodactyl / Charizard            |    2 |   5.88% |   0.00% |
+| 38   | Sylveon / Garchomp / Incineroar / Venusaur / Aerodactyl             |    2 |   5.88% |   0.00% |
+| 38   | Sylveon / Garchomp / Incineroar / Aerodactyl / Charizard            |    2 |   5.88% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                    | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Garchomp / Whimsicott / Basculegion / Kingambit / Floette-Eternal / Charizard  |    6 |  17.65% |  66.67% |
+| 1    | Ninetales-Alola / Swampert / Incineroar / Dragonite / Gengar / Sneasler        |    6 |  17.65% |  50.00% |
+| 3    | Garchomp / Sylveon / Incineroar / Venusaur / Toxapex / Charizard               |    5 |  14.71% |  60.00% |
+| 4    | Farigiraf / Sylveon / Raichu / Staraptor / Kingambit / Arcanine-Hisui          |    3 |   8.82% |  66.67% |
+| 4    | Farigiraf / Garchomp / Incineroar / Whimsicott / Basculegion / Floette-Eternal |    3 |   8.82% |  66.67% |
+| 4    | Toxapex / Dragonite / Kingambit / Froslass / Sneasler / Charizard              |    3 |   8.82% |  33.33% |
+| 7    | Sinistcha / Blastoise / Incineroar / Kingambit / Delphox / Sneasler            |    2 |   5.88% | 100.00% |
+| 7    | Sinistcha / Incineroar / Floette-Eternal / Kingambit / Delphox / Sneasler      |    2 |   5.88% |   0.00% |
+| 7    | Froslass / Lycanroc-Dusk / Basculegion / Kingambit / Scovillain / Sneasler     |    2 |   5.88% |   0.00% |
+| 7    | Garchomp / Sylveon / Incineroar / Venusaur / Aerodactyl / Charizard            |    2 |   5.88% |   0.00% |
