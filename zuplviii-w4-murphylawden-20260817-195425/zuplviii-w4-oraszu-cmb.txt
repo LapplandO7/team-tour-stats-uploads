@@ -1,0 +1,500 @@
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| 1    | Servine / Gigalith           |    2 |  25.00% | 100.00% |
+| 1    | Quilladin / Simipour         |    2 |  25.00% |  50.00% |
+| 1    | Mightyena / Simipour         |    2 |  25.00% |  50.00% |
+| 1    | Swalot / Servine             |    2 |  25.00% |  50.00% |
+| 1    | Servine / Seaking            |    2 |  25.00% |  50.00% |
+| 1    | Krokorok / Pignite           |    2 |  25.00% |   0.00% |
+| 7    | Marshtomp / Glalie           |    1 |  12.50% | 100.00% |
+| 7    | Gourgeist-* / Glalie         |    1 |  12.50% | 100.00% |
+| 7    | Pignite / Glalie             |    1 |  12.50% | 100.00% |
+| 7    | Persian / Glalie             |    1 |  12.50% | 100.00% |
+| 7    | Meowstic-F / Glalie          |    1 |  12.50% | 100.00% |
+| 7    | Gourgeist-Small / Glalie     |    1 |  12.50% | 100.00% |
+| 7    | Marshtomp / Gourgeist-*      |    1 |  12.50% | 100.00% |
+| 7    | Marshtomp / Pignite          |    1 |  12.50% | 100.00% |
+| 7    | Marshtomp / Persian          |    1 |  12.50% | 100.00% |
+| 7    | Marshtomp / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 7    | Marshtomp / Gourgeist-Small  |    1 |  12.50% | 100.00% |
+| 7    | Gourgeist-* / Pignite        |    1 |  12.50% | 100.00% |
+| 7    | Persian / Gourgeist-*        |    1 |  12.50% | 100.00% |
+| 7    | Gourgeist-* / Meowstic-F     |    1 |  12.50% | 100.00% |
+| 7    | Persian / Pignite            |    1 |  12.50% | 100.00% |
+| 7    | Pignite / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 7    | Gourgeist-Small / Pignite    |    1 |  12.50% | 100.00% |
+| 7    | Persian / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 7    | Persian / Gourgeist-Small    |    1 |  12.50% | 100.00% |
+| 7    | Gourgeist-Small / Meowstic-F |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Quilladin        |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Lunatone         |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 7    | Banette / Mightyena          |    1 |  12.50% | 100.00% |
+| 7    | Quilladin / Lunatone         |    1 |  12.50% | 100.00% |
+| 7    | Quilladin / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 7    | Banette / Quilladin          |    1 |  12.50% | 100.00% |
+| 7    | Lunatone / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 7    | Banette / Lunatone           |    1 |  12.50% | 100.00% |
+| 7    | Simipour / Lunatone          |    1 |  12.50% | 100.00% |
+| 7    | Banette / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 7    | Simipour / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 7    | Banette / Simipour           |    1 |  12.50% | 100.00% |
+| 7    | Whirlipede / Seaking         |    1 |  12.50% | 100.00% |
+| 7    | Natu / Seaking               |    1 |  12.50% | 100.00% |
+| 7    | Gigalith / Seaking           |    1 |  12.50% | 100.00% |
+| 7    | Persian / Seaking            |    1 |  12.50% | 100.00% |
+| 7    | Whirlipede / Natu            |    1 |  12.50% | 100.00% |
+| 7    | Whirlipede / Gigalith        |    1 |  12.50% | 100.00% |
+| 7    | Persian / Whirlipede         |    1 |  12.50% | 100.00% |
+| 7    | Servine / Whirlipede         |    1 |  12.50% | 100.00% |
+| 7    | Natu / Gigalith              |    1 |  12.50% | 100.00% |
+| 7    | Persian / Natu               |    1 |  12.50% | 100.00% |
+| 7    | Servine / Natu               |    1 |  12.50% | 100.00% |
+| 7    | Persian / Gigalith           |    1 |  12.50% | 100.00% |
+| 7    | Persian / Servine            |    1 |  12.50% | 100.00% |
+| 7    | Swalot / Gigalith            |    1 |  12.50% | 100.00% |
+| 7    | Gigalith / Illumise          |    1 |  12.50% | 100.00% |
+| 7    | Mienfoo / Gigalith           |    1 |  12.50% | 100.00% |
+| 7    | Duosion / Gigalith           |    1 |  12.50% | 100.00% |
+| 7    | Swalot / Illumise            |    1 |  12.50% | 100.00% |
+| 7    | Swalot / Mienfoo             |    1 |  12.50% | 100.00% |
+| 7    | Swalot / Duosion             |    1 |  12.50% | 100.00% |
+| 7    | Servine / Illumise           |    1 |  12.50% | 100.00% |
+| 7    | Servine / Mienfoo            |    1 |  12.50% | 100.00% |
+| 7    | Servine / Duosion            |    1 |  12.50% | 100.00% |
+| 7    | Mienfoo / Illumise           |    1 |  12.50% | 100.00% |
+| 7    | Duosion / Illumise           |    1 |  12.50% | 100.00% |
+| 7    | Mienfoo / Duosion            |    1 |  12.50% | 100.00% |
+| 7    | Krokorok / Dusclops          |    1 |  12.50% |   0.00% |
+| 7    | Krokorok / Pikachu           |    1 |  12.50% |   0.00% |
+| 7    | Krokorok / Simipour          |    1 |  12.50% |   0.00% |
+| 7    | Krokorok / Quilladin         |    1 |  12.50% |   0.00% |
+| 7    | Pikachu / Dusclops           |    1 |  12.50% |   0.00% |
+| 7    | Simipour / Dusclops          |    1 |  12.50% |   0.00% |
+| 7    | Pignite / Dusclops           |    1 |  12.50% |   0.00% |
+| 7    | Quilladin / Dusclops         |    1 |  12.50% |   0.00% |
+| 7    | Simipour / Pikachu           |    1 |  12.50% |   0.00% |
+| 7    | Pignite / Pikachu            |    1 |  12.50% |   0.00% |
+| 7    | Quilladin / Pikachu          |    1 |  12.50% |   0.00% |
+| 7    | Pignite / Simipour           |    1 |  12.50% |   0.00% |
+| 7    | Quilladin / Pignite          |    1 |  12.50% |   0.00% |
+| 7    | Swalot / Krokorok            |    1 |  12.50% |   0.00% |
+| 7    | Servine / Krokorok           |    1 |  12.50% |   0.00% |
+| 7    | Krokorok / Seaking           |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Krokorok           |    1 |  12.50% |   0.00% |
+| 7    | Swalot / Seaking             |    1 |  12.50% |   0.00% |
+| 7    | Swalot / Pignite             |    1 |  12.50% |   0.00% |
+| 7    | Swalot / Solrock             |    1 |  12.50% |   0.00% |
+| 7    | Servine / Pignite            |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Servine            |    1 |  12.50% |   0.00% |
+| 7    | Pignite / Seaking            |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Seaking            |    1 |  12.50% |   0.00% |
+| 7    | Solrock / Pignite            |    1 |  12.50% |   0.00% |
+| 7    | Frogadier / Electabuzz       |    1 |  12.50% |   0.00% |
+| 7    | Frogadier / Dustox           |    1 |  12.50% |   0.00% |
+| 7    | Frogadier / Krokorok         |    1 |  12.50% |   0.00% |
+| 7    | Carbink / Frogadier          |    1 |  12.50% |   0.00% |
+| 7    | Frogadier / Meganium         |    1 |  12.50% |   0.00% |
+| 7    | Electabuzz / Dustox          |    1 |  12.50% |   0.00% |
+| 7    | Electabuzz / Krokorok        |    1 |  12.50% |   0.00% |
+| 7    | Carbink / Electabuzz         |    1 |  12.50% |   0.00% |
+| 7    | Electabuzz / Meganium        |    1 |  12.50% |   0.00% |
+| 7    | Krokorok / Dustox            |    1 |  12.50% |   0.00% |
+| 7    | Carbink / Dustox             |    1 |  12.50% |   0.00% |
+| 7    | Dustox / Meganium            |    1 |  12.50% |   0.00% |
+| 7    | Carbink / Krokorok           |    1 |  12.50% |   0.00% |
+| 7    | Krokorok / Meganium          |    1 |  12.50% |   0.00% |
+| 7    | Carbink / Meganium           |    1 |  12.50% |   0.00% |
+| 7    | Kricketune / Bibarel         |    1 |  12.50% |   0.00% |
+| 7    | Kricketune / Sawsbuck        |    1 |  12.50% |   0.00% |
+| 7    | Kricketune / Simipour        |    1 |  12.50% |   0.00% |
+| 7    | Kricketune / Mightyena       |    1 |  12.50% |   0.00% |
+| 7    | Kricketune / Wigglytuff      |    1 |  12.50% |   0.00% |
+| 7    | Sawsbuck / Bibarel           |    1 |  12.50% |   0.00% |
+| 7    | Bibarel / Simipour           |    1 |  12.50% |   0.00% |
+| 7    | Bibarel / Mightyena          |    1 |  12.50% |   0.00% |
+| 7    | Bibarel / Wigglytuff         |    1 |  12.50% |   0.00% |
+| 7    | Sawsbuck / Simipour          |    1 |  12.50% |   0.00% |
+| 7    | Sawsbuck / Mightyena         |    1 |  12.50% |   0.00% |
+| 7    | Sawsbuck / Wigglytuff        |    1 |  12.50% |   0.00% |
+| 7    | Wigglytuff / Simipour        |    1 |  12.50% |   0.00% |
+| 7    | Wigglytuff / Mightyena       |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                              | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| 1    | Marshtomp / Gourgeist-* / Glalie         |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Pignite / Glalie             |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Persian / Glalie             |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Meowstic-F / Glalie          |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Glalie     |    1 |  12.50% | 100.00% |
+| 1    | Gourgeist-* / Pignite / Glalie           |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-* / Glalie           |    1 |  12.50% | 100.00% |
+| 1    | Meowstic-F / Gourgeist-* / Glalie        |    1 |  12.50% | 100.00% |
+| 1    | Persian / Pignite / Glalie               |    1 |  12.50% | 100.00% |
+| 1    | Meowstic-F / Pignite / Glalie            |    1 |  12.50% | 100.00% |
+| 1    | Gourgeist-Small / Pignite / Glalie       |    1 |  12.50% | 100.00% |
+| 1    | Persian / Meowstic-F / Glalie            |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-Small / Glalie       |    1 |  12.50% | 100.00% |
+| 1    | Meowstic-F / Gourgeist-Small / Glalie    |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-* / Pignite        |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-* / Persian        |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-* / Meowstic-F     |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Pignite            |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Pignite / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Pignite    |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Persian / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Persian    |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Meowstic-F |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-* / Pignite          |    1 |  12.50% | 100.00% |
+| 1    | Gourgeist-* / Pignite / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-* / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 1    | Persian / Pignite / Meowstic-F           |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-Small / Pignite      |    1 |  12.50% | 100.00% |
+| 1    | Gourgeist-Small / Pignite / Meowstic-F   |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-Small / Meowstic-F   |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Quilladin / Lunatone         |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Quilladin / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Quilladin          |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Quilladin / Simipour         |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Lunatone / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Lunatone           |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Simipour / Lunatone          |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Simipour / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Simipour           |    1 |  12.50% | 100.00% |
+| 1    | Quilladin / Lunatone / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Quilladin / Lunatone           |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Quilladin / Lunatone          |    1 |  12.50% | 100.00% |
+| 1    | Banette / Quilladin / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 1    | Quilladin / Simipour / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Quilladin / Simipour           |    1 |  12.50% | 100.00% |
+| 1    | Banette / Lunatone / Meowstic-F          |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Lunatone / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Lunatone            |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Meowstic-F          |    1 |  12.50% | 100.00% |
+| 1    | Whirlipede / Natu / Seaking              |    1 |  12.50% | 100.00% |
+| 1    | Whirlipede / Gigalith / Seaking          |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Seaking           |    1 |  12.50% | 100.00% |
+| 1    | Servine / Whirlipede / Seaking           |    1 |  12.50% | 100.00% |
+| 1    | Natu / Gigalith / Seaking                |    1 |  12.50% | 100.00% |
+| 1    | Persian / Natu / Seaking                 |    1 |  12.50% | 100.00% |
+| 1    | Servine / Natu / Seaking                 |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gigalith / Seaking             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Gigalith / Seaking             |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Seaking              |    1 |  12.50% | 100.00% |
+| 1    | Gigalith / Whirlipede / Natu             |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Natu              |    1 |  12.50% | 100.00% |
+| 1    | Servine / Whirlipede / Natu              |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Gigalith          |    1 |  12.50% | 100.00% |
+| 1    | Servine / Whirlipede / Gigalith          |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Whirlipede           |    1 |  12.50% | 100.00% |
+| 1    | Persian / Natu / Gigalith                |    1 |  12.50% | 100.00% |
+| 1    | Servine / Natu / Gigalith                |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Natu                 |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Gigalith             |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Gigalith              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Gigalith / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Mienfoo / Gigalith              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Duosion / Gigalith              |    1 |  12.50% | 100.00% |
+| 1    | Servine / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Servine / Gigalith / Mienfoo             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Gigalith             |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Duosion / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Duosion / Gigalith             |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Illumise              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Mienfoo               |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Duosion               |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Mienfoo / Illumise              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Duosion / Illumise              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Mienfoo / Duosion               |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Servine / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Mienfoo              |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Duosion / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Krokorok / Pikachu / Dusclops            |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Simipour / Dusclops           |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Pignite / Dusclops            |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Dusclops          |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Simipour / Pikachu            |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Pignite / Pikachu             |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Pikachu           |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Krokorok / Simipour            |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Simipour          |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Pignite           |    1 |  12.50% |   0.00% |
+| 1    | Pikachu / Simipour / Dusclops            |    1 |  12.50% |   0.00% |
+| 1    | Pikachu / Pignite / Dusclops             |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Pikachu / Dusclops           |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Simipour / Dusclops            |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Simipour / Dusclops          |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Pignite / Dusclops           |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Simipour / Pikachu             |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Simipour / Pikachu           |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Pignite / Pikachu            |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Quilladin / Simipour           |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Servine / Krokorok              |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Krokorok / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Krokorok / Pignite              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Swalot / Krokorok              |    1 |  12.50% |   0.00% |
+| 1    | Servine / Krokorok / Seaking             |    1 |  12.50% |   0.00% |
+| 1    | Servine / Krokorok / Pignite             |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Servine / Krokorok             |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Pignite / Seaking             |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Krokorok / Seaking             |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Krokorok / Pignite             |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Servine / Seaking               |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Servine / Pignite               |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Swalot / Servine               |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Pignite / Seaking               |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Solrock / Seaking               |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Solrock / Pignite               |    1 |  12.50% |   0.00% |
+| 1    | Servine / Pignite / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Servine / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Servine / Pignite              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Pignite / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Dustox          |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Krokorok        |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Electabuzz         |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Meganium        |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Krokorok / Dustox            |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Dustox             |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Dustox / Meganium            |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Krokorok           |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Krokorok / Meganium          |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Meganium           |    1 |  12.50% |   0.00% |
+| 1    | Electabuzz / Krokorok / Dustox           |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Electabuzz / Dustox            |    1 |  12.50% |   0.00% |
+| 1    | Electabuzz / Dustox / Meganium           |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Electabuzz / Krokorok          |    1 |  12.50% |   0.00% |
+| 1    | Electabuzz / Krokorok / Meganium         |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Electabuzz / Meganium          |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Krokorok / Dustox              |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Dustox / Meganium             |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Dustox / Meganium              |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Krokorok / Meganium            |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Bibarel          |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Bibarel / Simipour          |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Bibarel / Mightyena         |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Bibarel / Wigglytuff        |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Simipour         |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Mightyena        |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Wigglytuff       |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Mightyena / Simipour        |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Wigglytuff / Simipour       |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Wigglytuff / Mightyena      |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Bibarel / Simipour            |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Bibarel / Mightyena           |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Bibarel / Wigglytuff          |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Mightyena / Simipour           |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Wigglytuff / Simipour          |    1 |  12.50% |   0.00% |
+| 1    | Wigglytuff / Bibarel / Mightyena         |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Mightyena / Simipour          |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Wigglytuff / Simipour         |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Wigglytuff / Mightyena        |    1 |  12.50% |   0.00% |
+| 1    | Wigglytuff / Mightyena / Simipour        |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                        | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Marshtomp / Gourgeist-* / Pignite / Glalie         |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-* / Persian / Glalie         |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Meowstic-F / Gourgeist-* / Glalie      |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Pignite / Glalie             |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Meowstic-F / Pignite / Glalie          |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Pignite / Glalie     |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Meowstic-F / Persian / Glalie          |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Persian / Glalie     |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Meowstic-F / Gourgeist-Small / Glalie  |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-* / Pignite / Glalie           |    1 |  12.50% | 100.00% |
+| 1    | Meowstic-F / Gourgeist-* / Pignite / Glalie        |    1 |  12.50% | 100.00% |
+| 1    | Persian / Meowstic-F / Gourgeist-* / Glalie        |    1 |  12.50% | 100.00% |
+| 1    | Persian / Meowstic-F / Pignite / Glalie            |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-Small / Pignite / Glalie       |    1 |  12.50% | 100.00% |
+| 1    | Gourgeist-Small / Meowstic-F / Pignite / Glalie    |    1 |  12.50% | 100.00% |
+| 1    | Persian / Meowstic-F / Gourgeist-Small / Glalie    |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Gourgeist-* / Pignite        |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-* / Pignite / Meowstic-F     |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-* / Persian / Meowstic-F     |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Pignite / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Gourgeist-Small / Pignite    |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Pignite / Meowstic-F |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Gourgeist-Small / Persian / Meowstic-F |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-* / Pignite / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gourgeist-Small / Pignite / Meowstic-F   |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Quilladin / Lunatone / Meowstic-F      |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Quilladin / Lunatone         |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Mightyena / Quilladin / Lunatone        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Quilladin / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Quilladin / Simipour / Meowstic-F      |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Quilladin / Simipour         |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Lunatone / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Mightyena / Simipour / Lunatone / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Simipour / Lunatone          |    1 |  12.50% | 100.00% |
+| 1    | Banette / Mightyena / Simipour / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Quilladin / Lunatone / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Quilladin / Lunatone / Meowstic-F       |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Banette / Quilladin / Lunatone          |    1 |  12.50% | 100.00% |
+| 1    | Banette / Quilladin / Simipour / Meowstic-F        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Lunatone / Meowstic-F         |    1 |  12.50% | 100.00% |
+| 1    | Gigalith / Whirlipede / Natu / Seaking             |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Natu / Seaking              |    1 |  12.50% | 100.00% |
+| 1    | Servine / Whirlipede / Natu / Seaking              |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Gigalith / Seaking          |    1 |  12.50% | 100.00% |
+| 1    | Servine / Whirlipede / Gigalith / Seaking          |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Whirlipede / Seaking           |    1 |  12.50% | 100.00% |
+| 1    | Persian / Natu / Gigalith / Seaking                |    1 |  12.50% | 100.00% |
+| 1    | Servine / Natu / Gigalith / Seaking                |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Natu / Seaking                 |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Gigalith / Seaking             |    1 |  12.50% | 100.00% |
+| 1    | Persian / Gigalith / Whirlipede / Natu             |    1 |  12.50% | 100.00% |
+| 1    | Gigalith / Servine / Whirlipede / Natu             |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Whirlipede / Natu              |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Whirlipede / Gigalith          |    1 |  12.50% | 100.00% |
+| 1    | Persian / Servine / Natu / Gigalith                |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Gigalith / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Gigalith / Mienfoo              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Duosion / Gigalith              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Mienfoo / Gigalith / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Duosion / Gigalith / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Mienfoo / Duosion / Gigalith              |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Servine / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Gigalith / Mienfoo             |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Duosion / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Swalot / Servine / Illumise              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Duosion / Illumise              |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Servine / Duosion / Mienfoo               |    1 |  12.50% | 100.00% |
+| 1    | Swalot / Mienfoo / Duosion / Illumise              |    1 |  12.50% | 100.00% |
+| 1    | Mienfoo / Servine / Duosion / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Krokorok / Pikachu / Simipour / Dusclops           |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Pikachu / Pignite / Dusclops            |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Krokorok / Pikachu / Dusclops          |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Krokorok / Simipour / Dusclops           |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Simipour / Dusclops         |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Pignite / Dusclops          |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Krokorok / Simipour / Pikachu            |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Simipour / Pikachu          |    1 |  12.50% |   0.00% |
+| 1    | Krokorok / Quilladin / Pignite / Pikachu           |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Krokorok / Quilladin / Simipour          |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Pikachu / Simipour / Dusclops            |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Pikachu / Simipour / Dusclops          |    1 |  12.50% |   0.00% |
+| 1    | Quilladin / Pikachu / Pignite / Dusclops           |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Quilladin / Simipour / Dusclops          |    1 |  12.50% |   0.00% |
+| 1    | Pignite / Quilladin / Simipour / Pikachu           |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Servine / Krokorok / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Servine / Krokorok / Pignite              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Swalot / Servine / Krokorok              |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Krokorok / Pignite / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Swalot / Krokorok / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Swalot / Krokorok / Pignite              |    1 |  12.50% |   0.00% |
+| 1    | Servine / Krokorok / Pignite / Seaking             |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Servine / Krokorok / Seaking             |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Servine / Krokorok / Pignite             |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Krokorok / Pignite / Seaking             |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Servine / Pignite / Seaking               |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Swalot / Servine / Seaking               |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Swalot / Servine / Pignite               |    1 |  12.50% |   0.00% |
+| 1    | Swalot / Solrock / Pignite / Seaking               |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Servine / Pignite / Seaking              |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Krokorok / Dustox         |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Electabuzz / Dustox          |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Dustox / Meganium         |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Electabuzz / Krokorok        |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Krokorok / Meganium       |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Electabuzz / Meganium        |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Krokorok / Dustox            |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Krokorok / Dustox / Meganium           |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Dustox / Meganium            |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Frogadier / Krokorok / Meganium          |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Electabuzz / Krokorok / Dustox           |    1 |  12.50% |   0.00% |
+| 1    | Electabuzz / Krokorok / Dustox / Meganium          |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Electabuzz / Dustox / Meganium           |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Electabuzz / Krokorok / Meganium         |    1 |  12.50% |   0.00% |
+| 1    | Carbink / Krokorok / Dustox / Meganium             |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Bibarel / Simipour         |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Bibarel / Mightyena        |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Bibarel / Wigglytuff       |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Bibarel / Mightyena / Simipour        |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Bibarel / Wigglytuff / Simipour       |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Bibarel / Mightyena / Wigglytuff      |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Mightyena / Simipour       |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Wigglytuff / Simipour      |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Sawsbuck / Wigglytuff / Mightyena     |    1 |  12.50% |   0.00% |
+| 1    | Kricketune / Wigglytuff / Mightyena / Simipour     |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Bibarel / Mightyena / Simipour          |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Bibarel / Wigglytuff / Simipour         |    1 |  12.50% |   0.00% |
+| 1    | Wigglytuff / Sawsbuck / Bibarel / Mightyena        |    1 |  12.50% |   0.00% |
+| 1    | Wigglytuff / Bibarel / Mightyena / Simipour        |    1 |  12.50% |   0.00% |
+| 1    | Sawsbuck / Wigglytuff / Mightyena / Simipour       |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Persian / Marshtomp / Glalie / Gourgeist-* / Pignite         |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Meowstic-F / Glalie / Gourgeist-* / Pignite      |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Persian / Meowstic-F / Glalie / Gourgeist-*      |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Meowstic-F / Glalie / Pignite          |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Pignite / Glalie / Gourgeist-Small     |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Pignite / Meowstic-F / Glalie / Gourgeist-Small  |    1 |  12.50% | 100.00% |
+| 1    | Marshtomp / Persian / Meowstic-F / Glalie / Gourgeist-Small  |    1 |  12.50% | 100.00% |
+| 1    | Persian / Meowstic-F / Glalie / Gourgeist-* / Pignite        |    1 |  12.50% | 100.00% |
+| 1    | Persian / Pignite / Meowstic-F / Glalie / Gourgeist-Small    |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Meowstic-F / Gourgeist-* / Pignite     |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Pignite / Meowstic-F / Gourgeist-Small |    1 |  12.50% | 100.00% |
+| 1    | Banette / Meowstic-F / Quilladin / Lunatone / Mightyena      |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Meowstic-F / Quilladin / Lunatone / Mightyena     |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Quilladin / Lunatone / Mightyena        |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Meowstic-F / Quilladin / Mightyena      |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Meowstic-F / Lunatone / Mightyena       |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Meowstic-F / Quilladin / Lunatone       |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Seaking / Natu / Gigalith             |    1 |  12.50% | 100.00% |
+| 1    | Whirlipede / Seaking / Servine / Natu / Gigalith             |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Seaking / Servine / Natu              |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Seaking / Servine / Gigalith          |    1 |  12.50% | 100.00% |
+| 1    | Persian / Seaking / Servine / Natu / Gigalith                |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Servine / Natu / Gigalith             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Swalot / Mienfoo / Gigalith / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Swalot / Gigalith / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Swalot / Mienfoo / Gigalith              |    1 |  12.50% | 100.00% |
+| 1    | Duosion / Swalot / Mienfoo / Gigalith / Illumise             |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Mienfoo / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Swalot / Mienfoo / Illumise              |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Pikachu / Dusclops / Krokorok / Pignite           |    1 |  12.50% |   0.00% |
+| 1    | Simipour / Pikachu / Dusclops / Quilladin / Krokorok         |    1 |  12.50% |   0.00% |
+| 1    | Pikachu / Dusclops / Quilladin / Krokorok / Pignite          |    1 |  12.50% |   0.00% |
+| 1    | Simipour / Dusclops / Quilladin / Krokorok / Pignite         |    1 |  12.50% |   0.00% |
+| 1    | Simipour / Pikachu / Quilladin / Krokorok / Pignite          |    1 |  12.50% |   0.00% |
+| 1    | Simipour / Pikachu / Dusclops / Quilladin / Pignite          |    1 |  12.50% |   0.00% |
+| 1    | Seaking / Servine / Krokorok / Swalot / Pignite              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Seaking / Servine / Krokorok / Swalot              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Servine / Krokorok / Swalot / Pignite              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Seaking / Krokorok / Swalot / Pignite              |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Seaking / Servine / Krokorok / Pignite             |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Seaking / Servine / Swalot / Pignite               |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Krokorok / Dustox / Carbink         |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Meganium / Krokorok / Dustox        |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Meganium / Dustox / Carbink         |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Meganium / Krokorok / Carbink       |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Meganium / Krokorok / Dustox / Carbink           |    1 |  12.50% |   0.00% |
+| 1    | Electabuzz / Meganium / Krokorok / Dustox / Carbink          |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Simipour / Sawsbuck / Kricketune / Mightyena       |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Simipour / Sawsbuck / Kricketune / Wigglytuff      |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Sawsbuck / Kricketune / Wigglytuff / Mightyena     |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Simipour / Kricketune / Wigglytuff / Mightyena     |    1 |  12.50% |   0.00% |
+| 1    | Simipour / Sawsbuck / Kricketune / Wigglytuff / Mightyena    |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Simipour / Sawsbuck / Wigglytuff / Mightyena       |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Persian / Marshtomp / Meowstic-F / Glalie / Gourgeist-* / Pignite     |    1 |  12.50% | 100.00% |
+| 1    | Persian / Marshtomp / Meowstic-F / Glalie / Gourgeist-Small / Pignite |    1 |  12.50% | 100.00% |
+| 1    | Banette / Simipour / Meowstic-F / Quilladin / Lunatone / Mightyena    |    1 |  12.50% | 100.00% |
+| 1    | Persian / Whirlipede / Seaking / Servine / Natu / Gigalith            |    1 |  12.50% | 100.00% |
+| 1    | Servine / Duosion / Swalot / Mienfoo / Gigalith / Illumise            |    1 |  12.50% | 100.00% |
+| 1    | Simipour / Pikachu / Dusclops / Quilladin / Krokorok / Pignite        |    1 |  12.50% |   0.00% |
+| 1    | Solrock / Seaking / Servine / Krokorok / Swalot / Pignite             |    1 |  12.50% |   0.00% |
+| 1    | Frogadier / Electabuzz / Meganium / Krokorok / Dustox / Carbink       |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Simipour / Sawsbuck / Kricketune / Wigglytuff / Mightyena   |    1 |  12.50% |   0.00% |
