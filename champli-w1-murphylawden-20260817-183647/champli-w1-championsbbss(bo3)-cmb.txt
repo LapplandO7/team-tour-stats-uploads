@@ -1,0 +1,454 @@
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| 1    | Mimikyu / Garchomp           |    9 |  45.00% |  55.56% |
+| 2    | Garchomp / Archaludon        |    8 |  40.00% |  62.50% |
+| 2    | Garchomp / Delphox           |    8 |  40.00% |  25.00% |
+| 4    | Gyarados / Garchomp          |    7 |  35.00% |  57.14% |
+| 5    | Raichu / Garchomp            |    6 |  30.00% |  50.00% |
+| 5    | Mimikyu / Archaludon         |    6 |  30.00% |  50.00% |
+| 7    | Gyarados / Archaludon        |    5 |  25.00% |  80.00% |
+| 7    | Raichu / Mimikyu             |    5 |  25.00% |  80.00% |
+| 7    | Raichu / Primarina           |    5 |  25.00% |  60.00% |
+| 7    | Meowscarada / Garchomp       |    5 |  25.00% |  60.00% |
+| 7    | Corviknight / Garchomp       |    5 |  25.00% |  20.00% |
+| 7    | Corviknight / Delphox        |    5 |  25.00% |  20.00% |
+| 7    | Delphox / Primarina          |    5 |  25.00% |  20.00% |
+| 7    | Delphox / Archaludon         |    5 |  25.00% |  20.00% |
+| 15   | Floette-Eternal / Garchomp   |    3 |  15.00% |  66.67% |
+| 15   | Floette-Eternal / Rotom-Wash |    3 |  15.00% |  66.67% |
+| 15   | Mimikyu / Floette-Eternal    |    3 |  15.00% |  66.67% |
+| 15   | Floette-Eternal / Archaludon |    3 |  15.00% |  66.67% |
+| 15   | Gyarados / Floette-Eternal   |    3 |  15.00% |  66.67% |
+| 15   | Rotom-Wash / Garchomp        |    3 |  15.00% |  66.67% |
+| 15   | Mimikyu / Rotom-Wash         |    3 |  15.00% |  66.67% |
+| 15   | Rotom-Wash / Archaludon      |    3 |  15.00% |  66.67% |
+| 15   | Gyarados / Rotom-Wash        |    3 |  15.00% |  66.67% |
+| 15   | Gyarados / Mimikyu           |    3 |  15.00% |  66.67% |
+| 15   | Raichu / Charizard           |    3 |  15.00% |  66.67% |
+| 15   | Raichu / Orthworm            |    3 |  15.00% |  66.67% |
+| 15   | Samurott-Hisui / Raichu      |    3 |  15.00% |  66.67% |
+| 15   | Orthworm / Charizard         |    3 |  15.00% |  66.67% |
+| 15   | Mimikyu / Charizard          |    3 |  15.00% |  66.67% |
+| 15   | Samurott-Hisui / Charizard   |    3 |  15.00% |  66.67% |
+| 15   | Charizard / Garchomp         |    3 |  15.00% |  66.67% |
+| 15   | Mimikyu / Orthworm           |    3 |  15.00% |  66.67% |
+| 15   | Samurott-Hisui / Orthworm    |    3 |  15.00% |  66.67% |
+| 15   | Orthworm / Garchomp          |    3 |  15.00% |  66.67% |
+| 15   | Samurott-Hisui / Mimikyu     |    3 |  15.00% |  66.67% |
+| 15   | Samurott-Hisui / Garchomp    |    3 |  15.00% |  66.67% |
+| 15   | Corviknight / Raichu         |    3 |  15.00% |  33.33% |
+| 15   | Meowscarada / Raichu         |    3 |  15.00% |  33.33% |
+| 15   | Raichu / Delphox             |    3 |  15.00% |  33.33% |
+| 15   | Corviknight / Primarina      |    3 |  15.00% |  33.33% |
+| 15   | Corviknight / Meowscarada    |    3 |  15.00% |  33.33% |
+| 15   | Garchomp / Primarina         |    3 |  15.00% |  33.33% |
+| 15   | Meowscarada / Primarina      |    3 |  15.00% |  33.33% |
+| 15   | Meowscarada / Delphox        |    3 |  15.00% |  33.33% |
+| 15   | Sneasler / Delphox           |    3 |  15.00% |  33.33% |
+| 15   | Mimikyu / Delphox            |    3 |  15.00% |  33.33% |
+| 15   | Staraptor / Delphox          |    3 |  15.00% |  33.33% |
+| 15   | Sneasler / Archaludon        |    3 |  15.00% |  33.33% |
+| 15   | Sneasler / Garchomp          |    3 |  15.00% |  33.33% |
+| 15   | Mimikyu / Sneasler           |    3 |  15.00% |  33.33% |
+| 15   | Staraptor / Sneasler         |    3 |  15.00% |  33.33% |
+| 15   | Staraptor / Archaludon       |    3 |  15.00% |  33.33% |
+| 15   | Staraptor / Garchomp         |    3 |  15.00% |  33.33% |
+| 15   | Mimikyu / Staraptor          |    3 |  15.00% |  33.33% |
+| 55   | Mimikyu / Metagross          |    2 |  10.00% | 100.00% |
+| 55   | Hippowdon / Metagross        |    2 |  10.00% | 100.00% |
+| 55   | Raichu / Metagross           |    2 |  10.00% | 100.00% |
+| 55   | Metagross / Primarina        |    2 |  10.00% | 100.00% |
+| 55   | Hydreigon / Metagross        |    2 |  10.00% | 100.00% |
+| 55   | Mimikyu / Hippowdon          |    2 |  10.00% | 100.00% |
+| 55   | Mimikyu / Primarina          |    2 |  10.00% | 100.00% |
+| 55   | Mimikyu / Hydreigon          |    2 |  10.00% | 100.00% |
+| 55   | Raichu / Hippowdon           |    2 |  10.00% | 100.00% |
+| 55   | Hippowdon / Primarina        |    2 |  10.00% | 100.00% |
+| 55   | Hippowdon / Hydreigon        |    2 |  10.00% | 100.00% |
+| 55   | Raichu / Hydreigon           |    2 |  10.00% | 100.00% |
+| 55   | Hydreigon / Primarina        |    2 |  10.00% | 100.00% |
+| 55   | Gyarados / Volcarona         |    2 |  10.00% | 100.00% |
+| 55   | Gyarados / Meowscarada       |    2 |  10.00% | 100.00% |
+| 55   | Gyarados / Milotic           |    2 |  10.00% | 100.00% |
+| 55   | Volcarona / Garchomp         |    2 |  10.00% | 100.00% |
+| 55   | Meowscarada / Volcarona      |    2 |  10.00% | 100.00% |
+| 55   | Volcarona / Archaludon       |    2 |  10.00% | 100.00% |
+| 55   | Milotic / Volcarona          |    2 |  10.00% | 100.00% |
+| 55   | Milotic / Garchomp           |    2 |  10.00% | 100.00% |
+| 55   | Meowscarada / Archaludon     |    2 |  10.00% | 100.00% |
+| 55   | Meowscarada / Milotic        |    2 |  10.00% | 100.00% |
+| 55   | Milotic / Archaludon         |    2 |  10.00% | 100.00% |
+| 55   | Kingambit / Delphox          |    2 |  10.00% |   0.00% |
+| 55   | Lopunny / Delphox            |    2 |  10.00% |   0.00% |
+| 55   | Basculegion / Delphox        |    2 |  10.00% |   0.00% |
+| 55   | Archaludon / Primarina       |    2 |  10.00% |   0.00% |
+| 55   | Kingambit / Primarina        |    2 |  10.00% |   0.00% |
+| 55   | Lopunny / Primarina          |    2 |  10.00% |   0.00% |
+| 55   | Basculegion / Primarina      |    2 |  10.00% |   0.00% |
+| 55   | Kingambit / Archaludon       |    2 |  10.00% |   0.00% |
+| 55   | Lopunny / Archaludon         |    2 |  10.00% |   0.00% |
+| 55   | Basculegion / Archaludon     |    2 |  10.00% |   0.00% |
+| 55   | Lopunny / Kingambit          |    2 |  10.00% |   0.00% |
+| 55   | Kingambit / Basculegion      |    2 |  10.00% |   0.00% |
+| 55   | Lopunny / Basculegion        |    2 |  10.00% |   0.00% |
+| 55   | Swampert / Mawile            |    2 |  10.00% |   0.00% |
+| 55   | Corviknight / Mawile         |    2 |  10.00% |   0.00% |
+| 55   | Gyarados / Mawile            |    2 |  10.00% |   0.00% |
+| 55   | Mawile / Garchomp            |    2 |  10.00% |   0.00% |
+| 55   | Mawile / Delphox             |    2 |  10.00% |   0.00% |
+| 55   | Corviknight / Swampert       |    2 |  10.00% |   0.00% |
+| 55   | Gyarados / Swampert          |    2 |  10.00% |   0.00% |
+| 55   | Swampert / Garchomp          |    2 |  10.00% |   0.00% |
+| 55   | Swampert / Delphox           |    2 |  10.00% |   0.00% |
+| 55   | Corviknight / Gyarados       |    2 |  10.00% |   0.00% |
+| 55   | Gyarados / Delphox           |    2 |  10.00% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Mimikyu / Garchomp / Archaludon           |    6 |  30.00% |  50.00% |
+| 2    | Gyarados / Garchomp / Archaludon          |    5 |  25.00% |  80.00% |
+| 2    | Corviknight / Garchomp / Delphox          |    5 |  25.00% |  20.00% |
+| 4    | Rotom-Wash / Floette-Eternal / Garchomp   |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Floette-Eternal / Garchomp      |    3 |  15.00% |  66.67% |
+| 4    | Floette-Eternal / Garchomp / Archaludon   |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Floette-Eternal / Garchomp     |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Floette-Eternal / Rotom-Wash    |    3 |  15.00% |  66.67% |
+| 4    | Floette-Eternal / Rotom-Wash / Archaludon |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Floette-Eternal / Rotom-Wash   |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Floette-Eternal / Archaludon    |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Mimikyu / Floette-Eternal      |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Floette-Eternal / Archaludon   |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Rotom-Wash / Garchomp           |    3 |  15.00% |  66.67% |
+| 4    | Rotom-Wash / Garchomp / Archaludon        |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Rotom-Wash / Garchomp          |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Mimikyu / Garchomp             |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Rotom-Wash / Archaludon         |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Mimikyu / Rotom-Wash           |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Rotom-Wash / Archaludon        |    3 |  15.00% |  66.67% |
+| 4    | Gyarados / Mimikyu / Archaludon           |    3 |  15.00% |  66.67% |
+| 4    | Raichu / Orthworm / Charizard             |    3 |  15.00% |  66.67% |
+| 4    | Raichu / Mimikyu / Charizard              |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Raichu / Charizard       |    3 |  15.00% |  66.67% |
+| 4    | Raichu / Charizard / Garchomp             |    3 |  15.00% |  66.67% |
+| 4    | Raichu / Orthworm / Mimikyu               |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Raichu / Orthworm        |    3 |  15.00% |  66.67% |
+| 4    | Raichu / Orthworm / Garchomp              |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Raichu / Mimikyu         |    3 |  15.00% |  66.67% |
+| 4    | Raichu / Mimikyu / Garchomp               |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Raichu / Garchomp        |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Orthworm / Charizard            |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Orthworm / Charizard     |    3 |  15.00% |  66.67% |
+| 4    | Orthworm / Charizard / Garchomp           |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Mimikyu / Charizard      |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Charizard / Garchomp            |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Charizard / Garchomp     |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Mimikyu / Orthworm       |    3 |  15.00% |  66.67% |
+| 4    | Mimikyu / Orthworm / Garchomp             |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Orthworm / Garchomp      |    3 |  15.00% |  66.67% |
+| 4    | Samurott-Hisui / Mimikyu / Garchomp       |    3 |  15.00% |  66.67% |
+| 4    | Corviknight / Raichu / Garchomp           |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Raichu / Primarina          |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Raichu / Meowscarada        |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Raichu / Delphox            |    3 |  15.00% |  33.33% |
+| 4    | Raichu / Garchomp / Primarina             |    3 |  15.00% |  33.33% |
+| 4    | Meowscarada / Raichu / Garchomp           |    3 |  15.00% |  33.33% |
+| 4    | Raichu / Garchomp / Delphox               |    3 |  15.00% |  33.33% |
+| 4    | Meowscarada / Raichu / Primarina          |    3 |  15.00% |  33.33% |
+| 4    | Raichu / Delphox / Primarina              |    3 |  15.00% |  33.33% |
+| 4    | Meowscarada / Raichu / Delphox            |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Garchomp / Primarina        |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Garchomp / Meowscarada      |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Meowscarada / Primarina     |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Delphox / Primarina         |    3 |  15.00% |  33.33% |
+| 4    | Corviknight / Delphox / Meowscarada       |    3 |  15.00% |  33.33% |
+| 4    | Meowscarada / Garchomp / Primarina        |    3 |  15.00% |  33.33% |
+| 4    | Garchomp / Delphox / Primarina            |    3 |  15.00% |  33.33% |
+| 4    | Meowscarada / Garchomp / Delphox          |    3 |  15.00% |  33.33% |
+| 4    | Meowscarada / Delphox / Primarina         |    3 |  15.00% |  33.33% |
+| 4    | Sneasler / Delphox / Archaludon           |    3 |  15.00% |  33.33% |
+| 4    | Sneasler / Garchomp / Delphox             |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Sneasler / Delphox              |    3 |  15.00% |  33.33% |
+| 4    | Staraptor / Sneasler / Delphox            |    3 |  15.00% |  33.33% |
+| 4    | Garchomp / Delphox / Archaludon           |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Delphox / Archaludon            |    3 |  15.00% |  33.33% |
+| 4    | Staraptor / Delphox / Archaludon          |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Garchomp / Delphox              |    3 |  15.00% |  33.33% |
+| 4    | Staraptor / Garchomp / Delphox            |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Staraptor / Delphox             |    3 |  15.00% |  33.33% |
+| 4    | Sneasler / Garchomp / Archaludon          |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Sneasler / Archaludon           |    3 |  15.00% |  33.33% |
+| 4    | Staraptor / Sneasler / Archaludon         |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Sneasler / Garchomp             |    3 |  15.00% |  33.33% |
+| 4    | Staraptor / Sneasler / Garchomp           |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Sneasler / Staraptor            |    3 |  15.00% |  33.33% |
+| 4    | Staraptor / Garchomp / Archaludon         |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Staraptor / Archaludon          |    3 |  15.00% |  33.33% |
+| 4    | Mimikyu / Staraptor / Garchomp            |    3 |  15.00% |  33.33% |
+| 80   | Mimikyu / Hippowdon / Metagross           |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Mimikyu / Metagross              |    2 |  10.00% | 100.00% |
+| 80   | Mimikyu / Metagross / Primarina           |    2 |  10.00% | 100.00% |
+| 80   | Mimikyu / Hydreigon / Metagross           |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Hippowdon / Metagross            |    2 |  10.00% | 100.00% |
+| 80   | Hippowdon / Metagross / Primarina         |    2 |  10.00% | 100.00% |
+| 80   | Hippowdon / Hydreigon / Metagross         |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Metagross / Primarina            |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Hydreigon / Metagross            |    2 |  10.00% | 100.00% |
+| 80   | Hydreigon / Metagross / Primarina         |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Mimikyu / Hippowdon              |    2 |  10.00% | 100.00% |
+| 80   | Mimikyu / Hippowdon / Primarina           |    2 |  10.00% | 100.00% |
+| 80   | Mimikyu / Hippowdon / Hydreigon           |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Mimikyu / Primarina              |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Mimikyu / Hydreigon              |    2 |  10.00% | 100.00% |
+| 80   | Mimikyu / Hydreigon / Primarina           |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Hippowdon / Primarina            |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Hippowdon / Hydreigon            |    2 |  10.00% | 100.00% |
+| 80   | Hippowdon / Hydreigon / Primarina         |    2 |  10.00% | 100.00% |
+| 80   | Raichu / Hydreigon / Primarina            |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Volcarona / Garchomp           |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Volcarona / Meowscarada        |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Volcarona / Archaludon         |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Milotic / Volcarona            |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Garchomp / Meowscarada         |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Milotic / Garchomp             |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Archaludon / Meowscarada       |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Milotic / Meowscarada          |    2 |  10.00% | 100.00% |
+| 80   | Gyarados / Milotic / Archaludon           |    2 |  10.00% | 100.00% |
+| 80   | Meowscarada / Volcarona / Garchomp        |    2 |  10.00% | 100.00% |
+| 80   | Volcarona / Garchomp / Archaludon         |    2 |  10.00% | 100.00% |
+| 80   | Milotic / Volcarona / Garchomp            |    2 |  10.00% | 100.00% |
+| 80   | Meowscarada / Volcarona / Archaludon      |    2 |  10.00% | 100.00% |
+| 80   | Meowscarada / Milotic / Volcarona         |    2 |  10.00% | 100.00% |
+| 80   | Milotic / Volcarona / Archaludon          |    2 |  10.00% | 100.00% |
+| 80   | Meowscarada / Garchomp / Archaludon       |    2 |  10.00% | 100.00% |
+| 80   | Meowscarada / Milotic / Garchomp          |    2 |  10.00% | 100.00% |
+| 80   | Milotic / Garchomp / Archaludon           |    2 |  10.00% | 100.00% |
+| 80   | Meowscarada / Milotic / Archaludon        |    2 |  10.00% | 100.00% |
+| 80   | Archaludon / Delphox / Primarina          |    2 |  10.00% |   0.00% |
+| 80   | Kingambit / Delphox / Primarina           |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Delphox / Primarina             |    2 |  10.00% |   0.00% |
+| 80   | Basculegion / Delphox / Primarina         |    2 |  10.00% |   0.00% |
+| 80   | Kingambit / Delphox / Archaludon          |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Delphox / Archaludon            |    2 |  10.00% |   0.00% |
+| 80   | Basculegion / Delphox / Archaludon        |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Kingambit / Delphox             |    2 |  10.00% |   0.00% |
+| 80   | Kingambit / Basculegion / Delphox         |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Basculegion / Delphox           |    2 |  10.00% |   0.00% |
+| 80   | Kingambit / Archaludon / Primarina        |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Archaludon / Primarina          |    2 |  10.00% |   0.00% |
+| 80   | Basculegion / Archaludon / Primarina      |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Kingambit / Primarina           |    2 |  10.00% |   0.00% |
+| 80   | Kingambit / Basculegion / Primarina       |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Basculegion / Primarina         |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Kingambit / Archaludon          |    2 |  10.00% |   0.00% |
+| 80   | Kingambit / Basculegion / Archaludon      |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Basculegion / Archaludon        |    2 |  10.00% |   0.00% |
+| 80   | Lopunny / Kingambit / Basculegion         |    2 |  10.00% |   0.00% |
+| 80   | Swampert / Mawile / Corviknight           |    2 |  10.00% |   0.00% |
+| 80   | Swampert / Mawile / Gyarados              |    2 |  10.00% |   0.00% |
+| 80   | Swampert / Mawile / Garchomp              |    2 |  10.00% |   0.00% |
+| 80   | Swampert / Mawile / Delphox               |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Mawile / Gyarados           |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Mawile / Garchomp           |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Mawile / Delphox            |    2 |  10.00% |   0.00% |
+| 80   | Gyarados / Mawile / Garchomp              |    2 |  10.00% |   0.00% |
+| 80   | Gyarados / Mawile / Delphox               |    2 |  10.00% |   0.00% |
+| 80   | Mawile / Garchomp / Delphox               |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Swampert / Gyarados         |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Swampert / Garchomp         |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Swampert / Delphox          |    2 |  10.00% |   0.00% |
+| 80   | Gyarados / Swampert / Garchomp            |    2 |  10.00% |   0.00% |
+| 80   | Gyarados / Swampert / Delphox             |    2 |  10.00% |   0.00% |
+| 80   | Swampert / Garchomp / Delphox             |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Garchomp / Gyarados         |    2 |  10.00% |   0.00% |
+| 80   | Corviknight / Gyarados / Delphox          |    2 |  10.00% |   0.00% |
+| 80   | Gyarados / Garchomp / Delphox             |    2 |  10.00% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Mimikyu / Rotom-Wash / Floette-Eternal / Garchomp    |    3 |  15.00% |  66.67% |
+| 1    | Rotom-Wash / Floette-Eternal / Garchomp / Archaludon |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Rotom-Wash / Floette-Eternal / Garchomp   |    3 |  15.00% |  66.67% |
+| 1    | Mimikyu / Floette-Eternal / Garchomp / Archaludon    |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Mimikyu / Floette-Eternal / Garchomp      |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Floette-Eternal / Garchomp / Archaludon   |    3 |  15.00% |  66.67% |
+| 1    | Mimikyu / Floette-Eternal / Rotom-Wash / Archaludon  |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Mimikyu / Floette-Eternal / Rotom-Wash    |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Floette-Eternal / Rotom-Wash / Archaludon |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Mimikyu / Floette-Eternal / Archaludon    |    3 |  15.00% |  66.67% |
+| 1    | Mimikyu / Rotom-Wash / Garchomp / Archaludon         |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Mimikyu / Rotom-Wash / Garchomp           |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Rotom-Wash / Garchomp / Archaludon        |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Mimikyu / Garchomp / Archaludon           |    3 |  15.00% |  66.67% |
+| 1    | Gyarados / Mimikyu / Rotom-Wash / Archaludon         |    3 |  15.00% |  66.67% |
+| 1    | Raichu / Orthworm / Charizard / Mimikyu              |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Raichu / Orthworm / Charizard       |    3 |  15.00% |  66.67% |
+| 1    | Raichu / Orthworm / Charizard / Garchomp             |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Raichu / Mimikyu / Charizard        |    3 |  15.00% |  66.67% |
+| 1    | Raichu / Mimikyu / Charizard / Garchomp              |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Raichu / Charizard / Garchomp       |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Raichu / Orthworm / Mimikyu         |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Raichu / Orthworm / Mimikyu               |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Raichu / Orthworm / Garchomp        |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Raichu / Mimikyu / Garchomp         |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Mimikyu / Orthworm / Charizard      |    3 |  15.00% |  66.67% |
+| 1    | Mimikyu / Orthworm / Charizard / Garchomp            |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Orthworm / Charizard / Garchomp     |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Mimikyu / Charizard / Garchomp      |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Mimikyu / Orthworm / Garchomp       |    3 |  15.00% |  66.67% |
+| 1    | Corviknight / Raichu / Garchomp / Primarina          |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Raichu / Garchomp / Meowscarada        |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Raichu / Garchomp / Delphox            |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Raichu / Meowscarada / Primarina       |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Raichu / Delphox / Primarina           |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Raichu / Delphox / Meowscarada         |    3 |  15.00% |  33.33% |
+| 1    | Meowscarada / Raichu / Garchomp / Primarina          |    3 |  15.00% |  33.33% |
+| 1    | Raichu / Garchomp / Delphox / Primarina              |    3 |  15.00% |  33.33% |
+| 1    | Meowscarada / Raichu / Garchomp / Delphox            |    3 |  15.00% |  33.33% |
+| 1    | Meowscarada / Raichu / Delphox / Primarina           |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Meowscarada / Garchomp / Primarina     |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Garchomp / Delphox / Primarina         |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Garchomp / Delphox / Meowscarada       |    3 |  15.00% |  33.33% |
+| 1    | Corviknight / Meowscarada / Delphox / Primarina      |    3 |  15.00% |  33.33% |
+| 1    | Meowscarada / Garchomp / Delphox / Primarina         |    3 |  15.00% |  33.33% |
+| 1    | Sneasler / Garchomp / Delphox / Archaludon           |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Sneasler / Delphox / Archaludon            |    3 |  15.00% |  33.33% |
+| 1    | Staraptor / Sneasler / Delphox / Archaludon          |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Sneasler / Garchomp / Delphox              |    3 |  15.00% |  33.33% |
+| 1    | Staraptor / Sneasler / Garchomp / Delphox            |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Sneasler / Staraptor / Delphox             |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Garchomp / Delphox / Archaludon            |    3 |  15.00% |  33.33% |
+| 1    | Staraptor / Garchomp / Delphox / Archaludon          |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Staraptor / Delphox / Archaludon           |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Staraptor / Garchomp / Delphox             |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Sneasler / Garchomp / Archaludon           |    3 |  15.00% |  33.33% |
+| 1    | Staraptor / Sneasler / Garchomp / Archaludon         |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Sneasler / Staraptor / Archaludon          |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Sneasler / Staraptor / Garchomp            |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Staraptor / Garchomp / Archaludon          |    3 |  15.00% |  33.33% |
+| 61   | Raichu / Mimikyu / Hippowdon / Metagross             |    2 |  10.00% | 100.00% |
+| 61   | Mimikyu / Hippowdon / Metagross / Primarina          |    2 |  10.00% | 100.00% |
+| 61   | Mimikyu / Hippowdon / Hydreigon / Metagross          |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Mimikyu / Metagross / Primarina             |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Mimikyu / Hydreigon / Metagross             |    2 |  10.00% | 100.00% |
+| 61   | Mimikyu / Hydreigon / Metagross / Primarina          |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Hippowdon / Metagross / Primarina           |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Hippowdon / Hydreigon / Metagross           |    2 |  10.00% | 100.00% |
+| 61   | Hippowdon / Hydreigon / Metagross / Primarina        |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Hydreigon / Metagross / Primarina           |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Mimikyu / Hippowdon / Primarina             |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Mimikyu / Hippowdon / Hydreigon             |    2 |  10.00% | 100.00% |
+| 61   | Mimikyu / Hippowdon / Hydreigon / Primarina          |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Mimikyu / Hydreigon / Primarina             |    2 |  10.00% | 100.00% |
+| 61   | Raichu / Hippowdon / Hydreigon / Primarina           |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Volcarona / Garchomp / Meowscarada        |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Volcarona / Garchomp / Archaludon         |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Milotic / Volcarona / Garchomp            |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Volcarona / Archaludon / Meowscarada      |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Milotic / Volcarona / Meowscarada         |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Milotic / Volcarona / Archaludon          |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Garchomp / Archaludon / Meowscarada       |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Milotic / Garchomp / Meowscarada          |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Milotic / Garchomp / Archaludon           |    2 |  10.00% | 100.00% |
+| 61   | Gyarados / Milotic / Archaludon / Meowscarada        |    2 |  10.00% | 100.00% |
+| 61   | Meowscarada / Volcarona / Garchomp / Archaludon      |    2 |  10.00% | 100.00% |
+| 61   | Meowscarada / Milotic / Volcarona / Garchomp         |    2 |  10.00% | 100.00% |
+| 61   | Milotic / Volcarona / Garchomp / Archaludon          |    2 |  10.00% | 100.00% |
+| 61   | Meowscarada / Milotic / Volcarona / Archaludon       |    2 |  10.00% | 100.00% |
+| 61   | Meowscarada / Milotic / Garchomp / Archaludon        |    2 |  10.00% | 100.00% |
+| 61   | Kingambit / Archaludon / Delphox / Primarina         |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Archaludon / Delphox / Primarina           |    2 |  10.00% |   0.00% |
+| 61   | Basculegion / Archaludon / Delphox / Primarina       |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Kingambit / Delphox / Primarina            |    2 |  10.00% |   0.00% |
+| 61   | Kingambit / Basculegion / Delphox / Primarina        |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Basculegion / Delphox / Primarina          |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Kingambit / Delphox / Archaludon           |    2 |  10.00% |   0.00% |
+| 61   | Kingambit / Basculegion / Delphox / Archaludon       |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Basculegion / Delphox / Archaludon         |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Kingambit / Basculegion / Delphox          |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Kingambit / Archaludon / Primarina         |    2 |  10.00% |   0.00% |
+| 61   | Kingambit / Basculegion / Archaludon / Primarina     |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Basculegion / Archaludon / Primarina       |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Kingambit / Basculegion / Primarina        |    2 |  10.00% |   0.00% |
+| 61   | Lopunny / Kingambit / Basculegion / Archaludon       |    2 |  10.00% |   0.00% |
+| 61   | Swampert / Gyarados / Mawile / Corviknight           |    2 |  10.00% |   0.00% |
+| 61   | Swampert / Garchomp / Mawile / Corviknight           |    2 |  10.00% |   0.00% |
+| 61   | Swampert / Mawile / Corviknight / Delphox            |    2 |  10.00% |   0.00% |
+| 61   | Swampert / Garchomp / Mawile / Gyarados              |    2 |  10.00% |   0.00% |
+| 61   | Swampert / Mawile / Gyarados / Delphox               |    2 |  10.00% |   0.00% |
+| 61   | Swampert / Mawile / Garchomp / Delphox               |    2 |  10.00% |   0.00% |
+| 61   | Corviknight / Garchomp / Mawile / Gyarados           |    2 |  10.00% |   0.00% |
+| 61   | Corviknight / Mawile / Gyarados / Delphox            |    2 |  10.00% |   0.00% |
+| 61   | Corviknight / Mawile / Garchomp / Delphox            |    2 |  10.00% |   0.00% |
+| 61   | Gyarados / Mawile / Garchomp / Delphox               |    2 |  10.00% |   0.00% |
+| 61   | Corviknight / Garchomp / Swampert / Gyarados         |    2 |  10.00% |   0.00% |
+| 61   | Corviknight / Swampert / Gyarados / Delphox          |    2 |  10.00% |   0.00% |
+| 61   | Corviknight / Swampert / Garchomp / Delphox          |    2 |  10.00% |   0.00% |
+| 61   | Gyarados / Swampert / Garchomp / Delphox             |    2 |  10.00% |   0.00% |
+| 61   | Corviknight / Garchomp / Gyarados / Delphox          |    2 |  10.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Rotom-Wash / Garchomp / Mimikyu / Archaludon / Floette-Eternal  |    3 |  15.00% |  66.67% |
+| 1    | Rotom-Wash / Garchomp / Mimikyu / Floette-Eternal / Gyarados    |    3 |  15.00% |  66.67% |
+| 1    | Rotom-Wash / Garchomp / Archaludon / Floette-Eternal / Gyarados |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Mimikyu / Archaludon / Floette-Eternal / Gyarados    |    3 |  15.00% |  66.67% |
+| 1    | Rotom-Wash / Mimikyu / Archaludon / Floette-Eternal / Gyarados  |    3 |  15.00% |  66.67% |
+| 1    | Rotom-Wash / Garchomp / Mimikyu / Archaludon / Gyarados         |    3 |  15.00% |  66.67% |
+| 1    | Samurott-Hisui / Orthworm / Mimikyu / Raichu / Charizard        |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Mimikyu / Orthworm / Raichu / Charizard              |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Samurott-Hisui / Orthworm / Raichu / Charizard       |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Samurott-Hisui / Mimikyu / Raichu / Charizard        |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Samurott-Hisui / Orthworm / Mimikyu / Raichu         |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Samurott-Hisui / Mimikyu / Orthworm / Charizard      |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Primarina / Corviknight / Raichu / Meowscarada       |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Primarina / Corviknight / Raichu / Delphox           |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Corviknight / Raichu / Delphox / Meowscarada         |    3 |  15.00% |  33.33% |
+| 1    | Primarina / Corviknight / Raichu / Delphox / Meowscarada        |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Primarina / Raichu / Delphox / Meowscarada           |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Primarina / Corviknight / Delphox / Meowscarada      |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Mimikyu / Archaludon / Delphox / Sneasler            |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Archaludon / Staraptor / Delphox / Sneasler          |    3 |  15.00% |  33.33% |
+| 1    | Mimikyu / Archaludon / Staraptor / Delphox / Sneasler           |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Mimikyu / Staraptor / Delphox / Sneasler             |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Mimikyu / Archaludon / Staraptor / Delphox           |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Mimikyu / Archaludon / Staraptor / Sneasler          |    3 |  15.00% |  33.33% |
+| 25   | Hippowdon / Mimikyu / Metagross / Primarina / Raichu            |    2 |  10.00% | 100.00% |
+| 25   | Hippowdon / Mimikyu / Metagross / Raichu / Hydreigon            |    2 |  10.00% | 100.00% |
+| 25   | Hippowdon / Mimikyu / Metagross / Primarina / Hydreigon         |    2 |  10.00% | 100.00% |
+| 25   | Mimikyu / Metagross / Primarina / Raichu / Hydreigon            |    2 |  10.00% | 100.00% |
+| 25   | Hippowdon / Metagross / Primarina / Raichu / Hydreigon          |    2 |  10.00% | 100.00% |
+| 25   | Hippowdon / Mimikyu / Primarina / Raichu / Hydreigon            |    2 |  10.00% | 100.00% |
+| 25   | Garchomp / Volcarona / Archaludon / Meowscarada / Gyarados      |    2 |  10.00% | 100.00% |
+| 25   | Garchomp / Milotic / Volcarona / Meowscarada / Gyarados         |    2 |  10.00% | 100.00% |
+| 25   | Garchomp / Milotic / Volcarona / Archaludon / Gyarados          |    2 |  10.00% | 100.00% |
+| 25   | Milotic / Volcarona / Archaludon / Meowscarada / Gyarados       |    2 |  10.00% | 100.00% |
+| 25   | Garchomp / Milotic / Archaludon / Meowscarada / Gyarados        |    2 |  10.00% | 100.00% |
+| 25   | Garchomp / Milotic / Volcarona / Archaludon / Meowscarada       |    2 |  10.00% | 100.00% |
+| 25   | Lopunny / Archaludon / Primarina / Kingambit / Delphox          |    2 |  10.00% |   0.00% |
+| 25   | Basculegion / Archaludon / Primarina / Kingambit / Delphox      |    2 |  10.00% |   0.00% |
+| 25   | Lopunny / Basculegion / Archaludon / Primarina / Delphox        |    2 |  10.00% |   0.00% |
+| 25   | Lopunny / Basculegion / Primarina / Kingambit / Delphox         |    2 |  10.00% |   0.00% |
+| 25   | Lopunny / Basculegion / Archaludon / Kingambit / Delphox        |    2 |  10.00% |   0.00% |
+| 25   | Lopunny / Basculegion / Archaludon / Primarina / Kingambit      |    2 |  10.00% |   0.00% |
+| 25   | Swampert / Garchomp / Corviknight / Mawile / Gyarados           |    2 |  10.00% |   0.00% |
+| 25   | Swampert / Corviknight / Mawile / Delphox / Gyarados            |    2 |  10.00% |   0.00% |
+| 25   | Swampert / Garchomp / Corviknight / Mawile / Delphox            |    2 |  10.00% |   0.00% |
+| 25   | Swampert / Garchomp / Mawile / Delphox / Gyarados               |    2 |  10.00% |   0.00% |
+| 25   | Garchomp / Corviknight / Mawile / Delphox / Gyarados            |    2 |  10.00% |   0.00% |
+| 25   | Swampert / Garchomp / Corviknight / Delphox / Gyarados          |    2 |  10.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                               | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Rotom-Wash / Garchomp / Mimikyu / Archaludon / Floette-Eternal / Gyarados |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Samurott-Hisui / Orthworm / Mimikyu / Raichu / Charizard       |    3 |  15.00% |  66.67% |
+| 1    | Garchomp / Primarina / Corviknight / Raichu / Delphox / Meowscarada       |    3 |  15.00% |  33.33% |
+| 1    | Garchomp / Mimikyu / Archaludon / Staraptor / Delphox / Sneasler          |    3 |  15.00% |  33.33% |
+| 5    | Hippowdon / Mimikyu / Metagross / Primarina / Raichu / Hydreigon          |    2 |  10.00% | 100.00% |
+| 5    | Garchomp / Milotic / Volcarona / Archaludon / Meowscarada / Gyarados      |    2 |  10.00% | 100.00% |
+| 5    | Lopunny / Archaludon / Primarina / Basculegion / Kingambit / Delphox      |    2 |  10.00% |   0.00% |
+| 5    | Swampert / Garchomp / Corviknight / Mawile / Delphox / Gyarados           |    2 |  10.00% |   0.00% |
