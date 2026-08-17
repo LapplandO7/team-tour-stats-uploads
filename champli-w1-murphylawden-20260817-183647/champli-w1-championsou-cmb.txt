@@ -1,0 +1,1097 @@
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 2                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------ + ---- + ------- + ------- +
+| 1    | Corviknight / Samurott-Hisui         |   15 |  62.50% |  66.67% |
+| 2    | Samurott-Hisui / Garchomp            |   13 |  54.17% |  61.54% |
+| 3    | Corviknight / Garchomp               |   12 |  50.00% |  75.00% |
+| 4    | Corviknight / Slowking-Galar         |   11 |  45.83% |  63.64% |
+| 4    | Samurott-Hisui / Slowking-Galar      |   11 |  45.83% |  54.55% |
+| 6    | Garchomp / Slowking-Galar            |    9 |  37.50% |  77.78% |
+| 7    | Corviknight / Hippowdon              |    6 |  25.00% |  33.33% |
+| 8    | Samurott-Hisui / Hippowdon           |    5 |  20.83% |  40.00% |
+| 9    | Samurott-Hisui / Hatterene           |    4 |  16.67% |   0.00% |
+| 10   | Corviknight / Floette-Eternal        |    3 |  12.50% | 100.00% |
+| 10   | Samurott-Hisui / Floette-Eternal     |    3 |  12.50% | 100.00% |
+| 10   | Floette-Eternal / Garchomp           |    3 |  12.50% | 100.00% |
+| 10   | Corviknight / Dragapult              |    3 |  12.50% |  66.67% |
+| 10   | Samurott-Hisui / Dragapult           |    3 |  12.50% |  66.67% |
+| 10   | Samurott-Hisui / Rotom-Wash          |    3 |  12.50% |  33.33% |
+| 10   | Garchomp / Rotom-Wash                |    3 |  12.50% |  33.33% |
+| 10   | Excadrill / Samurott-Hisui           |    3 |  12.50% |  33.33% |
+| 10   | Corviknight / Clefable               |    3 |  12.50% |  33.33% |
+| 10   | Corviknight / Mawile                 |    3 |  12.50% |  33.33% |
+| 10   | Samurott-Hisui / Mawile              |    3 |  12.50% |  33.33% |
+| 10   | Corviknight / Hatterene              |    3 |  12.50% |   0.00% |
+| 10   | Hatterene / Slowking-Galar           |    3 |  12.50% |   0.00% |
+| 10   | Hippowdon / Slowking-Galar           |    3 |  12.50% |   0.00% |
+| 24   | Corviknight / Skeledirge             |    2 |   8.33% | 100.00% |
+| 24   | Samurott-Hisui / Skeledirge          |    2 |   8.33% | 100.00% |
+| 24   | Floette-Eternal / Slowking-Galar     |    2 |   8.33% | 100.00% |
+| 24   | Raichu / Garchomp                    |    2 |   8.33% | 100.00% |
+| 24   | Samurott-Hisui / Raichu              |    2 |   8.33% | 100.00% |
+| 24   | Corviknight / Raichu                 |    2 |   8.33% | 100.00% |
+| 24   | Raichu / Slowking-Galar              |    2 |   8.33% | 100.00% |
+| 24   | Samurott-Hisui / Dragalge            |    2 |   8.33% | 100.00% |
+| 24   | Corviknight / Dragalge               |    2 |   8.33% | 100.00% |
+| 24   | Dragalge / Hippowdon                 |    2 |   8.33% | 100.00% |
+| 24   | Dragapult / Garchomp                 |    2 |   8.33% | 100.00% |
+| 24   | Samurott-Hisui / Ceruledge           |    2 |   8.33% |  50.00% |
+| 24   | Garchomp / Ceruledge                 |    2 |   8.33% |  50.00% |
+| 24   | Corviknight / Lopunny                |    2 |   8.33% |  50.00% |
+| 24   | Samurott-Hisui / Lopunny             |    2 |   8.33% |  50.00% |
+| 24   | Lopunny / Garchomp                   |    2 |   8.33% |  50.00% |
+| 24   | Lopunny / Slowking-Galar             |    2 |   8.33% |  50.00% |
+| 24   | Meganium / Slowking-Galar            |    2 |   8.33% |  50.00% |
+| 24   | Rotom-Wash / Slowking-Galar          |    2 |   8.33% |  50.00% |
+| 24   | Samurott-Hisui / Meganium            |    2 |   8.33% |  50.00% |
+| 24   | Garchomp / Meganium                  |    2 |   8.33% |  50.00% |
+| 24   | Pelipper / Archaludon                |    2 |   8.33% |  50.00% |
+| 24   | Pelipper / Scizor                    |    2 |   8.33% |  50.00% |
+| 24   | Scizor / Archaludon                  |    2 |   8.33% |  50.00% |
+| 24   | Clefable / Garchomp                  |    2 |   8.33% |  50.00% |
+| 24   | Excadrill / Corviknight              |    2 |   8.33% |  50.00% |
+| 24   | Excadrill / Hippowdon                |    2 |   8.33% |  50.00% |
+| 24   | Garchomp / Metagross                 |    2 |   8.33% |  50.00% |
+| 24   | Dragapult / Mawile                   |    2 |   8.33% |  50.00% |
+| 24   | Dragapult / Slowking-Galar           |    2 |   8.33% |  50.00% |
+| 24   | Meowscarada / Corviknight            |    2 |   8.33% |  50.00% |
+| 24   | Kingambit / Glimmora                 |    2 |   8.33% |   0.00% |
+| 24   | Hatterene / Garchomp                 |    2 |   8.33% |   0.00% |
+| 24   | Hippowdon / Mawile                   |    2 |   8.33% |   0.00% |
+| 24   | Hatterene / Hippowdon                |    2 |   8.33% |   0.00% |
+| 24   | Mawile / Slowking-Galar              |    2 |   8.33% |   0.00% |
+| 24   | Annihilape / Dragonite               |    2 |   8.33% |   0.00% |
+| 24   | Dragonite / Garchomp                 |    2 |   8.33% |   0.00% |
+| 24   | Samurott-Hisui / Dragonite           |    2 |   8.33% |   0.00% |
+| 24   | Corviknight / Delphox                |    2 |   8.33% |   0.00% |
+| 24   | Hippowdon / Delphox                  |    2 |   8.33% |   0.00% |
+| 65   | Skeledirge / Floette-Eternal         |    1 |   4.17% | 100.00% |
+| 65   | Sneasler / Floette-Eternal           |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Sneasler               |    1 |   4.17% | 100.00% |
+| 65   | Samurott-Hisui / Sneasler            |    1 |   4.17% | 100.00% |
+| 65   | Skeledirge / Garchomp                |    1 |   4.17% | 100.00% |
+| 65   | Sneasler / Skeledirge                |    1 |   4.17% | 100.00% |
+| 65   | Sneasler / Garchomp                  |    1 |   4.17% | 100.00% |
+| 65   | Lopunny / Vanilluxe                  |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Vanilluxe              |    1 |   4.17% | 100.00% |
+| 65   | Samurott-Hisui / Vanilluxe           |    1 |   4.17% | 100.00% |
+| 65   | Garchomp / Vanilluxe                 |    1 |   4.17% | 100.00% |
+| 65   | Slowking-Galar / Vanilluxe           |    1 |   4.17% | 100.00% |
+| 65   | Pelipper / Swampert                  |    1 |   4.17% | 100.00% |
+| 65   | Swampert / Archaludon                |    1 |   4.17% | 100.00% |
+| 65   | Swampert / Scizor                    |    1 |   4.17% | 100.00% |
+| 65   | Swampert / Rotom-Wash                |    1 |   4.17% | 100.00% |
+| 65   | Overqwil / Swampert                  |    1 |   4.17% | 100.00% |
+| 65   | Pelipper / Rotom-Wash                |    1 |   4.17% | 100.00% |
+| 65   | Pelipper / Overqwil                  |    1 |   4.17% | 100.00% |
+| 65   | Rotom-Wash / Archaludon              |    1 |   4.17% | 100.00% |
+| 65   | Overqwil / Archaludon                |    1 |   4.17% | 100.00% |
+| 65   | Rotom-Wash / Scizor                  |    1 |   4.17% | 100.00% |
+| 65   | Overqwil / Scizor                    |    1 |   4.17% | 100.00% |
+| 65   | Overqwil / Rotom-Wash                |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Meganium               |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Ceruledge              |    1 |   4.17% | 100.00% |
+| 65   | Ceruledge / Meganium                 |    1 |   4.17% | 100.00% |
+| 65   | Ceruledge / Slowking-Galar           |    1 |   4.17% | 100.00% |
+| 65   | Tauros-Paldea-Aqua / Floette-Eternal |    1 |   4.17% | 100.00% |
+| 65   | Tauros-Paldea-Aqua / Garchomp        |    1 |   4.17% | 100.00% |
+| 65   | Samurott-Hisui / Tauros-Paldea-Aqua  |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Tauros-Paldea-Aqua     |    1 |   4.17% | 100.00% |
+| 65   | Tauros-Paldea-Aqua / Slowking-Galar  |    1 |   4.17% | 100.00% |
+| 65   | Raichu / Clefable                    |    1 |   4.17% | 100.00% |
+| 65   | Samurott-Hisui / Clefable            |    1 |   4.17% | 100.00% |
+| 65   | Clefable / Slowking-Galar            |    1 |   4.17% | 100.00% |
+| 65   | Excadrill / Dragalge                 |    1 |   4.17% | 100.00% |
+| 65   | Dragalge / Houndstone                |    1 |   4.17% | 100.00% |
+| 65   | Excadrill / Houndstone               |    1 |   4.17% | 100.00% |
+| 65   | Samurott-Hisui / Houndstone          |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Houndstone             |    1 |   4.17% | 100.00% |
+| 65   | Houndstone / Hippowdon               |    1 |   4.17% | 100.00% |
+| 65   | Mawile / Garchomp                    |    1 |   4.17% | 100.00% |
+| 65   | Slowbro / Garchomp                   |    1 |   4.17% | 100.00% |
+| 65   | Slowbro / Mawile                     |    1 |   4.17% | 100.00% |
+| 65   | Slowbro / Dragapult                  |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Slowbro                |    1 |   4.17% | 100.00% |
+| 65   | Samurott-Hisui / Slowbro             |    1 |   4.17% | 100.00% |
+| 65   | Raichu / Dragapult                   |    1 |   4.17% | 100.00% |
+| 65   | Meowscarada / Metagross              |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Metagross              |    1 |   4.17% | 100.00% |
+| 65   | Metagross / Slowking-Galar           |    1 |   4.17% | 100.00% |
+| 65   | Metagross / Primarina                |    1 |   4.17% | 100.00% |
+| 65   | Meowscarada / Garchomp               |    1 |   4.17% | 100.00% |
+| 65   | Meowscarada / Slowking-Galar         |    1 |   4.17% | 100.00% |
+| 65   | Meowscarada / Primarina              |    1 |   4.17% | 100.00% |
+| 65   | Garchomp / Primarina                 |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Primarina              |    1 |   4.17% | 100.00% |
+| 65   | Primarina / Slowking-Galar           |    1 |   4.17% | 100.00% |
+| 65   | Dragalge / Skeledirge                |    1 |   4.17% | 100.00% |
+| 65   | Dragalge / Hydreigon                 |    1 |   4.17% | 100.00% |
+| 65   | Skeledirge / Hippowdon               |    1 |   4.17% | 100.00% |
+| 65   | Hippowdon / Hydreigon                |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Hydreigon              |    1 |   4.17% | 100.00% |
+| 65   | Skeledirge / Hydreigon               |    1 |   4.17% | 100.00% |
+| 65   | Samurott-Hisui / Hydreigon           |    1 |   4.17% | 100.00% |
+| 65   | Floette-Eternal / Rotom-Wash         |    1 |   4.17% | 100.00% |
+| 65   | Corviknight / Rotom-Wash             |    1 |   4.17% | 100.00% |
+| 65   | Glimmora / Ceruledge                 |    1 |   4.17% |   0.00% |
+| 65   | Rotom-Wash / Glimmora                |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Glimmora            |    1 |   4.17% |   0.00% |
+| 65   | Garchomp / Glimmora                  |    1 |   4.17% |   0.00% |
+| 65   | Rotom-Wash / Ceruledge               |    1 |   4.17% |   0.00% |
+| 65   | Kingambit / Ceruledge                |    1 |   4.17% |   0.00% |
+| 65   | Kingambit / Rotom-Wash               |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Kingambit           |    1 |   4.17% |   0.00% |
+| 65   | Kingambit / Garchomp                 |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Slowking-Galar           |    1 |   4.17% |   0.00% |
+| 65   | Rotom-Wash / Meganium                |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Meganium                 |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Rotom-Wash               |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Garchomp                 |    1 |   4.17% |   0.00% |
+| 65   | Hatterene / Lopunny                  |    1 |   4.17% |   0.00% |
+| 65   | Corviknight / Sableye                |    1 |   4.17% |   0.00% |
+| 65   | Clefable / Sableye                   |    1 |   4.17% |   0.00% |
+| 65   | Garchomp / Sableye                   |    1 |   4.17% |   0.00% |
+| 65   | Chesnaught / Sableye                 |    1 |   4.17% |   0.00% |
+| 65   | Volcarona / Sableye                  |    1 |   4.17% |   0.00% |
+| 65   | Corviknight / Chesnaught             |    1 |   4.17% |   0.00% |
+| 65   | Corviknight / Volcarona              |    1 |   4.17% |   0.00% |
+| 65   | Clefable / Chesnaught                |    1 |   4.17% |   0.00% |
+| 65   | Volcarona / Clefable                 |    1 |   4.17% |   0.00% |
+| 65   | Chesnaught / Garchomp                |    1 |   4.17% |   0.00% |
+| 65   | Volcarona / Garchomp                 |    1 |   4.17% |   0.00% |
+| 65   | Volcarona / Chesnaught               |    1 |   4.17% |   0.00% |
+| 65   | Hatterene / Mawile                   |    1 |   4.17% |   0.00% |
+| 65   | Annihilape / Glimmora                |    1 |   4.17% |   0.00% |
+| 65   | Annihilape / Araquanid               |    1 |   4.17% |   0.00% |
+| 65   | Raichu / Annihilape                  |    1 |   4.17% |   0.00% |
+| 65   | Annihilape / Kingambit               |    1 |   4.17% |   0.00% |
+| 65   | Glimmora / Araquanid                 |    1 |   4.17% |   0.00% |
+| 65   | Raichu / Glimmora                    |    1 |   4.17% |   0.00% |
+| 65   | Dragonite / Glimmora                 |    1 |   4.17% |   0.00% |
+| 65   | Raichu / Araquanid                   |    1 |   4.17% |   0.00% |
+| 65   | Kingambit / Araquanid                |    1 |   4.17% |   0.00% |
+| 65   | Dragonite / Araquanid                |    1 |   4.17% |   0.00% |
+| 65   | Raichu / Kingambit                   |    1 |   4.17% |   0.00% |
+| 65   | Raichu / Dragonite                   |    1 |   4.17% |   0.00% |
+| 65   | Dragonite / Kingambit                |    1 |   4.17% |   0.00% |
+| 65   | Annihilape / Garchomp                |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Annihilape          |    1 |   4.17% |   0.00% |
+| 65   | Annihilape / Hatterene               |    1 |   4.17% |   0.00% |
+| 65   | Annihilape / Metagross               |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Metagross           |    1 |   4.17% |   0.00% |
+| 65   | Dragonite / Hatterene                |    1 |   4.17% |   0.00% |
+| 65   | Dragonite / Metagross                |    1 |   4.17% |   0.00% |
+| 65   | Hatterene / Metagross                |    1 |   4.17% |   0.00% |
+| 65   | Delphox / Slowking-Galar             |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Delphox             |    1 |   4.17% |   0.00% |
+| 65   | Hatterene / Delphox                  |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Scizor              |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Scizor                   |    1 |   4.17% |   0.00% |
+| 65   | Scizor / Basculegion                 |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Pelipper            |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Archaludon          |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Basculegion         |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Pelipper                 |    1 |   4.17% |   0.00% |
+| 65   | Pelipper / Basculegion               |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Archaludon               |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Basculegion              |    1 |   4.17% |   0.00% |
+| 65   | Basculegion / Archaludon             |    1 |   4.17% |   0.00% |
+| 65   | Hippowdon / Dragapult                |    1 |   4.17% |   0.00% |
+| 65   | Clefable / Hippowdon                 |    1 |   4.17% |   0.00% |
+| 65   | Meowscarada / Hippowdon              |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Delphox                  |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Clefable                 |    1 |   4.17% |   0.00% |
+| 65   | Excadrill / Meowscarada              |    1 |   4.17% |   0.00% |
+| 65   | Clefable / Delphox                   |    1 |   4.17% |   0.00% |
+| 65   | Meowscarada / Delphox                |    1 |   4.17% |   0.00% |
+| 65   | Meowscarada / Clefable               |    1 |   4.17% |   0.00% |
+| 65   | Dragonite / Azumarill                |    1 |   4.17% |   0.00% |
+| 65   | Corviknight / Dragonite              |    1 |   4.17% |   0.00% |
+| 65   | Dragonite / Tinkaton                 |    1 |   4.17% |   0.00% |
+| 65   | Corviknight / Azumarill              |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Azumarill           |    1 |   4.17% |   0.00% |
+| 65   | Garchomp / Azumarill                 |    1 |   4.17% |   0.00% |
+| 65   | Tinkaton / Azumarill                 |    1 |   4.17% |   0.00% |
+| 65   | Corviknight / Tinkaton               |    1 |   4.17% |   0.00% |
+| 65   | Samurott-Hisui / Tinkaton            |    1 |   4.17% |   0.00% |
+| 65   | Tinkaton / Garchomp                  |    1 |   4.17% |   0.00% |
+
++ ---- + ----------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                           | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Corviknight / Samurott-Hisui / Garchomp               |   10 |  41.67% |  80.00% |
+| 1    | Corviknight / Samurott-Hisui / Slowking-Galar         |   10 |  41.67% |  60.00% |
+| 3    | Corviknight / Garchomp / Slowking-Galar               |    8 |  33.33% |  87.50% |
+| 3    | Samurott-Hisui / Garchomp / Slowking-Galar            |    8 |  33.33% |  75.00% |
+| 5    | Corviknight / Samurott-Hisui / Hippowdon              |    5 |  20.83% |  40.00% |
+| 6    | Corviknight / Samurott-Hisui / Floette-Eternal        |    3 |  12.50% | 100.00% |
+| 6    | Corviknight / Floette-Eternal / Garchomp              |    3 |  12.50% | 100.00% |
+| 6    | Samurott-Hisui / Floette-Eternal / Garchomp           |    3 |  12.50% | 100.00% |
+| 6    | Corviknight / Samurott-Hisui / Dragapult              |    3 |  12.50% |  66.67% |
+| 6    | Samurott-Hisui / Garchomp / Rotom-Wash                |    3 |  12.50% |  33.33% |
+| 6    | Corviknight / Samurott-Hisui / Mawile                 |    3 |  12.50% |  33.33% |
+| 6    | Corviknight / Samurott-Hisui / Hatterene              |    3 |  12.50% |   0.00% |
+| 6    | Samurott-Hisui / Hatterene / Slowking-Galar           |    3 |  12.50% |   0.00% |
+| 6    | Corviknight / Hatterene / Slowking-Galar              |    3 |  12.50% |   0.00% |
+| 6    | Corviknight / Hippowdon / Slowking-Galar              |    3 |  12.50% |   0.00% |
+| 6    | Samurott-Hisui / Hippowdon / Slowking-Galar           |    3 |  12.50% |   0.00% |
+| 17   | Corviknight / Samurott-Hisui / Skeledirge             |    2 |   8.33% | 100.00% |
+| 17   | Floette-Eternal / Garchomp / Slowking-Galar           |    2 |   8.33% | 100.00% |
+| 17   | Samurott-Hisui / Floette-Eternal / Slowking-Galar     |    2 |   8.33% | 100.00% |
+| 17   | Corviknight / Floette-Eternal / Slowking-Galar        |    2 |   8.33% | 100.00% |
+| 17   | Samurott-Hisui / Raichu / Garchomp                    |    2 |   8.33% | 100.00% |
+| 17   | Corviknight / Raichu / Garchomp                       |    2 |   8.33% | 100.00% |
+| 17   | Raichu / Garchomp / Slowking-Galar                    |    2 |   8.33% | 100.00% |
+| 17   | Samurott-Hisui / Raichu / Corviknight                 |    2 |   8.33% | 100.00% |
+| 17   | Samurott-Hisui / Raichu / Slowking-Galar              |    2 |   8.33% | 100.00% |
+| 17   | Corviknight / Raichu / Slowking-Galar                 |    2 |   8.33% | 100.00% |
+| 17   | Corviknight / Samurott-Hisui / Dragalge               |    2 |   8.33% | 100.00% |
+| 17   | Samurott-Hisui / Dragalge / Hippowdon                 |    2 |   8.33% | 100.00% |
+| 17   | Corviknight / Dragalge / Hippowdon                    |    2 |   8.33% | 100.00% |
+| 17   | Corviknight / Dragapult / Garchomp                    |    2 |   8.33% | 100.00% |
+| 17   | Samurott-Hisui / Dragapult / Garchomp                 |    2 |   8.33% | 100.00% |
+| 17   | Samurott-Hisui / Garchomp / Ceruledge                 |    2 |   8.33% |  50.00% |
+| 17   | Corviknight / Samurott-Hisui / Lopunny                |    2 |   8.33% |  50.00% |
+| 17   | Corviknight / Lopunny / Garchomp                      |    2 |   8.33% |  50.00% |
+| 17   | Corviknight / Lopunny / Slowking-Galar                |    2 |   8.33% |  50.00% |
+| 17   | Samurott-Hisui / Lopunny / Garchomp                   |    2 |   8.33% |  50.00% |
+| 17   | Samurott-Hisui / Lopunny / Slowking-Galar             |    2 |   8.33% |  50.00% |
+| 17   | Lopunny / Garchomp / Slowking-Galar                   |    2 |   8.33% |  50.00% |
+| 17   | Samurott-Hisui / Meganium / Slowking-Galar            |    2 |   8.33% |  50.00% |
+| 17   | Garchomp / Meganium / Slowking-Galar                  |    2 |   8.33% |  50.00% |
+| 17   | Samurott-Hisui / Rotom-Wash / Slowking-Galar          |    2 |   8.33% |  50.00% |
+| 17   | Garchomp / Rotom-Wash / Slowking-Galar                |    2 |   8.33% |  50.00% |
+| 17   | Samurott-Hisui / Garchomp / Meganium                  |    2 |   8.33% |  50.00% |
+| 17   | Pelipper / Scizor / Archaludon                        |    2 |   8.33% |  50.00% |
+| 17   | Corviknight / Clefable / Garchomp                     |    2 |   8.33% |  50.00% |
+| 17   | Excadrill / Hippowdon / Corviknight                   |    2 |   8.33% |  50.00% |
+| 17   | Dragapult / Mawile / Corviknight                      |    2 |   8.33% |  50.00% |
+| 17   | Dragapult / Samurott-Hisui / Mawile                   |    2 |   8.33% |  50.00% |
+| 17   | Corviknight / Dragapult / Slowking-Galar              |    2 |   8.33% |  50.00% |
+| 17   | Samurott-Hisui / Dragapult / Slowking-Galar           |    2 |   8.33% |  50.00% |
+| 17   | Samurott-Hisui / Hatterene / Garchomp                 |    2 |   8.33% |   0.00% |
+| 17   | Corviknight / Hippowdon / Mawile                      |    2 |   8.33% |   0.00% |
+| 17   | Corviknight / Hatterene / Hippowdon                   |    2 |   8.33% |   0.00% |
+| 17   | Corviknight / Mawile / Slowking-Galar                 |    2 |   8.33% |   0.00% |
+| 17   | Hippowdon / Mawile / Slowking-Galar                   |    2 |   8.33% |   0.00% |
+| 17   | Hatterene / Hippowdon / Slowking-Galar                |    2 |   8.33% |   0.00% |
+| 17   | Samurott-Hisui / Hippowdon / Mawile                   |    2 |   8.33% |   0.00% |
+| 17   | Samurott-Hisui / Hatterene / Hippowdon                |    2 |   8.33% |   0.00% |
+| 17   | Samurott-Hisui / Mawile / Slowking-Galar              |    2 |   8.33% |   0.00% |
+| 17   | Samurott-Hisui / Garchomp / Dragonite                 |    2 |   8.33% |   0.00% |
+| 17   | Corviknight / Hippowdon / Delphox                     |    2 |   8.33% |   0.00% |
+| 62   | Corviknight / Skeledirge / Floette-Eternal            |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Sneasler / Floette-Eternal              |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Skeledirge / Floette-Eternal         |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Sneasler / Floette-Eternal           |    1 |   4.17% | 100.00% |
+| 62   | Skeledirge / Floette-Eternal / Garchomp               |    1 |   4.17% | 100.00% |
+| 62   | Sneasler / Skeledirge / Floette-Eternal               |    1 |   4.17% | 100.00% |
+| 62   | Sneasler / Floette-Eternal / Garchomp                 |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Sneasler               |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Skeledirge / Garchomp                   |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Sneasler / Skeledirge                   |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Sneasler / Garchomp                     |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Skeledirge / Garchomp                |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Skeledirge / Sneasler                |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Sneasler / Garchomp                  |    1 |   4.17% | 100.00% |
+| 62   | Sneasler / Skeledirge / Garchomp                      |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Lopunny / Vanilluxe                     |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Lopunny / Vanilluxe                  |    1 |   4.17% | 100.00% |
+| 62   | Lopunny / Garchomp / Vanilluxe                        |    1 |   4.17% | 100.00% |
+| 62   | Lopunny / Slowking-Galar / Vanilluxe                  |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Vanilluxe              |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Garchomp / Vanilluxe                    |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Slowking-Galar / Vanilluxe              |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Garchomp / Vanilluxe                 |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Slowking-Galar / Vanilluxe           |    1 |   4.17% | 100.00% |
+| 62   | Garchomp / Slowking-Galar / Vanilluxe                 |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Swampert / Archaludon                      |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Swampert / Scizor                          |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Swampert / Rotom-Wash                      |    1 |   4.17% | 100.00% |
+| 62   | Overqwil / Pelipper / Swampert                        |    1 |   4.17% | 100.00% |
+| 62   | Swampert / Scizor / Archaludon                        |    1 |   4.17% | 100.00% |
+| 62   | Swampert / Rotom-Wash / Archaludon                    |    1 |   4.17% | 100.00% |
+| 62   | Overqwil / Swampert / Archaludon                      |    1 |   4.17% | 100.00% |
+| 62   | Rotom-Wash / Swampert / Scizor                        |    1 |   4.17% | 100.00% |
+| 62   | Overqwil / Swampert / Scizor                          |    1 |   4.17% | 100.00% |
+| 62   | Overqwil / Swampert / Rotom-Wash                      |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Rotom-Wash / Archaludon                    |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Overqwil / Archaludon                      |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Rotom-Wash / Scizor                        |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Overqwil / Scizor                          |    1 |   4.17% | 100.00% |
+| 62   | Pelipper / Overqwil / Rotom-Wash                      |    1 |   4.17% | 100.00% |
+| 62   | Rotom-Wash / Scizor / Archaludon                      |    1 |   4.17% | 100.00% |
+| 62   | Overqwil / Scizor / Archaludon                        |    1 |   4.17% | 100.00% |
+| 62   | Overqwil / Rotom-Wash / Archaludon                    |    1 |   4.17% | 100.00% |
+| 62   | Overqwil / Rotom-Wash / Scizor                        |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Garchomp / Meganium                     |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Garchomp / Ceruledge                    |    1 |   4.17% | 100.00% |
+| 62   | Garchomp / Meganium / Ceruledge                       |    1 |   4.17% | 100.00% |
+| 62   | Ceruledge / Garchomp / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Meganium               |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Ceruledge              |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Meganium / Slowking-Galar               |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Ceruledge / Meganium                    |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Ceruledge / Slowking-Galar              |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Ceruledge / Meganium                 |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Ceruledge / Slowking-Galar           |    1 |   4.17% | 100.00% |
+| 62   | Ceruledge / Meganium / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 62   | Tauros-Paldea-Aqua / Floette-Eternal / Garchomp       |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Tauros-Paldea-Aqua / Floette-Eternal |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Tauros-Paldea-Aqua / Floette-Eternal    |    1 |   4.17% | 100.00% |
+| 62   | Tauros-Paldea-Aqua / Floette-Eternal / Slowking-Galar |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Tauros-Paldea-Aqua / Garchomp        |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Tauros-Paldea-Aqua / Garchomp           |    1 |   4.17% | 100.00% |
+| 62   | Tauros-Paldea-Aqua / Garchomp / Slowking-Galar        |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Tauros-Paldea-Aqua / Corviknight     |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Tauros-Paldea-Aqua / Slowking-Galar  |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Tauros-Paldea-Aqua / Slowking-Galar     |    1 |   4.17% | 100.00% |
+| 62   | Raichu / Clefable / Garchomp                          |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Raichu / Clefable                    |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Raichu / Clefable                       |    1 |   4.17% | 100.00% |
+| 62   | Raichu / Clefable / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Clefable / Garchomp                  |    1 |   4.17% | 100.00% |
+| 62   | Clefable / Garchomp / Slowking-Galar                  |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Clefable               |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Clefable / Slowking-Galar            |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Clefable / Slowking-Galar               |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Samurott-Hisui / Dragalge                 |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Dragalge / Corviknight                    |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Dragalge / Hippowdon                      |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Dragalge / Houndstone                     |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Dragalge / Houndstone                |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Dragalge / Houndstone                   |    1 |   4.17% | 100.00% |
+| 62   | Dragalge / Hippowdon / Houndstone                     |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Samurott-Hisui / Corviknight              |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Samurott-Hisui / Hippowdon                |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Samurott-Hisui / Houndstone               |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Houndstone / Corviknight                  |    1 |   4.17% | 100.00% |
+| 62   | Excadrill / Houndstone / Hippowdon                    |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Houndstone             |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Houndstone / Hippowdon               |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Houndstone / Hippowdon                  |    1 |   4.17% | 100.00% |
+| 62   | Dragapult / Mawile / Garchomp                         |    1 |   4.17% | 100.00% |
+| 62   | Slowbro / Mawile / Garchomp                           |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Mawile / Garchomp                       |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Mawile / Garchomp                    |    1 |   4.17% | 100.00% |
+| 62   | Slowbro / Dragapult / Garchomp                        |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Slowbro / Garchomp                      |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Slowbro / Garchomp                   |    1 |   4.17% | 100.00% |
+| 62   | Dragapult / Slowbro / Mawile                          |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Slowbro / Mawile                        |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Slowbro / Mawile                     |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Slowbro / Dragapult                     |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Slowbro / Dragapult                  |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Slowbro                |    1 |   4.17% | 100.00% |
+| 62   | Raichu / Dragapult / Garchomp                         |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Raichu / Dragapult                      |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Raichu / Dragapult                   |    1 |   4.17% | 100.00% |
+| 62   | Raichu / Dragapult / Slowking-Galar                   |    1 |   4.17% | 100.00% |
+| 62   | Dragapult / Garchomp / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Garchomp / Metagross                    |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Corviknight / Metagross                 |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Metagross / Slowking-Galar              |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Metagross / Primarina                   |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Garchomp / Metagross                    |    1 |   4.17% | 100.00% |
+| 62   | Garchomp / Metagross / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 62   | Garchomp / Metagross / Primarina                      |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Metagross / Slowking-Galar              |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Metagross / Primarina                   |    1 |   4.17% | 100.00% |
+| 62   | Primarina / Metagross / Slowking-Galar                |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Corviknight / Garchomp                  |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Garchomp / Slowking-Galar               |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Garchomp / Primarina                    |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Corviknight / Slowking-Galar            |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Corviknight / Primarina                 |    1 |   4.17% | 100.00% |
+| 62   | Meowscarada / Primarina / Slowking-Galar              |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Garchomp / Primarina                    |    1 |   4.17% | 100.00% |
+| 62   | Primarina / Garchomp / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Primarina / Slowking-Galar              |    1 |   4.17% | 100.00% |
+| 62   | Dragalge / Hippowdon / Skeledirge                     |    1 |   4.17% | 100.00% |
+| 62   | Dragalge / Hippowdon / Hydreigon                      |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Dragalge / Skeledirge                   |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Dragalge / Hydreigon                    |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Dragalge / Skeledirge                |    1 |   4.17% | 100.00% |
+| 62   | Dragalge / Hydreigon / Skeledirge                     |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Dragalge / Hydreigon                 |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Skeledirge / Hippowdon                  |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Hippowdon / Hydreigon                   |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Skeledirge / Hippowdon               |    1 |   4.17% | 100.00% |
+| 62   | Skeledirge / Hippowdon / Hydreigon                    |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Hippowdon / Hydreigon                |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Skeledirge / Hydreigon                  |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Hydreigon              |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Skeledirge / Hydreigon               |    1 |   4.17% | 100.00% |
+| 62   | Samurott-Hisui / Floette-Eternal / Rotom-Wash         |    1 |   4.17% | 100.00% |
+| 62   | Floette-Eternal / Rotom-Wash / Slowking-Galar         |    1 |   4.17% | 100.00% |
+| 62   | Garchomp / Floette-Eternal / Rotom-Wash               |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Floette-Eternal / Rotom-Wash            |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Samurott-Hisui / Rotom-Wash             |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Rotom-Wash / Slowking-Galar             |    1 |   4.17% | 100.00% |
+| 62   | Corviknight / Garchomp / Rotom-Wash                   |    1 |   4.17% | 100.00% |
+| 62   | Rotom-Wash / Glimmora / Ceruledge                     |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Glimmora / Ceruledge                 |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Glimmora / Ceruledge                       |    1 |   4.17% |   0.00% |
+| 62   | Kingambit / Glimmora / Ceruledge                      |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Rotom-Wash / Glimmora                |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Rotom-Wash / Glimmora                      |    1 |   4.17% |   0.00% |
+| 62   | Kingambit / Rotom-Wash / Glimmora                     |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Garchomp / Glimmora                  |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Kingambit / Glimmora                 |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Kingambit / Glimmora                       |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Rotom-Wash / Ceruledge               |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Rotom-Wash / Ceruledge                     |    1 |   4.17% |   0.00% |
+| 62   | Kingambit / Rotom-Wash / Ceruledge                    |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Kingambit / Ceruledge                |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Kingambit / Ceruledge                      |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Kingambit / Rotom-Wash               |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Kingambit / Rotom-Wash                     |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Kingambit / Garchomp                 |    1 |   4.17% |   0.00% |
+| 62   | Rotom-Wash / Meganium / Slowking-Galar                |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Meganium / Slowking-Galar                 |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Rotom-Wash / Slowking-Galar               |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Slowking-Galar           |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Garchomp / Slowking-Galar                 |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Rotom-Wash / Meganium                     |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Rotom-Wash / Meganium                |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Rotom-Wash / Meganium                      |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Meganium                 |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Garchomp / Meganium                       |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Rotom-Wash               |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Garchomp / Rotom-Wash                     |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Garchomp                 |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Lopunny / Garchomp                        |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Hatterene / Garchomp                    |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Garchomp / Slowking-Galar                 |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Hatterene / Lopunny                  |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Hatterene / Lopunny                     |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Lopunny / Slowking-Galar                  |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Clefable / Sableye                      |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Garchomp / Sableye                      |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Chesnaught / Sableye                    |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Volcarona / Sableye                     |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Clefable / Sableye                         |    1 |   4.17% |   0.00% |
+| 62   | Clefable / Chesnaught / Sableye                       |    1 |   4.17% |   0.00% |
+| 62   | Volcarona / Clefable / Sableye                        |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Chesnaught / Sableye                       |    1 |   4.17% |   0.00% |
+| 62   | Garchomp / Sableye / Volcarona                        |    1 |   4.17% |   0.00% |
+| 62   | Volcarona / Chesnaught / Sableye                      |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Clefable / Chesnaught                   |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Volcarona / Clefable                    |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Chesnaught / Garchomp                   |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Volcarona / Garchomp                    |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Volcarona / Chesnaught                  |    1 |   4.17% |   0.00% |
+| 62   | Clefable / Chesnaught / Garchomp                      |    1 |   4.17% |   0.00% |
+| 62   | Volcarona / Clefable / Garchomp                       |    1 |   4.17% |   0.00% |
+| 62   | Volcarona / Clefable / Chesnaught                     |    1 |   4.17% |   0.00% |
+| 62   | Volcarona / Chesnaught / Garchomp                     |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Hatterene / Mawile                      |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Hippowdon / Mawile                        |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Mawile / Slowking-Galar                   |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Hatterene / Mawile                   |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Glimmora / Araquanid                     |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Annihilape / Glimmora                        |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Kingambit / Glimmora                     |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Glimmora / Dragonite                     |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Annihilape / Araquanid                       |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Kingambit / Araquanid                    |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Araquanid / Dragonite                    |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Annihilape / Kingambit                       |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Annihilape / Dragonite                       |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Kingambit / Dragonite                    |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Glimmora / Araquanid                         |    1 |   4.17% |   0.00% |
+| 62   | Kingambit / Glimmora / Araquanid                      |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Glimmora / Araquanid                      |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Kingambit / Glimmora                         |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Glimmora / Dragonite                         |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Kingambit / Glimmora                      |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Kingambit / Araquanid                        |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Araquanid / Dragonite                        |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Kingambit / Araquanid                     |    1 |   4.17% |   0.00% |
+| 62   | Raichu / Kingambit / Dragonite                        |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Annihilape / Garchomp                |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Garchomp / Dragonite                     |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Hatterene / Garchomp                     |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Garchomp / Metagross                     |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Garchomp / Metagross                 |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Hatterene / Garchomp                      |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Garchomp / Metagross                      |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Garchomp / Metagross                      |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Annihilape / Dragonite               |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Annihilape / Hatterene               |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Annihilape / Metagross               |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Hatterene / Dragonite                    |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Metagross / Dragonite                    |    1 |   4.17% |   0.00% |
+| 62   | Annihilape / Hatterene / Metagross                    |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Hatterene / Dragonite                |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Metagross / Dragonite                |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Hatterene / Metagross                |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Hatterene / Metagross                     |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Delphox / Slowking-Galar                |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Samurott-Hisui / Delphox                |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Hatterene / Delphox                     |    1 |   4.17% |   0.00% |
+| 62   | Hippowdon / Delphox / Slowking-Galar                  |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Delphox / Slowking-Galar             |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Delphox / Slowking-Galar                  |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Hippowdon / Delphox                  |    1 |   4.17% |   0.00% |
+| 62   | Hatterene / Hippowdon / Delphox                       |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Hatterene / Delphox                  |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Pelipper / Scizor                    |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Scizor                   |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Scizor / Archaludon                  |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Scizor / Basculegion                 |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Pelipper / Scizor                         |    1 |   4.17% |   0.00% |
+| 62   | Pelipper / Scizor / Basculegion                       |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Scizor / Archaludon                       |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Scizor / Basculegion                      |    1 |   4.17% |   0.00% |
+| 62   | Basculegion / Scizor / Archaludon                     |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Pelipper                 |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Pelipper / Archaludon                |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Pelipper / Basculegion               |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Archaludon               |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Samurott-Hisui / Basculegion              |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Basculegion / Archaludon             |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Pelipper / Archaludon                     |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Pelipper / Basculegion                    |    1 |   4.17% |   0.00% |
+| 62   | Pelipper / Basculegion / Archaludon                   |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Basculegion / Archaludon                  |    1 |   4.17% |   0.00% |
+| 62   | Dragapult / Hippowdon / Mawile                        |    1 |   4.17% |   0.00% |
+| 62   | Dragapult / Mawile / Slowking-Galar                   |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Hippowdon / Dragapult                   |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Hippowdon / Dragapult                |    1 |   4.17% |   0.00% |
+| 62   | Hippowdon / Dragapult / Slowking-Galar                |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Hippowdon / Delphox                       |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Clefable / Hippowdon                      |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Hippowdon / Meowscarada                   |    1 |   4.17% |   0.00% |
+| 62   | Clefable / Hippowdon / Delphox                        |    1 |   4.17% |   0.00% |
+| 62   | Meowscarada / Hippowdon / Delphox                     |    1 |   4.17% |   0.00% |
+| 62   | Meowscarada / Clefable / Hippowdon                    |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Clefable / Hippowdon                    |    1 |   4.17% |   0.00% |
+| 62   | Meowscarada / Hippowdon / Corviknight                 |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Clefable / Delphox                        |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Delphox / Meowscarada                     |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Corviknight / Delphox                     |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Clefable / Meowscarada                    |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Clefable / Corviknight                    |    1 |   4.17% |   0.00% |
+| 62   | Excadrill / Corviknight / Meowscarada                 |    1 |   4.17% |   0.00% |
+| 62   | Meowscarada / Clefable / Delphox                      |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Clefable / Delphox                      |    1 |   4.17% |   0.00% |
+| 62   | Meowscarada / Corviknight / Delphox                   |    1 |   4.17% |   0.00% |
+| 62   | Meowscarada / Clefable / Corviknight                  |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Dragonite / Azumarill                   |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Dragonite / Azumarill                |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Garchomp / Azumarill                      |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Tinkaton / Azumarill                      |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Dragonite / Samurott-Hisui              |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Dragonite / Garchomp                    |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Dragonite / Tinkaton                    |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Dragonite / Tinkaton                 |    1 |   4.17% |   0.00% |
+| 62   | Dragonite / Tinkaton / Garchomp                       |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Samurott-Hisui / Azumarill              |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Garchomp / Azumarill                    |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Tinkaton / Azumarill                    |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Garchomp / Azumarill                 |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Tinkaton / Azumarill                 |    1 |   4.17% |   0.00% |
+| 62   | Tinkaton / Garchomp / Azumarill                       |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Samurott-Hisui / Tinkaton               |    1 |   4.17% |   0.00% |
+| 62   | Corviknight / Tinkaton / Garchomp                     |    1 |   4.17% |   0.00% |
+| 62   | Samurott-Hisui / Tinkaton / Garchomp                  |    1 |   4.17% |   0.00% |
+
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                            | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Corviknight / Samurott-Hisui / Garchomp / Slowking-Galar               |    7 |  29.17% |  85.71% |
+| 2    | Corviknight / Samurott-Hisui / Floette-Eternal / Garchomp              |    3 |  12.50% | 100.00% |
+| 2    | Corviknight / Samurott-Hisui / Hatterene / Slowking-Galar              |    3 |  12.50% |   0.00% |
+| 2    | Corviknight / Samurott-Hisui / Hippowdon / Slowking-Galar              |    3 |  12.50% |   0.00% |
+| 5    | Samurott-Hisui / Floette-Eternal / Garchomp / Slowking-Galar           |    2 |   8.33% | 100.00% |
+| 5    | Corviknight / Floette-Eternal / Garchomp / Slowking-Galar              |    2 |   8.33% | 100.00% |
+| 5    | Corviknight / Samurott-Hisui / Floette-Eternal / Slowking-Galar        |    2 |   8.33% | 100.00% |
+| 5    | Samurott-Hisui / Raichu / Garchomp / Corviknight                       |    2 |   8.33% | 100.00% |
+| 5    | Samurott-Hisui / Raichu / Garchomp / Slowking-Galar                    |    2 |   8.33% | 100.00% |
+| 5    | Corviknight / Raichu / Garchomp / Slowking-Galar                       |    2 |   8.33% | 100.00% |
+| 5    | Samurott-Hisui / Raichu / Corviknight / Slowking-Galar                 |    2 |   8.33% | 100.00% |
+| 5    | Corviknight / Samurott-Hisui / Dragalge / Hippowdon                    |    2 |   8.33% | 100.00% |
+| 5    | Corviknight / Samurott-Hisui / Dragapult / Garchomp                    |    2 |   8.33% | 100.00% |
+| 5    | Corviknight / Samurott-Hisui / Lopunny / Garchomp                      |    2 |   8.33% |  50.00% |
+| 5    | Corviknight / Samurott-Hisui / Lopunny / Slowking-Galar                |    2 |   8.33% |  50.00% |
+| 5    | Corviknight / Lopunny / Garchomp / Slowking-Galar                      |    2 |   8.33% |  50.00% |
+| 5    | Samurott-Hisui / Lopunny / Garchomp / Slowking-Galar                   |    2 |   8.33% |  50.00% |
+| 5    | Samurott-Hisui / Garchomp / Meganium / Slowking-Galar                  |    2 |   8.33% |  50.00% |
+| 5    | Samurott-Hisui / Garchomp / Rotom-Wash / Slowking-Galar                |    2 |   8.33% |  50.00% |
+| 5    | Dragapult / Samurott-Hisui / Mawile / Corviknight                      |    2 |   8.33% |  50.00% |
+| 5    | Corviknight / Samurott-Hisui / Dragapult / Slowking-Galar              |    2 |   8.33% |  50.00% |
+| 5    | Corviknight / Hippowdon / Mawile / Slowking-Galar                      |    2 |   8.33% |   0.00% |
+| 5    | Corviknight / Hatterene / Hippowdon / Slowking-Galar                   |    2 |   8.33% |   0.00% |
+| 5    | Corviknight / Samurott-Hisui / Hippowdon / Mawile                      |    2 |   8.33% |   0.00% |
+| 5    | Corviknight / Samurott-Hisui / Hatterene / Hippowdon                   |    2 |   8.33% |   0.00% |
+| 5    | Corviknight / Samurott-Hisui / Mawile / Slowking-Galar                 |    2 |   8.33% |   0.00% |
+| 5    | Samurott-Hisui / Hippowdon / Mawile / Slowking-Galar                   |    2 |   8.33% |   0.00% |
+| 5    | Samurott-Hisui / Hatterene / Hippowdon / Slowking-Galar                |    2 |   8.33% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Skeledirge / Floette-Eternal            |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Sneasler / Floette-Eternal              |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Skeledirge / Floette-Eternal / Garchomp                  |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Sneasler / Skeledirge / Floette-Eternal                  |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Sneasler / Floette-Eternal / Garchomp                    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Skeledirge / Floette-Eternal / Garchomp               |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Skeledirge / Floette-Eternal / Sneasler               |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Sneasler / Floette-Eternal / Garchomp                 |    1 |   4.17% | 100.00% |
+| 29   | Sneasler / Skeledirge / Floette-Eternal / Garchomp                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Skeledirge / Garchomp                   |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Skeledirge / Sneasler                   |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Sneasler / Garchomp                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Sneasler / Skeledirge / Garchomp                         |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Skeledirge / Garchomp / Sneasler                      |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Lopunny / Vanilluxe                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Lopunny / Garchomp / Vanilluxe                           |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Lopunny / Slowking-Galar / Vanilluxe                     |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Lopunny / Garchomp / Vanilluxe                        |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Lopunny / Slowking-Galar / Vanilluxe                  |    1 |   4.17% | 100.00% |
+| 29   | Lopunny / Garchomp / Slowking-Galar / Vanilluxe                        |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Garchomp / Vanilluxe                    |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Slowking-Galar / Vanilluxe              |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Garchomp / Slowking-Galar / Vanilluxe                    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Garchomp / Slowking-Galar / Vanilluxe                 |    1 |   4.17% | 100.00% |
+| 29   | Pelipper / Swampert / Scizor / Archaludon                              |    1 |   4.17% | 100.00% |
+| 29   | Pelipper / Swampert / Rotom-Wash / Archaludon                          |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Pelipper / Swampert / Archaludon                            |    1 |   4.17% | 100.00% |
+| 29   | Rotom-Wash / Pelipper / Swampert / Scizor                              |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Pelipper / Swampert / Scizor                                |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Pelipper / Swampert / Rotom-Wash                            |    1 |   4.17% | 100.00% |
+| 29   | Rotom-Wash / Swampert / Scizor / Archaludon                            |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Swampert / Scizor / Archaludon                              |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Swampert / Rotom-Wash / Archaludon                          |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Rotom-Wash / Swampert / Scizor                              |    1 |   4.17% | 100.00% |
+| 29   | Pelipper / Rotom-Wash / Scizor / Archaludon                            |    1 |   4.17% | 100.00% |
+| 29   | Pelipper / Overqwil / Scizor / Archaludon                              |    1 |   4.17% | 100.00% |
+| 29   | Pelipper / Overqwil / Rotom-Wash / Archaludon                          |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Pelipper / Rotom-Wash / Scizor                              |    1 |   4.17% | 100.00% |
+| 29   | Overqwil / Rotom-Wash / Scizor / Archaludon                            |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Garchomp / Meganium                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Garchomp / Ceruledge                    |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Garchomp / Meganium / Slowking-Galar                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Garchomp / Meganium / Ceruledge                          |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Ceruledge / Garchomp / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Garchomp / Meganium / Ceruledge                       |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Ceruledge / Garchomp / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 29   | Ceruledge / Garchomp / Meganium / Slowking-Galar                       |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Meganium / Slowking-Galar               |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Ceruledge / Meganium                    |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Ceruledge / Slowking-Galar              |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Ceruledge / Meganium / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Ceruledge / Meganium / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Tauros-Paldea-Aqua / Floette-Eternal / Garchomp       |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Tauros-Paldea-Aqua / Floette-Eternal / Garchomp          |    1 |   4.17% | 100.00% |
+| 29   | Tauros-Paldea-Aqua / Floette-Eternal / Garchomp / Slowking-Galar       |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Tauros-Paldea-Aqua / Floette-Eternal / Corviknight    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Tauros-Paldea-Aqua / Floette-Eternal / Slowking-Galar |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Tauros-Paldea-Aqua / Floette-Eternal / Slowking-Galar    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Tauros-Paldea-Aqua / Garchomp / Corviknight           |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Tauros-Paldea-Aqua / Garchomp / Slowking-Galar        |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Tauros-Paldea-Aqua / Garchomp / Slowking-Galar           |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Tauros-Paldea-Aqua / Corviknight / Slowking-Galar     |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Raichu / Clefable / Garchomp                          |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Raichu / Clefable / Garchomp                             |    1 |   4.17% | 100.00% |
+| 29   | Raichu / Clefable / Garchomp / Slowking-Galar                          |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Raichu / Clefable / Corviknight                       |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Raichu / Clefable / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Raichu / Clefable / Slowking-Galar                       |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Clefable / Garchomp                     |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Clefable / Garchomp / Slowking-Galar                  |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Clefable / Garchomp / Slowking-Galar                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Clefable / Slowking-Galar               |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Samurott-Hisui / Dragalge / Corviknight                    |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Samurott-Hisui / Dragalge / Hippowdon                      |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Samurott-Hisui / Dragalge / Houndstone                     |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Dragalge / Hippowdon / Corviknight                         |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Dragalge / Corviknight / Houndstone                        |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Dragalge / Hippowdon / Houndstone                          |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Dragalge / Houndstone                   |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Dragalge / Hippowdon / Houndstone                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Dragalge / Hippowdon / Houndstone                        |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Samurott-Hisui / Hippowdon / Corviknight                   |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Samurott-Hisui / Houndstone / Corviknight                  |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Samurott-Hisui / Houndstone / Hippowdon                    |    1 |   4.17% | 100.00% |
+| 29   | Excadrill / Houndstone / Hippowdon / Corviknight                       |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Houndstone / Hippowdon                  |    1 |   4.17% | 100.00% |
+| 29   | Dragapult / Slowbro / Mawile / Garchomp                                |    1 |   4.17% | 100.00% |
+| 29   | Dragapult / Corviknight / Mawile / Garchomp                            |    1 |   4.17% | 100.00% |
+| 29   | Dragapult / Samurott-Hisui / Mawile / Garchomp                         |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Slowbro / Mawile / Garchomp                              |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Slowbro / Mawile / Garchomp                           |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Mawile / Garchomp                       |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Slowbro / Dragapult / Garchomp                           |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Slowbro / Dragapult / Garchomp                        |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Slowbro / Garchomp                      |    1 |   4.17% | 100.00% |
+| 29   | Dragapult / Slowbro / Mawile / Corviknight                             |    1 |   4.17% | 100.00% |
+| 29   | Dragapult / Samurott-Hisui / Slowbro / Mawile                          |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Slowbro / Mawile                        |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Slowbro / Dragapult                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Raichu / Dragapult / Garchomp                            |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Raichu / Dragapult / Garchomp                         |    1 |   4.17% | 100.00% |
+| 29   | Raichu / Dragapult / Garchomp / Slowking-Galar                         |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Raichu / Samurott-Hisui / Dragapult                      |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Raichu / Dragapult / Slowking-Galar                      |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Raichu / Dragapult / Slowking-Galar                   |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Dragapult / Garchomp / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Dragapult / Garchomp / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Corviknight / Garchomp / Metagross                       |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Garchomp / Metagross / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Garchomp / Metagross / Primarina                         |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Corviknight / Metagross / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Corviknight / Metagross / Primarina                      |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Primarina / Metagross / Slowking-Galar                   |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Garchomp / Metagross / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Garchomp / Metagross / Primarina                         |    1 |   4.17% | 100.00% |
+| 29   | Primarina / Garchomp / Metagross / Slowking-Galar                      |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Primarina / Metagross / Slowking-Galar                   |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Corviknight / Garchomp / Slowking-Galar                  |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Corviknight / Garchomp / Primarina                       |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Primarina / Garchomp / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Meowscarada / Primarina / Corviknight / Slowking-Galar                 |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Primarina / Garchomp / Slowking-Galar                    |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Dragalge / Hippowdon / Skeledirge                        |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Dragalge / Hippowdon / Hydreigon                         |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Dragalge / Hippowdon / Skeledirge                     |    1 |   4.17% | 100.00% |
+| 29   | Dragalge / Hippowdon / Hydreigon / Skeledirge                          |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Dragalge / Hippowdon / Hydreigon                      |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Dragalge / Skeledirge                   |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Dragalge / Hydreigon / Skeledirge                        |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Dragalge / Hydreigon                    |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Dragalge / Hydreigon / Skeledirge                     |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Skeledirge / Hippowdon                  |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Skeledirge / Hippowdon / Hydreigon                       |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Hippowdon / Hydreigon                   |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Skeledirge / Hippowdon / Hydreigon                    |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Skeledirge / Hydreigon                  |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Floette-Eternal / Rotom-Wash / Slowking-Galar         |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Garchomp / Floette-Eternal / Rotom-Wash               |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Floette-Eternal / Rotom-Wash            |    1 |   4.17% | 100.00% |
+| 29   | Garchomp / Floette-Eternal / Rotom-Wash / Slowking-Galar               |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Floette-Eternal / Rotom-Wash / Slowking-Galar            |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Garchomp / Floette-Eternal / Rotom-Wash                  |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Rotom-Wash / Slowking-Galar             |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Samurott-Hisui / Garchomp / Rotom-Wash                   |    1 |   4.17% | 100.00% |
+| 29   | Corviknight / Garchomp / Rotom-Wash / Slowking-Galar                   |    1 |   4.17% | 100.00% |
+| 29   | Samurott-Hisui / Rotom-Wash / Glimmora / Ceruledge                     |    1 |   4.17% |   0.00% |
+| 29   | Garchomp / Rotom-Wash / Glimmora / Ceruledge                           |    1 |   4.17% |   0.00% |
+| 29   | Kingambit / Rotom-Wash / Glimmora / Ceruledge                          |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Glimmora / Ceruledge                       |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Kingambit / Glimmora / Ceruledge                      |    1 |   4.17% |   0.00% |
+| 29   | Garchomp / Kingambit / Glimmora / Ceruledge                            |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Rotom-Wash / Glimmora                      |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Kingambit / Rotom-Wash / Glimmora                     |    1 |   4.17% |   0.00% |
+| 29   | Kingambit / Garchomp / Rotom-Wash / Glimmora                           |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Kingambit / Glimmora                       |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Rotom-Wash / Ceruledge                     |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Kingambit / Rotom-Wash / Ceruledge                    |    1 |   4.17% |   0.00% |
+| 29   | Kingambit / Garchomp / Rotom-Wash / Ceruledge                          |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Kingambit / Ceruledge                      |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Kingambit / Rotom-Wash                     |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Rotom-Wash / Meganium / Slowking-Galar                     |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Rotom-Wash / Meganium / Slowking-Galar                |    1 |   4.17% |   0.00% |
+| 29   | Garchomp / Rotom-Wash / Meganium / Slowking-Galar                      |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Meganium / Slowking-Galar                 |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Garchomp / Meganium / Slowking-Galar                       |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Rotom-Wash / Slowking-Galar               |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Garchomp / Rotom-Wash / Slowking-Galar                     |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Garchomp / Slowking-Galar                 |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Rotom-Wash / Meganium                     |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Garchomp / Rotom-Wash / Meganium                           |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Rotom-Wash / Meganium                      |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Garchomp / Meganium                       |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Garchomp / Rotom-Wash                     |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Lopunny / Garchomp                        |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Hatterene / Garchomp                    |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Garchomp / Slowking-Galar                 |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hatterene / Lopunny / Garchomp                           |    1 |   4.17% |   0.00% |
+| 29   | Hatterene / Lopunny / Garchomp / Slowking-Galar                        |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hatterene / Garchomp / Slowking-Galar                    |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Hatterene / Lopunny                     |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Lopunny / Slowking-Galar                  |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hatterene / Lopunny / Slowking-Galar                     |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Garchomp / Clefable / Sableye                            |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Clefable / Chesnaught / Sableye                          |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Volcarona / Clefable / Sableye                           |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Garchomp / Chesnaught / Sableye                          |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Garchomp / Sableye / Volcarona                           |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Volcarona / Chesnaught / Sableye                         |    1 |   4.17% |   0.00% |
+| 29   | Garchomp / Clefable / Chesnaught / Sableye                             |    1 |   4.17% |   0.00% |
+| 29   | Garchomp / Clefable / Sableye / Volcarona                              |    1 |   4.17% |   0.00% |
+| 29   | Volcarona / Clefable / Chesnaught / Sableye                            |    1 |   4.17% |   0.00% |
+| 29   | Garchomp / Chesnaught / Sableye / Volcarona                            |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Clefable / Chesnaught / Garchomp                         |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Volcarona / Clefable / Garchomp                          |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Volcarona / Clefable / Chesnaught                        |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Volcarona / Chesnaught / Garchomp                        |    1 |   4.17% |   0.00% |
+| 29   | Volcarona / Clefable / Chesnaught / Garchomp                           |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hatterene / Hippowdon / Mawile                           |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hatterene / Mawile / Slowking-Galar                      |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Hatterene / Mawile                      |    1 |   4.17% |   0.00% |
+| 29   | Hatterene / Hippowdon / Mawile / Slowking-Galar                        |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Hippowdon / Mawile                        |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Mawile / Slowking-Galar                   |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Annihilape / Glimmora / Araquanid                             |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Kingambit / Glimmora / Araquanid                          |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Glimmora / Araquanid / Dragonite                          |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Annihilape / Kingambit / Glimmora                             |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Annihilape / Glimmora / Dragonite                             |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Kingambit / Glimmora / Dragonite                          |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Annihilape / Kingambit / Araquanid                            |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Annihilape / Araquanid / Dragonite                            |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Kingambit / Araquanid / Dragonite                         |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Annihilape / Kingambit / Dragonite                            |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Kingambit / Glimmora / Araquanid                              |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Glimmora / Araquanid / Dragonite                              |    1 |   4.17% |   0.00% |
+| 29   | Dragonite / Kingambit / Glimmora / Araquanid                           |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Kingambit / Glimmora / Dragonite                              |    1 |   4.17% |   0.00% |
+| 29   | Raichu / Kingambit / Araquanid / Dragonite                             |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Annihilape / Garchomp / Dragonite                     |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Annihilape / Hatterene / Garchomp                     |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Annihilape / Garchomp / Metagross                     |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Hatterene / Garchomp / Dragonite                          |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Garchomp / Metagross / Dragonite                          |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Hatterene / Garchomp / Metagross                          |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Garchomp / Dragonite                      |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Garchomp / Metagross / Dragonite                      |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Garchomp / Metagross                      |    1 |   4.17% |   0.00% |
+| 29   | Dragonite / Hatterene / Garchomp / Metagross                           |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Annihilape / Hatterene / Dragonite                    |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Annihilape / Metagross / Dragonite                    |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Annihilape / Hatterene / Metagross                    |    1 |   4.17% |   0.00% |
+| 29   | Annihilape / Hatterene / Metagross / Dragonite                         |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Metagross / Dragonite                     |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hippowdon / Delphox / Slowking-Galar                     |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Delphox / Slowking-Galar                |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hatterene / Delphox / Slowking-Galar                     |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Hippowdon / Delphox                     |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hatterene / Hippowdon / Delphox                          |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Hatterene / Delphox                     |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hippowdon / Delphox / Slowking-Galar                  |    1 |   4.17% |   0.00% |
+| 29   | Hatterene / Hippowdon / Delphox / Slowking-Galar                       |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Delphox / Slowking-Galar                  |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hatterene / Hippowdon / Delphox                       |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Pelipper / Scizor                         |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Pelipper / Scizor / Archaludon                        |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Pelipper / Scizor / Basculegion                       |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Scizor / Archaludon                       |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Scizor / Basculegion                      |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Basculegion / Scizor / Archaludon                     |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Pelipper / Scizor / Archaludon                             |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Pelipper / Scizor / Basculegion                            |    1 |   4.17% |   0.00% |
+| 29   | Pelipper / Basculegion / Scizor / Archaludon                           |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Basculegion / Scizor / Archaludon                          |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Pelipper / Archaludon                     |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Pelipper / Basculegion                    |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Pelipper / Basculegion / Archaludon                   |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Samurott-Hisui / Basculegion / Archaludon                  |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Pelipper / Basculegion / Archaludon                        |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hippowdon / Mawile / Dragapult                           |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Dragapult / Mawile / Slowking-Galar                      |    1 |   4.17% |   0.00% |
+| 29   | Dragapult / Samurott-Hisui / Hippowdon / Mawile                        |    1 |   4.17% |   0.00% |
+| 29   | Dragapult / Samurott-Hisui / Mawile / Slowking-Galar                   |    1 |   4.17% |   0.00% |
+| 29   | Dragapult / Hippowdon / Mawile / Slowking-Galar                        |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Hippowdon / Dragapult                   |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Hippowdon / Dragapult / Slowking-Galar                   |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Hippowdon / Dragapult / Slowking-Galar                |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Clefable / Hippowdon / Delphox                             |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Hippowdon / Delphox / Meowscarada                          |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Hippowdon / Corviknight / Delphox                          |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Clefable / Hippowdon / Meowscarada                         |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Clefable / Hippowdon / Corviknight                         |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Hippowdon / Corviknight / Meowscarada                      |    1 |   4.17% |   0.00% |
+| 29   | Meowscarada / Clefable / Hippowdon / Delphox                           |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Clefable / Hippowdon / Delphox                           |    1 |   4.17% |   0.00% |
+| 29   | Meowscarada / Hippowdon / Corviknight / Delphox                        |    1 |   4.17% |   0.00% |
+| 29   | Meowscarada / Clefable / Hippowdon / Corviknight                       |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Clefable / Delphox / Meowscarada                           |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Clefable / Corviknight / Delphox                           |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Corviknight / Delphox / Meowscarada                        |    1 |   4.17% |   0.00% |
+| 29   | Excadrill / Clefable / Corviknight / Meowscarada                       |    1 |   4.17% |   0.00% |
+| 29   | Meowscarada / Clefable / Corviknight / Delphox                         |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Dragonite / Samurott-Hisui / Azumarill                   |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Dragonite / Garchomp / Azumarill                         |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Dragonite / Tinkaton / Azumarill                         |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Dragonite / Garchomp / Azumarill                      |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Dragonite / Tinkaton / Azumarill                      |    1 |   4.17% |   0.00% |
+| 29   | Dragonite / Tinkaton / Garchomp / Azumarill                            |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Dragonite / Samurott-Hisui / Garchomp                    |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Dragonite / Tinkaton / Samurott-Hisui                    |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Dragonite / Tinkaton / Garchomp                          |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Dragonite / Tinkaton / Garchomp                       |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Garchomp / Azumarill                    |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Tinkaton / Azumarill                    |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Tinkaton / Garchomp / Azumarill                          |    1 |   4.17% |   0.00% |
+| 29   | Samurott-Hisui / Tinkaton / Garchomp / Azumarill                       |    1 |   4.17% |   0.00% |
+| 29   | Corviknight / Samurott-Hisui / Tinkaton / Garchomp                     |    1 |   4.17% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                                          | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Floette-Eternal           |    2 |   8.33% | 100.00% |
+| 1    | Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Raichu                    |    2 |   8.33% | 100.00% |
+| 1    | Lopunny / Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight                   |    2 |   8.33% |  50.00% |
+| 1    | Hippowdon / Slowking-Galar / Samurott-Hisui / Corviknight / Mawile                   |    2 |   8.33% |   0.00% |
+| 1    | Hatterene / Hippowdon / Slowking-Galar / Samurott-Hisui / Corviknight                |    2 |   8.33% |   0.00% |
+| 6    | Garchomp / Samurott-Hisui / Corviknight / Skeledirge / Floette-Eternal               |    1 |   4.17% | 100.00% |
+| 6    | Samurott-Hisui / Corviknight / Skeledirge / Floette-Eternal / Sneasler               |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Samurott-Hisui / Corviknight / Floette-Eternal / Sneasler                 |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Corviknight / Skeledirge / Floette-Eternal / Sneasler                     |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Samurott-Hisui / Skeledirge / Floette-Eternal / Sneasler                  |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Samurott-Hisui / Corviknight / Skeledirge / Sneasler                      |    1 |   4.17% | 100.00% |
+| 6    | Lopunny / Garchomp / Samurott-Hisui / Vanilluxe / Corviknight                        |    1 |   4.17% | 100.00% |
+| 6    | Lopunny / Slowking-Galar / Samurott-Hisui / Vanilluxe / Corviknight                  |    1 |   4.17% | 100.00% |
+| 6    | Lopunny / Garchomp / Slowking-Galar / Vanilluxe / Corviknight                        |    1 |   4.17% | 100.00% |
+| 6    | Lopunny / Garchomp / Slowking-Galar / Samurott-Hisui / Vanilluxe                     |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Vanilluxe / Corviknight                 |    1 |   4.17% | 100.00% |
+| 6    | Swampert / Rotom-Wash / Archaludon / Scizor / Pelipper                               |    1 |   4.17% | 100.00% |
+| 6    | Swampert / Archaludon / Overqwil / Scizor / Pelipper                                 |    1 |   4.17% | 100.00% |
+| 6    | Swampert / Rotom-Wash / Archaludon / Overqwil / Pelipper                             |    1 |   4.17% | 100.00% |
+| 6    | Swampert / Rotom-Wash / Overqwil / Scizor / Pelipper                                 |    1 |   4.17% | 100.00% |
+| 6    | Swampert / Rotom-Wash / Archaludon / Overqwil / Scizor                               |    1 |   4.17% | 100.00% |
+| 6    | Rotom-Wash / Archaludon / Overqwil / Scizor / Pelipper                               |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Meganium / Corviknight                  |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Samurott-Hisui / Meganium / Corviknight / Ceruledge                       |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Ceruledge                 |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Meganium / Corviknight / Ceruledge                       |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Meganium / Ceruledge                    |    1 |   4.17% | 100.00% |
+| 6    | Slowking-Galar / Samurott-Hisui / Meganium / Corviknight / Ceruledge                 |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Samurott-Hisui / Corviknight / Tauros-Paldea-Aqua / Floette-Eternal       |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Tauros-Paldea-Aqua / Floette-Eternal    |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Corviknight / Tauros-Paldea-Aqua / Floette-Eternal       |    1 |   4.17% | 100.00% |
+| 6    | Slowking-Galar / Samurott-Hisui / Corviknight / Tauros-Paldea-Aqua / Floette-Eternal |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Tauros-Paldea-Aqua        |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Samurott-Hisui / Corviknight / Raichu / Clefable                          |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Raichu / Clefable                       |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Corviknight / Raichu / Clefable                          |    1 |   4.17% | 100.00% |
+| 6    | Slowking-Galar / Samurott-Hisui / Corviknight / Raichu / Clefable                    |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Clefable                  |    1 |   4.17% | 100.00% |
+| 6    | Excadrill / Hippowdon / Samurott-Hisui / Corviknight / Dragalge                      |    1 |   4.17% | 100.00% |
+| 6    | Excadrill / Samurott-Hisui / Houndstone / Corviknight / Dragalge                     |    1 |   4.17% | 100.00% |
+| 6    | Excadrill / Hippowdon / Samurott-Hisui / Houndstone / Dragalge                       |    1 |   4.17% | 100.00% |
+| 6    | Excadrill / Hippowdon / Houndstone / Corviknight / Dragalge                          |    1 |   4.17% | 100.00% |
+| 6    | Hippowdon / Samurott-Hisui / Houndstone / Corviknight / Dragalge                     |    1 |   4.17% | 100.00% |
+| 6    | Excadrill / Hippowdon / Samurott-Hisui / Houndstone / Corviknight                    |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Slowbro / Corviknight / Mawile                                |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Samurott-Hisui / Slowbro / Mawile                             |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Samurott-Hisui / Corviknight / Mawile                         |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Samurott-Hisui / Slowbro / Corviknight / Mawile                           |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Samurott-Hisui / Slowbro / Corviknight                        |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Samurott-Hisui / Slowbro / Corviknight / Mawile                          |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Samurott-Hisui / Corviknight / Raichu                         |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Slowking-Galar / Corviknight / Raichu                         |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Slowking-Galar / Samurott-Hisui / Raichu                      |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Slowking-Galar / Samurott-Hisui / Corviknight / Raichu                   |    1 |   4.17% | 100.00% |
+| 6    | Dragapult / Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight                 |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Metagross / Corviknight / Meowscarada                    |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Metagross / Primarina / Corviknight / Meowscarada                         |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Metagross / Primarina / Meowscarada                      |    1 |   4.17% | 100.00% |
+| 6    | Slowking-Galar / Metagross / Primarina / Corviknight / Meowscarada                   |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Metagross / Primarina / Corviknight                      |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Slowking-Galar / Primarina / Corviknight / Meowscarada                    |    1 |   4.17% | 100.00% |
+| 6    | Hippowdon / Samurott-Hisui / Corviknight / Dragalge / Skeledirge                     |    1 |   4.17% | 100.00% |
+| 6    | Hippowdon / Corviknight / Dragalge / Hydreigon / Skeledirge                          |    1 |   4.17% | 100.00% |
+| 6    | Hippowdon / Samurott-Hisui / Corviknight / Dragalge / Hydreigon                      |    1 |   4.17% | 100.00% |
+| 6    | Hippowdon / Samurott-Hisui / Dragalge / Hydreigon / Skeledirge                       |    1 |   4.17% | 100.00% |
+| 6    | Samurott-Hisui / Corviknight / Dragalge / Hydreigon / Skeledirge                     |    1 |   4.17% | 100.00% |
+| 6    | Hippowdon / Samurott-Hisui / Corviknight / Skeledirge / Hydreigon                    |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Rotom-Wash / Slowking-Galar / Samurott-Hisui / Floette-Eternal            |    1 |   4.17% | 100.00% |
+| 6    | Rotom-Wash / Slowking-Galar / Samurott-Hisui / Corviknight / Floette-Eternal         |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Rotom-Wash / Samurott-Hisui / Corviknight / Floette-Eternal               |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Rotom-Wash / Slowking-Galar / Corviknight / Floette-Eternal               |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Rotom-Wash / Slowking-Galar / Samurott-Hisui / Corviknight                |    1 |   4.17% | 100.00% |
+| 6    | Garchomp / Rotom-Wash / Samurott-Hisui / Glimmora / Ceruledge                        |    1 |   4.17% |   0.00% |
+| 6    | Rotom-Wash / Samurott-Hisui / Glimmora / Kingambit / Ceruledge                       |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Rotom-Wash / Glimmora / Kingambit / Ceruledge                             |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Samurott-Hisui / Glimmora / Kingambit / Ceruledge                         |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Rotom-Wash / Samurott-Hisui / Glimmora / Kingambit                        |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Rotom-Wash / Samurott-Hisui / Kingambit / Ceruledge                       |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Rotom-Wash / Slowking-Galar / Samurott-Hisui / Meganium                  |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Garchomp / Rotom-Wash / Slowking-Galar / Meganium                        |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Rotom-Wash / Slowking-Galar / Samurott-Hisui / Meganium                   |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Garchomp / Slowking-Galar / Samurott-Hisui / Meganium                    |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Garchomp / Rotom-Wash / Slowking-Galar / Samurott-Hisui                  |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Garchomp / Rotom-Wash / Samurott-Hisui / Meganium                        |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Lopunny / Garchomp / Samurott-Hisui / Corviknight                        |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Lopunny / Garchomp / Slowking-Galar / Samurott-Hisui                     |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight                 |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Lopunny / Garchomp / Slowking-Galar / Corviknight                        |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Lopunny / Slowking-Galar / Samurott-Hisui / Corviknight                  |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Sableye / Corviknight / Clefable / Chesnaught                             |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Volcarona / Sableye / Corviknight / Clefable                              |    1 |   4.17% |   0.00% |
+| 6    | Volcarona / Sableye / Corviknight / Clefable / Chesnaught                            |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Volcarona / Sableye / Corviknight / Chesnaught                            |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Volcarona / Sableye / Clefable / Chesnaught                               |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Volcarona / Corviknight / Clefable / Chesnaught                           |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Hippowdon / Slowking-Galar / Corviknight / Mawile                        |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Hippowdon / Samurott-Hisui / Corviknight / Mawile                        |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Slowking-Galar / Samurott-Hisui / Corviknight / Mawile                   |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Hippowdon / Slowking-Galar / Samurott-Hisui / Mawile                     |    1 |   4.17% |   0.00% |
+| 6    | Araquanid / Glimmora / Raichu / Annihilape / Kingambit                               |    1 |   4.17% |   0.00% |
+| 6    | Araquanid / Glimmora / Raichu / Annihilape / Dragonite                               |    1 |   4.17% |   0.00% |
+| 6    | Araquanid / Glimmora / Annihilape / Dragonite / Kingambit                            |    1 |   4.17% |   0.00% |
+| 6    | Glimmora / Raichu / Annihilape / Dragonite / Kingambit                               |    1 |   4.17% |   0.00% |
+| 6    | Araquanid / Raichu / Annihilape / Dragonite / Kingambit                              |    1 |   4.17% |   0.00% |
+| 6    | Araquanid / Glimmora / Raichu / Dragonite / Kingambit                                |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Garchomp / Samurott-Hisui / Annihilape / Dragonite                       |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Samurott-Hisui / Metagross / Annihilape / Dragonite                       |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Garchomp / Samurott-Hisui / Metagross / Annihilape                       |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Garchomp / Metagross / Annihilape / Dragonite                            |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Garchomp / Samurott-Hisui / Metagross / Dragonite                        |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Samurott-Hisui / Metagross / Annihilape / Dragonite                      |    1 |   4.17% |   0.00% |
+| 6    | Hippowdon / Slowking-Galar / Samurott-Hisui / Corviknight / Delphox                  |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Hippowdon / Slowking-Galar / Corviknight / Delphox                       |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Slowking-Galar / Samurott-Hisui / Corviknight / Delphox                  |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Hippowdon / Samurott-Hisui / Corviknight / Delphox                       |    1 |   4.17% |   0.00% |
+| 6    | Hatterene / Hippowdon / Slowking-Galar / Samurott-Hisui / Delphox                    |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Samurott-Hisui / Archaludon / Scizor / Pelipper                          |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Samurott-Hisui / Basculegion / Scizor / Pelipper                         |    1 |   4.17% |   0.00% |
+| 6    | Samurott-Hisui / Basculegion / Archaludon / Scizor / Pelipper                        |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Samurott-Hisui / Basculegion / Archaludon / Scizor                       |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Basculegion / Archaludon / Scizor / Pelipper                             |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Samurott-Hisui / Basculegion / Archaludon / Pelipper                     |    1 |   4.17% |   0.00% |
+| 6    | Hippowdon / Dragapult / Samurott-Hisui / Corviknight / Mawile                        |    1 |   4.17% |   0.00% |
+| 6    | Dragapult / Slowking-Galar / Samurott-Hisui / Corviknight / Mawile                   |    1 |   4.17% |   0.00% |
+| 6    | Hippowdon / Dragapult / Slowking-Galar / Corviknight / Mawile                        |    1 |   4.17% |   0.00% |
+| 6    | Hippowdon / Dragapult / Slowking-Galar / Samurott-Hisui / Mawile                     |    1 |   4.17% |   0.00% |
+| 6    | Hippowdon / Dragapult / Slowking-Galar / Samurott-Hisui / Corviknight                |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Hippowdon / Delphox / Meowscarada / Clefable                             |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Hippowdon / Corviknight / Delphox / Clefable                             |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Hippowdon / Corviknight / Delphox / Meowscarada                          |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Hippowdon / Corviknight / Meowscarada / Clefable                         |    1 |   4.17% |   0.00% |
+| 6    | Hippowdon / Corviknight / Delphox / Meowscarada / Clefable                           |    1 |   4.17% |   0.00% |
+| 6    | Excadrill / Corviknight / Delphox / Meowscarada / Clefable                           |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Azumarill / Samurott-Hisui / Corviknight / Dragonite                      |    1 |   4.17% |   0.00% |
+| 6    | Azumarill / Samurott-Hisui / Tinkaton / Corviknight / Dragonite                      |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Azumarill / Tinkaton / Corviknight / Dragonite                            |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Azumarill / Samurott-Hisui / Tinkaton / Dragonite                         |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Samurott-Hisui / Tinkaton / Corviknight / Dragonite                       |    1 |   4.17% |   0.00% |
+| 6    | Garchomp / Azumarill / Samurott-Hisui / Tinkaton / Corviknight                       |    1 |   4.17% |   0.00% |
+
++ ---- + ----------------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Garchomp / Samurott-Hisui / Corviknight / Skeledirge / Floette-Eternal / Sneasler               |    1 |   4.17% | 100.00% |
+| 1    | Lopunny / Garchomp / Slowking-Galar / Samurott-Hisui / Vanilluxe / Corviknight                  |    1 |   4.17% | 100.00% |
+| 1    | Swampert / Rotom-Wash / Archaludon / Overqwil / Scizor / Pelipper                               |    1 |   4.17% | 100.00% |
+| 1    | Garchomp / Slowking-Galar / Samurott-Hisui / Meganium / Corviknight / Ceruledge                 |    1 |   4.17% | 100.00% |
+| 1    | Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Tauros-Paldea-Aqua / Floette-Eternal |    1 |   4.17% | 100.00% |
+| 1    | Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Raichu / Clefable                    |    1 |   4.17% | 100.00% |
+| 1    | Excadrill / Hippowdon / Samurott-Hisui / Houndstone / Corviknight / Dragalge                    |    1 |   4.17% | 100.00% |
+| 1    | Dragapult / Garchomp / Samurott-Hisui / Slowbro / Corviknight / Mawile                          |    1 |   4.17% | 100.00% |
+| 1    | Dragapult / Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight / Raichu                   |    1 |   4.17% | 100.00% |
+| 1    | Garchomp / Slowking-Galar / Metagross / Primarina / Corviknight / Meowscarada                   |    1 |   4.17% | 100.00% |
+| 1    | Hippowdon / Samurott-Hisui / Corviknight / Dragalge / Skeledirge / Hydreigon                    |    1 |   4.17% | 100.00% |
+| 1    | Garchomp / Rotom-Wash / Slowking-Galar / Samurott-Hisui / Corviknight / Floette-Eternal         |    1 |   4.17% | 100.00% |
+| 1    | Garchomp / Rotom-Wash / Samurott-Hisui / Glimmora / Kingambit / Ceruledge                       |    1 |   4.17% |   0.00% |
+| 1    | Excadrill / Rotom-Wash / Garchomp / Slowking-Galar / Samurott-Hisui / Meganium                  |    1 |   4.17% |   0.00% |
+| 1    | Hatterene / Lopunny / Garchomp / Slowking-Galar / Samurott-Hisui / Corviknight                  |    1 |   4.17% |   0.00% |
+| 1    | Garchomp / Volcarona / Sableye / Corviknight / Clefable / Chesnaught                            |    1 |   4.17% |   0.00% |
+| 1    | Hippowdon / Hatterene / Slowking-Galar / Samurott-Hisui / Corviknight / Mawile                  |    1 |   4.17% |   0.00% |
+| 1    | Araquanid / Glimmora / Raichu / Annihilape / Dragonite / Kingambit                              |    1 |   4.17% |   0.00% |
+| 1    | Hatterene / Garchomp / Samurott-Hisui / Metagross / Annihilape / Dragonite                      |    1 |   4.17% |   0.00% |
+| 1    | Hippowdon / Hatterene / Slowking-Galar / Samurott-Hisui / Corviknight / Delphox                 |    1 |   4.17% |   0.00% |
+| 1    | Excadrill / Samurott-Hisui / Archaludon / Basculegion / Scizor / Pelipper                       |    1 |   4.17% |   0.00% |
+| 1    | Hippowdon / Dragapult / Slowking-Galar / Samurott-Hisui / Corviknight / Mawile                  |    1 |   4.17% |   0.00% |
+| 1    | Excadrill / Hippowdon / Corviknight / Delphox / Meowscarada / Clefable                          |    1 |   4.17% |   0.00% |
+| 1    | Garchomp / Azumarill / Samurott-Hisui / Tinkaton / Corviknight / Dragonite                      |    1 |   4.17% |   0.00% |
