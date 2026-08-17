@@ -1,0 +1,417 @@
++ ---- + -------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2          | Use  | Usage % |  Win %  |
++ ---- + -------------------- + ---- + ------- + ------- +
+| 1    | Mightyena / Ponyta   |    3 |  37.50% |  66.67% |
+| 1    | Ponyta / Onix        |    3 |  37.50% |  33.33% |
+| 1    | Ponyta / Koffing     |    3 |  37.50% |  33.33% |
+| 4    | Tropius / Anorith    |    2 |  25.00% | 100.00% |
+| 4    | Croconaw / Ponyta    |    2 |  25.00% |  50.00% |
+| 4    | Tropius / Ponyta     |    2 |  25.00% |  50.00% |
+| 4    | Ponyta / Seaking     |    2 |  25.00% |  50.00% |
+| 4    | Onix / Seaking       |    2 |  25.00% |  50.00% |
+| 4    | Mightyena / Seaking  |    2 |  25.00% |  50.00% |
+| 4    | Mightyena / Onix     |    2 |  25.00% |  50.00% |
+| 4    | Castform / Koffing   |    2 |  25.00% |  50.00% |
+| 4    | Castform / Ponyta    |    2 |  25.00% |  50.00% |
+| 4    | Ponyta / Porygon     |    2 |  25.00% |  50.00% |
+| 4    | Porygon / Onix       |    2 |  25.00% |  50.00% |
+| 4    | Tropius / Delcatty   |    2 |  25.00% |  50.00% |
+| 4    | Delcatty / Ariados   |    2 |  25.00% |  50.00% |
+| 4    | Beedrill / Ponyta    |    2 |  25.00% |   0.00% |
+| 18   | Croconaw / Mightyena |    1 |  12.50% | 100.00% |
+| 18   | Croconaw / Anorith   |    1 |  12.50% | 100.00% |
+| 18   | Tropius / Croconaw   |    1 |  12.50% | 100.00% |
+| 18   | Croconaw / Voltorb   |    1 |  12.50% | 100.00% |
+| 18   | Anorith / Ponyta     |    1 |  12.50% | 100.00% |
+| 18   | Ponyta / Voltorb     |    1 |  12.50% | 100.00% |
+| 18   | Mightyena / Anorith  |    1 |  12.50% | 100.00% |
+| 18   | Tropius / Mightyena  |    1 |  12.50% | 100.00% |
+| 18   | Mightyena / Voltorb  |    1 |  12.50% | 100.00% |
+| 18   | Anorith / Voltorb    |    1 |  12.50% | 100.00% |
+| 18   | Tropius / Voltorb    |    1 |  12.50% | 100.00% |
+| 18   | Corsola / Volbeat    |    1 |  12.50% | 100.00% |
+| 18   | Volbeat / Koffing    |    1 |  12.50% | 100.00% |
+| 18   | Volbeat / Ponyta     |    1 |  12.50% | 100.00% |
+| 18   | Castform / Volbeat   |    1 |  12.50% | 100.00% |
+| 18   | Volbeat / Grovyle    |    1 |  12.50% | 100.00% |
+| 18   | Corsola / Koffing    |    1 |  12.50% | 100.00% |
+| 18   | Corsola / Ponyta     |    1 |  12.50% | 100.00% |
+| 18   | Castform / Corsola   |    1 |  12.50% | 100.00% |
+| 18   | Corsola / Grovyle    |    1 |  12.50% | 100.00% |
+| 18   | Grovyle / Koffing    |    1 |  12.50% | 100.00% |
+| 18   | Grovyle / Ponyta     |    1 |  12.50% | 100.00% |
+| 18   | Castform / Grovyle   |    1 |  12.50% | 100.00% |
+| 18   | Ivysaur / Seaking    |    1 |  12.50% | 100.00% |
+| 18   | Porygon / Seaking    |    1 |  12.50% | 100.00% |
+| 18   | Onix / Ivysaur       |    1 |  12.50% | 100.00% |
+| 18   | Ponyta / Ivysaur     |    1 |  12.50% | 100.00% |
+| 18   | Mightyena / Ivysaur  |    1 |  12.50% | 100.00% |
+| 18   | Porygon / Ivysaur    |    1 |  12.50% | 100.00% |
+| 18   | Mightyena / Porygon  |    1 |  12.50% | 100.00% |
+| 18   | Anorith / Seaking    |    1 |  12.50% | 100.00% |
+| 18   | Ariados / Anorith    |    1 |  12.50% | 100.00% |
+| 18   | Delcatty / Anorith   |    1 |  12.50% | 100.00% |
+| 18   | Tropius / Seaking    |    1 |  12.50% | 100.00% |
+| 18   | Ariados / Seaking    |    1 |  12.50% | 100.00% |
+| 18   | Delcatty / Seaking   |    1 |  12.50% | 100.00% |
+| 18   | Tropius / Ariados    |    1 |  12.50% | 100.00% |
+| 18   | Gloom / Ponyta       |    1 |  12.50% |   0.00% |
+| 18   | Koffing / Seaking    |    1 |  12.50% |   0.00% |
+| 18   | Gloom / Seaking      |    1 |  12.50% |   0.00% |
+| 18   | Onix / Koffing       |    1 |  12.50% |   0.00% |
+| 18   | Gloom / Onix         |    1 |  12.50% |   0.00% |
+| 18   | Mightyena / Koffing  |    1 |  12.50% |   0.00% |
+| 18   | Gloom / Mightyena    |    1 |  12.50% |   0.00% |
+| 18   | Gloom / Koffing      |    1 |  12.50% |   0.00% |
+| 18   | Delcatty / Ponyta    |    1 |  12.50% |   0.00% |
+| 18   | Delcatty / Onix      |    1 |  12.50% |   0.00% |
+| 18   | Beedrill / Onix      |    1 |  12.50% |   0.00% |
+| 18   | Tropius / Onix       |    1 |  12.50% |   0.00% |
+| 18   | Beedrill / Delcatty  |    1 |  12.50% |   0.00% |
+| 18   | Delcatty / Porygon   |    1 |  12.50% |   0.00% |
+| 18   | Beedrill / Porygon   |    1 |  12.50% |   0.00% |
+| 18   | Beedrill / Tropius   |    1 |  12.50% |   0.00% |
+| 18   | Tropius / Porygon    |    1 |  12.50% |   0.00% |
+| 18   | Mightyena / Ariados  |    1 |  12.50% |   0.00% |
+| 18   | Ariados / Quilava    |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Ariados   |    1 |  12.50% |   0.00% |
+| 18   | Aipom / Ariados      |    1 |  12.50% |   0.00% |
+| 18   | Mightyena / Quilava  |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Mightyena |    1 |  12.50% |   0.00% |
+| 18   | Delcatty / Mightyena |    1 |  12.50% |   0.00% |
+| 18   | Aipom / Mightyena    |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Quilava   |    1 |  12.50% |   0.00% |
+| 18   | Delcatty / Quilava   |    1 |  12.50% |   0.00% |
+| 18   | Aipom / Quilava      |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Delcatty  |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Aipom     |    1 |  12.50% |   0.00% |
+| 18   | Aipom / Delcatty     |    1 |  12.50% |   0.00% |
+| 18   | Croconaw / Castform  |    1 |  12.50% |   0.00% |
+| 18   | Beedrill / Castform  |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Castform  |    1 |  12.50% |   0.00% |
+| 18   | Croconaw / Koffing   |    1 |  12.50% |   0.00% |
+| 18   | Beedrill / Koffing   |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Koffing   |    1 |  12.50% |   0.00% |
+| 18   | Beedrill / Croconaw  |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Croconaw  |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Beedrill  |    1 |  12.50% |   0.00% |
+| 18   | Nosepass / Ponyta    |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| 1    | Ponyta / Onix / Seaking         |    2 |  25.00% |  50.00% |
+| 1    | Mightyena / Ponyta / Seaking    |    2 |  25.00% |  50.00% |
+| 1    | Mightyena / Ponyta / Onix       |    2 |  25.00% |  50.00% |
+| 1    | Mightyena / Onix / Seaking      |    2 |  25.00% |  50.00% |
+| 1    | Castform / Ponyta / Koffing     |    2 |  25.00% |  50.00% |
+| 1    | Porygon / Ponyta / Onix         |    2 |  25.00% |  50.00% |
+| 7    | Croconaw / Mightyena / Ponyta   |    1 |  12.50% | 100.00% |
+| 7    | Croconaw / Anorith / Ponyta     |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Croconaw / Ponyta     |    1 |  12.50% | 100.00% |
+| 7    | Croconaw / Ponyta / Voltorb     |    1 |  12.50% | 100.00% |
+| 7    | Croconaw / Mightyena / Anorith  |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Croconaw / Mightyena  |    1 |  12.50% | 100.00% |
+| 7    | Croconaw / Mightyena / Voltorb  |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Croconaw / Anorith    |    1 |  12.50% | 100.00% |
+| 7    | Croconaw / Anorith / Voltorb    |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Croconaw / Voltorb    |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Anorith / Ponyta    |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Mightyena / Ponyta    |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Ponyta / Voltorb    |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Anorith / Ponyta      |    1 |  12.50% | 100.00% |
+| 7    | Anorith / Ponyta / Voltorb      |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Ponyta / Voltorb      |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Mightyena / Anorith   |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Anorith / Voltorb   |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Mightyena / Voltorb   |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Anorith / Voltorb     |    1 |  12.50% | 100.00% |
+| 7    | Corsola / Volbeat / Koffing     |    1 |  12.50% | 100.00% |
+| 7    | Corsola / Volbeat / Ponyta      |    1 |  12.50% | 100.00% |
+| 7    | Castform / Corsola / Volbeat    |    1 |  12.50% | 100.00% |
+| 7    | Corsola / Volbeat / Grovyle     |    1 |  12.50% | 100.00% |
+| 7    | Volbeat / Ponyta / Koffing      |    1 |  12.50% | 100.00% |
+| 7    | Castform / Volbeat / Koffing    |    1 |  12.50% | 100.00% |
+| 7    | Volbeat / Grovyle / Koffing     |    1 |  12.50% | 100.00% |
+| 7    | Castform / Volbeat / Ponyta     |    1 |  12.50% | 100.00% |
+| 7    | Grovyle / Volbeat / Ponyta      |    1 |  12.50% | 100.00% |
+| 7    | Castform / Volbeat / Grovyle    |    1 |  12.50% | 100.00% |
+| 7    | Corsola / Ponyta / Koffing      |    1 |  12.50% | 100.00% |
+| 7    | Castform / Corsola / Koffing    |    1 |  12.50% | 100.00% |
+| 7    | Corsola / Grovyle / Koffing     |    1 |  12.50% | 100.00% |
+| 7    | Castform / Corsola / Ponyta     |    1 |  12.50% | 100.00% |
+| 7    | Grovyle / Corsola / Ponyta      |    1 |  12.50% | 100.00% |
+| 7    | Castform / Corsola / Grovyle    |    1 |  12.50% | 100.00% |
+| 7    | Grovyle / Ponyta / Koffing      |    1 |  12.50% | 100.00% |
+| 7    | Castform / Grovyle / Koffing    |    1 |  12.50% | 100.00% |
+| 7    | Grovyle / Castform / Ponyta     |    1 |  12.50% | 100.00% |
+| 7    | Ivysaur / Onix / Seaking        |    1 |  12.50% | 100.00% |
+| 7    | Porygon / Onix / Seaking        |    1 |  12.50% | 100.00% |
+| 7    | Ivysaur / Ponyta / Seaking      |    1 |  12.50% | 100.00% |
+| 7    | Ponyta / Porygon / Seaking      |    1 |  12.50% | 100.00% |
+| 7    | Ivysaur / Mightyena / Seaking   |    1 |  12.50% | 100.00% |
+| 7    | Ivysaur / Porygon / Seaking     |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Porygon / Seaking   |    1 |  12.50% | 100.00% |
+| 7    | Ponyta / Onix / Ivysaur         |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Onix / Ivysaur      |    1 |  12.50% | 100.00% |
+| 7    | Porygon / Onix / Ivysaur        |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Porygon / Onix      |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Ponyta / Ivysaur    |    1 |  12.50% | 100.00% |
+| 7    | Ponyta / Porygon / Ivysaur      |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Ponyta / Porygon    |    1 |  12.50% | 100.00% |
+| 7    | Mightyena / Porygon / Ivysaur   |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Anorith / Seaking     |    1 |  12.50% | 100.00% |
+| 7    | Ariados / Anorith / Seaking     |    1 |  12.50% | 100.00% |
+| 7    | Delcatty / Anorith / Seaking    |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Ariados / Anorith     |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Delcatty / Anorith    |    1 |  12.50% | 100.00% |
+| 7    | Delcatty / Ariados / Anorith    |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Ariados / Seaking     |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Delcatty / Seaking    |    1 |  12.50% | 100.00% |
+| 7    | Delcatty / Ariados / Seaking    |    1 |  12.50% | 100.00% |
+| 7    | Tropius / Delcatty / Ariados    |    1 |  12.50% | 100.00% |
+| 7    | Koffing / Ponyta / Seaking      |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Ponyta / Seaking        |    1 |  12.50% |   0.00% |
+| 7    | Ponyta / Onix / Koffing         |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Ponyta / Onix           |    1 |  12.50% |   0.00% |
+| 7    | Mightyena / Ponyta / Koffing    |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Mightyena / Ponyta      |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Ponyta / Koffing        |    1 |  12.50% |   0.00% |
+| 7    | Koffing / Onix / Seaking        |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Onix / Seaking          |    1 |  12.50% |   0.00% |
+| 7    | Mightyena / Koffing / Seaking   |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Mightyena / Seaking     |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Koffing / Seaking       |    1 |  12.50% |   0.00% |
+| 7    | Mightyena / Onix / Koffing      |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Mightyena / Onix        |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Onix / Koffing          |    1 |  12.50% |   0.00% |
+| 7    | Gloom / Mightyena / Koffing     |    1 |  12.50% |   0.00% |
+| 7    | Delcatty / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 7    | Tropius / Ponyta / Onix         |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Delcatty / Ponyta    |    1 |  12.50% |   0.00% |
+| 7    | Delcatty / Ponyta / Porygon     |    1 |  12.50% |   0.00% |
+| 7    | Tropius / Delcatty / Ponyta     |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Ponyta / Porygon     |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Ponyta / Tropius     |    1 |  12.50% |   0.00% |
+| 7    | Tropius / Ponyta / Porygon      |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Delcatty / Onix      |    1 |  12.50% |   0.00% |
+| 7    | Delcatty / Porygon / Onix       |    1 |  12.50% |   0.00% |
+| 7    | Tropius / Delcatty / Onix       |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Porygon / Onix       |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Tropius / Onix       |    1 |  12.50% |   0.00% |
+| 7    | Tropius / Porygon / Onix        |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Delcatty / Porygon   |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Delcatty / Tropius   |    1 |  12.50% |   0.00% |
+| 7    | Tropius / Delcatty / Porygon    |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Tropius / Porygon    |    1 |  12.50% |   0.00% |
+| 7    | Mightyena / Ariados / Quilava   |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Mightyena / Ariados  |    1 |  12.50% |   0.00% |
+| 7    | Delcatty / Mightyena / Ariados  |    1 |  12.50% |   0.00% |
+| 7    | Aipom / Mightyena / Ariados     |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Ariados / Quilava    |    1 |  12.50% |   0.00% |
+| 7    | Delcatty / Ariados / Quilava    |    1 |  12.50% |   0.00% |
+| 7    | Aipom / Ariados / Quilava       |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Delcatty / Ariados   |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Ariados / Aipom      |    1 |  12.50% |   0.00% |
+| 7    | Aipom / Delcatty / Ariados      |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Mightyena / Quilava  |    1 |  12.50% |   0.00% |
+| 7    | Delcatty / Mightyena / Quilava  |    1 |  12.50% |   0.00% |
+| 7    | Aipom / Mightyena / Quilava     |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Delcatty / Mightyena |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Mightyena / Aipom    |    1 |  12.50% |   0.00% |
+| 7    | Aipom / Delcatty / Mightyena    |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Delcatty / Quilava   |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Aipom / Quilava      |    1 |  12.50% |   0.00% |
+| 7    | Aipom / Delcatty / Quilava      |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Delcatty / Aipom     |    1 |  12.50% |   0.00% |
+| 7    | Croconaw / Castform / Koffing   |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Castform / Koffing   |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Castform / Koffing   |    1 |  12.50% |   0.00% |
+| 7    | Croconaw / Beedrill / Castform  |    1 |  12.50% |   0.00% |
+| 7    | Croconaw / Castform / Nosepass  |    1 |  12.50% |   0.00% |
+| 7    | Croconaw / Castform / Ponyta    |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Beedrill / Castform  |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Castform / Ponyta    |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Castform / Ponyta    |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Croconaw / Koffing   |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Croconaw / Koffing   |    1 |  12.50% |   0.00% |
+| 7    | Croconaw / Ponyta / Koffing     |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Beedrill / Koffing   |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Ponyta / Koffing     |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Ponyta / Koffing     |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Beedrill / Croconaw  |    1 |  12.50% |   0.00% |
+| 7    | Beedrill / Croconaw / Ponyta    |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Croconaw / Ponyta    |    1 |  12.50% |   0.00% |
+| 7    | Nosepass / Beedrill / Ponyta    |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Mightyena / Ponyta / Onix / Seaking       |    2 |  25.00% |  50.00% |
+| 2    | Croconaw / Mightyena / Anorith / Ponyta   |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Croconaw / Mightyena / Ponyta   |    1 |  12.50% | 100.00% |
+| 2    | Croconaw / Mightyena / Ponyta / Voltorb   |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Croconaw / Anorith / Ponyta     |    1 |  12.50% | 100.00% |
+| 2    | Croconaw / Anorith / Ponyta / Voltorb     |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Croconaw / Ponyta / Voltorb     |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Croconaw / Mightyena / Anorith  |    1 |  12.50% | 100.00% |
+| 2    | Croconaw / Mightyena / Anorith / Voltorb  |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Croconaw / Mightyena / Voltorb  |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Croconaw / Anorith / Voltorb    |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Mightyena / Anorith / Ponyta    |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Anorith / Ponyta / Voltorb    |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Mightyena / Ponyta / Voltorb    |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Anorith / Ponyta / Voltorb      |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Mightyena / Anorith / Voltorb   |    1 |  12.50% | 100.00% |
+| 2    | Corsola / Volbeat / Ponyta / Koffing      |    1 |  12.50% | 100.00% |
+| 2    | Castform / Corsola / Volbeat / Koffing    |    1 |  12.50% | 100.00% |
+| 2    | Corsola / Volbeat / Grovyle / Koffing     |    1 |  12.50% | 100.00% |
+| 2    | Castform / Corsola / Volbeat / Ponyta     |    1 |  12.50% | 100.00% |
+| 2    | Grovyle / Corsola / Volbeat / Ponyta      |    1 |  12.50% | 100.00% |
+| 2    | Castform / Corsola / Volbeat / Grovyle    |    1 |  12.50% | 100.00% |
+| 2    | Castform / Volbeat / Ponyta / Koffing     |    1 |  12.50% | 100.00% |
+| 2    | Grovyle / Volbeat / Ponyta / Koffing      |    1 |  12.50% | 100.00% |
+| 2    | Castform / Volbeat / Grovyle / Koffing    |    1 |  12.50% | 100.00% |
+| 2    | Grovyle / Castform / Volbeat / Ponyta     |    1 |  12.50% | 100.00% |
+| 2    | Castform / Corsola / Ponyta / Koffing     |    1 |  12.50% | 100.00% |
+| 2    | Grovyle / Corsola / Ponyta / Koffing      |    1 |  12.50% | 100.00% |
+| 2    | Castform / Corsola / Grovyle / Koffing    |    1 |  12.50% | 100.00% |
+| 2    | Grovyle / Castform / Corsola / Ponyta     |    1 |  12.50% | 100.00% |
+| 2    | Grovyle / Castform / Ponyta / Koffing     |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Ponyta / Onix / Seaking         |    1 |  12.50% | 100.00% |
+| 2    | Porygon / Ponyta / Onix / Seaking         |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Mightyena / Onix / Seaking      |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Porygon / Onix / Seaking        |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Porygon / Onix / Seaking      |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Ponyta / Mightyena / Seaking    |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Ponyta / Porygon / Seaking      |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Ponyta / Porygon / Seaking    |    1 |  12.50% | 100.00% |
+| 2    | Ivysaur / Porygon / Mightyena / Seaking   |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Ponyta / Onix / Ivysaur       |    1 |  12.50% | 100.00% |
+| 2    | Porygon / Ponyta / Onix / Ivysaur         |    1 |  12.50% | 100.00% |
+| 2    | Porygon / Mightyena / Ponyta / Onix       |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Porygon / Onix / Ivysaur      |    1 |  12.50% | 100.00% |
+| 2    | Mightyena / Ponyta / Porygon / Ivysaur    |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Ariados / Anorith / Seaking     |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Delcatty / Anorith / Seaking    |    1 |  12.50% | 100.00% |
+| 2    | Delcatty / Ariados / Anorith / Seaking    |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Delcatty / Ariados / Anorith    |    1 |  12.50% | 100.00% |
+| 2    | Tropius / Delcatty / Ariados / Seaking    |    1 |  12.50% | 100.00% |
+| 2    | Koffing / Ponyta / Onix / Seaking         |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Ponyta / Onix / Seaking           |    1 |  12.50% |   0.00% |
+| 2    | Koffing / Mightyena / Ponyta / Seaking    |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Mightyena / Ponyta / Seaking      |    1 |  12.50% |   0.00% |
+| 2    | Koffing / Gloom / Ponyta / Seaking        |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Ponyta / Onix / Koffing       |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Mightyena / Ponyta / Onix         |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Ponyta / Onix / Koffing           |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Mightyena / Ponyta / Koffing      |    1 |  12.50% |   0.00% |
+| 2    | Mightyena / Koffing / Onix / Seaking      |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Mightyena / Onix / Seaking        |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Koffing / Onix / Seaking          |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Mightyena / Koffing / Seaking     |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Mightyena / Onix / Koffing        |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Delcatty / Ponyta / Onix       |    1 |  12.50% |   0.00% |
+| 2    | Porygon / Delcatty / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Delcatty / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Porygon / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Tropius / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 2    | Porygon / Tropius / Ponyta / Onix         |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Delcatty / Ponyta / Porygon    |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Delcatty / Ponyta / Tropius    |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Delcatty / Ponyta / Porygon     |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Tropius / Ponyta / Porygon     |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Delcatty / Porygon / Onix      |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Delcatty / Tropius / Onix      |    1 |  12.50% |   0.00% |
+| 2    | Tropius / Delcatty / Porygon / Onix       |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Tropius / Porygon / Onix       |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Delcatty / Tropius / Porygon   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Ariados / Quilava  |    1 |  12.50% |   0.00% |
+| 2    | Delcatty / Mightyena / Ariados / Quilava  |    1 |  12.50% |   0.00% |
+| 2    | Aipom / Mightyena / Ariados / Quilava     |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Delcatty / Mightyena / Ariados |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Ariados / Aipom    |    1 |  12.50% |   0.00% |
+| 2    | Aipom / Delcatty / Mightyena / Ariados    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Delcatty / Ariados / Quilava   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Ariados / Aipom / Quilava      |    1 |  12.50% |   0.00% |
+| 2    | Aipom / Delcatty / Ariados / Quilava      |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Delcatty / Ariados / Aipom     |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Delcatty / Mightyena / Quilava |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Mightyena / Aipom / Quilava    |    1 |  12.50% |   0.00% |
+| 2    | Aipom / Delcatty / Mightyena / Quilava    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Delcatty / Mightyena / Aipom   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Delcatty / Aipom / Quilava     |    1 |  12.50% |   0.00% |
+| 2    | Croconaw / Beedrill / Castform / Koffing  |    1 |  12.50% |   0.00% |
+| 2    | Croconaw / Castform / Nosepass / Koffing  |    1 |  12.50% |   0.00% |
+| 2    | Croconaw / Castform / Ponyta / Koffing    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Beedrill / Castform / Koffing  |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Castform / Ponyta / Koffing    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Castform / Ponyta / Koffing    |    1 |  12.50% |   0.00% |
+| 2    | Croconaw / Beedrill / Castform / Nosepass |    1 |  12.50% |   0.00% |
+| 2    | Croconaw / Beedrill / Castform / Ponyta   |    1 |  12.50% |   0.00% |
+| 2    | Croconaw / Castform / Nosepass / Ponyta   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Beedrill / Castform / Ponyta   |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Beedrill / Croconaw / Koffing  |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Croconaw / Ponyta / Koffing    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Croconaw / Ponyta / Koffing    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Beedrill / Ponyta / Koffing    |    1 |  12.50% |   0.00% |
+| 2    | Nosepass / Beedrill / Croconaw / Ponyta   |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                         | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Anorith / Croconaw / Tropius / Mightyena / Ponyta   |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Voltorb / Croconaw / Mightyena / Ponyta   |    1 |  12.50% | 100.00% |
+| 1    | Voltorb / Croconaw / Tropius / Mightyena / Ponyta   |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Voltorb / Croconaw / Tropius / Ponyta     |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Voltorb / Croconaw / Tropius / Mightyena  |    1 |  12.50% | 100.00% |
+| 1    | Anorith / Voltorb / Tropius / Mightyena / Ponyta    |    1 |  12.50% | 100.00% |
+| 1    | Castform / Corsola / Koffing / Volbeat / Ponyta     |    1 |  12.50% | 100.00% |
+| 1    | Corsola / Grovyle / Koffing / Volbeat / Ponyta      |    1 |  12.50% | 100.00% |
+| 1    | Castform / Corsola / Grovyle / Koffing / Volbeat    |    1 |  12.50% | 100.00% |
+| 1    | Castform / Corsola / Grovyle / Volbeat / Ponyta     |    1 |  12.50% | 100.00% |
+| 1    | Castform / Grovyle / Koffing / Volbeat / Ponyta     |    1 |  12.50% | 100.00% |
+| 1    | Castform / Corsola / Grovyle / Koffing / Ponyta     |    1 |  12.50% | 100.00% |
+| 1    | Ivysaur / Seaking / Mightyena / Ponyta / Onix       |    1 |  12.50% | 100.00% |
+| 1    | Porygon / Ivysaur / Seaking / Ponyta / Onix         |    1 |  12.50% | 100.00% |
+| 1    | Porygon / Seaking / Mightyena / Ponyta / Onix       |    1 |  12.50% | 100.00% |
+| 1    | Porygon / Ivysaur / Seaking / Mightyena / Onix      |    1 |  12.50% | 100.00% |
+| 1    | Porygon / Ivysaur / Seaking / Mightyena / Ponyta    |    1 |  12.50% | 100.00% |
+| 1    | Porygon / Ivysaur / Mightyena / Ponyta / Onix       |    1 |  12.50% | 100.00% |
+| 1    | Delcatty / Anorith / Seaking / Tropius / Ariados    |    1 |  12.50% | 100.00% |
+| 1    | Seaking / Mightyena / Koffing / Ponyta / Onix       |    1 |  12.50% |   0.00% |
+| 1    | Gloom / Seaking / Mightyena / Ponyta / Onix         |    1 |  12.50% |   0.00% |
+| 1    | Gloom / Seaking / Koffing / Ponyta / Onix           |    1 |  12.50% |   0.00% |
+| 1    | Gloom / Seaking / Mightyena / Koffing / Ponyta      |    1 |  12.50% |   0.00% |
+| 1    | Gloom / Mightyena / Koffing / Ponyta / Onix         |    1 |  12.50% |   0.00% |
+| 1    | Gloom / Seaking / Mightyena / Koffing / Onix        |    1 |  12.50% |   0.00% |
+| 1    | Delcatty / Porygon / Beedrill / Ponyta / Onix       |    1 |  12.50% |   0.00% |
+| 1    | Delcatty / Beedrill / Tropius / Ponyta / Onix       |    1 |  12.50% |   0.00% |
+| 1    | Delcatty / Porygon / Tropius / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 1    | Porygon / Beedrill / Tropius / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 1    | Delcatty / Porygon / Beedrill / Tropius / Ponyta    |    1 |  12.50% |   0.00% |
+| 1    | Delcatty / Porygon / Beedrill / Tropius / Onix      |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Delcatty / Mightyena / Quilava / Ariados |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Mightyena / Quilava / Aipom / Ariados    |    1 |  12.50% |   0.00% |
+| 1    | Delcatty / Mightyena / Quilava / Aipom / Ariados    |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Delcatty / Mightyena / Aipom / Ariados   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Delcatty / Quilava / Aipom / Ariados     |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Delcatty / Mightyena / Quilava / Aipom   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Beedrill / Croconaw / Koffing |    1 |  12.50% |   0.00% |
+| 1    | Castform / Beedrill / Croconaw / Koffing / Ponyta   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Croconaw / Koffing / Ponyta   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Beedrill / Koffing / Ponyta   |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Beedrill / Croconaw / Ponyta  |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Beedrill / Croconaw / Koffing / Ponyta   |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Anorith / Voltorb / Croconaw / Tropius / Mightyena / Ponyta  |    1 |  12.50% | 100.00% |
+| 1    | Castform / Corsola / Grovyle / Koffing / Volbeat / Ponyta    |    1 |  12.50% | 100.00% |
+| 1    | Porygon / Ivysaur / Seaking / Mightyena / Ponyta / Onix      |    1 |  12.50% | 100.00% |
+| 1    | Gloom / Seaking / Mightyena / Koffing / Ponyta / Onix        |    1 |  12.50% |   0.00% |
+| 1    | Delcatty / Porygon / Beedrill / Tropius / Ponyta / Onix      |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Delcatty / Mightyena / Quilava / Aipom / Ariados  |    1 |  12.50% |   0.00% |
+| 1    | Nosepass / Castform / Beedrill / Croconaw / Koffing / Ponyta |    1 |  12.50% |   0.00% |
