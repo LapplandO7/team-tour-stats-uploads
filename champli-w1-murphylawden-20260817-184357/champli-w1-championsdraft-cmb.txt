@@ -1,0 +1,473 @@
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| 1    | Hydreigon / Scizor           |    2 |  25.00% | 100.00% |
+| 1    | Greninja / Delphox           |    2 |  25.00% |   0.00% |
+| 3    | Pinsir / Scizor              |    1 |  12.50% | 100.00% |
+| 3    | Pinsir / Sylveon             |    1 |  12.50% | 100.00% |
+| 3    | Annihilape / Pinsir          |    1 |  12.50% | 100.00% |
+| 3    | Pinsir / Mudsdale            |    1 |  12.50% | 100.00% |
+| 3    | Samurott-Hisui / Pinsir      |    1 |  12.50% | 100.00% |
+| 3    | Sylveon / Scizor             |    1 |  12.50% | 100.00% |
+| 3    | Annihilape / Scizor          |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Scizor            |    1 |  12.50% | 100.00% |
+| 3    | Samurott-Hisui / Scizor      |    1 |  12.50% | 100.00% |
+| 3    | Annihilape / Sylveon         |    1 |  12.50% | 100.00% |
+| 3    | Mudsdale / Sylveon           |    1 |  12.50% | 100.00% |
+| 3    | Samurott-Hisui / Sylveon     |    1 |  12.50% | 100.00% |
+| 3    | Annihilape / Mudsdale        |    1 |  12.50% | 100.00% |
+| 3    | Samurott-Hisui / Annihilape  |    1 |  12.50% | 100.00% |
+| 3    | Samurott-Hisui / Mudsdale    |    1 |  12.50% | 100.00% |
+| 3    | Pelipper / Swampert          |    1 |  12.50% | 100.00% |
+| 3    | Sneasler / Swampert          |    1 |  12.50% | 100.00% |
+| 3    | Swampert / Scizor            |    1 |  12.50% | 100.00% |
+| 3    | Swampert / Archaludon        |    1 |  12.50% | 100.00% |
+| 3    | Hydreigon / Swampert         |    1 |  12.50% | 100.00% |
+| 3    | Sneasler / Pelipper          |    1 |  12.50% | 100.00% |
+| 3    | Pelipper / Scizor            |    1 |  12.50% | 100.00% |
+| 3    | Pelipper / Archaludon        |    1 |  12.50% | 100.00% |
+| 3    | Pelipper / Hydreigon         |    1 |  12.50% | 100.00% |
+| 3    | Sneasler / Scizor            |    1 |  12.50% | 100.00% |
+| 3    | Sneasler / Archaludon        |    1 |  12.50% | 100.00% |
+| 3    | Sneasler / Hydreigon         |    1 |  12.50% | 100.00% |
+| 3    | Scizor / Archaludon          |    1 |  12.50% | 100.00% |
+| 3    | Hydreigon / Archaludon       |    1 |  12.50% | 100.00% |
+| 3    | Palafin / Hydreigon          |    1 |  12.50% | 100.00% |
+| 3    | Palafin / Rotom-Heat         |    1 |  12.50% | 100.00% |
+| 3    | Palafin / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 3    | Palafin / Diggersby          |    1 |  12.50% | 100.00% |
+| 3    | Palafin / Scizor             |    1 |  12.50% | 100.00% |
+| 3    | Hydreigon / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Hydreigon       |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Hydreigon        |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Rotom-Heat      |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 3    | Scizor / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Aerodactyl       |    1 |  12.50% | 100.00% |
+| 3    | Aerodactyl / Scizor          |    1 |  12.50% | 100.00% |
+| 3    | Diggersby / Scizor           |    1 |  12.50% | 100.00% |
+| 3    | Corviknight / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 3    | Corviknight / Mamoswine      |    1 |  12.50% | 100.00% |
+| 3    | Corviknight / Infernape      |    1 |  12.50% | 100.00% |
+| 3    | Corviknight / Kingambit      |    1 |  12.50% | 100.00% |
+| 3    | Corviknight / Dragonite      |    1 |  12.50% | 100.00% |
+| 3    | Mamoswine / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 3    | Infernape / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 3    | Kingambit / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 3    | Dragonite / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 3    | Infernape / Mamoswine        |    1 |  12.50% | 100.00% |
+| 3    | Mamoswine / Kingambit        |    1 |  12.50% | 100.00% |
+| 3    | Dragonite / Mamoswine        |    1 |  12.50% | 100.00% |
+| 3    | Infernape / Kingambit        |    1 |  12.50% | 100.00% |
+| 3    | Dragonite / Infernape        |    1 |  12.50% | 100.00% |
+| 3    | Dragonite / Kingambit        |    1 |  12.50% | 100.00% |
+| 3    | Raichu / Aegislash           |    1 |  12.50% |   0.00% |
+| 3    | Starmie / Raichu             |    1 |  12.50% |   0.00% |
+| 3    | Kommo-o / Raichu             |    1 |  12.50% |   0.00% |
+| 3    | Gliscor / Raichu             |    1 |  12.50% |   0.00% |
+| 3    | Raichu / Scolipede           |    1 |  12.50% |   0.00% |
+| 3    | Starmie / Aegislash          |    1 |  12.50% |   0.00% |
+| 3    | Kommo-o / Aegislash          |    1 |  12.50% |   0.00% |
+| 3    | Gliscor / Aegislash          |    1 |  12.50% |   0.00% |
+| 3    | Aegislash / Scolipede        |    1 |  12.50% |   0.00% |
+| 3    | Starmie / Kommo-o            |    1 |  12.50% |   0.00% |
+| 3    | Starmie / Gliscor            |    1 |  12.50% |   0.00% |
+| 3    | Starmie / Scolipede          |    1 |  12.50% |   0.00% |
+| 3    | Kommo-o / Gliscor            |    1 |  12.50% |   0.00% |
+| 3    | Kommo-o / Scolipede          |    1 |  12.50% |   0.00% |
+| 3    | Gliscor / Scolipede          |    1 |  12.50% |   0.00% |
+| 3    | Meowscarada / Garchomp       |    1 |  12.50% |   0.00% |
+| 3    | Meowscarada / Slowbro        |    1 |  12.50% |   0.00% |
+| 3    | Meowscarada / Quaquaval      |    1 |  12.50% |   0.00% |
+| 3    | Meowscarada / Clefable       |    1 |  12.50% |   0.00% |
+| 3    | Meowscarada / Skarmory       |    1 |  12.50% |   0.00% |
+| 3    | Slowbro / Garchomp           |    1 |  12.50% |   0.00% |
+| 3    | Quaquaval / Garchomp         |    1 |  12.50% |   0.00% |
+| 3    | Clefable / Garchomp          |    1 |  12.50% |   0.00% |
+| 3    | Skarmory / Garchomp          |    1 |  12.50% |   0.00% |
+| 3    | Slowbro / Quaquaval          |    1 |  12.50% |   0.00% |
+| 3    | Clefable / Slowbro           |    1 |  12.50% |   0.00% |
+| 3    | Skarmory / Slowbro           |    1 |  12.50% |   0.00% |
+| 3    | Clefable / Quaquaval         |    1 |  12.50% |   0.00% |
+| 3    | Skarmory / Quaquaval         |    1 |  12.50% |   0.00% |
+| 3    | Skarmory / Clefable          |    1 |  12.50% |   0.00% |
+| 3    | Delphox / Archaludon         |    1 |  12.50% |   0.00% |
+| 3    | Archaludon / Whimsicott      |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Archaludon        |    1 |  12.50% |   0.00% |
+| 3    | Archaludon / Slowbro-Galar   |    1 |  12.50% |   0.00% |
+| 3    | Hawlucha / Archaludon        |    1 |  12.50% |   0.00% |
+| 3    | Delphox / Whimsicott         |    1 |  12.50% |   0.00% |
+| 3    | Delphox / Slowbro-Galar      |    1 |  12.50% |   0.00% |
+| 3    | Hawlucha / Delphox           |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Whimsicott        |    1 |  12.50% |   0.00% |
+| 3    | Whimsicott / Slowbro-Galar   |    1 |  12.50% |   0.00% |
+| 3    | Hawlucha / Whimsicott        |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Slowbro-Galar     |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Hawlucha          |    1 |  12.50% |   0.00% |
+| 3    | Hawlucha / Slowbro-Galar     |    1 |  12.50% |   0.00% |
+| 3    | Gholdengo / Delphox          |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Gholdengo         |    1 |  12.50% |   0.00% |
+| 3    | Gliscor / Gholdengo          |    1 |  12.50% |   0.00% |
+| 3    | Ninetales-Alola / Gholdengo  |    1 |  12.50% |   0.00% |
+| 3    | Tyrantrum / Gholdengo        |    1 |  12.50% |   0.00% |
+| 3    | Gliscor / Delphox            |    1 |  12.50% |   0.00% |
+| 3    | Ninetales-Alola / Delphox    |    1 |  12.50% |   0.00% |
+| 3    | Tyrantrum / Delphox          |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Gliscor           |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Ninetales-Alola   |    1 |  12.50% |   0.00% |
+| 3    | Greninja / Tyrantrum         |    1 |  12.50% |   0.00% |
+| 3    | Gliscor / Ninetales-Alola    |    1 |  12.50% |   0.00% |
+| 3    | Gliscor / Tyrantrum          |    1 |  12.50% |   0.00% |
+| 3    | Ninetales-Alola / Tyrantrum  |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                              | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------- + ---- + ------- + ------- +
+| 1    | Sylveon / Pinsir / Scizor                |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Pinsir / Scizor             |    1 |  12.50% | 100.00% |
+| 1    | Pinsir / Mudsdale / Scizor               |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Pinsir / Scizor         |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Pinsir / Sylveon            |    1 |  12.50% | 100.00% |
+| 1    | Pinsir / Mudsdale / Sylveon              |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Pinsir / Sylveon        |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Pinsir / Mudsdale           |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Pinsir     |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Pinsir / Mudsdale       |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Sylveon / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Sylveon / Mudsdale / Scizor              |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Sylveon / Scizor        |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Mudsdale / Scizor           |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Scizor     |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Mudsdale / Scizor       |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Mudsdale / Sylveon          |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Sylveon    |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Mudsdale / Sylveon      |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Mudsdale   |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Swampert           |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Swampert / Scizor             |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Swampert / Archaludon         |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Swampert / Hydreigon          |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Swampert / Scizor             |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Swampert / Archaludon         |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Hydreigon / Swampert          |    1 |  12.50% | 100.00% |
+| 1    | Swampert / Scizor / Archaludon           |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Swampert / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Swampert / Archaludon        |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Scizor             |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Archaludon         |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Hydreigon          |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Scizor / Archaludon           |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Scizor / Hydreigon            |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Hydreigon / Archaludon        |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Scizor / Archaludon           |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Hydreigon / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Hydreigon / Archaludon        |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Scizor / Archaludon          |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Hydreigon / Rotom-Heat         |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Hydreigon         |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Hydreigon / Diggersby          |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Hydreigon / Scizor             |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Rotom-Heat        |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Rotom-Heat / Diggersby         |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Scizor / Rotom-Heat            |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Diggersby         |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Scizor / Diggersby             |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Hydreigon / Rotom-Heat      |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Hydreigon / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Scizor / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Aerodactyl / Hydreigon       |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Hydreigon / Scizor          |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Hydreigon / Scizor           |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Aerodactyl / Rotom-Heat      |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Scizor / Rotom-Heat         |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Scizor / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Aerodactyl / Scizor          |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Mamoswine / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Infernape / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Kingambit / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Infernape / Mamoswine      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Mamoswine / Kingambit      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Mamoswine      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Infernape / Kingambit      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Infernape      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Kingambit      |    1 |  12.50% | 100.00% |
+| 1    | Infernape / Mamoswine / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Mamoswine / Kingambit / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Mamoswine / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Infernape / Kingambit / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Infernape / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Kingambit / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Infernape / Mamoswine / Kingambit        |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Infernape / Mamoswine        |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Mamoswine / Kingambit        |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Infernape / Kingambit        |    1 |  12.50% | 100.00% |
+| 1    | Starmie / Raichu / Aegislash             |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Raichu / Aegislash             |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Raichu / Aegislash             |    1 |  12.50% |   0.00% |
+| 1    | Raichu / Aegislash / Scolipede           |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Kommo-o               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Gliscor               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Scolipede             |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Raichu / Gliscor               |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Raichu / Scolipede             |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Raichu / Scolipede             |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Aegislash / Kommo-o            |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Aegislash / Gliscor            |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Aegislash / Scolipede          |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Aegislash / Gliscor            |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Aegislash / Scolipede          |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Aegislash / Scolipede          |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Kommo-o / Gliscor              |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Kommo-o / Scolipede            |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Gliscor / Scolipede            |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Gliscor / Scolipede            |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Slowbro / Garchomp         |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Quaquaval / Garchomp       |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Clefable / Garchomp        |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Garchomp        |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Slowbro / Quaquaval        |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Clefable / Slowbro         |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Slowbro         |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Clefable / Quaquaval       |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Quaquaval       |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Clefable        |    1 |  12.50% |   0.00% |
+| 1    | Slowbro / Quaquaval / Garchomp           |    1 |  12.50% |   0.00% |
+| 1    | Clefable / Slowbro / Garchomp            |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Garchomp            |    1 |  12.50% |   0.00% |
+| 1    | Clefable / Quaquaval / Garchomp          |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Quaquaval / Garchomp          |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Clefable / Garchomp           |    1 |  12.50% |   0.00% |
+| 1    | Clefable / Slowbro / Quaquaval           |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Quaquaval           |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Clefable / Slowbro            |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Clefable / Quaquaval          |    1 |  12.50% |   0.00% |
+| 1    | Delphox / Archaludon / Whimsicott        |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Delphox / Archaludon          |    1 |  12.50% |   0.00% |
+| 1    | Delphox / Archaludon / Slowbro-Galar     |    1 |  12.50% |   0.00% |
+| 1    | Delphox / Hawlucha / Archaludon          |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Archaludon / Whimsicott       |    1 |  12.50% |   0.00% |
+| 1    | Slowbro-Galar / Archaludon / Whimsicott  |    1 |  12.50% |   0.00% |
+| 1    | Hawlucha / Archaludon / Whimsicott       |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Archaludon / Slowbro-Galar    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Archaludon         |    1 |  12.50% |   0.00% |
+| 1    | Hawlucha / Archaludon / Slowbro-Galar    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Delphox / Whimsicott          |    1 |  12.50% |   0.00% |
+| 1    | Slowbro-Galar / Delphox / Whimsicott     |    1 |  12.50% |   0.00% |
+| 1    | Hawlucha / Delphox / Whimsicott          |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Delphox / Slowbro-Galar       |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Delphox            |    1 |  12.50% |   0.00% |
+| 1    | Hawlucha / Delphox / Slowbro-Galar       |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Whimsicott / Slowbro-Galar    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Whimsicott         |    1 |  12.50% |   0.00% |
+| 1    | Hawlucha / Whimsicott / Slowbro-Galar    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Slowbro-Galar      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Gholdengo / Delphox           |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Gholdengo / Delphox            |    1 |  12.50% |   0.00% |
+| 1    | Ninetales-Alola / Gholdengo / Delphox    |    1 |  12.50% |   0.00% |
+| 1    | Tyrantrum / Gholdengo / Delphox          |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Gholdengo / Gliscor           |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gholdengo   |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Tyrantrum / Gholdengo         |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Ninetales-Alola / Gholdengo    |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tyrantrum / Gholdengo          |    1 |  12.50% |   0.00% |
+| 1    | Ninetales-Alola / Tyrantrum / Gholdengo  |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Gliscor / Delphox             |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Delphox     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Tyrantrum / Delphox           |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Ninetales-Alola / Delphox      |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tyrantrum / Delphox            |    1 |  12.50% |   0.00% |
+| 1    | Ninetales-Alola / Tyrantrum / Delphox    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gliscor     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Tyrantrum / Gliscor           |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Tyrantrum   |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Ninetales-Alola / Tyrantrum    |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Sylveon / Annihilape / Pinsir / Scizor               |    1 |  12.50% | 100.00% |
+| 1    | Sylveon / Pinsir / Mudsdale / Scizor                 |    1 |  12.50% | 100.00% |
+| 1    | Sylveon / Samurott-Hisui / Pinsir / Scizor           |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Pinsir / Mudsdale / Scizor              |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Pinsir / Scizor        |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Pinsir / Mudsdale / Scizor          |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Pinsir / Mudsdale / Sylveon             |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Pinsir / Sylveon       |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Pinsir / Mudsdale / Sylveon         |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Pinsir / Mudsdale      |    1 |  12.50% | 100.00% |
+| 1    | Annihilape / Sylveon / Mudsdale / Scizor             |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Sylveon / Scizor       |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Sylveon / Mudsdale / Scizor         |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Mudsdale / Scizor      |    1 |  12.50% | 100.00% |
+| 1    | Samurott-Hisui / Annihilape / Mudsdale / Sylveon     |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Swampert / Scizor              |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Swampert / Archaludon          |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Swampert / Hydreigon           |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Swampert / Scizor / Archaludon            |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Swampert / Scizor / Hydreigon             |    1 |  12.50% | 100.00% |
+| 1    | Pelipper / Swampert / Hydreigon / Archaludon         |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Swampert / Scizor / Archaludon            |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Hydreigon / Swampert / Scizor             |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Hydreigon / Swampert / Archaludon         |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Swampert / Scizor / Archaludon           |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Scizor / Archaludon            |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Scizor / Hydreigon             |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Pelipper / Hydreigon / Archaludon         |    1 |  12.50% | 100.00% |
+| 1    | Hydreigon / Pelipper / Scizor / Archaludon           |    1 |  12.50% | 100.00% |
+| 1    | Sneasler / Hydreigon / Scizor / Archaludon           |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Hydreigon / Rotom-Heat        |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Hydreigon / Rotom-Heat / Diggersby         |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Hydreigon / Scizor / Rotom-Heat            |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Hydreigon / Diggersby         |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Hydreigon / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Hydreigon / Scizor / Diggersby             |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Rotom-Heat / Diggersby        |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Scizor / Rotom-Heat           |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Scizor / Rotom-Heat / Diggersby            |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Aerodactyl / Scizor / Diggersby            |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Aerodactyl / Hydreigon / Rotom-Heat      |    1 |  12.50% | 100.00% |
+| 1    | Aerodactyl / Hydreigon / Scizor / Rotom-Heat         |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Hydreigon / Scizor / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Aerodactyl / Hydreigon / Scizor          |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Aerodactyl / Scizor / Rotom-Heat         |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Infernape / Mamoswine / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Mamoswine / Kingambit / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Mamoswine / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Infernape / Kingambit / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Infernape / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Kingambit / Slowking-Galar |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Infernape / Mamoswine / Kingambit      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Infernape / Mamoswine      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Mamoswine / Kingambit      |    1 |  12.50% | 100.00% |
+| 1    | Corviknight / Dragonite / Infernape / Kingambit      |    1 |  12.50% | 100.00% |
+| 1    | Infernape / Mamoswine / Kingambit / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Infernape / Mamoswine / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Mamoswine / Kingambit / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Infernape / Kingambit / Slowking-Galar   |    1 |  12.50% | 100.00% |
+| 1    | Dragonite / Infernape / Mamoswine / Kingambit        |    1 |  12.50% | 100.00% |
+| 1    | Starmie / Raichu / Aegislash / Kommo-o               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Aegislash / Gliscor               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Aegislash / Scolipede             |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Raichu / Aegislash / Gliscor               |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Raichu / Aegislash / Scolipede             |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Raichu / Aegislash / Scolipede             |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Kommo-o / Gliscor                 |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Kommo-o / Scolipede               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Raichu / Gliscor / Scolipede               |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Raichu / Gliscor / Scolipede               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Aegislash / Kommo-o / Gliscor              |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Aegislash / Kommo-o / Scolipede            |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Aegislash / Gliscor / Scolipede            |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Aegislash / Gliscor / Scolipede            |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Kommo-o / Gliscor / Scolipede              |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Slowbro / Quaquaval / Garchomp         |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Clefable / Slowbro / Garchomp          |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Slowbro / Garchomp          |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Clefable / Quaquaval / Garchomp        |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Quaquaval / Garchomp        |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Clefable / Garchomp         |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Clefable / Slowbro / Quaquaval         |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Slowbro / Quaquaval         |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Clefable / Slowbro / Skarmory          |    1 |  12.50% |   0.00% |
+| 1    | Meowscarada / Skarmory / Clefable / Quaquaval        |    1 |  12.50% |   0.00% |
+| 1    | Clefable / Slowbro / Quaquaval / Garchomp            |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Quaquaval / Garchomp            |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Clefable / Slowbro / Garchomp             |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Clefable / Quaquaval / Garchomp           |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Clefable / Slowbro / Quaquaval            |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Delphox / Archaludon / Whimsicott         |    1 |  12.50% |   0.00% |
+| 1    | Slowbro-Galar / Delphox / Archaludon / Whimsicott    |    1 |  12.50% |   0.00% |
+| 1    | Delphox / Hawlucha / Archaludon / Whimsicott         |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Delphox / Archaludon / Slowbro-Galar      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Delphox / Hawlucha / Archaludon           |    1 |  12.50% |   0.00% |
+| 1    | Delphox / Hawlucha / Archaludon / Slowbro-Galar      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Slowbro-Galar / Archaludon / Whimsicott   |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Archaludon / Whimsicott        |    1 |  12.50% |   0.00% |
+| 1    | Slowbro-Galar / Hawlucha / Archaludon / Whimsicott   |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Archaludon / Slowbro-Galar     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Slowbro-Galar / Delphox / Whimsicott      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Delphox / Whimsicott           |    1 |  12.50% |   0.00% |
+| 1    | Slowbro-Galar / Hawlucha / Delphox / Whimsicott      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Delphox / Slowbro-Galar        |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Whimsicott / Slowbro-Galar     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Gholdengo / Gliscor / Delphox             |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gholdengo / Delphox     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Tyrantrum / Gholdengo / Delphox           |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Ninetales-Alola / Gholdengo / Delphox      |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tyrantrum / Gholdengo / Delphox            |    1 |  12.50% |   0.00% |
+| 1    | Ninetales-Alola / Tyrantrum / Gholdengo / Delphox    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gholdengo / Gliscor     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Tyrantrum / Gholdengo / Gliscor           |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Tyrantrum / Gholdengo   |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Ninetales-Alola / Tyrantrum / Gholdengo    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gliscor / Delphox       |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Tyrantrum / Gliscor / Delphox             |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Tyrantrum / Delphox     |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Ninetales-Alola / Tyrantrum / Delphox      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Tyrantrum / Gliscor     |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                      | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Pinsir / Mudsdale / Sylveon / Annihilape / Scizor                |    1 |  12.50% | 100.00% |
+| 1    | Pinsir / Sylveon / Samurott-Hisui / Annihilape / Scizor          |    1 |  12.50% | 100.00% |
+| 1    | Pinsir / Mudsdale / Sylveon / Samurott-Hisui / Scizor            |    1 |  12.50% | 100.00% |
+| 1    | Pinsir / Mudsdale / Samurott-Hisui / Annihilape / Scizor         |    1 |  12.50% | 100.00% |
+| 1    | Pinsir / Mudsdale / Sylveon / Samurott-Hisui / Annihilape        |    1 |  12.50% | 100.00% |
+| 1    | Mudsdale / Sylveon / Samurott-Hisui / Annihilape / Scizor        |    1 |  12.50% | 100.00% |
+| 1    | Swampert / Archaludon / Scizor / Sneasler / Pelipper             |    1 |  12.50% | 100.00% |
+| 1    | Swampert / Hydreigon / Scizor / Sneasler / Pelipper              |    1 |  12.50% | 100.00% |
+| 1    | Swampert / Archaludon / Hydreigon / Sneasler / Pelipper          |    1 |  12.50% | 100.00% |
+| 1    | Swampert / Archaludon / Hydreigon / Scizor / Pelipper            |    1 |  12.50% | 100.00% |
+| 1    | Swampert / Archaludon / Hydreigon / Scizor / Sneasler            |    1 |  12.50% | 100.00% |
+| 1    | Archaludon / Hydreigon / Scizor / Sneasler / Pelipper            |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Palafin / Hydreigon / Rotom-Heat / Aerodactyl        |    1 |  12.50% | 100.00% |
+| 1    | Palafin / Hydreigon / Scizor / Rotom-Heat / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Palafin / Hydreigon / Scizor / Rotom-Heat            |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Palafin / Hydreigon / Scizor / Aerodactyl            |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Palafin / Scizor / Rotom-Heat / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Hydreigon / Scizor / Rotom-Heat / Aerodactyl         |    1 |  12.50% | 100.00% |
+| 1    | Slowking-Galar / Infernape / Mamoswine / Corviknight / Kingambit |    1 |  12.50% | 100.00% |
+| 1    | Slowking-Galar / Infernape / Mamoswine / Corviknight / Dragonite |    1 |  12.50% | 100.00% |
+| 1    | Slowking-Galar / Mamoswine / Corviknight / Dragonite / Kingambit |    1 |  12.50% | 100.00% |
+| 1    | Slowking-Galar / Infernape / Corviknight / Dragonite / Kingambit |    1 |  12.50% | 100.00% |
+| 1    | Infernape / Mamoswine / Corviknight / Dragonite / Kingambit      |    1 |  12.50% | 100.00% |
+| 1    | Slowking-Galar / Infernape / Mamoswine / Dragonite / Kingambit   |    1 |  12.50% | 100.00% |
+| 1    | Starmie / Kommo-o / Gliscor / Raichu / Aegislash                 |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Kommo-o / Scolipede / Raichu / Aegislash               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Scolipede / Gliscor / Raichu / Aegislash               |    1 |  12.50% |   0.00% |
+| 1    | Kommo-o / Scolipede / Gliscor / Raichu / Aegislash               |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Kommo-o / Scolipede / Gliscor / Raichu                 |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Kommo-o / Scolipede / Gliscor / Aegislash              |    1 |  12.50% |   0.00% |
+| 1    | Quaquaval / Garchomp / Slowbro / Meowscarada / Clefable          |    1 |  12.50% |   0.00% |
+| 1    | Quaquaval / Garchomp / Slowbro / Skarmory / Meowscarada          |    1 |  12.50% |   0.00% |
+| 1    | Garchomp / Slowbro / Skarmory / Meowscarada / Clefable           |    1 |  12.50% |   0.00% |
+| 1    | Quaquaval / Garchomp / Skarmory / Meowscarada / Clefable         |    1 |  12.50% |   0.00% |
+| 1    | Quaquaval / Slowbro / Skarmory / Meowscarada / Clefable          |    1 |  12.50% |   0.00% |
+| 1    | Quaquaval / Garchomp / Slowbro / Skarmory / Clefable             |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Archaludon / Whimsicott / Delphox / Slowbro-Galar     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Archaludon / Whimsicott / Delphox          |    1 |  12.50% |   0.00% |
+| 1    | Hawlucha / Archaludon / Whimsicott / Delphox / Slowbro-Galar     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Archaludon / Delphox / Slowbro-Galar       |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Archaludon / Whimsicott / Slowbro-Galar    |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Whimsicott / Delphox / Slowbro-Galar       |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gholdengo / Gliscor / Delphox       |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Gholdengo / Gliscor / Delphox / Tyrantrum             |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gholdengo / Delphox / Tyrantrum     |    1 |  12.50% |   0.00% |
+| 1    | Ninetales-Alola / Gholdengo / Gliscor / Delphox / Tyrantrum      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gholdengo / Gliscor / Tyrantrum     |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gliscor / Delphox / Tyrantrum       |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Pinsir / Mudsdale / Sylveon / Samurott-Hisui / Annihilape / Scizor           |    1 |  12.50% | 100.00% |
+| 1    | Swampert / Archaludon / Hydreigon / Scizor / Sneasler / Pelipper             |    1 |  12.50% | 100.00% |
+| 1    | Diggersby / Palafin / Hydreigon / Scizor / Rotom-Heat / Aerodactyl           |    1 |  12.50% | 100.00% |
+| 1    | Slowking-Galar / Infernape / Mamoswine / Corviknight / Dragonite / Kingambit |    1 |  12.50% | 100.00% |
+| 1    | Starmie / Kommo-o / Scolipede / Gliscor / Raichu / Aegislash                 |    1 |  12.50% |   0.00% |
+| 1    | Quaquaval / Garchomp / Slowbro / Skarmory / Meowscarada / Clefable           |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Hawlucha / Archaludon / Whimsicott / Delphox / Slowbro-Galar      |    1 |  12.50% |   0.00% |
+| 1    | Greninja / Ninetales-Alola / Gholdengo / Gliscor / Delphox / Tyrantrum       |    1 |  12.50% |   0.00% |
