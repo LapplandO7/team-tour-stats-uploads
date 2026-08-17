@@ -1,0 +1,846 @@
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                  | Use  | Usage % |  Win %  |
++ ---- + ---------------------------- + ---- + ------- + ------- +
+| 1    | Golem / Silvally             |    8 |  57.14% |  50.00% |
+| 2    | Electivire / Silvally        |    4 |  28.57% |  50.00% |
+| 3    | Silvally / Wishiwashi        |    3 |  21.43% |  66.67% |
+| 3    | Silvally / Purugly           |    3 |  21.43% |  66.67% |
+| 3    | Torterra / Silvally          |    3 |  21.43% |  66.67% |
+| 3    | Electivire / Golem           |    3 |  21.43% |  33.33% |
+| 3    | Silvally / Simisage          |    3 |  21.43% |  33.33% |
+| 3    | Golem / Simisage             |    3 |  21.43% |  33.33% |
+| 3    | Furfrou / Silvally           |    3 |  21.43% |  33.33% |
+| 10   | Golem / Wishiwashi           |    2 |  14.29% | 100.00% |
+| 10   | Golem / Purugly              |    2 |  14.29% | 100.00% |
+| 10   | Ditto / Leafeon              |    2 |  14.29% | 100.00% |
+| 10   | Electivire / Chatot          |    2 |  14.29% |  50.00% |
+| 10   | Golem / Chatot               |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Chatot            |    2 |  14.29% |  50.00% |
+| 10   | Golem / Furfrou              |    2 |  14.29% |  50.00% |
+| 10   | Golem / Ditto                |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Ditto             |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Shuckle           |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Gourgeist-*       |    2 |  14.29% |  50.00% |
+| 10   | Furfrou / Gourgeist-*        |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Gourgeist-Super   |    2 |  14.29% |  50.00% |
+| 10   | Furfrou / Gourgeist-Super    |    2 |  14.29% |  50.00% |
+| 10   | Ditto / Muk                  |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Dusclops          |    2 |  14.29% |  50.00% |
+| 10   | Torterra / Swanna            |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Swanna            |    2 |  14.29% |  50.00% |
+| 10   | Golem / Kecleon              |    2 |  14.29% |  50.00% |
+| 10   | Kecleon / Silvally           |    2 |  14.29% |  50.00% |
+| 10   | Silvally / Muk               |    2 |  14.29% |  50.00% |
+| 10   | Golem / Muk                  |    2 |  14.29% |  50.00% |
+| 10   | Kadabra / Silvally           |    2 |  14.29% |   0.00% |
+| 33   | Servine / Wishiwashi         |    1 |   7.14% | 100.00% |
+| 33   | Electivire / Servine         |    1 |   7.14% | 100.00% |
+| 33   | Golem / Servine              |    1 |   7.14% | 100.00% |
+| 33   | Servine / Chatot             |    1 |   7.14% | 100.00% |
+| 33   | Servine / Silvally           |    1 |   7.14% | 100.00% |
+| 33   | Electivire / Wishiwashi      |    1 |   7.14% | 100.00% |
+| 33   | Wishiwashi / Chatot          |    1 |   7.14% | 100.00% |
+| 33   | Silvally / Bronzor           |    1 |   7.14% | 100.00% |
+| 33   | Golem / Bronzor              |    1 |   7.14% | 100.00% |
+| 33   | Simisage / Bronzor           |    1 |   7.14% | 100.00% |
+| 33   | Beheeyem / Bronzor           |    1 |   7.14% | 100.00% |
+| 33   | Purugly / Bronzor            |    1 |   7.14% | 100.00% |
+| 33   | Beheeyem / Silvally          |    1 |   7.14% | 100.00% |
+| 33   | Beheeyem / Golem             |    1 |   7.14% | 100.00% |
+| 33   | Beheeyem / Simisage          |    1 |   7.14% | 100.00% |
+| 33   | Simisage / Purugly           |    1 |   7.14% | 100.00% |
+| 33   | Beheeyem / Purugly           |    1 |   7.14% | 100.00% |
+| 33   | Golem / Leafeon              |    1 |   7.14% | 100.00% |
+| 33   | Wishiwashi / Purugly         |    1 |   7.14% | 100.00% |
+| 33   | Ditto / Wishiwashi           |    1 |   7.14% | 100.00% |
+| 33   | Wishiwashi / Leafeon         |    1 |   7.14% | 100.00% |
+| 33   | Silvally / Leafeon           |    1 |   7.14% | 100.00% |
+| 33   | Ditto / Purugly              |    1 |   7.14% | 100.00% |
+| 33   | Purugly / Leafeon            |    1 |   7.14% | 100.00% |
+| 33   | Mawile / Leafeon             |    1 |   7.14% | 100.00% |
+| 33   | Sandslash / Mawile           |    1 |   7.14% | 100.00% |
+| 33   | Mawile / Lickilicky          |    1 |   7.14% | 100.00% |
+| 33   | Mawile / Muk                 |    1 |   7.14% | 100.00% |
+| 33   | Ditto / Mawile               |    1 |   7.14% | 100.00% |
+| 33   | Sandslash / Leafeon          |    1 |   7.14% | 100.00% |
+| 33   | Lickilicky / Leafeon         |    1 |   7.14% | 100.00% |
+| 33   | Muk / Leafeon                |    1 |   7.14% | 100.00% |
+| 33   | Sandslash / Lickilicky       |    1 |   7.14% | 100.00% |
+| 33   | Sandslash / Muk              |    1 |   7.14% | 100.00% |
+| 33   | Sandslash / Ditto            |    1 |   7.14% | 100.00% |
+| 33   | Muk / Lickilicky             |    1 |   7.14% | 100.00% |
+| 33   | Ditto / Lickilicky           |    1 |   7.14% | 100.00% |
+| 33   | Dusclops / Granbull          |    1 |   7.14% | 100.00% |
+| 33   | Swanna / Granbull            |    1 |   7.14% | 100.00% |
+| 33   | Electivire / Granbull        |    1 |   7.14% | 100.00% |
+| 33   | Torterra / Granbull          |    1 |   7.14% | 100.00% |
+| 33   | Silvally / Granbull          |    1 |   7.14% | 100.00% |
+| 33   | Swanna / Dusclops            |    1 |   7.14% | 100.00% |
+| 33   | Electivire / Dusclops        |    1 |   7.14% | 100.00% |
+| 33   | Torterra / Dusclops          |    1 |   7.14% | 100.00% |
+| 33   | Electivire / Swanna          |    1 |   7.14% | 100.00% |
+| 33   | Electivire / Torterra        |    1 |   7.14% | 100.00% |
+| 33   | Torterra / Misdreavus        |    1 |   7.14% | 100.00% |
+| 33   | Misdreavus / Simipour        |    1 |   7.14% | 100.00% |
+| 33   | Misdreavus / Shuckle         |    1 |   7.14% | 100.00% |
+| 33   | Misdreavus / Arbok           |    1 |   7.14% | 100.00% |
+| 33   | Misdreavus / Silvally        |    1 |   7.14% | 100.00% |
+| 33   | Torterra / Simipour          |    1 |   7.14% | 100.00% |
+| 33   | Torterra / Shuckle           |    1 |   7.14% | 100.00% |
+| 33   | Torterra / Arbok             |    1 |   7.14% | 100.00% |
+| 33   | Shuckle / Simipour           |    1 |   7.14% | 100.00% |
+| 33   | Arbok / Simipour             |    1 |   7.14% | 100.00% |
+| 33   | Silvally / Simipour          |    1 |   7.14% | 100.00% |
+| 33   | Arbok / Shuckle              |    1 |   7.14% | 100.00% |
+| 33   | Silvally / Arbok             |    1 |   7.14% | 100.00% |
+| 33   | Golem / Gourgeist-*          |    1 |   7.14% | 100.00% |
+| 33   | Golem / Gourgeist-Super      |    1 |   7.14% | 100.00% |
+| 33   | Furfrou / Muk                |    1 |   7.14% | 100.00% |
+| 33   | Furfrou / Kecleon            |    1 |   7.14% | 100.00% |
+| 33   | Gourgeist-* / Muk            |    1 |   7.14% | 100.00% |
+| 33   | Kecleon / Gourgeist-*        |    1 |   7.14% | 100.00% |
+| 33   | Kecleon / Muk                |    1 |   7.14% | 100.00% |
+| 33   | Gourgeist-Super / Muk        |    1 |   7.14% | 100.00% |
+| 33   | Kecleon / Gourgeist-Super    |    1 |   7.14% | 100.00% |
+| 33   | Rapidash / Bronzor           |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Rapidash        |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Ditto             |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Gourgeist-*       |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Simipour          |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Gourgeist-Super   |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Bronzor         |    1 |   7.14% |   0.00% |
+| 33   | Ditto / Bronzor              |    1 |   7.14% |   0.00% |
+| 33   | Bronzor / Gourgeist-*        |    1 |   7.14% |   0.00% |
+| 33   | Bronzor / Simipour           |    1 |   7.14% |   0.00% |
+| 33   | Bronzor / Gourgeist-Super    |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Ditto           |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Gourgeist-*     |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Simipour        |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Gourgeist-Super |    1 |   7.14% |   0.00% |
+| 33   | Ditto / Gourgeist-*          |    1 |   7.14% |   0.00% |
+| 33   | Ditto / Simipour             |    1 |   7.14% |   0.00% |
+| 33   | Ditto / Gourgeist-Super      |    1 |   7.14% |   0.00% |
+| 33   | Gourgeist-* / Simipour       |    1 |   7.14% |   0.00% |
+| 33   | Gourgeist-Super / Simipour   |    1 |   7.14% |   0.00% |
+| 33   | Poliwrath / Kadabra          |    1 |   7.14% |   0.00% |
+| 33   | Kadabra / Golem              |    1 |   7.14% |   0.00% |
+| 33   | Kadabra / Furfrou            |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Kadabra         |    1 |   7.14% |   0.00% |
+| 33   | Poliwrath / Golem            |    1 |   7.14% |   0.00% |
+| 33   | Poliwrath / Furfrou          |    1 |   7.14% |   0.00% |
+| 33   | Poliwrath / Silvally         |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Poliwrath       |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Furfrou         |    1 |   7.14% |   0.00% |
+| 33   | Kadabra / Shuckle            |    1 |   7.14% |   0.00% |
+| 33   | Purugly / Shuckle            |    1 |   7.14% |   0.00% |
+| 33   | Trevenant / Shuckle          |    1 |   7.14% |   0.00% |
+| 33   | Raichu / Shuckle             |    1 |   7.14% |   0.00% |
+| 33   | Kadabra / Purugly            |    1 |   7.14% |   0.00% |
+| 33   | Kadabra / Trevenant          |    1 |   7.14% |   0.00% |
+| 33   | Raichu / Kadabra             |    1 |   7.14% |   0.00% |
+| 33   | Trevenant / Purugly          |    1 |   7.14% |   0.00% |
+| 33   | Raichu / Purugly             |    1 |   7.14% |   0.00% |
+| 33   | Silvally / Trevenant         |    1 |   7.14% |   0.00% |
+| 33   | Raichu / Trevenant           |    1 |   7.14% |   0.00% |
+| 33   | Raichu / Silvally            |    1 |   7.14% |   0.00% |
+| 33   | Mawile / Gourgeist-*         |    1 |   7.14% |   0.00% |
+| 33   | Gourgeist-* / Camerupt       |    1 |   7.14% |   0.00% |
+| 33   | Wishiwashi / Gourgeist-*     |    1 |   7.14% |   0.00% |
+| 33   | Silvally / Mawile            |    1 |   7.14% |   0.00% |
+| 33   | Mawile / Camerupt            |    1 |   7.14% |   0.00% |
+| 33   | Furfrou / Mawile             |    1 |   7.14% |   0.00% |
+| 33   | Mawile / Wishiwashi          |    1 |   7.14% |   0.00% |
+| 33   | Mawile / Gourgeist-Super     |    1 |   7.14% |   0.00% |
+| 33   | Silvally / Camerupt          |    1 |   7.14% |   0.00% |
+| 33   | Furfrou / Camerupt           |    1 |   7.14% |   0.00% |
+| 33   | Wishiwashi / Camerupt        |    1 |   7.14% |   0.00% |
+| 33   | Gourgeist-Super / Camerupt   |    1 |   7.14% |   0.00% |
+| 33   | Furfrou / Wishiwashi         |    1 |   7.14% |   0.00% |
+| 33   | Wishiwashi / Gourgeist-Super |    1 |   7.14% |   0.00% |
+| 33   | Grimer-Alola / Silvally      |    1 |   7.14% |   0.00% |
+| 33   | Grimer-Alola / Chatot        |    1 |   7.14% |   0.00% |
+| 33   | Simisage / Chatot            |    1 |   7.14% |   0.00% |
+| 33   | Golem / Grimer-Alola         |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Grimer-Alola    |    1 |   7.14% |   0.00% |
+| 33   | Electivire / Simisage        |    1 |   7.14% |   0.00% |
+| 33   | Grimer-Alola / Simisage      |    1 |   7.14% |   0.00% |
+| 33   | Simisage / Dusclops          |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Simisage          |    1 |   7.14% |   0.00% |
+| 33   | Kecleon / Simisage           |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Dusclops          |    1 |   7.14% |   0.00% |
+| 33   | Kecleon / Dusclops           |    1 |   7.14% |   0.00% |
+| 33   | Golem / Dusclops             |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Kecleon           |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Golem             |    1 |   7.14% |   0.00% |
+| 33   | Rapidash / Silvally          |    1 |   7.14% |   0.00% |
+| 33   | Torterra / Muk               |    1 |   7.14% |   0.00% |
+| 33   | Golem / Torterra             |    1 |   7.14% |   0.00% |
+| 33   | Torterra / Ditto             |    1 |   7.14% |   0.00% |
+| 33   | Muk / Swanna                 |    1 |   7.14% |   0.00% |
+| 33   | Golem / Swanna               |    1 |   7.14% |   0.00% |
+| 33   | Ditto / Swanna               |    1 |   7.14% |   0.00% |
+
++ ---- + --------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                             | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------- + ---- + ------- + ------- +
+| 1    | Electivire / Golem / Silvally           |    3 |  21.43% |  33.33% |
+| 1    | Golem / Silvally / Simisage             |    3 |  21.43% |  33.33% |
+| 3    | Golem / Silvally / Wishiwashi           |    2 |  14.29% | 100.00% |
+| 3    | Golem / Silvally / Purugly              |    2 |  14.29% | 100.00% |
+| 3    | Electivire / Golem / Chatot             |    2 |  14.29% |  50.00% |
+| 3    | Electivire / Silvally / Chatot          |    2 |  14.29% |  50.00% |
+| 3    | Golem / Silvally / Chatot               |    2 |  14.29% |  50.00% |
+| 3    | Golem / Silvally / Furfrou              |    2 |  14.29% |  50.00% |
+| 3    | Golem / Silvally / Ditto                |    2 |  14.29% |  50.00% |
+| 3    | Furfrou / Silvally / Gourgeist-*        |    2 |  14.29% |  50.00% |
+| 3    | Furfrou / Silvally / Gourgeist-Super    |    2 |  14.29% |  50.00% |
+| 3    | Torterra / Silvally / Swanna            |    2 |  14.29% |  50.00% |
+| 3    | Golem / Kecleon / Silvally              |    2 |  14.29% |  50.00% |
+| 3    | Golem / Silvally / Muk                  |    2 |  14.29% |  50.00% |
+| 15   | Electivire / Servine / Wishiwashi       |    1 |   7.14% | 100.00% |
+| 15   | Golem / Servine / Wishiwashi            |    1 |   7.14% | 100.00% |
+| 15   | Servine / Wishiwashi / Chatot           |    1 |   7.14% | 100.00% |
+| 15   | Servine / Wishiwashi / Silvally         |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Golem / Servine            |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Servine / Chatot           |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Servine / Silvally         |    1 |   7.14% | 100.00% |
+| 15   | Golem / Servine / Chatot                |    1 |   7.14% | 100.00% |
+| 15   | Golem / Servine / Silvally              |    1 |   7.14% | 100.00% |
+| 15   | Servine / Silvally / Chatot             |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Golem / Wishiwashi         |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Wishiwashi / Chatot        |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Silvally / Wishiwashi      |    1 |   7.14% | 100.00% |
+| 15   | Golem / Wishiwashi / Chatot             |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Wishiwashi / Chatot          |    1 |   7.14% | 100.00% |
+| 15   | Golem / Silvally / Bronzor              |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Simisage / Bronzor           |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Silvally / Bronzor           |    1 |   7.14% | 100.00% |
+| 15   | Purugly / Silvally / Bronzor            |    1 |   7.14% | 100.00% |
+| 15   | Golem / Simisage / Bronzor              |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Golem / Bronzor              |    1 |   7.14% | 100.00% |
+| 15   | Golem / Purugly / Bronzor               |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Simisage / Bronzor           |    1 |   7.14% | 100.00% |
+| 15   | Purugly / Simisage / Bronzor            |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Purugly / Bronzor            |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Golem / Silvally             |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Silvally / Simisage          |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Simisage / Purugly           |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Silvally / Purugly           |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Golem / Simisage             |    1 |   7.14% | 100.00% |
+| 15   | Golem / Simisage / Purugly              |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Golem / Purugly              |    1 |   7.14% | 100.00% |
+| 15   | Beheeyem / Simisage / Purugly           |    1 |   7.14% | 100.00% |
+| 15   | Golem / Wishiwashi / Purugly            |    1 |   7.14% | 100.00% |
+| 15   | Golem / Ditto / Wishiwashi              |    1 |   7.14% | 100.00% |
+| 15   | Golem / Wishiwashi / Leafeon            |    1 |   7.14% | 100.00% |
+| 15   | Golem / Silvally / Leafeon              |    1 |   7.14% | 100.00% |
+| 15   | Golem / Ditto / Purugly                 |    1 |   7.14% | 100.00% |
+| 15   | Golem / Purugly / Leafeon               |    1 |   7.14% | 100.00% |
+| 15   | Golem / Ditto / Leafeon                 |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Wishiwashi / Purugly         |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Wishiwashi / Ditto           |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Wishiwashi / Leafeon         |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Wishiwashi / Purugly            |    1 |   7.14% | 100.00% |
+| 15   | Wishiwashi / Purugly / Leafeon          |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Wishiwashi / Leafeon            |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Purugly / Ditto              |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Purugly / Leafeon            |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Ditto / Leafeon              |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Purugly / Leafeon               |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Mawile / Leafeon            |    1 |   7.14% | 100.00% |
+| 15   | Mawile / Lickilicky / Leafeon           |    1 |   7.14% | 100.00% |
+| 15   | Mawile / Muk / Leafeon                  |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Mawile / Leafeon                |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Mawile / Lickilicky         |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Mawile / Muk                |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Mawile / Ditto              |    1 |   7.14% | 100.00% |
+| 15   | Muk / Mawile / Lickilicky               |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Mawile / Lickilicky             |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Mawile / Muk                    |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Lickilicky / Leafeon        |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Muk / Leafeon               |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Ditto / Leafeon             |    1 |   7.14% | 100.00% |
+| 15   | Muk / Lickilicky / Leafeon              |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Lickilicky / Leafeon            |    1 |   7.14% | 100.00% |
+| 15   | Ditto / Muk / Leafeon                   |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Lickilicky / Muk            |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Ditto / Lickilicky          |    1 |   7.14% | 100.00% |
+| 15   | Sandslash / Ditto / Muk                 |    1 |   7.14% | 100.00% |
+| 15   | Muk / Ditto / Lickilicky                |    1 |   7.14% | 100.00% |
+| 15   | Swanna / Dusclops / Granbull            |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Dusclops / Granbull        |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Dusclops / Granbull          |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Dusclops / Granbull          |    1 |   7.14% | 100.00% |
+| 15   | Swanna / Electivire / Granbull          |    1 |   7.14% | 100.00% |
+| 15   | Swanna / Torterra / Granbull            |    1 |   7.14% | 100.00% |
+| 15   | Swanna / Silvally / Granbull            |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Torterra / Granbull        |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Silvally / Granbull        |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Silvally / Granbull          |    1 |   7.14% | 100.00% |
+| 15   | Swanna / Electivire / Dusclops          |    1 |   7.14% | 100.00% |
+| 15   | Swanna / Torterra / Dusclops            |    1 |   7.14% | 100.00% |
+| 15   | Swanna / Silvally / Dusclops            |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Torterra / Dusclops        |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Silvally / Dusclops        |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Silvally / Dusclops          |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Torterra / Swanna          |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Silvally / Swanna          |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Torterra / Silvally        |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Misdreavus / Simipour        |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Misdreavus / Shuckle         |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Misdreavus / Arbok           |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Misdreavus / Silvally        |    1 |   7.14% | 100.00% |
+| 15   | Shuckle / Misdreavus / Simipour         |    1 |   7.14% | 100.00% |
+| 15   | Misdreavus / Arbok / Simipour           |    1 |   7.14% | 100.00% |
+| 15   | Misdreavus / Simipour / Silvally        |    1 |   7.14% | 100.00% |
+| 15   | Misdreavus / Arbok / Shuckle            |    1 |   7.14% | 100.00% |
+| 15   | Misdreavus / Shuckle / Silvally         |    1 |   7.14% | 100.00% |
+| 15   | Misdreavus / Arbok / Silvally           |    1 |   7.14% | 100.00% |
+| 15   | Shuckle / Torterra / Simipour           |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Arbok / Simipour             |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Silvally / Simipour          |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Arbok / Shuckle              |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Silvally / Shuckle           |    1 |   7.14% | 100.00% |
+| 15   | Torterra / Silvally / Arbok             |    1 |   7.14% | 100.00% |
+| 15   | Shuckle / Arbok / Simipour              |    1 |   7.14% | 100.00% |
+| 15   | Shuckle / Silvally / Simipour           |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Arbok / Simipour             |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Arbok / Shuckle              |    1 |   7.14% | 100.00% |
+| 15   | Golem / Gourgeist-* / Furfrou           |    1 |   7.14% | 100.00% |
+| 15   | Golem / Muk / Furfrou                   |    1 |   7.14% | 100.00% |
+| 15   | Golem / Kecleon / Furfrou               |    1 |   7.14% | 100.00% |
+| 15   | Golem / Gourgeist-Super / Furfrou       |    1 |   7.14% | 100.00% |
+| 15   | Golem / Gourgeist-* / Muk               |    1 |   7.14% | 100.00% |
+| 15   | Golem / Silvally / Gourgeist-*          |    1 |   7.14% | 100.00% |
+| 15   | Golem / Kecleon / Gourgeist-*           |    1 |   7.14% | 100.00% |
+| 15   | Golem / Kecleon / Muk                   |    1 |   7.14% | 100.00% |
+| 15   | Golem / Gourgeist-Super / Muk           |    1 |   7.14% | 100.00% |
+| 15   | Golem / Silvally / Gourgeist-Super      |    1 |   7.14% | 100.00% |
+| 15   | Golem / Kecleon / Gourgeist-Super       |    1 |   7.14% | 100.00% |
+| 15   | Furfrou / Gourgeist-* / Muk             |    1 |   7.14% | 100.00% |
+| 15   | Furfrou / Kecleon / Gourgeist-*         |    1 |   7.14% | 100.00% |
+| 15   | Furfrou / Silvally / Muk                |    1 |   7.14% | 100.00% |
+| 15   | Furfrou / Kecleon / Muk                 |    1 |   7.14% | 100.00% |
+| 15   | Furfrou / Gourgeist-Super / Muk         |    1 |   7.14% | 100.00% |
+| 15   | Furfrou / Silvally / Kecleon            |    1 |   7.14% | 100.00% |
+| 15   | Furfrou / Kecleon / Gourgeist-Super     |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Gourgeist-* / Muk            |    1 |   7.14% | 100.00% |
+| 15   | Kecleon / Gourgeist-* / Muk             |    1 |   7.14% | 100.00% |
+| 15   | Kecleon / Silvally / Gourgeist-*        |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Kecleon / Muk                |    1 |   7.14% | 100.00% |
+| 15   | Gourgeist-Super / Silvally / Muk        |    1 |   7.14% | 100.00% |
+| 15   | Gourgeist-Super / Kecleon / Muk         |    1 |   7.14% | 100.00% |
+| 15   | Silvally / Kecleon / Gourgeist-Super    |    1 |   7.14% | 100.00% |
+| 15   | Electivire / Rapidash / Bronzor         |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Ditto / Bronzor              |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Bronzor / Gourgeist-*        |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Bronzor / Simipour           |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Bronzor / Gourgeist-Super    |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Rapidash / Ditto           |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Rapidash / Gourgeist-*     |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Rapidash / Simipour        |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Rapidash / Gourgeist-Super |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Ditto / Gourgeist-*          |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Ditto / Simipour             |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Ditto / Gourgeist-Super      |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Gourgeist-* / Simipour       |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Gourgeist-Super / Simipour   |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Ditto / Bronzor            |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Bronzor / Gourgeist-*      |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Bronzor / Simipour         |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Bronzor / Gourgeist-Super  |    1 |   7.14% |   0.00% |
+| 15   | Ditto / Bronzor / Gourgeist-*           |    1 |   7.14% |   0.00% |
+| 15   | Ditto / Bronzor / Simipour              |    1 |   7.14% |   0.00% |
+| 15   | Ditto / Bronzor / Gourgeist-Super       |    1 |   7.14% |   0.00% |
+| 15   | Bronzor / Simipour / Gourgeist-*        |    1 |   7.14% |   0.00% |
+| 15   | Gourgeist-Super / Bronzor / Simipour    |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Ditto / Gourgeist-*        |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Ditto / Simipour           |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Ditto / Gourgeist-Super    |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Gourgeist-* / Simipour     |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Gourgeist-Super / Simipour |    1 |   7.14% |   0.00% |
+| 15   | Ditto / Gourgeist-* / Simipour          |    1 |   7.14% |   0.00% |
+| 15   | Gourgeist-Super / Ditto / Simipour      |    1 |   7.14% |   0.00% |
+| 15   | Poliwrath / Kadabra / Golem             |    1 |   7.14% |   0.00% |
+| 15   | Poliwrath / Kadabra / Furfrou           |    1 |   7.14% |   0.00% |
+| 15   | Poliwrath / Kadabra / Silvally          |    1 |   7.14% |   0.00% |
+| 15   | Poliwrath / Kadabra / Electivire        |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Golem / Furfrou               |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Golem / Silvally              |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Kadabra / Golem            |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Silvally / Furfrou            |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Kadabra / Furfrou          |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Kadabra / Silvally         |    1 |   7.14% |   0.00% |
+| 15   | Poliwrath / Golem / Furfrou             |    1 |   7.14% |   0.00% |
+| 15   | Poliwrath / Golem / Silvally            |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Poliwrath / Golem          |    1 |   7.14% |   0.00% |
+| 15   | Poliwrath / Silvally / Furfrou          |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Poliwrath / Furfrou        |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Poliwrath / Silvally       |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Golem / Furfrou            |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Furfrou / Silvally         |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Purugly / Shuckle             |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Trevenant / Shuckle           |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Silvally / Shuckle            |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Kadabra / Shuckle              |    1 |   7.14% |   0.00% |
+| 15   | Trevenant / Purugly / Shuckle           |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Purugly / Shuckle            |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Purugly / Shuckle              |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Trevenant / Shuckle          |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Trevenant / Shuckle            |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Silvally / Shuckle             |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Trevenant / Purugly           |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Silvally / Purugly            |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Kadabra / Purugly              |    1 |   7.14% |   0.00% |
+| 15   | Kadabra / Silvally / Trevenant          |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Kadabra / Trevenant            |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Kadabra / Silvally             |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Trevenant / Purugly          |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Trevenant / Purugly            |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Silvally / Purugly             |    1 |   7.14% |   0.00% |
+| 15   | Raichu / Silvally / Trevenant           |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Mawile / Gourgeist-*         |    1 |   7.14% |   0.00% |
+| 15   | Mawile / Gourgeist-* / Camerupt         |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Mawile / Gourgeist-*          |    1 |   7.14% |   0.00% |
+| 15   | Wishiwashi / Mawile / Gourgeist-*       |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Gourgeist-* / Camerupt       |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Wishiwashi / Gourgeist-*     |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Gourgeist-* / Camerupt        |    1 |   7.14% |   0.00% |
+| 15   | Wishiwashi / Gourgeist-* / Camerupt     |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Wishiwashi / Gourgeist-*      |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Mawile / Camerupt            |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Silvally / Mawile             |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Mawile / Wishiwashi          |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Mawile / Gourgeist-Super     |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Mawile / Camerupt             |    1 |   7.14% |   0.00% |
+| 15   | Mawile / Wishiwashi / Camerupt          |    1 |   7.14% |   0.00% |
+| 15   | Gourgeist-Super / Mawile / Camerupt     |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Mawile / Wishiwashi           |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Mawile / Gourgeist-Super      |    1 |   7.14% |   0.00% |
+| 15   | Mawile / Wishiwashi / Gourgeist-Super   |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Silvally / Camerupt           |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Wishiwashi / Camerupt        |    1 |   7.14% |   0.00% |
+| 15   | Gourgeist-Super / Silvally / Camerupt   |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Silvally / Wishiwashi         |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Wishiwashi / Gourgeist-Super |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Wishiwashi / Camerupt         |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Gourgeist-Super / Camerupt    |    1 |   7.14% |   0.00% |
+| 15   | Gourgeist-Super / Wishiwashi / Camerupt |    1 |   7.14% |   0.00% |
+| 15   | Furfrou / Wishiwashi / Gourgeist-Super  |    1 |   7.14% |   0.00% |
+| 15   | Grimer-Alola / Silvally / Chatot        |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Simisage / Chatot            |    1 |   7.14% |   0.00% |
+| 15   | Golem / Grimer-Alola / Silvally         |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Grimer-Alola / Silvally    |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Silvally / Simisage        |    1 |   7.14% |   0.00% |
+| 15   | Grimer-Alola / Silvally / Simisage      |    1 |   7.14% |   0.00% |
+| 15   | Golem / Grimer-Alola / Chatot           |    1 |   7.14% |   0.00% |
+| 15   | Golem / Simisage / Chatot               |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Grimer-Alola / Chatot      |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Simisage / Chatot          |    1 |   7.14% |   0.00% |
+| 15   | Grimer-Alola / Simisage / Chatot        |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Golem / Grimer-Alola       |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Golem / Simisage           |    1 |   7.14% |   0.00% |
+| 15   | Golem / Grimer-Alola / Simisage         |    1 |   7.14% |   0.00% |
+| 15   | Electivire / Grimer-Alola / Simisage    |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Simisage / Dusclops          |    1 |   7.14% |   0.00% |
+| 15   | Kecleon / Simisage / Dusclops           |    1 |   7.14% |   0.00% |
+| 15   | Golem / Simisage / Dusclops             |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Simisage / Dusclops          |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Kecleon / Simisage           |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Golem / Simisage             |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Silvally / Simisage          |    1 |   7.14% |   0.00% |
+| 15   | Golem / Kecleon / Simisage              |    1 |   7.14% |   0.00% |
+| 15   | Kecleon / Simisage / Silvally           |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Kecleon / Dusclops           |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Golem / Dusclops             |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Silvally / Dusclops          |    1 |   7.14% |   0.00% |
+| 15   | Golem / Kecleon / Dusclops              |    1 |   7.14% |   0.00% |
+| 15   | Kecleon / Silvally / Dusclops           |    1 |   7.14% |   0.00% |
+| 15   | Golem / Silvally / Dusclops             |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Golem / Kecleon              |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Kecleon / Silvally           |    1 |   7.14% |   0.00% |
+| 15   | Rapidash / Golem / Silvally             |    1 |   7.14% |   0.00% |
+| 15   | Torterra / Silvally / Muk               |    1 |   7.14% |   0.00% |
+| 15   | Torterra / Muk / Swanna                 |    1 |   7.14% |   0.00% |
+| 15   | Golem / Torterra / Muk                  |    1 |   7.14% |   0.00% |
+| 15   | Torterra / Ditto / Muk                  |    1 |   7.14% |   0.00% |
+| 15   | Golem / Torterra / Silvally             |    1 |   7.14% |   0.00% |
+| 15   | Torterra / Silvally / Ditto             |    1 |   7.14% |   0.00% |
+| 15   | Golem / Torterra / Swanna               |    1 |   7.14% |   0.00% |
+| 15   | Torterra / Ditto / Swanna               |    1 |   7.14% |   0.00% |
+| 15   | Golem / Torterra / Ditto                |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Muk / Swanna                 |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Ditto / Muk                  |    1 |   7.14% |   0.00% |
+| 15   | Golem / Muk / Swanna                    |    1 |   7.14% |   0.00% |
+| 15   | Ditto / Muk / Swanna                    |    1 |   7.14% |   0.00% |
+| 15   | Golem / Ditto / Muk                     |    1 |   7.14% |   0.00% |
+| 15   | Golem / Silvally / Swanna               |    1 |   7.14% |   0.00% |
+| 15   | Silvally / Ditto / Swanna               |    1 |   7.14% |   0.00% |
+| 15   | Golem / Ditto / Swanna                  |    1 |   7.14% |   0.00% |
+
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                        | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Electivire / Golem / Silvally / Chatot             |    2 |  14.29% |  50.00% |
+| 2    | Electivire / Golem / Servine / Wishiwashi          |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Servine / Wishiwashi / Chatot         |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Servine / Wishiwashi / Silvally       |    1 |   7.14% | 100.00% |
+| 2    | Golem / Servine / Wishiwashi / Chatot              |    1 |   7.14% | 100.00% |
+| 2    | Golem / Servine / Wishiwashi / Silvally            |    1 |   7.14% | 100.00% |
+| 2    | Silvally / Servine / Wishiwashi / Chatot           |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Golem / Servine / Chatot              |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Golem / Servine / Silvally            |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Servine / Silvally / Chatot           |    1 |   7.14% | 100.00% |
+| 2    | Golem / Servine / Silvally / Chatot                |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Golem / Wishiwashi / Chatot           |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Golem / Silvally / Wishiwashi         |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Silvally / Wishiwashi / Chatot        |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Wishiwashi / Chatot             |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Simisage / Bronzor              |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Golem / Silvally / Bronzor              |    1 |   7.14% | 100.00% |
+| 2    | Golem / Purugly / Silvally / Bronzor               |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Silvally / Simisage / Bronzor           |    1 |   7.14% | 100.00% |
+| 2    | Purugly / Silvally / Simisage / Bronzor            |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Purugly / Silvally / Bronzor            |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Golem / Simisage / Bronzor              |    1 |   7.14% | 100.00% |
+| 2    | Golem / Purugly / Simisage / Bronzor               |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Golem / Purugly / Bronzor               |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Purugly / Simisage / Bronzor            |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Golem / Silvally / Simisage             |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Simisage / Purugly              |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Golem / Silvally / Purugly              |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Silvally / Simisage / Purugly           |    1 |   7.14% | 100.00% |
+| 2    | Beheeyem / Golem / Simisage / Purugly              |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Wishiwashi / Purugly            |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Wishiwashi / Ditto              |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Wishiwashi / Leafeon            |    1 |   7.14% | 100.00% |
+| 2    | Golem / Ditto / Wishiwashi / Purugly               |    1 |   7.14% | 100.00% |
+| 2    | Golem / Wishiwashi / Purugly / Leafeon             |    1 |   7.14% | 100.00% |
+| 2    | Golem / Ditto / Wishiwashi / Leafeon               |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Purugly / Ditto                 |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Purugly / Leafeon               |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Ditto / Leafeon                 |    1 |   7.14% | 100.00% |
+| 2    | Golem / Ditto / Purugly / Leafeon                  |    1 |   7.14% | 100.00% |
+| 2    | Silvally / Wishiwashi / Purugly / Ditto            |    1 |   7.14% | 100.00% |
+| 2    | Silvally / Wishiwashi / Purugly / Leafeon          |    1 |   7.14% | 100.00% |
+| 2    | Silvally / Wishiwashi / Ditto / Leafeon            |    1 |   7.14% | 100.00% |
+| 2    | Ditto / Wishiwashi / Purugly / Leafeon             |    1 |   7.14% | 100.00% |
+| 2    | Silvally / Purugly / Ditto / Leafeon               |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Mawile / Lickilicky / Leafeon          |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Mawile / Muk / Leafeon                 |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Mawile / Ditto / Leafeon               |    1 |   7.14% | 100.00% |
+| 2    | Muk / Mawile / Lickilicky / Leafeon                |    1 |   7.14% | 100.00% |
+| 2    | Ditto / Mawile / Lickilicky / Leafeon              |    1 |   7.14% | 100.00% |
+| 2    | Ditto / Mawile / Muk / Leafeon                     |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Mawile / Lickilicky / Muk              |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Mawile / Ditto / Lickilicky            |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Mawile / Ditto / Muk                   |    1 |   7.14% | 100.00% |
+| 2    | Muk / Mawile / Ditto / Lickilicky                  |    1 |   7.14% | 100.00% |
+| 2    | Muk / Sandslash / Lickilicky / Leafeon             |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Ditto / Lickilicky / Leafeon           |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Ditto / Muk / Leafeon                  |    1 |   7.14% | 100.00% |
+| 2    | Muk / Ditto / Lickilicky / Leafeon                 |    1 |   7.14% | 100.00% |
+| 2    | Sandslash / Ditto / Lickilicky / Muk               |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Electivire / Dusclops / Granbull          |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Torterra / Dusclops / Granbull            |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Silvally / Dusclops / Granbull            |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Torterra / Dusclops / Granbull        |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Silvally / Dusclops / Granbull        |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Silvally / Dusclops / Granbull          |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Electivire / Torterra / Granbull          |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Electivire / Silvally / Granbull          |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Torterra / Silvally / Granbull            |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Torterra / Silvally / Granbull        |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Electivire / Torterra / Dusclops          |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Electivire / Silvally / Dusclops          |    1 |   7.14% | 100.00% |
+| 2    | Swanna / Torterra / Silvally / Dusclops            |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Torterra / Silvally / Dusclops        |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Torterra / Silvally / Swanna          |    1 |   7.14% | 100.00% |
+| 2    | Shuckle / Torterra / Misdreavus / Simipour         |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Misdreavus / Arbok / Simipour           |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Misdreavus / Simipour / Silvally        |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Misdreavus / Arbok / Shuckle            |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Misdreavus / Shuckle / Silvally         |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Misdreavus / Arbok / Silvally           |    1 |   7.14% | 100.00% |
+| 2    | Shuckle / Misdreavus / Arbok / Simipour            |    1 |   7.14% | 100.00% |
+| 2    | Shuckle / Misdreavus / Simipour / Silvally         |    1 |   7.14% | 100.00% |
+| 2    | Misdreavus / Arbok / Simipour / Silvally           |    1 |   7.14% | 100.00% |
+| 2    | Misdreavus / Arbok / Shuckle / Silvally            |    1 |   7.14% | 100.00% |
+| 2    | Shuckle / Torterra / Arbok / Simipour              |    1 |   7.14% | 100.00% |
+| 2    | Shuckle / Torterra / Silvally / Simipour           |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Silvally / Arbok / Simipour             |    1 |   7.14% | 100.00% |
+| 2    | Torterra / Silvally / Arbok / Shuckle              |    1 |   7.14% | 100.00% |
+| 2    | Shuckle / Silvally / Arbok / Simipour              |    1 |   7.14% | 100.00% |
+| 2    | Golem / Gourgeist-* / Muk / Furfrou                |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Gourgeist-* / Furfrou           |    1 |   7.14% | 100.00% |
+| 2    | Golem / Kecleon / Gourgeist-* / Furfrou            |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Muk / Furfrou                   |    1 |   7.14% | 100.00% |
+| 2    | Golem / Kecleon / Muk / Furfrou                    |    1 |   7.14% | 100.00% |
+| 2    | Golem / Gourgeist-Super / Muk / Furfrou            |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Kecleon / Furfrou               |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Gourgeist-Super / Furfrou       |    1 |   7.14% | 100.00% |
+| 2    | Golem / Kecleon / Gourgeist-Super / Furfrou        |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Gourgeist-* / Muk               |    1 |   7.14% | 100.00% |
+| 2    | Golem / Kecleon / Gourgeist-* / Muk                |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Gourgeist-* / Kecleon           |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Kecleon / Muk                   |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Gourgeist-Super / Muk           |    1 |   7.14% | 100.00% |
+| 2    | Golem / Kecleon / Gourgeist-Super / Muk            |    1 |   7.14% | 100.00% |
+| 2    | Golem / Silvally / Kecleon / Gourgeist-Super       |    1 |   7.14% | 100.00% |
+| 2    | Furfrou / Silvally / Gourgeist-* / Muk             |    1 |   7.14% | 100.00% |
+| 2    | Furfrou / Kecleon / Gourgeist-* / Muk              |    1 |   7.14% | 100.00% |
+| 2    | Furfrou / Silvally / Gourgeist-* / Kecleon         |    1 |   7.14% | 100.00% |
+| 2    | Furfrou / Silvally / Kecleon / Muk                 |    1 |   7.14% | 100.00% |
+| 2    | Furfrou / Silvally / Gourgeist-Super / Muk         |    1 |   7.14% | 100.00% |
+| 2    | Furfrou / Kecleon / Gourgeist-Super / Muk          |    1 |   7.14% | 100.00% |
+| 2    | Furfrou / Silvally / Kecleon / Gourgeist-Super     |    1 |   7.14% | 100.00% |
+| 2    | Kecleon / Silvally / Gourgeist-* / Muk             |    1 |   7.14% | 100.00% |
+| 2    | Gourgeist-Super / Silvally / Kecleon / Muk         |    1 |   7.14% | 100.00% |
+| 2    | Electivire / Rapidash / Ditto / Bronzor            |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Bronzor / Gourgeist-*      |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Bronzor / Simipour         |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Bronzor / Gourgeist-Super  |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Ditto / Bronzor / Gourgeist-*           |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Ditto / Bronzor / Simipour              |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Ditto / Bronzor / Gourgeist-Super       |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Bronzor / Simipour / Gourgeist-*        |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Gourgeist-Super / Bronzor / Simipour    |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Ditto / Gourgeist-*        |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Ditto / Simipour           |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Ditto / Gourgeist-Super    |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Gourgeist-* / Simipour     |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Rapidash / Gourgeist-Super / Simipour |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Ditto / Gourgeist-* / Simipour          |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Ditto / Gourgeist-Super / Simipour      |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Ditto / Bronzor / Gourgeist-*         |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Ditto / Bronzor / Simipour            |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Ditto / Bronzor / Gourgeist-Super     |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Bronzor / Simipour / Gourgeist-*      |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Gourgeist-Super / Bronzor / Simipour  |    1 |   7.14% |   0.00% |
+| 2    | Ditto / Bronzor / Simipour / Gourgeist-*           |    1 |   7.14% |   0.00% |
+| 2    | Gourgeist-Super / Ditto / Bronzor / Simipour       |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Ditto / Gourgeist-* / Simipour        |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Gourgeist-Super / Ditto / Simipour    |    1 |   7.14% |   0.00% |
+| 2    | Poliwrath / Kadabra / Golem / Furfrou              |    1 |   7.14% |   0.00% |
+| 2    | Poliwrath / Kadabra / Golem / Silvally             |    1 |   7.14% |   0.00% |
+| 2    | Poliwrath / Kadabra / Golem / Electivire           |    1 |   7.14% |   0.00% |
+| 2    | Poliwrath / Kadabra / Silvally / Furfrou           |    1 |   7.14% |   0.00% |
+| 2    | Poliwrath / Kadabra / Electivire / Furfrou         |    1 |   7.14% |   0.00% |
+| 2    | Poliwrath / Kadabra / Silvally / Electivire        |    1 |   7.14% |   0.00% |
+| 2    | Kadabra / Golem / Silvally / Furfrou               |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Kadabra / Golem / Furfrou             |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Kadabra / Golem / Silvally            |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Kadabra / Silvally / Furfrou          |    1 |   7.14% |   0.00% |
+| 2    | Poliwrath / Golem / Silvally / Furfrou             |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Poliwrath / Golem / Furfrou           |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Poliwrath / Golem / Silvally          |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Poliwrath / Silvally / Furfrou        |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Golem / Silvally / Furfrou            |    1 |   7.14% |   0.00% |
+| 2    | Kadabra / Trevenant / Purugly / Shuckle            |    1 |   7.14% |   0.00% |
+| 2    | Kadabra / Silvally / Purugly / Shuckle             |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Kadabra / Purugly / Shuckle               |    1 |   7.14% |   0.00% |
+| 2    | Kadabra / Silvally / Trevenant / Shuckle           |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Kadabra / Trevenant / Shuckle             |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Kadabra / Silvally / Shuckle              |    1 |   7.14% |   0.00% |
+| 2    | Silvally / Trevenant / Purugly / Shuckle           |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Trevenant / Purugly / Shuckle             |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Silvally / Purugly / Shuckle              |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Silvally / Trevenant / Shuckle            |    1 |   7.14% |   0.00% |
+| 2    | Kadabra / Silvally / Trevenant / Purugly           |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Kadabra / Trevenant / Purugly             |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Kadabra / Silvally / Purugly              |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Kadabra / Silvally / Trevenant            |    1 |   7.14% |   0.00% |
+| 2    | Raichu / Silvally / Trevenant / Purugly            |    1 |   7.14% |   0.00% |
+| 2    | Silvally / Mawile / Gourgeist-* / Camerupt         |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Mawile / Gourgeist-*          |    1 |   7.14% |   0.00% |
+| 2    | Wishiwashi / Silvally / Mawile / Gourgeist-*       |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Mawile / Gourgeist-* / Camerupt          |    1 |   7.14% |   0.00% |
+| 2    | Wishiwashi / Mawile / Gourgeist-* / Camerupt       |    1 |   7.14% |   0.00% |
+| 2    | Wishiwashi / Furfrou / Mawile / Gourgeist-*        |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Gourgeist-* / Camerupt        |    1 |   7.14% |   0.00% |
+| 2    | Silvally / Wishiwashi / Gourgeist-* / Camerupt     |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Wishiwashi / Gourgeist-*      |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Wishiwashi / Gourgeist-* / Camerupt      |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Mawile / Camerupt             |    1 |   7.14% |   0.00% |
+| 2    | Silvally / Mawile / Wishiwashi / Camerupt          |    1 |   7.14% |   0.00% |
+| 2    | Gourgeist-Super / Silvally / Mawile / Camerupt     |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Mawile / Wishiwashi           |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Mawile / Gourgeist-Super      |    1 |   7.14% |   0.00% |
+| 2    | Silvally / Mawile / Wishiwashi / Gourgeist-Super   |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Mawile / Wishiwashi / Camerupt           |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Mawile / Gourgeist-Super / Camerupt      |    1 |   7.14% |   0.00% |
+| 2    | Gourgeist-Super / Mawile / Wishiwashi / Camerupt   |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Mawile / Wishiwashi / Gourgeist-Super    |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Wishiwashi / Camerupt         |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Gourgeist-Super / Camerupt    |    1 |   7.14% |   0.00% |
+| 2    | Gourgeist-Super / Silvally / Wishiwashi / Camerupt |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Silvally / Wishiwashi / Gourgeist-Super  |    1 |   7.14% |   0.00% |
+| 2    | Furfrou / Wishiwashi / Gourgeist-Super / Camerupt  |    1 |   7.14% |   0.00% |
+| 2    | Golem / Grimer-Alola / Silvally / Chatot           |    1 |   7.14% |   0.00% |
+| 2    | Golem / Silvally / Simisage / Chatot               |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Grimer-Alola / Silvally / Chatot      |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Silvally / Simisage / Chatot          |    1 |   7.14% |   0.00% |
+| 2    | Grimer-Alola / Silvally / Simisage / Chatot        |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Golem / Grimer-Alola / Silvally       |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Golem / Silvally / Simisage           |    1 |   7.14% |   0.00% |
+| 2    | Golem / Grimer-Alola / Silvally / Simisage         |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Grimer-Alola / Silvally / Simisage    |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Golem / Grimer-Alola / Chatot         |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Golem / Simisage / Chatot             |    1 |   7.14% |   0.00% |
+| 2    | Golem / Grimer-Alola / Simisage / Chatot           |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Grimer-Alola / Simisage / Chatot      |    1 |   7.14% |   0.00% |
+| 2    | Electivire / Golem / Grimer-Alola / Simisage       |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Kecleon / Simisage / Dusclops           |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Golem / Simisage / Dusclops             |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Silvally / Simisage / Dusclops          |    1 |   7.14% |   0.00% |
+| 2    | Golem / Kecleon / Simisage / Dusclops              |    1 |   7.14% |   0.00% |
+| 2    | Silvally / Kecleon / Simisage / Dusclops           |    1 |   7.14% |   0.00% |
+| 2    | Golem / Silvally / Simisage / Dusclops             |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Golem / Kecleon / Simisage              |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Kecleon / Simisage / Silvally           |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Golem / Simisage / Silvally             |    1 |   7.14% |   0.00% |
+| 2    | Golem / Kecleon / Simisage / Silvally              |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Golem / Kecleon / Dusclops              |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Kecleon / Silvally / Dusclops           |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Golem / Silvally / Dusclops             |    1 |   7.14% |   0.00% |
+| 2    | Golem / Kecleon / Silvally / Dusclops              |    1 |   7.14% |   0.00% |
+| 2    | Rapidash / Golem / Kecleon / Silvally              |    1 |   7.14% |   0.00% |
+| 2    | Torterra / Silvally / Muk / Swanna                 |    1 |   7.14% |   0.00% |
+| 2    | Golem / Torterra / Silvally / Muk                  |    1 |   7.14% |   0.00% |
+| 2    | Torterra / Silvally / Ditto / Muk                  |    1 |   7.14% |   0.00% |
+| 2    | Golem / Torterra / Muk / Swanna                    |    1 |   7.14% |   0.00% |
+| 2    | Torterra / Ditto / Muk / Swanna                    |    1 |   7.14% |   0.00% |
+| 2    | Golem / Torterra / Ditto / Muk                     |    1 |   7.14% |   0.00% |
+| 2    | Golem / Torterra / Silvally / Swanna               |    1 |   7.14% |   0.00% |
+| 2    | Torterra / Silvally / Ditto / Swanna               |    1 |   7.14% |   0.00% |
+| 2    | Golem / Torterra / Silvally / Ditto                |    1 |   7.14% |   0.00% |
+| 2    | Golem / Torterra / Ditto / Swanna                  |    1 |   7.14% |   0.00% |
+| 2    | Golem / Silvally / Muk / Swanna                    |    1 |   7.14% |   0.00% |
+| 2    | Silvally / Ditto / Muk / Swanna                    |    1 |   7.14% |   0.00% |
+| 2    | Golem / Silvally / Ditto / Muk                     |    1 |   7.14% |   0.00% |
+| 2    | Golem / Ditto / Muk / Swanna                       |    1 |   7.14% |   0.00% |
+| 2    | Golem / Silvally / Ditto / Swanna                  |    1 |   7.14% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Golem / Wishiwashi / Electivire / Servine / Chatot           |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Wishiwashi / Electivire / Servine         |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Wishiwashi / Electivire / Servine / Chatot        |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Wishiwashi / Servine / Chatot             |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Electivire / Servine / Chatot             |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Wishiwashi / Electivire / Chatot          |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Simisage / Bronzor / Beheeyem             |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Simisage / Purugly / Bronzor              |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Purugly / Bronzor / Beheeyem              |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Simisage / Purugly / Bronzor / Beheeyem           |    1 |   7.14% | 100.00% |
+| 1    | Golem / Simisage / Purugly / Bronzor / Beheeyem              |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Simisage / Purugly / Beheeyem             |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Wishiwashi / Purugly / Ditto              |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Wishiwashi / Purugly / Leafeon            |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Wishiwashi / Leafeon / Ditto              |    1 |   7.14% | 100.00% |
+| 1    | Golem / Wishiwashi / Purugly / Leafeon / Ditto               |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Purugly / Leafeon / Ditto                 |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Wishiwashi / Purugly / Leafeon / Ditto            |    1 |   7.14% | 100.00% |
+| 1    | Lickilicky / Sandslash / Leafeon / Mawile / Muk              |    1 |   7.14% | 100.00% |
+| 1    | Sandslash / Leafeon / Mawile / Ditto / Lickilicky            |    1 |   7.14% | 100.00% |
+| 1    | Sandslash / Leafeon / Mawile / Ditto / Muk                   |    1 |   7.14% | 100.00% |
+| 1    | Lickilicky / Leafeon / Mawile / Ditto / Muk                  |    1 |   7.14% | 100.00% |
+| 1    | Sandslash / Muk / Mawile / Ditto / Lickilicky                |    1 |   7.14% | 100.00% |
+| 1    | Lickilicky / Sandslash / Leafeon / Ditto / Muk               |    1 |   7.14% | 100.00% |
+| 1    | Swanna / Electivire / Dusclops / Torterra / Granbull         |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Swanna / Electivire / Dusclops / Granbull         |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Swanna / Dusclops / Granbull / Torterra           |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Dusclops / Electivire / Granbull / Torterra       |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Swanna / Electivire / Granbull / Torterra         |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Swanna / Electivire / Dusclops / Torterra         |    1 |   7.14% | 100.00% |
+| 1    | Simipour / Torterra / Misdreavus / Arbok / Shuckle           |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Simipour / Torterra / Misdreavus / Shuckle        |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Simipour / Torterra / Misdreavus / Arbok          |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Torterra / Misdreavus / Arbok / Shuckle           |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Simipour / Misdreavus / Arbok / Shuckle           |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Simipour / Torterra / Arbok / Shuckle             |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Furfrou / Gourgeist-* / Muk               |    1 |   7.14% | 100.00% |
+| 1    | Golem / Furfrou / Kecleon / Gourgeist-* / Muk                |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Furfrou / Kecleon / Gourgeist-*           |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Furfrou / Kecleon / Muk                   |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Furfrou / Gourgeist-Super / Muk           |    1 |   7.14% | 100.00% |
+| 1    | Golem / Furfrou / Kecleon / Gourgeist-Super / Muk            |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Furfrou / Kecleon / Gourgeist-Super       |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Kecleon / Gourgeist-* / Muk               |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Kecleon / Gourgeist-Super / Muk           |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Furfrou / Kecleon / Gourgeist-* / Muk             |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Furfrou / Kecleon / Gourgeist-Super / Muk         |    1 |   7.14% | 100.00% |
+| 1    | Bronzor / Electivire / Gourgeist-* / Rapidash / Ditto        |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Electivire / Rapidash / Ditto           |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Electivire / Gourgeist-Super / Rapidash / Ditto    |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Electivire / Gourgeist-* / Rapidash     |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Electivire / Gourgeist-Super / Rapidash |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Gourgeist-* / Rapidash / Ditto          |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Gourgeist-Super / Rapidash / Ditto      |    1 |   7.14% |   0.00% |
+| 1    | Simipour / Electivire / Gourgeist-* / Rapidash / Ditto       |    1 |   7.14% |   0.00% |
+| 1    | Simipour / Electivire / Gourgeist-Super / Rapidash / Ditto   |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Electivire / Gourgeist-* / Ditto        |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Electivire / Gourgeist-Super / Ditto    |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Kadabra / Furfrou / Poliwrath             |    1 |   7.14% |   0.00% |
+| 1    | Golem / Electivire / Kadabra / Furfrou / Poliwrath           |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Electivire / Kadabra / Poliwrath          |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Electivire / Kadabra / Furfrou / Poliwrath        |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Electivire / Kadabra / Furfrou            |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Electivire / Furfrou / Poliwrath          |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Purugly / Kadabra / Trevenant / Shuckle           |    1 |   7.14% |   0.00% |
+| 1    | Purugly / Kadabra / Trevenant / Raichu / Shuckle             |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Purugly / Kadabra / Raichu / Shuckle              |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Kadabra / Trevenant / Raichu / Shuckle            |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Purugly / Trevenant / Raichu / Shuckle            |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Purugly / Kadabra / Trevenant / Raichu            |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Furfrou / Mawile / Gourgeist-* / Camerupt         |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Mawile / Gourgeist-* / Camerupt      |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Furfrou / Mawile / Gourgeist-*       |    1 |   7.14% |   0.00% |
+| 1    | Wishiwashi / Furfrou / Mawile / Gourgeist-* / Camerupt       |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Furfrou / Gourgeist-* / Camerupt     |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Furfrou / Mawile / Camerupt          |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Furfrou / Gourgeist-Super / Mawile / Camerupt     |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Gourgeist-Super / Mawile / Camerupt  |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Furfrou / Gourgeist-Super / Mawile   |    1 |   7.14% |   0.00% |
+| 1    | Wishiwashi / Furfrou / Gourgeist-Super / Mawile / Camerupt   |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Furfrou / Gourgeist-Super / Camerupt |    1 |   7.14% |   0.00% |
+| 1    | Golem / Grimer-Alola / Silvally / Electivire / Chatot        |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Simisage / Electivire / Chatot            |    1 |   7.14% |   0.00% |
+| 1    | Golem / Grimer-Alola / Silvally / Simisage / Chatot          |    1 |   7.14% |   0.00% |
+| 1    | Grimer-Alola / Silvally / Simisage / Electivire / Chatot     |    1 |   7.14% |   0.00% |
+| 1    | Golem / Grimer-Alola / Silvally / Simisage / Electivire      |    1 |   7.14% |   0.00% |
+| 1    | Golem / Grimer-Alola / Simisage / Electivire / Chatot        |    1 |   7.14% |   0.00% |
+| 1    | Golem / Simisage / Dusclops / Kecleon / Rapidash             |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Simisage / Dusclops / Kecleon / Rapidash          |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Simisage / Dusclops / Rapidash            |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Simisage / Dusclops / Kecleon             |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Simisage / Kecleon / Rapidash             |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Dusclops / Kecleon / Rapidash             |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Swanna / Torterra / Muk                   |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Swanna / Torterra / Ditto / Muk                   |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Torterra / Ditto / Muk                    |    1 |   7.14% |   0.00% |
+| 1    | Golem / Swanna / Torterra / Ditto / Muk                      |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Swanna / Torterra / Ditto                 |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Swanna / Ditto / Muk                      |    1 |   7.14% |   0.00% |
+
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                           | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Golem / Silvally / Wishiwashi / Electivire / Servine / Chatot         |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Simisage / Bronzor / Purugly / Beheeyem            |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Wishiwashi / Purugly / Leafeon / Ditto             |    1 |   7.14% | 100.00% |
+| 1    | Lickilicky / Sandslash / Leafeon / Mawile / Ditto / Muk               |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Swanna / Electivire / Dusclops / Torterra / Granbull       |    1 |   7.14% | 100.00% |
+| 1    | Silvally / Simipour / Torterra / Misdreavus / Arbok / Shuckle         |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Furfrou / Kecleon / Gourgeist-* / Muk              |    1 |   7.14% | 100.00% |
+| 1    | Golem / Silvally / Furfrou / Kecleon / Gourgeist-Super / Muk          |    1 |   7.14% | 100.00% |
+| 1    | Bronzor / Simipour / Electivire / Gourgeist-* / Rapidash / Ditto      |    1 |   7.14% |   0.00% |
+| 1    | Bronzor / Simipour / Electivire / Gourgeist-Super / Rapidash / Ditto  |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Electivire / Kadabra / Furfrou / Poliwrath         |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Purugly / Kadabra / Trevenant / Raichu / Shuckle           |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Furfrou / Mawile / Gourgeist-* / Camerupt     |    1 |   7.14% |   0.00% |
+| 1    | Silvally / Wishiwashi / Furfrou / Gourgeist-Super / Mawile / Camerupt |    1 |   7.14% |   0.00% |
+| 1    | Golem / Grimer-Alola / Silvally / Simisage / Electivire / Chatot      |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Simisage / Dusclops / Kecleon / Rapidash           |    1 |   7.14% |   0.00% |
+| 1    | Golem / Silvally / Swanna / Torterra / Ditto / Muk                    |    1 |   7.14% |   0.00% |
