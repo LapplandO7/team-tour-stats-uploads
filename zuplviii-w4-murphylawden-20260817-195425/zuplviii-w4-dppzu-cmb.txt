@@ -1,0 +1,371 @@
++ ---- + -------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                | Use  | Usage % |  Win %  |
++ ---- + -------------------------- + ---- + ------- + ------- +
+| 1    | Probopass / Persian        |    3 |  37.50% |  66.67% |
+| 1    | Probopass / Carnivine      |    3 |  37.50% |  66.67% |
+| 1    | Wailord / Wormadam-Trash   |    3 |  37.50% |  33.33% |
+| 4    | Carnivine / Persian        |    2 |  25.00% | 100.00% |
+| 4    | Probopass / Gloom          |    2 |  25.00% |  50.00% |
+| 4    | Luxray / Granbull          |    2 |  25.00% |  50.00% |
+| 4    | Persian / Wailord          |    2 |  25.00% |  50.00% |
+| 4    | Persian / Wormadam-Trash   |    2 |  25.00% |  50.00% |
+| 4    | Probopass / Wailord        |    2 |  25.00% |  50.00% |
+| 4    | Carnivine / Wailord        |    2 |  25.00% |  50.00% |
+| 4    | Persian / Camerupt         |    2 |  25.00% |   0.00% |
+| 4    | Luxray / Camerupt          |    2 |  25.00% |   0.00% |
+| 4    | Luxray / Wailord           |    2 |  25.00% |   0.00% |
+| 4    | Luxray / Wormadam-Trash    |    2 |  25.00% |   0.00% |
+| 4    | Wailord / Camerupt         |    2 |  25.00% |   0.00% |
+| 4    | Wormadam-Trash / Camerupt  |    2 |  25.00% |   0.00% |
+| 17   | Gloom / Octillery          |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Octillery      |    1 |  12.50% | 100.00% |
+| 17   | Octillery / Stantler       |    1 |  12.50% | 100.00% |
+| 17   | Gloom / Stantler           |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Stantler       |    1 |  12.50% | 100.00% |
+| 17   | Dunsparce / Luxray         |    1 |  12.50% | 100.00% |
+| 17   | Dunsparce / Pelipper       |    1 |  12.50% | 100.00% |
+| 17   | Gloom / Dunsparce          |    1 |  12.50% | 100.00% |
+| 17   | Dunsparce / Granbull       |    1 |  12.50% | 100.00% |
+| 17   | Pelipper / Luxray          |    1 |  12.50% | 100.00% |
+| 17   | Gloom / Luxray             |    1 |  12.50% | 100.00% |
+| 17   | Gloom / Pelipper           |    1 |  12.50% | 100.00% |
+| 17   | Pelipper / Granbull        |    1 |  12.50% | 100.00% |
+| 17   | Gloom / Granbull           |    1 |  12.50% | 100.00% |
+| 17   | Swalot / Persian           |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Swalot         |    1 |  12.50% | 100.00% |
+| 17   | Swalot / Wailord           |    1 |  12.50% | 100.00% |
+| 17   | Carnivine / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 17   | Carnivine / Swalot         |    1 |  12.50% | 100.00% |
+| 17   | Swalot / Wormadam-Trash    |    1 |  12.50% | 100.00% |
+| 17   | Flareon / Phione           |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Flareon        |    1 |  12.50% | 100.00% |
+| 17   | Carnivine / Flareon        |    1 |  12.50% | 100.00% |
+| 17   | Flareon / Sableye          |    1 |  12.50% | 100.00% |
+| 17   | Flareon / Persian          |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Phione         |    1 |  12.50% | 100.00% |
+| 17   | Carnivine / Phione         |    1 |  12.50% | 100.00% |
+| 17   | Sableye / Phione           |    1 |  12.50% | 100.00% |
+| 17   | Persian / Phione           |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Sableye        |    1 |  12.50% | 100.00% |
+| 17   | Carnivine / Sableye        |    1 |  12.50% | 100.00% |
+| 17   | Persian / Sableye          |    1 |  12.50% | 100.00% |
+| 17   | Probopass / Camerupt       |    1 |  12.50% |   0.00% |
+| 17   | Weepinbell / Probopass     |    1 |  12.50% |   0.00% |
+| 17   | Probopass / Chimecho       |    1 |  12.50% |   0.00% |
+| 17   | Gloom / Persian            |    1 |  12.50% |   0.00% |
+| 17   | Gloom / Camerupt           |    1 |  12.50% |   0.00% |
+| 17   | Weepinbell / Gloom         |    1 |  12.50% |   0.00% |
+| 17   | Gloom / Chimecho           |    1 |  12.50% |   0.00% |
+| 17   | Weepinbell / Persian       |    1 |  12.50% |   0.00% |
+| 17   | Persian / Chimecho         |    1 |  12.50% |   0.00% |
+| 17   | Weepinbell / Camerupt      |    1 |  12.50% |   0.00% |
+| 17   | Chimecho / Camerupt        |    1 |  12.50% |   0.00% |
+| 17   | Weepinbell / Chimecho      |    1 |  12.50% |   0.00% |
+| 17   | Luxray / Golbat            |    1 |  12.50% |   0.00% |
+| 17   | Luxray / Phione            |    1 |  12.50% |   0.00% |
+| 17   | Golbat / Camerupt          |    1 |  12.50% |   0.00% |
+| 17   | Phione / Camerupt          |    1 |  12.50% |   0.00% |
+| 17   | Wailord / Golbat           |    1 |  12.50% |   0.00% |
+| 17   | Wailord / Phione           |    1 |  12.50% |   0.00% |
+| 17   | Phione / Golbat            |    1 |  12.50% |   0.00% |
+| 17   | Golbat / Wormadam-Trash    |    1 |  12.50% |   0.00% |
+| 17   | Phione / Wormadam-Trash    |    1 |  12.50% |   0.00% |
+| 17   | Probopass / Bibarel        |    1 |  12.50% |   0.00% |
+| 17   | Carnivine / Bibarel        |    1 |  12.50% |   0.00% |
+| 17   | Beedrill / Bibarel         |    1 |  12.50% |   0.00% |
+| 17   | Bibarel / Raticate         |    1 |  12.50% |   0.00% |
+| 17   | Bibarel / Wailord          |    1 |  12.50% |   0.00% |
+| 17   | Probopass / Beedrill       |    1 |  12.50% |   0.00% |
+| 17   | Probopass / Raticate       |    1 |  12.50% |   0.00% |
+| 17   | Carnivine / Beedrill       |    1 |  12.50% |   0.00% |
+| 17   | Carnivine / Raticate       |    1 |  12.50% |   0.00% |
+| 17   | Beedrill / Raticate        |    1 |  12.50% |   0.00% |
+| 17   | Beedrill / Wailord         |    1 |  12.50% |   0.00% |
+| 17   | Raticate / Wailord         |    1 |  12.50% |   0.00% |
+| 17   | Wormadam-Trash / Granbull  |    1 |  12.50% |   0.00% |
+| 17   | Camerupt / Granbull        |    1 |  12.50% |   0.00% |
+| 17   | Persian / Luxray           |    1 |  12.50% |   0.00% |
+| 17   | Wailord / Granbull         |    1 |  12.50% |   0.00% |
+| 17   | Persian / Granbull         |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                            | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------- + ---- + ------- + ------- +
+| 1    | Probopass / Persian / Carnivine        |    2 |  25.00% | 100.00% |
+| 1    | Persian / Wailord / Wormadam-Trash     |    2 |  25.00% |  50.00% |
+| 1    | Probopass / Wailord / Carnivine        |    2 |  25.00% |  50.00% |
+| 1    | Luxray / Wailord / Camerupt            |    2 |  25.00% |   0.00% |
+| 1    | Luxray / Wormadam-Trash / Camerupt     |    2 |  25.00% |   0.00% |
+| 1    | Luxray / Wailord / Wormadam-Trash      |    2 |  25.00% |   0.00% |
+| 1    | Wailord / Wormadam-Trash / Camerupt    |    2 |  25.00% |   0.00% |
+| 8    | Gloom / Octillery / Probopass          |    1 |  12.50% | 100.00% |
+| 8    | Gloom / Octillery / Stantler           |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Octillery / Stantler       |    1 |  12.50% | 100.00% |
+| 8    | Gloom / Stantler / Probopass           |    1 |  12.50% | 100.00% |
+| 8    | Pelipper / Dunsparce / Luxray          |    1 |  12.50% | 100.00% |
+| 8    | Gloom / Dunsparce / Luxray             |    1 |  12.50% | 100.00% |
+| 8    | Dunsparce / Luxray / Granbull          |    1 |  12.50% | 100.00% |
+| 8    | Gloom / Dunsparce / Pelipper           |    1 |  12.50% | 100.00% |
+| 8    | Dunsparce / Pelipper / Granbull        |    1 |  12.50% | 100.00% |
+| 8    | Gloom / Dunsparce / Granbull           |    1 |  12.50% | 100.00% |
+| 8    | Pelipper / Gloom / Luxray              |    1 |  12.50% | 100.00% |
+| 8    | Pelipper / Luxray / Granbull           |    1 |  12.50% | 100.00% |
+| 8    | Gloom / Luxray / Granbull              |    1 |  12.50% | 100.00% |
+| 8    | Gloom / Pelipper / Granbull            |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Persian / Wailord          |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Persian / Wormadam-Trash   |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Persian / Swalot           |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Persian / Wailord          |    1 |  12.50% | 100.00% |
+| 8    | Swalot / Persian / Wailord             |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Persian / Wormadam-Trash   |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Persian / Swalot           |    1 |  12.50% | 100.00% |
+| 8    | Swalot / Persian / Wormadam-Trash      |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Wailord / Wormadam-Trash   |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Wailord / Swalot           |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Carnivine / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Carnivine / Swalot         |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Wormadam-Trash / Swalot    |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Wailord / Wormadam-Trash   |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Wailord / Swalot           |    1 |  12.50% | 100.00% |
+| 8    | Swalot / Wailord / Wormadam-Trash      |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Wormadam-Trash / Swalot    |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Flareon / Phione           |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Flareon / Phione           |    1 |  12.50% | 100.00% |
+| 8    | Flareon / Sableye / Phione             |    1 |  12.50% | 100.00% |
+| 8    | Flareon / Phione / Persian             |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Flareon / Carnivine        |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Flareon / Sableye          |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Flareon / Persian          |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Flareon / Sableye          |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Flareon / Persian          |    1 |  12.50% | 100.00% |
+| 8    | Flareon / Sableye / Persian            |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Carnivine / Phione         |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Sableye / Phione           |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Persian / Phione           |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Sableye / Phione           |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Persian / Phione           |    1 |  12.50% | 100.00% |
+| 8    | Persian / Sableye / Phione             |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Carnivine / Sableye        |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Persian / Sableye          |    1 |  12.50% | 100.00% |
+| 8    | Carnivine / Persian / Sableye          |    1 |  12.50% | 100.00% |
+| 8    | Probopass / Persian / Gloom            |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Gloom / Camerupt           |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Probopass / Gloom         |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Gloom / Chimecho           |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Persian / Camerupt         |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Probopass / Persian       |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Persian / Chimecho         |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Probopass / Camerupt      |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Chimecho / Camerupt        |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Probopass / Chimecho      |    1 |  12.50% |   0.00% |
+| 8    | Gloom / Persian / Camerupt             |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Gloom / Persian           |    1 |  12.50% |   0.00% |
+| 8    | Gloom / Persian / Chimecho             |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Gloom / Camerupt          |    1 |  12.50% |   0.00% |
+| 8    | Gloom / Chimecho / Camerupt            |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Gloom / Chimecho          |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Persian / Camerupt        |    1 |  12.50% |   0.00% |
+| 8    | Persian / Chimecho / Camerupt          |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Persian / Chimecho        |    1 |  12.50% |   0.00% |
+| 8    | Weepinbell / Chimecho / Camerupt       |    1 |  12.50% |   0.00% |
+| 8    | Luxray / Golbat / Camerupt             |    1 |  12.50% |   0.00% |
+| 8    | Luxray / Phione / Camerupt             |    1 |  12.50% |   0.00% |
+| 8    | Golbat / Luxray / Wailord              |    1 |  12.50% |   0.00% |
+| 8    | Phione / Luxray / Wailord              |    1 |  12.50% |   0.00% |
+| 8    | Phione / Luxray / Golbat               |    1 |  12.50% |   0.00% |
+| 8    | Luxray / Golbat / Wormadam-Trash       |    1 |  12.50% |   0.00% |
+| 8    | Luxray / Phione / Wormadam-Trash       |    1 |  12.50% |   0.00% |
+| 8    | Wailord / Golbat / Camerupt            |    1 |  12.50% |   0.00% |
+| 8    | Wailord / Phione / Camerupt            |    1 |  12.50% |   0.00% |
+| 8    | Phione / Golbat / Camerupt             |    1 |  12.50% |   0.00% |
+| 8    | Wormadam-Trash / Golbat / Camerupt     |    1 |  12.50% |   0.00% |
+| 8    | Wormadam-Trash / Phione / Camerupt     |    1 |  12.50% |   0.00% |
+| 8    | Phione / Wailord / Golbat              |    1 |  12.50% |   0.00% |
+| 8    | Wailord / Golbat / Wormadam-Trash      |    1 |  12.50% |   0.00% |
+| 8    | Wailord / Phione / Wormadam-Trash      |    1 |  12.50% |   0.00% |
+| 8    | Phione / Golbat / Wormadam-Trash       |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Bibarel / Carnivine        |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Bibarel / Beedrill         |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Bibarel / Raticate         |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Bibarel / Wailord          |    1 |  12.50% |   0.00% |
+| 8    | Carnivine / Bibarel / Beedrill         |    1 |  12.50% |   0.00% |
+| 8    | Carnivine / Bibarel / Raticate         |    1 |  12.50% |   0.00% |
+| 8    | Carnivine / Bibarel / Wailord          |    1 |  12.50% |   0.00% |
+| 8    | Beedrill / Bibarel / Raticate          |    1 |  12.50% |   0.00% |
+| 8    | Beedrill / Bibarel / Wailord           |    1 |  12.50% |   0.00% |
+| 8    | Bibarel / Wailord / Raticate           |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Carnivine / Beedrill       |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Raticate / Carnivine       |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Raticate / Beedrill        |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Beedrill / Wailord         |    1 |  12.50% |   0.00% |
+| 8    | Probopass / Raticate / Wailord         |    1 |  12.50% |   0.00% |
+| 8    | Carnivine / Raticate / Beedrill        |    1 |  12.50% |   0.00% |
+| 8    | Carnivine / Beedrill / Wailord         |    1 |  12.50% |   0.00% |
+| 8    | Carnivine / Raticate / Wailord         |    1 |  12.50% |   0.00% |
+| 8    | Beedrill / Raticate / Wailord          |    1 |  12.50% |   0.00% |
+| 8    | Camerupt / Persian / Wormadam-Trash    |    1 |  12.50% |   0.00% |
+| 8    | Camerupt / Wormadam-Trash / Granbull   |    1 |  12.50% |   0.00% |
+| 8    | Persian / Luxray / Wormadam-Trash      |    1 |  12.50% |   0.00% |
+| 8    | Luxray / Wormadam-Trash / Granbull     |    1 |  12.50% |   0.00% |
+| 8    | Wailord / Wormadam-Trash / Granbull    |    1 |  12.50% |   0.00% |
+| 8    | Persian / Wormadam-Trash / Granbull    |    1 |  12.50% |   0.00% |
+| 8    | Persian / Luxray / Camerupt            |    1 |  12.50% |   0.00% |
+| 8    | Luxray / Camerupt / Granbull           |    1 |  12.50% |   0.00% |
+| 8    | Persian / Wailord / Camerupt           |    1 |  12.50% |   0.00% |
+| 8    | Wailord / Camerupt / Granbull          |    1 |  12.50% |   0.00% |
+| 8    | Persian / Camerupt / Granbull          |    1 |  12.50% |   0.00% |
+| 8    | Persian / Luxray / Wailord             |    1 |  12.50% |   0.00% |
+| 8    | Luxray / Wailord / Granbull            |    1 |  12.50% |   0.00% |
+| 8    | Persian / Luxray / Granbull            |    1 |  12.50% |   0.00% |
+| 8    | Persian / Wailord / Granbull           |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 4                                      | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Luxray / Wormadam-Trash / Wailord / Camerupt     |    2 |  25.00% |   0.00% |
+| 2    | Gloom / Stantler / Octillery / Probopass         |    1 |  12.50% | 100.00% |
+| 2    | Gloom / Pelipper / Dunsparce / Luxray            |    1 |  12.50% | 100.00% |
+| 2    | Pelipper / Dunsparce / Luxray / Granbull         |    1 |  12.50% | 100.00% |
+| 2    | Gloom / Dunsparce / Luxray / Granbull            |    1 |  12.50% | 100.00% |
+| 2    | Gloom / Dunsparce / Pelipper / Granbull          |    1 |  12.50% | 100.00% |
+| 2    | Pelipper / Gloom / Luxray / Granbull             |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Wailord / Carnivine        |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Wailord / Wormadam-Trash   |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Wailord / Swalot           |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Carnivine / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Carnivine / Swalot         |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Wormadam-Trash / Swalot    |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Persian / Wailord / Wormadam-Trash   |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Persian / Wailord / Swalot           |    1 |  12.50% | 100.00% |
+| 2    | Swalot / Persian / Wailord / Wormadam-Trash      |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Persian / Wormadam-Trash / Swalot    |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Wailord / Wormadam-Trash / Carnivine |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Wailord / Swalot / Carnivine         |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Wailord / Wormadam-Trash / Swalot    |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Carnivine / Wormadam-Trash / Swalot  |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Wailord / Wormadam-Trash / Swalot    |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Flareon / Carnivine / Phione         |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Flareon / Sableye / Phione           |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Flareon / Phione / Persian           |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Flareon / Sableye / Phione           |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Flareon / Phione / Persian           |    1 |  12.50% | 100.00% |
+| 2    | Flareon / Sableye / Phione / Persian             |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Flareon / Carnivine / Sableye        |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Flareon / Carnivine / Persian        |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Flareon / Sableye / Persian          |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Flareon / Sableye / Persian          |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Carnivine / Sableye / Phione         |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Carnivine / Phione         |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Sableye / Phione           |    1 |  12.50% | 100.00% |
+| 2    | Carnivine / Persian / Sableye / Phione           |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Carnivine / Sableye        |    1 |  12.50% | 100.00% |
+| 2    | Probopass / Persian / Gloom / Camerupt           |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Probopass / Persian / Gloom         |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Persian / Gloom / Chimecho           |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Probopass / Gloom / Camerupt        |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Gloom / Chimecho / Camerupt          |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Probopass / Gloom / Chimecho        |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Probopass / Persian / Camerupt      |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Persian / Chimecho / Camerupt        |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Probopass / Persian / Chimecho      |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Probopass / Chimecho / Camerupt     |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Gloom / Persian / Camerupt          |    1 |  12.50% |   0.00% |
+| 2    | Gloom / Persian / Chimecho / Camerupt            |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Gloom / Persian / Chimecho          |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Gloom / Chimecho / Camerupt         |    1 |  12.50% |   0.00% |
+| 2    | Weepinbell / Persian / Chimecho / Camerupt       |    1 |  12.50% |   0.00% |
+| 2    | Golbat / Luxray / Wailord / Camerupt             |    1 |  12.50% |   0.00% |
+| 2    | Phione / Luxray / Wailord / Camerupt             |    1 |  12.50% |   0.00% |
+| 2    | Phione / Luxray / Golbat / Camerupt              |    1 |  12.50% |   0.00% |
+| 2    | Luxray / Wormadam-Trash / Golbat / Camerupt      |    1 |  12.50% |   0.00% |
+| 2    | Luxray / Wormadam-Trash / Phione / Camerupt      |    1 |  12.50% |   0.00% |
+| 2    | Golbat / Luxray / Wailord / Phione               |    1 |  12.50% |   0.00% |
+| 2    | Golbat / Luxray / Wailord / Wormadam-Trash       |    1 |  12.50% |   0.00% |
+| 2    | Phione / Luxray / Wailord / Wormadam-Trash       |    1 |  12.50% |   0.00% |
+| 2    | Phione / Luxray / Golbat / Wormadam-Trash        |    1 |  12.50% |   0.00% |
+| 2    | Phione / Wailord / Golbat / Camerupt             |    1 |  12.50% |   0.00% |
+| 2    | Wailord / Wormadam-Trash / Golbat / Camerupt     |    1 |  12.50% |   0.00% |
+| 2    | Wailord / Wormadam-Trash / Phione / Camerupt     |    1 |  12.50% |   0.00% |
+| 2    | Phione / Wormadam-Trash / Golbat / Camerupt      |    1 |  12.50% |   0.00% |
+| 2    | Phione / Wailord / Golbat / Wormadam-Trash       |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Bibarel / Carnivine / Beedrill       |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Bibarel / Carnivine / Raticate       |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Bibarel / Carnivine / Wailord        |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Bibarel / Beedrill / Raticate        |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Bibarel / Beedrill / Wailord         |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Bibarel / Wailord / Raticate         |    1 |  12.50% |   0.00% |
+| 2    | Carnivine / Bibarel / Beedrill / Raticate        |    1 |  12.50% |   0.00% |
+| 2    | Carnivine / Bibarel / Beedrill / Wailord         |    1 |  12.50% |   0.00% |
+| 2    | Carnivine / Bibarel / Wailord / Raticate         |    1 |  12.50% |   0.00% |
+| 2    | Beedrill / Bibarel / Wailord / Raticate          |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Raticate / Carnivine / Beedrill      |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Carnivine / Beedrill / Wailord       |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Raticate / Carnivine / Wailord       |    1 |  12.50% |   0.00% |
+| 2    | Probopass / Raticate / Beedrill / Wailord        |    1 |  12.50% |   0.00% |
+| 2    | Carnivine / Raticate / Beedrill / Wailord        |    1 |  12.50% |   0.00% |
+| 2    | Camerupt / Persian / Luxray / Wormadam-Trash     |    1 |  12.50% |   0.00% |
+| 2    | Camerupt / Luxray / Wormadam-Trash / Granbull    |    1 |  12.50% |   0.00% |
+| 2    | Camerupt / Persian / Wailord / Wormadam-Trash    |    1 |  12.50% |   0.00% |
+| 2    | Camerupt / Wailord / Wormadam-Trash / Granbull   |    1 |  12.50% |   0.00% |
+| 2    | Camerupt / Persian / Wormadam-Trash / Granbull   |    1 |  12.50% |   0.00% |
+| 2    | Persian / Luxray / Wailord / Wormadam-Trash      |    1 |  12.50% |   0.00% |
+| 2    | Luxray / Wailord / Wormadam-Trash / Granbull     |    1 |  12.50% |   0.00% |
+| 2    | Persian / Luxray / Wormadam-Trash / Granbull     |    1 |  12.50% |   0.00% |
+| 2    | Persian / Wailord / Wormadam-Trash / Granbull    |    1 |  12.50% |   0.00% |
+| 2    | Persian / Luxray / Wailord / Camerupt            |    1 |  12.50% |   0.00% |
+| 2    | Luxray / Wailord / Camerupt / Granbull           |    1 |  12.50% |   0.00% |
+| 2    | Persian / Luxray / Camerupt / Granbull           |    1 |  12.50% |   0.00% |
+| 2    | Persian / Wailord / Camerupt / Granbull          |    1 |  12.50% |   0.00% |
+| 2    | Persian / Luxray / Wailord / Granbull            |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Gloom / Granbull / Luxray / Dunsparce / Pelipper           |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Probopass / Wormadam-Trash / Wailord |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Probopass / Swalot / Wailord         |    1 |  12.50% | 100.00% |
+| 1    | Persian / Probopass / Wormadam-Trash / Swalot / Wailord    |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Probopass / Wormadam-Trash / Swalot  |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Wormadam-Trash / Swalot / Wailord    |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Probopass / Wormadam-Trash / Swalot / Wailord  |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Probopass / Sableye / Phione / Flareon         |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Probopass / Phione / Flareon         |    1 |  12.50% | 100.00% |
+| 1    | Persian / Probopass / Sableye / Phione / Flareon           |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Sableye / Phione / Flareon           |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Probopass / Sableye / Flareon        |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Probopass / Sableye / Phione         |    1 |  12.50% | 100.00% |
+| 1    | Weepinbell / Gloom / Persian / Probopass / Camerupt        |    1 |  12.50% |   0.00% |
+| 1    | Gloom / Persian / Probopass / Chimecho / Camerupt          |    1 |  12.50% |   0.00% |
+| 1    | Weepinbell / Gloom / Persian / Probopass / Chimecho        |    1 |  12.50% |   0.00% |
+| 1    | Weepinbell / Gloom / Probopass / Chimecho / Camerupt       |    1 |  12.50% |   0.00% |
+| 1    | Weepinbell / Persian / Probopass / Chimecho / Camerupt     |    1 |  12.50% |   0.00% |
+| 1    | Weepinbell / Gloom / Persian / Chimecho / Camerupt         |    1 |  12.50% |   0.00% |
+| 1    | Luxray / Golbat / Phione / Wailord / Camerupt              |    1 |  12.50% |   0.00% |
+| 1    | Luxray / Golbat / Wormadam-Trash / Wailord / Camerupt      |    1 |  12.50% |   0.00% |
+| 1    | Luxray / Phione / Wormadam-Trash / Wailord / Camerupt      |    1 |  12.50% |   0.00% |
+| 1    | Luxray / Phione / Wormadam-Trash / Golbat / Camerupt       |    1 |  12.50% |   0.00% |
+| 1    | Luxray / Golbat / Wormadam-Trash / Phione / Wailord        |    1 |  12.50% |   0.00% |
+| 1    | Phione / Wormadam-Trash / Golbat / Wailord / Camerupt      |    1 |  12.50% |   0.00% |
+| 1    | Carnivine / Bibarel / Probopass / Beedrill / Raticate      |    1 |  12.50% |   0.00% |
+| 1    | Carnivine / Bibarel / Probopass / Beedrill / Wailord       |    1 |  12.50% |   0.00% |
+| 1    | Carnivine / Bibarel / Probopass / Raticate / Wailord       |    1 |  12.50% |   0.00% |
+| 1    | Bibarel / Probopass / Beedrill / Raticate / Wailord        |    1 |  12.50% |   0.00% |
+| 1    | Carnivine / Bibarel / Beedrill / Raticate / Wailord        |    1 |  12.50% |   0.00% |
+| 1    | Carnivine / Probopass / Beedrill / Raticate / Wailord      |    1 |  12.50% |   0.00% |
+| 1    | Persian / Luxray / Wormadam-Trash / Wailord / Camerupt     |    1 |  12.50% |   0.00% |
+| 1    | Granbull / Luxray / Wormadam-Trash / Wailord / Camerupt    |    1 |  12.50% |   0.00% |
+| 1    | Persian / Granbull / Luxray / Wormadam-Trash / Camerupt    |    1 |  12.50% |   0.00% |
+| 1    | Persian / Granbull / Wormadam-Trash / Wailord / Camerupt   |    1 |  12.50% |   0.00% |
+| 1    | Persian / Granbull / Luxray / Wormadam-Trash / Wailord     |    1 |  12.50% |   0.00% |
+| 1    | Persian / Granbull / Luxray / Wailord / Camerupt           |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                         | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Carnivine / Persian / Probopass / Wormadam-Trash / Swalot / Wailord |    1 |  12.50% | 100.00% |
+| 1    | Carnivine / Persian / Probopass / Sableye / Phione / Flareon        |    1 |  12.50% | 100.00% |
+| 1    | Weepinbell / Gloom / Persian / Probopass / Chimecho / Camerupt      |    1 |  12.50% |   0.00% |
+| 1    | Luxray / Golbat / Phione / Wormadam-Trash / Wailord / Camerupt      |    1 |  12.50% |   0.00% |
+| 1    | Carnivine / Bibarel / Probopass / Beedrill / Raticate / Wailord     |    1 |  12.50% |   0.00% |
+| 1    | Persian / Granbull / Luxray / Wormadam-Trash / Wailord / Camerupt   |    1 |  12.50% |   0.00% |
