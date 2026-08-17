@@ -1,0 +1,467 @@
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Gliscor / Forretress               |    2 |  25.00% | 100.00% |
+| 1    | Gliscor / Greninja                 |    2 |  25.00% | 100.00% |
+| 1    | Gliscor / Floette-Eternal          |    2 |  25.00% |  50.00% |
+| 1    | Gliscor / Tinkaton                 |    2 |  25.00% |  50.00% |
+| 1    | Starmie / Tinkaton                 |    2 |  25.00% |   0.00% |
+| 1    | Tinkaton / Krookodile              |    2 |  25.00% |   0.00% |
+| 1    | Starmie / Krookodile               |    2 |  25.00% |   0.00% |
+| 8    | Gyarados / Sylveon                 |    1 |  12.50% | 100.00% |
+| 8    | Gyarados / Arcanine-Hisui          |    1 |  12.50% | 100.00% |
+| 8    | Gyarados / Gallade                 |    1 |  12.50% | 100.00% |
+| 8    | Gyarados / Forretress              |    1 |  12.50% | 100.00% |
+| 8    | Gyarados / Gliscor                 |    1 |  12.50% | 100.00% |
+| 8    | Sylveon / Arcanine-Hisui           |    1 |  12.50% | 100.00% |
+| 8    | Sylveon / Gallade                  |    1 |  12.50% | 100.00% |
+| 8    | Sylveon / Forretress               |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Sylveon                  |    1 |  12.50% | 100.00% |
+| 8    | Arcanine-Hisui / Gallade           |    1 |  12.50% | 100.00% |
+| 8    | Forretress / Arcanine-Hisui        |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Arcanine-Hisui           |    1 |  12.50% | 100.00% |
+| 8    | Forretress / Gallade               |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Gallade                  |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Vaporeon                 |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Gardevoir                |    1 |  12.50% | 100.00% |
+| 8    | Vaporeon / Greninja                |    1 |  12.50% | 100.00% |
+| 8    | Vaporeon / Decidueye-Hisui         |    1 |  12.50% | 100.00% |
+| 8    | Vaporeon / Gardevoir               |    1 |  12.50% | 100.00% |
+| 8    | Vaporeon / Tinkaton                |    1 |  12.50% | 100.00% |
+| 8    | Greninja / Decidueye-Hisui         |    1 |  12.50% | 100.00% |
+| 8    | Greninja / Gardevoir               |    1 |  12.50% | 100.00% |
+| 8    | Greninja / Tinkaton                |    1 |  12.50% | 100.00% |
+| 8    | Decidueye-Hisui / Gardevoir        |    1 |  12.50% | 100.00% |
+| 8    | Decidueye-Hisui / Tinkaton         |    1 |  12.50% | 100.00% |
+| 8    | Gardevoir / Tinkaton               |    1 |  12.50% | 100.00% |
+| 8    | Venusaur / Noivern                 |    1 |  12.50% | 100.00% |
+| 8    | Venusaur / Gallade                 |    1 |  12.50% | 100.00% |
+| 8    | Rhyperior / Venusaur               |    1 |  12.50% | 100.00% |
+| 8    | Empoleon / Venusaur                |    1 |  12.50% | 100.00% |
+| 8    | Venusaur / Weavile                 |    1 |  12.50% | 100.00% |
+| 8    | Gallade / Noivern                  |    1 |  12.50% | 100.00% |
+| 8    | Rhyperior / Noivern                |    1 |  12.50% | 100.00% |
+| 8    | Empoleon / Noivern                 |    1 |  12.50% | 100.00% |
+| 8    | Weavile / Noivern                  |    1 |  12.50% | 100.00% |
+| 8    | Rhyperior / Gallade                |    1 |  12.50% | 100.00% |
+| 8    | Empoleon / Gallade                 |    1 |  12.50% | 100.00% |
+| 8    | Weavile / Gallade                  |    1 |  12.50% | 100.00% |
+| 8    | Empoleon / Rhyperior               |    1 |  12.50% | 100.00% |
+| 8    | Rhyperior / Weavile                |    1 |  12.50% | 100.00% |
+| 8    | Empoleon / Weavile                 |    1 |  12.50% | 100.00% |
+| 8    | Greninja / Floette-Eternal         |    1 |  12.50% | 100.00% |
+| 8    | Floette-Eternal / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 8    | Floette-Eternal / Forretress       |    1 |  12.50% | 100.00% |
+| 8    | Kommo-o / Floette-Eternal          |    1 |  12.50% | 100.00% |
+| 8    | Greninja / Rotom-Heat              |    1 |  12.50% | 100.00% |
+| 8    | Greninja / Forretress              |    1 |  12.50% | 100.00% |
+| 8    | Greninja / Kommo-o                 |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Rotom-Heat               |    1 |  12.50% | 100.00% |
+| 8    | Forretress / Rotom-Heat            |    1 |  12.50% | 100.00% |
+| 8    | Kommo-o / Rotom-Heat               |    1 |  12.50% | 100.00% |
+| 8    | Gliscor / Kommo-o                  |    1 |  12.50% | 100.00% |
+| 8    | Kommo-o / Forretress               |    1 |  12.50% | 100.00% |
+| 8    | Floette-Eternal / Tyranitar        |    1 |  12.50% |   0.00% |
+| 8    | Skarmory / Tyranitar               |    1 |  12.50% |   0.00% |
+| 8    | Eelektross / Tyranitar             |    1 |  12.50% |   0.00% |
+| 8    | Slowbro / Tyranitar                |    1 |  12.50% |   0.00% |
+| 8    | Gliscor / Tyranitar                |    1 |  12.50% |   0.00% |
+| 8    | Skarmory / Floette-Eternal         |    1 |  12.50% |   0.00% |
+| 8    | Eelektross / Floette-Eternal       |    1 |  12.50% |   0.00% |
+| 8    | Slowbro / Floette-Eternal          |    1 |  12.50% |   0.00% |
+| 8    | Skarmory / Eelektross              |    1 |  12.50% |   0.00% |
+| 8    | Skarmory / Slowbro                 |    1 |  12.50% |   0.00% |
+| 8    | Skarmory / Gliscor                 |    1 |  12.50% |   0.00% |
+| 8    | Slowbro / Eelektross               |    1 |  12.50% |   0.00% |
+| 8    | Gliscor / Eelektross               |    1 |  12.50% |   0.00% |
+| 8    | Gliscor / Slowbro                  |    1 |  12.50% |   0.00% |
+| 8    | Alakazam / Slurpuff                |    1 |  12.50% |   0.00% |
+| 8    | Alakazam / Heracross               |    1 |  12.50% |   0.00% |
+| 8    | Alakazam / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 8    | Alakazam / Empoleon                |    1 |  12.50% |   0.00% |
+| 8    | Alakazam / Incineroar              |    1 |  12.50% |   0.00% |
+| 8    | Slurpuff / Heracross               |    1 |  12.50% |   0.00% |
+| 8    | Slurpuff / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 8    | Empoleon / Slurpuff                |    1 |  12.50% |   0.00% |
+| 8    | Incineroar / Slurpuff              |    1 |  12.50% |   0.00% |
+| 8    | Sinistcha-Masterpiece / Heracross  |    1 |  12.50% |   0.00% |
+| 8    | Empoleon / Heracross               |    1 |  12.50% |   0.00% |
+| 8    | Incineroar / Heracross             |    1 |  12.50% |   0.00% |
+| 8    | Empoleon / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 8    | Incineroar / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 8    | Empoleon / Incineroar              |    1 |  12.50% |   0.00% |
+| 8    | Gyarados / Gengar                  |    1 |  12.50% |   0.00% |
+| 8    | Gyarados / Tinkaton                |    1 |  12.50% |   0.00% |
+| 8    | Gyarados / Starmie                 |    1 |  12.50% |   0.00% |
+| 8    | Gyarados / Lucario                 |    1 |  12.50% |   0.00% |
+| 8    | Gyarados / Krookodile              |    1 |  12.50% |   0.00% |
+| 8    | Gengar / Tinkaton                  |    1 |  12.50% |   0.00% |
+| 8    | Starmie / Gengar                   |    1 |  12.50% |   0.00% |
+| 8    | Lucario / Gengar                   |    1 |  12.50% |   0.00% |
+| 8    | Gengar / Krookodile                |    1 |  12.50% |   0.00% |
+| 8    | Lucario / Tinkaton                 |    1 |  12.50% |   0.00% |
+| 8    | Starmie / Lucario                  |    1 |  12.50% |   0.00% |
+| 8    | Lucario / Krookodile               |    1 |  12.50% |   0.00% |
+| 8    | Gliscor / Starmie                  |    1 |  12.50% |   0.00% |
+| 8    | Gliscor / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 8    | Gliscor / Feraligatr               |    1 |  12.50% |   0.00% |
+| 8    | Gliscor / Krookodile               |    1 |  12.50% |   0.00% |
+| 8    | Tinkaton / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 8    | Tinkaton / Feraligatr              |    1 |  12.50% |   0.00% |
+| 8    | Starmie / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 8    | Starmie / Feraligatr               |    1 |  12.50% |   0.00% |
+| 8    | Feraligatr / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 8    | Krookodile / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 8    | Krookodile / Feraligatr            |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                                     | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------- + ---- + ------- + ------- +
+| 1    | Starmie / Tinkaton / Krookodile                 |    2 |  25.00% |   0.00% |
+| 2    | Gyarados / Sylveon / Arcanine-Hisui             |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Sylveon / Gallade                    |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Sylveon / Forretress                 |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Sylveon / Gliscor                    |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Arcanine-Hisui / Gallade             |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Forretress / Arcanine-Hisui          |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Gliscor / Arcanine-Hisui             |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Forretress / Gallade                 |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Gliscor / Gallade                    |    1 |  12.50% | 100.00% |
+| 2    | Gyarados / Gliscor / Forretress                 |    1 |  12.50% | 100.00% |
+| 2    | Sylveon / Arcanine-Hisui / Gallade              |    1 |  12.50% | 100.00% |
+| 2    | Forretress / Sylveon / Arcanine-Hisui           |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Sylveon / Arcanine-Hisui              |    1 |  12.50% | 100.00% |
+| 2    | Sylveon / Forretress / Gallade                  |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Sylveon / Gallade                     |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Sylveon / Forretress                  |    1 |  12.50% | 100.00% |
+| 2    | Forretress / Arcanine-Hisui / Gallade           |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Arcanine-Hisui / Gallade              |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Forretress / Arcanine-Hisui           |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Forretress / Gallade                  |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Greninja / Vaporeon                   |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Vaporeon / Decidueye-Hisui            |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Gardevoir / Vaporeon                  |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Tinkaton / Vaporeon                   |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Greninja / Decidueye-Hisui            |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Gardevoir / Greninja                  |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Tinkaton / Greninja                   |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Gardevoir / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Tinkaton / Decidueye-Hisui            |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Gardevoir / Tinkaton                  |    1 |  12.50% | 100.00% |
+| 2    | Vaporeon / Greninja / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 2    | Vaporeon / Gardevoir / Greninja                 |    1 |  12.50% | 100.00% |
+| 2    | Vaporeon / Tinkaton / Greninja                  |    1 |  12.50% | 100.00% |
+| 2    | Vaporeon / Gardevoir / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 2    | Vaporeon / Tinkaton / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 2    | Vaporeon / Gardevoir / Tinkaton                 |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Gardevoir / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Tinkaton / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Gardevoir / Tinkaton                 |    1 |  12.50% | 100.00% |
+| 2    | Decidueye-Hisui / Gardevoir / Tinkaton          |    1 |  12.50% | 100.00% |
+| 2    | Gallade / Venusaur / Noivern                    |    1 |  12.50% | 100.00% |
+| 2    | Rhyperior / Venusaur / Noivern                  |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Venusaur / Noivern                   |    1 |  12.50% | 100.00% |
+| 2    | Weavile / Venusaur / Noivern                    |    1 |  12.50% | 100.00% |
+| 2    | Rhyperior / Venusaur / Gallade                  |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Venusaur / Gallade                   |    1 |  12.50% | 100.00% |
+| 2    | Weavile / Venusaur / Gallade                    |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Rhyperior / Venusaur                 |    1 |  12.50% | 100.00% |
+| 2    | Rhyperior / Venusaur / Weavile                  |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Venusaur / Weavile                   |    1 |  12.50% | 100.00% |
+| 2    | Gallade / Rhyperior / Noivern                   |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Gallade / Noivern                    |    1 |  12.50% | 100.00% |
+| 2    | Gallade / Weavile / Noivern                     |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Rhyperior / Noivern                  |    1 |  12.50% | 100.00% |
+| 2    | Rhyperior / Weavile / Noivern                   |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Weavile / Noivern                    |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Rhyperior / Gallade                  |    1 |  12.50% | 100.00% |
+| 2    | Rhyperior / Weavile / Gallade                   |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Weavile / Gallade                    |    1 |  12.50% | 100.00% |
+| 2    | Empoleon / Rhyperior / Weavile                  |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Floette-Eternal / Rotom-Heat         |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Floette-Eternal / Gliscor            |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Floette-Eternal / Forretress         |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Floette-Eternal / Kommo-o            |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Floette-Eternal / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 2    | Forretress / Floette-Eternal / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 2    | Kommo-o / Floette-Eternal / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Floette-Eternal / Forretress          |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Floette-Eternal / Kommo-o             |    1 |  12.50% | 100.00% |
+| 2    | Kommo-o / Floette-Eternal / Forretress          |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Gliscor / Rotom-Heat                 |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Forretress / Rotom-Heat              |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Kommo-o / Rotom-Heat                 |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Forretress / Gliscor                 |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Kommo-o / Gliscor                    |    1 |  12.50% | 100.00% |
+| 2    | Greninja / Kommo-o / Forretress                 |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Forretress / Rotom-Heat               |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Kommo-o / Rotom-Heat                  |    1 |  12.50% | 100.00% |
+| 2    | Kommo-o / Forretress / Rotom-Heat               |    1 |  12.50% | 100.00% |
+| 2    | Gliscor / Kommo-o / Forretress                  |    1 |  12.50% | 100.00% |
+| 2    | Skarmory / Floette-Eternal / Tyranitar          |    1 |  12.50% |   0.00% |
+| 2    | Eelektross / Floette-Eternal / Tyranitar        |    1 |  12.50% |   0.00% |
+| 2    | Slowbro / Floette-Eternal / Tyranitar           |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Floette-Eternal / Tyranitar           |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Eelektross / Tyranitar               |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Slowbro / Tyranitar                  |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Gliscor / Tyranitar                  |    1 |  12.50% |   0.00% |
+| 2    | Slowbro / Eelektross / Tyranitar                |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Eelektross / Tyranitar                |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Slowbro / Tyranitar                   |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Eelektross / Floette-Eternal         |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Slowbro / Floette-Eternal            |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Floette-Eternal / Gliscor            |    1 |  12.50% |   0.00% |
+| 2    | Slowbro / Eelektross / Floette-Eternal          |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Eelektross / Floette-Eternal          |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Slowbro / Floette-Eternal             |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Slowbro / Eelektross                 |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Eelektross / Gliscor                 |    1 |  12.50% |   0.00% |
+| 2    | Skarmory / Slowbro / Gliscor                    |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Slowbro / Eelektross                  |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Slurpuff / Heracross                 |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Slurpuff / Sinistcha-Masterpiece     |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Slurpuff / Empoleon                  |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Slurpuff / Incineroar                |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Sinistcha-Masterpiece / Heracross    |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Empoleon / Heracross                 |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Incineroar / Heracross               |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Empoleon / Sinistcha-Masterpiece     |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Incineroar / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 2    | Alakazam / Incineroar / Empoleon                |    1 |  12.50% |   0.00% |
+| 2    | Slurpuff / Sinistcha-Masterpiece / Heracross    |    1 |  12.50% |   0.00% |
+| 2    | Empoleon / Slurpuff / Heracross                 |    1 |  12.50% |   0.00% |
+| 2    | Incineroar / Slurpuff / Heracross               |    1 |  12.50% |   0.00% |
+| 2    | Empoleon / Slurpuff / Sinistcha-Masterpiece     |    1 |  12.50% |   0.00% |
+| 2    | Incineroar / Slurpuff / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 2    | Empoleon / Slurpuff / Incineroar                |    1 |  12.50% |   0.00% |
+| 2    | Empoleon / Sinistcha-Masterpiece / Heracross    |    1 |  12.50% |   0.00% |
+| 2    | Incineroar / Sinistcha-Masterpiece / Heracross  |    1 |  12.50% |   0.00% |
+| 2    | Empoleon / Incineroar / Heracross               |    1 |  12.50% |   0.00% |
+| 2    | Empoleon / Incineroar / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Gengar / Tinkaton                    |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Gengar / Starmie                     |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Gengar / Lucario                     |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Gengar / Krookodile                  |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Tinkaton / Starmie                   |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Tinkaton / Lucario                   |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Tinkaton / Krookodile                |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Lucario / Starmie                    |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Krookodile / Starmie                 |    1 |  12.50% |   0.00% |
+| 2    | Gyarados / Krookodile / Lucario                 |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Gengar / Tinkaton                     |    1 |  12.50% |   0.00% |
+| 2    | Lucario / Gengar / Tinkaton                     |    1 |  12.50% |   0.00% |
+| 2    | Gengar / Tinkaton / Krookodile                  |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Gengar / Lucario                      |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Gengar / Krookodile                   |    1 |  12.50% |   0.00% |
+| 2    | Lucario / Gengar / Krookodile                   |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Tinkaton / Lucario                    |    1 |  12.50% |   0.00% |
+| 2    | Lucario / Tinkaton / Krookodile                 |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Krookodile / Lucario                  |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Tinkaton / Starmie                    |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Tinkaton / Sinistcha-Masterpiece      |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Tinkaton / Feraligatr                 |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Tinkaton / Krookodile                 |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Sinistcha-Masterpiece / Starmie       |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Feraligatr / Starmie                  |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Krookodile / Starmie                  |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Feraligatr / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Krookodile / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 2    | Gliscor / Krookodile / Feraligatr               |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Tinkaton / Sinistcha-Masterpiece      |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Tinkaton / Feraligatr                 |    1 |  12.50% |   0.00% |
+| 2    | Tinkaton / Feraligatr / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 2    | Tinkaton / Krookodile / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 2    | Krookodile / Tinkaton / Feraligatr              |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Feraligatr / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Krookodile / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 2    | Starmie / Krookodile / Feraligatr               |    1 |  12.50% |   0.00% |
+| 2    | Krookodile / Feraligatr / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                                | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Gyarados / Sylveon / Arcanine-Hisui / Gallade              |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Forretress / Sylveon / Arcanine-Hisui           |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Gliscor / Sylveon / Arcanine-Hisui              |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Sylveon / Forretress / Gallade                  |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Sylveon / Gliscor / Gallade                     |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Gliscor / Sylveon / Forretress                  |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Forretress / Arcanine-Hisui / Gallade           |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Gliscor / Arcanine-Hisui / Gallade              |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Forretress / Gliscor / Arcanine-Hisui           |    1 |  12.50% | 100.00% |
+| 1    | Gyarados / Gliscor / Forretress / Gallade                  |    1 |  12.50% | 100.00% |
+| 1    | Forretress / Sylveon / Arcanine-Hisui / Gallade            |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Sylveon / Arcanine-Hisui / Gallade               |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Forretress / Sylveon / Arcanine-Hisui            |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Sylveon / Forretress / Gallade                   |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Forretress / Arcanine-Hisui / Gallade            |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Greninja / Vaporeon / Decidueye-Hisui            |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Gardevoir / Greninja / Vaporeon                  |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Tinkaton / Greninja / Vaporeon                   |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Gardevoir / Vaporeon / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Tinkaton / Vaporeon / Decidueye-Hisui            |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Gardevoir / Tinkaton / Vaporeon                  |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Gardevoir / Greninja / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Tinkaton / Greninja / Decidueye-Hisui            |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Gardevoir / Tinkaton / Greninja                  |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Gardevoir / Tinkaton / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 1    | Vaporeon / Gardevoir / Greninja / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 1    | Vaporeon / Tinkaton / Greninja / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 1    | Vaporeon / Gardevoir / Tinkaton / Greninja                 |    1 |  12.50% | 100.00% |
+| 1    | Vaporeon / Gardevoir / Tinkaton / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Gardevoir / Tinkaton / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 1    | Gallade / Rhyperior / Venusaur / Noivern                   |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Gallade / Venusaur / Noivern                    |    1 |  12.50% | 100.00% |
+| 1    | Gallade / Weavile / Venusaur / Noivern                     |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Rhyperior / Venusaur / Noivern                  |    1 |  12.50% | 100.00% |
+| 1    | Rhyperior / Venusaur / Weavile / Noivern                   |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Weavile / Venusaur / Noivern                    |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Rhyperior / Venusaur / Gallade                  |    1 |  12.50% | 100.00% |
+| 1    | Rhyperior / Venusaur / Weavile / Gallade                   |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Weavile / Venusaur / Gallade                    |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Rhyperior / Venusaur / Weavile                  |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Gallade / Rhyperior / Noivern                   |    1 |  12.50% | 100.00% |
+| 1    | Gallade / Rhyperior / Weavile / Noivern                    |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Gallade / Weavile / Noivern                     |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Rhyperior / Weavile / Noivern                   |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Rhyperior / Weavile / Gallade                   |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Floette-Eternal / Gliscor / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Forretress / Floette-Eternal / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Floette-Eternal / Rotom-Heat / Kommo-o          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Forretress / Floette-Eternal / Gliscor          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Floette-Eternal / Gliscor / Kommo-o             |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Floette-Eternal / Forretress / Kommo-o          |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Forretress / Floette-Eternal / Rotom-Heat        |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Floette-Eternal / Rotom-Heat / Kommo-o           |    1 |  12.50% | 100.00% |
+| 1    | Kommo-o / Forretress / Floette-Eternal / Rotom-Heat        |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Floette-Eternal / Forretress / Kommo-o           |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Forretress / Gliscor / Rotom-Heat               |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Kommo-o / Gliscor / Rotom-Heat                  |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Forretress / Kommo-o / Rotom-Heat               |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Forretress / Kommo-o / Gliscor                  |    1 |  12.50% | 100.00% |
+| 1    | Gliscor / Forretress / Kommo-o / Rotom-Heat                |    1 |  12.50% | 100.00% |
+| 1    | Skarmory / Eelektross / Floette-Eternal / Tyranitar        |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Floette-Eternal / Tyranitar           |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Floette-Eternal / Gliscor / Tyranitar           |    1 |  12.50% |   0.00% |
+| 1    | Slowbro / Eelektross / Floette-Eternal / Tyranitar         |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Eelektross / Floette-Eternal / Tyranitar         |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Slowbro / Floette-Eternal / Tyranitar            |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Eelektross / Tyranitar                |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Eelektross / Gliscor / Tyranitar                |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Gliscor / Tyranitar                   |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Slowbro / Eelektross / Tyranitar                 |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Eelektross / Floette-Eternal          |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Eelektross / Floette-Eternal / Gliscor          |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Floette-Eternal / Gliscor             |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Slowbro / Eelektross / Floette-Eternal           |    1 |  12.50% |   0.00% |
+| 1    | Skarmory / Slowbro / Eelektross / Gliscor                  |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Slurpuff / Sinistcha-Masterpiece / Heracross    |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Slurpuff / Empoleon / Heracross                 |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Slurpuff / Incineroar / Heracross               |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Slurpuff / Empoleon / Sinistcha-Masterpiece     |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Slurpuff / Incineroar / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Slurpuff / Empoleon / Incineroar                |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Sinistcha-Masterpiece / Empoleon / Heracross    |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Sinistcha-Masterpiece / Incineroar / Heracross  |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Incineroar / Empoleon / Heracross               |    1 |  12.50% |   0.00% |
+| 1    | Alakazam / Incineroar / Empoleon / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Sinistcha-Masterpiece / Heracross    |    1 |  12.50% |   0.00% |
+| 1    | Incineroar / Slurpuff / Sinistcha-Masterpiece / Heracross  |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Incineroar / Heracross               |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Incineroar / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Sinistcha-Masterpiece / Incineroar / Heracross  |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Gengar / Tinkaton / Starmie                     |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Gengar / Tinkaton / Lucario                     |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Gengar / Tinkaton / Krookodile                  |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Gengar / Lucario / Starmie                      |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Gengar / Krookodile / Starmie                   |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Gengar / Krookodile / Lucario                   |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Tinkaton / Lucario / Starmie                    |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Tinkaton / Krookodile / Starmie                 |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Tinkaton / Krookodile / Lucario                 |    1 |  12.50% |   0.00% |
+| 1    | Gyarados / Krookodile / Lucario / Starmie                  |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Gengar / Tinkaton / Lucario                      |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Gengar / Tinkaton / Krookodile                   |    1 |  12.50% |   0.00% |
+| 1    | Lucario / Gengar / Tinkaton / Krookodile                   |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Gengar / Krookodile / Lucario                    |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Krookodile / Lucario                  |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tinkaton / Sinistcha-Masterpiece / Starmie       |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tinkaton / Feraligatr / Starmie                  |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tinkaton / Krookodile / Starmie                  |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tinkaton / Feraligatr / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Tinkaton / Krookodile / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Krookodile / Tinkaton / Feraligatr               |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Sinistcha-Masterpiece / Feraligatr / Starmie     |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Sinistcha-Masterpiece / Krookodile / Starmie     |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Krookodile / Feraligatr / Starmie                |    1 |  12.50% |   0.00% |
+| 1    | Gliscor / Krookodile / Feraligatr / Sinistcha-Masterpiece  |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Feraligatr / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Krookodile / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Krookodile / Tinkaton / Feraligatr               |    1 |  12.50% |   0.00% |
+| 1    | Krookodile / Tinkaton / Feraligatr / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Krookodile / Feraligatr / Sinistcha-Masterpiece  |    1 |  12.50% |   0.00% |
+
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                          | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Sylveon / Forretress / Arcanine-Hisui / Gallade / Gyarados           |    1 |  12.50% | 100.00% |
+| 1    | Sylveon / Gliscor / Arcanine-Hisui / Gallade / Gyarados              |    1 |  12.50% | 100.00% |
+| 1    | Sylveon / Forretress / Gliscor / Arcanine-Hisui / Gyarados           |    1 |  12.50% | 100.00% |
+| 1    | Sylveon / Forretress / Gliscor / Gallade / Gyarados                  |    1 |  12.50% | 100.00% |
+| 1    | Forretress / Gliscor / Arcanine-Hisui / Gallade / Gyarados           |    1 |  12.50% | 100.00% |
+| 1    | Sylveon / Forretress / Gliscor / Arcanine-Hisui / Gallade            |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Gardevoir / Gliscor / Vaporeon / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Tinkaton / Gliscor / Vaporeon / Decidueye-Hisui           |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Gardevoir / Tinkaton / Gliscor / Vaporeon                 |    1 |  12.50% | 100.00% |
+| 1    | Gardevoir / Tinkaton / Gliscor / Vaporeon / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Gardevoir / Tinkaton / Gliscor / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Gardevoir / Tinkaton / Vaporeon / Decidueye-Hisui         |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Noivern / Venusaur / Gallade / Rhyperior                  |    1 |  12.50% | 100.00% |
+| 1    | Noivern / Weavile / Venusaur / Gallade / Rhyperior                   |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Noivern / Weavile / Venusaur / Gallade                    |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Noivern / Venusaur / Weavile / Rhyperior                  |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Venusaur / Weavile / Rhyperior / Gallade                  |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Noivern / Weavile / Gallade / Rhyperior                   |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Forretress / Gliscor / Floette-Eternal / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Kommo-o / Gliscor / Floette-Eternal / Rotom-Heat          |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Kommo-o / Forretress / Floette-Eternal / Rotom-Heat       |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Kommo-o / Forretress / Gliscor / Floette-Eternal          |    1 |  12.50% | 100.00% |
+| 1    | Kommo-o / Forretress / Gliscor / Floette-Eternal / Rotom-Heat        |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Kommo-o / Forretress / Gliscor / Rotom-Heat               |    1 |  12.50% | 100.00% |
+| 1    | Tyranitar / Slowbro / Eelektross / Floette-Eternal / Skarmory        |    1 |  12.50% |   0.00% |
+| 1    | Tyranitar / Eelektross / Gliscor / Floette-Eternal / Skarmory        |    1 |  12.50% |   0.00% |
+| 1    | Tyranitar / Slowbro / Gliscor / Floette-Eternal / Skarmory           |    1 |  12.50% |   0.00% |
+| 1    | Tyranitar / Slowbro / Eelektross / Gliscor / Floette-Eternal         |    1 |  12.50% |   0.00% |
+| 1    | Tyranitar / Slowbro / Eelektross / Gliscor / Skarmory                |    1 |  12.50% |   0.00% |
+| 1    | Slowbro / Eelektross / Gliscor / Floette-Eternal / Skarmory          |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Heracross / Alakazam / Sinistcha-Masterpiece   |    1 |  12.50% |   0.00% |
+| 1    | Slurpuff / Incineroar / Heracross / Alakazam / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Incineroar / Heracross / Alakazam              |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Incineroar / Alakazam / Sinistcha-Masterpiece  |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Incineroar / Heracross / Alakazam / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Incineroar / Heracross / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Lucario / Gyarados / Gengar                     |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Krookodile / Gyarados / Gengar                  |    1 |  12.50% |   0.00% |
+| 1    | Tinkaton / Lucario / Krookodile / Gyarados / Gengar                  |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Lucario / Krookodile / Gyarados / Gengar                   |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Lucario / Krookodile / Gyarados                 |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Krookodile / Lucario / Gengar                   |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Gliscor / Sinistcha-Masterpiece / Feraligatr    |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Gliscor / Krookodile / Sinistcha-Masterpiece    |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Gliscor / Krookodile / Feraligatr               |    1 |  12.50% |   0.00% |
+| 1    | Tinkaton / Gliscor / Krookodile / Sinistcha-Masterpiece / Feraligatr |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Gliscor / Krookodile / Sinistcha-Masterpiece / Feraligatr  |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Krookodile / Sinistcha-Masterpiece / Feraligatr |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Sylveon / Forretress / Gliscor / Arcanine-Hisui / Gallade / Gyarados            |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Gardevoir / Tinkaton / Gliscor / Vaporeon / Decidueye-Hisui          |    1 |  12.50% | 100.00% |
+| 1    | Empoleon / Noivern / Weavile / Venusaur / Gallade / Rhyperior                   |    1 |  12.50% | 100.00% |
+| 1    | Greninja / Kommo-o / Forretress / Gliscor / Floette-Eternal / Rotom-Heat        |    1 |  12.50% | 100.00% |
+| 1    | Tyranitar / Slowbro / Eelektross / Gliscor / Floette-Eternal / Skarmory         |    1 |  12.50% |   0.00% |
+| 1    | Empoleon / Slurpuff / Incineroar / Heracross / Alakazam / Sinistcha-Masterpiece |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Lucario / Krookodile / Gyarados / Gengar                   |    1 |  12.50% |   0.00% |
+| 1    | Starmie / Tinkaton / Gliscor / Krookodile / Sinistcha-Masterpiece / Feraligatr  |    1 |  12.50% |   0.00% |
