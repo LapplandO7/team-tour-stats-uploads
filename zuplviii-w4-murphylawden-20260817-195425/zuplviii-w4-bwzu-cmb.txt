@@ -1,0 +1,348 @@
++ ---- + ------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2               | Use  | Usage % |  Win %  |
++ ---- + ------------------------- + ---- + ------- + ------- +
+| 1    | Lairon / Persian          |    4 |  50.00% |  50.00% |
+| 1    | Persian / Muk             |    4 |  50.00% |  50.00% |
+| 1    | Lairon / Muk              |    4 |  50.00% |  50.00% |
+| 4    | Grumpig / Meganium        |    3 |  37.50% |  66.67% |
+| 4    | Persian / Wormadam-Trash  |    3 |  37.50% |  66.67% |
+| 4    | Lairon / Wormadam-Trash   |    3 |  37.50% |  66.67% |
+| 4    | Wormadam-Trash / Muk      |    3 |  37.50% |  66.67% |
+| 4    | Meganium / Emolga         |    3 |  37.50% |  33.33% |
+| 9    | Clefairy / Emolga         |    2 |  25.00% |  50.00% |
+| 9    | Arbok / Emolga            |    2 |  25.00% |  50.00% |
+| 9    | Clefairy / Arbok          |    2 |  25.00% |  50.00% |
+| 9    | Clefairy / Walrein        |    2 |  25.00% |  50.00% |
+| 9    | Clefairy / Meganium       |    2 |  25.00% |  50.00% |
+| 9    | Arbok / Meganium          |    2 |  25.00% |  50.00% |
+| 9    | Persian / Walrein         |    2 |  25.00% |  50.00% |
+| 9    | Lairon / Walrein          |    2 |  25.00% |  50.00% |
+| 9    | Walrein / Muk             |    2 |  25.00% |  50.00% |
+| 9    | Walrein / Wormadam-Trash  |    2 |  25.00% |  50.00% |
+| 9    | Raichu / Slaking          |    2 |  25.00% |  50.00% |
+| 9    | Grumpig / Slaking         |    2 |  25.00% |  50.00% |
+| 9    | Solrock / Slaking         |    2 |  25.00% |  50.00% |
+| 9    | Slaking / Meganium        |    2 |  25.00% |  50.00% |
+| 9    | Slaking / Mienfoo         |    2 |  25.00% |  50.00% |
+| 9    | Grumpig / Raichu          |    2 |  25.00% |  50.00% |
+| 9    | Raichu / Solrock          |    2 |  25.00% |  50.00% |
+| 9    | Raichu / Meganium         |    2 |  25.00% |  50.00% |
+| 9    | Raichu / Mienfoo          |    2 |  25.00% |  50.00% |
+| 9    | Grumpig / Solrock         |    2 |  25.00% |  50.00% |
+| 9    | Grumpig / Mienfoo         |    2 |  25.00% |  50.00% |
+| 9    | Solrock / Meganium        |    2 |  25.00% |  50.00% |
+| 9    | Solrock / Mienfoo         |    2 |  25.00% |  50.00% |
+| 9    | Mienfoo / Meganium        |    2 |  25.00% |  50.00% |
+| 9    | Emolga / Muk              |    2 |  25.00% |  50.00% |
+| 9    | Lairon / Emolga           |    2 |  25.00% |  50.00% |
+| 9    | Persian / Emolga          |    2 |  25.00% |  50.00% |
+| 9    | Meganium / Walrein        |    2 |  25.00% |   0.00% |
+| 9    | Persian / Meganium        |    2 |  25.00% |   0.00% |
+| 9    | Lairon / Meganium         |    2 |  25.00% |   0.00% |
+| 9    | Meganium / Muk            |    2 |  25.00% |   0.00% |
+| 40   | Grumpig / Arbok           |    1 |  12.50% | 100.00% |
+| 40   | Corsola / Arbok           |    1 |  12.50% | 100.00% |
+| 40   | Grumpig / Clefairy        |    1 |  12.50% | 100.00% |
+| 40   | Corsola / Clefairy        |    1 |  12.50% | 100.00% |
+| 40   | Grumpig / Corsola         |    1 |  12.50% | 100.00% |
+| 40   | Grumpig / Emolga          |    1 |  12.50% | 100.00% |
+| 40   | Corsola / Meganium        |    1 |  12.50% | 100.00% |
+| 40   | Corsola / Emolga          |    1 |  12.50% | 100.00% |
+| 40   | Clefairy / Persian        |    1 |  12.50% | 100.00% |
+| 40   | Lairon / Clefairy         |    1 |  12.50% | 100.00% |
+| 40   | Clefairy / Muk            |    1 |  12.50% | 100.00% |
+| 40   | Clefairy / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 40   | Frillish / Muk            |    1 |  12.50% | 100.00% |
+| 40   | Lairon / Frillish         |    1 |  12.50% | 100.00% |
+| 40   | Wormadam-Trash / Emolga   |    1 |  12.50% | 100.00% |
+| 40   | Frillish / Emolga         |    1 |  12.50% | 100.00% |
+| 40   | Frillish / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 40   | Persian / Frillish        |    1 |  12.50% | 100.00% |
+| 40   | Hippopotas / Emolga       |    1 |  12.50% |   0.00% |
+| 40   | Walrein / Emolga          |    1 |  12.50% |   0.00% |
+| 40   | Clefairy / Hippopotas     |    1 |  12.50% |   0.00% |
+| 40   | Arbok / Hippopotas        |    1 |  12.50% |   0.00% |
+| 40   | Arbok / Walrein           |    1 |  12.50% |   0.00% |
+| 40   | Hippopotas / Walrein      |    1 |  12.50% |   0.00% |
+| 40   | Hippopotas / Meganium     |    1 |  12.50% |   0.00% |
+| 40   | Meganium / Wormadam-Trash |    1 |  12.50% |   0.00% |
+| 40   | Emolga / Staryu           |    1 |  12.50% |   0.00% |
+| 40   | Persian / Staryu          |    1 |  12.50% |   0.00% |
+| 40   | Muk / Staryu              |    1 |  12.50% |   0.00% |
+| 40   | Meganium / Staryu         |    1 |  12.50% |   0.00% |
+| 40   | Lairon / Staryu           |    1 |  12.50% |   0.00% |
+
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                         | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------- + ---- + ------- + ------- +
+| 1    | Lairon / Persian / Muk              |    4 |  50.00% |  50.00% |
+| 2    | Lairon / Persian / Wormadam-Trash   |    3 |  37.50% |  66.67% |
+| 2    | Persian / Wormadam-Trash / Muk      |    3 |  37.50% |  66.67% |
+| 2    | Lairon / Wormadam-Trash / Muk       |    3 |  37.50% |  66.67% |
+| 5    | Clefairy / Arbok / Emolga           |    2 |  25.00% |  50.00% |
+| 5    | Meganium / Clefairy / Emolga        |    2 |  25.00% |  50.00% |
+| 5    | Meganium / Arbok / Emolga           |    2 |  25.00% |  50.00% |
+| 5    | Clefairy / Arbok / Meganium         |    2 |  25.00% |  50.00% |
+| 5    | Lairon / Persian / Walrein          |    2 |  25.00% |  50.00% |
+| 5    | Walrein / Persian / Muk             |    2 |  25.00% |  50.00% |
+| 5    | Walrein / Persian / Wormadam-Trash  |    2 |  25.00% |  50.00% |
+| 5    | Walrein / Lairon / Muk              |    2 |  25.00% |  50.00% |
+| 5    | Walrein / Lairon / Wormadam-Trash   |    2 |  25.00% |  50.00% |
+| 5    | Walrein / Wormadam-Trash / Muk      |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Raichu / Slaking          |    2 |  25.00% |  50.00% |
+| 5    | Solrock / Raichu / Slaking          |    2 |  25.00% |  50.00% |
+| 5    | Raichu / Slaking / Meganium         |    2 |  25.00% |  50.00% |
+| 5    | Raichu / Slaking / Mienfoo          |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Solrock / Slaking         |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Slaking / Meganium        |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Slaking / Mienfoo         |    2 |  25.00% |  50.00% |
+| 5    | Solrock / Slaking / Meganium        |    2 |  25.00% |  50.00% |
+| 5    | Solrock / Slaking / Mienfoo         |    2 |  25.00% |  50.00% |
+| 5    | Slaking / Meganium / Mienfoo        |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Raichu / Solrock          |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Raichu / Meganium         |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Raichu / Mienfoo          |    2 |  25.00% |  50.00% |
+| 5    | Raichu / Solrock / Meganium         |    2 |  25.00% |  50.00% |
+| 5    | Raichu / Solrock / Mienfoo          |    2 |  25.00% |  50.00% |
+| 5    | Raichu / Mienfoo / Meganium         |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Solrock / Meganium        |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Solrock / Mienfoo         |    2 |  25.00% |  50.00% |
+| 5    | Grumpig / Mienfoo / Meganium        |    2 |  25.00% |  50.00% |
+| 5    | Solrock / Mienfoo / Meganium        |    2 |  25.00% |  50.00% |
+| 5    | Lairon / Emolga / Muk               |    2 |  25.00% |  50.00% |
+| 5    | Persian / Emolga / Muk              |    2 |  25.00% |  50.00% |
+| 5    | Lairon / Persian / Emolga           |    2 |  25.00% |  50.00% |
+| 5    | Lairon / Persian / Meganium         |    2 |  25.00% |   0.00% |
+| 5    | Meganium / Persian / Muk            |    2 |  25.00% |   0.00% |
+| 5    | Lairon / Meganium / Muk             |    2 |  25.00% |   0.00% |
+| 41   | Grumpig / Clefairy / Arbok          |    1 |  12.50% | 100.00% |
+| 41   | Corsola / Clefairy / Arbok          |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Corsola / Arbok           |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Arbok / Meganium          |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Arbok / Emolga            |    1 |  12.50% | 100.00% |
+| 41   | Corsola / Arbok / Meganium          |    1 |  12.50% | 100.00% |
+| 41   | Corsola / Arbok / Emolga            |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Clefairy / Corsola        |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Clefairy / Meganium       |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Clefairy / Emolga         |    1 |  12.50% | 100.00% |
+| 41   | Corsola / Clefairy / Meganium       |    1 |  12.50% | 100.00% |
+| 41   | Corsola / Clefairy / Emolga         |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Corsola / Meganium        |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Corsola / Emolga          |    1 |  12.50% | 100.00% |
+| 41   | Grumpig / Emolga / Meganium         |    1 |  12.50% | 100.00% |
+| 41   | Corsola / Emolga / Meganium         |    1 |  12.50% | 100.00% |
+| 41   | Clefairy / Lairon / Persian         |    1 |  12.50% | 100.00% |
+| 41   | Clefairy / Persian / Muk            |    1 |  12.50% | 100.00% |
+| 41   | Clefairy / Persian / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 41   | Clefairy / Persian / Walrein        |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Clefairy / Muk             |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Clefairy / Wormadam-Trash  |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Clefairy / Walrein         |    1 |  12.50% | 100.00% |
+| 41   | Clefairy / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 41   | Walrein / Clefairy / Muk            |    1 |  12.50% | 100.00% |
+| 41   | Walrein / Clefairy / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Frillish / Muk             |    1 |  12.50% | 100.00% |
+| 41   | Emolga / Wormadam-Trash / Muk       |    1 |  12.50% | 100.00% |
+| 41   | Emolga / Frillish / Muk             |    1 |  12.50% | 100.00% |
+| 41   | Frillish / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 41   | Persian / Frillish / Muk            |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Wormadam-Trash / Emolga    |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Frillish / Emolga          |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Frillish / Wormadam-Trash  |    1 |  12.50% | 100.00% |
+| 41   | Lairon / Persian / Frillish         |    1 |  12.50% | 100.00% |
+| 41   | Persian / Wormadam-Trash / Emolga   |    1 |  12.50% | 100.00% |
+| 41   | Frillish / Wormadam-Trash / Emolga  |    1 |  12.50% | 100.00% |
+| 41   | Persian / Frillish / Emolga         |    1 |  12.50% | 100.00% |
+| 41   | Persian / Frillish / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 41   | Clefairy / Hippopotas / Emolga      |    1 |  12.50% |   0.00% |
+| 41   | Walrein / Clefairy / Emolga         |    1 |  12.50% |   0.00% |
+| 41   | Arbok / Hippopotas / Emolga         |    1 |  12.50% |   0.00% |
+| 41   | Walrein / Arbok / Emolga            |    1 |  12.50% |   0.00% |
+| 41   | Walrein / Hippopotas / Emolga       |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Hippopotas / Emolga      |    1 |  12.50% |   0.00% |
+| 41   | Walrein / Meganium / Emolga         |    1 |  12.50% |   0.00% |
+| 41   | Clefairy / Arbok / Hippopotas       |    1 |  12.50% |   0.00% |
+| 41   | Clefairy / Arbok / Walrein          |    1 |  12.50% |   0.00% |
+| 41   | Clefairy / Hippopotas / Walrein     |    1 |  12.50% |   0.00% |
+| 41   | Clefairy / Hippopotas / Meganium    |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Clefairy / Walrein       |    1 |  12.50% |   0.00% |
+| 41   | Arbok / Hippopotas / Walrein        |    1 |  12.50% |   0.00% |
+| 41   | Arbok / Hippopotas / Meganium       |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Arbok / Walrein          |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Hippopotas / Walrein     |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Persian / Wormadam-Trash |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Persian / Walrein        |    1 |  12.50% |   0.00% |
+| 41   | Lairon / Meganium / Wormadam-Trash  |    1 |  12.50% |   0.00% |
+| 41   | Lairon / Meganium / Walrein         |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Wormadam-Trash / Muk     |    1 |  12.50% |   0.00% |
+| 41   | Walrein / Meganium / Muk            |    1 |  12.50% |   0.00% |
+| 41   | Walrein / Meganium / Wormadam-Trash |    1 |  12.50% |   0.00% |
+| 41   | Persian / Emolga / Staryu           |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Persian / Emolga         |    1 |  12.50% |   0.00% |
+| 41   | Muk / Emolga / Staryu               |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Emolga / Staryu          |    1 |  12.50% |   0.00% |
+| 41   | Lairon / Emolga / Staryu            |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Muk / Emolga             |    1 |  12.50% |   0.00% |
+| 41   | Lairon / Meganium / Emolga          |    1 |  12.50% |   0.00% |
+| 41   | Persian / Muk / Staryu              |    1 |  12.50% |   0.00% |
+| 41   | Persian / Meganium / Staryu         |    1 |  12.50% |   0.00% |
+| 41   | Lairon / Persian / Staryu           |    1 |  12.50% |   0.00% |
+| 41   | Meganium / Muk / Staryu             |    1 |  12.50% |   0.00% |
+| 41   | Lairon / Muk / Staryu               |    1 |  12.50% |   0.00% |
+| 41   | Lairon / Meganium / Staryu          |    1 |  12.50% |   0.00% |
+
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                   | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------- + ---- + ------- + ------- +
+| 1    | Lairon / Persian / Wormadam-Trash / Muk       |    3 |  37.50% |  66.67% |
+| 2    | Meganium / Clefairy / Arbok / Emolga          |    2 |  25.00% |  50.00% |
+| 2    | Walrein / Lairon / Persian / Muk              |    2 |  25.00% |  50.00% |
+| 2    | Walrein / Lairon / Persian / Wormadam-Trash   |    2 |  25.00% |  50.00% |
+| 2    | Walrein / Persian / Wormadam-Trash / Muk      |    2 |  25.00% |  50.00% |
+| 2    | Walrein / Lairon / Wormadam-Trash / Muk       |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Raichu / Slaking / Solrock          |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Raichu / Slaking / Meganium         |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Raichu / Slaking / Mienfoo          |    2 |  25.00% |  50.00% |
+| 2    | Solrock / Raichu / Slaking / Meganium         |    2 |  25.00% |  50.00% |
+| 2    | Solrock / Raichu / Slaking / Mienfoo          |    2 |  25.00% |  50.00% |
+| 2    | Raichu / Slaking / Meganium / Mienfoo         |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Solrock / Slaking / Meganium        |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Solrock / Slaking / Mienfoo         |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Slaking / Meganium / Mienfoo        |    2 |  25.00% |  50.00% |
+| 2    | Solrock / Slaking / Meganium / Mienfoo        |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Raichu / Solrock / Meganium         |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Raichu / Solrock / Mienfoo          |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Raichu / Mienfoo / Meganium         |    2 |  25.00% |  50.00% |
+| 2    | Raichu / Solrock / Meganium / Mienfoo         |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Solrock / Mienfoo / Meganium        |    2 |  25.00% |  50.00% |
+| 2    | Persian / Lairon / Emolga / Muk               |    2 |  25.00% |  50.00% |
+| 2    | Lairon / Persian / Meganium / Muk             |    2 |  25.00% |   0.00% |
+| 24   | Grumpig / Clefairy / Arbok / Corsola          |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Clefairy / Arbok / Meganium         |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Clefairy / Arbok / Emolga           |    1 |  12.50% | 100.00% |
+| 24   | Corsola / Clefairy / Arbok / Meganium         |    1 |  12.50% | 100.00% |
+| 24   | Corsola / Clefairy / Arbok / Emolga           |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Corsola / Arbok / Meganium          |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Corsola / Arbok / Emolga            |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Emolga / Arbok / Meganium           |    1 |  12.50% | 100.00% |
+| 24   | Corsola / Arbok / Emolga / Meganium           |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Clefairy / Corsola / Meganium       |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Clefairy / Corsola / Emolga         |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Clefairy / Emolga / Meganium        |    1 |  12.50% | 100.00% |
+| 24   | Corsola / Clefairy / Emolga / Meganium        |    1 |  12.50% | 100.00% |
+| 24   | Grumpig / Corsola / Emolga / Meganium         |    1 |  12.50% | 100.00% |
+| 24   | Clefairy / Lairon / Persian / Muk             |    1 |  12.50% | 100.00% |
+| 24   | Clefairy / Lairon / Persian / Wormadam-Trash  |    1 |  12.50% | 100.00% |
+| 24   | Clefairy / Lairon / Persian / Walrein         |    1 |  12.50% | 100.00% |
+| 24   | Clefairy / Persian / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 24   | Clefairy / Walrein / Persian / Muk            |    1 |  12.50% | 100.00% |
+| 24   | Clefairy / Walrein / Persian / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Clefairy / Wormadam-Trash / Muk      |    1 |  12.50% | 100.00% |
+| 24   | Walrein / Lairon / Clefairy / Muk             |    1 |  12.50% | 100.00% |
+| 24   | Walrein / Lairon / Clefairy / Wormadam-Trash  |    1 |  12.50% | 100.00% |
+| 24   | Walrein / Clefairy / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Emolga / Wormadam-Trash / Muk        |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Emolga / Frillish / Muk              |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Frillish / Wormadam-Trash / Muk      |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Persian / Frillish / Muk             |    1 |  12.50% | 100.00% |
+| 24   | Persian / Emolga / Wormadam-Trash / Muk       |    1 |  12.50% | 100.00% |
+| 24   | Emolga / Frillish / Wormadam-Trash / Muk      |    1 |  12.50% | 100.00% |
+| 24   | Persian / Emolga / Frillish / Muk             |    1 |  12.50% | 100.00% |
+| 24   | Persian / Frillish / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Persian / Wormadam-Trash / Emolga    |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Frillish / Wormadam-Trash / Emolga   |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Persian / Frillish / Emolga          |    1 |  12.50% | 100.00% |
+| 24   | Lairon / Persian / Frillish / Wormadam-Trash  |    1 |  12.50% | 100.00% |
+| 24   | Persian / Frillish / Wormadam-Trash / Emolga  |    1 |  12.50% | 100.00% |
+| 24   | Clefairy / Arbok / Hippopotas / Emolga        |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Clefairy / Arbok / Emolga           |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Clefairy / Hippopotas / Emolga      |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Clefairy / Hippopotas / Emolga     |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Clefairy / Meganium / Emolga        |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Arbok / Hippopotas / Emolga         |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Arbok / Hippopotas / Emolga        |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Meganium / Arbok / Emolga           |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Meganium / Hippopotas / Emolga      |    1 |  12.50% |   0.00% |
+| 24   | Clefairy / Arbok / Hippopotas / Walrein       |    1 |  12.50% |   0.00% |
+| 24   | Clefairy / Arbok / Hippopotas / Meganium      |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Clefairy / Arbok / Walrein         |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Clefairy / Hippopotas / Walrein    |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Arbok / Hippopotas / Walrein       |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Persian / Meganium / Wormadam-Trash  |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Persian / Meganium / Walrein         |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Persian / Wormadam-Trash / Muk     |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Persian / Meganium / Muk            |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Persian / Meganium / Wormadam-Trash |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Meganium / Wormadam-Trash / Muk      |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Lairon / Meganium / Muk             |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Lairon / Meganium / Wormadam-Trash  |    1 |  12.50% |   0.00% |
+| 24   | Walrein / Meganium / Wormadam-Trash / Muk     |    1 |  12.50% |   0.00% |
+| 24   | Persian / Muk / Emolga / Staryu               |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Persian / Emolga / Staryu          |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Persian / Emolga / Staryu            |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Persian / Muk / Emolga             |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Meganium / Persian / Emolga          |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Muk / Emolga / Staryu              |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Muk / Emolga / Staryu                |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Meganium / Emolga / Staryu           |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Meganium / Muk / Emolga              |    1 |  12.50% |   0.00% |
+| 24   | Meganium / Persian / Muk / Staryu             |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Persian / Muk / Staryu               |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Persian / Meganium / Staryu          |    1 |  12.50% |   0.00% |
+| 24   | Lairon / Meganium / Muk / Staryu              |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Persian / Lairon / Walrein / Wormadam-Trash / Muk      |    2 |  25.00% |  50.00% |
+| 1    | Grumpig / Solrock / Meganium / Raichu / Slaking        |    2 |  25.00% |  50.00% |
+| 1    | Grumpig / Solrock / Raichu / Slaking / Mienfoo         |    2 |  25.00% |  50.00% |
+| 1    | Grumpig / Meganium / Raichu / Slaking / Mienfoo        |    2 |  25.00% |  50.00% |
+| 1    | Solrock / Meganium / Raichu / Slaking / Mienfoo        |    2 |  25.00% |  50.00% |
+| 1    | Grumpig / Solrock / Meganium / Slaking / Mienfoo       |    2 |  25.00% |  50.00% |
+| 1    | Grumpig / Solrock / Meganium / Raichu / Mienfoo        |    2 |  25.00% |  50.00% |
+| 8    | Grumpig / Clefairy / Corsola / Meganium / Arbok        |    1 |  12.50% | 100.00% |
+| 8    | Grumpig / Emolga / Clefairy / Corsola / Arbok          |    1 |  12.50% | 100.00% |
+| 8    | Grumpig / Emolga / Clefairy / Meganium / Arbok         |    1 |  12.50% | 100.00% |
+| 8    | Emolga / Corsola / Clefairy / Meganium / Arbok         |    1 |  12.50% | 100.00% |
+| 8    | Grumpig / Emolga / Corsola / Meganium / Arbok          |    1 |  12.50% | 100.00% |
+| 8    | Grumpig / Emolga / Clefairy / Corsola / Meganium       |    1 |  12.50% | 100.00% |
+| 8    | Persian / Clefairy / Lairon / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 8    | Persian / Clefairy / Lairon / Walrein / Muk            |    1 |  12.50% | 100.00% |
+| 8    | Persian / Clefairy / Lairon / Walrein / Wormadam-Trash |    1 |  12.50% | 100.00% |
+| 8    | Persian / Clefairy / Walrein / Wormadam-Trash / Muk    |    1 |  12.50% | 100.00% |
+| 8    | Clefairy / Lairon / Walrein / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 8    | Persian / Emolga / Lairon / Wormadam-Trash / Muk       |    1 |  12.50% | 100.00% |
+| 8    | Emolga / Lairon / Frillish / Wormadam-Trash / Muk      |    1 |  12.50% | 100.00% |
+| 8    | Persian / Emolga / Lairon / Frillish / Muk             |    1 |  12.50% | 100.00% |
+| 8    | Persian / Lairon / Frillish / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 8    | Persian / Emolga / Frillish / Wormadam-Trash / Muk     |    1 |  12.50% | 100.00% |
+| 8    | Persian / Emolga / Lairon / Frillish / Wormadam-Trash  |    1 |  12.50% | 100.00% |
+| 8    | Emolga / Clefairy / Arbok / Hippopotas / Walrein       |    1 |  12.50% |   0.00% |
+| 8    | Emolga / Clefairy / Meganium / Arbok / Hippopotas      |    1 |  12.50% |   0.00% |
+| 8    | Emolga / Clefairy / Meganium / Arbok / Walrein         |    1 |  12.50% |   0.00% |
+| 8    | Emolga / Clefairy / Meganium / Hippopotas / Walrein    |    1 |  12.50% |   0.00% |
+| 8    | Emolga / Meganium / Arbok / Hippopotas / Walrein       |    1 |  12.50% |   0.00% |
+| 8    | Clefairy / Meganium / Arbok / Hippopotas / Walrein     |    1 |  12.50% |   0.00% |
+| 8    | Persian / Meganium / Lairon / Wormadam-Trash / Muk     |    1 |  12.50% |   0.00% |
+| 8    | Persian / Meganium / Lairon / Walrein / Muk            |    1 |  12.50% |   0.00% |
+| 8    | Persian / Meganium / Lairon / Walrein / Wormadam-Trash |    1 |  12.50% |   0.00% |
+| 8    | Persian / Meganium / Walrein / Wormadam-Trash / Muk    |    1 |  12.50% |   0.00% |
+| 8    | Meganium / Lairon / Walrein / Wormadam-Trash / Muk     |    1 |  12.50% |   0.00% |
+| 8    | Persian / Emolga / Meganium / Staryu / Muk             |    1 |  12.50% |   0.00% |
+| 8    | Persian / Emolga / Staryu / Lairon / Muk               |    1 |  12.50% |   0.00% |
+| 8    | Persian / Emolga / Meganium / Staryu / Lairon          |    1 |  12.50% |   0.00% |
+| 8    | Persian / Emolga / Meganium / Lairon / Muk             |    1 |  12.50% |   0.00% |
+| 8    | Emolga / Meganium / Staryu / Lairon / Muk              |    1 |  12.50% |   0.00% |
+| 8    | Persian / Meganium / Staryu / Lairon / Muk             |    1 |  12.50% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Grumpig / Solrock / Meganium / Raichu / Slaking / Mienfoo    |    2 |  25.00% |  50.00% |
+| 2    | Grumpig / Emolga / Clefairy / Corsola / Meganium / Arbok     |    1 |  12.50% | 100.00% |
+| 2    | Persian / Clefairy / Lairon / Walrein / Wormadam-Trash / Muk |    1 |  12.50% | 100.00% |
+| 2    | Persian / Emolga / Lairon / Frillish / Wormadam-Trash / Muk  |    1 |  12.50% | 100.00% |
+| 2    | Emolga / Clefairy / Meganium / Arbok / Hippopotas / Walrein  |    1 |  12.50% |   0.00% |
+| 2    | Persian / Meganium / Lairon / Walrein / Wormadam-Trash / Muk |    1 |  12.50% |   0.00% |
+| 2    | Persian / Emolga / Meganium / Staryu / Lairon / Muk          |    1 |  12.50% |   0.00% |
