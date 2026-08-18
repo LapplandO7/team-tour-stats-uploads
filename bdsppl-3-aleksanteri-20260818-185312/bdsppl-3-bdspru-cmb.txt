@@ -1,0 +1,132 @@
++ ---- + --------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2           | Use  | Usage % |  Win %  |
++ ---- + --------------------- + ---- + ------- + ------- +
+| 1    | Nidoqueen / Vaporeon  |    2 | 100.00% |  50.00% |
+| 2    | Cacturne / Registeel  |    1 |  50.00% | 100.00% |
+| 2    | Cacturne / Xatu       |    1 |  50.00% | 100.00% |
+| 2    | Cacturne / Nidoqueen  |    1 |  50.00% | 100.00% |
+| 2    | Cacturne / Vaporeon   |    1 |  50.00% | 100.00% |
+| 2    | Cacturne / Primeape   |    1 |  50.00% | 100.00% |
+| 2    | Registeel / Xatu      |    1 |  50.00% | 100.00% |
+| 2    | Registeel / Nidoqueen |    1 |  50.00% | 100.00% |
+| 2    | Registeel / Vaporeon  |    1 |  50.00% | 100.00% |
+| 2    | Registeel / Primeape  |    1 |  50.00% | 100.00% |
+| 2    | Nidoqueen / Xatu      |    1 |  50.00% | 100.00% |
+| 2    | Xatu / Vaporeon       |    1 |  50.00% | 100.00% |
+| 2    | Xatu / Primeape       |    1 |  50.00% | 100.00% |
+| 2    | Nidoqueen / Primeape  |    1 |  50.00% | 100.00% |
+| 2    | Primeape / Vaporeon   |    1 |  50.00% | 100.00% |
+| 2    | Sableye / Chansey     |    1 |  50.00% |   0.00% |
+| 2    | Chansey / Granbull    |    1 |  50.00% |   0.00% |
+| 2    | Nidoqueen / Chansey   |    1 |  50.00% |   0.00% |
+| 2    | Vaporeon / Chansey    |    1 |  50.00% |   0.00% |
+| 2    | Skuntank / Chansey    |    1 |  50.00% |   0.00% |
+| 2    | Sableye / Granbull    |    1 |  50.00% |   0.00% |
+| 2    | Nidoqueen / Sableye   |    1 |  50.00% |   0.00% |
+| 2    | Sableye / Vaporeon    |    1 |  50.00% |   0.00% |
+| 2    | Skuntank / Sableye    |    1 |  50.00% |   0.00% |
+| 2    | Nidoqueen / Granbull  |    1 |  50.00% |   0.00% |
+| 2    | Vaporeon / Granbull   |    1 |  50.00% |   0.00% |
+| 2    | Skuntank / Granbull   |    1 |  50.00% |   0.00% |
+| 2    | Nidoqueen / Skuntank  |    1 |  50.00% |   0.00% |
+| 2    | Skuntank / Vaporeon   |    1 |  50.00% |   0.00% |
+
++ ---- + -------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                      | Use  | Usage % |  Win %  |
++ ---- + -------------------------------- + ---- + ------- + ------- +
+| 1    | Cacturne / Xatu / Registeel      |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Registeel / Nidoqueen |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Registeel / Vaporeon  |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Primeape / Registeel  |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Nidoqueen      |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Vaporeon       |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Primeape       |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Vaporeon / Nidoqueen  |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Primeape / Nidoqueen  |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Primeape / Vaporeon   |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Xatu / Nidoqueen     |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Xatu / Vaporeon      |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Xatu / Primeape      |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Vaporeon / Nidoqueen |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Primeape / Nidoqueen |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Primeape / Vaporeon  |    1 |  50.00% | 100.00% |
+| 1    | Nidoqueen / Xatu / Vaporeon      |    1 |  50.00% | 100.00% |
+| 1    | Nidoqueen / Xatu / Primeape      |    1 |  50.00% | 100.00% |
+| 1    | Xatu / Primeape / Vaporeon       |    1 |  50.00% | 100.00% |
+| 1    | Nidoqueen / Primeape / Vaporeon  |    1 |  50.00% | 100.00% |
+| 1    | Sableye / Chansey / Granbull     |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Sableye / Chansey    |    1 |  50.00% |   0.00% |
+| 1    | Vaporeon / Sableye / Chansey     |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Sableye / Chansey     |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Chansey / Granbull   |    1 |  50.00% |   0.00% |
+| 1    | Vaporeon / Chansey / Granbull    |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Chansey / Granbull    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Vaporeon / Chansey   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Chansey   |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Vaporeon / Chansey    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Sableye / Granbull   |    1 |  50.00% |   0.00% |
+| 1    | Sableye / Vaporeon / Granbull    |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Sableye / Granbull    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Sableye / Vaporeon   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Sableye   |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Sableye / Vaporeon    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Vaporeon / Granbull  |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Granbull  |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Vaporeon / Granbull   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Vaporeon  |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                 | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------- + ---- + ------- + ------- +
+| 1    | Cacturne / Xatu / Registeel / Nidoqueen     |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Registeel / Vaporeon      |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Primeape / Registeel      |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Registeel / Vaporeon / Nidoqueen |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Primeape / Registeel / Nidoqueen |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Primeape / Registeel / Vaporeon  |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Vaporeon / Nidoqueen      |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Primeape / Nidoqueen      |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Xatu / Primeape / Vaporeon       |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Primeape / Vaporeon / Nidoqueen  |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Xatu / Vaporeon / Nidoqueen     |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Xatu / Primeape / Nidoqueen     |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Xatu / Primeape / Vaporeon      |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Primeape / Vaporeon / Nidoqueen |    1 |  50.00% | 100.00% |
+| 1    | Nidoqueen / Xatu / Primeape / Vaporeon      |    1 |  50.00% | 100.00% |
+| 1    | Nidoqueen / Sableye / Chansey / Granbull    |    1 |  50.00% |   0.00% |
+| 1    | Vaporeon / Sableye / Chansey / Granbull     |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Sableye / Chansey / Granbull     |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Vaporeon / Sableye / Chansey    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Sableye / Chansey    |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Vaporeon / Sableye / Chansey     |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Vaporeon / Chansey / Granbull   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Chansey / Granbull   |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Vaporeon / Chansey / Granbull    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Vaporeon / Chansey   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Sableye / Vaporeon / Granbull   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Sableye / Granbull   |    1 |  50.00% |   0.00% |
+| 1    | Skuntank / Sableye / Vaporeon / Granbull    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Sableye / Vaporeon   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Skuntank / Vaporeon / Granbull  |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Cacturne / Registeel / Nidoqueen / Vaporeon / Xatu     |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Registeel / Nidoqueen / Xatu / Primeape     |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Registeel / Vaporeon / Xatu / Primeape      |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Registeel / Nidoqueen / Vaporeon / Primeape |    1 |  50.00% | 100.00% |
+| 1    | Cacturne / Nidoqueen / Vaporeon / Xatu / Primeape      |    1 |  50.00% | 100.00% |
+| 1    | Registeel / Nidoqueen / Vaporeon / Xatu / Primeape     |    1 |  50.00% | 100.00% |
+| 1    | Nidoqueen / Vaporeon / Chansey / Granbull / Sableye    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Chansey / Granbull / Skuntank / Sableye    |    1 |  50.00% |   0.00% |
+| 1    | Vaporeon / Chansey / Granbull / Skuntank / Sableye     |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Vaporeon / Chansey / Skuntank / Sableye    |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Vaporeon / Chansey / Granbull / Skuntank   |    1 |  50.00% |   0.00% |
+| 1    | Nidoqueen / Vaporeon / Granbull / Skuntank / Sableye   |    1 |  50.00% |   0.00% |
+
++ ---- + -------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                    | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Cacturne / Registeel / Nidoqueen / Vaporeon / Xatu / Primeape  |    1 |  50.00% | 100.00% |
+| 1    | Nidoqueen / Vaporeon / Chansey / Granbull / Skuntank / Sableye |    1 |  50.00% |   0.00% |
