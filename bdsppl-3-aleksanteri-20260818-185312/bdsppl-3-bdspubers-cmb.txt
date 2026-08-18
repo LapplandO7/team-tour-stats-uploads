@@ -1,0 +1,163 @@
++ ---- + ----------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2                   | Use  | Usage % |  Win %  |
++ ---- + ----------------------------- + ---- + ------- + ------- +
+| 1    | Dialga / Kyogre               |    2 | 100.00% |  50.00% |
+| 2    | Forretress / Deoxys-Attack    |    1 |  50.00% | 100.00% |
+| 2    | Deoxys-Attack / Kyogre        |    1 |  50.00% | 100.00% |
+| 2    | Deoxys-Attack / Dialga        |    1 |  50.00% | 100.00% |
+| 2    | Deoxys-Attack / Arceus-*      |    1 |  50.00% | 100.00% |
+| 2    | Deoxys-Attack / Rayquaza      |    1 |  50.00% | 100.00% |
+| 2    | Deoxys-Attack / Arceus-Ground |    1 |  50.00% | 100.00% |
+| 2    | Forretress / Kyogre           |    1 |  50.00% | 100.00% |
+| 2    | Forretress / Dialga           |    1 |  50.00% | 100.00% |
+| 2    | Forretress / Arceus-*         |    1 |  50.00% | 100.00% |
+| 2    | Forretress / Rayquaza         |    1 |  50.00% | 100.00% |
+| 2    | Forretress / Arceus-Ground    |    1 |  50.00% | 100.00% |
+| 2    | Arceus-* / Kyogre             |    1 |  50.00% | 100.00% |
+| 2    | Rayquaza / Kyogre             |    1 |  50.00% | 100.00% |
+| 2    | Arceus-Ground / Kyogre        |    1 |  50.00% | 100.00% |
+| 2    | Arceus-* / Dialga             |    1 |  50.00% | 100.00% |
+| 2    | Dialga / Rayquaza             |    1 |  50.00% | 100.00% |
+| 2    | Dialga / Arceus-Ground        |    1 |  50.00% | 100.00% |
+| 2    | Arceus-* / Rayquaza           |    1 |  50.00% | 100.00% |
+| 2    | Arceus-Ground / Rayquaza      |    1 |  50.00% | 100.00% |
+| 2    | Clefable / Dialga             |    1 |  50.00% |   0.00% |
+| 2    | Clefable / Kyogre             |    1 |  50.00% |   0.00% |
+| 2    | Clefable / Giratina-Origin    |    1 |  50.00% |   0.00% |
+| 2    | Clefable / Groudon            |    1 |  50.00% |   0.00% |
+| 2    | Clefable / Ho-Oh              |    1 |  50.00% |   0.00% |
+| 2    | Dialga / Giratina-Origin      |    1 |  50.00% |   0.00% |
+| 2    | Dialga / Groudon              |    1 |  50.00% |   0.00% |
+| 2    | Ho-Oh / Dialga                |    1 |  50.00% |   0.00% |
+| 2    | Giratina-Origin / Kyogre      |    1 |  50.00% |   0.00% |
+| 2    | Groudon / Kyogre              |    1 |  50.00% |   0.00% |
+| 2    | Ho-Oh / Kyogre                |    1 |  50.00% |   0.00% |
+| 2    | Groudon / Giratina-Origin     |    1 |  50.00% |   0.00% |
+| 2    | Ho-Oh / Giratina-Origin       |    1 |  50.00% |   0.00% |
+| 2    | Ho-Oh / Groudon               |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 3                                | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| 1    | Forretress / Deoxys-Attack / Kyogre        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Dialga        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Arceus-*      |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Rayquaza      |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Arceus-Ground |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Kyogre            |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Kyogre / Arceus-*          |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Rayquaza / Kyogre          |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Arceus-Ground / Kyogre     |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Arceus-*          |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Rayquaza          |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Arceus-Ground     |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Rayquaza / Arceus-*        |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Rayquaza / Arceus-Ground   |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Dialga / Kyogre               |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-* / Kyogre             |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Rayquaza / Kyogre             |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-Ground / Kyogre        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-* / Dialga             |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Dialga / Rayquaza             |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Dialga / Arceus-Ground        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-* / Rayquaza           |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-Ground / Rayquaza      |    1 |  50.00% | 100.00% |
+| 1    | Arceus-* / Dialga / Kyogre                 |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Kyogre                 |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Arceus-Ground / Kyogre            |    1 |  50.00% | 100.00% |
+| 1    | Arceus-* / Rayquaza / Kyogre               |    1 |  50.00% | 100.00% |
+| 1    | Arceus-Ground / Rayquaza / Kyogre          |    1 |  50.00% | 100.00% |
+| 1    | Arceus-* / Dialga / Rayquaza               |    1 |  50.00% | 100.00% |
+| 1    | Arceus-Ground / Dialga / Rayquaza          |    1 |  50.00% | 100.00% |
+| 1    | Clefable / Dialga / Kyogre                 |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Giratina-Origin        |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Groudon                |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Ho-Oh                  |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Giratina-Origin / Kyogre        |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Groudon / Kyogre                |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Ho-Oh / Kyogre                  |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Groudon / Giratina-Origin       |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Ho-Oh / Giratina-Origin         |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Groudon / Ho-Oh                 |    1 |  50.00% |   0.00% |
+| 1    | Giratina-Origin / Dialga / Kyogre          |    1 |  50.00% |   0.00% |
+| 1    | Dialga / Groudon / Kyogre                  |    1 |  50.00% |   0.00% |
+| 1    | Ho-Oh / Dialga / Kyogre                    |    1 |  50.00% |   0.00% |
+| 1    | Dialga / Groudon / Giratina-Origin         |    1 |  50.00% |   0.00% |
+| 1    | Ho-Oh / Dialga / Giratina-Origin           |    1 |  50.00% |   0.00% |
+| 1    | Ho-Oh / Dialga / Groudon                   |    1 |  50.00% |   0.00% |
+| 1    | Giratina-Origin / Groudon / Kyogre         |    1 |  50.00% |   0.00% |
+| 1    | Giratina-Origin / Ho-Oh / Kyogre           |    1 |  50.00% |   0.00% |
+| 1    | Ho-Oh / Groudon / Kyogre                   |    1 |  50.00% |   0.00% |
+| 1    | Ho-Oh / Groudon / Giratina-Origin          |    1 |  50.00% |   0.00% |
+
++ ---- + ----------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                           | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Forretress / Deoxys-Attack / Dialga / Kyogre          |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Kyogre / Arceus-*        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Rayquaza / Kyogre        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Arceus-Ground / Kyogre   |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Dialga / Arceus-*        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Dialga / Rayquaza        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Dialga / Arceus-Ground   |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Rayquaza / Arceus-*      |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Deoxys-Attack / Rayquaza / Arceus-Ground |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Kyogre / Arceus-*            |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Rayquaza / Kyogre            |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Arceus-Ground / Kyogre       |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Rayquaza / Kyogre / Arceus-*          |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Rayquaza / Arceus-Ground / Kyogre     |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Rayquaza / Arceus-*          |    1 |  50.00% | 100.00% |
+| 1    | Deoxys-Attack / Dialga / Rayquaza / Arceus-Ground     |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-* / Dialga / Kyogre               |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Dialga / Rayquaza / Kyogre               |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Dialga / Arceus-Ground / Kyogre          |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-* / Rayquaza / Kyogre             |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-Ground / Rayquaza / Kyogre        |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-* / Dialga / Rayquaza             |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Arceus-Ground / Dialga / Rayquaza        |    1 |  50.00% | 100.00% |
+| 1    | Arceus-* / Dialga / Rayquaza / Kyogre                 |    1 |  50.00% | 100.00% |
+| 1    | Arceus-Ground / Dialga / Rayquaza / Kyogre            |    1 |  50.00% | 100.00% |
+| 1    | Clefable / Dialga / Giratina-Origin / Kyogre          |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Groudon / Kyogre                  |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Kyogre / Ho-Oh                    |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Groudon / Giratina-Origin         |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Giratina-Origin / Ho-Oh           |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Dialga / Groudon / Ho-Oh                   |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Groudon / Giratina-Origin / Kyogre         |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Ho-Oh / Giratina-Origin / Kyogre           |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Groudon / Kyogre / Ho-Oh                   |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Groudon / Giratina-Origin / Ho-Oh          |    1 |  50.00% |   0.00% |
+| 1    | Giratina-Origin / Dialga / Groudon / Kyogre           |    1 |  50.00% |   0.00% |
+| 1    | Giratina-Origin / Dialga / Kyogre / Ho-Oh             |    1 |  50.00% |   0.00% |
+| 1    | Ho-Oh / Dialga / Groudon / Kyogre                     |    1 |  50.00% |   0.00% |
+| 1    | Ho-Oh / Dialga / Groudon / Giratina-Origin            |    1 |  50.00% |   0.00% |
+| 1    | Giratina-Origin / Groudon / Kyogre / Ho-Oh            |    1 |  50.00% |   0.00% |
+
++ ---- + -------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                                    | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Dialga / Deoxys-Attack / Arceus-* / Forretress / Kyogre        |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Deoxys-Attack / Forretress / Kyogre        |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Deoxys-Attack / Forretress / Arceus-Ground / Kyogre   |    1 |  50.00% | 100.00% |
+| 1    | Rayquaza / Deoxys-Attack / Arceus-* / Forretress / Kyogre      |    1 |  50.00% | 100.00% |
+| 1    | Rayquaza / Deoxys-Attack / Forretress / Arceus-Ground / Kyogre |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Deoxys-Attack / Arceus-* / Forretress      |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Deoxys-Attack / Forretress / Arceus-Ground |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Deoxys-Attack / Arceus-* / Kyogre          |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Deoxys-Attack / Arceus-Ground / Kyogre     |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Arceus-* / Forretress / Kyogre             |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Forretress / Arceus-Ground / Kyogre        |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Clefable / Giratina-Origin / Groudon / Kyogre         |    1 |  50.00% |   0.00% |
+| 1    | Dialga / Clefable / Giratina-Origin / Ho-Oh / Kyogre           |    1 |  50.00% |   0.00% |
+| 1    | Dialga / Clefable / Ho-Oh / Groudon / Kyogre                   |    1 |  50.00% |   0.00% |
+| 1    | Dialga / Clefable / Giratina-Origin / Ho-Oh / Groudon          |    1 |  50.00% |   0.00% |
+| 1    | Clefable / Giratina-Origin / Ho-Oh / Groudon / Kyogre          |    1 |  50.00% |   0.00% |
+| 1    | Dialga / Giratina-Origin / Ho-Oh / Groudon / Kyogre            |    1 |  50.00% |   0.00% |
+
++ ---- + ----------------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                             | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Dialga / Rayquaza / Deoxys-Attack / Arceus-* / Forretress / Kyogre      |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Rayquaza / Deoxys-Attack / Forretress / Arceus-Ground / Kyogre |    1 |  50.00% | 100.00% |
+| 1    | Dialga / Clefable / Giratina-Origin / Ho-Oh / Groudon / Kyogre          |    1 |  50.00% |   0.00% |
