@@ -1,0 +1,133 @@
++ ---- + -------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2          | Use  | Usage % |  Win %  |
++ ---- + -------------------- + ---- + ------- + ------- +
+| 1    | Jolteon / Lumineon   |    1 |  50.00% | 100.00% |
+| 1    | Jolteon / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Jolteon    |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Jolteon  |    1 |  50.00% | 100.00% |
+| 1    | Altaria / Jolteon    |    1 |  50.00% | 100.00% |
+| 1    | Lumineon / Muk       |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Lumineon   |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Lumineon |    1 |  50.00% | 100.00% |
+| 1    | Altaria / Lumineon   |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Muk      |    1 |  50.00% | 100.00% |
+| 1    | Altaria / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass  |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Altaria    |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Altaria  |    1 |  50.00% | 100.00% |
+| 1    | Roselia / Dusclops   |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Roselia  |    1 |  50.00% |   0.00% |
+| 1    | Roselia / Lapras     |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Roselia    |    1 |  50.00% |   0.00% |
+| 1    | Roselia / Monferno   |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Dusclops |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Dusclops    |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Dusclops   |    1 |  50.00% |   0.00% |
+| 1    | Monferno / Dusclops  |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Lapras   |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash  |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Monferno |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Lapras     |    1 |  50.00% |   0.00% |
+| 1    | Monferno / Lapras    |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Monferno   |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                     | Use  | Usage % |  Win %  |
++ ---- + ------------------------------- + ---- + ------- + ------- +
+| 1    | Jolteon / Lumineon / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Jolteon / Lumineon    |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Jolteon / Lumineon  |    1 |  50.00% | 100.00% |
+| 1    | Altaria / Jolteon / Lumineon    |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Jolteon / Muk         |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Jolteon / Muk       |    1 |  50.00% | 100.00% |
+| 1    | Altaria / Jolteon / Muk         |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Jolteon   |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Altaria / Jolteon     |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Altaria / Jolteon   |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Lumineon / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Lumineon / Muk      |    1 |  50.00% | 100.00% |
+| 1    | Altaria / Lumineon / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Lumineon  |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Altaria / Lumineon    |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Altaria / Lumineon  |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Muk       |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Altaria / Muk         |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Altaria / Muk       |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Altaria   |    1 |  50.00% | 100.00% |
+| 1    | Sandslash / Roselia / Dusclops  |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Roselia / Dusclops     |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Roselia / Dusclops    |    1 |  50.00% |   0.00% |
+| 1    | Roselia / Dusclops / Monferno   |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Roselia / Lapras    |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Roselia   |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Roselia / Monferno  |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Roselia / Lapras      |    1 |  50.00% |   0.00% |
+| 1    | Roselia / Lapras / Monferno     |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Roselia / Monferno    |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Sandslash / Dusclops   |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Dusclops  |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Monferno / Dusclops |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Dusclops / Purugly     |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Monferno / Dusclops    |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Monferno / Dusclops   |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Lapras    |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Monferno / Lapras   |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Monferno  |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Monferno / Lapras     |    1 |  50.00% |   0.00% |
+
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                               | Use  | Usage % |  Win %  |
++ ---- + ----------------------------------------- + ---- + ------- + ------- +
+| 1    | Purugly / Jolteon / Lumineon / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Jolteon / Lumineon / Muk      |    1 |  50.00% | 100.00% |
+| 1    | Altaria / Jolteon / Lumineon / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Jolteon / Lumineon  |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Altaria / Jolteon / Lumineon    |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Altaria / Jolteon / Lumineon  |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Jolteon / Muk       |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Altaria / Jolteon / Muk         |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Altaria / Jolteon / Muk       |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Altaria / Jolteon   |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Lumineon / Muk      |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Altaria / Lumineon / Muk        |    1 |  50.00% | 100.00% |
+| 1    | Probopass / Altaria / Lumineon / Muk      |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Altaria / Lumineon  |    1 |  50.00% | 100.00% |
+| 1    | Purugly / Probopass / Altaria / Muk       |    1 |  50.00% | 100.00% |
+| 1    | Lapras / Sandslash / Roselia / Dusclops   |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Roselia / Dusclops  |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Roselia / Dusclops / Monferno |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Roselia / Dusclops / Purugly     |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Roselia / Dusclops / Monferno    |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Roselia / Dusclops / Monferno   |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Roselia / Lapras    |    1 |  50.00% |   0.00% |
+| 1    | Sandslash / Roselia / Lapras / Monferno   |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Roselia / Monferno  |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Roselia / Lapras / Monferno     |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Sandslash / Dusclops / Purugly   |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Sandslash / Monferno / Dusclops  |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Monferno / Dusclops |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Monferno / Dusclops / Purugly    |    1 |  50.00% |   0.00% |
+| 1    | Purugly / Sandslash / Monferno / Lapras   |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                         | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Lumineon / Jolteon / Muk / Purugly / Probopass      |    1 |  50.00% | 100.00% |
+| 1    | Lumineon / Jolteon / Muk / Purugly / Altaria        |    1 |  50.00% | 100.00% |
+| 1    | Lumineon / Jolteon / Muk / Probopass / Altaria      |    1 |  50.00% | 100.00% |
+| 1    | Lumineon / Jolteon / Purugly / Probopass / Altaria  |    1 |  50.00% | 100.00% |
+| 1    | Jolteon / Muk / Purugly / Probopass / Altaria       |    1 |  50.00% | 100.00% |
+| 1    | Lumineon / Muk / Purugly / Probopass / Altaria      |    1 |  50.00% | 100.00% |
+| 1    | Lapras / Dusclops / Purugly / Sandslash / Roselia   |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Dusclops / Monferno / Sandslash / Roselia  |    1 |  50.00% |   0.00% |
+| 1    | Dusclops / Monferno / Purugly / Sandslash / Roselia |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Dusclops / Monferno / Purugly / Roselia    |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Monferno / Purugly / Sandslash / Roselia   |    1 |  50.00% |   0.00% |
+| 1    | Lapras / Dusclops / Purugly / Sandslash / Monferno  |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                  | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Lumineon / Jolteon / Muk / Purugly / Probopass / Altaria     |    1 |  50.00% | 100.00% |
+| 1    | Lapras / Dusclops / Monferno / Purugly / Sandslash / Roselia |    1 |  50.00% |   0.00% |
