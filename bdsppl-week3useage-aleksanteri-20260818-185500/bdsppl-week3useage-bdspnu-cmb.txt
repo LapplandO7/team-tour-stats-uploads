@@ -1,0 +1,133 @@
++ ---- + --------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2           | Use  | Usage % |  Win %  |
++ ---- + --------------------- + ---- + ------- + ------- +
+| 1    | Glaceon / Abomasnow   |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Abomasnow   |    1 |  50.00% | 100.00% |
+| 1    | Abomasnow / Dusknoir  |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Abomasnow |    1 |  50.00% | 100.00% |
+| 1    | Gligar / Abomasnow    |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Miltank     |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Poliwrath   |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Gligar      |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Poliwrath   |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Gligar      |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Dusknoir  |    1 |  50.00% | 100.00% |
+| 1    | Gligar / Dusknoir     |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Gligar    |    1 |  50.00% | 100.00% |
+| 1    | Porygon2 / Leafeon    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Sneasel    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Gligar     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock   |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Lanturn    |    1 |  50.00% |   0.00% |
+| 1    | Sneasel / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Gligar / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Leafeon    |    1 |  50.00% |   0.00% |
+| 1    | Lanturn / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Gligar / Sneasel      |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Sneasel    |    1 |  50.00% |   0.00% |
+| 1    | Sneasel / Lanturn     |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Gligar     |    1 |  50.00% |   0.00% |
+| 1    | Gligar / Lanturn      |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Lanturn    |    1 |  50.00% |   0.00% |
+
++ ---- + -------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                      | Use  | Usage % |  Win %  |
++ ---- + -------------------------------- + ---- + ------- + ------- +
+| 1    | Glaceon / Miltank / Abomasnow    |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Abomasnow / Dusknoir   |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Poliwrath / Abomasnow  |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Gligar / Abomasnow     |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Abomasnow / Dusknoir   |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Poliwrath / Abomasnow  |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Gligar / Abomasnow     |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Abomasnow / Dusknoir |    1 |  50.00% | 100.00% |
+| 1    | Gligar / Abomasnow / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Abomasnow / Gligar   |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Miltank / Dusknoir     |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Glaceon / Miltank    |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Miltank / Gligar       |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Poliwrath / Dusknoir   |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Gligar / Dusknoir      |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Poliwrath / Gligar     |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Poliwrath / Dusknoir   |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Gligar / Dusknoir      |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Poliwrath / Gligar     |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Gligar / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Porygon2 / Sneasel / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Gligar / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Leafeon    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Lanturn / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Gligar / Sneasel      |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Sneasel    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Sneasel / Lanturn     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Gligar     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Gligar / Lanturn      |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Lanturn    |    1 |  50.00% |   0.00% |
+| 1    | Gligar / Sneasel / Leafeon       |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Sneasel / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Sneasel / Lanturn / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Gligar / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Gligar / Lanturn / Leafeon       |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Lanturn / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Gligar / Sneasel      |    1 |  50.00% |   0.00% |
+| 1    | Gligar / Sneasel / Lanturn       |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Sneasel / Lanturn     |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Gligar / Lanturn      |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 4                                | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------ + ---- + ------- + ------- +
+| 1    | Glaceon / Miltank / Abomasnow / Dusknoir   |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Glaceon / Miltank / Abomasnow  |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Miltank / Abomasnow / Gligar     |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Poliwrath / Abomasnow / Dusknoir |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Gligar / Abomasnow / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Poliwrath / Abomasnow / Gligar   |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Poliwrath / Abomasnow / Dusknoir |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Gligar / Abomasnow / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Poliwrath / Abomasnow / Gligar   |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Abomasnow / Gligar / Dusknoir  |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Glaceon / Miltank / Dusknoir   |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Miltank / Gligar / Dusknoir      |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Glaceon / Miltank / Gligar     |    1 |  50.00% | 100.00% |
+| 1    | Glaceon / Poliwrath / Gligar / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Miltank / Poliwrath / Gligar / Dusknoir    |    1 |  50.00% | 100.00% |
+| 1    | Porygon2 / Gligar / Sneasel / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Sneasel / Leafeon    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Sneasel / Lanturn / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Gligar / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Gligar / Lanturn / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Lanturn / Leafeon    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Gligar / Sneasel     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Gligar / Sneasel / Lanturn      |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Sneasel / Lanturn    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Regirock / Gligar / Lanturn     |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Gligar / Sneasel / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Gligar / Sneasel / Lanturn / Leafeon       |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Sneasel / Lanturn / Leafeon     |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Gligar / Lanturn / Leafeon      |    1 |  50.00% |   0.00% |
+| 1    | Regirock / Gligar / Sneasel / Lanturn      |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                          | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Poliwrath / Abomasnow / Glaceon / Dusknoir / Miltank |    1 |  50.00% | 100.00% |
+| 1    | Abomasnow / Glaceon / Gligar / Dusknoir / Miltank    |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Abomasnow / Glaceon / Gligar / Miltank   |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Abomasnow / Glaceon / Gligar / Dusknoir  |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Abomasnow / Gligar / Dusknoir / Miltank  |    1 |  50.00% | 100.00% |
+| 1    | Poliwrath / Glaceon / Gligar / Dusknoir / Miltank    |    1 |  50.00% | 100.00% |
+| 1    | Porygon2 / Leafeon / Gligar / Regirock / Sneasel     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Leafeon / Gligar / Lanturn / Sneasel      |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Leafeon / Lanturn / Regirock / Sneasel    |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Leafeon / Gligar / Lanturn / Regirock     |    1 |  50.00% |   0.00% |
+| 1    | Porygon2 / Gligar / Lanturn / Regirock / Sneasel     |    1 |  50.00% |   0.00% |
+| 1    | Leafeon / Gligar / Lanturn / Regirock / Sneasel      |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                   | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Poliwrath / Abomasnow / Glaceon / Gligar / Dusknoir / Miltank |    1 |  50.00% | 100.00% |
+| 1    | Porygon2 / Leafeon / Gligar / Lanturn / Regirock / Sneasel    |    1 |  50.00% |   0.00% |
