@@ -1,0 +1,133 @@
++ ---- + ----------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2             | Use  | Usage % |  Win %  |
++ ---- + ----------------------- + ---- + ------- + ------- +
+| 1    | Forretress / Rotom-Heat |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat     |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Swampert   |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Snorlax    |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Shaymin    |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Rotom-Heat     |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Heat / Swampert   |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Rotom-Heat    |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Heat / Shaymin    |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Swampert       |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Snorlax        |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Shaymin        |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Swampert      |    1 |  50.00% | 100.00% |
+| 1    | Swampert / Shaymin      |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Shaymin       |    1 |  50.00% | 100.00% |
+| 1    | Exploud / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud        |    1 |  50.00% |   0.00% |
+| 1    | Exploud / Gastrodon     |    1 |  50.00% |   0.00% |
+| 1    | Exploud / Machamp       |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Exploud        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Empoleon       |    1 |  50.00% |   0.00% |
+| 1    | Gastrodon / Empoleon    |    1 |  50.00% |   0.00% |
+| 1    | Machamp / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Empoleon       |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Gastrodon      |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Machamp        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Flygon         |    1 |  50.00% |   0.00% |
+| 1    | Machamp / Gastrodon     |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Gastrodon      |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Machamp        |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Forretress / Crobat / Rotom-Heat   |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Rotom-Heat / Swampert |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Snorlax / Rotom-Heat  |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Rotom-Heat / Shaymin  |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Swampert     |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Snorlax      |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Shaymin      |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Snorlax / Swampert    |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Swampert / Shaymin    |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Snorlax / Shaymin     |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Rotom-Heat / Swampert     |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Rotom-Heat / Snorlax      |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Rotom-Heat / Shaymin      |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Rotom-Heat / Swampert    |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Heat / Swampert / Shaymin    |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Rotom-Heat / Shaymin     |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Swampert / Snorlax        |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Swampert / Shaymin        |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Snorlax / Shaymin         |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Swampert / Shaymin       |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Exploud / Empoleon        |    1 |  50.00% |   0.00% |
+| 1    | Exploud / Gastrodon / Empoleon     |    1 |  50.00% |   0.00% |
+| 1    | Exploud / Machamp / Empoleon       |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Exploud / Empoleon        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud / Gastrodon       |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud / Machamp         |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud / Flygon          |    1 |  50.00% |   0.00% |
+| 1    | Exploud / Machamp / Gastrodon      |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Exploud / Gastrodon       |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Exploud / Machamp         |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Gastrodon / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Machamp / Empoleon        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Flygon / Empoleon         |    1 |  50.00% |   0.00% |
+| 1    | Machamp / Gastrodon / Empoleon     |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Gastrodon / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Machamp / Empoleon        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Machamp / Gastrodon       |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Flygon / Gastrodon        |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Crobat / Machamp          |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Machamp / Gastrodon       |    1 |  50.00% |   0.00% |
+
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                  | Use  | Usage % |  Win %  |
++ ---- + -------------------------------------------- + ---- + ------- + ------- +
+| 1    | Forretress / Crobat / Rotom-Heat / Swampert  |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Rotom-Heat / Snorlax   |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Rotom-Heat / Shaymin   |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Snorlax / Rotom-Heat / Swampert |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Rotom-Heat / Swampert / Shaymin |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Snorlax / Rotom-Heat / Shaymin  |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Swampert / Snorlax     |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Swampert / Shaymin     |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Crobat / Snorlax / Shaymin      |    1 |  50.00% | 100.00% |
+| 1    | Forretress / Snorlax / Swampert / Shaymin    |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Rotom-Heat / Swampert / Snorlax     |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Rotom-Heat / Swampert / Shaymin     |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Rotom-Heat / Snorlax / Shaymin      |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Rotom-Heat / Swampert / Shaymin    |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Swampert / Snorlax / Shaymin        |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Exploud / Gastrodon / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud / Machamp / Empoleon        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud / Flygon / Empoleon         |    1 |  50.00% |   0.00% |
+| 1    | Exploud / Machamp / Gastrodon / Empoleon     |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Exploud / Gastrodon / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Exploud / Machamp / Empoleon        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud / Machamp / Gastrodon       |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Exploud / Flygon / Gastrodon        |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Crobat / Exploud / Machamp          |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Exploud / Machamp / Gastrodon       |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Machamp / Gastrodon / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Crobat / Gastrodon / Empoleon       |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Crobat / Machamp / Empoleon         |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Machamp / Gastrodon / Empoleon      |    1 |  50.00% |   0.00% |
+| 1    | Flygon / Crobat / Machamp / Gastrodon        |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 5                                            | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Crobat / Snorlax / Forretress / Rotom-Heat / Swampert  |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Shaymin / Forretress / Rotom-Heat / Swampert  |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Snorlax / Shaymin / Forretress / Rotom-Heat   |    1 |  50.00% | 100.00% |
+| 1    | Snorlax / Shaymin / Forretress / Rotom-Heat / Swampert |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Snorlax / Shaymin / Forretress / Swampert     |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Snorlax / Shaymin / Rotom-Heat / Swampert     |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Machamp / Empoleon / Exploud / Gastrodon      |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Empoleon / Exploud / Gastrodon / Flygon       |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Machamp / Empoleon / Exploud / Flygon         |    1 |  50.00% |   0.00% |
+| 1    | Machamp / Empoleon / Exploud / Gastrodon / Flygon      |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Machamp / Exploud / Gastrodon / Flygon        |    1 |  50.00% |   0.00% |
+| 1    | Crobat / Machamp / Empoleon / Gastrodon / Flygon       |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 6                                                     | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Crobat / Snorlax / Shaymin / Forretress / Rotom-Heat / Swampert |    1 |  50.00% | 100.00% |
+| 1    | Crobat / Machamp / Empoleon / Exploud / Gastrodon / Flygon      |    1 |  50.00% |   0.00% |
