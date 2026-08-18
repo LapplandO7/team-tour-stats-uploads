@@ -1,0 +1,133 @@
++ ---- + ---------------------- + ---- + ------- + ------- +
+| Rank | Combos of 2            | Use  | Usage % |  Win %  |
++ ---- + ---------------------- + ---- + ------- + ------- +
+| 1    | Scizor / Abomasnow     |    1 |  50.00% | 100.00% |
+| 1    | Abomasnow / Dragonite  |    1 |  50.00% | 100.00% |
+| 1    | Metagross / Abomasnow  |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Abomasnow |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Abomasnow   |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Dragonite     |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Metagross     |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash    |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp      |    1 |  50.00% | 100.00% |
+| 1    | Metagross / Dragonite  |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Dragonite |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Dragonite   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Metagross |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Metagross   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Garchomp  |    1 |  50.00% | 100.00% |
+| 1    | Azumarill / Latias     |    1 |  50.00% |   0.00% |
+| 1    | Magnezone / Latias     |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Latias        |    1 |  50.00% |   0.00% |
+| 1    | Gliscor / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Latias     |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Magnezone  |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill     |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Gliscor    |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Infernape  |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Magnezone     |    1 |  50.00% |   0.00% |
+| 1    | Magnezone / Gliscor    |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Magnezone  |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Gliscor       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Infernape     |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Gliscor    |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 3                        | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------- + ---- + ------- + ------- +
+| 1    | Scizor / Abomasnow / Dragonite     |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Metagross / Abomasnow     |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Abomasnow    |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp / Abomasnow      |    1 |  50.00% | 100.00% |
+| 1    | Metagross / Abomasnow / Dragonite  |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Abomasnow / Dragonite |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Abomasnow / Dragonite   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Metagross / Abomasnow |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Metagross / Abomasnow   |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Abomasnow / Garchomp  |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Metagross / Dragonite     |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Dragonite    |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp / Dragonite      |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp / Metagross      |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Garchomp     |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Metagross / Dragonite |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Metagross / Dragonite   |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Rotom-Wash / Dragonite  |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Metagross / Garchomp  |    1 |  50.00% | 100.00% |
+| 1    | Azumarill / Magnezone / Latias     |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Latias        |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Gliscor / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Infernape / Latias     |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Magnezone / Latias        |    1 |  50.00% |   0.00% |
+| 1    | Magnezone / Gliscor / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Magnezone / Latias     |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Gliscor / Latias          |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Infernape / Latias        |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Gliscor / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Magnezone     |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Magnezone / Gliscor    |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Infernape / Magnezone  |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Gliscor       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Infernape     |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Infernape / Gliscor    |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Magnezone / Gliscor       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Infernape / Magnezone     |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Magnezone / Gliscor    |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Infernape / Gliscor       |    1 |  50.00% |   0.00% |
+
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 4                                    | Use  | Usage % |  Win %  |
++ ---- + ---------------------------------------------- + ---- + ------- + ------- +
+| 1    | Scizor / Metagross / Abomasnow / Dragonite     |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Abomasnow / Dragonite    |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp / Abomasnow / Dragonite      |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Metagross / Abomasnow    |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp / Metagross / Abomasnow      |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Abomasnow / Garchomp     |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Metagross / Abomasnow / Dragonite |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Metagross / Abomasnow / Dragonite   |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Rotom-Wash / Abomasnow / Dragonite  |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Metagross / Abomasnow / Garchomp  |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Metagross / Dragonite    |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp / Metagross / Dragonite      |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Garchomp / Rotom-Wash / Dragonite     |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Rotom-Wash / Metagross / Garchomp     |    1 |  50.00% | 100.00% |
+| 1    | Garchomp / Rotom-Wash / Metagross / Dragonite  |    1 |  50.00% | 100.00% |
+| 1    | Scizor / Azumarill / Magnezone / Latias        |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Magnezone / Gliscor / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Infernape / Magnezone / Latias     |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Gliscor / Latias          |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Infernape / Latias        |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Infernape / Gliscor / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Magnezone / Gliscor / Latias          |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Infernape / Magnezone / Latias        |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Magnezone / Gliscor / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Infernape / Gliscor / Latias          |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Magnezone / Gliscor       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Infernape / Magnezone     |    1 |  50.00% |   0.00% |
+| 1    | Azumarill / Infernape / Magnezone / Gliscor    |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Azumarill / Infernape / Gliscor       |    1 |  50.00% |   0.00% |
+| 1    | Scizor / Infernape / Magnezone / Gliscor       |    1 |  50.00% |   0.00% |
+
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| Rank | Combos of 5                                               | Use  | Usage % |  Win %  |
++ ---- + --------------------------------------------------------- + ---- + ------- + ------- +
+| 1    | Abomasnow / Rotom-Wash / Scizor / Metagross / Dragonite   |    1 |  50.00% | 100.00% |
+| 1    | Abomasnow / Scizor / Garchomp / Metagross / Dragonite     |    1 |  50.00% | 100.00% |
+| 1    | Abomasnow / Rotom-Wash / Scizor / Garchomp / Dragonite    |    1 |  50.00% | 100.00% |
+| 1    | Abomasnow / Rotom-Wash / Scizor / Garchomp / Metagross    |    1 |  50.00% | 100.00% |
+| 1    | Abomasnow / Rotom-Wash / Garchomp / Metagross / Dragonite |    1 |  50.00% | 100.00% |
+| 1    | Rotom-Wash / Scizor / Garchomp / Metagross / Dragonite    |    1 |  50.00% | 100.00% |
+| 1    | Gliscor / Scizor / Azumarill / Magnezone / Latias         |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Scizor / Azumarill / Magnezone / Latias       |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Gliscor / Azumarill / Magnezone / Latias      |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Gliscor / Scizor / Azumarill / Latias         |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Gliscor / Scizor / Magnezone / Latias         |    1 |  50.00% |   0.00% |
+| 1    | Infernape / Gliscor / Scizor / Azumarill / Magnezone      |    1 |  50.00% |   0.00% |
+
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| Rank | Combos of 6                                                        | Use  | Usage % |  Win %  |
++ ---- + ------------------------------------------------------------------ + ---- + ------- + ------- +
+| 1    | Abomasnow / Rotom-Wash / Scizor / Garchomp / Metagross / Dragonite |    1 |  50.00% | 100.00% |
+| 1    | Infernape / Gliscor / Scizor / Azumarill / Magnezone / Latias      |    1 |  50.00% |   0.00% |
